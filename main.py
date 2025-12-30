@@ -58,20 +58,43 @@ def save_history(data):
 
 def generate_rss(papers):
     fg = FeedGenerator()
+    
+    # 1. Define the Feed ID and Title
     fg.id('https://github.com/astro-digest')
     fg.title('Astrobiology AI Digest')
-    fg.description('Daily filtered papers on Origins of Life')
+    fg.description('Hourly AI-curated papers on Origins of Life')
+    
+    # 2. Link to the "Human Readable" page (your Repo)
+    # (Optional: Replace with your actual repo URL if you want)
     fg.link(href='https://github.com', rel='alternate')
-
+    
+    # 3. *** THE FIX *** # Link to the "Feed Itself". Feedly requires this to be accurate.
+    # REPLACE THESE VALUES:
+    username = "champagnealexandre" 
+    repo_name = "ooldigest"      
+    
+    feed_url = f'https://{username}.github.io/{repo_name}/feed.xml'
+    fg.link(href=feed_url, rel='self')
+    
+    # 4. Add Entries
     for p in papers:
         fe = fg.add_entry()
         fe.id(p['link'])
-        fe.title(f"[{p['score']}] {p['title']}")
+        # Title format: [Score] [Category] Title
+        fe.title(f"[{p['score']}] [{p['category']}] {p['title']}")
         fe.link(href=p['link'])
-        # Description includes the AI summary + original abstract
-        fe.description(f"<b>AI Summary:</b> {p['summary']}<br><br><b>Abstract:</b> {p['abstract']}")
+        
+        description = f"""
+        <p><b>Score:</b> {p['score']}/100 | <b>Category:</b> {p['category']}</p>
+        <p><b>AI Summary:</b> {p['summary']}</p>
+        <hr/>
+        <p><b>Abstract:</b> {p['abstract']}</p>
+        <p><a href="{p['link']}">Read Full Paper</a></p>
+        """
+        fe.description(description)
         fe.pubDate(p['published'])
 
+    # 5. Generate the file
     fg.rss_file(FEED_FILE)
 
 def main():
