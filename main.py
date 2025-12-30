@@ -11,7 +11,6 @@ from urllib.parse import urlparse
 
 # --- Configuration ---
 RSS_URL = os.getenv("RSS_URL") 
-# SWITCHED TO OPENROUTER KEY
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 HISTORY_FILE = "paper_history.json"
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
@@ -22,8 +21,8 @@ FEED_URL = f"{BASE_URL}/feed.xml"
 # 1: Google Gemini Flash 1.5 (Fastest, High Context, Very Cheap)
 # 2: OpenAI GPT-4o Mini (Standard "Light" Model)
 # 3: Google Gemini Pro 1.5 (High Reasoning, Large Context)
-# 4: OpenAI GPT-4o (Flagship, Best Instruction Following) - RECOMMENDED
-MODEL_TIER = 4 
+# 4: OpenAI GPT-4o (Flagship, Best Instruction Following)
+MODEL_TIER = 2  # <--- CHANGED TO MINI
 
 MODEL_MAP = {
     1: "google/gemini-flash-1.5",
@@ -32,7 +31,7 @@ MODEL_MAP = {
     4: "openai/gpt-4o"
 }
 
-PRIMARY_MODEL = MODEL_MAP.get(MODEL_TIER, "openai/gpt-4o")
+PRIMARY_MODEL = MODEL_MAP.get(MODEL_TIER, "openai/gpt-4o-mini")
 
 # --- TOGGLES ---
 SHADOW_MODE = False        
