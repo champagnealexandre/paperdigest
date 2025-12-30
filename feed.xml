@@ -4,27 +4,47 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T17:16:28.644943+00:00</updated>
+  <updated>2025-12-30T17:28:29.273137+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[60] [KEYWORDS-OOL] [biochemistry - biorXiv Preprints] Biochemical and structural characterization of the RlaP family nucleotidyltransferase potentially involved in RNA repair</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1</id>
+    <updated>2025-12-30T13:19:54+00:00</updated>
+    <summary>The paper explores the RlaP family nucleotidyltransferase&#x27;s role in RNA repair, relevant to the origins of life through its focus on RNA and nucleic acid processes.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; biochemistry - biorXiv Preprints&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores the RlaP family nucleotidyltransferase&amp;#x27;s role in RNA repair, relevant to the origins of life through its focus on RNA and nucleic acid processes.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Nucleotidyltransferases (NTases) of Pol{beta} superfamily are highly diverse and play many important biological functions. However, many families of NTases remain uncharacterized. Because of physical proximity of the genes encoding NTases of PF10127 family to those encoding RNA ligases involved in RNA repair, PF10127 family of NTases was named RlaP (RNA ligase-associating Pol{beta}). Here we report comprehensive characterization of two RlaP from Pseudomonas fluorescens and Pseudomonas aeruginosa (PfRlaP and PaRlaP), respectively. Our study showed that, among macromolecules isolated from E. coli cells, only RNAs are the substrates of RlaP. In vitro assays employing synthetic RNAs as substrates demonstrated that RlaP catalyzes addition of one or two nucleotide monophosphate (NMP) to the 3&amp;#x27;-hydroxyl group of RNAs, with the damaged RNAs as the preferred substrates. The crystal structure of PfRlaP provided insight into molecular recognition of RNA substrate and nucleotide triphosphate (NTP) by RlaP. Aminoacylation assays indicate that RlaP is required to restore biological function of the repaired tRNAs that have suffered excessive damage. Based on our studies, we propose an in vivo scenario where cell survival requires the involvement of RlaP in RNA repair to restore the biological function of the damaged RNAs.
+        
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1&quot;&gt;Read Press Release&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[90] [KEYWORDS-ASTROBIOLOGY] [Astrobiology] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
     <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
     <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
     <updated>2025-12-29T18:35:40+00:00</updated>
-    <summary>The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and mentions key concepts like electron transfer and ancient proteins.</summary>
+    <summary>The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and includes keywords like astrobiology, evolution, and origins of life, making it highly relevant to the field.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 90/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and mentions key concepts like electron transfer and ancient proteins.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and includes keywords like astrobiology, evolution, and origins of life, making it highly relevant to the field.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron–sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient […] The post Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold appeared first on Astrobiology .
-        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Possible Paper Links:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pubs.acs.org/doi/10.1021/jacsau.5c00863&quot;&gt;[Full Paper] https://pubs.acs.org/doi/10.1021/jacsau.5c00863&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC12648291/&quot;&gt;[PubMed/NCBI] https://pmc.ncbi.nlm.nih.gov/articles/PMC12648291/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
         &lt;br/&gt;&lt;br/&gt;
-        &lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;Read Full Article (Source)&lt;/a&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;Read Press Release&lt;/a&gt;
         </content>
   </entry>
 </feed>
