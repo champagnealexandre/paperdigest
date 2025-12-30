@@ -4,9 +4,49 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/public/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T22:27:18.449983+00:00</updated>
+  <updated>2025-12-30T23:25:53.796548+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/public/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[75] [KEYWORDS-OOL] [biophysics - biorXiv Preprints] Structural basis for hydrolytic splicing of a circularly permuted group II intron</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1</id>
+    <updated>2025-12-30T22:34:31+00:00</updated>
+    <summary>Cryo-EM structures of a circularly permuted group II intron reveal how active-site rearrangements switch self-splicing from branching to a water-driven hydrolysis pathway, informing ribozyme evolution and RNA-world-relevant catalysis mechanisms.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; biophysics - biorXiv Preprints&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 75/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Cryo-EM structures of a circularly permuted group II intron reveal how active-site rearrangements switch self-splicing from branching to a water-driven hydrolysis pathway, informing ribozyme evolution and RNA-world-relevant catalysis mechanisms.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Group II introns are self-splicing ribozymes that are considered the ancestors of the eukaryotic spliceosome. Unlike canonical group II introns that self-splice to generate linear exons and lariats, circularly permuted (CP) group II introns identified in various bacterial phyla perform back-splicing, resulting in the production of circular RNAs and branched products via branching pathway. Furthermore, CP introns may switch to a hydrolysis pathway resulting in distinct products to differentially regulate gene expression. In this study, we present biochemical data and high-resolution cryogenic electron microscopy (cryo-EM) structures of a CP group II intron from Comamonas testosteroni KF-1 (Cte 1), allowing mechanistic dissection of the branching pathway switch to the hydrolysis pathway and enabling reconstruction of both both steps of the hydrolysis pathway. The structures reveal that CP undergoes the hydrolysis pathway upon mutations of the branch point or splice sites (SS) due to rearrangements in the active site. Here, the branching nucleotide in domain D6 is retracted from its catalytically competent conformation, giving way to the nucleophilic water molecule to attack the 5&amp;#x27; splice site. Furthermore, we visualized the intermediates of the second splicing step, which reveal the movement of domain D6 out of the way for the 3&amp;#x27;-splicing to occur, closely resembling the second-step structures of the branching pathway. Finally, our structures provide direct evidence for domains D1D2D3 acting as a scaffold in group II introns.Together, these findings visualize the complete hydrolysis pathway and offer a new strategy to engineer CP introns for circular RNA production, with potential applications in both basic research and therapeutic development.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[0] [KEYWORDS-ASTROBIOLOGY] [Radio-Canada | Nouvelles] Les recherches reprennent pour retrouver le vol MH370, 11 ans après sa disparition</title>
+    <link href="https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines"/>
+    <id>https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines</id>
+    <updated>2025-12-30T22:39:00+00:00</updated>
+    <summary>News about the renewed search for the missing MH370 flight, with no connection to origins-of-life, astrobiology, or prebiotic chemistry.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Radio-Canada | Nouvelles&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; News about the renewed search for the missing MH370 flight, with no connection to origins-of-life, astrobiology, or prebiotic chemistry.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        L&amp;#x27;avion a disparu des radars le 8 mars 2014 alors qu’il effectuait la liaison entre Kuala Lumpur et Pékin.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[0] [KEYWORDS-OOL] [The New York Times] Book Review: ‘Saving Time,’ by Jenny Odell</title>
