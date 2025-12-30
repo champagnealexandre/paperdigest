@@ -4,7 +4,7 @@
 
 **testing workflow**
 - delete history
-- cancel deploy started right after committing
+- ~cancel deploy started right after committing~ deploy now runs only after python script (with option to deploy only)
 - unfollow feed then follow again adding `?v=XXX`
 
 *here’s a dummy edit*
