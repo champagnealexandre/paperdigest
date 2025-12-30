@@ -2,23 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Astrobiology AI Digest</title>
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
-  <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
+  <link href="https://alexandrechampagne.io/ooldigest/public/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T19:21:54.800806+00:00</updated>
-  <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
+  <updated>2025-12-30T19:36:49.706576+00:00</updated>
+  <id>https://alexandrechampagne.io/ooldigest/public/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[70] [KEYWORDS-OOL] [Astrobiology] Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life</title>
+    <link href="https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html"/>
+    <id>https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html</id>
+    <updated>2025-12-30T19:35:02+00:00</updated>
+    <summary>The paper presents a comparative analysis of redox properties in interstellar compounds and human nutrients, highlighting a potential universal chemical constraint for life, making it highly relevant to the origins of life field.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper presents a comparative analysis of redox properties in interstellar compounds and human nutrients, highlighting a potential universal chemical constraint for life, making it highly relevant to the origins of life field.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Comparative analysis of redox properties across three chemically distinct datasets—interstellar compounds, human nutritional molecules, and &amp;gt;40 million substances in the PubChem database—reveals a striking and highly non-random pattern. Interstellar molecules and human nutrients exhibit nearly identical proportions of prooxidant, proreductant, and amphoteric species. In contrast, the PubChem chemical space is overwhelmingly dominated by amphoteric molecules […] The post Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pubchem.ncbi.nlm.nih.gov/&quot;&gt;[PubMed/NCBI] https://pubchem.ncbi.nlm.nih.gov/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[45] [KEYWORDS-OOL] [bioRxiv Subject Collection: Evolutionary Biology] Characterization of Z-DNA dynamics across the tree of life</title>
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1</id>
     <updated>2025-12-30T17:28:22+00:00</updated>
-    <summary>The paper provides valuable insights into the dynamics of Z-DNA across various life forms, contributing to our understanding of nucleic acid roles in evolution and potentially linking to origins of life concepts.</summary>
+    <summary>The paper provides significant insights into the dynamics of Z-DNA across various life forms, which is relevant to the origins of life, but lacks direct connections to astrobiology or exoplanet studies.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; bioRxiv Subject Collection: Evolutionary Biology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper provides valuable insights into the dynamics of Z-DNA across various life forms, contributing to our understanding of nucleic acid roles in evolution and potentially linking to origins of life concepts.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper provides significant insights into the dynamics of Z-DNA across various life forms, which is relevant to the origins of life, but lacks direct connections to astrobiology or exoplanet studies.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Z-DNA/Z-RNA is an alternative left-handed nucleic acid conformation with established and emerging roles in gene regulation, immunity, and genome instability. However, its occurrence dynamics and lineage specificity across the tree of life have not yet been fully characterized. Utilizing the recently developed and improved Z-DNA searching tool, ZSeeker, we analyzed 281,139 complete organismal genomes, including multiple Telomere-to-Telomere genome assemblies, and generated genome-wide Z-nucleic acid maps, examined their topography, and compared them to dinucleotide-preserving controls. Cellular genomes featured pervasive Z-DNA enrichment relative to expectation, with enrichments of ~1.5 and ~1.7-fold in Bacteria and Archaea and ~3-fold in Eukaryota. In contrast, Viruses exhibited large differences between lineages, with modest enrichment in several DNA viral groups and pronounced depletion across RNA clades, most notably Influenza A/B strains. We built a LASSO regression model trained on non-Influenza viruses (cross-validated R2 {approx} 0.73), which identified GC content, genome type, and host type as the leading predictors for Z-nucleic acid density, yet it significantly over-predicted Z-RNA density in Influenza A/B. More than 99% of assemblies exceeded the +2 SD threshold, and a &amp;quot;typical Influenza&amp;quot; genome was predicted at 2.76 bp/kb compared to ~0.016 bp/kb observed (a ~170-fold overestimation based on chance alone). Together, these results reveal domain- and lineage-specific regimes: cellular genomes are enriched for Z-DNA consistent with regulatory roles, whereas influenza viruses appear to have undergone strong, lineage-specific depletion of Z-RNA-forming sequences, likely reflecting evolutionary pressure tied to host sensing pathways.
@@ -33,12 +53,12 @@
     <link href="https://elifesciences.org/articles/108922"/>
     <id>https://elifesciences.org/articles/108922</id>
     <updated>2025-12-30T17:17:50+00:00</updated>
-    <summary>The paper explores the evolution of ribonucleoprotein complexes in viral assembly, providing insights into RNA condensation and stability, which are relevant to the origins of life.</summary>
+    <summary>The paper explores the evolution of a ribonucleoprotein complex in viral assembly, providing insights into RNA condensation and stability, which are relevant to the origins of life.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; eLife - recent issues&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores the evolution of ribonucleoprotein complexes in viral assembly, providing insights into RNA condensation and stability, which are relevant to the origins of life.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores the evolution of a ribonucleoprotein complex in viral assembly, providing insights into RNA condensation and stability, which are relevant to the origins of life.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Previously, we showed that the genetic diversity of SARS-CoV-2 nucleocapsid (N) protein explores a wide range of biophysical properties facilitated by non-local impact of point mutations to its intrinsically disordered regions (Nguyen et al., 2024). This includes modulation of self-association, such as the creation of a de novo binding interface through the P13L mutation characteristic of Omicron variants. In the present work, we focus on the key function of N condensing viral RNA into ribonucleoprotein particles (RNPs) for viral assembly. Lacking high-resolution structural information, biochemical and biophysical approaches have revealed architectural principles of RNPs, which involve cooperative interactions of several protein-protein and protein-RNA interfaces, initiated through oligomerization of conserved transient helices in the central disordered linker of N. Here, we study the impact of defining N-protein mutations in variants of concern on RNP formation, using biophysical tools, a virus-like particle assay, and reverse genetics experiments. We find convergent evolution in repeated, independent introduction of amino acid substitutions strengthening existing binding interfaces, compensating for other substitutions that promote viral replication but decrease RNP stability. Furthermore, we show that the P13L mutation of Omicron variants enhances RNP assembly and increases viral fitness. Overall, our data reveal RNP complexes to be highly variable not only in sequence and conformations but also in thermodynamic and kinetic stability, with its pleomorphism affecting basic architectural principles. We hypothesize that the formation of polydisperse, fuzzy N-RNA clusters with multiple distributed weak binding interfaces optimizes reversible RNA condensation, while supporting host adaptation and allowing for a large sequence space to be explored.
@@ -49,22 +69,22 @@
   </entry>
 
   <entry>
-    <title>[40] [KEYWORDS-ASTROBIOLOGY] [Astrobiology] Stardust Study Resets How Life’s Atoms Spread Through Space</title>
-    <link href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"/>
-    <id>https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html</id>
-    <updated>2025-12-29T19:34:52+00:00</updated>
-    <summary>The paper discusses the transport of life&#x27;s building blocks through space, which is relevant to the origins of life, but lacks a direct focus on key aspects like chirality or prebiotic chemistry.</summary>
+    <title>[40] [KEYWORDS-ASTROBIOLOGY] [astro-ph.EP updates on arXiv.org] Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222</title>
+    <link href="https://arxiv.org/abs/2512.23652"/>
+    <id>https://arxiv.org/abs/2512.23652</id>
+    <updated>2025-12-30T05:26:23+00:00</updated>
+    <summary>The paper provides valuable insights into the habitability and orbital stability of Sun-like binary systems, which is relevant to the origins of life field, but lacks direct focus on the mechanisms of abiogenesis or specific biosignatures.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
-        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; astro-ph.EP updates on arXiv.org&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 40/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the transport of life&amp;#x27;s building blocks through space, which is relevant to the origins of life, but lacks a direct focus on key aspects like chirality or prebiotic chemistry.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper provides valuable insights into the habitability and orbital stability of Sun-like binary systems, which is relevant to the origins of life field, but lacks direct focus on the mechanisms of abiogenesis or specific biosignatures.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        Starlight and stardust are not enough to drive the powerful winds of giant stars, transporting the building blocks of life through our galaxy. That’s the conclusion of a new study from Chalmers University of Technology, Sweden, of red giant star R Doradus. The result overturns a long-held idea about how the atoms needed for life […] The post Stardust Study Resets How Life’s Atoms Spread Through Space appeared first on Astrobiology .
-        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.aanda.org/articles/aa/full_html/2025/12/aa56884-25/aa56884-25.html&quot;&gt;[Full Paper] https://www.aanda.org/articles/aa/full_html/2025/12/aa56884-25/aa56884-25.html&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        arXiv:2512.23652v1 Announce Type: new Abstract: This work analyzes four Sun-like double-lined spectroscopic binary (SB2) systems by combining visual and spectroscopic observational data with Al-Wardat&amp;#x27;s atmospheric modeling method to accurately determine their fundamental parameters. For each system, we determine stellar masses, orbital parallaxes, effective temperatures, spectral types, semimajor axes, and eccentricities with high precision, resolving discrepancies between astrometric and spectroscopic measurements. Moreover, we assess the potential for stable planetary orbits in these systems. We also calculate habitable zones around these binaries based on the orbital evolution of planetary orbits. These systems may represent promising targets for future extrasolar planet searches around Sun-like stars due to their robust physical and orbital parameters that can be used to determine planetary habitability and stability.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://arxiv.org/abs/2512.23652&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
         &lt;br/&gt;&lt;br/&gt;
-        &lt;a href=&quot;https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html&quot;&gt;Read Full Article&lt;/a&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.23652&quot;&gt;Read Full Article&lt;/a&gt;
         </content>
   </entry>
 </feed>
