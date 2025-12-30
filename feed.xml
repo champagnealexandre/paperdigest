@@ -4,21 +4,21 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T17:07:12.921557+00:00</updated>
+  <updated>2025-12-30T17:11:05.217242+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
 
   <entry>
-    <title>[60] [keywords-ool via Alexandre Champagne on Inoreader] [biochemistry - biorXiv Preprints] Biochemical and structural characterization of the RlaP family nucleotidyltransferase potentially involved in RNA repair</title>
+    <title>[60] [KEYWORDS-OOL] [biochemistry - biorXiv Preprints] Biochemical and structural characterization of the RlaP family nucleotidyltransferase potentially involved in RNA repair</title>
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1</id>
     <updated>2025-12-30T13:19:54+00:00</updated>
-    <summary>The paper explores RNA repair mechanisms, relevant to the origins of life, with a focus on nucleotidyltransferases and RNA, scoring high on keyword relevance.</summary>
+    <summary>The paper explores RNA repair mechanisms, relevant to the origins of life, with a focus on nucleotidyltransferases and RNA, aligning with astrobiological interests.</summary>
     <content type="html">
-        &lt;strong&gt;Category:&lt;/strong&gt; keywords-ool via Alexandre Champagne on Inoreader&lt;br/&gt;
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; biochemistry - biorXiv Preprints&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores RNA repair mechanisms, relevant to the origins of life, with a focus on nucleotidyltransferases and RNA, scoring high on keyword relevance.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores RNA repair mechanisms, relevant to the origins of life, with a focus on nucleotidyltransferases and RNA, aligning with astrobiological interests.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Nucleotidyltransferases (NTases) of Pol{beta} superfamily are highly diverse and play many important biological functions. However, many families of NTases remain uncharacterized. Because of physical proximity of the genes encoding NTases of PF10127 family to those encoding RNA ligases involved in RNA repair, PF10127 family of NTases was named RlaP (RNA ligase-associating Pol{beta}). Here we report comprehensive characterization of two RlaP from Pseudomonas fluorescens and Pseudomonas aeruginosa (PfRlaP and PaRlaP), respectively. Our study showed that, among macromolecules isolated from E. coli cells, only RNAs are the substrates of RlaP. In vitro assays employing synthetic RNAs as substrates demonstrated that RlaP catalyzes addition of one or two nucleotide monophosphate (NMP) to the 3&amp;#x27;-hydroxyl group of RNAs, with the damaged RNAs as the preferred substrates. The crystal structure of PfRlaP provided insight into molecular recognition of RNA substrate and nucleotide triphosphate (NTP) by RlaP. Aminoacylation assays indicate that RlaP is required to restore biological function of the repaired tRNAs that have suffered excessive damage. Based on our studies, we propose an in vivo scenario where cell survival requires the involvement of RlaP in RNA repair to restore the biological function of the damaged RNAs.&lt;br/&gt;
@@ -28,16 +28,16 @@
   </entry>
 
   <entry>
-    <title>[60] [keywords-astrobiology via Alexandre Champagne on Inoreader] [Astrobiology] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
+    <title>[60] [KEYWORDS-ASTROBIOLOGY] [Astrobiology] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
     <link href="https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html"/>
     <id>https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html</id>
     <updated>2025-12-29T19:34:52+00:00</updated>
-    <summary>The paper explores the molecular composition of comet C/2017 K2, relevant to astrobiology and origins of life through its focus on water and evolution.</summary>
+    <summary>The paper examines the molecular composition of comet C/2017 K2&#x27;s coma, contributing to our understanding of astrochemistry and water&#x27;s role in the origins of life.</summary>
     <content type="html">
-        &lt;strong&gt;Category:&lt;/strong&gt; keywords-astrobiology via Alexandre Champagne on Inoreader&lt;br/&gt;
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores the molecular composition of comet C/2017 K2, relevant to astrobiology and origins of life through its focus on water and evolution.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper examines the molecular composition of comet C/2017 K2&amp;#x27;s coma, contributing to our understanding of astrochemistry and water&amp;#x27;s role in the origins of life.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) […] The post The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma appeared first on Astrobiology .&lt;br/&gt;
@@ -47,13 +47,13 @@
   </entry>
 
   <entry>
-    <title>[60] [keywords-astrobiology via Alexandre Champagne on Inoreader] [Astrobiology] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
+    <title>[60] [KEYWORDS-ASTROBIOLOGY] [Astrobiology] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
     <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
     <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
     <updated>2025-12-29T18:35:40+00:00</updated>
     <summary>The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and mentions evolution, a target keyword.</summary>
     <content type="html">
-        &lt;strong&gt;Category:&lt;/strong&gt; keywords-astrobiology via Alexandre Champagne on Inoreader&lt;br/&gt;
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
         &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and mentions evolution, a target keyword.&lt;br/&gt;
