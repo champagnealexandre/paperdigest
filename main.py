@@ -57,42 +57,61 @@ def save_history(data):
         json.dump(data[:50], f, indent=2)
 
 def generate_rss(papers):
-    # REPLACE WITH YOUR ACTUAL DATA
-    # If your repo is github.com/jdoe/astro-digest, use:
+    # Hardcoded to your specific repo details
     username = "champagnealexandre"
     repo = "ooldigest"
     
-    # URL where this feed lives
+    # The URL where Feedly will look for this file
     feed_url = f'https://{username}.github.io/{repo}/feed.xml'
 
     fg = FeedGenerator()
     fg.id(feed_url)
     fg.title('Astrobiology AI Digest')
     fg.author({'name': 'AI Agent'})
-    fg.link(href=feed_url, rel='self') # The critical link
+    
+    # 1. CRITICAL: The "Self" link (Required by Feedly)
+    fg.link(href=feed_url, rel='self')
+    
+    # 2. Link to the repo (for humans)
     fg.link(href=f'https://github.com/{username}/{repo}', rel='alternate')
+    
     fg.subtitle('Hourly AI-curated papers on Origins of Life')
 
     for p in papers:
         fe = fg.add_entry()
         fe.id(p['link'])
-        fe.title(f"[{p['score']}] [{p['category']}] {p['title']}")
+        
+        # --- CRASH PROTECTION ---
+        # We use .get() so it defaults to "Unclassified" instead of crashing
+        score = p.get('score', 0)
+        category = p.get('category', 'Unclassified')
+        title = p.get('title', 'Untitled')
+        summary = p.get('summary', 'No summary generated.')
+        abstract = p.get('abstract', '')
+        # ------------------------
+
+        # Title Format: [95] [Astrochemistry] Title of Paper
+        fe.title(f"[{score}] [{category}] {title}")
         fe.link(href=p['link'])
         
-        # Atom structure
-        fe.summary(p['summary'])
+        # Atom Summary (Plain text)
+        fe.summary(summary)
+        
+        # Atom Content (HTML)
         content = f"""
-        <p><b>Score:</b> {p['score']}/100 | <b>Category:</b> {p['category']}</p>
-        <p><b>AI Summary:</b> {p['summary']}</p>
+        <p><b>Score:</b> {score}/100 | <b>Category:</b> {category}</p>
+        <p><b>AI Summary:</b> {summary}</p>
         <hr/>
-        <p><b>Abstract:</b> {p['abstract']}</p>
+        <p><b>Abstract:</b> {abstract}</p>
         <p><a href="{p['link']}">Read Full Paper</a></p>
         """
         fe.content(content, type='html')
-        fe.published(p['published'])
-        fe.updated(p['published'])
+        
+        if 'published' in p:
+            fe.published(p['published'])
+            fe.updated(p['published'])
 
-    # Write as Atom (Feedly prefers this)
+    # Write as ATOM (Feedly prefers this over RSS 2.0)
     fg.atom_file(FEED_FILE)
 
 def main():
