@@ -4,7 +4,7 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T17:34:13.765613+00:00</updated>
+  <updated>2025-12-30T17:41:18.417547+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
 
@@ -13,12 +13,12 @@
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1</id>
     <updated>2025-12-30T17:28:22+00:00</updated>
-    <summary>The paper explores Z-DNA dynamics across various life forms, contributing to understanding nucleic acid roles in evolution and potentially the origins of life.</summary>
+    <summary>The paper explores Z-DNA dynamics across various life forms, highlighting its regulatory roles and evolutionary pressures, which is relevant to understanding nucleic acid behavior in the context of life&#x27;s origins.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; bioRxiv Subject Collection: Evolutionary Biology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores Z-DNA dynamics across various life forms, contributing to understanding nucleic acid roles in evolution and potentially the origins of life.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores Z-DNA dynamics across various life forms, highlighting its regulatory roles and evolutionary pressures, which is relevant to understanding nucleic acid behavior in the context of life&amp;#x27;s origins.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Z-DNA/Z-RNA is an alternative left-handed nucleic acid conformation with established and emerging roles in gene regulation, immunity, and genome instability. However, its occurrence dynamics and lineage specificity across the tree of life have not yet been fully characterized. Utilizing the recently developed and improved Z-DNA searching tool, ZSeeker, we analyzed 281,139 complete organismal genomes, including multiple Telomere-to-Telomere genome assemblies, and generated genome-wide Z-nucleic acid maps, examined their topography, and compared them to dinucleotide-preserving controls. Cellular genomes featured pervasive Z-DNA enrichment relative to expectation, with enrichments of ~1.5 and ~1.7-fold in Bacteria and Archaea and ~3-fold in Eukaryota. In contrast, Viruses exhibited large differences between lineages, with modest enrichment in several DNA viral groups and pronounced depletion across RNA clades, most notably Influenza A/B strains. We built a LASSO regression model trained on non-Influenza viruses (cross-validated R2 {approx} 0.73), which identified GC content, genome type, and host type as the leading predictors for Z-nucleic acid density, yet it significantly over-predicted Z-RNA density in Influenza A/B. More than 99% of assemblies exceeded the +2 SD threshold, and a &amp;quot;typical Influenza&amp;quot; genome was predicted at 2.76 bp/kb compared to ~0.016 bp/kb observed (a ~170-fold overestimation based on chance alone). Together, these results reveal domain- and lineage-specific regimes: cellular genomes are enriched for Z-DNA consistent with regulatory roles, whereas influenza viruses appear to have undergone strong, lineage-specific depletion of Z-RNA-forming sequences, likely reflecting evolutionary pressure tied to host sensing pathways.
@@ -29,40 +29,20 @@
   </entry>
 
   <entry>
-    <title>[60] [KEYWORDS-OOL] [biochemistry - biorXiv Preprints] Biochemical and structural characterization of the RlaP family nucleotidyltransferase potentially involved in RNA repair</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1</id>
-    <updated>2025-12-30T13:19:54+00:00</updated>
-    <summary>The paper explores the RlaP family nucleotidyltransferase&#x27;s role in RNA repair, contributing to understanding RNA&#x27;s role in the origins of life.</summary>
-    <content type="html">
-        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
-        &lt;strong&gt;Source:&lt;/strong&gt; biochemistry - biorXiv Preprints&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores the RlaP family nucleotidyltransferase&amp;#x27;s role in RNA repair, contributing to understanding RNA&amp;#x27;s role in the origins of life.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        Nucleotidyltransferases (NTases) of Pol{beta} superfamily are highly diverse and play many important biological functions. However, many families of NTases remain uncharacterized. Because of physical proximity of the genes encoding NTases of PF10127 family to those encoding RNA ligases involved in RNA repair, PF10127 family of NTases was named RlaP (RNA ligase-associating Pol{beta}). Here we report comprehensive characterization of two RlaP from Pseudomonas fluorescens and Pseudomonas aeruginosa (PfRlaP and PaRlaP), respectively. Our study showed that, among macromolecules isolated from E. coli cells, only RNAs are the substrates of RlaP. In vitro assays employing synthetic RNAs as substrates demonstrated that RlaP catalyzes addition of one or two nucleotide monophosphate (NMP) to the 3&amp;#x27;-hydroxyl group of RNAs, with the damaged RNAs as the preferred substrates. The crystal structure of PfRlaP provided insight into molecular recognition of RNA substrate and nucleotide triphosphate (NTP) by RlaP. Aminoacylation assays indicate that RlaP is required to restore biological function of the repaired tRNAs that have suffered excessive damage. Based on our studies, we propose an in vivo scenario where cell survival requires the involvement of RlaP in RNA repair to restore the biological function of the damaged RNAs.
-        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-        &lt;br/&gt;&lt;br/&gt;
-        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
     <title>[60] [KEYWORDS-ASTROBIOLOGY] [Astrobiology] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
     <link href="https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html"/>
     <id>https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html</id>
     <updated>2025-12-29T19:34:52+00:00</updated>
-    <summary>The paper examines the molecular composition of comet C/2017 K2&#x27;s coma, focusing on H2O sublimation, which is relevant to understanding water&#x27;s role in the origins of life.</summary>
+    <summary>The paper examines the molecular composition of comet C/2017 K2&#x27;s coma, relevant to astrobiology and origins of life studies, with a focus on water and evolution.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper examines the molecular composition of comet C/2017 K2&amp;#x27;s coma, focusing on H2O sublimation, which is relevant to understanding water&amp;#x27;s role in the origins of life.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper examines the molecular composition of comet C/2017 K2&amp;#x27;s coma, relevant to astrobiology and origins of life studies, with a focus on water and evolution.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) […] The post The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma appeared first on Astrobiology .
-        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.05662&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.05662&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.05662&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2511.05662&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.05662&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2511.05662&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.05662&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.05662&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
         &lt;br/&gt;&lt;br/&gt;
         &lt;a href=&quot;https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html&quot;&gt;Read Full Article&lt;/a&gt;
         </content>
@@ -73,58 +53,18 @@
     <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
     <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
     <updated>2025-12-29T18:35:40+00:00</updated>
-    <summary>The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and includes a DOI link, earning a robust score with a keyword match for &#x27;evolution&#x27;.</summary>
+    <summary>The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and includes a DOI link, earning a robust base relevance score and a keyword bonus for &#x27;evolution&#x27;.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and includes a DOI link, earning a robust score with a keyword match for &amp;#x27;evolution&amp;#x27;.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and includes a DOI link, earning a robust base relevance score and a keyword bonus for &amp;#x27;evolution&amp;#x27;.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron–sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient […] The post Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold appeared first on Astrobiology .
-        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pubs.acs.org/doi/10.1021/jacsau.5c00863&quot;&gt;[Full Paper] https://pubs.acs.org/doi/10.1021/jacsau.5c00863&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC12648291/&quot;&gt;[PubMed/NCBI] https://pmc.ncbi.nlm.nih.gov/articles/PMC12648291/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1021/jacsau.5c00863&quot;&gt;[DOI Link] https://doi.org/10.1021/jacsau.5c00863&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC12648291/&quot;&gt;[PubMed/NCBI] https://pmc.ncbi.nlm.nih.gov/articles/PMC12648291/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://pubs.acs.org/doi/10.1021/jacsau.5c00863&quot;&gt;[Full Paper] https://pubs.acs.org/doi/10.1021/jacsau.5c00863&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
         &lt;br/&gt;&lt;br/&gt;
         &lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;Read Full Article&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[75] [KEYWORDS-ASTROBIOLOGY] [Astrobiology] Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective</title>
-    <link href="https://astrobiology.com/2025/12/why-estimating-is-difficult-a-kepler-centric-perspective.html"/>
-    <id>https://astrobiology.com/2025/12/why-estimating-is-difficult-a-kepler-centric-perspective.html</id>
-    <updated>2025-12-29T18:35:41+00:00</updated>
-    <summary>The paper discusses the challenges in estimating η⊕, the occurrence rate of rocky habitable zone exoplanets, which is crucial for understanding the potential for life beyond Earth.</summary>
-    <content type="html">
-        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
-        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 75/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the challenges in estimating η⊕, the occurrence rate of rocky habitable zone exoplanets, which is crucial for understanding the potential for life beyond Earth.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        η⊕, the occurrence rate of rocky habitable zone exoplanets orbiting Sun-like stars, is of great interest to both the astronomical community and the general public. The Kepler space telescope has made it possible to estimate η⊕, but estimates by different groups vary by more than an order of magnitude. We identify several causes for this […] The post Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective appeared first on Astrobiology .
-        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.05658&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.05658&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.05658&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2511.05658&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-        &lt;br/&gt;&lt;br/&gt;
-        &lt;a href=&quot;https://astrobiology.com/2025/12/why-estimating-is-difficult-a-kepler-centric-perspective.html&quot;&gt;Read Full Article&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[60] [KEYWORDS-ASTROBIOLOGY] [phys.org - Space News] Venus cloud research highlights value of combining light and polarization measurements</title>
-    <link href="https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html"/>
-    <id>https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html</id>
-    <updated>2025-12-29T18:01:33+00:00</updated>
-    <summary>The paper advances understanding of Venusian clouds, which is relevant to astrobiology and the origins of life, particularly in the context of habitability and atmospheric studies.</summary>
-    <content type="html">
-        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
-        &lt;strong&gt;Source:&lt;/strong&gt; phys.org - Space News&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper advances understanding of Venusian clouds, which is relevant to astrobiology and the origins of life, particularly in the context of habitability and atmospheric studies.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        A research team from the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has advanced the characterization and retrieval capability evaluation of microphysical properties of Venusian clouds and haze.
-        
-        &lt;br/&gt;&lt;br/&gt;
-        &lt;a href=&quot;https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html&quot;&gt;Read Full Article&lt;/a&gt;
         </content>
   </entry>
 </feed>
