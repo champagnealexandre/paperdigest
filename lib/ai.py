@@ -2,10 +2,18 @@ import json
 from openai import OpenAI
 
 MODEL_MAP = {
-    1: "google/gemini-flash-1.5",
+    1: "google/gemini-2.5-flash-lite",
     2: "openai/gpt-4o-mini",
-    3: "google/gemini-pro-1.5",
-    4: "openai/gpt-4o"
+    3: "google/gemini-2.5-pro",
+    4: "openai/gpt-5.2"
+}
+
+# Estimated pricing per 1M tokens (Input / Output)
+PRICING = {
+    "google/gemini-2.5-flash-lite": (0.050, 0.20),
+    "openai/gpt-4o-mini":           (0.150, 0.60),
+    "google/gemini-2.5-pro":        (1.250, 5.00),
+    "openai/gpt-5.2":               (5.000, 20.00)
 }
 
 def get_client(api_key):
@@ -63,7 +71,15 @@ def analyze_paper(client, model_name, title, abstract, found_links, all_keywords
             response_format={"type": "json_object"},
             temperature=0.1
         )
-        return json.loads(response.choices[0].message.content)
+        result = json.loads(response.choices[0].message.content)
+        
+        # Attach usage stats if available
+        if response.usage:
+            result['usage'] = {
+                'prompt_tokens': response.usage.prompt_tokens,
+                'completion_tokens': response.usage.completion_tokens
+            }
+        return result
     except Exception as e:
         print(f"LLM Error ({model_name}): {e}")
         return {"score": 0, "summary": "Error"}
