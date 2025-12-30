@@ -1,0 +1,32 @@
+{
+    "rss_urls": [
+        "https://www.inoreader.com/stream/user/1005369328/tag/keywords-ool",
+        "https://www.inoreader.com/stream/user/1005369328/tag/keywords-astrobiology",
+        "https://www.inoreader.com/stream/user/1005369328/tag/ool-ressources"
+    ],
+    "model_tier": 2,
+    "shadow_mode": false,
+    "base_url": "https://alexandrechampagne.io/ooldigest",
+    "history_file": "paper_history.json",
+    "feed_file": "feed.xml",
+    "custom_instructions": "\n- EXOPLANET FILTER: Deprioritize generic exoplanet discoveries (e.g., new TESS candidates, hot Jupiters) unless they significantly advance Astrobiology.\n- EXCEPTION 1: Always prioritize papers related to the TRAPPIST-1 system.\n- EXCEPTION 2: Prioritize atmospheric observations specifically relevant to life detection (biosignatures) or habitability.\n",
+    "keywords_astro": [
+        "astrobiological", "astrobiology", "astrochemistry", "biosignature", 
+        "exoplanet", "habitability", "habitable", "mars", "planetesimal", "venus"
+    ],
+    "keywords_ool": [
+        "prebiotic", "origin of life", "autocatalysis", "autocatalytic", 
+        "chirality", "protocell", "self-assembly", "nucleic acid", "eukaryo", 
+        "water", "origins of life", "RNA", "DNA", "evolution", "protobiotic", 
+        "multicellularity", "abiogenesis"
+    ],
+    "academic_domains": [
+        "doi.org", "arxiv.org", "biorxiv.org", "ncbi.nlm.nih.gov", 
+        "nature.com", "science.org", "pnas.org", "acs.org", "wiley.com", 
+        "springer.com", "cell.com", "oup.com", "iop.org", "aps.org",
+        "sciencedirect.com", "elsevier.com", "linkinghub.elsevier.com",
+        "mdpi.com", "frontiersin.org", "tandfonline.com",
+        "sagepub.com", "ieee.org", "osapublishing.org", "optica.org", 
+        "aanda.org", "agu.org", "geoscienceworld.org", "gsapubs.org"
+    ]
+}
