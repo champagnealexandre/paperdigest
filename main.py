@@ -53,7 +53,7 @@ def analyze_paper(title, abstract):
     
     prompt = f"""
     Role: Senior Astrobiologist.
-    Task: Score this paper for an 'Origins of Life' digest based on strict criteria.
+    Task: Score this paper for an 'Origins of Life' digest based ONLY on relevance and keywords.
     
     Paper: "{title}"
     Abstract: "{abstract}"
@@ -63,22 +63,17 @@ def analyze_paper(title, abstract):
     
     SCORING RUBRIC (Total /100):
     
-    1. RELEVANCE & KEYWORD DENSITY (Max 60 pts):
-       - Base Score (0-30):
-          * +0: Unrelated field.
-          * +10: Broad context (e.g., general planetology).
-          * +30: Direct OoL focus (abiogenesis, prebiotic chemistry).
-       - Keyword Bonus (0-30):
-          * Count occurrences of Target Keywords in the Title/Abstract.
-          * Add +5 points for each occurrence (e.g., 3 mentions = +15).
-          * Cap this bonus at 30 points.
+    1. BASE RELEVANCE (Max 50 pts):
+       - +0: Unrelated field (e.g., medicine, galaxy formation, dark matter).
+       - +25: Broad context (e.g., general planetology, star formation).
+       - +50: Core OoL focus (abiogenesis, prebiotic chemistry, biosignatures).
        
-    2. SPECIFICITY (Max 40 pts):
-       - +0: Generic review or vague discussion.
-       - +20: Specific data/model but peripheral topic.
-       - +40: Novel experimental result or core theory breakthrough.
+    2. KEYWORD BONUS (Max 50 pts):
+       - Count occurrences of Target Keywords in the Title/Abstract.
+       - Add +10 points for EACH occurrence.
+       - Cap this bonus at 50 points.
     
-    CALCULATION: Sum (Relevance Base + Keyword Bonus + Specificity).
+    CALCULATION: Sum (Base Relevance + Keyword Bonus).
     Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
     
