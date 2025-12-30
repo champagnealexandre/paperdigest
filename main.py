@@ -10,7 +10,11 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 # --- Configuration ---
-RSS_URL = os.getenv("RSS_URL") 
+RSS_URLS = [
+    "https://www.inoreader.com/stream/user/1005369328/tag/keywords-ool",
+    "https://www.inoreader.com/stream/user/1005369328/tag/keywords-astrobiology",
+    "https://www.inoreader.com/stream/user/1005369328/tag/ool-ressources"
+]
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 HISTORY_FILE = "paper_history.json"
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
@@ -293,9 +297,7 @@ def generate_manual_atom(papers):
 
 def main():
     print("Fetching RSS feeds...")
-    raw_urls = os.getenv("RSS_URL", "")
-    rss_links = [url.strip() for url in raw_urls.split(',') if url.strip()]
-    
+    rss_links = RSS_URLS
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     history = load_history()
     existing_titles = {item.get('title') for item in history}

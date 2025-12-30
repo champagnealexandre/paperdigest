@@ -70,7 +70,6 @@ jobs:
 
       - name: Run AI Scanner
         env:
-          RSS_URL: ${{ secrets.RSS_URL }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python main.py
 
