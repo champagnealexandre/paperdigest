@@ -16,46 +16,61 @@ FEED_URL = f"{BASE_URL}/feed.xml"
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
+# --- NEW: LOGGING FUNCTION ---
+def log_decision(title, score, action, link):
+    """
+    Writes the decision to a monthly Markdown log file.
+    """
+    # Create logs directory if it doesn't exist
+    os.makedirs("logs", exist_ok=True)
+    
+    # Filename: logs/2025-12.md
+    month_str = datetime.datetime.now().strftime("%Y-%m")
+    log_file = f"logs/decisions-{month_str}.md"
+    
+    timestamp = datetime.datetime.now().strftime("%d %H:%M")
+    
+    # Markdown Table Row
+    entry = f"| {timestamp} | **{score}** | {action} | [{title}]({link}) |\n"
+    
+    # Create file with header if it doesn't exist
+    if not os.path.exists(log_file):
+        with open(log_file, 'w') as f:
+            f.write(f"# Decision Log: {month_str}\n\n")
+            f.write("| Date (UTC) | Score | Action | Paper |\n")
+            f.write("|---|---|---|---|\n")
+            
+    with open(log_file, 'a') as f:
+        f.write(entry)
+
 def resolve_doi(url):
-    """
-    If the link is a press release, try to find the actual DOI/Paper link.
-    """
+    # (Same as before)
     targets = ["phys.org", "eurekalert.org", "sciencedaily.com", "astrobiology.com"]
     if not any(t in url for t in targets):
         return url
-
-    print(f"🕵️ Hunting DOI for: {url}")
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (compatible; AstroDigestBot/1.0)'}
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.text, 'html.parser')
-
         for link in soup.find_all('a', href=True):
             if "doi.org" in link['href']:
-                print(f"   -> Found DOI: {link['href']}")
                 return link['href']
-                
-    except Exception as e:
-        print(f"   -> DOI Hunt failed: {e}")
-    
+    except: pass
     return url
 
 def analyze_paper(title, abstract):
+    # (Same as before)
     prompt = f"""
     Role: Senior Astrobiologist.
     Task: Analyze this paper for an 'Origins of Life' digest.
-    
     Title: {title}
     Abstract: {abstract}
-    
     Rubric (0-100):
     - 0-50: Irrelevant.
     - 51-80: Tangential context.
-    - 81-100: Core Breakthrough (Abiogenesis, biosignatures, chemical evolution).
-    
+    - 81-100: Core Breakthrough.
     Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
-    
     try:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -84,8 +99,8 @@ def clean_text(text):
     return " ".join(text.split())
 
 def generate_manual_atom(papers):
+    # (Same as before)
     now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
-    
     xml_content = f"""<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Astrobiology AI Digest</title>
@@ -96,18 +111,14 @@ def generate_manual_atom(papers):
   <id>{FEED_URL}</id>
   <author><name>AI Agent</name></author>
 """
-
     seen_dates = set()
-
     for p in papers:
-        # Sanitize
         title = html.escape(clean_text(p.get('title', 'Untitled')))
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         score = p.get('score', 0)
         link = html.escape(p.get('link', ''))
         
-        # Unique Date Logic
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
             try:
@@ -117,7 +128,6 @@ def generate_manual_atom(papers):
             except: break
         seen_dates.add(pub_date)
         
-        # HTML Content (Removed Category)
         content_html = f"""
         <strong>Score:</strong> {score}/100<br/>
         <strong>AI Summary:</strong> {summary}<br/>
@@ -127,7 +137,6 @@ def generate_manual_atom(papers):
         <br/>
         <a href="{link}">Read Full Paper</a>
         """
-        
         content_escaped = html.escape(content_html)
         
         entry = f"""
@@ -141,7 +150,6 @@ def generate_manual_atom(papers):
   </entry>
 """
         xml_content += entry
-
     xml_content += "</feed>"
     
     with open("feed.xml", "w", encoding='utf-8') as f:
@@ -149,9 +157,6 @@ def generate_manual_atom(papers):
 
 def main():
     print("Fetching RSS feeds...")
-    
-    # 1. HANDLE MULTIPLE URLS
-    # Split the secret by comma to get a list
     raw_urls = os.getenv("RSS_URL", "")
     rss_links = [url.strip() for url in raw_urls.split(',') if url.strip()]
     
@@ -160,19 +165,14 @@ def main():
     existing_titles = {item.get('title') for item in history}
     new_hits = []
 
-    # 2. LOOP THROUGH ALL FEEDS
     for link in rss_links:
-        print(f"-> Parsing {link[:30]}...")
+        print(f"-> Parsing {link[:40]}...")
         feed = feedparser.parse(link)
         
-        print(f"   Found {len(feed.entries)} entries.")
-
         for entry in feed.entries:
-            # Deduplication Check
             if entry.title in existing_titles:
                 continue
             
-            # Date Check
             pub_date = datetime.datetime.now(datetime.timezone.utc)
             if hasattr(entry, 'published_parsed'):
                  pub_date = datetime.datetime(*entry.published_parsed[:6]).replace(tzinfo=datetime.timezone.utc)
@@ -180,23 +180,29 @@ def main():
             if pub_date < cutoff:
                 continue
 
-            # AI Analysis
             analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
             
-            if analysis['score'] >= 75:
-                final_link = resolve_doi(entry.link)
+            # --- LOGGING ---
+            score = analysis['score']
+            if score >= 75:
+                # 1. Console Log (Green)
+                print(f"✅ ACCEPTED [{score}]: {entry.title}")
+                log_decision(entry.title, score, "✅ Accepted", entry.link)
                 
+                final_link = resolve_doi(entry.link)
                 new_hits.append({
                     "title": entry.title,
                     "link": final_link,
-                    "score": analysis['score'],
+                    "score": score,
                     "summary": analysis['summary'],
                     "abstract": getattr(entry, 'description', ''),
                     "published": pub_date.isoformat()
                 })
-                
-                # Add to existing titles immediately to prevent dupes across the 3 feeds
                 existing_titles.add(entry.title)
+            else:
+                # 2. Console Log (Grey/Ignored)
+                print(f"❌ REJECTED [{score}]: {entry.title}")
+                log_decision(entry.title, score, "❌ Rejected", entry.link)
 
     if new_hits:
         print(f"Found {len(new_hits)} new papers total.")

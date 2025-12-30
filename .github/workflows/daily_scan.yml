@@ -29,8 +29,11 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
+      - name: Commit History & Logs
+        run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add feed.xml paper_history.json
-          # Commit only if changes exist, then push
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS Feed" && git push)
+          # Add the history JSON AND the new logs folder
+          git add paper_history.json logs/
+          # Commit if changes exist
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update logs and history" && git push)
