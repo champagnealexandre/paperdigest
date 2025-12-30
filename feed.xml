@@ -4,9 +4,43 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T05:08:26.290985+00:00</updated>
+  <updated>2025-12-30T05:11:52.706640+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[45] Decoding the Architecture of Living Systems</title>
+    <link href="https://arxiv.org/abs/2512.22651"/>
+    <id>https://arxiv.org/abs/2512.22651</id>
+    <updated>2025-12-30T05:09:27+00:00</updated>
+    <summary>The paper discusses evolutionary dynamics and biological complexity, which is relevant to the origins of life, but lacks direct references to specific keywords related to abiogenesis or prebiotic chemistry.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses evolutionary dynamics and biological complexity, which is relevant to the origins of life, but lacks direct references to specific keywords related to abiogenesis or prebiotic chemistry.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.22651v1 Announce Type: new Abstract: The possibility that evolutionary forces -- together with a few fundamental factors such as thermodynamic constraints, specific computational features enabling information processing, and ecological processes -- might constrain the logic of living systems is tantalizing. However, it is often overlooked that any practical implementation of such a logic requires complementary circuitry that, in biological systems, happens through complex networks of genetic regulation, metabolic reactions, cellular signalling, communication, social and eusocial non-trivial organization. We review and discuss how circuitries are not merely passive structures, but active agents of change that, by means of hierarchical and modular organization, are able to enhance and catalyze the evolution of evolvability. Using statistical physics to analyze the role of non-trivial topologies in major evolutionary transitions, we show that biological innovations are related to deviation from trivial structures and (thermo)dynamic equilibria. We argue that sparse heterogeneous networks such as hierarchical modular, which are ubiquitously observed in nature, are favored in terms of the trade-off between energetic costs for redundancy, error-correction and maintainance. We identify three main features -- namely, interconnectivity, plasticity and interdependency -- pointing towards a unifying framework for modeling the phenomenology, discussing them in terms of dynamical systems theory, non-equilibrium thermodynamics and evolutionary dynamics. Within this unified picture, we also show that slow evolutionary dynamics is an emergent phenomenon governed by the replicator-mutator equation as the direct consequence of a constrained variational nonequilibrium process. Overall, this work highlights how dynamical systems theory and nonequilibrium thermodynamics provide powerful analytical techniques to study biological complexity.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.22651&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[60] Mutation in DNA: A quantum mechanical non-adiabatic model</title>
+    <link href="https://arxiv.org/abs/2512.23094"/>
+    <id>https://arxiv.org/abs/2512.23094</id>
+    <updated>2025-12-30T05:09:28+00:00</updated>
+    <summary>The paper is highly relevant to the origins of life field due to its focus on DNA mutation and quantum mechanics, earning a strong score for both relevance and keyword occurrences.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field due to its focus on DNA mutation and quantum mechanics, earning a strong score for both relevance and keyword occurrences.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.23094v1 Announce Type: new Abstract: We propose a new analytical potential function to model proton transfer in the adenine-thymine base pair and develop a non-adiabatic quantum mechanical framework to calculate genetic mutation probabilities. This potential has been used to calculate the probability of mutation in a non-adiabatic process. The results of the new model have been shown to be consistent with the findings of other researchers.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.23094&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[60] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title>

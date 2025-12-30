@@ -1,5 +1,21 @@
 [
   {
+    "title": "Decoding the Architecture of Living Systems",
+    "link": "https://arxiv.org/abs/2512.22651",
+    "score": 45,
+    "summary": "The paper discusses evolutionary dynamics and biological complexity, which is relevant to the origins of life, but lacks direct references to specific keywords related to abiogenesis or prebiotic chemistry.",
+    "abstract": "arXiv:2512.22651v1 Announce Type: new  \nAbstract: The possibility that evolutionary forces -- together with a few fundamental factors such as thermodynamic constraints, specific computational features enabling information processing, and ecological processes -- might constrain the logic of living systems is tantalizing. However, it is often overlooked that any practical implementation of such a logic requires complementary circuitry that, in biological systems, happens through complex networks of genetic regulation, metabolic reactions, cellular signalling, communication, social and eusocial non-trivial organization. We review and discuss how circuitries are not merely passive structures, but active agents of change that, by means of hierarchical and modular organization, are able to enhance and catalyze the evolution of evolvability. Using statistical physics to analyze the role of non-trivial topologies in major evolutionary transitions, we show that biological innovations are related to deviation from trivial structures and (thermo)dynamic equilibria. \n  We argue that sparse heterogeneous networks such as hierarchical modular, which are ubiquitously observed in nature, are favored in terms of the trade-off between energetic costs for redundancy, error-correction and maintainance. We identify three main features -- namely, interconnectivity, plasticity and interdependency -- pointing towards a unifying framework for modeling the phenomenology, discussing them in terms of dynamical systems theory, non-equilibrium thermodynamics and evolutionary dynamics. Within this unified picture, we also show that slow evolutionary dynamics is an emergent phenomenon governed by the replicator-mutator equation as the direct consequence of a constrained variational nonequilibrium process. Overall, this work highlights how dynamical systems theory and nonequilibrium thermodynamics provide powerful analytical techniques to study biological complexity.",
+    "published": "2025-12-30T05:09:27+00:00"
+  },
+  {
+    "title": "Mutation in DNA: A quantum mechanical non-adiabatic model",
+    "link": "https://arxiv.org/abs/2512.23094",
+    "score": 60,
+    "summary": "The paper is highly relevant to the origins of life field due to its focus on DNA mutation and quantum mechanics, earning a strong score for both relevance and keyword occurrences.",
+    "abstract": "arXiv:2512.23094v1 Announce Type: new  \nAbstract: We propose a new analytical potential function to model proton transfer in the adenine-thymine base pair and develop a non-adiabatic quantum mechanical framework to calculate genetic mutation probabilities. This potential has been used to calculate the probability of mutation in a non-adiabatic process. The results of the new model have been shown to be consistent with the findings of other researchers.",
+    "published": "2025-12-30T05:09:27+00:00"
+  },
+  {
     "title": "LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1",
     "score": 60,
