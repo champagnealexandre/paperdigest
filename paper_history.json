@@ -1,0 +1,58 @@
+[
+  {
+    "title": "LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1",
+    "score": 60,
+    "summary": "The paper is highly relevant to the origins of life field, particularly in its focus on RNA, a key molecule in prebiotic chemistry, and it includes multiple occurrences of target keywords.",
+    "abstract": "<p><img alt=\"biorxiv_logo_homepage7-5-small.png\" src=\"https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png\" /></p>Motivation: RNA molecules adopt dynamic ensembles of secondary structures, where the local structural context of each nucleotide--such as whether it resides in a stem or a specific type of loop--strongly shapes molecular interactions and regulatory function. Structural-context probabilities therefore provide a more functionally informative view of RNA folding than the minimum free energy structures or base-pairing probabilities. However, existing tools either require O(N3) time or employ span-restricted approximations that omit long-range base-pairs, limiting their applicability to large and biologically important RNAs. Results: We introduce LinearCapR, enabling linear-time, span-unrestricted computation of structural-context marginalized probabilities, using beam-pruned Stochastic Context Free Grammar-based computation. LinearCapR retains global ensemble features lost by span-limited methods and yields superior predictive power on bpRNA-1m(90) dataset, especially for multiloops and exterior regions, as well as long-distance stems. LinearCapR supports analysis of long RNAs, demonstrated on the full genome of SARS-CoV-2. Conclusions: LinearCapR provides the first base-pair-span-unrestricted, linear-time framework for RNA structural context analysis, retaining key thermodynamic ensemble features essential for functional interpretation. It enables large-scale studies of viral genomes, long non-coding RNAs, and downstream analyses such as RNA-binding protein site prediction. Availability: The source code of LinearCapR is available at https://github.com/hoget157/LinearCapR.",
+    "published": "2025-12-30T02:13:31+00:00"
+  },
+  {
+    "title": "Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold",
+    "link": "https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html",
+    "score": 70,
+    "summary": "The paper focuses on the evolution of a specific protein related to early metabolic processes, making it highly relevant to the origins of life, and includes keywords related to abiogenesis and evolution.",
+    "abstract": "<p>Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron\u2013sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html\">Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-29T18:35:40+00:00"
+  },
+  {
+    "title": "The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma",
+    "link": "https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html",
+    "score": 40,
+    "summary": "The paper is relevant to the origins of life field due to its focus on cometary volatiles and their implications for prebiotic chemistry, but it lacks direct mentions of the target keywords.",
+    "abstract": "<p>We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html\">The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-29T19:34:52+00:00"
+  },
+  {
+    "title": "Stardust Study Resets How Life\u2019s Atoms Spread Through Space",
+    "link": "https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html",
+    "score": 40,
+    "summary": "The paper discusses the transport of life's building blocks through space, which is relevant to the origins of life, but lacks specific target keywords.",
+    "abstract": "<p>Starlight and stardust are not enough to drive the powerful winds of giant stars, transporting the building blocks of life through our galaxy. That\u2019s the conclusion of a new study from Chalmers University of Technology, Sweden, of red giant star R Doradus. The result overturns a long-held idea about how the atoms needed for life [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html\">Stardust Study Resets How Life\u2019s Atoms Spread Through Space</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-29T19:34:52+00:00"
+  },
+  {
+    "title": "Snowball Bistability Vanishes at Moderate Orbital Eccentricity",
+    "link": "https://arxiv.org/abs/2509.08994",
+    "score": 40,
+    "summary": "The paper discusses climate bistability related to Snowball episodes, which is relevant to habitability and the development of complex life on exoplanets, but lacks direct focus on core origins of life concepts.",
+    "abstract": "arXiv:2509.08994v2 Announce Type: replace  \nAbstract: Snowball episodes are associated with increases in atmospheric oxygen and the complexity of life on Earth, and they may be essential for the development of complex life on exoplanets. Sustained, stable Snowball episodes require a Snowball bifurcation and climate bistability between the globally ice-covered Snowball state and a state with at least some open ocean. We find that climate bistability disappears for an aquaplanet with a slab ocean in the global climate model ExoCAM when the orbital eccentricity is increased to 0.2-0.3. This happens because the Snowball state ceases to exist as seasonal insolation variations intensify, while the warm state remains stable due to the ocean's large heat capacity. We use a low-order ice-thermodynamic model to show that the Snowball state ceases to exist as seasonality increases because winter freezing at the ice bottom is reduced relative to summer melting at the ice top due to ice self-insulation. Combined with previous research showing that Snowball climate bistability diminishes for planets orbiting low-mass stars and ones with longer rotation periods, and that it disappears entirely for tidally locked planets, our work suggests that the Snowball climate bistability may not be as robust to planetary parameters as previously thought, representing one aspect of habitability more consistent with the rare Earth hypothesis than the Copernican principle.",
+    "published": "2025-12-29T05:46:20+00:00"
+  },
+  {
+    "title": "Habitability of exoplanets orbiting flaring stars",
+    "link": "https://arxiv.org/abs/2512.21357",
+    "score": 70,
+    "summary": "The paper is highly relevant to the origins of life field, focusing on the habitability of exoplanets, particularly those orbiting flaring stars, and includes keywords related to habitability and astrobiology.",
+    "abstract": "arXiv:2512.21357v1 Announce Type: cross  \nAbstract: As of late 2025 there are about 70 exoplanets that meet the formal criterion of having equilibrium temperatures allowing the presence of liquid water and about 50 of them orbit M-stars, known for their strong chromospheric activity. Most of these stars are close to the Sun and the planet-to-star mass and luminosity ratios are advantageous, allowing for a more detailed follow-up than of planets orbiting hotter and more massive stars. Many more planets orbiting late-type stars are expected to be discovered by Gaia and PLATO in the following years. However, the lingering question remains whether the UV and X-ray emission, associated with the stellar activity, allows for complex life. A comprehensive study focused on properties of flaring exoplanet hosts and their activity, on a much larger scale than these few tens (soon to become hundreds) of stars with habitable planets is called for, to answer the question if such stars can harbor habitable planets. The proposed Wide Field Survey telescope is well suited for this study.",
+    "published": "2025-12-29T05:46:20+00:00"
+  },
+  {
+    "title": "High-energy astrochemistry in the molecular interstellar medium",
+    "link": "https://arxiv.org/abs/2512.10060",
+    "score": 45,
+    "summary": "The paper is highly relevant to astrochemistry and its implications for the origins of life, particularly through the study of complex organic molecules and energetic processes, but it lacks direct references to many specific target keywords.",
+    "abstract": "arXiv:2512.10060v2 Announce Type: replace-cross  \nAbstract: In the past decade, there has been a significant shift in astrochemistry with a renewed focus on the role of non-thermal processes on the molecular interstellar medium, in particular energetic particles (such as cosmic ray particles and fast electrons) and X-ray radiation. This has been brought about in large part due to new observations of interstellar complex organic molecules (iCOMS) in environments that would inhibit their formation, such as cold, dense gas in prestellar cores or in the highly energetic environments in galactic centers. In parallel, there has been a plethora of new laboratory investigations on the role of high-energy radiation and electrons on the chemistry of astrophysical ices, demonstrating the ability of this radiation to induce complex chemistry. In recent years, theoretical models have also begun to include newer cosmic-ray-driven processes in both the gas and ice phases. In this review, we unify aspects of the chemistry driven by X-ray radiation and energetic particles into a ``high-energy astrochemistry'', defining this term and reviewing the underlying chemical processes. We conclude by examining various laboratories where high-energy astrochemistry is at play and identify future issues to be tackled.",
+    "published": "2025-12-29T05:46:20+00:00"
+  }
+]
