@@ -14,6 +14,11 @@ on:
         required: false
         type: boolean
         default: false
+      clear_logs:
+        description: '⚠️ Clear Current Log? (Wipes this month)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -33,12 +38,26 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      # --- NEW STEP: CLEAR HISTORY OPTION ---
+      # --- OPTION: CLEAR HISTORY ---
       - name: Clear History (Optional)
         if: ${{ inputs.clear_history }}
         run: |
           echo "[]" > paper_history.json
           echo "Memory wiped."
+
+      # --- OPTION: CLEAR LOGS ---
+      - name: Clear Logs (Optional)
+        if: ${{ inputs.clear_logs }}
+        run: |
+          # Dynamically find this month's log file
+          LOG_FILE="logs/decisions-$(date +%Y-%m).md"
+          
+          if [ -f "$LOG_FILE" ]; then
+            rm "$LOG_FILE"
+            echo "Deleted $LOG_FILE"
+          else
+            echo "No log file found for this month ($LOG_FILE)."
+          fi
 
       - name: Set up Python
         uses: actions/setup-python@v4
