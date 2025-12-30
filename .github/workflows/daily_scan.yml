@@ -9,6 +9,11 @@ on:
         description: 'Skip Python Scan? (check to only deploy)'
         required: false
         type: boolean
+      skip_deploy:
+        description: 'Skip Deployment? (Run scan/commit only)'
+        required: false
+        type: boolean
+        default: false
       clear_history:
         description: '⚠️ Clear History File? (Resets memory)'
         required: false
@@ -38,20 +43,16 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      # --- OPTION: CLEAR HISTORY ---
       - name: Clear History (Optional)
         if: ${{ inputs.clear_history }}
         run: |
           echo "[]" > paper_history.json
           echo "Memory wiped."
 
-      # --- OPTION: CLEAR LOGS ---
       - name: Clear Logs (Optional)
         if: ${{ inputs.clear_logs }}
         run: |
-          # Dynamically find this month's log file
           LOG_FILE="logs/decisions-$(date +%Y-%m).md"
-          
           if [ -f "$LOG_FILE" ]; then
             rm "$LOG_FILE"
             echo "Deleted $LOG_FILE"
@@ -83,7 +84,8 @@ jobs:
   # JOB 2: THE DEPLOYER
   deploy-site:
     needs: scan-content
-    if: ${{ always() && (needs.scan-content.result == 'success' || inputs.skip_scan) }}
+    # LOGIC UPDATE: Run only if NOT skipping deploy AND (scan succeeded OR scan was skipped)
+    if: ${{ always() && !inputs.skip_deploy && (needs.scan-content.result == 'success' || inputs.skip_scan) }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
