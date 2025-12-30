@@ -2,27 +2,28 @@ name: Hourly Paper Scan
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Hourly
-  workflow_dispatch:       # Manual trigger button
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      skip_scan:
+        description: 'Skip Python Scan? (check to only deploy)'
+        required: false
+        type: boolean
 
-# Grant permissions to write to the Repo AND deploy to Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# Define the deployment environment to prevent "stuck" jobs
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
 jobs:
-  scan-and-deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  # JOB 1: THE SCANNER (Optional)
+  scan-content:
+    if: ${{ !inputs.skip_scan }}
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
@@ -33,26 +34,37 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          pip install feedparser openai requests beautifulsoup4
+        run: pip install feedparser openai requests beautifulsoup4
 
-      # 1. RUN THE SCRIPT
-      - name: Run AI Scanner (Dual Model)
+      - name: Run AI Scanner
         env:
           RSS_URL: ${{ secrets.RSS_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python main.py
 
-      # 2. COMMIT THE FILE (For your records)
-      - name: Commit Feed to Repo
+      - name: Commit Changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add paper_history.json feed.xml logs/
-          # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update feed" && git push)
 
-      # 3. DEPLOY TO LIVE SITE
+  # JOB 2: THE DEPLOYER (Always runs after scanner, or independently)
+  deploy-site:
+    needs: scan-content
+    # Run if scan succeeded OR if scan was skipped intentionally
+    if: ${{ always() && (needs.scan-content.result == 'success' || inputs.skip_scan) }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        # If the scanner ran, we need to pull the latest commit it just pushed
+        with:
+          ref: main 
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
