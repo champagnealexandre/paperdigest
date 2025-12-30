@@ -14,9 +14,9 @@ BASE_URL = "https://alexandrechampagne.io/ooldigest"
 FEED_URL = f"{BASE_URL}/feed.xml"
 
 # --- TOGGLES ---
-SHADOW_MODE = False        # Set to True to compare models (costs more)
-PRIMARY_MODEL = "gpt-4o"   # The smart model making decisions
-SHADOW_MODEL = "gpt-4o-mini" # The cheap model for comparison
+SHADOW_MODE = False        
+PRIMARY_MODEL = "gpt-4o"   
+SHADOW_MODEL = "gpt-4o-mini" 
 
 # --- CUSTOM INSTRUCTIONS ---
 CUSTOM_INSTRUCTIONS = """
@@ -49,7 +49,6 @@ def log_decision(title, score_primary, score_shadow, action, link):
     log_file = f"logs/decisions-{month_str}.md"
     timestamp = datetime.datetime.now().strftime("%d %H:%M")
     
-    # Handle N/A for Shadow Mode
     if score_shadow is not None:
         delta = score_primary - score_shadow
         delta_str = f"+{delta}" if delta > 0 else str(delta)
@@ -58,7 +57,6 @@ def log_decision(title, score_primary, score_shadow, action, link):
         delta_str = "N/A"
         shadow_val = "N/A"
     
-    # Format: | Date | Shadow(Mini) | Primary(4o) | Diff | Action | Paper |
     entry = f"| {timestamp} | {shadow_val} | **{score_primary}** | {delta_str} | {action} | [{title}]({link}) |\n"
     
     if not os.path.exists(log_file):
@@ -123,8 +121,9 @@ def load_history():
     return []
 
 def save_history(data):
+    # Increased limit to 200 to accommodate storing rejected papers
     with open(HISTORY_FILE, 'w') as f:
-        json.dump(data[:60], f, indent=2)
+        json.dump(data[:200], f, indent=2)
 
 def clean_text(text):
     if not text: return ""
@@ -147,10 +146,14 @@ def generate_manual_atom(papers):
     seen_dates = set()
 
     for p in papers:
+        # FILTER: Only include Accepted papers in the public feed
+        score = p.get('score', 0)
+        if score < 40:
+            continue
+
         title = html.escape(clean_text(p.get('title', 'Untitled')))
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
-        score = p.get('score', 0)
         link = html.escape(p.get('link', ''))
         
         pub_date = p.get('published', now_iso)
@@ -224,28 +227,33 @@ def main():
                 analysis_shadow = analyze_paper(entry.title, getattr(entry, 'description', ''), SHADOW_MODEL)
                 score_shadow = analysis_shadow['score']
 
-            # Decision (Always uses Primary Score)
+            # Create Paper Object
+            paper_obj = {
+                "title": entry.title,
+                "link": entry.link, 
+                "score": score_primary,
+                "summary": analysis_primary['summary'],
+                "abstract": getattr(entry, 'description', ''),
+                "published": pub_date.isoformat()
+            }
+
+            # SAVE ALL (Accepted & Rejected) so we don't re-process them
+            new_hits.append(paper_obj)
+            existing_titles.add(entry.title)
+
             if score_primary >= 40:
                 print(f"✅ ACCEPTED [{score_primary}]: {entry.title}")
                 log_decision(entry.title, score_primary, score_shadow, "✅ Accepted", entry.link)
-                
-                new_hits.append({
-                    "title": entry.title,
-                    "link": entry.link, 
-                    "score": score_primary,
-                    "summary": analysis_primary['summary'],
-                    "abstract": getattr(entry, 'description', ''),
-                    "published": pub_date.isoformat()
-                })
-                existing_titles.add(entry.title)
             else:
                 print(f"❌ REJECTED [{score_primary}]: {entry.title}")
                 log_decision(entry.title, score_primary, score_shadow, "❌ Rejected", entry.link)
 
     if new_hits:
-        print(f"Found {len(new_hits)} new papers total.")
+        print(f"Processed {len(new_hits)} papers.")
+        # Prepend new hits to history
         updated_history = new_hits + history
         save_history(updated_history)
+        # Generate Feed (The function now handles the filtering internally)
         generate_manual_atom(updated_history)
     else:
         generate_manual_atom(history)
