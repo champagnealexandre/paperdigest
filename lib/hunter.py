@@ -1,8 +1,10 @@
 import requests
 import re
+import logging
 from bs4 import BeautifulSoup
+from typing import List
 
-def hunt_paper_links(url, academic_domains):
+def hunt_paper_links(url: str, academic_domains: List[str]) -> List[str]:
     found_links = set()
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'}
@@ -26,6 +28,6 @@ def hunt_paper_links(url, academic_domains):
                 found_links.add(href)
 
     except Exception as e:
-        print(f"   [Hunter] Failed to scrape {url}: {e}")
+        logging.warning(f"[Hunter] Failed to scrape {url}: {e}")
     
     return list(found_links)

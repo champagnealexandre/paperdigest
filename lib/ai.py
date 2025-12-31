@@ -1,7 +1,9 @@
 import json
+import logging
 from openai import OpenAI
+from typing import List, Dict, Any, Union
 
-def get_client(api_key):
+def get_client(api_key: str) -> OpenAI:
     return OpenAI(
         base_url="https://openrouter.ai/api/v1",
         api_key=api_key,
@@ -11,7 +13,7 @@ def get_client(api_key):
         }
     )
 
-def analyze_paper(client, model_name, prompt_template, title, abstract, found_links, all_keywords, custom_instructions, temperature=0.1):
+def analyze_paper(client: OpenAI, model_name: str, prompt_template: Union[str, List[str]], title: str, abstract: str, found_links: List[str], all_keywords: List[str], custom_instructions: str, temperature: float = 0.1) -> Dict[str, Any]:
     if found_links is None: found_links = []
     
     keywords_str = ", ".join(all_keywords)
@@ -41,5 +43,5 @@ def analyze_paper(client, model_name, prompt_template, title, abstract, found_li
             }
         return result
     except Exception as e:
-        print(f"LLM Error ({model_name}): {e}")
+        logging.error(f"LLM Error ({model_name}): {e}")
         return {"score": 0, "summary": "Error"}

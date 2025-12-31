@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ full_title }}</title>
+  <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
+  <link href="{{ feed_url }}" rel="self"/>
+  <link href="https://github.com/champagnealexandre/ooldigest"/>
+  <updated>{{ now_iso }}</updated>
+  <id>{{ feed_url }}</id>
+  <author><name>AI Agent</name></author>
+  {% for entry in entries %}
+  <entry>
+    <title>{{ entry.display_title }}</title>
+    <link href="{{ entry.link }}"/>
+    <id>{{ entry.link }}</id>
+    <updated>{{ entry.pub_date }}</updated>
+    <summary>{{ entry.summary }}</summary>
+    <content type="html">{{ entry.content_html }}</content>
+  </entry>
+  {% endfor %}
+</feed>

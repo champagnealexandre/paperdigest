@@ -3,3 +3,5 @@ openai
 requests
 beautifulsoup4
 PyYAML
+Jinja2
+pydantic

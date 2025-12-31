@@ -1,12 +1,18 @@
 import os
 import yaml
 import datetime
+import logging
 import concurrent.futures
 from lib import utils, hunter, ai, feed as feed_gen, rss
+from lib.config_schema import Config
 
-def load_config():
+def load_config() -> dict:
     with open("config.yaml", "r") as f:
-        return yaml.safe_load(f)
+        raw_config = yaml.safe_load(f)
+    # Validate with Pydantic
+    config_model = Config(**raw_config)
+    # Return as dict to maintain compatibility with existing code
+    return config_model.model_dump()
 
 def process_feed_item(item, config, client, all_keywords):
     """
@@ -18,7 +24,7 @@ def process_feed_item(item, config, client, all_keywords):
     entry = item['entry']
     feed_category = item['category']
     
-    print(f"   [Hunter] Scanning {entry.link[:40]}...")
+    logging.info(f"[Hunter] Scanning {entry.link[:40]}...")
     hunted_links = hunter.hunt_paper_links(entry.link, config['academic_domains'])
     
     # Analyze
@@ -44,6 +50,13 @@ def process_feed_item(item, config, client, all_keywords):
     }
 
 def main():
+    # Setup Logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        datefmt='%H:%M:%S'
+    )
+
     config = load_config()
     
     # Setup AI
@@ -52,7 +65,7 @@ def main():
     
     all_keywords = list(set(config['keywords_astro'] + config['keywords_ool']))
     
-    print("Fetching RSS feeds...")
+    logging.info("Fetching RSS feeds...")
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
     history = utils.load_history(config['history_file'])
@@ -90,23 +103,23 @@ def main():
                 new_hits.append(paper_obj)
                 
                 if score >= 0:
-                    print(f"✅ ACCEPTED [{score}]: {entry.title}")
+                    logging.info(f"✅ ACCEPTED [{score}]: {entry.title}")
                     utils.log_decision(entry.title, score, "✅ Accepted", entry.link)
                 else:
-                    print(f"❌ REJECTED [{score}]: {entry.title}")
+                    logging.info(f"❌ REJECTED [{score}]: {entry.title}")
                     utils.log_decision(entry.title, score, "❌ Rejected", entry.link)
 
             except Exception as e:
-                print(f"⚠️ Error processing a paper: {e}")
+                logging.error(f"⚠️ Error processing a paper: {e}")
 
     if new_hits:
-        print(f"Processed {len(new_hits)} papers.")
+        logging.info(f"Processed {len(new_hits)} papers.")
         updated_history = new_hits + history
         utils.save_history(updated_history, config['history_file'])
         papers_to_gen = updated_history
     else:
         papers_to_gen = history
-        print("No new papers, but feed regenerated.")
+        logging.info("No new papers, but feed regenerated.")
 
     # 1. Generate Aggregate Feed
     feed_gen.generate_feed(papers_to_gen, config, "all.xml", "All")

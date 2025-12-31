@@ -1,16 +1,18 @@
 import datetime
 import html
 import os
+from typing import List, Dict, Any, Set
+from jinja2 import Environment, FileSystemLoader, select_autoescape
 from .utils import clean_text
 
-def get_score_emoji(score):
+def get_score_emoji(score: int) -> str:
     if score < 20: return "🟤"
     if score < 40: return "🔴"
     if score < 60: return "🟠"
     if score < 80: return "🟡"
     return "🟢"
 
-def shorten_source_name(feed_source):
+def shorten_source_name(feed_source: str) -> str:
     short_source = feed_source
     for sep in [" - ", " | ", ": "]:
         if sep in short_source:
@@ -22,20 +24,19 @@ def shorten_source_name(feed_source):
             break
     return short_source
 
-def generate_entry_xml(p, academic_domains, seen_dates):
+def prepare_entry_data(p: Dict[str, Any], academic_domains: List[str], seen_dates: Set[str]) -> Dict[str, Any]:
     score = p.get('score', 0)
-    if score < 0: return ""
+    if score < 0: return {}
 
     emoji = get_score_emoji(score)
     title_raw = clean_text(p.get('title', 'Untitled'))
-    category = p.get('category', 'GENERAL')
     feed_source = p.get('feed_source', 'Unknown')
     short_source = shorten_source_name(feed_source)
     
     display_title = f"{emoji} {short_source} ➤ {title_raw}"
-    display_title_esc = html.escape(display_title)
+    # Jinja2 will handle escaping for the title
     
-    summary = html.escape(clean_text(p.get('summary', 'No summary')))
+    summary = clean_text(p.get('summary', 'No summary'))
     abstract = html.escape(clean_text(p.get('abstract', '')))
     link = html.escape(p.get('link', ''))
     
@@ -73,7 +74,6 @@ def generate_entry_xml(p, academic_domains, seen_dates):
     seen_dates.add(pub_date)
     
     content_html = f"""
-    <strong>AI Summary:</strong> {summary}<br/>
     <hr/>
     <strong>Abstract:</strong><br/>
     {abstract}
@@ -82,18 +82,15 @@ def generate_entry_xml(p, academic_domains, seen_dates):
     <a href="{link}">Read Full Article</a>
     """
     
-    return f"""
-  <entry>
-    <title>{display_title_esc}</title>
-    <link href="{link}"/>
-    <id>{link}</id>
-    <updated>{pub_date}</updated>
-    <summary>{summary}</summary>
-    <content type="html">{html.escape(content_html)}</content>
-  </entry>
-"""
+    return {
+        "display_title": display_title,
+        "link": link,
+        "pub_date": pub_date,
+        "summary": summary,
+        "content_html": html.escape(content_html)
+    }
 
-def generate_feed(papers, config, filename, title_suffix=""):
+def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename: str, title_suffix: str = ""):
     os.makedirs("public", exist_ok=True)
     output_path = os.path.join("public", filename)
     feed_url = f"{config['base_url']}/{filename}"
@@ -103,21 +100,25 @@ def generate_feed(papers, config, filename, title_suffix=""):
     if title_suffix:
         full_title += f" - {title_suffix}"
 
-    xml_content = f"""<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>{full_title}</title>
-  <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
-  <link href="{feed_url}" rel="self"/>
-  <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>{now_iso}</updated>
-  <id>{feed_url}</id>
-  <author><name>AI Agent</name></author>
-"""
     seen_dates = set()
     academic_domains = config['academic_domains']
-
+    
+    entries = []
     for p in papers:
-        xml_content += generate_entry_xml(p, academic_domains, seen_dates)
+        entry_data = prepare_entry_data(p, academic_domains, seen_dates)
+        if entry_data:
+            entries.append(entry_data)
 
-    xml_content += "</feed>"
-    with open(output_path, "w", encoding='utf-8') as f: f.write(xml_content)
+    env = Environment(
+        loader=FileSystemLoader("templates"),
+        autoescape=select_autoescape(['xml'])
+    )
+    template = env.get_template("feed.xml")
+    
+    with open(output_path, "w", encoding='utf-8') as f:
+        f.write(template.render(
+            full_title=full_title,
+            feed_url=feed_url,
+            now_iso=now_iso,
+            entries=entries
+        ))

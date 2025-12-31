@@ -1,10 +1,12 @@
 import feedparser
 import datetime
+import logging
+from typing import List, Dict, Any, Set
 
-def fetch_new_entries(rss_urls, existing_titles, cutoff):
+def fetch_new_entries(rss_urls: List[str], existing_titles: Set[str], cutoff: datetime.datetime) -> List[Dict[str, Any]]:
     found_items = []
     for link in rss_urls:
-        print(f"-> Parsing {link[:40]}...")
+        logging.info(f"Parsing {link[:40]}...")
         try:
             feed = feedparser.parse(link)
             
@@ -33,6 +35,6 @@ def fetch_new_entries(rss_urls, existing_titles, cutoff):
                     'pub_date': pub_date
                 })
         except Exception as e:
-            print(f"Error parsing {link}: {e}")
+            logging.error(f"Error parsing {link}: {e}")
             
     return found_items

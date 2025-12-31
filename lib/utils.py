@@ -2,21 +2,22 @@ import os
 import json
 import datetime
 from bs4 import BeautifulSoup
+from typing import List, Dict, Any
 
-def load_history(history_file):
+def load_history(history_file: str) -> List[Dict[str, Any]]:
     if os.path.exists(history_file):
         with open(history_file, 'r') as f: return json.load(f)
     return []
 
-def save_history(data, history_file):
+def save_history(data: List[Dict[str, Any]], history_file: str) -> None:
     with open(history_file, 'w') as f: json.dump(data[:200], f, indent=2)
 
-def clean_text(text):
+def clean_text(text: str) -> str:
     if not text: return ""
     text = BeautifulSoup(text, "html.parser").get_text(separator=' ')
     return " ".join(text.split())
 
-def log_decision(title, score_primary, action, link):
+def log_decision(title: str, score_primary: int, action: str, link: str) -> None:
     os.makedirs("logs", exist_ok=True)
     month_str = datetime.datetime.now().strftime("%Y-%m")
     log_file = f"logs/decisions-{month_str}.md"
