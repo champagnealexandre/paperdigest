@@ -4,9 +4,41 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ool-ressources.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-31T17:25:09.550948+00:00</updated>
+  <updated>2025-12-31T18:38:48.390223+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ool-ressources.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟠 Astrobiology ➤ Not Just Gas: How Solid-Driven Torques Shaped the Migration of the Galilean Moons</title>
+    <link href="https://astrobiology.com/2025/12/not-just-gas-how-solid-driven-torques-shaped-the-migration-of-the-galilean-moons.html"/>
+    <id>https://astrobiology.com/2025/12/not-just-gas-how-solid-driven-torques-shaped-the-migration-of-the-galilean-moons.html</id>
+    <updated>2025-12-31T18:35:01+00:00</updated>
+    <summary>Two-fluid circumjovian disk simulations show that solid-driven torques (not just gas) can significantly influence the orbital migration pathways of proto-Europa/Ganymede-mass Galilean moons.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    The primary aim of this study is to investigate the orbital migration of the Galilean moons by incorporating self-consistent solid dynamics in circumjovian disk models. We perform two-fluid simulations using the FARGO3D code on a 2D polar grid. The simulations model a satellite with the mass of a proto-moon, Europa, or Ganymede interacting with a […] The post Not Just Gas: How Solid-Driven Torques Shaped the Migration of the Galilean Moons appeared first on Astrobiology .
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2512.23542&#34;&gt;[ArXiv Preprint] https://arxiv.org/abs/2512.23542&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2512.23542&#34;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2512.23542&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://astrobiology.com/2025/12/not-just-gas-how-solid-driven-torques-shaped-the-migration-of-the-galilean-moons.html&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 Astrobiology ➤ Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222</title>
+    <link href="https://astrobiology.com/2025/12/precise-physical-parameters-habitability-and-orbital-stability-of-sun-like-sb2-systems-hd-130669-hd-184467-hd-191854-and-hd-214222-2.html"/>
+    <id>https://astrobiology.com/2025/12/precise-physical-parameters-habitability-and-orbital-stability-of-sun-like-sb2-systems-hd-130669-hd-184467-hd-191854-and-hd-214222-2.html</id>
+    <updated>2025-12-31T18:35:02+00:00</updated>
+    <summary>Combines visual+spectroscopic data and atmospheric modeling to precisely characterize four Sun-like SB2 binaries and assess their habitable zones and orbital stability relevant to planetary habitability in binary systems.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    This work analyzes four Sun-like double-lined spectroscopic binary (SB2) systems by combining visual and spectroscopic observational data with Al-Wardat’s atmospheric modeling method to accurately determine their fundamental parameters. For each system, we determine stellar masses, orbital parallaxes, effective temperatures, spectral types, semimajor axes, and eccentricities with high precision, resolving discrepancies between astrometric and spectroscopic measurements. […] The post Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222 appeared first on Astrobiology .
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2512.23652&#34;&gt;[ArXiv Preprint] https://arxiv.org/abs/2512.23652&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3847/1538-3881/ae0582&#34;&gt;[DOI Link] https://doi.org/10.3847/1538-3881/ae0582&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2512.23652&#34;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2512.23652&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://astrobiology.com/2025/12/precise-physical-parameters-habitability-and-orbital-stability-of-sun-like-sb2-systems-hd-130669-hd-184467-hd-191854-and-hd-214222-2.html&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟠 Astrobiology ➤ Viking Mars, Now 50 Years Old, Still Needs a Scientific Analysis</title>
