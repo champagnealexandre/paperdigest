@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Astrobiology AI Digest - OOL-RESSOURCES</title>
+  <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
+  <link href="https://alexandrechampagne.io/ooldigest/ool-ressources.xml" rel="self"/>
+  <link href="https://github.com/champagnealexandre/ooldigest"/>
+  <updated>2025-12-31T14:12:54.922828+00:00</updated>
+  <id>https://alexandrechampagne.io/ooldigest/ool-ressources.xml</id>
+  <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>🟠 [Astrobiology] Viking Mars, Now 50 Years Old, Still Needs a Scientific Analysis</title>
+    <link href="https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;mi=cjwv&amp;af=R"/>
+    <id>https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;mi=cjwv&amp;af=R</id>
+    <updated>2025-12-31T04:46:37+00:00</updated>
+    <summary>A retrospective/opinion-style Astrobiology piece arguing that Viking-era Mars life-detection results still warrant rigorous reanalysis, relevant to planetary habitability and biosignature interpretation but not a direct origins-of-life study.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; OOL-RESSOURCES&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A retrospective/opinion-style Astrobiology piece arguing that Viking-era Mars life-detection results still warrant rigorous reanalysis, relevant to planetary habitability and biosignature interpretation but not a direct origins-of-life study.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Astrobiology, Ahead of Print.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;amp;mi=cjwv&amp;amp;af=R&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+</feed>

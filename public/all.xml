@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Astrobiology AI Digest - All</title>
+  <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
+  <link href="https://alexandrechampagne.io/ooldigest/all.xml" rel="self"/>
+  <link href="https://github.com/champagnealexandre/ooldigest"/>
+  <updated>2025-12-31T14:12:54.906864+00:00</updated>
+  <id>https://alexandrechampagne.io/ooldigest/all.xml</id>
+  <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>🟠 [eLife - recent issues] Evolution of a fuzzy ribonucleoprotein complex in viral assembly</title>
+    <link href="https://elifesciences.org/articles/108922"/>
+    <id>https://elifesciences.org/articles/108922</id>
+    <updated>2025-12-31T02:54:39+00:00</updated>
+    <summary>Using SARS-CoV-2 nucleocapsid variants, the study shows convergent evolution toward stronger distributed RNA/protein interactions that tune formation and stability of polydisperse, fuzzy RNP assemblies, offering broad conceptual insight into reversible RNA condensation and self-organization.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; eLife - recent issues&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Using SARS-CoV-2 nucleocapsid variants, the study shows convergent evolution toward stronger distributed RNA/protein interactions that tune formation and stability of polydisperse, fuzzy RNP assemblies, offering broad conceptual insight into reversible RNA condensation and self-organization.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Previously, we showed that the genetic diversity of SARS-CoV-2 nucleocapsid (N) protein explores a wide range of biophysical properties facilitated by non-local impact of point mutations to its intrinsically disordered regions (Nguyen et al., 2024). This includes modulation of self-association, such as the creation of a de novo binding interface through the P13L mutation characteristic of Omicron variants. In the present work, we focus on the key function of N condensing viral RNA into ribonucleoprotein particles (RNPs) for viral assembly. Lacking high-resolution structural information, biochemical and biophysical approaches have revealed architectural principles of RNPs, which involve cooperative interactions of several protein-protein and protein-RNA interfaces, initiated through oligomerization of conserved transient helices in the central disordered linker of N. Here, we study the impact of defining N-protein mutations in variants of concern on RNP formation, using biophysical tools, a virus-like particle assay, and reverse genetics experiments. We find convergent evolution in repeated, independent introduction of amino acid substitutions strengthening existing binding interfaces, compensating for other substitutions that promote viral replication but decrease RNP stability. Furthermore, we show that the P13L mutation of Omicron variants enhances RNP assembly and increases viral fitness. Overall, our data reveal RNP complexes to be highly variable not only in sequence and conformations but also in thermodynamic and kinetic stability, with its pleomorphism affecting basic architectural principles. We hypothesize that the formation of polydisperse, fuzzy N-RNA clusters with multiple distributed weak binding interfaces optimizes reversible RNA condensation, while supporting host adaptation and allowing for a large sequence space to be explored.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/gch2.1018&quot;&gt;[DOI Link] https://doi.org/10.1002/gch2.1018&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/pro.3909&quot;&gt;[DOI Link] https://doi.org/10.1002/pro.3909&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/pro.3943&quot;&gt;[DOI Link] https://doi.org/10.1002/pro.3943&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/pro.4409&quot;&gt;[DOI Link] https://doi.org/10.1002/pro.4409&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/pro.4447&quot;&gt;[DOI Link] https://doi.org/10.1002/pro.4447&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/pro.4968&quot;&gt;[DOI Link] https://doi.org/10.1002/pro.4968&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s00018-017-2556-3&quot;&gt;[DOI Link] https://doi.org/10.1007/s00018-017-2556-3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s00018-017-2560-7&quot;&gt;[DOI Link] https://doi.org/10.1007/s00018-017-2560-7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s00249-021-01513-9&quot;&gt;[DOI Link] https://doi.org/10.1007/s00249-021-01513-9&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s11373-005-9035-9&quot;&gt;[DOI Link] https://doi.org/10.1007/s11373-005-9035-9&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s12104-021-10014-x&quot;&gt;[DOI Link] https://doi.org/10.1007/s12104-021-10014-x&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/bs.pmbts.2019.05.004&quot;&gt;[DOI Link] https://doi.org/10.1016/bs.pmbts.2019.05.004&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.ab.2013.05.011&quot;&gt;[DOI Link] https://doi.org/10.1016/j.ab.2013.05.011&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.bbrc.2020.09.131&quot;&gt;[DOI Link] https://doi.org/10.1016/j.bbrc.2020.09.131&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.bpc.2022.106843&quot;&gt;[DOI Link] https://doi.org/10.1016/j.bpc.2022.106843&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.bpj.2009.12.4336&quot;&gt;[DOI Link] https://doi.org/10.1016/j.bpj.2009.12.4336&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2016.05.004&quot;&gt;[DOI Link] https://doi.org/10.1016/j.cell.2016.05.004&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2018.12.035&quot;&gt;[DOI Link] https://doi.org/10.1016/j.cell.2018.12.035&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2020.09.018&quot;&gt;[DOI Link] https://doi.org/10.1016/j.cell.2020.09.018&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.cell.2023.08.026&quot;&gt;[DOI Link] https://doi.org/10.1016/j.cell.2023.08.026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.celrep.2014.04.052&quot;&gt;[DOI Link] https://doi.org/10.1016/j.celrep.2014.04.052&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.chom.2021.11.005&quot;&gt;[DOI Link] https://doi.org/10.1016/j.chom.2021.11.005&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.csbj.2022.08.015&quot;&gt;[DOI Link] https://doi.org/10.1016/j.csbj.2022.08.015&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.ijbiomac.2021.08.026&quot;&gt;[DOI Link] https://doi.org/10.1016/j.ijbiomac.2021.08.026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.isci.2021.102523&quot;&gt;[DOI Link] https://doi.org/10.1016/j.isci.2021.102523&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jbc.2022.102560&quot;&gt;[DOI Link] https://doi.org/10.1016/j.jbc.2022.102560&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jbc.2023.105362&quot;&gt;[DOI Link] https://doi.org/10.1016/j.jbc.2023.105362&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jbc.2024.107828&quot;&gt;[DOI Link] https://doi.org/10.1016/j.jbc.2024.107828&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jmb.2018.02.015&quot;&gt;[DOI Link] https://doi.org/10.1016/j.jmb.2018.02.015&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.jmb.2022.167891&quot;&gt;[DOI Link] https://doi.org/10.1016/j.jmb.2022.167891&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.molcel.2020.11.025&quot;&gt;[DOI Link] https://doi.org/10.1016/j.molcel.2020.11.025&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.molcel.2020.11.041&quot;&gt;[DOI Link] https://doi.org/10.1016/j.molcel.2020.11.041&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.sbi.2011.02.005&quot;&gt;[DOI Link] https://doi.org/10.1016/j.sbi.2011.02.005&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.tibs.2007.10.003&quot;&gt;[DOI Link] https://doi.org/10.1016/j.tibs.2007.10.003&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.tibs.2008.10.009&quot;&gt;[DOI Link] https://doi.org/10.1016/j.tibs.2008.10.009&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.tibs.2010.10.002&quot;&gt;[DOI Link] https://doi.org/10.1016/j.tibs.2010.10.002&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.virusres.2003.11.008&quot;&gt;[DOI Link] https://doi.org/10.1016/j.virusres.2003.11.008&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.xcrp.2025.102695&quot;&gt;[DOI Link] https://doi.org/10.1016/j.xcrp.2025.102695&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1017/ice.2021.390&quot;&gt;[DOI Link] https://doi.org/10.1017/ice.2021.390&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1021/ac500093m&quot;&gt;[DOI Link] https://doi.org/10.1021/ac500093m&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1021/cr4005692&quot;&gt;[DOI Link] https://doi.org/10.1021/cr4005692&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/nrm1589&quot;&gt;[DOI Link] https://doi.org/10.1038/nrm1589&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-020-19619-7&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-020-19619-7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-020-19843-1&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-020-19843-1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-021-21953-3&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-021-21953-3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-023-38882-y&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-023-38882-y&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-023-44502-6&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-023-44502-6&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-024-55024-0&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-024-55024-0&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41467-025-61861-4&quot;&gt;[DOI Link] https://doi.org/10.1038/s41467-025-61861-4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41579-023-00878-2&quot;&gt;[DOI Link] https://doi.org/10.1038/s41579-023-00878-2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41580-023-00673-0&quot;&gt;[DOI Link] https://doi.org/10.1038/s41580-023-00673-0&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41592-022-01488-1&quot;&gt;[DOI Link] https://doi.org/10.1038/s41592-022-01488-1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s42003-023-04570-2&quot;&gt;[DOI Link] https://doi.org/10.1038/s42003-023-04570-2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1039/c5mb00301f&quot;&gt;[DOI Link] https://doi.org/10.1039/c5mb00301f&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1073/pnas.0806270105&quot;&gt;[DOI Link] https://doi.org/10.1073/pnas.0806270105&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1073/pnas.2215828120&quot;&gt;[DOI Link] https://doi.org/10.1073/pnas.2215828120&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1073/pnas.2304302120&quot;&gt;[DOI Link] https://doi.org/10.1073/pnas.2304302120&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1073/pnas.2305674120&quot;&gt;[DOI Link] https://doi.org/10.1073/pnas.2305674120&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1074/jbc.M501015200&quot;&gt;[DOI Link] https://doi.org/10.1074/jbc.M501015200&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1080/22221751.2019.1575700&quot;&gt;[DOI Link] https://doi.org/10.1080/22221751.2019.1575700&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/bioinformatics/bty407&quot;&gt;[DOI Link] https://doi.org/10.1093/bioinformatics/bty407&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/nar/gkac596&quot;&gt;[DOI Link] https://doi.org/10.1093/nar/gkac596&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/nar/gkad1215&quot;&gt;[DOI Link] https://doi.org/10.1093/nar/gkad1215&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/nar/gkae256&quot;&gt;[DOI Link] https://doi.org/10.1093/nar/gkae256&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/pnasnexus/pgac049&quot;&gt;[DOI Link] https://doi.org/10.1093/pnasnexus/pgac049&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/ve/vead055&quot;&gt;[DOI Link] https://doi.org/10.1093/ve/vead055&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1101/2021.08.05.21261642&quot;&gt;[DOI Link] https://doi.org/10.1101/2021.08.05.21261642&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1101/2023.08.06.552128&quot;&gt;[DOI Link] https://doi.org/10.1101/2023.08.06.552128&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1101/2023.12.12.571262&quot;&gt;[DOI Link] https://doi.org/10.1101/2023.12.12.571262&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1101/2024.03.08.584120&quot;&gt;[DOI Link] https://doi.org/10.1101/2024.03.08.584120&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1101/2025.02.15.638421&quot;&gt;[DOI Link] https://doi.org/10.1101/2025.02.15.638421&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1101/2025.04.26.650775&quot;&gt;[DOI Link] https://doi.org/10.1101/2025.04.26.650775&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/sciadv.aax2323&quot;&gt;[DOI Link] https://doi.org/10.1126/sciadv.aax2323&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/sciadv.abm4034&quot;&gt;[DOI Link] https://doi.org/10.1126/sciadv.abm4034&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/sciadv.adg6473&quot;&gt;[DOI Link] https://doi.org/10.1126/sciadv.adg6473&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/science.1169375&quot;&gt;[DOI Link] https://doi.org/10.1126/science.1169375&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/science.abl6184&quot;&gt;[DOI Link] https://doi.org/10.1126/science.abl6184&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/science.abm1208&quot;&gt;[DOI Link] https://doi.org/10.1126/science.abm1208&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1128/jvi.77.8.4546-4557.2003&quot;&gt;[DOI Link] https://doi.org/10.1128/jvi.77.8.4546-4557.2003&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1128/mBio.02168-20&quot;&gt;[DOI Link] https://doi.org/10.1128/mBio.02168-20&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1128/mbio.02388-23&quot;&gt;[DOI Link] https://doi.org/10.1128/mbio.02388-23&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1172/JCI160766&quot;&gt;[DOI Link] https://doi.org/10.1172/JCI160766&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1186/s12964-015-0120-z&quot;&gt;[DOI Link] https://doi.org/10.1186/s12964-015-0120-z&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1186/s12985-023-01968-6&quot;&gt;[DOI Link] https://doi.org/10.1186/s12985-023-01968-6&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1201/9781315367231&quot;&gt;[DOI Link] https://doi.org/10.1201/9781315367231&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1201/b19028&quot;&gt;[DOI Link] https://doi.org/10.1201/b19028&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1201/b21988&quot;&gt;[DOI Link] https://doi.org/10.1201/b21988&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.pbio.3001425&quot;&gt;[DOI Link] https://doi.org/10.1371/journal.pbio.3001425&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.pbio.3002982&quot;&gt;[DOI Link] https://doi.org/10.1371/journal.pbio.3002982&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.pone.0238665&quot;&gt;[DOI Link] https://doi.org/10.1371/journal.pone.0238665&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.ppat.1010627&quot;&gt;[DOI Link] https://doi.org/10.1371/journal.ppat.1010627&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.ppat.1012741&quot;&gt;[DOI Link] https://doi.org/10.1371/journal.ppat.1012741&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1371/journal.ppat.1012886&quot;&gt;[DOI Link] https://doi.org/10.1371/journal.ppat.1012886&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.14348/molcells.2022.0130&quot;&gt;[DOI Link] https://doi.org/10.14348/molcells.2022.0130&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.15252/embj.2020106478&quot;&gt;[DOI Link] https://doi.org/10.15252/embj.2020106478&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.15252/embj.2020106501&quot;&gt;[DOI Link] https://doi.org/10.15252/embj.2020106501&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.15252/embr.202255393&quot;&gt;[DOI Link] https://doi.org/10.15252/embr.202255393&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.21769/BioProtoc.4195&quot;&gt;[DOI Link] https://doi.org/10.21769/BioProtoc.4195&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3389/fmicb.2021.693204&quot;&gt;[DOI Link] https://doi.org/10.3389/fmicb.2021.693204&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3390/biom12091302&quot;&gt;[DOI Link] https://doi.org/10.3390/biom12091302&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3390/ijms21239045&quot;&gt;[DOI Link] https://doi.org/10.3390/ijms21239045&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3390/microorganisms13020253&quot;&gt;[DOI Link] https://doi.org/10.3390/microorganisms13020253&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3390/vaccines12080887&quot;&gt;[DOI Link] https://doi.org/10.3390/vaccines12080887&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.108922&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.108922&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.108922.1&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.108922.1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.108922.2&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.108922.2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.108922.3&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.108922.3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.108922.3.sa0&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.108922.3.sa0&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.56159&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.56159&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.60220&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.60220&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7554/eLife.94836&quot;&gt;[DOI Link] https://doi.org/10.7554/eLife.94836&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.7910/DVN/4JPARC&quot;&gt;[DOI Link] https://doi.org/10.7910/DVN/4JPARC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&quot;&gt;[DOI Link] https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&quot;&gt;[DOI Link] https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://fediscience.org/@eLife&quot;&gt;[Full Paper] https://fediscience.org/@eLife&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://reddit.com/submit/?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&quot;&gt;[DOI Link] https://reddit.com/submit/?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://reddit.com/submit/?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&quot;&gt;[DOI Link] https://reddit.com/submit/?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://toot.kytta.dev/?text=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&quot;&gt;[DOI Link] https://toot.kytta.dev/?text=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://toot.kytta.dev/?text=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&quot;&gt;[DOI Link] https://toot.kytta.dev/?text=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://twitter.com/intent/tweet/?text=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&quot;&gt;[DOI Link] https://twitter.com/intent/tweet/?text=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://twitter.com/intent/tweet/?text=In%20%40eLife%3A%20Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&quot;&gt;[DOI Link] https://twitter.com/intent/tweet/?text=In%20%40eLife%3A%20Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/shareArticle?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&quot;&gt;[DOI Link] https://www.linkedin.com/shareArticle?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/shareArticle?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&quot;&gt;[DOI Link] https://www.linkedin.com/shareArticle?title=Evolution%20of%20a%20fuzzy%20ribonucleoprotein%20complex%20in%20viral%20assembly&amp;amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.108922.3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/12663761&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/12663761&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/15738986&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/15738986&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/15849181&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/15849181&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16228284&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/16228284&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/18054235&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/18054235&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/19062293&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/19062293&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/19359577&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/19359577&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/20441765&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/20441765&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/21146412&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/21146412&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/21482101&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/21482101&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/23711724&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/23711724&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/24552356&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/24552356&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/24823319&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/24823319&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/24882001&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/24882001&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/26289637&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/26289637&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/28597296&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/28597296&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/28600653&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/28600653&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/29477337&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/29477337&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/29790939&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/29790939&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/30682370&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/30682370&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/30866780&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/30866780&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/31521238&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/31521238&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/31565258&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/31565258&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/32484438&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/32484438&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/32654247&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/32654247&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/32881101&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/32881101&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/32978313&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/32978313&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/32979942&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/32979942&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33039147&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33039147&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33208793&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33208793&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33248025&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33248025&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33260713&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33260713&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33290746&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33290746&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33497392&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33497392&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33616531&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33616531&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33651123&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33651123&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33782395&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33782395&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/33997662&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/33997662&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/34371045&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/34371045&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/34470685&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/34470685&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/34634033&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/34634033&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/34671321&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/34671321&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/34735219&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/34735219&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/34761067&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/34761067&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/35044811&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/35044811&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/35608456&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/35608456&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/35637307&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/35637307&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/35871289&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/35871289&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/35989699&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/35989699&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36040256&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36040256&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36202211&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36202211&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36264642&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36264642&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36305765&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36305765&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36427566&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36427566&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36572560&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36572560&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36627683&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36627683&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/36806252&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/36806252&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/37020110&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/37020110&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/37286558&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/37286558&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/37727875&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/37727875&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/37738970&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/37738970&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/37863261&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/37863261&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/37957331&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/37957331&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/38153183&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/38153183&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/38532700&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/38532700&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/38587193&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/38587193&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/39093972&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/39093972&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/39204013&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/39204013&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/39341499&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/39341499&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/39653699&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/39653699&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/39836705&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/39836705&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/39841800&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/39841800&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/40664703&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/40664703&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/40881353&quot;&gt;[PubMed/NCBI] https://www.ncbi.nlm.nih.gov/pubmed/40881353&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://elifesciences.org/articles/108922&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [Master Feed : The Atlantic] 31 Atlantic Stories You Might Have Missed</title>
+    <link href="https://www.theatlantic.com/newsletters/2025/12/atlantic-stories-you-might-have-missed/685440/?utm_source=feed"/>
+    <id>https://www.theatlantic.com/newsletters/2025/12/atlantic-stories-you-might-have-missed/685440/?utm_source=feed</id>
+    <updated>2025-12-30T23:54:41+00:00</updated>
+    <summary>This is a general-interest Atlantic roundup of non-scientific feature stories (with only an incidental mention of “evolution”), offering no substantive content on origins of life, astrobiology, habitability, or biosignatures.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Master Feed : The Atlantic&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This is a general-interest Atlantic roundup of non-scientific feature stories (with only an incidental mention of “evolution”), offering no substantive content on origins of life, astrobiology, habitability, or biosignatures.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        In case you’re settling into winter and lamenting not having read everything The Atlantic has published this year, you’re in luck. I’ve created a list of stories you may have missed that are very much worth your time. The assortment ranges widely: eating an organ feast in Mark Twain’s Paris, experiencing a comedy-show adventure in Riyadh, drifting after a shipwreck in the Pacific, and diving into the secrets of the Inca empire. “What Parents of Boys Should Know” sparked many conversations in my group chats, as did this photo of Abraham Lincoln’s ear being cleaned. There are stories that contextualized a chaotic moment for the American experiment, drawing deeply on history. I hope you’ll spend time with this selection, and I would love to hear what you think. Send me a note: btharoor@theatlantic.com . I Watched Stand-Up in Saudi Arabia By Helen Lewis What the surreal Riyadh Comedy Festival foretold about the kingdom’s future The New Rasputins By Anne Applebaum Anti-science mysticism is enabling autocracy around the globe. America and Its Universities Need a New Social Contract By Danielle Allen Fifty dollars for STEM, five cents for citizenship—that’s how America apportions its education dollars. Our beleaguered universities must redress the balance—helping the country and themselves. What Parents of Boys Should Know By Joshua Coleman Daughters tend to receive higher levels of affection and patience at home than sons. But the sons might need it more. Is This the Worst-Ever Era of American Pop Culture? By Spencer Kornhaber An emerging critical consensus argues that we’ve entered a cultural dark age. I’m not so sure. My Shipwreck Story By Alec Frydman On my first time out as a commercial fisherman, my boat sank, my captain died, and I was left adrift and alone in the Pacific. An Innocent Abroad in Mark Twain’s Paris By Caity Weaver My quest for a true literary experience resulted in choucroute , a surprise organ feast, an epiphany at the Louvre, existential dread, and a rowboat. A PTSD Therapy “Seemed Too Good to Be True” By Yasmin Tayag What if overcoming trauma can be painless? What the Founders Would Say Now By Fintan O’Toole They might be surprised that the republic exists at all. Invisible Habits Are Driving Your Life By Shayla Love The science of habits reveals that they can be hidden to us and unresponsive to our desires. The Rise of John Ratcliffe By Shane Harris A partisan loyalist with a history of politicizing intelligence will soon be running the CIA. The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit By Gary Shteyngart A perfect suit, made by an expert tailor out of superlative fabric, would do nothing less than transform me. The New Authoritarianism By Steven Levitsky This isn’t single-party rule, but it’s not democracy either. Turtleboy Will Not Be Stopped By Chris Heath A profane blogger believes an innocent woman is being framed for murder. He’ll do anything to prove he’s right—and terrorize anyone who says he’s wrong. The Rise of the Brown v. Board of Education Skeptics By Justin Driver Why some mainstream Black intellectuals are giving up on the landmark decision The Internet’s Favorite Sex Researcher By Helen Lewis How Aella went from selling sex to studying it The Telepathy Trap By Daniel Engber A podcast shows how love divides us. The People Who Clean the Ears of Lincoln (And Other Statues) By Alan Taylor A collection of images of the varied workers and techniques used to maintain some of the world’s largest and most prominent statues and monuments. Accommodation Nation By Rose Horowitch America’s colleges have an extra-time-on-tests problem. Do You Actually Know What Classical Music Is? Does Anyone? By Matthew Aucoin The term is applied to radically different compositions across more than 1,000 years of history. We need a better definition. Miscarriage and Motherhood By Ashley Parker What having a baby taught me about the illusion of control The Short-Circuiting of the American Mind By Megan Garber A century-old book foresaw Trump’s most basic strategy. When William F. Buckley Jr. Met James Baldwin By Sam Tanenhaus In 1965, the two intellectual giants squared off in a debate at Cambridge. It didn’t go quite as Buckley hoped. A Grand Experiment in Parenthood and Friendship By Rhaina Cohen Would you raise kids with your best pals? Unraveling the Secrets of the Inca Empire By Sam Kean For hundreds of years, Andean people recorded information by tying knots into long cords. Will we ever be able to read them? How to Disappear By Benjamin Wallace Inside the world of extreme-privacy consultants, who, for the right fee, will make you and your personal information very hard to find The Wyoming Hospital Upending the Logic of Private Equity By Megan Greenwell Instead of cutting services to cut costs, one rural hospital plans to thrive by offering more. How Originalism Killed the Constitution By Jill Lepore A radical legal philosophy has undermined the process of constitutional evolution. The Myth of Mad King George By Rick Atkinson He was denounced by rebel propagandists as a tyrant and remembered by Americans as a reactionary dolt. Who was he really? America’s Zombie Democracy By George Packer Its trappings remain, but authoritarianism and AI are hollowing out our humanity. When Adoption Promises Are Broken By Nicole Chung Many birth mothers hope to maintain contact with their child. But their agreements with adoptive parents can be fragile. Evening Read Jan Buchczik New Year’s Resolutions That Will Actually Lead to Happiness By Arthur C. Brooks If you are someone who follows a traditional religion, you most likely have a day such as Yom Kippur, Ashura, or Ash Wednesday, dedicated to atoning for your sins and vowing to make improvements to your life. But if you are not religious, you might still practice a day of devotion and ritualistic vows of self-improvement each year on January 1. New Year’s Day rings in the month of January, dedicated by the ancient Romans to their god Janus. Religious Romans promised the two-faced god that they would be better in the new year than they had been in the past. According to the Pew Research Center , historically between one-third and one-half of Americans observe this pagan rite every year by making their own New Year’s resolutions. The most common resolutions are fairly predictable : financial resolutions, like saving more money or paying down debt (51 percent in 2019); eating healthier (51 percent); exercising more (50 percent); and losing weight (42 percent). Old Janus is pretty annoyed at this point, I imagine, because our resolutions overwhelmingly fail. Read the full article. Culture Break (Illustration by Shawna X) Watch. Here are the 10 best movies of 2025 , according to our critic David Sims. Explore. What’s the point of school photos anymore ? The portraits are kitschy and expensive—but parents can’t seem to stop buying them, Annie Midori Atherton writes. Play our daily crossword. Explore all of our newsletters. Rafaela Jinich contributed to this newsletter. When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.theatlantic.com/newsletters/2025/12/atlantic-stories-you-might-have-missed/685440/?utm_source=feed&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟡 [biophysics - biorXiv Preprints] Structural basis for hydrolytic splicing of a circularly permuted group II intron</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1</id>
+    <updated>2025-12-30T22:34:31+00:00</updated>
+    <summary>Cryo-EM and biochemistry reveal how a circularly permuted group II intron switches from branching to water-driven hydrolytic self-splicing, informing ribozyme mechanism and RNA-based evolutionary precursors to spliceosomal complexity.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; biophysics - biorXiv Preprints&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 65/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Cryo-EM and biochemistry reveal how a circularly permuted group II intron switches from branching to water-driven hydrolytic self-splicing, informing ribozyme mechanism and RNA-based evolutionary precursors to spliceosomal complexity.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Group II introns are self-splicing ribozymes that are considered the ancestors of the eukaryotic spliceosome. Unlike canonical group II introns that self-splice to generate linear exons and lariats, circularly permuted (CP) group II introns identified in various bacterial phyla perform back-splicing, resulting in the production of circular RNAs and branched products via branching pathway. Furthermore, CP introns may switch to a hydrolysis pathway resulting in distinct products to differentially regulate gene expression. In this study, we present biochemical data and high-resolution cryogenic electron microscopy (cryo-EM) structures of a CP group II intron from Comamonas testosteroni KF-1 (Cte 1), allowing mechanistic dissection of the branching pathway switch to the hydrolysis pathway and enabling reconstruction of both both steps of the hydrolysis pathway. The structures reveal that CP undergoes the hydrolysis pathway upon mutations of the branch point or splice sites (SS) due to rearrangements in the active site. Here, the branching nucleotide in domain D6 is retracted from its catalytically competent conformation, giving way to the nucleophilic water molecule to attack the 5&amp;#x27; splice site. Furthermore, we visualized the intermediates of the second splicing step, which reveal the movement of domain D6 out of the way for the 3&amp;#x27;-splicing to occur, closely resembling the second-step structures of the branching pathway. Finally, our structures provide direct evidence for domains D1D2D3 acting as a scaffold in group II introns.Together, these findings visualize the complete hydrolysis pathway and offer a new strategy to engineer CP introns for circular RNA production, with potential applications in both basic research and therapeutic development.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [The New York Times] Book Review: ‘Saving Time,’ by Jenny Odell</title>
+    <link href="https://www.nytimes.com/2023/03/07/books/review/jenny-odell-saving-time.html"/>
+    <id>https://www.nytimes.com/2023/03/07/books/review/jenny-odell-saving-time.html</id>
+    <updated>2025-12-30T21:30:59+00:00</updated>
+    <summary>A book review about rethinking human conceptions of time and hope, with no apparent connection to origins-of-life research or astrobiology.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; The New York Times&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A book review about rethinking human conceptions of time and hope, with no apparent connection to origins-of-life research or astrobiology.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        The author’s new book, “Saving Time: Discovering a Life Beyond the Clock,” urges readers to revise their conceptions of time and the world to nurture hope and action for a better future.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.nytimes.com/2023/03/07/books/review/jenny-odell-saving-time.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [The Inquisitive Biologist] Book review – The Desert Bones: The Paleontology and Paleoecology of Mid-Cretaceous North Africa</title>
+    <link href="https://inquisitivebiologist.com/2025/12/30/book-review-the-desert-bones-the-paleontology-and-paleoecology-of-mid-cretaceous-north-africa/"/>
+    <id>https://inquisitivebiologist.com/2025/12/30/book-review-the-desert-bones-the-paleontology-and-paleoecology-of-mid-cretaceous-north-africa/</id>
+    <updated>2025-12-30T20:42:55+00:00</updated>
+    <summary>A book review summarizing Mid-Cretaceous North African paleontology/paleoecology, offering limited indirect context for life’s history but no direct origins-of-life or astrobiology relevance.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; The Inquisitive Biologist&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A book review summarizing Mid-Cretaceous North African paleontology/paleoecology, offering limited indirect context for life’s history but no direct origins-of-life or astrobiology relevance.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        The Desert Bones brings to life North Africa during the Mid-Cretaceous through a meticulous and exhaustive overview of the often fragmentary fossils that have been found in this region.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://inquisitivebiologist.com/2025/12/30/book-review-the-desert-bones-the-paleontology-and-paleoecology-of-mid-cretaceous-north-africa/&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] University Of Canterbury Team Led Study Of Interstellar Comet 3I/ATLAS</title>
+    <link href="https://astrobiology.com/2025/12/university-of-canterbury-team-led-study-of-interstellar-comet-3i-atlas.html"/>
+    <id>https://astrobiology.com/2025/12/university-of-canterbury-team-led-study-of-interstellar-comet-3i-atlas.html</id>
+    <updated>2025-12-30T19:35:02+00:00</updated>
+    <summary>Reports early observational study of the bright interstellar comet 3I/ATLAS, a rare opportunity to probe the composition of extrasolar planetesimals with potential implications for astrobiology (e.g., delivery of volatiles/organics) but not directly focused on origins-of-life chemistry.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Reports early observational study of the bright interstellar comet 3I/ATLAS, a rare opportunity to probe the composition of extrasolar planetesimals with potential implications for astrobiology (e.g., delivery of volatiles/organics) but not directly focused on origins-of-life chemistry.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        The comet 3I/ATLAS, discovered by an international team in July this year, is only the third interstellar object ever found in the history of astronomy. It is the first that is bright enough to be seen through amateur telescopes and is currently visible in the Northern Hemisphere. It will make its closest approach to Earth […] The post University Of Canterbury Team Led Study Of Interstellar Comet 3I/ATLAS appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://academic.oup.com/mnrasl/article/544/1/L31/8247984?login=false&quot;&gt;[Full Paper] https://academic.oup.com/mnrasl/article/544/1/L31/8247984?login=false&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2508.18382&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2508.18382&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2509.26053&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2509.26053&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/university-of-canterbury-team-led-study-of-interstellar-comet-3i-atlas.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] LIFE NASA RCN Seminar 6 January 2026</title>
+    <link href="https://astrobiology.com/2025/12/life-nasa-rcn-seminar-6-january-2026.html"/>
+    <id>https://astrobiology.com/2025/12/life-nasa-rcn-seminar-6-january-2026.html</id>
+    <updated>2025-12-30T19:35:03+00:00</updated>
+    <summary>Seminar announcement featuring work on deconvolving ancient biomarker signals to infer early ecosystem composition and eukaryotic evolution, relevant to biosignature interpretation but not directly to origins-of-life mechanisms.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Seminar announcement featuring work on deconvolving ancient biomarker signals to infer early ecosystem composition and eukaryotic evolution, relevant to biosignature interpretation but not directly to origins-of-life mechanisms.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Join the 2026 LIFE NASA RCN Seminar Series! This month’s speakers are Dr. Ilya Bobrovskiy and Dr. Tharika Liyanage. Time: January 6th, 8AM PDT/11AM EDTJOIN Title: Unmixing ancient biomarker signals to recover primary ecosystem composition. Dr. Ilya Bobrovskiy leads a research group at MARUM that seeks to deconvolve the early record of eukaryotic evolution using […] The post LIFE NASA RCN Seminar 6 January 2026 appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/life-nasa-rcn-seminar-6-january-2026.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟠 [Astrobiology] Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life</title>
+    <link href="https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html"/>
+    <id>https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html</id>
+    <updated>2025-12-30T19:35:04+00:00</updated>
+    <summary>Compares redox class distributions of interstellar molecules and human nutrients against PubChem, suggesting a non-random, potentially universal redox constraint on chemistry relevant to life’s emergence.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Compares redox class distributions of interstellar molecules and human nutrients against PubChem, suggesting a non-random, potentially universal redox constraint on chemistry relevant to life’s emergence.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Comparative analysis of redox properties across three chemically distinct datasets—interstellar compounds, human nutritional molecules, and &amp;gt;40 million substances in the PubChem database—reveals a striking and highly non-random pattern. Interstellar molecules and human nutrients exhibit nearly identical proportions of prooxidant, proreductant, and amphoteric species. In contrast, the PubChem chemical space is overwhelmingly dominated by amphoteric molecules […] The post Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://pubchem.ncbi.nlm.nih.gov/&quot;&gt;[PubMed/NCBI] https://pubchem.ncbi.nlm.nih.gov/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [New Scientist - Physics &amp;amp; Math] The cassette tape made a comeback in 2025 thanks to a DNA upgrade</title>
+    <link href="https://www.newscientist.com/article/2504378-the-cassette-tape-made-a-comeback-in-2025-thanks-to-a-dna-upgrade/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2504378-the-cassette-tape-made-a-comeback-in-2025-thanks-to-a-dna-upgrade/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2025-12-30T18:44:39+00:00</updated>
+    <summary>A news piece on using DNA as an ultra-dense data-storage medium in a cassette-tape format, tangentially relevant to origins-of-life through its focus on DNA as an information-bearing polymer rather than prebiotic chemistry or abiogenesis.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; New Scientist - Physics &amp;amp;amp; Math&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A news piece on using DNA as an ultra-dense data-storage medium in a cassette-tape format, tangentially relevant to origins-of-life through its focus on DNA as an information-bearing polymer rather than prebiotic chemistry or abiogenesis.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        With a storage capacity of 36 petabytes, a DNA-based cassette tape can hold every song every recorded, and it could be on the market within five years
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.newscientist.com/article/2504378-the-cassette-tape-made-a-comeback-in-2025-thanks-to-a-dna-upgrade/?utm_campaign=RSS%7CNSNS&amp;amp;utm_source=NSNS&amp;amp;utm_medium=RSS&amp;amp;utm_content=home&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟠 [ScienceDaily - Evolutionary Biology News] Earth’s worst extinction was followed by a shockingly fast ocean comeback</title>
+    <link href="https://www.sciencedaily.com/releases/2025/12/251227004157.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/12/251227004157.htm</id>
+    <updated>2025-12-30T17:56:02+00:00</updated>
+    <summary>A Science study of an exceptional Spitsbergen fossil trove shows complex marine ecosystems and large fully aquatic predators re-established within ~3 million years after the end-Permian extinction, implying much faster biosphere recovery than previously thought.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; ScienceDaily - Evolutionary Biology News&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A Science study of an exceptional Spitsbergen fossil trove shows complex marine ecosystems and large fully aquatic predators re-established within ~3 million years after the end-Permian extinction, implying much faster biosphere recovery than previously thought.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        A spectacular fossil trove on the Arctic island of Spitsbergen shows that marine life made a stunning comeback after Earth’s greatest extinction. Tens of thousands of fossils reveal fully aquatic reptiles and complex food chains thriving just three million years later. Some predators grew over five meters long, challenging the idea of a slow, step-by-step recovery. The find rewrites the early history of ocean ecosystems.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1126/science.adx7390&quot;&gt;[DOI Link] http://dx.doi.org/10.1126/science.adx7390&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1126/science.adx7390&quot;&gt;[DOI Link] https://doi.org/10.1126/science.adx7390&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.sciencedaily.com/releases/2025/12/251227004157.htm&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟡 [bioRxiv Subject Collection: Evolutionary Biology] Characterization of Z-DNA dynamics across the tree of life</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1</id>
+    <updated>2025-12-30T17:28:22+00:00</updated>
+    <summary>A large-scale comparative genomics survey finds pervasive enrichment of Z-DNA-forming sequences in cellular genomes but strong, lineage-specific depletion of Z-RNA motifs in influenza viruses, implying evolutionary selection on alternative nucleic-acid conformations.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; bioRxiv Subject Collection: Evolutionary Biology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A large-scale comparative genomics survey finds pervasive enrichment of Z-DNA-forming sequences in cellular genomes but strong, lineage-specific depletion of Z-RNA motifs in influenza viruses, implying evolutionary selection on alternative nucleic-acid conformations.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Z-DNA/Z-RNA is an alternative left-handed nucleic acid conformation with established and emerging roles in gene regulation, immunity, and genome instability. However, its occurrence dynamics and lineage specificity across the tree of life have not yet been fully characterized. Utilizing the recently developed and improved Z-DNA searching tool, ZSeeker, we analyzed 281,139 complete organismal genomes, including multiple Telomere-to-Telomere genome assemblies, and generated genome-wide Z-nucleic acid maps, examined their topography, and compared them to dinucleotide-preserving controls. Cellular genomes featured pervasive Z-DNA enrichment relative to expectation, with enrichments of ~1.5 and ~1.7-fold in Bacteria and Archaea and ~3-fold in Eukaryota. In contrast, Viruses exhibited large differences between lineages, with modest enrichment in several DNA viral groups and pronounced depletion across RNA clades, most notably Influenza A/B strains. We built a LASSO regression model trained on non-Influenza viruses (cross-validated R2 {approx} 0.73), which identified GC content, genome type, and host type as the leading predictors for Z-nucleic acid density, yet it significantly over-predicted Z-RNA density in Influenza A/B. More than 99% of assemblies exceeded the +2 SD threshold, and a &amp;quot;typical Influenza&amp;quot; genome was predicted at 2.76 bp/kb compared to ~0.016 bp/kb observed (a ~170-fold overestimation based on chance alone). Together, these results reveal domain- and lineage-specific regimes: cellular genomes are enriched for Z-DNA consistent with regulatory roles, whereas influenza viruses appear to have undergone strong, lineage-specific depletion of Z-RNA-forming sequences, likely reflecting evolutionary pressure tied to host sensing pathways.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [bioRxiv Subject Collection: Evolutionary Biology] Selection against dispersers: Sex, age and origin-dependent fitness differences in wild Atlantic salmon</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.696970v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.30.696970v1?rss=1</id>
+    <updated>2025-12-30T16:26:39+00:00</updated>
+    <summary>Using a 15-year genetic pedigree of wild Atlantic salmon, the study shows immigrants generally have ~15% lower reproductive success than locals, but dispersal costs vary strongly with population of origin, sex, and life-history traits.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; bioRxiv Subject Collection: Evolutionary Biology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Using a 15-year genetic pedigree of wild Atlantic salmon, the study shows immigrants generally have ~15% lower reproductive success than locals, but dispersal costs vary strongly with population of origin, sex, and life-history traits.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Local adaptation is often portrayed as uniform fitness disadvantages of immigrants relative to residents. Yet dispersal costs vary with origin, sex, and life-history traits, shaping the balance between gene flow and adaptation. We quantified these heterogeneous costs by comparing the reproductive success of local and immigrant individuals using a 15-year genetic pedigree of Atlantic salmon (Salmo salar), including over 1,100 adults and 3,400 juveniles. Immigrants represented 19.5% of adults, showed male-biased dispersal, and averaged 15% lower reproductive success than locals. However, outcomes were strongly origin-dependent: immigrants from some populations suffered severe fitness costs while others matched or exceeded locals. Sex and life-history further modulated reproductive success: male immigrants underperformed local males, whereas multi-sea-winter females often equaled or outperformed female residents. Immigrant males partially compensated their fitness offset by acquiring more mates. These findings highlight that, while local adaptation promotes philopatry, immigrants origin effects should be considered in gene-flow adaptation dynamics.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.30.696970v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.30.696970v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [bioinformatics - biorXiv Preprints] Multimodal AI for Single cfDNA Profiling and Cancer Screening</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696856v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696856v1?rss=1</id>
+    <updated>2025-12-30T16:17:36+00:00</updated>
+    <summary>Biomedical study developing a multimodal Transformer to classify tumor-derived cell-free DNA using single-molecule methylation/fragmentomics/histone-mark features, with minimal direct relevance to origins-of-life beyond general DNA methodology.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; bioinformatics - biorXiv Preprints&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Biomedical study developing a multimodal Transformer to classify tumor-derived cell-free DNA using single-molecule methylation/fragmentomics/histone-mark features, with minimal direct relevance to origins-of-life beyond general DNA methodology.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Cell-free DNA (cfDNA) serves as a non-invasive biomarker for cancer detection, but conventional methods face challenges due to the ultra-low abundance of tumor-derived cfDNA (ctDNA) among normal cfDNA. Though nucleosome-bound cfDNA harbors rich epigenomic features that could enable ctDNA identification by single-molecule multi-omics cross-validation, this remains unexplored due to methodological limits. Here, we developed a cfDNA sequencing approach integrating methylation, fragmentomics, and histone modifications at the single-molecule level; together with gene semantics and epigenomic annotations, these modalities were vectorized and fused to represent each cfDNA molecule. We trained a Transformer-based model (cfAI) to profile and evaluate ctDNA likelihood at molecule, gene, and sample levels. cfAI achieved ~10-fold enrichment of cancer-derived signals over noise and reached 72.6% sensitivity at 93.1% specificity for multi-cancer detection. Our study establishes an innovative framework that overcomes the inherent signal-to-noise limitations of conventional assays and reveals biological features at molecular resolution for cancer detection.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.29.696856v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.696856v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [Entropy] Entropy, Vol. 28, Pages 47: Optimizing ATP Isothermal Tests: A Theoretical and Experimental Approach</title>
+    <link href="https://www.mdpi.com/1099-4300/28/1/47"/>
+    <id>https://www.mdpi.com/1099-4300/28/1/47</id>
+    <updated>2025-12-30T16:07:18+00:00</updated>
+    <summary>Develops and validates a faster, more physically grounded isothermal test protocol for refrigerated transport containers, with only tangential relevance to origins-of-life research (aside from mentioning water evaporation effects).</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Entropy&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Develops and validates a faster, more physically grounded isothermal test protocol for refrigerated transport containers, with only tangential relevance to origins-of-life research (aside from mentioning water evaporation effects).&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Entropy, Vol. 28, Pages 47: Optimizing ATP Isothermal Tests: A Theoretical and Experimental Approach Entropy doi: 10.3390/e28010047 Authors: Juan P. Martínez-Val Piera Alberto Ramos Millán The International Agreement on the Carriage of Perishable Foodstuffs and on the Special Equipment to Be Used for Such Carriage (usually known as ATP Treaty) defines a standardized isothermal test for qualifying refrigerated containers, but its current protocol is lengthy, costly and lacks scientific justification. This paper presents a combined theoretical and experimental study aimed at optimizing this procedure. First, a heat-transfer framework based on transient conduction and thermal diffusivity is developed to estimate stabilization times using dimensionless criteria. Then, extensive experimental tests on ATP containers validate these predictions and reveal additional phenomena such as air leakage and chimney effects. Based on these findings, a revised protocol is proposed that reduces the test duration from more than 18 h to approximately 2 h while preserving the thermal stabilization conditions required by ATP. Experimental results show that the uncertainty in the determination of the global heat-transfer coefficient K is reduced from about 2&amp;amp;ndash;2.3% in the classical ATP procedure to roughly 0.7&amp;amp;ndash;1.0% with the new protocol. In addition, the method suppresses secondary physical effects&amp;amp;mdash;such as chimney-driven air leakage and latent-heat losses due to water evaporation&amp;amp;mdash;thus improving the physical representativeness of the measured K value. The proposed accelerated protocol offers a scientifically grounded, cost-effective alternative for future ATP standards.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.mdpi.com/1099-4300/28/1/47&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.mdpi.com/1099-4300/28/1/47&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [Phys.org - latest science and technology news stories] Clouds are vital to life—but many are becoming wispy ghosts. Here&#x27;s how to see the changes above us</title>
+    <link href="https://phys.org/news/2025-12-clouds-vital-life-wispy-ghosts.html"/>
+    <id>https://phys.org/news/2025-12-clouds-vital-life-wispy-ghosts.html</id>
+    <updated>2025-12-30T15:32:57+00:00</updated>
+    <summary>A narrative overview of how cloud properties are changing on Earth and why clouds matter for regulating light and heat, with only indirect relevance to planetary habitability and no direct origins-of-life or astrobiology content.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Phys.org - latest science and technology news stories&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 15/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A narrative overview of how cloud properties are changing on Earth and why clouds matter for regulating light and heat, with only indirect relevance to planetary habitability and no direct origins-of-life or astrobiology content.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        As a scholar researching clouds, I have spent much of my time trying to understand the economy of the sky. Not the weather reports showing scudding rainclouds, but the deeper logic of cloud movements, their distributions and densities and the way they intervene in light, regulate temperatures and choreograph heat flows across our restless planet.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://phys.org/news/2025-12-clouds-vital-life-wispy-ghosts.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [bioinformatics - biorXiv Preprints] Generative Reconstruction of Unobserved Cellular Dynamics using Single-Cell Transcriptomic Trajectories</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696948v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696948v1?rss=1</id>
+    <updated>2025-12-30T15:17:19+00:00</updated>
+    <summary>Introduces a GAN/autoencoder-based framework (GRAIL) to generate plausible intermediate single-cell transcriptomic states between observed developmental stages, aiding analysis when transient states are experimentally missing.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; bioinformatics - biorXiv Preprints&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Introduces a GAN/autoencoder-based framework (GRAIL) to generate plausible intermediate single-cell transcriptomic states between observed developmental stages, aiding analysis when transient states are experimentally missing.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        The primary challenge in cellular dynamics is to capture the intermediate states between two distinct biological stages. This is because of the technical constraints in capturing transient states or the nature of single-cell sequencing protocols. To address this challenge, we introduce a new computational framework, GRAIL (Generative Reconstruction of Artificial Intermediate Lineages), which aims to bridge these missing transitions. GRAIL reconstructs biologically plausible intermediate cell states between two distinct developmental stages (A and B) through a Locality Sensitive Hashing (LSH) based cell selection strategy followed by a smooth interpolation in learned latent space. The interpolated latent representations are subsequently decoded into gene expression profiles using a trained generator from a Generative Adversarial Network (GAN). The framework consists of three components: (a) a pretrained autoencoder that learns latent representations of stage specific transcriptomes, (b) an LSH-guided interpolation procedure that identifies anchor cells and performed interpolation in latent space, and (c) a GAN generator that extrapolates realistic intermediate expression from the interpolated samples consistent with the underlying trajectory. We benchmarked GRAIL with different state-of-the-arts (SOTA) in diverse setup of simulated dataets as well as in real life scRNA-seq datasets. Generated samples from GRAIL preserve expected marker gene expression patterns and also improve downstream analyses, including differential expression and cell clustering. Our method addresses the critical gap in studying cellular transitions when experimental intermediate samples are unavailable.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#x27;https://www.biorxiv.org/content/10.64898/2025.12.29.696948v1?rss=1&#x27;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.696948v1?rss=1&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [Phys.org - latest science and technology news stories] Scientists have uncovered evidence of Ireland&#x27;s largest prehistoric hillfort settlement</title>
+    <link href="https://phys.org/news/2025-12-scientists-uncovered-evidence-ireland-largest.html"/>
+    <id>https://phys.org/news/2025-12-scientists-uncovered-evidence-ireland-largest.html</id>
+    <updated>2025-12-30T14:32:56+00:00</updated>
+    <summary>Archaeological study of a Late Bronze Age/Early Iron Age Irish hillfort settlement with evidence for a possible water cistern, but no substantive connection to origins-of-life research beyond the incidental mention of water.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Phys.org - latest science and technology news stories&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Archaeological study of a Late Bronze Age/Early Iron Age Irish hillfort settlement with evidence for a possible water cistern, but no substantive connection to origins-of-life research beyond the incidental mention of water.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        In a recent study published in Antiquity, Dr. Dirk Brandherm and his colleagues identified more than 600 suspected house platforms in the Brusselstown Ring hillfort, making it the largest nucleated settlement ever discovered in the entirety of prehistoric Britain and Ireland thus far. Subsequent test excavations revealed evidence of Late Bronze Age and Early Iron Age occupation as well as a potential water cistern, which may be the very first of its kind in an Irish hillfort.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://phys.org/news/2025-12-scientists-uncovered-evidence-ireland-largest.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [Radio-Canada | Nouvelles] Les recherches reprennent pour retrouver le vol MH370, 11 ans après sa disparition</title>
+    <link href="https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines"/>
+    <id>https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines</id>
+    <updated>2025-12-30T22:39:00+00:00</updated>
+    <summary>News report about renewed search efforts for Malaysia Airlines flight MH370, with no relevance to origins of life or astrobiology.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Radio-Canada | Nouvelles&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; News report about renewed search efforts for Malaysia Airlines flight MH370, with no relevance to origins of life or astrobiology.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        L&amp;#x27;avion a disparu des radars le 8 mars 2014 alors qu’il effectuait la liaison entre Kuala Lumpur et Pékin.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [New Scientist - Physics &amp;amp; Math] Star that seemed to vanish more than 130 years ago is found again</title>
+    <link href="https://www.newscientist.com/article/2509810-star-that-seemed-to-vanish-more-than-130-years-ago-is-found-again/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2509810-star-that-seemed-to-vanish-more-than-130-years-ago-is-found-again/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2025-12-30T19:47:00+00:00</updated>
+    <summary>Revisits a historical transient &#x27;star&#x27; sighting near Venus and offers an astronomical explanation, with minimal direct relevance to origins-of-life or habitability research.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; New Scientist - Physics &amp;amp;amp; Math&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 20/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Revisits a historical transient &amp;#x27;star&amp;#x27; sighting near Venus and offers an astronomical explanation, with minimal direct relevance to origins-of-life or habitability research.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        In 1892, astronomer Edward Emerson Barnard thought he saw a bright star near Venus, but then it vanished. We may now know why
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1002/asna.19061720105&quot;&gt;[DOI Link] https://doi.org/10.1002/asna.19061720105&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3724/SP.J.1440-2807.2025.03.05&quot;&gt;[DOI Link] https://doi.org/10.3724/SP.J.1440-2807.2025.03.05&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.19061720105&quot;&gt;[Full Paper] https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.19061720105&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.newscientist.com/article/2509810-star-that-seemed-to-vanish-more-than-130-years-ago-is-found-again/?utm_campaign=RSS%7CNSNS&amp;amp;utm_source=NSNS&amp;amp;utm_medium=RSS&amp;amp;utm_content=home&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟠 [Astrobiology] HKUST Launches World’s First Deep-sea Multi-omics Resource Platform Empowering Global Research Into Biological Adaptation In Extreme Environments</title>
+    <link href="https://astrobiology.com/2025/12/hkust-launches-worlds-first-deep-sea-multi-omics-resource-platform-empowering-global-research-into-biological-adaptation-in-extreme-environments.html"/>
+    <id>https://astrobiology.com/2025/12/hkust-launches-worlds-first-deep-sea-multi-omics-resource-platform-empowering-global-research-into-biological-adaptation-in-extreme-environments.html</id>
+    <updated>2025-12-30T19:35:05+00:00</updated>
+    <summary>Announces a new Deep Ocean Omics (DOO) multi-omics database enabling global analysis of deep-sea extremophile biology and adaptation, offering useful context for astrobiology and environmental habitability studies but only indirect relevance to origins-of-life mechanisms.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Announces a new Deep Ocean Omics (DOO) multi-omics database enabling global analysis of deep-sea extremophile biology and adaptation, offering useful context for astrobiology and environmental habitability studies but only indirect relevance to origins-of-life mechanisms.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        The Hong Kong University of Science and Technology (HKUST), in collaboration with the Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), has launched the world’s first Deep Ocean Omics (DOO) database (https://DeepOceanOmics.org/). As the largest platform of its kind, DOO integrates and analyzes multi-omics data from organisms thriving in the ocean’s most extreme environments, alongside […] The post HKUST Launches World’s First Deep-sea Multi-omics Resource Platform Empowering Global Research Into Biological Adaptation In Extreme Environments appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1096/8307365&quot;&gt;[Full Paper] https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1096/8307365&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.1093/nar/gkaf1096/8307365&quot;&gt;[DOI Link] https://doi.org/10.1093/nar/gkaf1096/8307365&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/hkust-launches-worlds-first-deep-sea-multi-omics-resource-platform-empowering-global-research-into-biological-adaptation-in-extreme-environments.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] Performance Calibration of the Wavefront Sensor’s EMCCD Detector for the Cool Planets Imaging Coronagraph Aboard CSST</title>
+    <link href="https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html"/>
+    <id>https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html</id>
+    <updated>2025-12-30T18:35:25+00:00</updated>
+    <summary>Technical calibration of an EMCCD detector for CSST’s coronagraph wavefront sensor, improving high-contrast exoplanet imaging capability but with no direct origins-of-life, habitability, or biosignature focus.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Technical calibration of an EMCCD detector for CSST’s coronagraph wavefront sensor, improving high-contrast exoplanet imaging capability but with no direct origins-of-life, habitability, or biosignature focus.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        The wavefront sensor (WFS), equipped with an electron-multiplying charge-coupled device (EMCCD) detector, is a critical component of the Cool Planets Imaging Coronagraph (CPI-C) on the Chinese Space Station Telescope (CSST). Precise calibration of the WFS’s EMCCD detector is essential to meet the stringent requirements for high-contrast exoplanet imaging. This study comprehensively characterizes key performance parameters […] The post Performance Calibration of the Wavefront Sensor’s EMCCD Detector for the Cool Planets Imaging Coronagraph Aboard CSST appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.20386&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2511.20386&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.3390/jimaging11060203&quot;&gt;[DOI Link] https://doi.org/10.3390/jimaging11060203&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.2&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.20386&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.20386&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] Observational Evidence For A Possible Link Between PAH Emission And Dust Trap Locations In Protoplanetary Disks</title>
+    <link href="https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html"/>
+    <id>https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html</id>
+    <updated>2025-12-30T18:35:26+00:00</updated>
+    <summary>Compares PAH emission strengths across protoplanetary disks with ALMA dust-trap locations, suggesting a possible connection between PAH behavior (e.g., freeze-out) and dust concentrations relevant to early planet-forming environments.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 28/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Compares PAH emission strengths across protoplanetary disks with ALMA dust-trap locations, suggesting a possible connection between PAH behavior (e.g., freeze-out) and dust concentrations relevant to early planet-forming environments.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Polycyclic Aromatic Hydrocarbons (PAHs) are commonly detected in protoplanetary disks, but it is unclear what causes the wide range of intensities across the samples. In this work, the measured PAH intensities of a range of disks are compared with ALMA dust continuum images, in order to test whether there is evidence that PAHs are frozen […] The post Observational Evidence For A Possible Link Between PAH Emission And Dust Trap Locations In Protoplanetary Disks appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.06935&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2511.06935&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.06935&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.06935&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] Fungi From Chernobyl: Mycobiota Of The Inner Regions Of The Containment Structures Of The Damaged Nuclear Reactor</title>
+    <link href="https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html"/>
+    <id>https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html</id>
+    <updated>2025-12-30T18:35:27+00:00</updated>
+    <summary>Survey of diverse fungi colonizing the high-radiation interior of Chernobyl’s damaged reactor containment, offering an astrobiology-relevant extremophile/habitability analog but limited direct relevance to origins-of-life mechanisms.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Survey of diverse fungi colonizing the high-radiation interior of Chernobyl’s damaged reactor containment, offering an astrobiology-relevant extremophile/habitability analog but limited direct relevance to origins-of-life mechanisms.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Extensive fungal growth has been detected on the walls and other building constructions in the inner parts of the Shelter of the damaged fourth Unit of the Chernobyl Nuclear Power Plant in 1997-98. The mycobiota comprised 37 species of 19 genera. Zygomycetes and ascomycetes were represented by one species each: Mucor plumbeus and Chaetomium globosum, […] The post Fungi From Chernobyl: Mycobiota Of The Inner Regions Of The Containment Structures Of The Damaged Nuclear Reactor appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/abs/pii/S0953756208615026&quot;&gt;[ScienceDirect] https://www.sciencedirect.com/science/article/abs/pii/S0953756208615026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] Understanding Protein Form And Function Better At TU Graz</title>
+    <link href="https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html"/>
+    <id>https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html</id>
+    <updated>2025-12-30T18:35:28+00:00</updated>
+    <summary>A structural-biology study aimed at better linking protein 3D form to function, which is broadly relevant to understanding biological complexity but not directly focused on prebiotic chemistry or origins-of-life mechanisms.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A structural-biology study aimed at better linking protein 3D form to function, which is broadly relevant to understanding biological complexity but not directly focused on prebiotic chemistry or origins-of-life mechanisms.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Proteins are among the most important building blocks of nature and play a central role in biological processes in all organisms. Accordingly, scientists are keen to understand them as precisely as possible. As polymers of different amino acids, proteins can have different 3-dimensional structures and various functions. However, it is often difficult to determine which […] The post Understanding Protein Form And Function Better At TU Graz appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.cell.com/structure/fulltext/S0969-2126(25)00263-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212625002631%3Fshowall%3Dtrue&quot;&gt;[ScienceDirect] https://www.cell.com/structure/fulltext/S0969-2126(25)00263-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212625002631%3Fshowall%3Dtrue&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🔴 [Astrobiology] Considerations On The Process Of Target Selection For The Comet Interceptor Mission</title>
+    <link href="https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html"/>
+    <id>https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html</id>
+    <updated>2025-12-30T18:35:29+00:00</updated>
+    <summary>Discusses how ESA’s Comet Interceptor will select an as-yet-unknown long-period comet target, a mission concept relevant to astrobiology via access to primitive cometary material but not directly focused on origins-of-life chemistry.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Discusses how ESA’s Comet Interceptor will select an as-yet-unknown long-period comet target, a mission concept relevant to astrobiology via access to primitive cometary material but not directly focused on origins-of-life chemistry.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Comet Interceptor is an ESA science mission with payload contributions from ESA Member States and with an international participation by JAXA. It is the first mission that is being designed, built, and potentially launched before its target is known. This approach will enable the spacecraft to perform the first mission to a Long Period Comet […] The post Considerations On The Process Of Target Selection For The Comet Interceptor Mission appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2511.20521&quot;&gt;[ArXiv Preprint] https://arxiv.org/abs/2511.20521&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.20521&quot;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2511.20521&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟠 [Astrobiology] Curiosity Mars Rover Views A Rock Made Of Sulfur At Snow Lake</title>
+    <link href="https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html"/>
+    <id>https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html</id>
+    <updated>2025-12-30T18:35:30+00:00</updated>
+    <summary>Curiosity imaged and analyzed sulfur-bearing rocks at “Snow Lake” on Mars, highlighting geochemical conditions that could inform past habitability but offering limited direct insight into origins-of-life mechanisms.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Curiosity imaged and analyzed sulfur-bearing rocks at “Snow Lake” on Mars, highlighting geochemical conditions that could inform past habitability but offering limited direct insight into origins-of-life mechanisms.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        NASA’s Curiosity captured this close-up image of a rock nicknamed “Snow Lake” on June 8, 2024, the 4,209th Martian day, or sol, of the mission. Nine days earlier, the rover had crushed a similar-looking rock and revealed crystalline textures — and elemental sulfur — inside. Astrobiology, Astrogeology, The post Curiosity Mars Rover Views A Rock Made Of Sulfur At Snow Lake appeared first on Astrobiology .
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟤 [Radio-Canada | Nouvelles] L’ARC tente de recouvrer 10 G $ de prestations liées à la COVID-19</title>
+    <link href="https://ici.radio-canada.ca/nouvelle/2216796/prestations-covid-19-revenu-canada-dette"/>
+    <id>https://ici.radio-canada.ca/nouvelle/2216796/prestations-covid-19-revenu-canada-dette</id>
+    <updated>2025-12-30T16:01:40+00:00</updated>
+    <summary>Article d’actualité sur la tentative de l’ARC de recouvrer 10 G$ de prestations COVID-19 versées à des bénéficiaires non admissibles, sans lien avec l’astrobiologie ou les origines de la vie.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Radio-Canada | Nouvelles&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Article d’actualité sur la tentative de l’ARC de recouvrer 10 G$ de prestations COVID-19 versées à des bénéficiaires non admissibles, sans lien avec l’astrobiologie ou les origines de la vie.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Ces montants ont été versés à des bénéficiaires non admissibles, affirme l&amp;#x27;ARC.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://ici.radio-canada.ca/nouvelle/2216796/prestations-covid-19-revenu-canada-dette&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>🟠 [Astrobiology] Viking Mars, Now 50 Years Old, Still Needs a Scientific Analysis</title>
+    <link href="https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;mi=cjwv&amp;af=R"/>
+    <id>https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;mi=cjwv&amp;af=R</id>
+    <updated>2025-12-31T04:46:37+00:00</updated>
+    <summary>A retrospective/opinion-style Astrobiology piece arguing that Viking-era Mars life-detection results still warrant rigorous reanalysis, relevant to planetary habitability and biosignature interpretation but not a direct origins-of-life study.</summary>
+    <content type="html">
+        &lt;strong&gt;Category:&lt;/strong&gt; OOL-RESSOURCES&lt;br/&gt;
+        &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A retrospective/opinion-style Astrobiology piece arguing that Viking-era Mars life-detection results still warrant rigorous reanalysis, relevant to planetary habitability and biosignature interpretation but not a direct origins-of-life study.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Astrobiology, Ahead of Print.
+        &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+        &lt;br/&gt;&lt;br/&gt;
+        &lt;a href=&quot;https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;amp;mi=cjwv&amp;amp;af=R&quot;&gt;Read Full Article&lt;/a&gt;
+        </content>
+  </entry>
+</feed>
