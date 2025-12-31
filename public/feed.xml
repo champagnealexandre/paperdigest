@@ -4,7 +4,7 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/public/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-31T13:38:23.724823+00:00</updated>
+  <updated>2025-12-31T13:55:09.238022+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/public/feed.xml</id>
   <author><name>AI Agent</name></author>
 
@@ -13,12 +13,12 @@
     <link href="https://elifesciences.org/articles/108922"/>
     <id>https://elifesciences.org/articles/108922</id>
     <updated>2025-12-31T02:54:39+00:00</updated>
-    <summary>This study shows how SARS-CoV-2 nucleocapsid mutations (notably Omicron P13L) convergently tune weak, distributed N–N and N–RNA interactions to assemble polydisperse “fuzzy” RNP clusters that balance RNA condensation, stability, and viral fitness.</summary>
+    <summary>This study shows convergent evolution in SARS-CoV-2 nucleocapsid mutations (notably Omicron P13L) that tune weak, distributed protein–RNA/protein–protein interactions to build polydisperse “fuzzy” RNP clusters, highlighting adaptable nucleic-acid condensation and self-assembly principles relevant as analogs for primitive RNP organization.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; eLife - recent issues&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 65/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; This study shows how SARS-CoV-2 nucleocapsid mutations (notably Omicron P13L) convergently tune weak, distributed N–N and N–RNA interactions to assemble polydisperse “fuzzy” RNP clusters that balance RNA condensation, stability, and viral fitness.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This study shows convergent evolution in SARS-CoV-2 nucleocapsid mutations (notably Omicron P13L) that tune weak, distributed protein–RNA/protein–protein interactions to build polydisperse “fuzzy” RNP clusters, highlighting adaptable nucleic-acid condensation and self-assembly principles relevant as analogs for primitive RNP organization.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Previously, we showed that the genetic diversity of SARS-CoV-2 nucleocapsid (N) protein explores a wide range of biophysical properties facilitated by non-local impact of point mutations to its intrinsically disordered regions (Nguyen et al., 2024). This includes modulation of self-association, such as the creation of a de novo binding interface through the P13L mutation characteristic of Omicron variants. In the present work, we focus on the key function of N condensing viral RNA into ribonucleoprotein particles (RNPs) for viral assembly. Lacking high-resolution structural information, biochemical and biophysical approaches have revealed architectural principles of RNPs, which involve cooperative interactions of several protein-protein and protein-RNA interfaces, initiated through oligomerization of conserved transient helices in the central disordered linker of N. Here, we study the impact of defining N-protein mutations in variants of concern on RNP formation, using biophysical tools, a virus-like particle assay, and reverse genetics experiments. We find convergent evolution in repeated, independent introduction of amino acid substitutions strengthening existing binding interfaces, compensating for other substitutions that promote viral replication but decrease RNP stability. Furthermore, we show that the P13L mutation of Omicron variants enhances RNP assembly and increases viral fitness. Overall, our data reveal RNP complexes to be highly variable not only in sequence and conformations but also in thermodynamic and kinetic stability, with its pleomorphism affecting basic architectural principles. We hypothesize that the formation of polydisperse, fuzzy N-RNA clusters with multiple distributed weak binding interfaces optimizes reversible RNA condensation, while supporting host adaptation and allowing for a large sequence space to be explored.
@@ -33,12 +33,12 @@
     <link href="https://www.theatlantic.com/newsletters/2025/12/atlantic-stories-you-might-have-missed/685440/?utm_source=feed"/>
     <id>https://www.theatlantic.com/newsletters/2025/12/atlantic-stories-you-might-have-missed/685440/?utm_source=feed</id>
     <updated>2025-12-30T23:54:41+00:00</updated>
-    <summary>This is a curated newsletter-style list of general-interest Atlantic articles with no substantive connection to origins-of-life or astrobiology beyond a passing use of the word “evolution” in a non-biological context.</summary>
+    <summary>This is a general-interest curated list of Atlantic magazine stories with no substantive content on origins of life, astrobiology, or related prebiotic/evolutionary mechanisms.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Master Feed : The Atlantic&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; This is a curated newsletter-style list of general-interest Atlantic articles with no substantive connection to origins-of-life or astrobiology beyond a passing use of the word “evolution” in a non-biological context.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This is a general-interest curated list of Atlantic magazine stories with no substantive content on origins of life, astrobiology, or related prebiotic/evolutionary mechanisms.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         In case you’re settling into winter and lamenting not having read everything The Atlantic has published this year, you’re in luck. I’ve created a list of stories you may have missed that are very much worth your time. The assortment ranges widely: eating an organ feast in Mark Twain’s Paris, experiencing a comedy-show adventure in Riyadh, drifting after a shipwreck in the Pacific, and diving into the secrets of the Inca empire. “What Parents of Boys Should Know” sparked many conversations in my group chats, as did this photo of Abraham Lincoln’s ear being cleaned. There are stories that contextualized a chaotic moment for the American experiment, drawing deeply on history. I hope you’ll spend time with this selection, and I would love to hear what you think. Send me a note: btharoor@theatlantic.com . I Watched Stand-Up in Saudi Arabia By Helen Lewis What the surreal Riyadh Comedy Festival foretold about the kingdom’s future The New Rasputins By Anne Applebaum Anti-science mysticism is enabling autocracy around the globe. America and Its Universities Need a New Social Contract By Danielle Allen Fifty dollars for STEM, five cents for citizenship—that’s how America apportions its education dollars. Our beleaguered universities must redress the balance—helping the country and themselves. What Parents of Boys Should Know By Joshua Coleman Daughters tend to receive higher levels of affection and patience at home than sons. But the sons might need it more. Is This the Worst-Ever Era of American Pop Culture? By Spencer Kornhaber An emerging critical consensus argues that we’ve entered a cultural dark age. I’m not so sure. My Shipwreck Story By Alec Frydman On my first time out as a commercial fisherman, my boat sank, my captain died, and I was left adrift and alone in the Pacific. An Innocent Abroad in Mark Twain’s Paris By Caity Weaver My quest for a true literary experience resulted in choucroute , a surprise organ feast, an epiphany at the Louvre, existential dread, and a rowboat. A PTSD Therapy “Seemed Too Good to Be True” By Yasmin Tayag What if overcoming trauma can be painless? What the Founders Would Say Now By Fintan O’Toole They might be surprised that the republic exists at all. Invisible Habits Are Driving Your Life By Shayla Love The science of habits reveals that they can be hidden to us and unresponsive to our desires. The Rise of John Ratcliffe By Shane Harris A partisan loyalist with a history of politicizing intelligence will soon be running the CIA. The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit By Gary Shteyngart A perfect suit, made by an expert tailor out of superlative fabric, would do nothing less than transform me. The New Authoritarianism By Steven Levitsky This isn’t single-party rule, but it’s not democracy either. Turtleboy Will Not Be Stopped By Chris Heath A profane blogger believes an innocent woman is being framed for murder. He’ll do anything to prove he’s right—and terrorize anyone who says he’s wrong. The Rise of the Brown v. Board of Education Skeptics By Justin Driver Why some mainstream Black intellectuals are giving up on the landmark decision The Internet’s Favorite Sex Researcher By Helen Lewis How Aella went from selling sex to studying it The Telepathy Trap By Daniel Engber A podcast shows how love divides us. The People Who Clean the Ears of Lincoln (And Other Statues) By Alan Taylor A collection of images of the varied workers and techniques used to maintain some of the world’s largest and most prominent statues and monuments. Accommodation Nation By Rose Horowitch America’s colleges have an extra-time-on-tests problem. Do You Actually Know What Classical Music Is? Does Anyone? By Matthew Aucoin The term is applied to radically different compositions across more than 1,000 years of history. We need a better definition. Miscarriage and Motherhood By Ashley Parker What having a baby taught me about the illusion of control The Short-Circuiting of the American Mind By Megan Garber A century-old book foresaw Trump’s most basic strategy. When William F. Buckley Jr. Met James Baldwin By Sam Tanenhaus In 1965, the two intellectual giants squared off in a debate at Cambridge. It didn’t go quite as Buckley hoped. A Grand Experiment in Parenthood and Friendship By Rhaina Cohen Would you raise kids with your best pals? Unraveling the Secrets of the Inca Empire By Sam Kean For hundreds of years, Andean people recorded information by tying knots into long cords. Will we ever be able to read them? How to Disappear By Benjamin Wallace Inside the world of extreme-privacy consultants, who, for the right fee, will make you and your personal information very hard to find The Wyoming Hospital Upending the Logic of Private Equity By Megan Greenwell Instead of cutting services to cut costs, one rural hospital plans to thrive by offering more. How Originalism Killed the Constitution By Jill Lepore A radical legal philosophy has undermined the process of constitutional evolution. The Myth of Mad King George By Rick Atkinson He was denounced by rebel propagandists as a tyrant and remembered by Americans as a reactionary dolt. Who was he really? America’s Zombie Democracy By George Packer Its trappings remain, but authoritarianism and AI are hollowing out our humanity. When Adoption Promises Are Broken By Nicole Chung Many birth mothers hope to maintain contact with their child. But their agreements with adoptive parents can be fragile. Evening Read Jan Buchczik New Year’s Resolutions That Will Actually Lead to Happiness By Arthur C. Brooks If you are someone who follows a traditional religion, you most likely have a day such as Yom Kippur, Ashura, or Ash Wednesday, dedicated to atoning for your sins and vowing to make improvements to your life. But if you are not religious, you might still practice a day of devotion and ritualistic vows of self-improvement each year on January 1. New Year’s Day rings in the month of January, dedicated by the ancient Romans to their god Janus. Religious Romans promised the two-faced god that they would be better in the new year than they had been in the past. According to the Pew Research Center , historically between one-third and one-half of Americans observe this pagan rite every year by making their own New Year’s resolutions. The most common resolutions are fairly predictable : financial resolutions, like saving more money or paying down debt (51 percent in 2019); eating healthier (51 percent); exercising more (50 percent); and losing weight (42 percent). Old Janus is pretty annoyed at this point, I imagine, because our resolutions overwhelmingly fail. Read the full article. Culture Break (Illustration by Shawna X) Watch. Here are the 10 best movies of 2025 , according to our critic David Sims. Explore. What’s the point of school photos anymore ? The portraits are kitschy and expensive—but parents can’t seem to stop buying them, Annie Midori Atherton writes. Play our daily crossword. Explore all of our newsletters. Rafaela Jinich contributed to this newsletter. When you buy a book using a link in this newsletter, we receive a commission. Thank you for supporting The Atlantic .
@@ -53,12 +53,12 @@
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.30.696962v1?rss=1</id>
     <updated>2025-12-30T22:34:31+00:00</updated>
-    <summary>High-resolution cryo-EM structures of a circularly permuted group II intron reveal how active-site rearrangements switch self-splicing from branching to hydrolysis, informing RNA-catalyzed reaction mechanisms relevant to early ribozyme evolution.</summary>
+    <summary>High-resolution cryo-EM and biochemistry reveal how a circularly permuted group II intron ribozyme switches from branching to water-driven hydrolytic splicing, illuminating RNA catalysis and evolutionary links to spliceosomal mechanisms.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; biophysics - biorXiv Preprints&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; High-resolution cryo-EM structures of a circularly permuted group II intron reveal how active-site rearrangements switch self-splicing from branching to hydrolysis, informing RNA-catalyzed reaction mechanisms relevant to early ribozyme evolution.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 80/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; High-resolution cryo-EM and biochemistry reveal how a circularly permuted group II intron ribozyme switches from branching to water-driven hydrolytic splicing, illuminating RNA catalysis and evolutionary links to spliceosomal mechanisms.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Group II introns are self-splicing ribozymes that are considered the ancestors of the eukaryotic spliceosome. Unlike canonical group II introns that self-splice to generate linear exons and lariats, circularly permuted (CP) group II introns identified in various bacterial phyla perform back-splicing, resulting in the production of circular RNAs and branched products via branching pathway. Furthermore, CP introns may switch to a hydrolysis pathway resulting in distinct products to differentially regulate gene expression. In this study, we present biochemical data and high-resolution cryogenic electron microscopy (cryo-EM) structures of a CP group II intron from Comamonas testosteroni KF-1 (Cte 1), allowing mechanistic dissection of the branching pathway switch to the hydrolysis pathway and enabling reconstruction of both both steps of the hydrolysis pathway. The structures reveal that CP undergoes the hydrolysis pathway upon mutations of the branch point or splice sites (SS) due to rearrangements in the active site. Here, the branching nucleotide in domain D6 is retracted from its catalytically competent conformation, giving way to the nucleophilic water molecule to attack the 5&amp;#x27; splice site. Furthermore, we visualized the intermediates of the second splicing step, which reveal the movement of domain D6 out of the way for the 3&amp;#x27;-splicing to occur, closely resembling the second-step structures of the branching pathway. Finally, our structures provide direct evidence for domains D1D2D3 acting as a scaffold in group II introns.Together, these findings visualize the complete hydrolysis pathway and offer a new strategy to engineer CP introns for circular RNA production, with potential applications in both basic research and therapeutic development.
@@ -73,12 +73,12 @@
     <link href="https://www.nytimes.com/2023/03/07/books/review/jenny-odell-saving-time.html"/>
     <id>https://www.nytimes.com/2023/03/07/books/review/jenny-odell-saving-time.html</id>
     <updated>2025-12-30T21:30:59+00:00</updated>
-    <summary>A book review about rethinking human perceptions of time to inspire social and personal change, with no connection to origins-of-life or astrobiology research.</summary>
+    <summary>A book review about rethinking human concepts of time with no connection to astrobiology, habitability, or origins-of-life research.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; The New York Times&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A book review about rethinking human perceptions of time to inspire social and personal change, with no connection to origins-of-life or astrobiology research.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A book review about rethinking human concepts of time with no connection to astrobiology, habitability, or origins-of-life research.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         The author’s new book, “Saving Time: Discovering a Life Beyond the Clock,” urges readers to revise their conceptions of time and the world to nurture hope and action for a better future.
@@ -93,12 +93,12 @@
     <link href="https://inquisitivebiologist.com/2025/12/30/book-review-the-desert-bones-the-paleontology-and-paleoecology-of-mid-cretaceous-north-africa/"/>
     <id>https://inquisitivebiologist.com/2025/12/30/book-review-the-desert-bones-the-paleontology-and-paleoecology-of-mid-cretaceous-north-africa/</id>
     <updated>2025-12-30T20:42:55+00:00</updated>
-    <summary>A book review summarizing Mid-Cretaceous North African paleontology and paleoecology, offering deep-time biodiversity context but little direct relevance to origins-of-life, prebiotic chemistry, or habitability.</summary>
+    <summary>A book review summarizing Mid-Cretaceous North African paleontology and paleoecology, offering at most indirect evolutionary context rather than directly addressing astrobiology or origins-of-life mechanisms.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; The Inquisitive Biologist&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A book review summarizing Mid-Cretaceous North African paleontology and paleoecology, offering deep-time biodiversity context but little direct relevance to origins-of-life, prebiotic chemistry, or habitability.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A book review summarizing Mid-Cretaceous North African paleontology and paleoecology, offering at most indirect evolutionary context rather than directly addressing astrobiology or origins-of-life mechanisms.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         The Desert Bones brings to life North Africa during the Mid-Cretaceous through a meticulous and exhaustive overview of the often fragmentary fossils that have been found in this region.
@@ -113,12 +113,12 @@
     <link href="https://astrobiology.com/2025/12/university-of-canterbury-team-led-study-of-interstellar-comet-3i-atlas.html"/>
     <id>https://astrobiology.com/2025/12/university-of-canterbury-team-led-study-of-interstellar-comet-3i-atlas.html</id>
     <updated>2025-12-30T19:35:02+00:00</updated>
-    <summary>Reports observational/trajectory work on interstellar comet 3I/ATLAS (with linked arXiv/MNRASL papers), offering broad astrobiology context but little direct origins-of-life or prebiotic chemistry detail in the provided abstract.</summary>
+    <summary>Observational/characterization study of the interstellar comet 3I/ATLAS, offering broad astrobiology-adjacent context but little direct relevance to origins-of-life mechanisms or prebiotic chemistry.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 38/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Reports observational/trajectory work on interstellar comet 3I/ATLAS (with linked arXiv/MNRASL papers), offering broad astrobiology context but little direct origins-of-life or prebiotic chemistry detail in the provided abstract.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Observational/characterization study of the interstellar comet 3I/ATLAS, offering broad astrobiology-adjacent context but little direct relevance to origins-of-life mechanisms or prebiotic chemistry.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         The comet 3I/ATLAS, discovered by an international team in July this year, is only the third interstellar object ever found in the history of astronomy. It is the first that is bright enough to be seen through amateur telescopes and is currently visible in the Northern Hemisphere. It will make its closest approach to Earth […] The post University Of Canterbury Team Led Study Of Interstellar Comet 3I/ATLAS appeared first on Astrobiology .
@@ -133,12 +133,12 @@
     <link href="https://astrobiology.com/2025/12/life-nasa-rcn-seminar-6-january-2026.html"/>
     <id>https://astrobiology.com/2025/12/life-nasa-rcn-seminar-6-january-2026.html</id>
     <updated>2025-12-30T19:35:03+00:00</updated>
-    <summary>Seminar announcement featuring talks on deconvolving ancient biomarker signals to infer early ecosystem composition and eukaryotic evolution, relevant to biosignature interpretation but not directly to abiogenesis mechanisms.</summary>
+    <summary>Seminar announcement featuring a talk on deconvolving ancient biomarker signals to infer early ecosystem composition and eukaryotic evolution, broadly relevant to astrobiology but not a primary origins-of-life research paper.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 55/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Seminar announcement featuring talks on deconvolving ancient biomarker signals to infer early ecosystem composition and eukaryotic evolution, relevant to biosignature interpretation but not directly to abiogenesis mechanisms.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Seminar announcement featuring a talk on deconvolving ancient biomarker signals to infer early ecosystem composition and eukaryotic evolution, broadly relevant to astrobiology but not a primary origins-of-life research paper.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Join the 2026 LIFE NASA RCN Seminar Series! This month’s speakers are Dr. Ilya Bobrovskiy and Dr. Tharika Liyanage. Time: January 6th, 8AM PDT/11AM EDTJOIN Title: Unmixing ancient biomarker signals to recover primary ecosystem composition. Dr. Ilya Bobrovskiy leads a research group at MARUM that seeks to deconvolve the early record of eukaryotic evolution using […] The post LIFE NASA RCN Seminar 6 January 2026 appeared first on Astrobiology .
@@ -149,16 +149,16 @@
   </entry>
 
   <entry>
-    <title>🟠 [KEYWORDS-OOL] [Astrobiology] Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life</title>
+    <title>🟡 [KEYWORDS-OOL] [Astrobiology] Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life</title>
     <link href="https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html"/>
     <id>https://astrobiology.com/2025/12/redox-diversity-of-interstellar-compounds-and-human-nutrients-reveals-a-potentially-universal-chemical-constraint-for-life.html</id>
     <updated>2025-12-30T19:35:04+00:00</updated>
-    <summary>The paper compares redox behavior in interstellar molecules versus human nutrients and finds a similarly non-random balance of oxidants/reductants, suggesting a potentially universal chemical constraint relevant to astrobiology and the origins of life.</summary>
+    <summary>This study compares redox-class distributions of interstellar molecules and human nutrients, finding a statistically non-random similarity that may reflect a broadly universal chemical constraint relevant to origins-of-life and astrobiology.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 52/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper compares redox behavior in interstellar molecules versus human nutrients and finds a similarly non-random balance of oxidants/reductants, suggesting a potentially universal chemical constraint relevant to astrobiology and the origins of life.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 62/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This study compares redox-class distributions of interstellar molecules and human nutrients, finding a statistically non-random similarity that may reflect a broadly universal chemical constraint relevant to origins-of-life and astrobiology.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Comparative analysis of redox properties across three chemically distinct datasets—interstellar compounds, human nutritional molecules, and &amp;gt;40 million substances in the PubChem database—reveals a striking and highly non-random pattern. Interstellar molecules and human nutrients exhibit nearly identical proportions of prooxidant, proreductant, and amphoteric species. In contrast, the PubChem chemical space is overwhelmingly dominated by amphoteric molecules […] The post Redox Diversity of Interstellar Compounds and Human Nutrients Reveals a Potentially Universal Chemical Constraint for Life appeared first on Astrobiology .
@@ -169,16 +169,16 @@
   </entry>
 
   <entry>
-    <title>🟠 [KEYWORDS-OOL] [New Scientist - Physics &amp;amp; Math] The cassette tape made a comeback in 2025 thanks to a DNA upgrade</title>
+    <title>🔴 [KEYWORDS-OOL] [New Scientist - Physics &amp;amp; Math] The cassette tape made a comeback in 2025 thanks to a DNA upgrade</title>
     <link href="https://www.newscientist.com/article/2504378-the-cassette-tape-made-a-comeback-in-2025-thanks-to-a-dna-upgrade/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
     <id>https://www.newscientist.com/article/2504378-the-cassette-tape-made-a-comeback-in-2025-thanks-to-a-dna-upgrade/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
     <updated>2025-12-30T18:44:39+00:00</updated>
-    <summary>A news report on high-density DNA-based data storage packaged like a cassette tape, relevant to astrobiology only in the broad sense that it leverages nucleic-acid chemistry rather than addressing abiogenesis or early-life processes.</summary>
+    <summary>A popular-science report on using DNA as an ultra-dense data storage medium (36 PB) framed as a cassette-tape revival, with only tangential relevance to origins-of-life via nucleic acid properties.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; New Scientist - Physics &amp;amp;amp; Math&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A news report on high-density DNA-based data storage packaged like a cassette tape, relevant to astrobiology only in the broad sense that it leverages nucleic-acid chemistry rather than addressing abiogenesis or early-life processes.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A popular-science report on using DNA as an ultra-dense data storage medium (36 PB) framed as a cassette-tape revival, with only tangential relevance to origins-of-life via nucleic acid properties.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         With a storage capacity of 36 petabytes, a DNA-based cassette tape can hold every song every recorded, and it could be on the market within five years
@@ -193,12 +193,12 @@
     <link href="https://www.sciencedaily.com/releases/2025/12/251227004157.htm"/>
     <id>https://www.sciencedaily.com/releases/2025/12/251227004157.htm</id>
     <updated>2025-12-30T17:56:02+00:00</updated>
-    <summary>A Science study from Spitsbergen fossils shows complex marine ecosystems (including large fully aquatic reptiles) re-established within ~3 million years after the end-Permian mass extinction, implying a much faster biosphere recovery than previously assumed.</summary>
+    <summary>A Science report on rapid marine ecosystem recovery after the end-Permian mass extinction, informing planetary habitability and biosphere resilience but not directly addressing origins-of-life mechanisms.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; ScienceDaily - Evolutionary Biology News&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A Science study from Spitsbergen fossils shows complex marine ecosystems (including large fully aquatic reptiles) re-established within ~3 million years after the end-Permian mass extinction, implying a much faster biosphere recovery than previously assumed.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A Science report on rapid marine ecosystem recovery after the end-Permian mass extinction, informing planetary habitability and biosphere resilience but not directly addressing origins-of-life mechanisms.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         A spectacular fossil trove on the Arctic island of Spitsbergen shows that marine life made a stunning comeback after Earth’s greatest extinction. Tens of thousands of fossils reveal fully aquatic reptiles and complex food chains thriving just three million years later. Some predators grew over five meters long, challenging the idea of a slow, step-by-step recovery. The find rewrites the early history of ocean ecosystems.
@@ -209,16 +209,16 @@
   </entry>
 
   <entry>
-    <title>🟡 [KEYWORDS-OOL] [bioRxiv Subject Collection: Evolutionary Biology] Characterization of Z-DNA dynamics across the tree of life</title>
+    <title>🟢 [KEYWORDS-OOL] [bioRxiv Subject Collection: Evolutionary Biology] Characterization of Z-DNA dynamics across the tree of life</title>
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1</id>
     <updated>2025-12-30T17:28:22+00:00</updated>
-    <summary>Large-scale comparative genomics suggests Z-form nucleic acid–forming sequences are broadly enriched in cellular life but strongly depleted in influenza RNA viruses, implying lineage-specific evolutionary pressures on alternative nucleic acid conformations potentially relevant to how genetic polymers are sensed and regulated.</summary>
+    <summary>Large-scale comparative genomics shows pervasive enrichment of Z-DNA across cellular life but strong, lineage-specific depletion of Z-RNA-forming sequences in influenza, highlighting nucleic-acid structural selection pressures relevant to molecular evolution.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; bioRxiv Subject Collection: Evolutionary Biology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 78/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Large-scale comparative genomics suggests Z-form nucleic acid–forming sequences are broadly enriched in cellular life but strongly depleted in influenza RNA viruses, implying lineage-specific evolutionary pressures on alternative nucleic acid conformations potentially relevant to how genetic polymers are sensed and regulated.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 80/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Large-scale comparative genomics shows pervasive enrichment of Z-DNA across cellular life but strong, lineage-specific depletion of Z-RNA-forming sequences in influenza, highlighting nucleic-acid structural selection pressures relevant to molecular evolution.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Z-DNA/Z-RNA is an alternative left-handed nucleic acid conformation with established and emerging roles in gene regulation, immunity, and genome instability. However, its occurrence dynamics and lineage specificity across the tree of life have not yet been fully characterized. Utilizing the recently developed and improved Z-DNA searching tool, ZSeeker, we analyzed 281,139 complete organismal genomes, including multiple Telomere-to-Telomere genome assemblies, and generated genome-wide Z-nucleic acid maps, examined their topography, and compared them to dinucleotide-preserving controls. Cellular genomes featured pervasive Z-DNA enrichment relative to expectation, with enrichments of ~1.5 and ~1.7-fold in Bacteria and Archaea and ~3-fold in Eukaryota. In contrast, Viruses exhibited large differences between lineages, with modest enrichment in several DNA viral groups and pronounced depletion across RNA clades, most notably Influenza A/B strains. We built a LASSO regression model trained on non-Influenza viruses (cross-validated R2 {approx} 0.73), which identified GC content, genome type, and host type as the leading predictors for Z-nucleic acid density, yet it significantly over-predicted Z-RNA density in Influenza A/B. More than 99% of assemblies exceeded the +2 SD threshold, and a &amp;quot;typical Influenza&amp;quot; genome was predicted at 2.76 bp/kb compared to ~0.016 bp/kb observed (a ~170-fold overestimation based on chance alone). Together, these results reveal domain- and lineage-specific regimes: cellular genomes are enriched for Z-DNA consistent with regulatory roles, whereas influenza viruses appear to have undergone strong, lineage-specific depletion of Z-RNA-forming sequences, likely reflecting evolutionary pressure tied to host sensing pathways.
@@ -233,12 +233,12 @@
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.30.696970v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.30.696970v1?rss=1</id>
     <updated>2025-12-30T16:26:39+00:00</updated>
-    <summary>Using a 15-year genetic pedigree of wild Atlantic salmon, the study finds immigrants often have lower reproductive success than locals, with strong effects of source population, sex, and life-history traits on dispersal fitness costs.</summary>
+    <summary>Long-term genetic pedigree data show that immigrant Atlantic salmon often have reduced reproductive success relative to locals, with fitness costs strongly dependent on origin, sex, and life-history.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; bioRxiv Subject Collection: Evolutionary Biology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Using a 15-year genetic pedigree of wild Atlantic salmon, the study finds immigrants often have lower reproductive success than locals, with strong effects of source population, sex, and life-history traits on dispersal fitness costs.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Long-term genetic pedigree data show that immigrant Atlantic salmon often have reduced reproductive success relative to locals, with fitness costs strongly dependent on origin, sex, and life-history.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Local adaptation is often portrayed as uniform fitness disadvantages of immigrants relative to residents. Yet dispersal costs vary with origin, sex, and life-history traits, shaping the balance between gene flow and adaptation. We quantified these heterogeneous costs by comparing the reproductive success of local and immigrant individuals using a 15-year genetic pedigree of Atlantic salmon (Salmo salar), including over 1,100 adults and 3,400 juveniles. Immigrants represented 19.5% of adults, showed male-biased dispersal, and averaged 15% lower reproductive success than locals. However, outcomes were strongly origin-dependent: immigrants from some populations suffered severe fitness costs while others matched or exceeded locals. Sex and life-history further modulated reproductive success: male immigrants underperformed local males, whereas multi-sea-winter females often equaled or outperformed female residents. Immigrant males partially compensated their fitness offset by acquiring more mates. These findings highlight that, while local adaptation promotes philopatry, immigrants origin effects should be considered in gene-flow adaptation dynamics.
@@ -253,12 +253,12 @@
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696856v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696856v1?rss=1</id>
     <updated>2025-12-30T16:17:36+00:00</updated>
-    <summary>Develops a multimodal single-molecule cfDNA sequencing and Transformer-based model to enrich tumor-derived cfDNA signals for multi-cancer screening, with only tangential relevance to origins-of-life via DNA/nucleic-acid methodology.</summary>
+    <summary>Presents a multimodal Transformer model that fuses single-molecule cfDNA methylation, fragmentomics, and histone-mark features to enrich and detect tumor-derived DNA for multi-cancer screening, but has minimal direct relevance to origins-of-life research.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; bioinformatics - biorXiv Preprints&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Develops a multimodal single-molecule cfDNA sequencing and Transformer-based model to enrich tumor-derived cfDNA signals for multi-cancer screening, with only tangential relevance to origins-of-life via DNA/nucleic-acid methodology.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 20/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Presents a multimodal Transformer model that fuses single-molecule cfDNA methylation, fragmentomics, and histone-mark features to enrich and detect tumor-derived DNA for multi-cancer screening, but has minimal direct relevance to origins-of-life research.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Cell-free DNA (cfDNA) serves as a non-invasive biomarker for cancer detection, but conventional methods face challenges due to the ultra-low abundance of tumor-derived cfDNA (ctDNA) among normal cfDNA. Though nucleosome-bound cfDNA harbors rich epigenomic features that could enable ctDNA identification by single-molecule multi-omics cross-validation, this remains unexplored due to methodological limits. Here, we developed a cfDNA sequencing approach integrating methylation, fragmentomics, and histone modifications at the single-molecule level; together with gene semantics and epigenomic annotations, these modalities were vectorized and fused to represent each cfDNA molecule. We trained a Transformer-based model (cfAI) to profile and evaluate ctDNA likelihood at molecule, gene, and sample levels. cfAI achieved ~10-fold enrichment of cancer-derived signals over noise and reached 72.6% sensitivity at 93.1% specificity for multi-cancer detection. Our study establishes an innovative framework that overcomes the inherent signal-to-noise limitations of conventional assays and reveals biological features at molecular resolution for cancer detection.
@@ -273,12 +273,12 @@
     <link href="https://www.mdpi.com/1099-4300/28/1/47"/>
     <id>https://www.mdpi.com/1099-4300/28/1/47</id>
     <updated>2025-12-30T16:07:18+00:00</updated>
-    <summary>Develops and experimentally validates a faster isothermal test protocol for refrigerated containers under the ATP Treaty, reducing test time while improving uncertainty and suppressing artifacts like air leakage and water-evaporation losses.</summary>
+    <summary>Develops and validates a faster, more physically representative isothermal heat-transfer test protocol for refrigerated containers, with only tangential relevance to Origins of Life via general thermal/water-loss considerations.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Entropy&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Develops and experimentally validates a faster isothermal test protocol for refrigerated containers under the ATP Treaty, reducing test time while improving uncertainty and suppressing artifacts like air leakage and water-evaporation losses.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Develops and validates a faster, more physically representative isothermal heat-transfer test protocol for refrigerated containers, with only tangential relevance to Origins of Life via general thermal/water-loss considerations.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Entropy, Vol. 28, Pages 47: Optimizing ATP Isothermal Tests: A Theoretical and Experimental Approach Entropy doi: 10.3390/e28010047 Authors: Juan P. Martínez-Val Piera Alberto Ramos Millán The International Agreement on the Carriage of Perishable Foodstuffs and on the Special Equipment to Be Used for Such Carriage (usually known as ATP Treaty) defines a standardized isothermal test for qualifying refrigerated containers, but its current protocol is lengthy, costly and lacks scientific justification. This paper presents a combined theoretical and experimental study aimed at optimizing this procedure. First, a heat-transfer framework based on transient conduction and thermal diffusivity is developed to estimate stabilization times using dimensionless criteria. Then, extensive experimental tests on ATP containers validate these predictions and reveal additional phenomena such as air leakage and chimney effects. Based on these findings, a revised protocol is proposed that reduces the test duration from more than 18 h to approximately 2 h while preserving the thermal stabilization conditions required by ATP. Experimental results show that the uncertainty in the determination of the global heat-transfer coefficient K is reduced from about 2&amp;amp;ndash;2.3% in the classical ATP procedure to roughly 0.7&amp;amp;ndash;1.0% with the new protocol. In addition, the method suppresses secondary physical effects&amp;amp;mdash;such as chimney-driven air leakage and latent-heat losses due to water evaporation&amp;amp;mdash;thus improving the physical representativeness of the measured K value. The proposed accelerated protocol offers a scientifically grounded, cost-effective alternative for future ATP standards.
@@ -289,16 +289,16 @@
   </entry>
 
   <entry>
-    <title>🟤 [KEYWORDS-OOL] [Phys.org - latest science and technology news stories] Clouds are vital to life—but many are becoming wispy ghosts. Here&#x27;s how to see the changes above us</title>
+    <title>🔴 [KEYWORDS-OOL] [Phys.org - latest science and technology news stories] Clouds are vital to life—but many are becoming wispy ghosts. Here&#x27;s how to see the changes above us</title>
     <link href="https://phys.org/news/2025-12-clouds-vital-life-wispy-ghosts.html"/>
     <id>https://phys.org/news/2025-12-clouds-vital-life-wispy-ghosts.html</id>
     <updated>2025-12-30T15:32:57+00:00</updated>
-    <summary>A reflective, non-academic piece on how cloud distributions and densities modulate light and heat flow on Earth, offering only indirect context for planetary habitability and climate regulation relevant to astrobiology.</summary>
+    <summary>A non-academic overview of how clouds regulate Earth’s energy balance and are changing over time, offering only broad, indirect context for planetary habitability rather than origins-of-life research.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Phys.org - latest science and technology news stories&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 18/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A reflective, non-academic piece on how cloud distributions and densities modulate light and heat flow on Earth, offering only indirect context for planetary habitability and climate regulation relevant to astrobiology.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A non-academic overview of how clouds regulate Earth’s energy balance and are changing over time, offering only broad, indirect context for planetary habitability rather than origins-of-life research.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         As a scholar researching clouds, I have spent much of my time trying to understand the economy of the sky. Not the weather reports showing scudding rainclouds, but the deeper logic of cloud movements, their distributions and densities and the way they intervene in light, regulate temperatures and choreograph heat flows across our restless planet.
@@ -313,12 +313,12 @@
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696948v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696948v1?rss=1</id>
     <updated>2025-12-30T15:17:19+00:00</updated>
-    <summary>Introduces GRAIL, a GAN/autoencoder-based framework to generate plausible intermediate single-cell gene expression states between two sampled developmental stages when transient states are experimentally missing.</summary>
+    <summary>Introduces GRAIL, a GAN/autoencoder-based framework to generate plausible intermediate single-cell transcriptomic states between sampled developmental stages, improving downstream clustering and differential expression when transitional cells are missing.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; bioinformatics - biorXiv Preprints&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Introduces GRAIL, a GAN/autoencoder-based framework to generate plausible intermediate single-cell gene expression states between two sampled developmental stages when transient states are experimentally missing.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Introduces GRAIL, a GAN/autoencoder-based framework to generate plausible intermediate single-cell transcriptomic states between sampled developmental stages, improving downstream clustering and differential expression when transitional cells are missing.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         The primary challenge in cellular dynamics is to capture the intermediate states between two distinct biological stages. This is because of the technical constraints in capturing transient states or the nature of single-cell sequencing protocols. To address this challenge, we introduce a new computational framework, GRAIL (Generative Reconstruction of Artificial Intermediate Lineages), which aims to bridge these missing transitions. GRAIL reconstructs biologically plausible intermediate cell states between two distinct developmental stages (A and B) through a Locality Sensitive Hashing (LSH) based cell selection strategy followed by a smooth interpolation in learned latent space. The interpolated latent representations are subsequently decoded into gene expression profiles using a trained generator from a Generative Adversarial Network (GAN). The framework consists of three components: (a) a pretrained autoencoder that learns latent representations of stage specific transcriptomes, (b) an LSH-guided interpolation procedure that identifies anchor cells and performed interpolation in latent space, and (c) a GAN generator that extrapolates realistic intermediate expression from the interpolated samples consistent with the underlying trajectory. We benchmarked GRAIL with different state-of-the-arts (SOTA) in diverse setup of simulated dataets as well as in real life scRNA-seq datasets. Generated samples from GRAIL preserve expected marker gene expression patterns and also improve downstream analyses, including differential expression and cell clustering. Our method addresses the critical gap in studying cellular transitions when experimental intermediate samples are unavailable.
@@ -333,12 +333,12 @@
     <link href="https://phys.org/news/2025-12-scientists-uncovered-evidence-ireland-largest.html"/>
     <id>https://phys.org/news/2025-12-scientists-uncovered-evidence-ireland-largest.html</id>
     <updated>2025-12-30T14:32:56+00:00</updated>
-    <summary>Archaeological study reports a massive Late Bronze/Early Iron Age hillfort settlement in Ireland with possible early water cistern evidence, but it has no meaningful connection to origins-of-life or astrobiology beyond mentioning water.</summary>
+    <summary>Archaeological study of a large Late Bronze/Early Iron Age hillfort settlement in Ireland with evidence of occupation and a possible water cistern, with minimal relevance to origins-of-life research beyond the general mention of water.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Phys.org - latest science and technology news stories&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Archaeological study reports a massive Late Bronze/Early Iron Age hillfort settlement in Ireland with possible early water cistern evidence, but it has no meaningful connection to origins-of-life or astrobiology beyond mentioning water.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Archaeological study of a large Late Bronze/Early Iron Age hillfort settlement in Ireland with evidence of occupation and a possible water cistern, with minimal relevance to origins-of-life research beyond the general mention of water.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         In a recent study published in Antiquity, Dr. Dirk Brandherm and his colleagues identified more than 600 suspected house platforms in the Brusselstown Ring hillfort, making it the largest nucleated settlement ever discovered in the entirety of prehistoric Britain and Ireland thus far. Subsequent test excavations revealed evidence of Late Bronze Age and Early Iron Age occupation as well as a potential water cistern, which may be the very first of its kind in an Irish hillfort.
@@ -353,12 +353,12 @@
     <link href="https://www.theatlantic.com/ideas/2025/12/podcasts-music-listening-productivity/685448/?utm_source=feed"/>
     <id>https://www.theatlantic.com/ideas/2025/12/podcasts-music-listening-productivity/685448/?utm_source=feed</id>
     <updated>2025-12-30T14:09:25+00:00</updated>
-    <summary>An opinion essay on how podcast listening displaced the author’s engagement with music, with no connection to origins-of-life, astrobiology, or related research topics.</summary>
+    <summary>A cultural commentary on how podcasts displaced the author’s music listening habits, with no connection to astrobiology, habitability, or origins-of-life research.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Master Feed : The Atlantic&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; An opinion essay on how podcast listening displaced the author’s engagement with music, with no connection to origins-of-life, astrobiology, or related research topics.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A cultural commentary on how podcasts displaced the author’s music listening habits, with no connection to astrobiology, habitability, or origins-of-life research.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Podcasts have devastated my relationship to music. Confirmation of that sad fact came earlier this month in the form of my Spotify “Wrapped,” the streaming service’s personalized report of what I listened to this year, including a playlist of my top songs. In the past, this annual playlist supplied a loop of sonic pleasure, propelling me through workouts, dinner preps, and hours-long commutes. This year, I haven’t even opened it. That is not to say I’ve embraced silence: According to Spotify, I spent 71,661 minutes on the app over the past 12 months. That’s 49 days. But 55,088 of those minutes were spent streaming podcasts instead of songs. Whereas I used to listen to music all the time, now I fill every available moment with the sound of people talking. I suspect I’m not the only one. My change in listening habits comes from a compulsion that many people in my life share: to make every minute of the day as “productive” as possible. By that blinkered calculus, an informative podcast will always trump music. But listening incessantly to podcasts has actually narrowed my interests and shown me just how limiting too much information can be. [ Read: Companies’ ‘wrapped’ features keep getting weirder ] Before I finish brewing my first cup of coffee, a BBC report is already streaming from my speaker. “Not another podcast, Papa,” my son complains, wiping his sleepy eyes as I butter his toast. “I need to know what’s going on in the world,” I tell him, even though I can see how much he and his sister would rather listen to something with a beat. After dropping him off at school, I cycle through long-form podcasts on my walk home, during my own breakfast, and as I get ready for the day. Many of these are political, and they run the ideological spectrum. I reserve The New York Times ’ podcast The Daily for a short lunchtime treat. Then at the gym in the late afternoon, I’m back to eavesdropping on other people’s verbal marathons, many of them about exercise and nutrition. I used to turn on house music or jazz automatically when I started cooking in the evenings. Now I have to force myself to play anything other than chatter. The pandemic was the turning point for me. I scarcely listened to podcasts before those days of tedium and seclusion, when overhearing a conversation almost felt like having company. The number of podcasts has exploded since then, and algorithms have deftly toured me around the new offerings. I’ve found some excellent ones ; their charming and informed hosts now serve as unlikely rivals of my favorite musical artists. The podcast boom is not the only reason I’m listening to so few songs these days. Hip-hop, the genre I grew up on, has entered a period of sustained decline. Everyone thinks the songs of their youth represent a golden era. But the rappers I listened to when I was younger really were better than today’s artists, or at least more innovative—maybe because the genre was younger, too. Dr. Dre concocted a sound that changed how the West Coast made music. Nas and Jay-Z could not only rap circles around the best of their successors; they could also smuggle some serious ideas into their hits. Consider this Socratic inquiry from Jay-Z: “Is Pius pious ’cause God loves pious?” That type of lyric rarely comes around anymore. In the late 2010s, so-called mumble rap took off. Critics lamented that the genre—and the styles it continues to spawn—ignores lyricism and craft, a complaint that gives short shrift to the infectious exuberance these modes can produce. Still, even some of the most prominent contemporary artists worry that something has gone awry. This fall, Billboard reported that, for the first time since 1990, its Top 40 chart didn’t contain a single rap song. Observers have proposed plenty of explanations. I favor one offered (perhaps apocryphally) by the mumble-rap pioneer Young Thug: that the enervating, yearlong feud between Drake and Kendrick Lamar degraded the genre. “Since then,” a viral quote attributed to Young Thug contends, “everyone in the world is leveling up, except hip-hop.” In this dispiriting context, podcasts have grown all the more appealing. (Some of the best rap artists from my youth now host their own .) When I do return to hip-hop, it’s mostly to indulge my nostalgia. [ Listen: How YouTube ate podcasts and TV ] Choosing between podcasts and music reminds me of something the critic Dwight Garner observed about the value of reading a book on olive oil. “ Extra Virginity is another reminder of why subpar nonfiction is so much better than subpar fiction,” Garner wrote. “With nonfiction at least you can learn something.” That’s how I used to feel about podcasts. At least they help me improve my grasp of international affairs and prepare for the AI apocalypse. BigXthaPlug and NBA YoungBoy don’t teach me anything. But more recently, I’ve found that trying to make every listening minute count inevitably becomes counterproductive. The internal pressure to optimize free time and always multitask is ultimately exhausting, not enlightening. The world never ceases to produce grist for discussion. That doesn’t mean we need to fill our ears with all of it. In the new year, I think I’ll try a little more silence.
@@ -373,12 +373,12 @@
     <link href="https://www.theatlantic.com/science/2025/12/american-science-2025-trump-ambition/685467/?utm_source=feed"/>
     <id>https://www.theatlantic.com/science/2025/12/american-science-2025-trump-ambition/685467/?utm_source=feed</id>
     <updated>2025-12-30T14:09:23+00:00</updated>
-    <summary>A science-policy commentary on U.S. research funding turbulence in 2025 that only tangentially touches astrobiology via concerns about potential NASA cuts and the Mars Sample Return mission.</summary>
+    <summary>A science-policy retrospective on 2025 U.S. funding disruptions that only tangentially touches origins-of-life/astrobiology via potential impacts on NASA efforts like Mars sample return, without presenting new OoL research.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Master Feed : The Atlantic&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A science-policy commentary on U.S. research funding turbulence in 2025 that only tangentially touches astrobiology via concerns about potential NASA cuts and the Mars Sample Return mission.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 30/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A science-policy retrospective on 2025 U.S. funding disruptions that only tangentially touches origins-of-life/astrobiology via potential impacts on NASA efforts like Mars sample return, without presenting new OoL research.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         For all of the political chaos that American science endured in 2025, aspects of this country’s research enterprise made it through somewhat … okay . The Trump administration terminated billions of dollars in research grants; judges intervened to help reinstate thousands of those contracts. The administration threatened to cut funding to a number of universities; several have struck deals that preserved that money. After the White House proposed slashing the National Institutes of Health’s $48 billion budget, Congress pledged to maintain it. And although some researchers have left the country, far more have remained. Despite these disruptions, many researchers will also remember 2025 as the year when personalized gene therapy helped treat a six-month-old baby , or when the Vera C. Rubin Observatory released its first glimpse of the star-studded night sky. Science did lose out this year, though, in ways that researchers are still struggling to tabulate. Some of those losses are straightforward: Since the beginning of 2025, “all, or nearly all, federal agencies that supported research in some way have decreased the size of their research footprint,” Scott Delaney, an epidemiologist who has been tracking the federal funding cuts to science, told me. Less funding means less science can be done and fewer discoveries will be made. The deeper cut may be to the trust researchers had in the federal government as a stable partner in the pursuit of knowledge. This means the country’s appetite for bold exploration, which the compact between science and government supported for decades, may be gone, too—leaving in its place more timid, short-term thinking. In an email, Andrew Nixon, the deputy assistant secretary for media relations at the Department of Health and Human Services, which oversees the NIH, disputed that assertion, writing, “The Biden administration politicized NIH funding through DEI-driven agendas; this administration is restoring rigor, merit, and public trust by prioritizing evidence-based research with real health impact while continuing to support early-career scientists.” Science has always required creativity—people asking and pursuing questions in ways that have never been attempted before, in the hope that some of that work might produce something new. At its most dramatic, the results can be transformative: In the early 1900s, the Wright brothers drew inspiration from birds’ flight mechanics to launch their first airplanes; more recently, scientists have found ways to genetically engineer a person’s own immune cells to kill off cancer. Even in more routine discoveries, nothing quite matches the excitement of being the first to capture a piece of reality. I remember, as a graduate student, cloning my first bacterial mutant while trying to understand a gene important for growth. I knew that the microscopic creature I had built would never yield a drug or save a life. But in the brief moment in which I plucked a colony from an agar plate and swirled it into a warm, sugar-rich broth, I held a form of life that had never existed before—and that I had made in pursuit of a question that, as far as I knew, no one else had asked. Pursuing scientific creativity can be resource intensive, requiring large teams of researchers to spend millions of dollars across decades to investigate complex questions. Up until very recently, the federal government was eager to underwrite that process. Since the end of the Second World War, it has poured money into basic research, establishing a kind of social contract with scientists, of funds in exchange for innovation. Support from the government “allowed the free play of scientific genius,” Nancy Tomes, a historian of medicine at Stony Brook University, told me. The investment has paid dividends. One oft-cited statistic puts the success of scientific funding in economic terms: Every dollar invested in research and development in the United States is estimated to return at least $5. Another points to the fact that more than 99 percent of the drugs approved by the FDA from 2010 to 2019 were at least partly supported by NIH funds. These things are true—but they also obscure the years or even decades of meandering and experimentation that scientists must take to reach those results. CRISPR gene-editing technology began as basic research into the structure of bacterial genomes; the discovery of GLP-1 weight-loss drugs depended on scientists in the late ’70s and ’80s tinkering with fish cells. The Trump administration has defunded research with more obvious near-term goals—work on mRNA vaccines to combat the next flu pandemic, for instance—but also science that expands knowledge that we don’t yet have an application for (if one even exists). It has also proposed major cuts to NASA that could doom an already troubled mission to return brand-new mineral samples from the surface of Mars, which might have told us more about life in this universe, or nothing much at all. Outside of the most obvious effects of grant terminations —salary cuts, forced layoffs, halted studies—the Trump administration’s attacks on science have limited the horizons that scientists in the U.S. are looking toward. The administration has made clear that it no longer intends to sponsor research into certain subjects, including transgender health and HIV . Even researchers who haven’t had grants terminated this year or who work on less politically volatile subjects are struggling to conceptualize their scientific futures, as canceled grant-review meetings and lists of banned words hamper the normal review process. The NIH is also switching up its funding model to one that will decrease the number of scientific projects and people it will bankroll. Many scientists are hesitant to hire more staff or start new projects that rely on expensive materials. Some have started to seek funds from pharmaceutical companies or foundations, which tend to offer smaller and shorter-term agreements, trained more closely on projects with potential profit. All of this nudges scientists into a defensive posture . They’re compressing the size of their studies or dropping the most ambitious aspects of their projects. Collaborations between research groups have broken down too, as some scientists who have been relatively insulated from the administration’s cuts have terminated their partnerships with defunded scientists—including at Harvard, where Delaney worked as a research scientist until September—to protect their own interests. “The human thing to do is to look inward and to kind of take care of yourself first,” Delaney told me. Instability and fear have made the research system, already sometimes prone to siloing, even more fragmented. The administration “took two of the best assets that the U.S. scientific enterprise has—the capacity to think long, and the capacity to collaborate—and we screwed them up at the same time,” Delaney said. Several scientists told me that the current funding environment has prompted them to consider early retirement—in many cases, shutting down the labs they have run for decades. Some of the experiments that scientists shelved this year could still be done at later dates. But the new instability of American science may also be driving away the people necessary to power that future work. Several universities have been forced to downsize Ph.D. programs; the Trump administration’s anti-immigration policies have made many international researchers fearful of their status at universities. And as the administration continues to dismiss the importance of DEI programs, many young scientists from diverse backgrounds have told me they’re questioning whether they will be welcomed into academia. Under the Trump administration, the scope of American science is simply smaller: “When you shrink funding, you’re going to increase conservatism,” C. Brandon Ogbunu, a computational biologist at Yale University, told me. Competition and scarcity can breed innovation in science. But often, Ogbunu said, people forget that “comfort and security are key parts of innovation, too.”
@@ -393,12 +393,12 @@
     <link href="https://www.theatlantic.com/family/2025/12/new-year-resolution-communal/685436/?utm_source=feed"/>
     <id>https://www.theatlantic.com/family/2025/12/new-year-resolution-communal/685436/?utm_source=feed</id>
     <updated>2025-12-30T14:09:21+00:00</updated>
-    <summary>An opinion piece arguing New Year’s resolutions should be communal, with only a passing mention of “evolutionarily” and no substantive connection to astrobiology or origins-of-life research.</summary>
+    <summary>An opinion-style piece arguing that New Year’s resolutions are more effective and meaningful when set communally, leveraging social cues and accountability rather than individual willpower.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-OOL&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Master Feed : The Atlantic&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 10/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; An opinion piece arguing New Year’s resolutions should be communal, with only a passing mention of “evolutionarily” and no substantive connection to astrobiology or origins-of-life research.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; An opinion-style piece arguing that New Year’s resolutions are more effective and meaningful when set communally, leveraging social cues and accountability rather than individual willpower.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Nowadays, having a New Year’s resolution can seem almost quaint. Social-media influencers push self-improvement trends year-round: The spring has “ glow up ” challenges, as does the summer. Soon after, the high-discipline “ Great Lock-In Challenge ” and “ Winter Arc ” videos begin, many of them urging people to get ahead of the “new year, new me” crowd. Or you can attempt a slew of other self-betterment regimens , whenever the spirit calls. Many of these videos depict people minimizing distractions—such as, say, other people—to bicep-curl and matcha-drink their way to becoming “unrecognizable,” mentally and physically, as some YouTubers put it. At the same time, many Americans appear to be losing interest in New Year’s resolutions. One report from the social-media analytic company Brandwatch found that, in the days around January 1, mentions of resolutions fell 50 percent last holiday season when compared with the year prior. To put it plainly: Many people are now always trying to hustle their way to a better self, no matter the month or season. In one sense, detaching goal setting from the start of the Gregorian calendar is reasonable—one can, of course, choose to begin afresh at any moment. But by letting New Year’s resolutions go, Americans may be losing something: a distinctly communal ritual that can remind people of how entangled their well-being is with that of others. New Year’s hasn’t always been so associated with accomplishing personal goals. Humans have a long history of using the holiday to think about how to make life better for their community. Versions of resolutions have existed for about 4,000 years ; in Babylonia and ancient Rome, people prayed together, paid off their debts, and made promises of good conduct to their gods. The rituals were usually framed as religious events supporting the broader group, and were tied to agricultural calendars. (“Permit my harvests, my grain, my vineyards, and my plantations to flourish,” some ancient Romans were counseled to ask of Janus, the god of transitions and beginnings, “and give good health and strength to me, my house, and my household.”) Even in the more recent past, in the United States, many people’s resolutions focused on learning how to live well with others. The most popular resolution in the U.S. in 1947 was, according to a Gallup poll , to “improve my disposition, be more understanding, control my temper.” Last year, by contrast, Americans’ resolutions were primarily related to exercise, health, or diet. [ Read: Americans need to party more ] Americans may no longer share a schedule dictated by the agricultural calendar, but a sense of community doesn’t need to disappear. New Year’s can be an opportunity to gather with loved ones and set resolutions together. Maybe everyone meets in person; maybe over Zoom. Maybe the group sets one big, collaborative goal— Let’s start a community garden , for instance, or Let’s take turns cooking meals for one another at home . Maybe everyone picks a different resolution, and the group brainstorms how to best help each person achieve it. And ideally, the goals aren’t self-serving—but considerate of the people around them. Making a resolution with other people might actually be more effective than flying solo. Habits are unconscious patterns that can be hard to shake, and seeing someone in our environment engaging in a certain behavior can nudge us to do it too, Tim Kurz, a psychology professor at the University of Western Australia, told me. This permeability can have its downsides—your sister’s Is It Cake? binge-watching in the living room could cue you to watch even more Netflix. But it can also be a great boon: As work piles up, for example, you might forget about your resolution to check in on older family members. If you have set this intention as a household, though, you might see your partner buying groceries for their grandmother, which in turn might remind you to call grandma too. Shared resolutions can support intention setting in another way: They may help people avoid what social psychologists call “ do-gooder derogation ”—a quirk of psychology in which humans tend to “find people who are more moralistic than us and are behaving more virtuously than us really annoying,” Kurz said. He gave me this example: Say you’ve recently resolved to ride your bike to work instead of driving, for environmental reasons. Your family, already buckled into the SUV, might feel their virtue threatened and decide to poke fun at you. Look at this guy! Have fun biking in the rain, Goody Two-shoes! If you set goals as a family, however, your relatives—who under other circumstances might be psychologically motivated to subvert your resolutions—may become more committed to helping you follow through. [ Read: Invisible habits are driving your life ] In the long run, resolutions that keep others in mind tend to have greater staying power. Studies have found that brute willpower alone lasts for only so long , and that people have a much harder time accessing willpower when stressed. This might help explain why a more individual New Year’s goal, such as losing 10 pounds by swearing off ice cream, may be more likely to fizzle. “If you fail in your quest, then the only person you have ‘let down’ is yourself,” Kurz said. Evolutionarily speaking, people might not even be built to set self-serving goals. What helped our human ancestors succeed were likely “strong social bonds,” the psychologist David Desteno wrote in a New York Times article about resolutions, “relationships that would encourage people to cooperate and lend support to one another.” Of course, shared resolutions aren’t a magic pill for behavioral change. Humans can famously be both top-notch accountability partners and rampant enablers. When picking whom to make goals with, “be careful about who that person is,” Kurz told me. “You don’t want to strategically choose the person who you know is a total flake.” You might have resolved with your work bestie to quit overdoing the happy-hour piña coladas so that you can better participate in your team’s conversations; if your pal capsizes on your shared goal first, though, their decision could lead to a cycle of “collective rationalization,” in which you feel okay quitting too, Kurz told me. Hell, why not get another round? Still, communal resolutions can serve as a good reminder of how profoundly interconnected humans are. And they can push people to widen their definition of self-improvement. In a recent interview, the Potawatomi botanist and writer Robin Wall Kimmerer described the concept of “expanded self-interest”—the idea that the “self” can include all of life. “My well-being is the same as my family’s well-being,” she explained, and “my family’s well-being is the same as the well-being of the land that feeds us.” Bicep curls and matcha lattes, then, may get us only so far on the path to flourishing. The trick to helping ourselves might just be to focus on the communal first.
@@ -413,12 +413,12 @@
     <link href="https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines"/>
     <id>https://ici.radio-canada.ca/nouvelle/2216896/disparition-vol-mh370-malaysia-airlines</id>
     <updated>2025-12-30T22:39:00+00:00</updated>
-    <summary>News report on the resumption of searches for missing flight MH370, with no connection to origins of life, astrobiology, or related prebiotic/habitability research.</summary>
+    <summary>News about resuming the search for Malaysia Airlines flight MH370, with no connection to origins-of-life research or astrobiology.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Radio-Canada | Nouvelles&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; News report on the resumption of searches for missing flight MH370, with no connection to origins of life, astrobiology, or related prebiotic/habitability research.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; News about resuming the search for Malaysia Airlines flight MH370, with no connection to origins-of-life research or astrobiology.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         L&amp;#x27;avion a disparu des radars le 8 mars 2014 alors qu’il effectuait la liaison entre Kuala Lumpur et Pékin.
@@ -433,12 +433,12 @@
     <link href="https://www.newscientist.com/article/2509810-star-that-seemed-to-vanish-more-than-130-years-ago-is-found-again/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
     <id>https://www.newscientist.com/article/2509810-star-that-seemed-to-vanish-more-than-130-years-ago-is-found-again/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
     <updated>2025-12-30T19:47:00+00:00</updated>
-    <summary>Reassesses an 1892 report of a bright “star” near Venus that later vanished, using archival and modern analysis to explain the transient astronomical observation rather than addressing astrobiology or origins-of-life processes.</summary>
+    <summary>Revisits a historical astronomical mystery of a bright star seen near Venus in 1892 that later vanished, with minimal direct relevance to origins-of-life research beyond the incidental Venus context.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; New Scientist - Physics &amp;amp;amp; Math&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 20/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Reassesses an 1892 report of a bright “star” near Venus that later vanished, using archival and modern analysis to explain the transient astronomical observation rather than addressing astrobiology or origins-of-life processes.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Revisits a historical astronomical mystery of a bright star seen near Venus in 1892 that later vanished, with minimal direct relevance to origins-of-life research beyond the incidental Venus context.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         In 1892, astronomer Edward Emerson Barnard thought he saw a bright star near Venus, but then it vanished. We may now know why
@@ -449,16 +449,16 @@
   </entry>
 
   <entry>
-    <title>🟠 [KEYWORDS-ASTROBIOLOGY] [Astrobiology] HKUST Launches World’s First Deep-sea Multi-omics Resource Platform Empowering Global Research Into Biological Adaptation In Extreme Environments</title>
+    <title>🔴 [KEYWORDS-ASTROBIOLOGY] [Astrobiology] HKUST Launches World’s First Deep-sea Multi-omics Resource Platform Empowering Global Research Into Biological Adaptation In Extreme Environments</title>
     <link href="https://astrobiology.com/2025/12/hkust-launches-worlds-first-deep-sea-multi-omics-resource-platform-empowering-global-research-into-biological-adaptation-in-extreme-environments.html"/>
     <id>https://astrobiology.com/2025/12/hkust-launches-worlds-first-deep-sea-multi-omics-resource-platform-empowering-global-research-into-biological-adaptation-in-extreme-environments.html</id>
     <updated>2025-12-30T19:35:05+00:00</updated>
-    <summary>HKUST’s Deep Ocean Omics (DOO) database compiles deep-sea multi-omics datasets to support research on how life adapts to extreme, water-rich environments, offering broadly relevant context for astrobiology and habitability rather than direct abiogenesis mechanisms.</summary>
+    <summary>Introduces a deep-sea multi-omics database/platform enabling comparative studies of life in extreme ocean environments, offering indirect astrobiology/habitability relevance but limited direct origins-of-life (abiogenesis/protocell) focus.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 55/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; HKUST’s Deep Ocean Omics (DOO) database compiles deep-sea multi-omics datasets to support research on how life adapts to extreme, water-rich environments, offering broadly relevant context for astrobiology and habitability rather than direct abiogenesis mechanisms.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 28/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Introduces a deep-sea multi-omics database/platform enabling comparative studies of life in extreme ocean environments, offering indirect astrobiology/habitability relevance but limited direct origins-of-life (abiogenesis/protocell) focus.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         The Hong Kong University of Science and Technology (HKUST), in collaboration with the Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou), has launched the world’s first Deep Ocean Omics (DOO) database (https://DeepOceanOmics.org/). As the largest platform of its kind, DOO integrates and analyzes multi-omics data from organisms thriving in the ocean’s most extreme environments, alongside […] The post HKUST Launches World’s First Deep-sea Multi-omics Resource Platform Empowering Global Research Into Biological Adaptation In Extreme Environments appeared first on Astrobiology .
@@ -473,12 +473,12 @@
     <link href="https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html"/>
     <id>https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html</id>
     <updated>2025-12-30T18:35:25+00:00</updated>
-    <summary>The paper calibrates an EMCCD detector for CSST’s CPI-C wavefront sensor to improve high-contrast exoplanet coronagraph imaging, an enabling technology with indirect (but not biosignature- or habitability-specific) astrobiology relevance.</summary>
+    <summary>This paper calibrates the EMCCD detector in CSST’s coronagraph wavefront sensor to improve high-contrast exoplanet imaging performance, an enabling technology for future habitability and biosignature studies but not directly focused on origins of life.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper calibrates an EMCCD detector for CSST’s CPI-C wavefront sensor to improve high-contrast exoplanet coronagraph imaging, an enabling technology with indirect (but not biosignature- or habitability-specific) astrobiology relevance.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 30/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This paper calibrates the EMCCD detector in CSST’s coronagraph wavefront sensor to improve high-contrast exoplanet imaging performance, an enabling technology for future habitability and biosignature studies but not directly focused on origins of life.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         The wavefront sensor (WFS), equipped with an electron-multiplying charge-coupled device (EMCCD) detector, is a critical component of the Cool Planets Imaging Coronagraph (CPI-C) on the Chinese Space Station Telescope (CSST). Precise calibration of the WFS’s EMCCD detector is essential to meet the stringent requirements for high-contrast exoplanet imaging. This study comprehensively characterizes key performance parameters […] The post Performance Calibration of the Wavefront Sensor’s EMCCD Detector for the Cool Planets Imaging Coronagraph Aboard CSST appeared first on Astrobiology .
@@ -493,12 +493,12 @@
     <link href="https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html"/>
     <id>https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html</id>
     <updated>2025-12-30T18:35:26+00:00</updated>
-    <summary>Compares PAH emission strengths across protoplanetary disks with ALMA dust-trap locations, suggesting a link between organic molecule distribution and dust concentrations relevant to planetesimal-forming environments.</summary>
+    <summary>Compares PAH emission strengths across protoplanetary disks with ALMA dust-trap locations, suggesting a possible connection between organic carbon carriers and planetesimal-forming dust structures relevant to astrochemistry and early prebiotic inventory.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 55/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Compares PAH emission strengths across protoplanetary disks with ALMA dust-trap locations, suggesting a link between organic molecule distribution and dust concentrations relevant to planetesimal-forming environments.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Compares PAH emission strengths across protoplanetary disks with ALMA dust-trap locations, suggesting a possible connection between organic carbon carriers and planetesimal-forming dust structures relevant to astrochemistry and early prebiotic inventory.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Polycyclic Aromatic Hydrocarbons (PAHs) are commonly detected in protoplanetary disks, but it is unclear what causes the wide range of intensities across the samples. In this work, the measured PAH intensities of a range of disks are compared with ALMA dust continuum images, in order to test whether there is evidence that PAHs are frozen […] The post Observational Evidence For A Possible Link Between PAH Emission And Dust Trap Locations In Protoplanetary Disks appeared first on Astrobiology .
@@ -513,12 +513,12 @@
     <link href="https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html"/>
     <id>https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html</id>
     <updated>2025-12-30T18:35:27+00:00</updated>
-    <summary>Survey of diverse fungi colonizing the highly radioactive inner Chernobyl reactor containment highlights eukaryotic extremotolerance relevant to astrobiology/habitability, but it does not directly address origins-of-life mechanisms.</summary>
+    <summary>Survey of diverse fungal communities colonizing the high-radiation Chernobyl reactor interior, offering broad astrobiology-relevant insights into eukaryotic extremotolerance but not directly addressing origins-of-life mechanisms.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Survey of diverse fungi colonizing the highly radioactive inner Chernobyl reactor containment highlights eukaryotic extremotolerance relevant to astrobiology/habitability, but it does not directly address origins-of-life mechanisms.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Survey of diverse fungal communities colonizing the high-radiation Chernobyl reactor interior, offering broad astrobiology-relevant insights into eukaryotic extremotolerance but not directly addressing origins-of-life mechanisms.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Extensive fungal growth has been detected on the walls and other building constructions in the inner parts of the Shelter of the damaged fourth Unit of the Chernobyl Nuclear Power Plant in 1997-98. The mycobiota comprised 37 species of 19 genera. Zygomycetes and ascomycetes were represented by one species each: Mucor plumbeus and Chaetomium globosum, […] The post Fungi From Chernobyl: Mycobiota Of The Inner Regions Of The Containment Structures Of The Damaged Nuclear Reactor appeared first on Astrobiology .
@@ -533,12 +533,12 @@
     <link href="https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html"/>
     <id>https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html</id>
     <updated>2025-12-30T18:35:28+00:00</updated>
-    <summary>This Cell Structure-linked work improves understanding of protein 3D form–function relationships, offering broad biological context but little direct insight into prebiotic chemistry or specific origins-of-life mechanisms.</summary>
+    <summary>A TU Graz/Structure (Cell Press) report on improved understanding of protein 3D form–function relationships, broadly relevant to biology but only indirectly connected to origins-of-life research.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 25/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; This Cell Structure-linked work improves understanding of protein 3D form–function relationships, offering broad biological context but little direct insight into prebiotic chemistry or specific origins-of-life mechanisms.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; A TU Graz/Structure (Cell Press) report on improved understanding of protein 3D form–function relationships, broadly relevant to biology but only indirectly connected to origins-of-life research.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Proteins are among the most important building blocks of nature and play a central role in biological processes in all organisms. Accordingly, scientists are keen to understand them as precisely as possible. As polymers of different amino acids, proteins can have different 3-dimensional structures and various functions. However, it is often difficult to determine which […] The post Understanding Protein Form And Function Better At TU Graz appeared first on Astrobiology .
@@ -549,16 +549,16 @@
   </entry>
 
   <entry>
-    <title>🟠 [KEYWORDS-ASTROBIOLOGY] [Astrobiology] Considerations On The Process Of Target Selection For The Comet Interceptor Mission</title>
+    <title>🔴 [KEYWORDS-ASTROBIOLOGY] [Astrobiology] Considerations On The Process Of Target Selection For The Comet Interceptor Mission</title>
     <link href="https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html"/>
     <id>https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html</id>
     <updated>2025-12-30T18:35:29+00:00</updated>
-    <summary>This paper outlines how ESA’s Comet Interceptor will select and characterize a suitable long-period comet target, a mission-enabling step toward studying pristine cometary materials relevant to early Solar System volatiles and prebiotic organics.</summary>
+    <summary>Discusses how ESA’s Comet Interceptor will select an as-yet-unknown long-period comet target, a mission-planning study with indirect astrobiology relevance via comets as potential carriers of water and prebiotic organics.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 40/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; This paper outlines how ESA’s Comet Interceptor will select and characterize a suitable long-period comet target, a mission-enabling step toward studying pristine cometary materials relevant to early Solar System volatiles and prebiotic organics.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 35/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Discusses how ESA’s Comet Interceptor will select an as-yet-unknown long-period comet target, a mission-planning study with indirect astrobiology relevance via comets as potential carriers of water and prebiotic organics.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Comet Interceptor is an ESA science mission with payload contributions from ESA Member States and with an international participation by JAXA. It is the first mission that is being designed, built, and potentially launched before its target is known. This approach will enable the spacecraft to perform the first mission to a Long Period Comet […] The post Considerations On The Process Of Target Selection For The Comet Interceptor Mission appeared first on Astrobiology .
@@ -573,12 +573,12 @@
     <link href="https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html"/>
     <id>https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html</id>
     <updated>2025-12-30T18:35:30+00:00</updated>
-    <summary>Curiosity imaged and previously crushed a sulfur-bearing rock on Mars (“Snow Lake”), highlighting intriguing geochemical conditions relevant to Martian astrobiology but offering limited direct insight into origins-of-life mechanisms.</summary>
+    <summary>Curiosity’s observation of elemental sulfur-bearing rocks on Mars is broadly relevant to astrobiology and past habitability context, but it is a NASA news item without direct origins-of-life or prebiotic chemistry results.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Curiosity imaged and previously crushed a sulfur-bearing rock on Mars (“Snow Lake”), highlighting intriguing geochemical conditions relevant to Martian astrobiology but offering limited direct insight into origins-of-life mechanisms.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Curiosity’s observation of elemental sulfur-bearing rocks on Mars is broadly relevant to astrobiology and past habitability context, but it is a NASA news item without direct origins-of-life or prebiotic chemistry results.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         NASA’s Curiosity captured this close-up image of a rock nicknamed “Snow Lake” on June 8, 2024, the 4,209th Martian day, or sol, of the mission. Nine days earlier, the rover had crushed a similar-looking rock and revealed crystalline textures — and elemental sulfur — inside. Astrobiology, Astrogeology, The post Curiosity Mars Rover Views A Rock Made Of Sulfur At Snow Lake appeared first on Astrobiology .
@@ -593,12 +593,12 @@
     <link href="https://ici.radio-canada.ca/nouvelle/2216796/prestations-covid-19-revenu-canada-dette"/>
     <id>https://ici.radio-canada.ca/nouvelle/2216796/prestations-covid-19-revenu-canada-dette</id>
     <updated>2025-12-30T16:01:40+00:00</updated>
-    <summary>Article about the Canada Revenue Agency attempting to recover $10B in COVID-19 benefits paid to ineligible recipients, with no connection to origins of life or astrobiology.</summary>
+    <summary>Article about the Canada Revenue Agency attempting to recover improperly paid COVID-19 benefits, with no relevance to origins of life or astrobiology.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; KEYWORDS-ASTROBIOLOGY&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Radio-Canada | Nouvelles&lt;br/&gt;
         &lt;strong&gt;Score:&lt;/strong&gt; 0/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; Article about the Canada Revenue Agency attempting to recover $10B in COVID-19 benefits paid to ineligible recipients, with no connection to origins of life or astrobiology.&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Article about the Canada Revenue Agency attempting to recover improperly paid COVID-19 benefits, with no relevance to origins of life or astrobiology.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Ces montants ont été versés à des bénéficiaires non admissibles, affirme l&amp;#x27;ARC.
@@ -613,12 +613,12 @@
     <link href="https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;mi=cjwv&amp;af=R"/>
     <id>https://www.liebertpub.com/doi/abs/10.1177/15311074251404929?ai=su&amp;mi=cjwv&amp;af=R</id>
     <updated>2025-12-31T04:46:37+00:00</updated>
-    <summary>A perspective urging renewed scientific analysis of the Viking Mars mission data, with relevance to Mars astrobiology and historical life-detection efforts rather than core abiogenesis mechanisms.</summary>
+    <summary>Perspective/commentary arguing that 50 years after Viking, Mars life-detection results still warrant rigorous scientific reanalysis, relevant to astrobiology but only indirectly to origins-of-life mechanisms.</summary>
     <content type="html">
         &lt;strong&gt;Category:&lt;/strong&gt; OOL-RESSOURCES&lt;br/&gt;
         &lt;strong&gt;Source:&lt;/strong&gt; Astrobiology&lt;br/&gt;
-        &lt;strong&gt;Score:&lt;/strong&gt; 40/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; A perspective urging renewed scientific analysis of the Viking Mars mission data, with relevance to Mars astrobiology and historical life-detection efforts rather than core abiogenesis mechanisms.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; Perspective/commentary arguing that 50 years after Viking, Mars life-detection results still warrant rigorous scientific reanalysis, relevant to astrobiology but only indirectly to origins-of-life mechanisms.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         Astrobiology, Ahead of Print.
