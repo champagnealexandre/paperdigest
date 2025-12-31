@@ -16,7 +16,6 @@ def main():
     client = ai.get_client(api_key)
     
     primary_model = config['models'].get(str(config['model_tier']), "openai/gpt-5.2")
-    shadow_model = config['models'].get("1") if config['shadow_mode'] else None
     
     all_keywords = list(set(config['keywords_astro'] + config['keywords_ool']))
     
@@ -68,21 +67,6 @@ def main():
             )
             score_primary = analysis_primary['score']
             
-            score_shadow = None
-            if config['shadow_mode']:
-                analysis_shadow = ai.analyze_paper(
-                    client,
-                    shadow_model,
-                    config.get('model_prompt', ''),
-                    entry.title, 
-                    getattr(entry, 'description', ''), 
-                    hunted_links,
-                    all_keywords,
-                    config['custom_instructions'],
-                    temperature=config.get('model_temperature', 0.1)
-                )
-                score_shadow = analysis_shadow['score']
-
             paper_obj = {
                 "title": entry.title,
                 "link": entry.link, 
@@ -100,10 +84,10 @@ def main():
 
             if score_primary >= 0:
                 print(f"✅ ACCEPTED [{score_primary}]: {entry.title}")
-                utils.log_decision(entry.title, score_primary, score_shadow, "✅ Accepted", entry.link)
+                utils.log_decision(entry.title, score_primary, "✅ Accepted", entry.link)
             else:
                 print(f"❌ REJECTED [{score_primary}]: {entry.title}")
-                utils.log_decision(entry.title, score_primary, score_shadow, "❌ Rejected", entry.link)
+                utils.log_decision(entry.title, score_primary, "❌ Rejected", entry.link)
 
     if new_hits:
         print(f"Processed {len(new_hits)} papers.")
