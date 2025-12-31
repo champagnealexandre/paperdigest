@@ -4,9 +4,105 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/keywords-ool.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-31T19:22:01.110624+00:00</updated>
+  <updated>2025-12-31T20:31:03.067277+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/keywords-ool.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟤 biochemistry ➤ 65℃ Short-Term Heating: A Method for Transporting Urine Samples Over Long Distances Without Cold Chain</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.31.697171v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.31.697171v1?rss=1</id>
+    <updated>2025-12-31T20:28:30+00:00</updated>
+    <summary>Demonstrates a practical heat-treatment protocol to preserve urinary proteomes during long-distance transport without cold chain, but it has no meaningful connection to origins-of-life or astrobiology topics.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Biomarkers are measurable changes associated with physiological or pathophysiological processes in the body. Urine, not strictly regulated by homeostatic mechanisms, accumulates extensive variable information and reflects changes in the body earlier and more sensitively, making it an excellent source for biomarker discovery. However, long-distance transport of urine samples usually requires a strictly maintained cold chain throughout the process, resulting in high costs and operational challenges. Here, we propose a urine sample processing method that uses brief heating to inhibit bacterial proliferation and protein degradation. A single urine sample was equally divided into three groups: a pre-heated transport group, a non-heated transport group, and a -80 frozen storage control group, with five replicates in each group. Both the pre-heated and non-heated transport groups were transported simultaneously across northern and southern China for five days under ambient temperature conditions. Samples were analyzed using liquid chromatography coupled with tandem mass spectrometry. The results showed that the intra-group overlap rates of identified proteins within the groups treated with 65 water bath heating for 15 minutes and -80 frozen storage were 97.1% and 97.5%, respectively, demonstrating high reproducibility. There were no significant differences in the number or types of urinary proteins identified between these two groups, with an inter-group overlap rate of 99.9%. Additionally, the pre-heated transport group and frozen storage control group showed no significant difference in the number of bacterial-derived peptides and proteins identified. In contrast, significantly more bacterial-derived peptides and proteins were identified in the non-heated transport group than in both the pre-heated transport and frozen storage control groups. This indicates that heating effectively suppresses bacterial counts in urine samples during five days of transport at ambient temperatures. This approach provides a more economical and convenient solution for long-distance transport of urine samples, eliminating the need for cold chain transportation or preservatives. We also recommend using consistent urine processing methods within the same study to minimize technical variability.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://www.biorxiv.org/content/10.64898/2025.12.31.697171v1?rss=1&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.biorxiv.org/content/10.64898/2025.12.31.697171v1?rss=1&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 Astrobiology ➤ Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth</title>
+    <link href="https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html"/>
+    <id>https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html</id>
+    <updated>2025-12-31T19:34:41+00:00</updated>
+    <summary>This paper surveys “Space AI” as an interdisciplinary framework for autonomous space operations and Earth benefits, but it does not address origins-of-life mechanisms, prebiotic chemistry, or biosignature/habitability science in a substantive way.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Artificial Intelligence (AI) is transforming domains from healthcare and agriculture to finance and industry. As progress on Earth meets growing constraints, the next frontier is outer space, where AI can enable autonomous, resilient operations under extreme uncertainty and limited human oversight. This paper introduces Space AI as a unified interdisciplinary field at the intersection of […] The post Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth appeared first on Astrobiology .
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper / DOIs Found:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2512.22399&#34;&gt;[ArXiv Preprint] https://arxiv.org/abs/2512.22399&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2512.22399&#34;&gt;[DOI Link] https://doi.org/10.48550/arXiv.2512.22399&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 molecular biology ➤ Evolution tunes functional sub-state interconversion to boost enzyme function</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.31.697001v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.31.697001v1?rss=1</id>
+    <updated>2025-12-31T20:02:06+00:00</updated>
+    <summary>This study shows that adaptive evolution can improve enzyme performance by reshaping conformational sub-state interconversion (rather than static structure alone), highlighting dynamic mechanisms by which biological function can diversify under selection.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Enzymes do not operate as static structures, but continuously fluctuate between different conformations. Enzymes therefore dynamically sample conformations with varying catalytic activity. However, it remains largely unexplored whether evolution can exploit the conformational dynamics between sub-states to improve activity. Here, we dissect the evolutionary trajectory of the {beta}-lactamase OXA-48 toward improved ceftazidime hydrolysis. Evolution relieved conformational bottlenecks by promoting alternate functional sub-states, gradually shifting the rate-limiting step from substrate binding to sub-state interconversion, and finally to the chemical step. Reorganization of the conformational landscape enhanced OXA-48&amp;#x27;s ability to hydrolyze ceftazidime and introduced a trade-off in its native activity against meropenem. This trade-off stemmed from catalytic incompatibility between the native and the evolved sub-state populations. Our findings highlight the transitions between functional sub-states as a mechanism of natural selection, shaping functional divergence and offering new strategies for enzyme and antibiotic engineering.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://www.biorxiv.org/content/10.64898/2025.12.31.697001v1?rss=1&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.biorxiv.org/content/10.64898/2025.12.31.697001v1?rss=1&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 bioinformatics ➤ Computational Discovery of CRISPR-Cas13b Guide RNAs for Broad-Spectrum Dengue Virus Targeting</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.31.697158v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.31.697158v1?rss=1</id>
+    <updated>2025-12-31T20:19:45+00:00</updated>
+    <summary>Presents a machine-learning-driven computational pipeline to design conserved, high-efficacy CRISPR-Cas13b RNA guides for broad-spectrum targeting of all four Dengue virus serotypes, with limited direct relevance to origins-of-life beyond general nucleic-acid/RNA methodology.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Dengue (DENV), an RNA virus, remains a significant global health threat, particularly in developing regions, with no widely effective antiviral therapy available. The CRISPR-Cas13b system, specifically the PspCas13b subtype, has emerged as a promising programmable antiviral tool capable of targeting viral RNA with high specificity. However, the efficacy of Cas13b-based interventions relies heavily on the design of potent and conserved CRISPR RNA (crRNA) spacer sequences, a task complicated by high viral genetic diversity. Unlike CRISPR-Cas9, which targets double-stranded DNA in eukaryotic genomes, Cas13b directly targets single-stranded RNA, making it ideally suited for RNA virus therapeutics; however, existing computational tools predominantly focus on Cas9 DNA targeting or Cas13d for mammalian transcript knockdown, leaving a significant gap for Cas13b-specific viral antiviral design. In this paper, we propose a computational pipeline and machine learning framework for the rational design of high-efficacy Cas13b guide RNAs targeting all four Dengue serotypes. Our approach integrates large-scale genomic data extraction, conservation analysis, and a novel in silico optimization module for guide RNA (gRNA) sequences, based on recently reported Cas13b design rules (e.g., 5&amp;#x27; GG motif preference, Cytosine penalties). To predict targeting efficiency, we benchmark classical machine learning models (Random Forest, XGBoost) against foundation model-based predictors (Nucleotide Transformer, RNA-FM) using a dataset of experimentally validated spacers. Our results demonstrate that classical feature-engineered models significantly outperform deep learning approaches when trained on experimentally validated gRNA datasets in low-data regimes. We identify highly conserved, optimized crRNA candidates, including several pan-serotype guides with predicted high potency. This work establishes a baseline for Cas13b efficiency prediction and provides a robust computational resource for accelerating the development of CRISPR-based antivirals against Dengue and other RNA viruses.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://www.biorxiv.org/content/10.64898/2025.12.31.697158v1?rss=1&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.biorxiv.org/content/10.64898/2025.12.31.697158v1?rss=1&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 nature.com ➤ In vivo chemogenetic RNA editing of macrophages by bioengineered viruses for sepsis treatment</title>
+    <link href="https://www.nature.com/articles/s41467-025-67655-y"/>
+    <id>https://www.nature.com/articles/s41467-025-67655-y</id>
+    <updated>2025-12-31T19:37:41+00:00</updated>
+    <summary>Biomedical study using engineered viral vectors to perform in vivo chemogenetic RNA editing in macrophages to treat sepsis, with only indirect relevance to origins-of-life via RNA/nucleic-acid manipulation rather than prebiotic or abiogenesis processes.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://www.nature.com/articles/s41467-025-67655-y&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.nature.com/articles/s41467-025-67655-y&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 biochemistry ➤ Mitochondrial depolarization stabilizes the vitamin B12 chaperone MMADHC in the cytosol to increase MTR activity</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.31.697091v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.31.697091v1?rss=1</id>
+    <updated>2025-12-31T19:28:11+00:00</updated>
+    <summary>Cell biology study showing that mitochondrial proton motive force collapse stabilizes the vitamin B12 chaperone MMADHC in the cytosol, boosting B12-dependent methionine synthase (MTR) activity and linking mitochondrial energetics to one‑carbon metabolism.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Of the ~1100 mitochondrial proteins, only a handful like PINK1 and ATFS-1 are known to stabilize and relocalize upon collapse of the proton motive force (PMF) to execute signaling roles. To systematically identify genes that increase exclusively at the protein level upon PMF collapse, we performed a joint proteomic and RNA-seq screen. The screen revealed 10 candidates (six mitochondrial), including the vitamin B12 chaperone MMADHC and cytosolic B12-dependent methionine synthase (MTR). MMADHC is short-lived across cell types and we show that its levels increase with PMF collapse. MMADHC stabilization precedes PINK1 activation in a time course of increasing mtDNA depletion, suggesting greater sensitivity to PMF collapse. MMADHC accumulates in mitochondria with LONP1 inhibition but in the cytosol upon PMF collapse, likely due to mitochondrial import failure. Cytosol-stabilized MMADHC increases MTR levels and activity. Altogether, the mitochondrial PMF regulates the cytosolic B12-dependent MTR, integral to one-carbon metabolism, by controlling the stability and compartmentalization of the B12 chaperone MMADHC.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://www.biorxiv.org/content/10.64898/2025.12.31.697091v1?rss=1&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.biorxiv.org/content/10.64898/2025.12.31.697091v1?rss=1&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🔴 biophysics ➤ Sloppiness and Action Confinement in Cell State Transitions: Are Single Cells Sloppy?</title>

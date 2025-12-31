@@ -1,5 +1,260 @@
 [
   {
+    "title": "65\u2103 Short-Term Heating: A Method for Transporting Urine Samples Over Long Distances Without Cold Chain",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697171v1?rss=1",
+    "score": 2,
+    "summary": "Demonstrates a practical heat-treatment protocol to preserve urinary proteomes during long-distance transport without cold chain, but it has no meaningful connection to origins-of-life or astrobiology topics.",
+    "extracted_links": [],
+    "abstract": "Biomarkers are measurable changes associated with physiological or pathophysiological processes in the body. Urine, not strictly regulated by homeostatic mechanisms, accumulates extensive variable information and reflects changes in the body earlier and more sensitively, making it an excellent source for biomarker discovery. However, long-distance transport of urine samples usually requires a strictly maintained cold chain throughout the process, resulting in high costs and operational challenges. Here, we propose a urine sample processing method that uses brief heating to inhibit bacterial proliferation and protein degradation. A single urine sample was equally divided into three groups: a pre-heated transport group, a non-heated transport group, and a -80 frozen storage control group, with five replicates in each group. Both the pre-heated and non-heated transport groups were transported simultaneously across northern and southern China for five days under ambient temperature conditions. Samples were analyzed using liquid chromatography coupled with tandem mass spectrometry. The results showed that the intra-group overlap rates of identified proteins within the groups treated with 65 water bath heating for 15 minutes and -80 frozen storage were 97.1% and 97.5%, respectively, demonstrating high reproducibility. There were no significant differences in the number or types of urinary proteins identified between these two groups, with an inter-group overlap rate of 99.9%. Additionally, the pre-heated transport group and frozen storage control group showed no significant difference in the number of bacterial-derived peptides and proteins identified. In contrast, significantly more bacterial-derived peptides and proteins were identified in the non-heated transport group than in both the pre-heated transport and frozen storage control groups. This indicates that heating effectively suppresses bacterial counts in urine samples during five days of transport at ambient temperatures. This approach provides a more economical and convenient solution for long-distance transport of urine samples, eliminating the need for cold chain transportation or preservatives. We also recommend using consistent urine processing methods within the same study to minimize technical variability.",
+    "published": "2025-12-31T20:28:30+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "biochemistry - biorXiv Preprints"
+  },
+  {
+    "title": "Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth",
+    "link": "https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html",
+    "score": 15,
+    "summary": "This paper surveys \u201cSpace AI\u201d as an interdisciplinary framework for autonomous space operations and Earth benefits, but it does not address origins-of-life mechanisms, prebiotic chemistry, or biosignature/habitability science in a substantive way.",
+    "extracted_links": [
+      "https://arxiv.org/abs/2512.22399",
+      "https://doi.org/10.48550/arXiv.2512.22399"
+    ],
+    "abstract": "<p>Artificial Intelligence (AI) is transforming domains from healthcare and agriculture to finance and industry. As progress on Earth meets growing constraints, the next frontier is outer space, where AI can enable autonomous, resilient operations under extreme uncertainty and limited human oversight. This paper introduces Space AI as a unified interdisciplinary field at the intersection of [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html\">Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Evolution tunes functional sub-state interconversion to boost enzyme function",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697001v1?rss=1",
+    "score": 45,
+    "summary": "This study shows that adaptive evolution can improve enzyme performance by reshaping conformational sub-state interconversion (rather than static structure alone), highlighting dynamic mechanisms by which biological function can diversify under selection.",
+    "extracted_links": [],
+    "abstract": "<p><img alt=\"biorxiv_logo_homepage7-5-small.png\" src=\"https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png\" /></p>Enzymes do not operate as static structures, but continuously fluctuate between different conformations. Enzymes therefore dynamically sample conformations with varying catalytic activity. However, it remains largely unexplored whether evolution can exploit the conformational dynamics between sub-states to improve activity. Here, we dissect the evolutionary trajectory of the {beta}-lactamase OXA-48 toward improved ceftazidime hydrolysis. Evolution relieved conformational bottlenecks by promoting alternate functional sub-states, gradually shifting the rate-limiting step from substrate binding to sub-state interconversion, and finally to the chemical step. Reorganization of the conformational landscape enhanced OXA-48's ability to hydrolyze ceftazidime and introduced a trade-off in its native activity against meropenem. This trade-off stemmed from catalytic incompatibility between the native and the evolved sub-state populations. Our findings highlight the transitions between functional sub-states as a mechanism of natural selection, shaping functional divergence and offering new strategies for enzyme and antibiotic engineering.",
+    "published": "2025-12-31T20:02:06+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "molecular biology - biorXiv Preprints"
+  },
+  {
+    "title": "Computational Discovery of CRISPR-Cas13b Guide RNAs for Broad-Spectrum Dengue Virus Targeting",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697158v1?rss=1",
+    "score": 25,
+    "summary": "Presents a machine-learning-driven computational pipeline to design conserved, high-efficacy CRISPR-Cas13b RNA guides for broad-spectrum targeting of all four Dengue virus serotypes, with limited direct relevance to origins-of-life beyond general nucleic-acid/RNA methodology.",
+    "extracted_links": [],
+    "abstract": "<p><img alt=\"biorxiv_logo_homepage7-5-small.png\" src=\"https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png\" /></p>Dengue (DENV), an RNA virus, remains a significant global health threat, particularly in developing regions, with no widely effective antiviral therapy available. The CRISPR-Cas13b system, specifically the PspCas13b subtype, has emerged as a promising programmable antiviral tool capable of targeting viral RNA with high specificity. However, the efficacy of Cas13b-based interventions relies heavily on the design of potent and conserved CRISPR RNA (crRNA) spacer sequences, a task complicated by high viral genetic diversity. Unlike CRISPR-Cas9, which targets double-stranded DNA in eukaryotic genomes, Cas13b directly targets single-stranded RNA, making it ideally suited for RNA virus therapeutics; however, existing computational tools predominantly focus on Cas9 DNA targeting or Cas13d for mammalian transcript knockdown, leaving a significant gap for Cas13b-specific viral antiviral design. In this paper, we propose a computational pipeline and machine learning framework for the rational design of high-efficacy Cas13b guide RNAs targeting all four Dengue serotypes. Our approach integrates large-scale genomic data extraction, conservation analysis, and a novel in silico optimization module for guide RNA (gRNA) sequences, based on recently reported Cas13b design rules (e.g., 5' GG motif preference, Cytosine penalties). To predict targeting efficiency, we benchmark classical machine learning models (Random Forest, XGBoost) against foundation model-based predictors (Nucleotide Transformer, RNA-FM) using a dataset of experimentally validated spacers. Our results demonstrate that classical feature-engineered models significantly outperform deep learning approaches when trained on experimentally validated gRNA datasets in low-data regimes. We identify highly conserved, optimized crRNA candidates, including several pan-serotype guides with predicted high potency. This work establishes a baseline for Cas13b efficiency prediction and provides a robust computational resource for accelerating the development of CRISPR-based antivirals against Dengue and other RNA viruses.",
+    "published": "2025-12-31T20:19:45+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "bioinformatics - biorXiv Preprints"
+  },
+  {
+    "title": "Hubble Reveals The Largest Chaotic Birthplace of Planets Yet Discovered",
+    "link": "https://astrobiology.com/2025/12/hubble-reveals-the-largest-chaotic-birthplace-of-planets-yet-discovered.html",
+    "score": 45,
+    "summary": "Hubble imaging of an unusually large, turbulent protoplanetary disk provides broad astrobiology-relevant context on planet-forming environments but offers no direct insight into prebiotic chemistry or abiogenesis.",
+    "extracted_links": [
+      "https://iopscience.iop.org/article/10.3847/1538-4357/ae247f",
+      "https://doi.org/10.3847/1538-4357/ae247f"
+    ],
+    "abstract": "<p>Astronomers using NASA\u2019s Hubble Space Telescope have imaged the largest protoplanetary disk ever observed circling a young star. For the first time in visible light, Hubble has revealed the disk is unexpectedly chaotic and turbulent, with wisps of material stretching much farther above and belowthe disk than astronomers have seen in any similar system. Strangely, [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/hubble-reveals-the-largest-chaotic-birthplace-of-planets-yet-discovered.html\">Hubble Reveals The Largest Chaotic Birthplace of Planets Yet Discovered</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Breakthrough Listen Observations Of 3I/ATLAS With The Green Bank Telescope at 1-12 GHz",
+    "link": "https://astrobiology.com/2025/12/breakthrough-listen-observations-of-3i-atlas-with-the-green-bank-telescope-at-1-12-ghz.html",
+    "score": 35,
+    "summary": "Reports Breakthrough Listen Green Bank Telescope 1\u201312 GHz radio observations of interstellar comet 3I/ATLAS (primarily relevant to SETI/astrobiology context rather than directly to prebiotic chemistry or origins-of-life mechanisms).",
+    "extracted_links": [
+      "https://doi.org/10.48550/arXiv.2512.19763",
+      "https://arxiv.org/abs/2512.19763"
+    ],
+    "abstract": "<p>3I/ATLAS (also designated C/2025 N1 (ATLAS) and, formerly, A11pl3Z) is the third interstellar object (ISO), following 1I/\u2018Oumuamua and 2I/Borisov, to be discovered during a passage through the Solar System. The Asteroid Terrestrial-impact Last Alert System (ATLAS) reported its discovery on 2025 July 1 (S. Deen et al. 2025). Unlike 1I/\u2018Oumuamua, 3I/ATLAS exhibits mostly typical cometary [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/breakthrough-listen-observations-of-3i-atlas-with-the-green-bank-telescope-at-1-12-ghz.html\">Breakthrough Listen Observations Of 3I/ATLAS With The Green Bank Telescope at 1-12 GHz</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "The Deepest Gas Hydrate Cold Seep Ever Discovered In The Arctic",
+    "link": "https://astrobiology.com/2025/12/the-deepest-gas-hydrate-cold-seep-ever-discovered-in-the-arctic.html",
+    "score": 60,
+    "summary": "A Nature Communications study reports the deepest known Arctic gas-hydrate cold seep and its thriving deep-sea ecosystem, providing an extreme-environment analog relevant to astrobiology and potential origin-of-life habitats but not directly addressing prebiotic chemistry or abiogenesis.",
+    "extracted_links": [
+      "https://www.nature.com/articles/s41467-025-67165-x"
+    ],
+    "abstract": "<p>A multinational scientific team led by UiT has uncovered the deepest known gas hydrate cold seep on the planet. The discovery was made during the\u202fOcean Census Arctic Deep \u2013 EXTREME24\u202fexpedition and reveals a previously unknown ecosystem thriving at 3,640 metres on the Molloy Ridge in the Greenland Sea. The groundbreaking findings regarding the Freya Hydrate [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/the-deepest-gas-hydrate-cold-seep-ever-discovered-in-the-arctic.html\">The Deepest Gas Hydrate Cold Seep Ever Discovered In The Arctic</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth",
+    "link": "https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html",
+    "score": 40,
+    "summary": "A position-style overview arguing for \u201cSpace AI\u201d as an interdisciplinary field enabling autonomous space operations with potential downstream benefits for Earth, but it contains little direct content on origins-of-life mechanisms or prebiotic chemistry.",
+    "extracted_links": [
+      "https://arxiv.org/abs/2512.22399",
+      "https://doi.org/10.48550/arXiv.2512.22399"
+    ],
+    "abstract": "<p>Artificial Intelligence (AI) is transforming domains from healthcare and agriculture to finance and industry. As progress on Earth meets growing constraints, the next frontier is outer space, where AI can enable autonomous, resilient operations under extreme uncertainty and limited human oversight. This paper introduces Space AI as a unified interdisciplinary field at the intersection of [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html\">Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "In vivo chemogenetic RNA editing of macrophages by bioengineered viruses for sepsis treatment",
+    "link": "https://www.nature.com/articles/s41467-025-67655-y",
+    "score": 20,
+    "summary": "Biomedical study using engineered viral vectors to perform in vivo chemogenetic RNA editing in macrophages to treat sepsis, with only indirect relevance to origins-of-life via RNA/nucleic-acid manipulation rather than prebiotic or abiogenesis processes.",
+    "extracted_links": [
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Yuan%20Ping",
+      "https://www.springernature.com/gp/open-science/about/the-fundamentals-of-open-access-and-open-research",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Weiwei%20Bao",
+      "https://partnerships.nature.com/media-kits/",
+      "https://www.nature.com/natafrica",
+      "https://doi.org/10.1038/s41467-025-67655-y",
+      "https://www.nature.com/info/privacy",
+      "https://www.nature.com/authors/editorial_policies",
+      "https://authorservices.springernature.com/scientific-editing/",
+      "https://www.nature.com/npg_/press_room/press_releases.html",
+      "https://www.nature.com/info/cookies",
+      "https://www.nature.com/nindia",
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1347866",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM4_ESM.xlsx",
+      "https://www.springernature.com/ccpa",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Jiamin%20Yang",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM1_ESM.pdf",
+      "https://www.nature.com/npg_/company_info/index.html",
+      "https://www.nature.com/info/terms-and-conditions",
+      "https://www.nature.com/siteindex",
+      "https://authorservices.springernature.com/language-editing/",
+      "https://www.nature.com/nmiddleeast",
+      "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1328038",
+      "https://solutions.springernature.com/",
+      "https://www.nature.com/info/legal-notice",
+      "https://www.nature.com/ncomms.rss",
+      "https://www.springernature.com/gp/librarians/recommend-to-your-library",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM5_ESM.pdf",
+      "https://partnerships.nature.com/",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Youcui%20Xu",
+      "https://partnerships.nature.com/product/digital-advertising/",
+      "https://citation-needed.springer.com/v2/references/10.1038/s41467-025-67655-y?format=refman&flavour=references",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Hu%20Xiao",
+      "https://press.nature.com/",
+      "https://www.nature.com/nature-research/open-access",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM2_ESM.pdf",
+      "https://www.nature.com/subjects",
+      "https://www.nature.com/reprints",
+      "https://www.nature.com/naturecareers/",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM3_ESM.xlsx",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Wensong%20Xi",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Xiaojie%20Yan",
+      "https://partnerships.nature.com/product/branded-content-native-advertising/",
+      "https://www.nature.com/openresearch/about-open-access/information-for-institutions",
+      "https://journal-alerts.springernature.com/subscribe?journal_id=41467",
+      "https://conferences.nature.com",
+      "https://www.springernature.com/gp/authors/research-data",
+      "https://doi.org/10.1038/s41467-025-67655-y;techmeta",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM7_ESM.xlsx",
+      "https://mts-ncomms.nature.com/",
+      "https://www.nature.com/info/accessibility-statement",
+      "https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-025-67655-y/MediaObjects/41467_2025_67655_MOESM6_ESM.pdf",
+      "https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022",
+      "https://masterclasses.nature.com/",
+      "https://www.springernature.com/gp/librarians/tools-services",
+      "https://citation-needed.springer.com/v2/references/10.1038/s41467-025-67655-y?format=refman&flavour=citation",
+      "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal",
+      "https://www.springernature.com/",
+      "https://support.nature.com/support/home",
+      "https://www.nature.com/immersive/natureawards/index.html",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=search&term=Zhixing%20Ding"
+    ],
+    "abstract": "",
+    "published": "2025-12-31T19:37:41+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "nature.com - Biological sciences"
+  },
+  {
+    "title": "Mitochondrial depolarization stabilizes the vitamin B12 chaperone MMADHC in the cytosol to increase MTR activity",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697091v1?rss=1",
+    "score": 40,
+    "summary": "Cell biology study showing that mitochondrial proton motive force collapse stabilizes the vitamin B12 chaperone MMADHC in the cytosol, boosting B12-dependent methionine synthase (MTR) activity and linking mitochondrial energetics to one\u2011carbon metabolism.",
+    "extracted_links": [],
+    "abstract": "<p><img alt=\"biorxiv_logo_homepage7-5-small.png\" src=\"https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png\" /></p>Of the ~1100 mitochondrial proteins, only a handful like PINK1 and ATFS-1 are known to stabilize and relocalize upon collapse of the proton motive force (PMF) to execute signaling roles. To systematically identify genes that increase exclusively at the protein level upon PMF collapse, we performed a joint proteomic and RNA-seq screen. The screen revealed 10 candidates (six mitochondrial), including the vitamin B12 chaperone MMADHC and cytosolic B12-dependent methionine synthase (MTR). MMADHC is short-lived across cell types and we show that its levels increase with PMF collapse. MMADHC stabilization precedes PINK1 activation in a time course of increasing mtDNA depletion, suggesting greater sensitivity to PMF collapse. MMADHC accumulates in mitochondria with LONP1 inhibition but in the cytosol upon PMF collapse, likely due to mitochondrial import failure. Cytosol-stabilized MMADHC increases MTR levels and activity. Altogether, the mitochondrial PMF regulates the cytosolic B12-dependent MTR, integral to one-carbon metabolism, by controlling the stability and compartmentalization of the B12 chaperone MMADHC.",
+    "published": "2025-12-31T19:28:11+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "biochemistry - biorXiv Preprints"
+  },
+  {
+    "title": "Breakthrough Listen Observations Of 3I/ATLAS With The Green Bank Telescope at 1-12 GHz",
+    "link": "https://astrobiology.com/2025/12/breakthrough-listen-observations-of-3i-atlas-with-the-green-bank-telescope-at-1-12-ghz.html",
+    "score": 40,
+    "summary": "Reports Breakthrough Listen Green Bank Telescope 1\u201312 GHz observations of interstellar comet 3I/ATLAS to search for radio emissions/technosignatures, relevant to astrobiology broadly but not directly to origins-of-life mechanisms.",
+    "extracted_links": [
+      "https://doi.org/10.48550/arXiv.2512.19763",
+      "https://arxiv.org/abs/2512.19763"
+    ],
+    "abstract": "<p>3I/ATLAS (also designated C/2025 N1 (ATLAS) and, formerly, A11pl3Z) is the third interstellar object (ISO), following 1I/\u2018Oumuamua and 2I/Borisov, to be discovered during a passage through the Solar System. The Asteroid Terrestrial-impact Last Alert System (ATLAS) reported its discovery on 2025 July 1 (S. Deen et al. 2025). Unlike 1I/\u2018Oumuamua, 3I/ATLAS exhibits mostly typical cometary [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/breakthrough-listen-observations-of-3i-atlas-with-the-green-bank-telescope-at-1-12-ghz.html\">Breakthrough Listen Observations Of 3I/ATLAS With The Green Bank Telescope at 1-12 GHz</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "OOL-RESSOURCES",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "The Deepest Gas Hydrate Cold Seep Ever Discovered In The Arctic",
+    "link": "https://astrobiology.com/2025/12/the-deepest-gas-hydrate-cold-seep-ever-discovered-in-the-arctic.html",
+    "score": 60,
+    "summary": "Reports the deepest known Arctic gas-hydrate cold seep and its chemosynthetic ecosystem at 3,640 m, offering an Earth analog for energy-rich seafloor habitats potentially relevant to astrobiological habitability (but not directly addressing abiogenesis mechanisms).",
+    "extracted_links": [
+      "https://www.nature.com/articles/s41467-025-67165-x"
+    ],
+    "abstract": "<p>A multinational scientific team led by UiT has uncovered the deepest known gas hydrate cold seep on the planet. The discovery was made during the\u202fOcean Census Arctic Deep \u2013 EXTREME24\u202fexpedition and reveals a previously unknown ecosystem thriving at 3,640 metres on the Molloy Ridge in the Greenland Sea. The groundbreaking findings regarding the Freya Hydrate [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/the-deepest-gas-hydrate-cold-seep-ever-discovered-in-the-arctic.html\">The Deepest Gas Hydrate Cold Seep Ever Discovered In The Arctic</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "OOL-RESSOURCES",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth",
+    "link": "https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html",
+    "score": 25,
+    "summary": "This paper surveys \u201cSpace AI\u201d as an interdisciplinary framework for autonomous, resilient space operations under uncertainty, with an emphasis on mission enablement and Earth applications rather than origins-of-life science.",
+    "extracted_links": [
+      "https://arxiv.org/abs/2512.22399",
+      "https://doi.org/10.48550/arXiv.2512.22399"
+    ],
+    "abstract": "<p>Artificial Intelligence (AI) is transforming domains from healthcare and agriculture to finance and industry. As progress on Earth meets growing constraints, the next frontier is outer space, where AI can enable autonomous, resilient operations under extreme uncertainty and limited human oversight. This paper introduces Space AI as a unified interdisciplinary field at the intersection of [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/tricorder-tech-space-ai-leveraging-artificial-intelligence-for-space-to-improve-life-on-earth.html\">Tricorder Tech: Space AI: Leveraging Artificial Intelligence for Space to Improve Life on Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "OOL-RESSOURCES",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "This strange ancient snake was hiding in a museum for decades",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251223084900.htm",
+    "score": 5,
+    "summary": "Describes a newly named Eocene snake fossil and its implications for snake evolutionary history, but it has minimal direct relevance to origins-of-life or astrobiology beyond a general \u201cevolution\u201d connection.",
+    "extracted_links": [
+      "https://doi.org/10.5852/cr-palevol2025v24a25",
+      "http://dx.doi.org/10.5852/cr-palevol2025v24a25"
+    ],
+    "abstract": "A strange little snake fossil found on England\u2019s south coast has finally revealed its secrets\u2014more than 40 years after it was discovered. The newly named Paradoxophidion richardoweni lived around 37 million years ago, during a time when Britain was warmer and teeming with reptiles. Though known only from tiny backbone bones, this \u201cparadox snake\u201d carries a surprising mix of traits seen in modern snakes, placing it near the very roots of today\u2019s most diverse snake group.",
+    "published": "2025-12-31T19:35:48+00:00",
+    "category": "OOL-RESSOURCES",
+    "feed_source": "ScienceDaily: Origin of Life News"
+  },
+  {
+    "title": "Hubble Reveals The Largest Chaotic Birthplace of Planets Yet Discovered",
+    "link": "https://astrobiology.com/2025/12/hubble-reveals-the-largest-chaotic-birthplace-of-planets-yet-discovered.html",
+    "score": 55,
+    "summary": "Hubble visible-light imaging of an unusually large, chaotic protoplanetary disk provides broad astrobiology context by constraining turbulent planet-forming environments, though it is not directly focused on origins-of-life chemistry.",
+    "extracted_links": [
+      "https://iopscience.iop.org/article/10.3847/1538-4357/ae247f",
+      "https://doi.org/10.3847/1538-4357/ae247f"
+    ],
+    "abstract": "<p>Astronomers using NASA\u2019s Hubble Space Telescope have imaged the largest protoplanetary disk ever observed circling a young star. For the first time in visible light, Hubble has revealed the disk is unexpectedly chaotic and turbulent, with wisps of material stretching much farther above and belowthe disk than astronomers have seen in any similar system. Strangely, [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/hubble-reveals-the-largest-chaotic-birthplace-of-planets-yet-discovered.html\">Hubble Reveals The Largest Chaotic Birthplace of Planets Yet Discovered</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-31T19:34:41+00:00",
+    "category": "OOL-RESSOURCES",
+    "feed_source": "Astrobiology"
+  },
+  {
     "title": "Sloppiness and Action Confinement in Cell State Transitions: Are Single Cells Sloppy?",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.31.697145v1?rss=1",
     "score": 35,
