@@ -1,8 +1,7 @@
-import feedparser
 import os
 import yaml
 import datetime
-from lib import utils, hunter, ai, feed as feed_gen
+from lib import utils, hunter, ai, feed as feed_gen, rss
 
 def load_config():
     with open("config.yaml", "r") as f:
@@ -20,34 +19,17 @@ def main():
     all_keywords = list(set(config['keywords_astro'] + config['keywords_ool']))
     
     print("Fetching RSS feeds...")
-    rss_links = config['rss_urls']
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
     history = utils.load_history(config['history_file'])
     existing_titles = {item.get('title') for item in history}
+    
+    feed_items = rss.fetch_new_entries(config['rss_urls'], existing_titles, cutoff)
     new_hits = []
 
-    for link in rss_links:
-        print(f"-> Parsing {link[:40]}...")
-        feed = feedparser.parse(link)
-        
-        raw_feed_title = getattr(feed.feed, 'title', 'General')
-        clean_category = raw_feed_title.split(' via ')[0]
-        feed_category = clean_category.upper()
-
-        for entry in feed.entries:
-            if entry.title in existing_titles: continue
-            
-            pub_date = datetime.datetime.now(datetime.timezone.utc)
-            if hasattr(entry, 'published_parsed'):
-                 pub_date = datetime.datetime(*entry.published_parsed[:6]).replace(tzinfo=datetime.timezone.utc)
-
-            if pub_date < cutoff: continue
-            
-            source_title = "Unknown"
-            if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
-                source_title = entry.source.title
-            if source_title == "Unknown": source_title = "Web" 
+    for item in feed_items:
+            entry = item['entry']
+            feed_category = item['category']
             
             # --- 1. RUN HUNTER FIRST ---
             print(f"   [Hunter] Scanning {entry.link[:40]}...")
@@ -74,9 +56,9 @@ def main():
                 "summary": analysis_primary['summary'],
                 "extracted_links": hunted_links,
                 "abstract": getattr(entry, 'description', ''),
-                "published": pub_date.isoformat(),
+                "published": item['pub_date'].isoformat(),
                 "category": feed_category,
-                "feed_source": source_title
+                "feed_source": item['source_title']
             }
 
             new_hits.append(paper_obj)
