@@ -49,10 +49,11 @@ def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> b
     return any(kw.lower() in text for kw in keywords)
 
 
-def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime) -> List[Paper]:
-    """Fetch a single RSS feed and return papers matching keywords."""
+def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime) -> tuple:
+    """Fetch a single RSS feed. Returns (matched_papers, total_count)."""
     url, title = feed_cfg['url'], feed_cfg['title']
     papers = []
+    total = 0
     
     try:
         parsed = feedparser.parse(url)
@@ -71,6 +72,7 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
             if pub and pub < cutoff:
                 continue
             
+            total += 1
             entry_title = entry.get('title', 'No Title')
             if matches_keywords(entry, keywords):
                 papers.append(Paper(
@@ -82,7 +84,7 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
     except Exception as e:
         logging.warning(f"Failed to fetch {title}: {e}")
     
-    return papers
+    return papers, total
 
 
 # ─────────────────────────────────────────────────────────────────────────────
