@@ -1,0 +1,4 @@
+- **2026-01-01 20:31:36** ✅ Accepted | Score: 5 | [Inherited resilience to clonal hematopoiesis by modifying stem cell RNA regulation](https://www.science.org/doi/abs/10.1126/science.adx4174?af=R)
+- **2026-01-01 20:31:36** ✅ Accepted | Score: 5 | [In Other Journals](https://www.science.org/doi/abs/10.1126/science.aee9317?af=R)
+- **2026-01-01 20:31:37** ✅ Accepted | Score: 0 | [In Science Journals](https://www.science.org/doi/abs/10.1126/science.aee9316?af=R)
+- **2026-01-01 20:31:38** ✅ Accepted | Score: 45 | [The genetics, evolution, and maintenance of a biological rock-paper-scissors game](https://www.science.org/doi/abs/10.1126/science.adw8265?af=R)
