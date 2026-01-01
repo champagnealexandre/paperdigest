@@ -45,3 +45,4 @@
 | 01 11:25 | **0** | ✅ Accepted | [A&nbsp;Year&nbsp;of&nbsp;Fires&nbsp;and&nbsp;Floods&nbsp;in&nbsp;Southern&nbsp;California](https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html) |
 | 01 11:25 | **20** | ✅ Accepted | [Space&nbsp;Events&nbsp;2026:&nbsp;NASA’s&nbsp;Artemis&nbsp;II&nbsp;Moon&nbsp;Mission,&nbsp;Summer&nbsp;Eclipse&nbsp;and&nbsp;More](https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html) |
 | 01 12:57 | **0** | ✅ Accepted | [Six&nbsp;Months&nbsp;Off&nbsp;the&nbsp;Street](https://www.theatlantic.com/politics/2026/01/six-months-off-the-street/685422/?utm_source=feed) |
+| 01 14:27 | **15** | ✅ Accepted | [Why&nbsp;Viruses&nbsp;Speak&nbsp;the&nbsp;Language&nbsp;of&nbsp;Black&nbsp;Holes?](https://www.reddit.com/r/labrats/comments/1q13hjm/why_viruses_speak_the_language_of_black_holes/) |
