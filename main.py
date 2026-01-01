@@ -19,7 +19,12 @@ def load_config() -> dict:
 
 def load_feeds_config():
     with open("feeds.yaml", "r") as f:
-        return yaml.safe_load(f)['feeds']
+        config = yaml.safe_load(f)
+    all_feeds = []
+    for category, feeds_in_category in config.get('feed_categories', {}).items():
+        if feeds_in_category:
+            all_feeds.extend(feeds_in_category)
+    return all_feeds
 
 def determine_category(text, config):
     text = text.lower()
