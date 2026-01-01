@@ -73,7 +73,6 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
             
             entry_title = entry.get('title', 'No Title')
             if matches_keywords(entry, keywords):
-                logging.info(f"✓ Keyword match: {entry_title[:50]}")
                 papers.append(Paper(
                     title=entry_title,
                     summary=entry.get('summary', ''),
@@ -107,7 +106,10 @@ def process_paper(paper: Paper, config: Config, client, keywords: List[str]) -> 
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
+    # Quiet logs: only show our messages, suppress httpx
     logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%H:%M:%S')
+    logging.getLogger("httpx").setLevel(logging.WARNING)
+    
     config = load_config()
     client = ai.get_client(os.getenv("OPENROUTER_API_KEY"))
     keywords = list(set(config.keywords_astro + config.keywords_ool))
