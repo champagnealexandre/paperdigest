@@ -27,14 +27,11 @@ def load_config() -> Config:
         return Config(**yaml.safe_load(f))
 
 
-def load_feeds() -> List[dict]:
+def load_feeds() -> dict:
+    """Load feeds grouped by category."""
     with open("config/feeds.yaml") as f:
         data = yaml.safe_load(f)
-    # Flatten all categories into a single list
-    feeds = []
-    for category in data.get('feed_categories', {}).values():
-        feeds.extend(category)
-    return feeds
+    return data.get('feed_categories', {})
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -49,42 +46,137 @@ def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> b
     return any(kw.lower() in text for kw in keywords)
 
 
-def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime) -> tuple:
-    """Fetch a single RSS feed. Returns (matched_papers, total_count)."""
+def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime, category: str) -> dict:
+    """Fetch a single RSS feed. Returns status dict with papers and metadata."""
     url, title = feed_cfg['url'], feed_cfg['title']
-    papers = []
-    total = 0
+    result = {
+        'title': title,
+        'url': url,
+        'category': category,
+        'papers': [],
+        'total': 0,
+        'status': 'ok',
+        'error': None,
+        'latest_date': None
+    }
     
     try:
         parsed = feedparser.parse(url)
+        
+        # Check for HTTP errors
+        if hasattr(parsed, 'status'):
+            if parsed.status == 404:
+                result['status'] = 'error'
+                result['error'] = '404 Not Found'
+                return result
+            elif parsed.status >= 400:
+                result['status'] = 'error'
+                result['error'] = f'HTTP {parsed.status}'
+                return result
+        
+        # Check if feed has entries
+        if not parsed.entries:
+            result['status'] = 'empty'
+            return result
+        
+        # Find latest post date across all entries
+        latest = None
         for entry in parsed.entries:
-            link = entry.get('link')
-            if not link or link in seen:
-                continue
-            
-            # Parse date
             pub = None
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 pub = datetime.datetime.fromtimestamp(mktime(entry.published_parsed), datetime.timezone.utc)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
                 pub = datetime.datetime.fromtimestamp(mktime(entry.updated_parsed), datetime.timezone.utc)
             
+            if pub and (latest is None or pub > latest):
+                latest = pub
+            
+            link = entry.get('link')
+            if not link or link in seen:
+                continue
             if pub and pub < cutoff:
                 continue
             
-            total += 1
-            entry_title = entry.get('title', 'No Title')
+            result['total'] += 1
             if matches_keywords(entry, keywords):
-                papers.append(Paper(
-                    title=entry_title,
+                result['papers'].append(Paper(
+                    title=entry.get('title', 'No Title'),
                     summary=entry.get('summary', ''),
                     url=link,
                     published_date=pub or datetime.datetime.now(datetime.timezone.utc),
                 ))
+        
+        result['latest_date'] = latest
+        
+        # Check if stalled (no posts in 30+ days)
+        if latest:
+            age = datetime.datetime.now(datetime.timezone.utc) - latest
+            if age.days > 30:
+                result['status'] = 'stalled'
+                
     except Exception as e:
-        logging.warning(f"Failed to fetch {title}: {e}")
+        result['status'] = 'error'
+        result['error'] = str(e)[:50]
     
-    return papers, total
+    return result
+
+
+def write_feed_status(feed_results: List[dict], categories: dict):
+    """Write feed health report to data/feeds-status.md."""
+    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+    
+    # Group results by category
+    by_category = {}
+    for r in feed_results:
+        cat = r['category']
+        if cat not in by_category:
+            by_category[cat] = []
+        by_category[cat].append(r)
+    
+    lines = [f"# Feed Status Report", f"Generated: {now}\n"]
+    
+    # Summary
+    errors = [r for r in feed_results if r['status'] == 'error']
+    stalled = [r for r in feed_results if r['status'] == 'stalled']
+    empty = [r for r in feed_results if r['status'] == 'empty']
+    
+    lines.append(f"## Summary")
+    lines.append(f"- **Total feeds:** {len(feed_results)}")
+    lines.append(f"- **Healthy:** {len(feed_results) - len(errors) - len(stalled) - len(empty)}")
+    lines.append(f"- **Errors:** {len(errors)}")
+    lines.append(f"- **Stalled (30+ days):** {len(stalled)}")
+    lines.append(f"- **Empty:** {len(empty)}\n")
+    
+    # Problem feeds first
+    if errors:
+        lines.append("## ❌ Errors\n")
+        for r in errors:
+            lines.append(f"- **{r['title']}**: {r['error']}")
+            lines.append(f"  - URL: {r['url']}")
+        lines.append("")
+    
+    if stalled:
+        lines.append("## ⚠️ Stalled Feeds (no posts in 30+ days)\n")
+        for r in stalled:
+            age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
+            lines.append(f"- **{r['title']}**: last post {age} days ago")
+        lines.append("")
+    
+    # By category
+    lines.append("## Feeds by Category\n")
+    for cat_name in categories.keys():
+        if cat_name not in by_category:
+            continue
+        results = by_category[cat_name]
+        ok_count = len([r for r in results if r['status'] == 'ok'])
+        lines.append(f"### {cat_name} ({ok_count}/{len(results)} healthy)")
+        for r in results:
+            icon = {"ok": "✅", "stalled": "⚠️", "error": "❌", "empty": "⬜"}.get(r['status'], "?")
+            lines.append(f"- {icon} {r['title']}")
+        lines.append("")
+    
+    with open("data/feeds-status.md", "w") as f:
+        f.write("\n".join(lines))
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -113,7 +205,6 @@ def main():
     logging.getLogger("httpx").setLevel(logging.WARNING)
     
     config = load_config()
-    client = ai.get_client(os.getenv("OPENROUTER_API_KEY"))
     keywords = list(set(config.keywords_astro + config.keywords_ool))
     
     # Load history
@@ -122,19 +213,28 @@ def main():
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
     # STAGE 1: Fetch feeds concurrently
-    feeds = load_feeds()
-    logging.info(f"Fetching {len(feeds)} RSS feeds...")
+    feed_categories = load_feeds()
+    all_feeds = [(f, cat) for cat, feeds in feed_categories.items() for f in feeds]
+    logging.info(f"Fetching {len(all_feeds)} RSS feeds...")
+    
+    feed_results: List[dict] = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
+        futures = [ex.submit(fetch_feed, f, seen, keywords, cutoff, cat) for f, cat in all_feeds]
+        for fut in concurrent.futures.as_completed(futures):
+            feed_results.append(fut.result())
+    
+    # Write feed status report
+    write_feed_status(feed_results, feed_categories)
+    
+    # Aggregate results
     candidates: List[Paper] = []
     total_fetched = 0
+    for r in feed_results:
+        candidates.extend(r['papers'])
+        total_fetched += r['total']
     
-    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
-        futures = [ex.submit(fetch_feed, f, seen, keywords, cutoff) for f in feeds]
-        for fut in concurrent.futures.as_completed(futures):
-            papers, count = fut.result()
-            candidates.extend(papers)
-            total_fetched += count
-    
-    logging.info(f"Fetched {total_fetched} papers, {len(candidates)} match keywords")
+    errors_count = len([r for r in feed_results if r['status'] == 'error'])
+    logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds ({errors_count} errors), {len(candidates)} match keywords")
     
     if not candidates:
         logging.info("No new papers. Regenerating feed from history.")
@@ -142,6 +242,7 @@ def main():
         return
     
     # STAGE 2 & 3: Process papers (hunt + analyze)
+    client = ai.get_client(os.getenv("OPENROUTER_API_KEY"))
     processed: List[Paper] = []
     errors = 0
     logging.info(f"Processing {len(candidates)} papers...")
