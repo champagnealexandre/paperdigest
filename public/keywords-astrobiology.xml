@@ -4,32 +4,16 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T19:23:01.306157+00:00</updated>
+  <updated>2026-01-01T19:53:11.484686+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml</id>
   <author><name>AI Agent</name></author>
   
   <entry>
-    <title>🟠 astro-ph.EP updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
-    <link href="https://arxiv.org/abs/2512.11459"/>
-    <id>https://arxiv.org/abs/2512.11459</id>
-    <updated>2026-01-01T05:00:00+00:00</updated>
-    <summary>Mini-review of a combinatorial state-enumeration framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski), deriving full cluster-count statistics for several kernels and demonstrating applications to aerosol growth and planetesimal formation, with indirect relevance to astrobiology via aggregation-driven prebiotic/planet-formation contexts.</summary>
-    <content type="html">
-    &lt;hr/&gt;
-    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-    arXiv:2512.11459v3 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&amp;#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.
-    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.11459&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-    &lt;br/&gt;&lt;br/&gt;
-    &lt;a href=&#34;https://arxiv.org/abs/2512.11459&#34;&gt;Read Full Article&lt;/a&gt;
-    </content>
-  </entry>
-  
-  <entry>
-    <title>🟠 astro-ph.EP updates on arXiv.org ➤ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#39;s Terrestrial Biosphere</title>
+    <title>🟡 astro-ph.EP updates on arXiv.org ➤ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#39;s Terrestrial Biosphere</title>
     <link href="https://arxiv.org/abs/2512.24538"/>
     <id>https://arxiv.org/abs/2512.24538</id>
-    <updated>2026-01-01T05:00:01+00:00</updated>
-    <summary>Using a coupled climate–weathering model extended to include seafloor weathering and stochastic CO2 outgassing, the authors find these effects are unlikely to reduce Earth’s remaining terrestrial biosphere lifetime below ~1 Gyr, supporting a longer-lived habitable window and highlighting seafloor weathering as the main uncertainty.</summary>
+    <updated>2026-01-01T05:00:00+00:00</updated>
+    <summary>Using a coupled climate–weathering model, the authors find that even with potentially strong seafloor weathering feedbacks or unusually large stochastic CO2 outgassing variations, Earth’s terrestrial biosphere is still likely to persist for &gt;1 Gyr, with implications for long-term planetary habitability and exoplanet climate stability.</summary>
     <content type="html">
     &lt;hr/&gt;
     &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -41,11 +25,11 @@
   </entry>
   
   <entry>
-    <title>🟠 math-ph updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
     <link href="https://arxiv.org/abs/2512.11459"/>
     <id>https://arxiv.org/abs/2512.11459</id>
-    <updated>2026-01-01T05:00:02+00:00</updated>
-    <summary>Reviews a combinatorial framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with worked solutions for several kernels and applications to aerosol growth and planetesimal formation, offering indirect relevance to prebiotic/astrobiological assembly processes rather than core origins-of-life chemistry.</summary>
+    <updated>2026-01-01T05:00:01+00:00</updated>
+    <summary>Reviews a combinatorial state-enumeration framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with explicit results for several kernels and applications including aerosol growth and planetesimal formation, offering broadly relevant modeling tools but limited direct connection to prebiotic chemistry or origins-of-life mechanisms.</summary>
     <content type="html">
     &lt;hr/&gt;
     &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -60,8 +44,8 @@
     <title>🟠 cond-mat.stat-mech updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
     <link href="https://arxiv.org/abs/2512.11459"/>
     <id>https://arxiv.org/abs/2512.11459</id>
-    <updated>2026-01-01T05:00:03+00:00</updated>
-    <summary>Reviews a combinatorial, state-enumeration framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski class), extending solutions across kernels and demonstrating applications including aerosol growth and planetesimal formation, with only indirect relevance to origins-of-life self-assembly modeling.</summary>
+    <updated>2026-01-01T05:00:02+00:00</updated>
+    <summary>Mini-review of a combinatorial state-enumeration framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with worked kernels and applications including aerosol growth and planetesimal formation, offering broadly relevant tools for self-assembly/aggregation modeling but not directly focused on origins-of-life chemistry.</summary>
     <content type="html">
     &lt;hr/&gt;
     &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -73,11 +57,27 @@
   </entry>
   
   <entry>
+    <title>🟠 math-ph updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <link href="https://arxiv.org/abs/2512.11459"/>
+    <id>https://arxiv.org/abs/2512.11459</id>
+    <updated>2026-01-01T05:00:03+00:00</updated>
+    <summary>This mini-review develops a combinatorial framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with applications including planetesimal formation, offering potentially useful mathematical tools for modeling prebiotic/self-assembly-like clustering but not directly addressing origins-of-life chemistry or biology.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.11459v3 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&amp;#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.11459&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.11459&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
     <title>🟠 physics.chem-ph updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
     <link href="https://arxiv.org/abs/2512.11459"/>
     <id>https://arxiv.org/abs/2512.11459</id>
     <updated>2026-01-01T05:00:04+00:00</updated>
-    <summary>Reviews a combinatorial state-enumeration framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with worked solutions for multiple kernels and applications including planetesimal formation, offering broadly relevant methodology for growth/assembly processes but not directly focused on origins-of-life chemistry or protocells.</summary>
+    <summary>Reviews a combinatorial, state-enumeration approach to Marcus–Lushnikov irreversible aggregation (with examples like planetesimal formation), offering broadly relevant tools for self-assembly/aggregation modeling but only indirect connection to origins-of-life chemistry.</summary>
     <content type="html">
     &lt;hr/&gt;
     &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
