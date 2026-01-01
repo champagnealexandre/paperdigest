@@ -42,10 +42,20 @@ def filter_by_keywords(entry, keywords):
             return True
     return False
 
+def append_decision(filename, title, score, status, link):
+    try:
+        with open(filename, "a") as f:
+            timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            f.write(f"- **{timestamp}** {status} | Score: {score} | [{title}]({link})\n")
+    except Exception as e:
+        logging.error(f"Failed to write to {filename}: {e}")
+
 def fetch_feed(feed_config, existing_links, keywords, cutoff_date):
     url = feed_config['url']
     feed_title = feed_config['title']
     relevant_entries = []
+    
+    logging.info(f"Fetching {feed_title}...")
     
     try:
         parsed = feedparser.parse(url)
@@ -64,6 +74,9 @@ def fetch_feed(feed_config, existing_links, keywords, cutoff_date):
                 continue
 
             if filter_by_keywords(entry, keywords):
+                title = entry.get('title', 'No Title')
+                logging.info(f"Keyword MATCH: {title}")
+                append_decision("keyword-decisions.md", title, "N/A", "MATCH", link)
                 relevant_entries.append({
                     'entry': entry,
                     'source_title': feed_title,
@@ -116,11 +129,25 @@ def process_feed_item(item, config, client, all_keywords):
 
 def main():
     # Setup Logging
+def setup_logging():
+    if not os.path.exists('logs'):
+        os.makedirs('logs')
+    
+    log_filename = f"logs/run_{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log"
+    
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(levelname)s - %(message)s',
-        datefmt='%H:%M:%S'
+        datefmt='%H:%M:%S',
+        handlers=[
+            logging.FileHandler(log_filename),
+            logging.StreamHandler()
+        ]
     )
+
+def main():
+    # Setup Logging
+    setup_logging()
 
     config = load_config()
     
@@ -181,10 +208,10 @@ def main():
                 
                 if score >= 0:
                     logging.info(f"✅ ACCEPTED [{score}]: {entry.title}")
-                    utils.log_decision(entry.title, score, "✅ Accepted", entry.link)
+                    append_decision("ai-decisions.md", entry.title, score, "✅ Accepted", entry.link)
                 else:
                     logging.info(f"❌ REJECTED [{score}]: {entry.title}")
-                    utils.log_decision(entry.title, score, "❌ Rejected", entry.link)
+                    append_decision("ai-decisions.md", entry.title, score, "❌ Rejected", entry.link)
 
             except Exception as e:
                 logging.error(f"⚠️ Error processing a paper: {e}")
