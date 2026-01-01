@@ -120,8 +120,8 @@ def main():
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
     # STAGE 1: Fetch feeds concurrently
-    logging.info("Fetching RSS feeds...")
     feeds = load_feeds()
+    logging.info(f"Fetching {len(feeds)} RSS feeds...")
     candidates: List[Paper] = []
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
@@ -129,35 +129,42 @@ def main():
         for fut in concurrent.futures.as_completed(futures):
             candidates.extend(fut.result())
     
-    logging.info(f"Found {len(candidates)} candidates")
+    logging.info(f"Found {len(candidates)} keyword matches")
+    
+    if not candidates:
+        logging.info("No new papers. Regenerating feed from history.")
+        feed.generate_feed(history, config.model_dump(), "ooldigest-ai.xml")
+        return
     
     # STAGE 2 & 3: Process papers (hunt + analyze)
     processed: List[Paper] = []
+    errors = 0
+    logging.info(f"Processing {len(candidates)} papers...")
+    
     with concurrent.futures.ThreadPoolExecutor(max_workers=config.max_workers) as ex:
         futures = {ex.submit(process_paper, p, config, client, keywords): p for p in candidates}
         for fut in concurrent.futures.as_completed(futures):
             try:
                 paper = fut.result()
-                score = paper.analysis_result.get('score', 0)
-                action = "✅ Accept" if score >= 0 else "❌ Reject"
-                logging.info(f"{action} [{score}]: {paper.title[:50]}")
-                utils.log_decision("data/log.md", paper.title, score, action, paper.url)
+                utils.log_decision("data/log.md", paper.title, 
+                                   paper.analysis_result.get('score', 0), 
+                                   "Accept", paper.url)
                 processed.append(paper)
-            except Exception as e:
-                logging.error(f"Error: {e}")
+            except Exception:
+                errors += 1
+    
+    # Stats
+    scores = [p.analysis_result.get('score', 0) for p in processed]
+    avg_score = sum(scores) / len(scores) if scores else 0
+    logging.info(f"Processed {len(processed)} papers (avg score: {avg_score:.0f}, errors: {errors})")
     
     # Update history
-    if processed:
-        new_history = [p.model_dump(mode='json') for p in processed] + history
-        utils.save_history(new_history, config.history_file)
-        all_papers = new_history
-    else:
-        all_papers = history
-        logging.info("No new papers found.")
+    new_history = [p.model_dump(mode='json') for p in processed] + history
+    utils.save_history(new_history, config.history_file)
     
     # STAGE 4: Generate feeds
-    logging.info("Generating feeds...")
-    feed.generate_feed(all_papers, config.model_dump(), "ooldigest-ai.xml")
+    feed.generate_feed(new_history, config.model_dump(), "ooldigest-ai.xml")
+    logging.info(f"Done. Feed has {len(new_history)} papers.")
 
 
 if __name__ == "__main__":
