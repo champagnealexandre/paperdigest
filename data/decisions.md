@@ -165,3 +165,4 @@
 | 5 | Accept | [Flowering plant origins: Dosage-sensitive genes suggest no w](https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html) |
 | 5 | Accept | [The targeted cytosolic degradation of class I histone deacet](https://www.biorxiv.org/content/10.64898/2026.01.02.697337v1?rss=1) |
 | 8 | Accept | [CellPredX, a computational framework for cross-data type, cr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013824) |
+| 30 | Accept | [An anti-aggregation region of the SGS3 N-terminal IDR is ess](https://www.biorxiv.org/content/10.64898/2026.01.02.697351v1?rss=1) |

@@ -1,5 +1,16 @@
 [
   {
+    "title": "An anti-aggregation region of the SGS3 N-terminal IDR is essential for secondary siRNA biogenesis",
+    "summary": "Secondary siRNA biogenesis amplifies small RNA signals from target transcripts and plays a pivotal role in plant development and defense responses. The RNA-binding protein SGS3 is essential for this pathway, recruiting RNA-dependent RNA polymerase 6 (RDR6) to Argonaute-small RNA-bound targets. The N-terminal intrinsically disordered region (IDR) of SGS3, which contains a prion-like domain (PrLD), has been reported to drive liquid-liquid phase separation, forming siRNA bodies, and to be required for secondary siRNA production. However, the molecular mechanism by which the N-terminal IDR contributes to secondary siRNA production remains unclear. Here, using in vitro reconstitution and in planta assays, we show that the N-terminal IDR comprises two functional modules: the PrLD and a negatively charged region (NCR). The PrLD is required for phase separation and siRNA body formation but is dispensable for secondary siRNA production. In contrast, mutations in the NCR caused SGS3 to form abnormally large cytoplasmic assemblies and markedly impaired secondary siRNA production. These results suggest that the N-terminal IDR helps maintain SGS3 in a functional, soluble state that supports efficient secondary siRNA biogenesis.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697351v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 30,
+      "summary": "This plant molecular biology study shows SGS3\u2019s N-terminal IDR contains a prion-like phase-separating module and a negatively charged anti-aggregation module, with the latter (not phase separation) being essential to keep SGS3 soluble and enable efficient secondary siRNA biogenesis."
+    }
+  },
+  {
     "title": "Une alternative aux bisph\u00e9nols de nos tickets de caisse : du bois !",
     "summary": "Se d\u00e9barrasser de n\u2019importe quel bisph\u00e9nol dans nos tickets de caisse ou nos re\u00e7us de carte bancaire&nbsp;? Des chimistes ont imagin\u00e9 avoir recours \u00e0 la lignine, un compos\u00e9 du bois, pour une solution \"verte\"&nbsp;et non-toxique.",
     "url": "https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10",
