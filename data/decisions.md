@@ -145,3 +145,8 @@
 | 5 | Accept | [Murder victim discovered to have two sets of DNA due to rare](https://www.newscientist.com/article/2507675-murder-victim-discovered-to-have-two-sets-of-dna-due-to-rare-condition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | 60 | Accept | [Biomimetic catalysis enables asymmetric Atherton–Todd reacti](https://www.nature.com/articles/s41557-025-02030-4) |
 | 0 | Accept | [Le botaniste Francis Hallé, ardent défenseur des forêts trop](https://www.sciencesetavenir.fr/nature-environnement/le-botaniste-francis-halle-ardent-defenseur-des-forets-tropicales-primaires_190252?xtor=RSS-15) |
+| 0 | Accept | [Graph anomaly detection via local contrastive learning and a](https://www.sciencedirect.com/science/article/pii/S1877750325002583?dgcid=rss_sd_all) |
+| 10 | Accept | [On qualitative uncertainty in modelling assumptions](https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all) |
+| 0 | Accept | [Mort du botaniste Francis Hallé, ardent défenseur des forêts](https://www.sciencesetavenir.fr/nature-environnement/plantes-et-vegetaux/le-botaniste-francis-halle-ardent-defenseur-des-forets-tropicales-primaires_190252?xtor=RSS-15) |
+| 75 | Accept | [Could TRAPPIST-1's seven worlds host moons?](https://phys.org/news/2026-01-trappist-worlds-host-moons.html) |
+| 20 | Accept | [Origins of THC, CBD and CBC in cannabis revealed](https://phys.org/news/2026-01-thc-cbd-cbc-cannabis-revealed.html) |
