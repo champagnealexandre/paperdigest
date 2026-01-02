@@ -158,3 +158,5 @@
 | 15 | Accept | [Two white-blooded fish, two paths: Icefish and noodlefish in](https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html) |
 | 65 | Accept | [Authigenic Biosignatures Of Microbial Biomass Preserved As C](https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html) |
 | 0 | Accept | [Sequence-Only Prediction of Antibody Fab Thermostability Usi](https://www.biorxiv.org/content/10.64898/2025.12.30.697053v1?rss=1) |
+| 30 | Accept | [Beta-coalescents when sample size is large](https://www.biorxiv.org/content/10.64898/2025.12.30.697022v1?rss=1) |
+| 5 | Accept | [HPVarcall: Calling lineages and sublineages for partial DNA ](https://www.biorxiv.org/content/10.64898/2025.12.31.697187v1?rss=1) |

@@ -1,5 +1,27 @@
 [
   {
+    "title": "Beta-coalescents when sample size is large",
+    "summary": "Individual recruitment success, or the offspring number distribution of a given population, is a fundamental element in ecology and evolution. Sweepstakes reproduction refers to a highly skewed individual recruitment success without involving natural selection and may apply to individuals in broadcast spawning populations characterised by Type III survivorship. We consider an extension of the Schweinsberg (2003) model of sweepstakes reproduction for a haploid panmictic population of constant size N; the extension also works as an alternative to the Wright-Fisher model. Our model incorporates an upper bound on the random number of potential offspring (juveniles) produced by a given individual. Depending on how the bound behaves relative to the total population size, we obtain the Kingman (1982a,c,b) coalescent, an incomplete Beta-coalescent, or the (complete) Beta-coalescent of Schweinsberg (2003). We argue that applying such an upper bound is biologically reasonable. Moreover, we estimate the error of the coalescent approximation. The error estimates reveal that convergence can be slow, and small sample size can be sufficient to invalidate convergence, for example if the stated bound is of the form N/ log N. We use simulations to investigate the effect of increasing sample size on the site-frequency spectrum. When the limit is a Beta-coalescent, the site frequency spectrum will be as predicted by the limiting tree even though the full coalescent tree may deviate from the limiting one. When in the domain of attraction of the Kingman coalescent the effect of increasing sample size depends on the effective population size as has been noted in the case of the Wright-Fisher model. Conditioning on the population ancestry (the random ancestral relations of the entire population at all times) may have little effect on the site-frequency spectrum for the models considered here (as evidenced by simulation results).",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.30.697022v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 30,
+      "summary": "A population-genetic coalescent-theory study of sweepstakes reproduction and its impact on genealogies and site-frequency spectra, broadly relevant to evolutionary inference but not directly to origins-of-life or astrobiology."
+    }
+  },
+  {
+    "title": "HPVarcall: Calling lineages and sublineages for partial DNA sequences of human papillomavirus",
+    "summary": "We describe a computational method, HPVarcall, that assigns DNA sequences of a human papillomavirus (HPV) variant of known type to lineages and sublineages. The algorithm relies on statistical models - positional frequency profiles - trained on multiple alignments of HPV genomic sequences that are known to belong to specific sublineages of a given HPV type. The workflow begins with multiple alignment of all available sequences for the HPV type, followed by construction of a phylogenetic tree and identification of branches containing sublineage-specific reference sequences. In the prediction phase, sublineage-specific statistical models are used to compute the posterior probabilities for each sublineage given a query sequence. The query classifies to belong to the sublineage with the highest posterior probability. Accuracy assessments performed for the nine HPV types included in the Gardasil 9 vaccine demonstrated a low error rate in assigning HPV genomic fragments of at least 1000 nucleotides to their correct sublineages and even higher accuracy for longer sequence fragments.",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.31.697187v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 5,
+      "summary": "HPVarcall is a bioinformatics tool for assigning partial HPV DNA sequences to known viral lineages/sublineages using positional frequency profiles and phylogenetic reference training, with low error rates for \u22651000-nt fragments."
+    }
+  },
+  {
     "title": "Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)",
     "summary": "<p>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station&#8217;s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html\">Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html",
