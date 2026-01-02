@@ -1,5 +1,16 @@
 [
   {
+    "title": "Curiosity sends holiday postcard from Mars",
+    "summary": "Team members working with NASA's Curiosity Mars rover created this \"postcard\" by commanding the rover to take images at two times of day on Nov. 18, 2025, spanning periods that occurred on both the 4,722nd and 4,723rd Martian days, or sols, of the mission.",
+    "url": "https://phys.org/news/2026-01-curiosity-holiday-postcard-mars.html",
+    "published_date": "2026-01-02T14:24:21Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 30,
+      "summary": "NASA\u2019s Curiosity rover captured a two-time-of-day image \u201cpostcard\u201d from Mars on adjacent sols, offering public-facing mission context but little direct relevance to origins-of-life or astrobiological mechanisms."
+    }
+  },
+  {
     "title": "Graph anomaly detection via local contrastive learning and attribute reconstruction",
     "summary": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Xinyu Zhang, Yanfen Li</p>",
     "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002583?dgcid=rss_sd_all",

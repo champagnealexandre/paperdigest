@@ -150,3 +150,4 @@
 | 0 | Accept | [Mort du botaniste Francis Hallé, ardent défenseur des forêts](https://www.sciencesetavenir.fr/nature-environnement/plantes-et-vegetaux/le-botaniste-francis-halle-ardent-defenseur-des-forets-tropicales-primaires_190252?xtor=RSS-15) |
 | 75 | Accept | [Could TRAPPIST-1's seven worlds host moons?](https://phys.org/news/2026-01-trappist-worlds-host-moons.html) |
 | 20 | Accept | [Origins of THC, CBD and CBC in cannabis revealed](https://phys.org/news/2026-01-thc-cbd-cbc-cannabis-revealed.html) |
+| 30 | Accept | [Curiosity sends holiday postcard from Mars](https://phys.org/news/2026-01-curiosity-holiday-postcard-mars.html) |
