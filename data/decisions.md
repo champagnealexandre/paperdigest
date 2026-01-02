@@ -144,3 +144,4 @@
 | 5 | Accept | [Single cell RNA-sequencing reveals an association between te](https://www.biorxiv.org/content/10.64898/2025.12.31.697241v1?rss=1) |
 | 5 | Accept | [Murder victim discovered to have two sets of DNA due to rare](https://www.newscientist.com/article/2507675-murder-victim-discovered-to-have-two-sets-of-dna-due-to-rare-condition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | 60 | Accept | [Biomimetic catalysis enables asymmetric Atherton–Todd reacti](https://www.nature.com/articles/s41557-025-02030-4) |
+| 0 | Accept | [Le botaniste Francis Hallé, ardent défenseur des forêts trop](https://www.sciencesetavenir.fr/nature-environnement/le-botaniste-francis-halle-ardent-defenseur-des-forets-tropicales-primaires_190252?xtor=RSS-15) |
