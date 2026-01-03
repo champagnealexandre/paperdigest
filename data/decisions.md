@@ -172,3 +172,4 @@
 | 20 | Accept | [scDeepVariant: A population-informed deep learning framework](https://www.biorxiv.org/content/10.64898/2025.12.31.696877v1?rss=1) |
 | 10 | Accept | [Episodic positive selection structurally stabilizes the <i>A](https://www.nature.com/articles/s41598-025-34129-6) |
 | 0 | Accept | [La conquête du temps, de l'Égypte à l'ère atomique](https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10) |
+| 0 | Accept | [Anastylosis of frescoes − optimal parallel performance via R](https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all) |
