@@ -39,15 +39,25 @@ def load_feeds() -> dict:
 # ─────────────────────────────────────────────────────────────────────────────
 
 def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> bool:
-    """Check if entry matches any keyword (whole word match)."""
+    """Check if entry matches any keyword.
+    
+    Supports wildcard syntax: 'eukaryo*' matches eukaryote, eukaryotic, etc.
+    Without wildcard: exact word boundary match to avoid false positives.
+    """
     text = f"{entry.get('title', '')} {entry.get('summary', '')}".lower()
     if 'tags' in entry:
         text += " " + " ".join(t.term.lower() for t in entry.tags)
     
-    # Use word boundaries to avoid false positives like "journal" matching "RNA"
     import re
     for kw in keywords:
-        pattern = r'\b' + re.escape(kw.lower()) + r'\b'
+        kw_lower = kw.lower()
+        if kw_lower.endswith('*'):
+            # Prefix match: word boundary at start, any continuation allowed
+            prefix = kw_lower[:-1]
+            pattern = r'\b' + re.escape(prefix)
+        else:
+            # Exact word match with boundaries on both sides
+            pattern = r'\b' + re.escape(kw_lower) + r'\b'
         if re.search(pattern, text):
             return True
     return False
