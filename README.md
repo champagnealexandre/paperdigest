@@ -43,7 +43,7 @@ word(s)    # optional plural (e.g., origin(s) → origin or origins)
 
 ### Model Tiers
 
-Set `model_tier` in config.yaml (1-4):
+Set `model_tier` in ai.yaml (1-4):
 
 | Tier | Model |
 |------|-------|
@@ -70,8 +70,11 @@ Set `model_tier` in config.yaml (1-4):
 ```
 main.py              # Pipeline orchestrator
 config/
-  config.yaml        # LLM & keyword settings
-  feeds.yaml         # RSS sources
+  config.yaml        # Paths (base URL, history file)
+  ai.yaml            # Model settings, prompt, custom instructions
+  keywords.yaml      # Keyword lists (astro, ool)
+  domains.yaml       # Academic domains for link hunter
+  feeds.yaml         # RSS sources by category
 lib/
   models.py          # Config + Paper data models
   ai.py              # OpenRouter LLM client
