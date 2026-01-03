@@ -3,57 +3,81 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-03T14:46:23.791662+00:00</updated>
+  <updated>2026-01-03T14:59:37.077784+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
-    <title>🔴 [5] Biosystems ▶ Cultural accumulation or stasis? The impact of imitation and early teaching on hominin cultural evolution</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757781Z</updated>
-    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Laureano Castro, Daniel Castro-Cañadilla, Miguel Ángel Castro-Nogueira, Miguel Ángel Toro</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Models how imitation and early teaching shape cumulative cultural evolution versus stasis in hominins, with minimal direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Laureano Castro, Daniel Castro-Cañadilla, Miguel Ángel Castro-Nogueira, Miguel Ángel Toro</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Biosystems ▶ Evolutionary computation for reconstructing threshold networks of the tryptophan operon in Escherichia coli</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757249Z</updated>
-    <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Gonzalo A. Ruz, Thomas Ledger, Matthew Macauley</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Uses evolutionary computation to infer gene regulatory (threshold) networks for the E. coli tryptophan operon, offering general evolutionary/systems-biology context but limited direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Gonzalo A. Ruz, Thomas Ledger, Matthew Macauley</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] cell biology - biorXiv Preprints ▶ Nucleolar reorganization on stress depends on physicochemical changes due to nascent rRNA synthesis</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1</id>
+    <title>🔴 [15] biophysics - biorXiv Preprints ▶ A moments-based approach for inferring mechanisms of transcriptional regulation using nascent RNA data</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1</id>
     <updated>2026-01-03T00:00:00Z</updated>
-    <summary>Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleola</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Expansion microscopy shows nucleolar FC/DFC shell architecture reorganizes under stress primarily because reduced nascent rRNA transcription alters condensate material properties (viscoelastic to solid-like) and disrupts physicochemical gradients, highlighting RNA-driven phase behavior relevant to biophysical self-organization.</p>
-<p><strong>Abstract:</strong> Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleolar substructures and how this adapts to cellular stress remain incompletely understood. In this study, we resolve the sub nucleolar structures using expansion microscopy to reveal ordered structures of fibrillar center (FC) and dense fibrillar component (DFC) domains as nested shells, which is reorganized upon cellular stress like DNA damage or RNA polymerase I (RNAPI) inhibition. Direct visualization of nascent (5&#x27; ETS) and mature (28S) rRNA suggested that rRNA synthesis is the critical regulator of nucleolar size, and organization. Nucleolar reorganization upon stress emerges to be a direct function of nascent rRNA levels. Stress-induced transcription inhibition remodels the sub-nucleolar compartments from a viscoelastic state into solid-like condensates thereby perturbing the nucleolar pH gradient due to the missing rRNA scaffold. We show, that rather than signalling to mediate rDNA repair, nucleolar reorganization naturally arises primarily from reduced rRNA levels and the resultant biophysical restructuring of the nucleolus under cellular stress.</p>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1">Read source article</a></p>]]></content>
+    <summary>Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a moments-based theoretical framework using nascent RNA measurements to infer and select among transcriptional regulation models, improving kinetic parameter estimation versus mature mRNA data.</p>
+<p><strong>Abstract:</strong> Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels reflect not only transcriptional activity but also post-transcriptional processes. Recent advances in quantifying nascent RNAs across isogenic cells provide a more direct readout of transcriptional dynamics. Here, we present a moments-based theoretical framework that leverages nascent RNA data to infer transcriptional kinetics. We derive closed-form expressions for the first two time-dependent moments of nascent RNA across three canonical transcription models and demonstrate that nascent RNA exhibits distinct transient overshoots and higher Fano factors compared to mature mRNA. Through analysis of synthetic datasets, we show that these features enable more accurate estimation of transcriptional kinetics and allow reliable model selection, distinguishing single from multi-pathway promoter activation with over 75% accuracy even from small sample sizes. We further validated our model selection method using real experimental transcription datasets in yeast and E. coli cells, with nascent RNA demonstrating superior performance in identifying cross-talk pathway regulation. Our framework thus offers a computationally efficient and mechanistically informative approach for decoding transcriptional dynamics, emphasizing the advantages of time-dependent nascent RNA measurements over mature mRNA in capturing the true kinetics of transcriptional regulation.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [95] Astrobiology (astrobiology.com) ▶ Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</title>
+    <link href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html"/>
+    <id>https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html</id>
+    <updated>2026-01-02T16:39:23Z</updated>
+    <summary>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Proposes a heuristic origin-of-life mechanism in which homochirality emerges during prebiotic phospholipid bilayer vesicle formation at the water–air interface, potentially linking lipid self-assembly with the chiral selection of key biomolecules.</p>
+<p><strong>Abstract:</strong> Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by […] The post Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2512.11136">https://doi.org/10.48550/arXiv.2512.11136</a></li>
+<li><a href="https://arxiv.org/abs/2512.11136">https://arxiv.org/abs/2512.11136</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟢 [83] Biosystems ▶ On the transitional character and regularity of planetary abiogenesis</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757548Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Conceptual BioSystems paper arguing for regularities in planetary abiogenesis, framing origin-of-life emergence as a transitional process with potentially predictable features across planets.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical study examining the transitional character and regularities of planetary abiogenesis, directly relevant to origins-of-life mechanisms in an astrobiological context.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [20] Astrobiology (astrobiology.com) ▶ Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</title>
-    <link href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html"/>
-    <id>https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html</id>
-    <updated>2026-01-02T16:44:55Z</updated>
-    <summary>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside th</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> ISS microgravity biotechnology operations (ADSEP-4) aimed at advancing in-space pharmaceutical manufacturing, with no direct connection to origins-of-life mechanisms or astrobiological biosignatures.</p>
-<p><strong>Abstract:</strong> NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station’s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. […] The post Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4) appeared first on Astrobiology .</p>
-<p><a href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html">Read source article</a></p>]]></content>
+    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</title>
+    <link href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html"/>
+    <id>https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html</id>
+    <updated>2026-01-02T16:27:44Z</updated>
+    <summary>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. Th</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Review of lava tube formation, detection, and preservation on Earth, the Moon, and Mars, highlighting their potential as protected subsurface environments relevant to planetary evolution and habitability.</p>
+<p><strong>Abstract:</strong> Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We […] The post Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://link.springer.com/article/10.1007/s11214-025-01260-9">https://link.springer.com/article/10.1007/s11214-025-01260-9</a></li>
+<li><a href="https://doi.org/10.1007/s11214-025-01260-9">https://doi.org/10.1007/s11214-025-01260-9</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] cell biology - biorXiv Preprints ▶ Nucleolar reorganization on stress depends on physicochemical changes due to nascent rRNA synthesis</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1</id>
+    <updated>2026-01-03T00:00:00Z</updated>
+    <summary>Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleola</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Using expansion microscopy, this study shows that nucleolar phase-separated subcompartments reorganize under stress primarily due to reduced nascent rRNA synthesis, driving a viscoelastic-to-solid-like transition and altered nucleolar physicochemical gradients rather than active repair signaling.</p>
+<p><strong>Abstract:</strong> Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleolar substructures and how this adapts to cellular stress remain incompletely understood. In this study, we resolve the sub nucleolar structures using expansion microscopy to reveal ordered structures of fibrillar center (FC) and dense fibrillar component (DFC) domains as nested shells, which is reorganized upon cellular stress like DNA damage or RNA polymerase I (RNAPI) inhibition. Direct visualization of nascent (5&#x27; ETS) and mature (28S) rRNA suggested that rRNA synthesis is the critical regulator of nucleolar size, and organization. Nucleolar reorganization upon stress emerges to be a direct function of nascent rRNA levels. Stress-induced transcription inhibition remodels the sub-nucleolar compartments from a viscoelastic state into solid-like condensates thereby perturbing the nucleolar pH gradient due to the missing rRNA scaffold. We show, that rather than signalling to mediate rDNA repair, nucleolar reorganization naturally arises primarily from reduced rRNA levels and the resultant biophysical restructuring of the nucleolus under cellular stress.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [96] Biosystems ▶ The Natural history of the transition between RNA to DNA in the early stages of life</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Sávio Torres de Farias, Marco José</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This BioSystems review/article examines the early-life evolutionary transition from RNA-based systems to DNA genomes, directly addressing a core Origins-of-Life question about nucleic-acid evolution.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Sávio Torres de Farias, Marco José</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars</title>
@@ -61,7 +85,7 @@
     <id>https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html</id>
     <updated>2026-01-02T16:34:24Z</updated>
     <summary>The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Quantifies cosmogenic nuclide production in Perseverance’s Jezero crater igneous samples to improve surface exposure/age estimates—useful Mars context for reconstructing timelines of potentially habitable conditions, though not directly focused on origins-of-life mechanisms.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Quantifies cosmogenic nuclide production rates in Perseverance-collected Jezero crater floor igneous rocks to improve exposure-age and geologic timeline estimates relevant to interpreting Mars Sample Return context.</p>
 <p><strong>Abstract:</strong> The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously bombarded by cosmic rays, resulting in the formation of cosmogenic nuclides. To accurately date these rocks and understand past geological events, precise estimates […] The post Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong></p><ul>
 <li><a href="https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&amp;utm_medium=affiliate&amp;utm_content=meta&amp;utm_campaign=DDCN_1_GL01_metadata_scirep">https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&amp;utm_medium=affiliate&amp;utm_content=meta&amp;utm_campaign=DDCN_1_GL01_metadata_scirep</a></li>
@@ -69,62 +93,23 @@
 <p><a href="https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟢 [90] Biosystems ▶ The Natural history of the transition between RNA to DNA in the early stages of life</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757584Z</updated>
-    <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Sávio Torres de Farias, Marco José</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reviews and synthesizes hypotheses on how early life transitioned from RNA-based systems to DNA genomes, a core question in origins-of-life research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Sávio Torres de Farias, Marco José</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [15] Astrobiology (astrobiology.com) ▶ Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</title>
+    <link href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html"/>
+    <id>https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html</id>
+    <updated>2026-01-02T16:44:55Z</updated>
+    <summary>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside th</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> ISS microgravity biotech operations using ADSEP-4 to support in-space pharmaceutical manufacturing, with no direct connection to origins-of-life mechanisms or prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station’s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. […] The post Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4) appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Development and implementation of a tool for the analysis and circuit representation of steady-state alternating current circuits</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119304Z</updated>
-    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Celal Atalar, Selda Bayrak, Huseyin Pehlivan</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper describes a computational tool for analyzing and representing steady-state AC electrical circuits and has no apparent connection to origins-of-life research, astrobiology, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Celal Atalar, Selda Bayrak, Huseyin Pehlivan</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Biosystems ▶ Prevalence of prime mass residues in single point mutations and their importance to protein stability, function and evolution</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757808Z</updated>
-    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Analyzes how prime-mass amino acid residues disproportionately appear in single-point mutations and explores their consequences for protein stability, function, and evolutionary dynamics, offering indirect context for molecular evolution relevant to origins-of-life discussions.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Biosystems ▶ Information and the living tree of life: A theory of measurement grounded in biology</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757850Z</updated>
-    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Kevin Hudnall</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical biology paper proposing a biology-grounded theory of measurement and information in the living tree of life, with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Kevin Hudnall</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Efficient utilization of streaming multiprocessors for the implementation of particle filter on graphics processing unit</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119391Z</updated>
-    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Özcan Dülger</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on GPU optimization for particle filter algorithms in computational science and has no direct connection to origins-of-life, astrobiology, habitability, or biosignature research.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Özcan Dülger</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History</title>
+    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History</title>
     <link href="https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html"/>
     <id>https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html</id>
     <updated>2026-01-02T16:23:15Z</updated>
     <summary>Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to h</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study argues that carbonate ooids can form via abiotic chemically oscillating reactions while still preserving authigenic microbial biomass, sharpening how we interpret carbonate “biosignatures” (and potential abiotic mimics) in ancient Earth and planetary settings.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study argues that carbonate ooids can form via abiotic chemically oscillating reactions while preserving authigenic microbial biomass, sharpening how we interpret carbonate-embedded biosignatures (and potential false positives) through Earth history.</p>
 <p><strong>Abstract:</strong> Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to hypothetical formation models involving both biological and abiotic processes. The most commonly invoked model involves precipitates from supersaturated CaCO3 water under high-energy conditions. However, this model does […] The post Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong></p><ul>
 <li><a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass">https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass</a></li>
@@ -133,648 +118,736 @@
 <p><a href="https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [40] Biosystems ▶ Humans and microbes: A systems theory perspective on coevolution</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.758005Z</updated>
-    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): A.V. Melkikh</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Systems-theory discussion of human–microbe coevolution, broadly relevant to evolutionary systems thinking but not directly focused on origins-of-life mechanisms or prebiotic/abiogenesis processes.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): A.V. Melkikh</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [25] Biosystems ▶ Evolutionary computation for reconstructing threshold networks of the tryptophan operon in Escherichia coli</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Gonzalo A. Ruz, Thomas Ledger, Matthew Macauley</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Uses evolutionary computation to infer a threshold gene-regulatory network model for the E. coli tryptophan operon, relevant mainly to systems biology rather than core origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Gonzalo A. Ruz, Thomas Ledger, Matthew Macauley</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</title>
-    <link href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html"/>
-    <id>https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html</id>
-    <updated>2026-01-02T16:27:44Z</updated>
-    <summary>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. Th</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A review of lava tube formation, detection, and preservation on Earth, the Moon, and Mars, highlighting their relevance as potentially protective subsurface habitats and exploration targets rather than directly addressing prebiotic origins mechanisms.</p>
-<p><strong>Abstract:</strong> Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We […] The post Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1007/s11214-025-01260-9">https://doi.org/10.1007/s11214-025-01260-9</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s11214-025-01260-9">https://link.springer.com/article/10.1007/s11214-025-01260-9</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html">Read source article</a></p>]]></content>
+    <title>🔴 [0] Biosystems ▶ Cultural accumulation or stasis? The impact of imitation and early teaching on hominin cultural evolution</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Laureano Castro, Daniel Castro-Cañadilla, Miguel Ángel Castro-Nogueira, Miguel Ángel Toro</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper examines how imitation and early teaching shape hominin cultural evolution, with no direct connection to abiogenesis, prebiotic chemistry, or astrobiology/origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Laureano Castro, Daniel Castro-Cañadilla, Miguel Ángel Castro-Nogueira, Miguel Ángel Toro</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ Semi-Supervised Rotation Forest</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002546?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002546?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119344Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): José Miguel Ramírez-Sanz, David Martínez-Acha, Álvar Arnaiz-González, César García-Osorio, Juan J. Rodríg</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a semi-supervised machine-learning ensemble method (Rotation Forest) and does not address origins of life, prebiotic chemistry, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): José Miguel Ramírez-Sanz, David Martínez-Acha, Álvar Arnaiz-González, César García-Osorio, Juan J. Rodríguez</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents a semi-supervised machine learning ensemble method (Rotation Forest) with no direct relevance to origins-of-life, astrobiology, habitability, or biosignature research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): José Miguel Ramírez-Sanz, David Martínez-Acha, Álvar Arnaiz-González, César García-Osorio, Juan J. Rodríguez</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002546?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [40] Biosystems ▶ Cooperation in structured populations via coupled reputation and learning: A spatial evolutionary game approach</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:37.757901Z</updated>
-    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Shouwei Li, Bo Peng, Baochen Li, Yan Shi</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Uses spatial evolutionary game theory to study how reputation and learning promote cooperation in structured populations, offering indirect conceptual context for evolutionary dynamics relevant to early-life cooperation but not addressing abiogenesis or astrobiological systems directly.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Shouwei Li, Bo Peng, Baochen Li, Yan Shi</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🟠 [40] Biosystems ▶ Information and the living tree of life: A theory of measurement grounded in biology</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Kevin Hudnall</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Conceptual/theoretical paper proposing a biology-grounded theory of measurement via information in the living tree of life, relevant mainly as broad evolutionary context rather than direct origins-of-life or prebiotic chemistry research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Kevin Hudnall</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Biosystems ▶ Prevalence of prime mass residues in single point mutations and their importance to protein stability, function and evolution</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Examines how prime-mass amino acid residues appear in single-point mutations and affect protein stability/function, offering indirect context for molecular evolution but little direct insight into origins-of-life or prebiotic mechanisms.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ MOOSE ProbML: Parallelized probabilistic machine learning and uncertainty quantification for computational energy applications</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002534?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002534?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119369Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Somayajulu L.N. Dhulipala, Peter German, Yifeng Che, Zachary M. Prince, Xianjian Xie, Pierre-Clément A. S</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on parallelized probabilistic machine learning and uncertainty quantification for computational energy applications, with no clear connection to origins-of-life, prebiotic chemistry, habitability, or biosignature studies.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Somayajulu L.N. Dhulipala, Peter German, Yifeng Che, Zachary M. Prince, Xianjian Xie, Pierre-Clément A. Simon, Vincent M. Labouré, Hao Yan</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on parallelized probabilistic machine learning for computational energy applications and does not address origins-of-life, prebiotic chemistry, astrobiology, or life-detection/habitability questions.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Somayajulu L.N. Dhulipala, Peter German, Yifeng Che, Zachary M. Prince, Xianjian Xie, Pierre-Clément A. Simon, Vincent M. Labouré, Hao Yan</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002534?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟢 [95] Astrobiology (astrobiology.com) ▶ Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</title>
-    <link href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html"/>
-    <id>https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html</id>
-    <updated>2026-01-02T16:39:23Z</updated>
-    <summary>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> An origins-of-life–focused heuristic model proposing that lipid vesicle (liposome) self-assembly at the water–air interface could drive the emergence of biomolecular homochirality, linking chirality to early protocell-like membrane formation and associated nucleic-acid building blocks.</p>
-<p><strong>Abstract:</strong> Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by […] The post Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2512.11136">https://arxiv.org/abs/2512.11136</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2512.11136">https://doi.org/10.48550/arXiv.2512.11136</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ Efficient utilization of streaming multiprocessors for the implementation of particle filter on graphics processing unit</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Özcan Dülger</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on optimizing particle filter implementations on GPUs and has no apparent connection to origins-of-life research, astrobiology, habitability, or biosignatures.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Özcan Dülger</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Anastylosis of frescoes − optimal parallel performance via RINCCAS in a given HPC resource</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119535Z</updated>
-    <summary>Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Dimo Dimov, Sofiya Ivanovska, Aleksandar Dimov</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on high-performance computing optimization for fresco reconstruction (anastylosis) and is unrelated to origins of life or astrobiology.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Dimo Dimov, Sofiya Ivanovska, Aleksandar Dimov</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ Development and implementation of a tool for the analysis and circuit representation of steady-state alternating current circuits</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Celal Atalar, Selda Bayrak, Huseyin Pehlivan</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a computational tool for analyzing and representing steady-state alternating current circuits, with no apparent connection to origins-of-life, astrobiology, or prebiotic chemistry topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Celal Atalar, Selda Bayrak, Huseyin Pehlivan</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [10] Journal of Computational Science ▶ On qualitative uncertainty in modelling assumptions</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119496Z</updated>
-    <summary>Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Derek Groen, Laura M. Harbach</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Methodological discussion of qualitative uncertainty in modelling assumptions with no explicit connection to origins-of-life, astrobiology, habitability, or prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Derek Groen, Laura M. Harbach</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Enhancing urban solar photovoltaic system performance evaluation through a disc spherical fuzzy aggregation framework</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119581Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Shahzaib Ashraf, Muhammad Shakir Chohan, Wania Iqbal, Vladimir Simic, Dragan Pamucar, Nebojsa Bacanin</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a fuzzy-aggregation framework for evaluating urban solar photovoltaic performance, which is unrelated to origins-of-life research or astrobiology.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Shahzaib Ashraf, Muhammad Shakir Chohan, Wania Iqbal, Vladimir Simic, Dragan Pamucar, Nebojsa Bacanin</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [5] Journal of Computational Science ▶ A liquid neural network with physical evolution for variable continuous time series prediction</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119479Z</updated>
-    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Kui Qian, Yue Deng, Zhengyan Li, Xiulan Wen</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a liquid neural network framework for variable continuous time-series prediction and is largely unrelated to origins-of-life or astrobiology, aside from the generic use of the term &quot;evolution&quot; in its title.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Kui Qian, Yue Deng, Zhengyan Li, Xiulan Wen</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [5] Journal of Computational Science ▶ A novel deep transfer learning model with a bidirectional quasi-recurrent neural network for underwater object classification from aquarium images</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119404Z</updated>
-    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Tabeer Jan, Lavanya Madhuri Bollipo</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a deep learning model for classifying underwater objects in aquarium images and has no meaningful connection to origins-of-life or astrobiology beyond a superficial association with water.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Tabeer Jan, Lavanya Madhuri Bollipo</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ ENOF:Outlier detection algorithm based on Elastic Neighborhood Outlier Factor</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119451Z</updated>
-    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Zhongping Zhang, Jinyu Dong, Kuo Wang, Zhongman Wang</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents a computational outlier-detection algorithm (ENOF) and does not address origins-of-life, prebiotic chemistry, biosignatures, habitability, or other astrobiological topics.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Zhongping Zhang, Jinyu Dong, Kuo Wang, Zhongman Wang</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ A local–global Graph Transformer model for fluid dynamics simulations</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119432Z</updated>
-    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Jiamin Jiang, Jingrun Chen, Zhouwang Yang</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents a machine-learning (graph transformer) approach for accelerating or improving fluid dynamics simulations and does not address origins-of-life, prebiotic chemistry, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Jiamin Jiang, Jingrun Chen, Zhouwang Yang</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🟠 [40] Biosystems ▶ Cooperation in structured populations via coupled reputation and learning: A spatial evolutionary game approach</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Shouwei Li, Bo Peng, Baochen Li, Yan Shi</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Uses a spatial evolutionary game model coupling reputation and learning to study how cooperation can emerge and persist in structured populations, offering indirect evolutionary context but little direct relevance to origins-of-life chemistry or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Shouwei Li, Bo Peng, Baochen Li, Yan Shi</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ Algorithm for segmentation of multimodally distributed time series in accordance with their modes</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S187775032500242X?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S187775032500242X?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119468Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): V.S. Petrakova, E.D. Karepova</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents a general algorithm for segmenting multimodally distributed time series and does not address origins-of-life, astrobiology, habitability, biosignatures, or related prebiotic/evolutionary processes.</p>
-<p><strong>Abstract:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): V.S. Petrakova, E.D. Karepova</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a computational algorithm for segmenting multimodally distributed time series, with no apparent connection to astrobiology or origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): V.S. Petrakova, E.D. Karepova</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S187775032500242X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ Graph anomaly detection via local contrastive learning and attribute reconstruction</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002583?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002583?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119513Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Xinyu Zhang, Yanfen Li</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Machine-learning methods for graph anomaly detection and attribute reconstruction, with no apparent connection to origins-of-life chemistry, evolution, habitability, or biosignature detection.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Xinyu Zhang, Yanfen Li</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on machine-learning methods for graph anomaly detection (local contrastive learning and attribute reconstruction) and has no apparent connection to origins-of-life, astrobiology, or related prebiotic chemistry topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Xinyu Zhang, Yanfen Li</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002583?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Two improved physics-informed Neural Networks for solving Burgers equation</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119616Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zeyue Zhang, Chunlei Ruan, Zhijun Liu</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops improved physics-informed neural networks for solving the Burgers equation, a computational PDE benchmark with no direct relevance to origins of life or astrobiology topics.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zeyue Zhang, Chunlei Ruan, Zhijun Liu</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ A novel deep transfer learning model with a bidirectional quasi-recurrent neural network for underwater object classification from aquarium images</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Tabeer Jan, Lavanya Madhuri Bollipo</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a deep transfer learning approach (bidirectional quasi-recurrent neural network) for classifying underwater objects in aquarium images, with no direct connection to origins of life, astrobiology, or biosignatures.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Tabeer Jan, Lavanya Madhuri Bollipo</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ ENOF:Outlier detection algorithm based on Elastic Neighborhood Outlier Factor</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Zhongping Zhang, Jinyu Dong, Kuo Wang, Zhongman Wang</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents an elastic-neighborhood outlier detection algorithm (ENOF) for computational data analysis, with no apparent connection to origins-of-life research or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Zhongping Zhang, Jinyu Dong, Kuo Wang, Zhongman Wang</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] Biosystems ▶ Humans and microbes: A systems theory perspective on coevolution</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): A.V. Melkikh</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A systems-theory discussion of human–microbe coevolution that may offer conceptual parallels to early-life dynamics but is not directly focused on abiogenesis, prebiotic chemistry, or origin-of-life mechanisms.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): A.V. Melkikh</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Anastylosis of frescoes − optimal parallel performance via RINCCAS in a given HPC resource</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Dimo Dimov, Sofiya Ivanovska, Aleksandar Dimov</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on high-performance computing methods (RINCCAS) for optimal parallel processing in fresco restoration (anastylosis) and has no apparent connection to origins of life or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Dimo Dimov, Sofiya Ivanovska, Aleksandar Dimov</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Enhancing urban solar photovoltaic system performance evaluation through a disc spherical fuzzy aggregation framework</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Shahzaib Ashraf, Muhammad Shakir Chohan, Wania Iqbal, Vladimir Simic, Dragan Pamucar, Nebojsa Bacanin</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper proposes a fuzzy aggregation framework to evaluate urban solar photovoltaic system performance, with no apparent relevance to origins of life, prebiotic chemistry, habitability, or biosignature research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Shahzaib Ashraf, Muhammad Shakir Chohan, Wania Iqbal, Vladimir Simic, Dragan Pamucar, Nebojsa Bacanin</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ On qualitative uncertainty in modelling assumptions</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Derek Groen, Laura M. Harbach</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This computational science paper on qualitative uncertainty in modelling assumptions has no explicit connection to origins-of-life, prebiotic chemistry, astrobiology, or biosignature/habitability topics based on the available metadata.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 2 January 2026 Source: Journal of Computational Science Author(s): Derek Groen, Laura M. Harbach</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ Exploring network-level indicators for project analysis — A comparison of real and synthetic projects</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002224?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002224?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119600Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zsolt T. Kosztyán</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper appears to focus on network-level metrics for analyzing real versus synthetic project management data, with no evident connection to origins of life, astrobiology, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zsolt T. Kosztyán</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on network-level indicators for project analysis and does not address origins-of-life, prebiotic chemistry, astrobiology, habitability, or biosignatures.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zsolt T. Kosztyán</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002224?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ ELM-UNet: An efficient and lightweight Vision Mamba UNet for skin lesion segmentation</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119693Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Songling Xia, Hongwei Deng, Feng Chen</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents a lightweight Vision Mamba UNet model for medical image (skin lesion) segmentation and has no substantive connection to origins-of-life, astrobiology, habitability, or biosignature research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Songling Xia, Hongwei Deng, Feng Chen</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Fuzzy data imputation with DIMP and FGAIN</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119715Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Maciej Romaniuk, Przemysław Grzegorzewski</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops fuzzy data imputation methods (DIMP and FGAIN) for handling missing data, with no direct relevance to origins-of-life, prebiotic chemistry, habitability, or biosignature research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Maciej Romaniuk, Przemysław Grzegorzewski</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Safe merging aircraft flows in multi-route schemes</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119654Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Arseniy A. Spiridonov</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper on safe merging of aircraft flows in multi-route schemes is unrelated to origins-of-life, astrobiology, habitability, or biosignature research and contains no relevant target keywords.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Arseniy A. Spiridonov</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Computational modeling of incompressible two-phase fluid dynamics via the conservative Allen–Cahn framework on a virtual cube</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119558Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Ahmed Zeeshan, Juho Ma, Zhengang Li, Xinpei Wu, Junseok Kim</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a numerical method for incompressible two-phase fluid dynamics (Allen–Cahn framework) with no clear connection to origins-of-life chemistry, biosignatures, habitability, or other astrobiological themes.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Ahmed Zeeshan, Juho Ma, Zhengang Li, Xinpei Wu, Junseok Kim</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ Thought Management System for long-horizon, goal-driven LLM agents</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002170?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002170?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119632Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Andrii Bidochko, Yaroslav Vyklyuk</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on managing long-horizon, goal-driven LLM agents and has no apparent connection to origins-of-life, astrobiology, habitability, or prebiotic chemistry topics.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Andrii Bidochko, Yaroslav Vyklyuk</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on computational methods for managing long-horizon LLM agent reasoning and does not address origins-of-life, prebiotic chemistry, astrobiology, habitability, or biosignatures.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Andrii Bidochko, Yaroslav Vyklyuk</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002170?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Safe merging aircraft flows in multi-route schemes</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Arseniy A. Spiridonov</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational study on safely merging aircraft traffic flows in multi-route airspace schemes, with no apparent connection to origins-of-life, astrobiology, or prebiotic chemistry.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Arseniy A. Spiridonov</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] Journal of Computational Science ▶ A liquid neural network with physical evolution for variable continuous time series prediction</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Kui Qian, Yue Deng, Zhengyan Li, Xiulan Wen</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Machine-learning paper on liquid neural networks with a “physical evolution” training scheme for continuous time-series prediction, with no direct connection to origins-of-life or astrobiology beyond the generic use of the term evolution.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Kui Qian, Yue Deng, Zhengyan Li, Xiulan Wen</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ A local–global Graph Transformer model for fluid dynamics simulations</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Jiamin Jiang, Jingrun Chen, Zhouwang Yang</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a local–global Graph Transformer for fluid dynamics simulations, with no apparent connection to origins-of-life chemistry, habitability, biosignatures, or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Jiamin Jiang, Jingrun Chen, Zhouwang Yang</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Two improved physics-informed Neural Networks for solving Burgers equation</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zeyue Zhang, Chunlei Ruan, Zhijun Liu</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops improved physics-informed neural network methods for solving the Burgers equation, which is a computational PDE study unrelated to origins-of-life or astrobiology topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Zeyue Zhang, Chunlei Ruan, Zhijun Liu</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ ELM-UNet: An efficient and lightweight Vision Mamba UNet for skin lesion segmentation</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Songling Xia, Hongwei Deng, Feng Chen</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents a lightweight Vision Mamba UNet for medical skin lesion image segmentation and has no apparent connection to origins-of-life, astrobiology, or biosignature/habitability research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Songling Xia, Hongwei Deng, Feng Chen</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ Local method of fundamental solutions formulations for polyharmonic BVPs</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002194?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002194?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119676Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Andreas Karageorghis, C.S. Chen, Malgorzata A. Jankowska</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops numerical formulations for solving polyharmonic boundary value problems and has no direct connection to origins-of-life, astrobiology, habitability, or biosignature research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Andreas Karageorghis, C.S. Chen, Malgorzata A. Jankowska</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents numerical formulations (local method of fundamental solutions) for solving polyharmonic boundary value problems, with no direct connection to astrobiology or origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Andreas Karageorghis, C.S. Chen, Malgorzata A. Jankowska</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002194?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Parallel sparsity patterns for factored incomplete inverse matrices</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119763Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Christos K. Filelis-Papadopoulos, George A. Gravvanis</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops parallel sparsity patterns for factored incomplete inverse matrices in numerical linear algebra, with no apparent connection to origins-of-life, astrobiology, habitability, or biosignature research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Christos K. Filelis-Papadopoulos, George A. Gravvanis</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ Computational modeling of incompressible two-phase fluid dynamics via the conservative Allen–Cahn framework on a virtual cube</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Ahmed Zeeshan, Juho Ma, Zhengang Li, Xinpei Wu, Junseok Kim</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on numerical methods for incompressible two-phase fluid dynamics using a conservative Allen–Cahn framework and has no clear connection to origins-of-life, prebiotic chemistry, astrobiology, or biosignatures.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Ahmed Zeeshan, Juho Ma, Zhengang Li, Xinpei Wu, Junseok Kim</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Editorial Board</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119814Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s):</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This item appears to be an editorial board listing with no scientific content or links, offering no relevance to origins-of-life or astrobiology topics.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s):</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Efficient cellular automata-Lattice Boltzmann method for modeling solidification microstructure</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119799Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Jingjing Wang, Xiaoyu Liu, Ruina Mao</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational materials-science method for simulating solidification microstructure, with no apparent connection to origins-of-life, prebiotic chemistry, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Jingjing Wang, Xiaoyu Liu, Ruina Mao</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ A Novel Exact Solution of Extended Single Particle Model for Lithium-ion Cell and Its Application to High Capacity NMC Battery</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119850Z</updated>
-    <summary>Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Arif Ullah Khan, Mahvish Samar, Arif Hussain, Mei Li, Wenting Xu, Zhiyu Mao, Zhongwei Chen</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper presents an exact solution for an extended single-particle model of lithium-ion NMC batteries, with no apparent connection to origins-of-life, astrobiology, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Arif Ullah Khan, Mahvish Samar, Arif Hussain, Mei Li, Wenting Xu, Zhiyu Mao, Zhongwei Chen</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [5] Journal of Computational Science ▶ A nonlinear finite volume scheme preserving positivity for the numerical simulation of groundwater contaminant transport in porous media</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119746Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Sadiq Hamidi, Mustapha El Ossmani, Abdelaziz Taakili</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops a positivity-preserving nonlinear finite volume numerical scheme for simulating contaminant transport in groundwater porous media, with only tangential relevance to astrobiology via general water/transport modeling.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Sadiq Hamidi, Mustapha El Ossmani, Abdelaziz Taakili</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Temporal carbon neutral Chinese knowledge graph completion method based on latent semantic mining</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119831Z</updated>
-    <summary>Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Xiping Zhu, Lijuan Xiao, Ang Gao, Lu Guo, Huan Yang</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on temporal carbon-neutral Chinese knowledge graph completion using latent semantic mining, with no apparent connection to origins-of-life, astrobiology, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Xiping Zhu, Lijuan Xiao, Ang Gao, Lu Guo, Huan Yang</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Corrigendum to “Towards universal MPI bindings for enhanced new language support” [J. Comput. Sci. 87 (2025), 102557]</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119870Z</updated>
-    <summary>Publication date: Available online 22 October 2025 Source: Journal of Computational Science Author(s): César Piñeiro, Álvaro Vázquez, Juan C. Pichel</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Corrigendum about universal MPI bindings for programming language support, with no apparent connection to origins of life, astrobiology, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 22 October 2025 Source: Journal of Computational Science Author(s): César Piñeiro, Álvaro Vázquez, Juan C. Pichel</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [10] Journal of Computational Science ▶ Computational model of ammonia synthesis with catalyst pellets: Linking the structure and performance</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Michael Abeiku Daniels, Anna Geohagan, Agnieszka Truszkowska</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational catalysis study modeling industrial ammonia synthesis in catalyst pellets, with minimal direct relevance to origins-of-life or astrobiology beyond general chemical context.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Michael Abeiku Daniels, Anna Geohagan, Agnieszka Truszkowska</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Computational Science ▶ A generalized colouring method for a parallelizable integer linear programming approach to polyomino tiling</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S187775032500211X?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S187775032500211X?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119780Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Marcus R. Garvie, John Burkardt</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a computational optimization method (coloring for parallelizable integer linear programming) for polyomino tiling, with no direct connection to origins-of-life, astrobiology, habitability, or biosignature research.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Marcus R. Garvie, John Burkardt</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a generalized colouring method for parallelizable integer linear programming in polyomino tiling, which has no direct connection to origins-of-life, abiogenesis, astrobiology, or biosignature/habitability research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Marcus R. Garvie, John Burkardt</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S187775032500211X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Computational Science ▶ Computational model of ammonia synthesis with catalyst pellets: Linking the structure and performance</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119734Z</updated>
-    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Michael Abeiku Daniels, Anna Geohagan, Agnieszka Truszkowska</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational modeling of industrial-style ammonia synthesis over catalyst pellets is primarily chemical engineering/catalysis and does not directly address prebiotic chemistry, abiogenesis, or other origins-of-life/astrobiology themes.</p>
-<p><strong>Abstract:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Michael Abeiku Daniels, Anna Geohagan, Agnieszka Truszkowska</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ Fuzzy data imputation with DIMP and FGAIN</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Maciej Romaniuk, Przemysław Grzegorzewski</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops fuzzy data imputation methods (DIMP and FGAIN) for handling missing data in computational datasets, with no apparent connection to origins-of-life, astrobiology, or biosignature research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Maciej Romaniuk, Przemysław Grzegorzewski</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [15] Journal of Computational Science ▶ Artificial intelligence and high-performance computing for advanced simulations</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.119890Z</updated>
-    <summary>Publication date: Available online 8 October 2025 Source: Journal of Computational Science Author(s): Maciej Paszyński, David Pardo, Barbara Strug</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Methods-focused paper on applying artificial intelligence and high-performance computing to advanced simulations, with no explicit connection to origins-of-life, prebiotic chemistry, biosignatures, or habitability topics.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 8 October 2025 Source: Journal of Computational Science Author(s): Maciej Paszyński, David Pardo, Barbara Strug</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ A Novel Exact Solution of Extended Single Particle Model for Lithium-ion Cell and Its Application to High Capacity NMC Battery</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Arif Ullah Khan, Mahvish Samar, Arif Hussain, Mei Li, Wenting Xu, Zhiyu Mao, Zhongwei Chen</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational modeling of lithium-ion NMC battery cell behavior, with no apparent connection to astrobiology, habitability, biosignatures, or origins-of-life chemistry.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Arif Ullah Khan, Mahvish Samar, Arif Hussain, Mei Li, Wenting Xu, Zhiyu Mao, Zhongwei Chen</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Theoretical Biology ▶ A discrete-time continuous-space neural model for shell patterns in mollusks</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321818Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Rahnuma Islam, Bard Ermentrout, Sabrina Streipert</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops a discrete-time, continuous-space neural model to reproduce mollusk shell pattern formation, which is not directly relevant to origins-of-life, prebiotic chemistry, or astrobiological biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Rahnuma Islam, Bard Ermentrout, Sabrina Streipert</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Computational Science ▶ Corrigendum to “Towards universal MPI bindings for enhanced new language support” [J. Comput. Sci. 87 (2025), 102557]</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 22 October 2025 Source: Journal of Computational Science Author(s): César Piñeiro, Álvaro Vázquez, Juan C. Pichel</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Corrigendum for a computational science paper on universal MPI bindings and language support, with no apparent connection to origins-of-life research or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 22 October 2025 Source: Journal of Computational Science Author(s): César Piñeiro, Álvaro Vázquez, Juan C. Pichel</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [15] Journal of Theoretical Biology ▶ Parameter-wise predictions and sensitivity analysis for random walk models in the life sciences</title>
+    <title>🔴 [0] Journal of Computational Science ▶ Editorial Board</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s):</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This item appears to be an editorial-board notice with no scientific content relevant to origins of life or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s):</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Parallel sparsity patterns for factored incomplete inverse matrices</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Christos K. Filelis-Papadopoulos, George A. Gravvanis</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops parallel sparsity patterns for factored incomplete inverse matrices in computational science, with no apparent connection to astrobiology or origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Christos K. Filelis-Papadopoulos, George A. Gravvanis</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Temporal carbon neutral Chinese knowledge graph completion method based on latent semantic mining</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Xiping Zhu, Lijuan Xiao, Ang Gao, Lu Guo, Huan Yang</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational science paper proposing a temporal carbon-neutral Chinese knowledge graph completion method using latent semantic mining, with no apparent connection to astrobiology or origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 31 December 2025 Source: Journal of Computational Science Author(s): Xiping Zhu, Lijuan Xiao, Ang Gao, Lu Guo, Huan Yang</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ A nonlinear finite volume scheme preserving positivity for the numerical simulation of groundwater contaminant transport in porous media</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Sadiq Hamidi, Mustapha El Ossmani, Abdelaziz Taakili</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a positivity-preserving finite volume numerical scheme for simulating groundwater contaminant transport in porous media, with no direct connection to origins-of-life or astrobiology topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Sadiq Hamidi, Mustapha El Ossmani, Abdelaziz Taakili</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Efficient cellular automata-Lattice Boltzmann method for modeling solidification microstructure</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Jingjing Wang, Xiaoyu Liu, Ruina Mao</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational modeling of solidification microstructures (cellular automata–lattice Boltzmann) with no apparent connection to origins-of-life chemistry, prebiotic processes, or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: Journal of Computational Science, Volume 93 Author(s): Jingjing Wang, Xiaoyu Liu, Ruina Mao</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Theoretical Biology ▶ Parameter-wise predictions and sensitivity analysis for random walk models in the life sciences</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003315?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0022519325003315?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321738Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: 21 March 2026 Source: Journal of Theoretical Biology, Volume 621 Author(s): Yihan Liu, David J. Warne, Matthew J. Simpson</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Methodological study developing parameter-wise prediction and sensitivity analysis tools for random-walk models in life sciences, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiological habitability/biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: 21 March 2026 Source: Journal of Theoretical Biology, Volume 621 Author(s): Yihan Liu, David J. Warne, Matthew J. Simpson</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A methodological study on parameter-wise prediction and sensitivity analysis for random-walk models in life-science applications, with no clear connection to origins-of-life, prebiotic chemistry, astrobiology, or biosignatures.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 21 March 2026 Source: Journal of Theoretical Biology, Volume 621 Author(s): Yihan Liu, David J. Warne, Matthew J. Simpson</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003315?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [10] Journal of Theoretical Biology ▶ Dynamics of integrated multi-trophic aquaculture (IMTA): A modeling approach incorporating zooplankton and scavenger</title>
+    <title>🔴 [0] Journal of Theoretical Biology ▶ Dynamics of integrated multi-trophic aquaculture (IMTA): A modeling approach incorporating zooplankton and scavenger</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003352?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0022519325003352?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321798Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Honghui Gao, Ming Chen, Yuwei Liu</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical ecology model of nutrient and energy flows in integrated multi-trophic aquaculture (including zooplankton and scavengers), with little direct relevance to origins-of-life or astrobiological prebiotic processes.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Honghui Gao, Ming Chen, Yuwei Liu</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Models the dynamics of integrated multi-trophic aquaculture by incorporating zooplankton and scavenger interactions, with no apparent connection to origins-of-life, prebiotic chemistry, or astrobiology topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Honghui Gao, Ming Chen, Yuwei Liu</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003352?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Theoretical Biology ▶ Sucrose transport to the root and shoot in the seedling phloem</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321912Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Jacob M. Jepson, Leah R. Band</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This theoretical biology paper on sucrose transport in seedling phloem concerns plant physiology and does not address origins of life, prebiotic chemistry, or astrobiology-relevant habitability/biosignature questions.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Jacob M. Jepson, Leah R. Band</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Journal of Theoretical Biology ▶ Stability-driven assembly theory</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321837Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Dan Adler</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Proposes a theoretical framework where stability constraints drive the assembly of complex structures, offering broad conceptual relevance to origins-of-life studies but with no explicit astrobiology or prebiotic chemistry focus in the available metadata.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Dan Adler</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Theoretical Biology ▶ Bistability in the regulatory system of the intrinsic apoptotic pathway arising from the Bax and Bcl-xL interactions</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321856Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Ruslan M. Timchenko, Mikhail A. Panteleev</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical systems-biology study modeling bistability in the eukaryotic intrinsic apoptotic pathway via Bax–Bcl-xL interactions, with no direct relevance to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Ruslan M. Timchenko, Mikhail A. Panteleev</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Journal of Theoretical Biology ▶ Emergent stable tissue shapes from the regulatory feedback between morphogens and cell growth</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321894Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bivash Kaity, Daniel Lobo</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical model of morphogen–growth feedback producing stable tissue-scale shapes, relevant to later-stage biological organization (development/multicellularity) but only indirectly connected to origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bivash Kaity, Daniel Lobo</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Journal of Theoretical Biology ▶ Timing the initiation of sex: Delay mechanisms alter fitness outcomes in a rotifer population model</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321778Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bethany L.F. Stevens, Silke F. van Daalen, Tirzah J. Blomquist, Kristin E. Gribble, Michael G. Neubert</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical population model exploring how delaying the initiation of sex changes fitness outcomes in rotifers, offering general evolutionary context but little direct relevance to origins-of-life or astrobiology topics.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bethany L.F. Stevens, Silke F. van Daalen, Tirzah J. Blomquist, Kristin E. Gribble, Michael G. Neubert</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Theoretical Biology ▶ Semi-hydraulic actuation in spider legs: The transport of the hemolymph does not hamper muscle driven leg joint flexion</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003340?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0022519325003340?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321875Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Reinhard Blickhan, Tobias Siebert, Tom Weihmann</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Biomechanics study of spider leg hemolymph hydraulics and muscle-driven joint flexion, with no direct relevance to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Reinhard Blickhan, Tobias Siebert, Tom Weihmann</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A biomechanics study on semi-hydraulic hemolymph transport and muscle-driven leg joint flexion in spiders, with no direct relevance to astrobiology or origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Reinhard Blickhan, Tobias Siebert, Tom Weihmann</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003340?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] Journal of Theoretical Biology ▶ Habitat fragmentation promotes spatial scale separation under resource competition</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321980Z</updated>
-    <summary>Publication date: Available online 30 December 2025 Source: Journal of Theoretical Biology Author(s): James Austin Orgeron, Malbor Asllani</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical ecology study on how habitat fragmentation shapes spatial scale separation under resource competition, offering only indirect conceptual relevance to origins-of-life questions (e.g., spatial structuring and selection) and no explicit astrobiology/OoL focus.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 30 December 2025 Source: Journal of Theoretical Biology Author(s): James Austin Orgeron, Malbor Asllani</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [15] Journal of Theoretical Biology ▶ Timing the initiation of sex: Delay mechanisms alter fitness outcomes in a rotifer population model</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bethany L.F. Stevens, Silke F. van Daalen, Tirzah J. Blomquist, Kristin E. Gribble, Michael G. Neubert</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Models how delays in initiating sexual reproduction affect fitness in rotifer populations, offering evolutionary dynamics insights but little direct relevance to origins-of-life or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bethany L.F. Stevens, Silke F. van Daalen, Tirzah J. Blomquist, Kristin E. Gribble, Michael G. Neubert</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Journal of Computational Science ▶ Artificial intelligence and high-performance computing for advanced simulations</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 8 October 2025 Source: Journal of Computational Science Author(s): Maciej Paszyński, David Pardo, Barbara Strug</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper discusses general AI and high-performance computing methods for simulations without clear connections to origins-of-life processes or astrobiology topics (e.g., prebiotic chemistry, protocells, biosignatures, or habitability).</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 8 October 2025 Source: Journal of Computational Science Author(s): Maciej Paszyński, David Pardo, Barbara Strug</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] Journal of Theoretical Biology ▶ Bistability in the regulatory system of the intrinsic apoptotic pathway arising from the Bax and Bcl-xL interactions</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Ruslan M. Timchenko, Mikhail A. Panteleev</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical modeling study of bistable regulation in the eukaryotic intrinsic apoptosis pathway via Bax–Bcl-xL interactions, with minimal direct relevance to origins-of-life or astrobiology topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Ruslan M. Timchenko, Mikhail A. Panteleev</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Journal of Theoretical Biology ▶ Stability-driven assembly theory</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Dan Adler</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical biology paper proposing a stability-driven framework for how complex structures could assemble, potentially offering a conceptual model relevant to prebiotic self-assembly in origins-of-life contexts.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Dan Adler</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Theoretical Biology ▶ Deciphering the modulatory role of direct pedunculopontine nucleus-cortical circuitry in absence seizure dynamics: A computational study</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003509?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0022519325003509?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.322005Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: Available online 29 December 2025 Source: Journal of Theoretical Biology Author(s): Bing Hu, Jiaqin Peng, Wencan Li, Yuhan Xiao, Ningmin Zhu</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational neuroscience study on pedunculopontine nucleus–cortical circuitry in absence seizures, with no apparent connection to origins-of-life, prebiotic chemistry, or astrobiology topics.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 29 December 2025 Source: Journal of Theoretical Biology Author(s): Bing Hu, Jiaqin Peng, Wencan Li, Yuhan Xiao, Ningmin Zhu</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational neuroscience study modeling pedunculopontine nucleus–cortical circuitry in absence seizures, with no apparent connection to astrobiology or origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 29 December 2025 Source: Journal of Theoretical Biology Author(s): Bing Hu, Jiaqin Peng, Wencan Li, Yuhan Xiao, Ningmin Zhu</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003509?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [20] Journal of Theoretical Biology ▶ A model of predation and survival in a system of three interacting species</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321942Z</updated>
-    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Anca Rǎdulescu, Richard Halpern, Drew Kozlowski</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical ecology model of predation and survival among three interacting species, with only indirect relevance to origins-of-life themes (evolutionary dynamics) and no explicit OoL/astrobiology keywords.</p>
-<p><strong>Abstract:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Anca Rǎdulescu, Richard Halpern, Drew Kozlowski</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [25] Journal of Theoretical Biology ▶ Emergent stable tissue shapes from the regulatory feedback between morphogens and cell growth</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bivash Kaity, Daniel Lobo</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical developmental biology study on morphogen–growth feedback shaping stable tissues, offering only indirect relevance to origins-of-life questions (e.g., later-stage multicellularity) and no direct prebiotic/abiogenesis connection.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Bivash Kaity, Daniel Lobo</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Theoretical Biology ▶ Can physical activity augment drug efficacy in PMO treatments - Insights from in-silico simulations of PTH and denosumab treatments</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.322042Z</updated>
-    <summary>Publication date: Available online 21 December 2025 Source: Journal of Theoretical Biology Author(s): Rocío Ruiz-Lozano, José Luis Calvo-Gallego, Peter Pivonka, Javier Martínez-Reina</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> In-silico modeling study on how physical activity may influence efficacy of osteoporosis-related drug treatments (PTH and denosumab), with no apparent connection to astrobiology or origins-of-life research.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 21 December 2025 Source: Journal of Theoretical Biology Author(s): Rocío Ruiz-Lozano, José Luis Calvo-Gallego, Peter Pivonka, Javier Martínez-Reina</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [12] Journal of Theoretical Biology ▶ A discrete-time continuous-space neural model for shell patterns in mollusks</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Rahnuma Islam, Bard Ermentrout, Sabrina Streipert</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a theoretical neural-style discrete-time continuous-space model to reproduce mollusk shell pattern formation, which is peripheral to origins-of-life research and has no direct prebiotic/abiogenesis relevance.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Rahnuma Islam, Bard Ermentrout, Sabrina Streipert</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Journal of Theoretical Biology ▶ A mixed-effects cosinor modelling framework for circadian gene expression</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.322080Z</updated>
-    <summary>Publication date: Available online 2 November 2025 Source: Journal of Theoretical Biology Author(s): Michael T. Gorczyca</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a mixed-effects cosinor statistical framework for analyzing circadian gene expression, which is not directly relevant to origins-of-life, prebiotic chemistry, or astrobiological habitability/biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 2 November 2025 Source: Journal of Theoretical Biology Author(s): Michael T. Gorczyca</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Theoretical Biology ▶ Sucrose transport to the root and shoot in the seedling phloem</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Jacob M. Jepson, Leah R. Band</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper models sucrose transport in seedling phloem (plant vascular physiology) and has no apparent connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Jacob M. Jepson, Leah R. Band</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Journal of Theoretical Biology ▶ Modelling the spread and management of Varroa Destructor in naive European Honeybee populations</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003133?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0022519325003133?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.322061Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: Available online 3 December 2025 Source: Journal of Theoretical Biology Author(s): Isobel R. Abell, Thao P. Le, Jennifer A. Flegg, Christopher M. Baker</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical modelling study on the epidemiology and management of Varroa destructor in European honeybee populations, with no direct relevance to astrobiology or origins-of-life research.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 3 December 2025 Source: Journal of Theoretical Biology Author(s): Isobel R. Abell, Thao P. Le, Jennifer A. Flegg, Christopher M. Baker</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper models the epidemiological spread and management of Varroa destructor in European honeybee populations, which is unrelated to origins-of-life or astrobiology topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 3 December 2025 Source: Journal of Theoretical Biology Author(s): Isobel R. Abell, Thao P. Le, Jennifer A. Flegg, Christopher M. Baker</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003133?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] Journal of Theoretical Biology ▶ Branch length statistics in phylogenetic trees under constant-rate birth-death dynamics</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.321961Z</updated>
-    <summary>Publication date: Available online 31 December 2025 Source: Journal of Theoretical Biology Author(s): Tobias Dieselhorst, Johannes Berg</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops statistical expectations for branch lengths in phylogenetic trees under constant-rate birth–death models, providing evolutionary inference tools that are only indirectly relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 31 December 2025 Source: Journal of Theoretical Biology Author(s): Tobias Dieselhorst, Johannes Berg</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [0] Journal of Theoretical Biology ▶ Can physical activity augment drug efficacy in PMO treatments - Insights from in-silico simulations of PTH and denosumab treatments</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 21 December 2025 Source: Journal of Theoretical Biology Author(s): Rocío Ruiz-Lozano, José Luis Calvo-Gallego, Peter Pivonka, Javier Martínez-Reina</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> In-silico simulations of osteoporosis drug treatments (PTH and denosumab) and physical activity effects are biomedical/physiology-focused and do not address origins of life, prebiotic chemistry, or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 21 December 2025 Source: Journal of Theoretical Biology Author(s): Rocío Ruiz-Lozano, José Luis Calvo-Gallego, Peter Pivonka, Javier Martínez-Reina</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] Physics of Life Reviews ▶ Informational inbreeding: a useful concept to add to extant evolutionary theories: Comment on “Homo informatio” by Michael J. Walker</title>
+    <title>🔴 [10] Journal of Theoretical Biology ▶ A model of predation and survival in a system of three interacting species</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Anca Rǎdulescu, Richard Halpern, Drew Kozlowski</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical ecology paper modeling predation and survival among three interacting species, with little direct relevance to origins-of-life or astrobiology topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: 7 March 2026 Source: Journal of Theoretical Biology, Volume 620 Author(s): Anca Rǎdulescu, Richard Halpern, Drew Kozlowski</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] Journal of Theoretical Biology ▶ Habitat fragmentation promotes spatial scale separation under resource competition</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 30 December 2025 Source: Journal of Theoretical Biology Author(s): James Austin Orgeron, Malbor Asllani</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical study of how habitat fragmentation and resource competition drive spatial scale separation, offering broad evolutionary-ecology context but no explicit focus on origins-of-life mechanisms or astrobiological settings.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 30 December 2025 Source: Journal of Theoretical Biology Author(s): James Austin Orgeron, Malbor Asllani</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] Journal of Theoretical Biology ▶ Spatial Sucrose Sink Profiles Shape Phloem Transport Efficiency and Xylem-Phloem Water Exchange</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical plant-physiology study modeling how spatial sucrose sink distributions affect phloem transport efficiency and xylem–phloem water exchange, with minimal direct relevance to origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] Physics of Life Reviews ▶ Informational inbreeding: a useful concept to add to extant evolutionary theories: Comment on “Homo informatio” by Michael J. Walker</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001824?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1571064525001824?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.731400Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Héctor M. Manrique, Ana Magdalena Hurtado</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical commentary proposing “informational inbreeding” as a concept within evolutionary theory, offering only broad contextual relevance to origins-of-life research rather than direct prebiotic or abiogenesis insights.</p>
-<p><strong>Abstract:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Héctor M. Manrique, Ana Magdalena Hurtado</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A conceptual commentary on evolutionary theory (“informational inbreeding”) with only indirect relevance to origins-of-life or astrobiology and no explicit prebiotic/abiogenesis focus in the available metadata.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Héctor M. Manrique, Ana Magdalena Hurtado</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001824?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] Journal of Theoretical Biology ▶ Branch length statistics in phylogenetic trees under constant-rate birth-death dynamics</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 31 December 2025 Source: Journal of Theoretical Biology Author(s): Tobias Dieselhorst, Johannes Berg</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops statistical theory for branch length distributions in phylogenetic trees under constant-rate birth–death dynamics, offering general evolutionary modeling tools but little direct relevance to origins-of-life or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 31 December 2025 Source: Journal of Theoretical Biology Author(s): Tobias Dieselhorst, Johannes Berg</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Physics of Life Reviews ▶ Modeling network connectivity may reveal further insights on how transcranial alternating current stimulation modulates brain activity: Comment on “Entrainment by transcranial alternating current stimulation: Insights from models of cortical oscillations and dynamical systems theory” by M. Madadi Asl and A. Valizadeh</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001435?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1571064525001435?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.731966Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Heiko I. Stecher, Daniel Strüber, Christoph S. Herrmann</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Commentary on modeling how transcranial alternating current stimulation affects cortical network oscillations, with no discernible connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Heiko I. Stecher, Daniel Strüber, Christoph S. Herrmann</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This commentary on transcranial alternating current stimulation and brain network connectivity is neuroscience-focused and has no evident connection to origins-of-life research or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Heiko I. Stecher, Daniel Strüber, Christoph S. Herrmann</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001435?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [35] Physics of Life Reviews ▶ Simple rules for simple models</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.731772Z</updated>
-    <summary>Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Arnaud Messé, Claus C. Hilgetag, Marc-Thorsten Hütt</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A conceptual review likely discussing how simplified rule-based models can capture emergent biological complexity, offering broad methodological context but no explicit focus on prebiotic chemistry or abiogenesis from the available metadata.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Arnaud Messé, Claus C. Hilgetag, Marc-Thorsten Hütt</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [15] Journal of Theoretical Biology ▶ Spatial Sucrose Sink Profiles Shape Phloem Transport Efficiency and Xylem-Phloem Water Exchange</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.322019Z</updated>
-    <summary>Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical plant-physiology study modeling how spatial sucrose sink distributions affect phloem transport efficiency and xylem–phloem water exchange, with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] Physics of Life Reviews ▶ On implementation of nonlocal terms in models in ecology and evolution. Comment on ‘Nonlocal models in biology and life sciences: Sources, developments, and applications’ by S. Pal &amp; R. Melnick</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.731217Z</updated>
-    <summary>Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Andrew Yu Morozov</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A technical comment on how to implement nonlocal terms in ecological and evolutionary models, with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Andrew Yu Morozov</p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+    <title>🔴 [5] Journal of Theoretical Biology ▶ A mixed-effects cosinor modelling framework for circadian gene expression</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 2 November 2025 Source: Journal of Theoretical Biology Author(s): Michael T. Gorczyca</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a statistical mixed-effects cosinor framework for analyzing circadian gene expression rhythms, which is largely unrelated to origins-of-life or astrobiology questions.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 2 November 2025 Source: Journal of Theoretical Biology Author(s): Michael T. Gorczyca</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Physics of Life Reviews ▶ Making the private public: external grounding in inner States</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001563?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1571064525001563?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.731722Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Friedemann Pulvermüller, Michael Pauen</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper appears to address philosophical/cognitive questions about grounding of internal mental states rather than origins-of-life chemistry, prebiotic evolution, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Friedemann Pulvermüller, Michael Pauen</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This Physics of Life Reviews article appears focused on philosophy/cognitive science of “inner states” and external grounding, with no evident connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Friedemann Pulvermüller, Michael Pauen</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001563?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] Physics of Life Reviews ▶ Simple rules for simple models</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Arnaud Messé, Claus C. Hilgetag, Marc-Thorsten Hütt</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A conceptual review in Physics of Life Reviews arguing for simple governing rules in simplified biological models, potentially providing broad methodological context for origin-of-life modeling but with no explicit OoL or astrobiology details in the available abstract.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Arnaud Messé, Claus C. Hilgetag, Marc-Thorsten Hütt</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Physics of Life Reviews ▶ On implementation of nonlocal terms in models in ecology and evolution. Comment on `Nonlocal models in biology and life sciences: Sources, developments, and applications&#x27; by S. Pal and R. Melnic</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T14:00:00Z</updated>
+    <summary>Publication date: Available online 26 December 2025 Source: Physics of Life Reviews Author(s): Andrew Yu Morozov</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A technical comment on implementing nonlocal terms in ecological and evolutionary models, with only tangential relevance to origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 26 December 2025 Source: Physics of Life Reviews Author(s): Andrew Yu Morozov</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [0] Physics of Life Reviews ▶ Surfing brain waves without sinking: A commentary on “Entrainment by transcranial alternating current stimulation: Insight from models of cortical oscillations and dynamical systems theory” by M. Madadi Asl and A. Valizadeh</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001290?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1571064525001290?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.732050Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Jeremie Lefebvre, Aref Pariz, Jean-Philippe Thivierge, Axel Hutt</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This commentary focuses on cortical oscillation entrainment and dynamical systems in neuroscience, with no evident connection to origins of life, prebiotic chemistry, astrobiology, or habitability.</p>
-<p><strong>Abstract:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Jeremie Lefebvre, Aref Pariz, Jean-Philippe Thivierge, Axel Hutt</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Commentary on cortical oscillation entrainment via transcranial alternating current stimulation, with no substantive connection to origins-of-life, prebiotic chemistry, habitability, or astrobiology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: Physics of Life Reviews, Volume 55 Author(s): Jeremie Lefebvre, Aref Pariz, Jean-Philippe Thivierge, Axel Hutt</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001290?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [0] Sciences et Avenir ▶ La conquête du temps, de l&#x27;Égypte à l&#x27;ère atomique</title>
-    <link href="https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10"/>
-    <id>https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10</id>
-    <updated>2026-01-03T13:00:00Z</updated>
-    <summary>En 2035, la disparition du temps universel coordonné marquera un basculement historique au profit du temps atomique international : pour la première fois, le temps officiel des humains ne dépendra plu</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A historical overview of human timekeeping and the shift from UTC to an international atomic timescale, with no substantive connection to origins-of-life, astrobiology, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> En 2035, la disparition du temps universel coordonné marquera un basculement historique au profit du temps atomique international : pour la première fois, le temps officiel des humains ne dépendra plus du ciel ni de la Terre. Retour sur cinq millénaires d&#x27;efforts pour quantifier l&#x27;écoulement du temps.</p>
-<p><a href="https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [15] Physics of Life Reviews ▶ Remodeling of non-coding RNA regulatory networks: Decoding the pathological mechanisms and new therapeutic paradigms of cardiovascular diseases</title>
+    <title>🔴 [5] Physics of Life Reviews ▶ Remodeling of non-coding RNA regulatory networks: Decoding the pathological mechanisms and new therapeutic paradigms of cardiovascular diseases</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001836?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1571064525001836?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T14:45:38.731312Z</updated>
+    <updated>2026-01-03T14:00:00Z</updated>
     <summary>Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Wangzheqi Zhang, Lei Duan, Changli Wang, Yan Liao, Rui Zhao, Zhaoyu Li, Haoling Zhang, Zengwu Wang, Jing-jing Zhang</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Review of non-coding RNA regulatory network remodeling in cardiovascular disease pathogenesis and therapeutics, with only tangential relevance to Origins of Life via modern RNA biology.</p>
-<p><strong>Abstract:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Wangzheqi Zhang, Lei Duan, Changli Wang, Yan Liao, Rui Zhao, Zhaoyu Li, Haoling Zhang, Zengwu Wang, Jing-jing Zhang</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A biomedical review on non-coding RNA regulatory network remodeling in cardiovascular disease, with only a tangential connection to Origins of Life via the general relevance of RNA.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Wangzheqi Zhang, Lei Duan, Changli Wang, Yan Liao, Rui Zhao, Zhaoyu Li, Haoling Zhang, Zengwu Wang, Jing-jing Zhang</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001836?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Phys.org: Evolution News ▶ Evidence of upright walking found in 7-million-year-old Sahelanthropus fossils</title>
-    <link href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html"/>
-    <id>https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html</id>
-    <updated>2026-01-02T19:00:05Z</updated>
-    <summary>In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Anthropological reanalysis suggests the 7‑million‑year‑old Sahelanthropus tchadensis shows skeletal features consistent with habitual bipedalism, informing early hominin evolution but offering only indirect relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers powerful evidence that Sahelanthropus tchadensis—a species discovered in the early 2000s—was indeed bipedal by uncovering a feature found only in bipedal hominins.</p>
-<p><a href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Scientific Reports ▶ Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution</title>
-    <link href="https://www.nature.com/articles/s41598-025-34129-6"/>
-    <id>https://www.nature.com/articles/s41598-025-34129-6</id>
-    <updated>2026-01-03T00:00:00Z</updated>
-    <summary>Scientific Reports, Published online: 03 January 2026; doi:10.1038/s41598-025-34129-6 Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive ev</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study infers episodic positive selection acting on the Arabidopsis CONSTANS-like gene COL5, with structural analyses suggesting adaptive evolution via protein stabilization.</p>
-<p><strong>Abstract:</strong> Scientific Reports, Published online: 03 January 2026; doi:10.1038/s41598-025-34129-6 Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&amp;utm_medium=Website_Nature&amp;utm_campaign=Platform+Experimentation+2022&amp;utm_id=PE2022">https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&amp;utm_medium=Website_Nature&amp;utm_campaign=Platform+Experimentation+2022&amp;utm_id=PE2022</a></li>
-<li><a href="https://doi.org/10.32942/X2P62N">https://doi.org/10.32942/X2P62N</a></li>
-<li><a href="https://www.nature.com/reprints">https://www.nature.com/reprints</a></li>
-<li><a href="https://author-welcome.nature.com/41598">https://author-welcome.nature.com/41598</a></li>
-<li><a href="https://www.nature.com/nmiddleeast">https://www.nature.com/nmiddleeast</a></li>
-<li><a href="https://doi.org/10.1038/s41598-025-34129-6">https://doi.org/10.1038/s41598-025-34129-6</a></li>
-<li><a href="https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&amp;flavour=citation">https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&amp;flavour=citation</a></li>
-<li><a href="https://www.nature.com/nature-research/open-access">https://www.nature.com/nature-research/open-access</a></li>
-<li><a href="https://conferences.nature.com">https://conferences.nature.com</a></li>
-<li><a href="https://www.springernature.com/gp/librarians/manage-your-account/librarianportal">https://www.springernature.com/gp/librarians/manage-your-account/librarianportal</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41598-025-34129-6">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Phys.org: Evolution News ▶ Two white-blooded fish, two paths: Icefish and noodlefish independently lose red blood cell function</title>
-    <link href="https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html"/>
-    <id>https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html</id>
-    <updated>2026-01-02T16:45:17Z</updated>
-    <summary>Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cel</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Comparative evolutionary physiology study showing two distantly related fish lineages independently lost hemoglobin/red blood cell function, offering only indirect astrobiology relevance via adaptation to environmental oxygen constraints in aquatic habitats.</p>
-<p><strong>Abstract:</strong> Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cells. Like icefish, its veins are filled with translucent white blood, said H. William Detrich, professor emeritus of marine and environmental sciences, who collaborated with Chinese scientists on a paper about the strange aquatic creatures published in Current Biology.</p>
-<p><a href="https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [5] Sciences et Avenir ▶ Une alternative aux bisphénols de nos tickets de caisse : du bois !</title>
-    <link href="https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10"/>
-    <id>https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10</id>
-    <updated>2026-01-02T19:00:00Z</updated>
-    <summary>Se débarrasser de n’importe quel bisphénol dans nos tickets de caisse ou nos reçus de carte bancaire ? Des chimistes ont imaginé avoir recours à la lignine, un composé du bois, pour une solution &quot;vert</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a green-chemistry approach using wood lignin to replace bisphenols in thermal-paper receipts, with minimal direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Se débarrasser de n’importe quel bisphénol dans nos tickets de caisse ou nos reçus de carte bancaire ? Des chimistes ont imaginé avoir recours à la lignine, un composé du bois, pour une solution &quot;verte&quot; et non-toxique.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1126/sciadv.adw9912">https://doi.org/10.1126/sciadv.adw9912</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3230400/">https://pmc.ncbi.nlm.nih.gov/articles/PMC3230400/</a></li>
-</ul>
-<p><a href="https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [25] Phys.org: Evolution News ▶ Flowering plant origins: Dosage-sensitive genes suggest no whole-genome duplications in ancestral angiosperm</title>
@@ -782,8 +855,78 @@
     <id>https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html</id>
     <updated>2026-01-02T19:00:08Z</updated>
     <summary>Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-geno</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Genomic analysis of dosage-sensitive genes in flowering plants argues against a whole-genome duplication in the ancestral angiosperm lineage, informing plant evolutionary history but only tangentially relevant to origins-of-life questions.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study argues that dosage-sensitive gene patterns imply no ancestral whole-genome duplication at the base of angiosperms, informing plant evolutionary history but offering minimal direct insight into origins-of-life processes.</p>
 <p><strong>Abstract:</strong> Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-genome duplication (WGD), or polyploidization, is widely recognized as a key driver of the origin and trait evolution of both seed plants and angiosperms.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] Scientific Reports ▶ Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution</title>
+    <link href="https://www.nature.com/articles/s41598-025-34129-6"/>
+    <id>https://www.nature.com/articles/s41598-025-34129-6</id>
+    <updated>2026-01-03T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 03 January 2026; doi:10.1038/s41598-025-34129-6 Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive ev</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study analyzes episodic positive selection and structural stabilization in the Arabidopsis CONSTANS-like gene COL5, offering a narrow example of adaptive molecular evolution with little direct relevance to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 03 January 2026; doi:10.1038/s41598-025-34129-6 Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.springernature.com/gp/librarians/manage-your-account/librarianportal">https://www.springernature.com/gp/librarians/manage-your-account/librarianportal</a></li>
+<li><a href="https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner">https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner</a></li>
+<li><a href="https://solutions.springernature.com/">https://solutions.springernature.com/</a></li>
+<li><a href="https://doi.org/10.1038/s41598-025-34129-6">https://doi.org/10.1038/s41598-025-34129-6</a></li>
+<li><a href="https://author-welcome.nature.com/41598">https://author-welcome.nature.com/41598</a></li>
+<li><a href="https://www.nature.com/reprints">https://www.nature.com/reprints</a></li>
+<li><a href="https://www.nature.com/nmiddleeast">https://www.nature.com/nmiddleeast</a></li>
+<li><a href="https://www.nature.com/naturecareers/">https://www.nature.com/naturecareers/</a></li>
+<li><a href="https://authorservices.springernature.com/scientific-editing/">https://authorservices.springernature.com/scientific-editing/</a></li>
+<li><a href="https://www.springernature.com/gp/librarians/tools-services">https://www.springernature.com/gp/librarians/tools-services</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-025-34129-6">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Phys.org: Evolution News ▶ Evidence of upright walking found in 7-million-year-old Sahelanthropus fossils</title>
+    <link href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html"/>
+    <id>https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html</id>
+    <updated>2026-01-02T19:00:05Z</updated>
+    <summary>In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Anthropological analysis suggesting 7-million-year-old Sahelanthropus tchadensis was bipedal, informing early hominin evolution rather than origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers powerful evidence that Sahelanthropus tchadensis—a species discovered in the early 2000s—was indeed bipedal by uncovering a feature found only in bipedal hominins.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Sciences et Avenir ▶ La conquête du temps, de l&#x27;Égypte à l&#x27;ère atomique</title>
+    <link href="https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10"/>
+    <id>https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10</id>
+    <updated>2026-01-03T13:00:00Z</updated>
+    <summary>En 2035, la disparition du temps universel coordonné marquera un basculement historique au profit du temps atomique international : pour la première fois, le temps officiel des humains ne dépendra plu</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Historical overview of human timekeeping culminating in a shift from astronomical/terrestrial UTC to International Atomic Time by 2035, with no direct relevance to origins of life or astrobiology.</p>
+<p><strong>Abstract:</strong> En 2035, la disparition du temps universel coordonné marquera un basculement historique au profit du temps atomique international : pour la première fois, le temps officiel des humains ne dépendra plus du ciel ni de la Terre. Retour sur cinq millénaires d&#x27;efforts pour quantifier l&#x27;écoulement du temps.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Phys.org: Evolution News ▶ Two white-blooded fish, two paths: Icefish and noodlefish independently lose red blood cell function</title>
+    <link href="https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html"/>
+    <id>https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html</id>
+    <updated>2026-01-02T16:45:17Z</updated>
+    <summary>Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cel</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Compares two fish lineages that independently evolved loss of hemoglobin/red blood cell function, offering an evolutionary physiology case study with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cells. Like icefish, its veins are filled with translucent white blood, said H. William Detrich, professor emeritus of marine and environmental sciences, who collaborated with Chinese scientists on a paper about the strange aquatic creatures published in Current Biology.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Sciences et Avenir ▶ Une alternative aux bisphénols de nos tickets de caisse : du bois !</title>
+    <link href="https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10"/>
+    <id>https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10</id>
+    <updated>2026-01-02T19:00:00Z</updated>
+    <summary>Se débarrasser de n’importe quel bisphénol dans nos tickets de caisse ou nos reçus de carte bancaire ? Des chimistes ont imaginé avoir recours à la lignine, un composé du bois, pour une solution &quot;vert</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper discusses using lignin from wood as a non-toxic replacement for bisphenols in thermal paper receipts, which is not relevant to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><strong>Abstract:</strong> Se débarrasser de n’importe quel bisphénol dans nos tickets de caisse ou nos reçus de carte bancaire ? Des chimistes ont imaginé avoir recours à la lignine, un composé du bois, pour une solution &quot;verte&quot; et non-toxique.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3230400/">https://pmc.ncbi.nlm.nih.gov/articles/PMC3230400/</a></li>
+<li><a href="https://doi.org/10.1126/sciadv.adw9912">https://doi.org/10.1126/sciadv.adw9912</a></li>
+</ul>
+<p><a href="https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10">Read source article</a></p>]]></content>
   </entry>
 </feed>
