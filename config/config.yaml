@@ -48,27 +48,24 @@ custom_instructions: |
   - EXCEPTION 1: Always prioritize papers related to the TRAPPIST-1 system.
   - EXCEPTION 2: Prioritize atmospheric observations specifically relevant to life detection (biosignatures) or habitability.
 
-keywords_astro:
-  - astrobiological
-  - astrobiology
-  - astrochemistry
-  - biosignature
-  - exoplanet
-  - habitability
-  - habitable
-  - mars
-  - planetesimal
-  - venus
-
 # Keyword syntax:
 #   word      → exact word match (word boundaries)
 #   word*     → prefix match (e.g., eukaryo* matches eukaryote, eukaryotic)
 #   word(s)   → optional plural (e.g., origin(s) matches origin or origins)
+keywords_astro:
+  - astrobio*
+  - astrochemistry
+  - biosignature
+  - exoplanet
+  - habitab*
+  - mars
+  - planetesimal
+  - venus
+
 keywords_ool:
   - prebiotic
   - origin(s) of life
-  - autocatalysis
-  - autocatalytic
+  - autocataly*
   - chirality
   - protocell
   - self-assembly
