@@ -1,5 +1,60 @@
 [
   {
+    "title": "Chromosome-na\u00efve global networks of initiators of hybrid assembly pathways of endogenous multiprotein complexes.",
+    "summary": "Molecular mechanisms governing initiation steps of the assembly of thousands of endogenous multi-protein complexes (EMCs) remain incompletely understood. Here, multiple lines of observations are reported reflecting the biological functions-aligned initiation sequence of hybrid assembly pathways (HAPs) of EMCs. HAPs postulate the creation of cell type-specific intracellular pools of hetero- and homodimers as the first step of chain reactions of protein-protein interactions (PPIs) of EMCs\u2019 assemblies. The consensus action sequence of HAPs consists of: a) Initiation on genomic DNA templates of the formation of metastable hetero- and homodimers of EMCs\u2019 protein constituents; b) Release of dimers from DNA templates for delivery to the EMCs assembly compartments; c) Assembly of defined EMCs by sequential on demand addition to preformed dimers serving as attractors of EMC-specific monomers\u2019 ensembles. Chromosome-na\u00efve scaffolds of PPIs contributing to creation of intracellular dimer pools constitute genome-wide networks of binding sites for 716 transcription factors (TFs), 534 of which manifest patterns of significantly enriched expression in 1358 brain regions. The initiators\u2019 loci of HAPs appear to operate within nucleosome-depleted islands of transposable elements (TE) \u2013 derived sequences within transcriptionally silent heterochromatin. Performance of PPI DNA template-guided assembly lines of EMCs is illustrated in two concurrent modes of PPI cascades: TF-TF PPI chains and TF-PPI Hub protein chains. Regardless of the number of DNA-bound TFs initiating the multistep PPI sequences at PPI initiators (ranging from one to 716 TFs), both modes of operations reached the equilibrium at the PPI constituents saturation levels of ~245 proteins for TF-TF PPI and of ~351 proteins for TF-PPI Hub Proteins\u2019 assembly chains. Regardless of TF panels bound at HAP initiators, proteins of PPI-guided ensembles are enriched in either defined sets of neuroanatomical structures (TF-TF PPI path) or among structural-functional constituents of synapses (PPI Hub proteins path). Examples of default operation modes of DNA-template-guided assemblies of hetero- and homodimers of Yamanaka factors, neurogenesis constituents, and principal protein components of postsynaptic density of excitatory and inhibitory synaptogenesis are reported. Altogether, this contribution reports the foundational evidence for further experimental and theoretical explorations of retrotransposon-seeded genome-wide codes for initiators of PPI chain reactions of protein dimerization creating pools of attractors to guide and accelerate the EMC assemblies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-z15zr?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-z15zr"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "Proposes a genome-wide, DNA-template\u2013guided model in which transposable-element\u2013derived initiator loci scaffold transcription factor\u2013mediated protein dimer pools that seed hierarchical assembly of endogenous multiprotein complexes, with implications for cellular organization rather than core origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Facile access to N-substituted pyridyl ligands",
+    "summary": "Pyridyl motifs equipped with N-substituents can be powerful ligands for catalysis, yet their broader adoption is limited by the lack of a practical method to prepare these scaffolds. We report a modular, robust, and versatile Buchwald\u2013Hartwig ami-nation protocol that enables the rapid synthesis of bipyridine, phenanthroline, terpyridine, and pybox ligands bearing dialkylamine, diarylamine, and heteroaromatic N-substituents. These conditions streamline ligand library synthesis, and will facilitate systematic studies in catalysis and related applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-3r72l?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Biointerface Implications of Bioorthogonal Click-to-Release Chemistry",
+    "summary": "This manuscript provides a comprehensive overview of bioorthogonal click-to-release (C2R) chemistry with a specific focus on its implications for biointerfaces. It surveys the major C2R reaction platforms, outlines their mechanistic principles at a conceptual level, and critically compares their reactivity\u2013release trade-offs and biological performance. The review highlights applications in antibody-, polymer-, nanoparticle-, and hydrogel-based drug delivery, as well as in fluorogenic imaging, biosensing, and diagnostics. Emerging uses in protein activation, tissue engineering, and adaptive biomaterials are also discussed, alongside current limitations and design challenges. Overall, the manuscript positions C2R chemistry as a versatile tool for dynamic and spatially controlled manipulation of biological systems",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-p03vb?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Facile access to N-substituted pyridyl ligands",
+    "summary": "Pyridyl motifs equipped with N-substituents can be powerful ligands for catalysis, yet their broader adoption is limited by the lack of a practical method to prepare these scaffolds. We report a modular, robust, and versatile Buchwald\u2013Hartwig ami-nation protocol that enables the rapid synthesis of bipyridine, phenanthroline, terpyridine, and pybox ligands bearing dialkylamine, diarylamine, and heteroaromatic N-substituents. These conditions streamline ligand library synthesis, and will facilitate systematic studies in catalysis and related applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-3r72l?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "\u00c0 la fin de l'\u00e2ge du Bronze, un effondrement des grandes puissances de la M\u00e9diterran\u00e9e ?",
+    "summary": "Plusieurs puissances de M\u00e9diterran\u00e9e auraient disparu il y a 3200 ans. Invasions des \"peuples de la mer\" ? Effondrement brutal et syst\u00e9mique ? Concomitance de chocs locaux ? Les arch\u00e9ologues enqu\u00eatent.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-la-fin-de-l-age-du-bronze-un-effondrement-des-grandes-puissances-de-la-mediterranee_190103?xtor=RSS-4",
+    "published_date": "2026-01-03T17:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Atmospheric Mass Flux As A Function Of Ionospheric Emission On Unmagnetized Earth",
     "summary": "<p>We explore ion escape from, and solar ion deposition to, an unmagnetized Earth-like planet. We use RHybrid, an ion-kinetic electron-fluid code to simulate the global plasma interaction of unmagnetized Earth with the solar wind. We vary the global ionospheric emission rate, and quantify the resultant planetary ion escape rates (O+ and H+) and the solar [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html\">Atmospheric Mass Flux As A Function Of Ionospheric Emission On Unmagnetized Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html",

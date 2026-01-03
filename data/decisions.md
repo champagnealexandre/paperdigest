@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Chromosome-naïve global networks of initiators of hybrid ass](https://dx.doi.org/10.26434/chemrxiv-2026-z15zr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [À la fin de l'âge du Bronze, un effondrement des grandes pui](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-la-fin-de-l-age-du-bronze-un-effondrement-des-grandes-puissances-de-la-mediterranee_190103?xtor=RSS-4) |
+| keyword_rejected | - | [Facile access to N-substituted pyridyl ligands](https://dx.doi.org/10.26434/chemrxiv-2026-3r72l?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Biointerface Implications of Bioorthogonal Click-to-Release ](https://dx.doi.org/10.26434/chemrxiv-2026-p03vb?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Facile access to N-substituted pyridyl ligands](https://dx.doi.org/10.26434/chemrxiv-2026-3r72l?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [The Red box as selective G-quadruplex binder that downregula](https://dx.doi.org/10.26434/chemrxiv-2026-2flb0?rft_dat=source%3Ddrss) |
 | ai_scored | 80 | [Exploring Lipid Diversity And Minimalism To Define Membrane ](https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html) |
 | ai_scored | 30 | [Effect of PEG Chain Length on the Water Solubility of Monodi](https://dx.doi.org/10.26434/chemrxiv-2026-q20rq?rft_dat=source%3Ddrss) |
