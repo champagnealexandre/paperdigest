@@ -8,8 +8,8 @@ on:
       skip_scan:
         description: 'Skip scan (deploy only)'
         type: boolean
-      clear_history:
-        description: '⚠️ Clear history'
+      reset_all_data:
+        description: '⚠️ RESET: Delete papers.json, decisions, logs, and feed status'
         type: boolean
 
 permissions:
@@ -28,11 +28,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Clear history
-        if: ${{ inputs.clear_history }}
+      - name: Reset all data (papers, decisions, logs, feed status)
+        if: ${{ inputs.reset_all_data }}
         run: |
           echo "[]" > data/papers.json
           rm -f data/last_decisions.md
+          rm -f data/last_feeds-status.md
+          rm -rf data/logs/
 
       - uses: actions/setup-python@v5
         with:
