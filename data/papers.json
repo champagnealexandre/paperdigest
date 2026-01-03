@@ -1,5 +1,18 @@
 [
   {
+    "title": "NASA JPL Unveils Rover Operations Center For Future Missions",
+    "summary": "<p>NASA\u2019s Jet Propulsion Laboratory in Southern California has inaugurated its Rover Operations Center (ROC), a center of excellence for current and future surface missions to the Moon and Mars. During the launch event, leaders from the commercial space and AI industries toured the facilities, participated in working sessions with JPL mission teams, and learned more [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/nasa-jpl-unveils-rover-operations-center-for-future-missions.html\">NASA JPL Unveils Rover Operations Center For Future Missions</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/nasa-jpl-unveils-rover-operations-center-for-future-missions.html",
+    "published_date": "2026-01-03T15:24:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 25,
+      "summary": "NASA JPL has opened a new Rover Operations Center to support current and future Moon and Mars surface missions, improving mission operations capability but offering little direct insight into origins-of-life science."
+    }
+  },
+  {
     "title": "Computational Discovery of BMS-986205 as a Resistance-Proof Inhibitor for the Nipah Virus Polymerase",
     "summary": "Nipah virus (NiV) represents a catastrophic public health risk to the Indian subcontinent, as evidenced by recurring outbreaks in Kerala (2018, 2021, 2023) where case fatality rates reached as high as 70-90%. There are currently no clinically approved therapeutics or vaccines specifically for NiV. A major hurdle in the drug development pipeline is the high mutation rate of RNA viruses, which allows them to rapidly evolve resistance against site-specific inhibitors. This research project utilizes a multi-layered computational strategy to identify a small-molecule inhibitor capable of targeting the viral polymerase while maintaining efficacy against the predicted high-probability W730A resistance mutation. Through a first-principles assessment of the viral polymerase structure (PDB: 9KNZ), I established a design constraint called Allosteric Independence. This requires any lead candidate to bind in a pocket that is geometrically distinct from the mutation site W730, thereby preventing steric or electronic disruption upon mutation. After screening a library of 50 high-potential candidates using a rigid-receptor docking protocol, I identified BMS-986205 (Linrodostat), an investigational IDO1 inhibitor, as a superior lead. BMS-986205 demonstrated a binding affinity of -7.17 kcal/mol against the wild-type polymerase and a paradoxical increase to -7.29 kcal/mol against the W730A mutant. Geometric analysis confirmed a physical separation of 6.28 \u00c5 from the mutation site. Given its current status in global Phase 3 clinical trials for oncology, BMS-986205 is a primary candidate for rapid drug repurposing to secure India\u2019s population against future outbreaks.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9pxlm?rft_dat=source%3Ddrss",
