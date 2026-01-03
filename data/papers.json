@@ -5,49 +5,11 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all",
     "published_date": "2026-01-03T15:00:00Z",
     "source_feed": "Biosystems",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
-      "score": 5,
-      "summary": "A modeling/theoretical study of how imitation and early teaching affect hominin cultural accumulation or stasis, relevant to \"evolution\" in a behavioral sense but not to astrobiology or origins-of-life chemistry."
-    }
-  },
-  {
-    "title": "The Natural history of the transition between RNA to DNA in the early stages of life",
-    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): S\u00e1vio Torres de Farias, Marco Jos\u00e9</p>",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all",
-    "published_date": "2026-01-03T15:00:00Z",
-    "source_feed": "Biosystems",
-    "hunted_links": [],
-    "analysis_result": {
-      "score": 88,
-      "summary": "Reviews the natural history and proposed mechanisms underlying the early-life transition from RNA-based systems to DNA-based genetics, a core topic in origins-of-life research."
-    }
-  },
-  {
-    "title": "Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life",
-    "summary": "<p>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html\">Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
-    "url": "https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html",
-    "published_date": "2026-01-02T16:39:23Z",
-    "source_feed": "Astrobiology (astrobiology.com)",
-    "hunted_links": [
-      "https://doi.org/10.48550/arXiv.2512.11136",
-      "https://arxiv.org/abs/2512.11136"
-    ],
-    "analysis_result": {
-      "score": 98,
-      "summary": "An origins-of-life homochirality hypothesis proposing that phospholipid bilayer vesicle self-assembly at the water\u2013air interface could bias chirality and propagate homochirality into ribose/nucleic-acid chemistry."
-    }
-  },
-  {
-    "title": "Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)",
-    "summary": "<p>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station&#8217;s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html\">Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
-    "url": "https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html",
-    "published_date": "2026-01-02T16:44:55Z",
-    "source_feed": "Astrobiology (astrobiology.com)",
-    "hunted_links": [],
-    "analysis_result": {
-      "score": 25,
-      "summary": "ISS-based biotechnology work using the ADSEP-4 processor to support microgravity pharmaceutical manufacturing, with only indirect relevance to origins-of-life research."
+      "score": 0,
+      "summary": "This paper examines hominin cultural evolution via imitation and early teaching, which is not relevant to origins-of-life, prebiotic chemistry, or astrobiology topics."
     }
   },
   {
@@ -56,66 +18,11 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all",
     "published_date": "2026-01-03T15:00:00Z",
     "source_feed": "Biosystems",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
-      "score": 85,
-      "summary": "This BioSystems (Jan 2026) paper appears to address the general principles and transitional regularities of planetary abiogenesis, making it a core origins-of-life topic despite limited available metadata."
-    }
-  },
-  {
-    "title": "A moments-based approach for inferring mechanisms of transcriptional regulation using nascent RNA data",
-    "summary": "Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels reflect not only transcriptional activity but also post-transcriptional processes. Recent advances in quantifying nascent RNAs across isogenic cells provide a more direct readout of transcriptional dynamics. Here, we present a moments-based theoretical framework that leverages nascent RNA data to infer transcriptional kinetics. We derive closed-form expressions for the first two time-dependent moments of nascent RNA across three canonical transcription models and demonstrate that nascent RNA exhibits distinct transient overshoots and higher Fano factors compared to mature mRNA. Through analysis of synthetic datasets, we show that these features enable more accurate estimation of transcriptional kinetics and allow reliable model selection, distinguishing single from multi-pathway promoter activation with over 75% accuracy even from small sample sizes. We further validated our model selection method using real experimental transcription datasets in yeast and E. coli cells, with nascent RNA demonstrating superior performance in identifying cross-talk pathway regulation. Our framework thus offers a computationally efficient and mechanistically informative approach for decoding transcriptional dynamics, emphasizing the advantages of time-dependent nascent RNA measurements over mature mRNA in capturing the true kinetics of transcriptional regulation.",
-    "url": "https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1",
-    "published_date": "2026-01-03T00:00:00Z",
-    "source_feed": "biophysics - biorXiv Preprints",
-    "hunted_links": [],
-    "analysis_result": {
-      "score": 25,
-      "summary": "Presents a moments-based framework to infer transcriptional regulation mechanisms from single-cell nascent RNA time-course data, improving kinetic parameter estimation and model selection compared to mature mRNA."
-    }
-  },
-  {
-    "title": "Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars",
-    "summary": "<p>The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously bombarded by cosmic rays, resulting in the formation of cosmogenic nuclides. To accurately date these rocks and understand past geological events, precise estimates [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html\">Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
-    "url": "https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html",
-    "published_date": "2026-01-02T16:34:24Z",
-    "source_feed": "Astrobiology (astrobiology.com)",
-    "hunted_links": [
-      "https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep"
-    ],
-    "analysis_result": {
-      "score": 55,
-      "summary": "Quantifies cosmogenic nuclide production rates in Perseverance\u2019s Jezero crater igneous rocks to improve exposure-age constraints and geological timeline calibration for Mars Sample Return context relevant to assessing past Martian habitability."
-    }
-  },
-  {
-    "title": "Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential",
-    "summary": "<p>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html\">Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
-    "url": "https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html",
-    "published_date": "2026-01-02T16:27:44Z",
-    "source_feed": "Astrobiology (astrobiology.com)",
-    "hunted_links": [
-      "https://doi.org/10.1007/s11214-025-01260-9",
-      "https://link.springer.com/article/10.1007/s11214-025-01260-9"
-    ],
-    "analysis_result": {
-      "score": 65,
-      "summary": "Review of lava tube formation and detection on Earth, the Moon, and Mars, highlighting their potential as protected habitable environments relevant to astrobiology and future exploration."
-    }
-  },
-  {
-    "title": "Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History",
-    "summary": "<p>Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to hypothetical formation models involving both biological and abiotic processes. The most commonly invoked model involves precipitates from supersaturated CaCO3 water under high-energy conditions. However, this model does [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html\">Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
-    "url": "https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html",
-    "published_date": "2026-01-02T16:23:15Z",
-    "source_feed": "Astrobiology (astrobiology.com)",
-    "hunted_links": [
-      "https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass",
-      "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass"
-    ],
-    "analysis_result": {
-      "score": 65,
-      "summary": "Proposes that carbonate ooids can form via abiotic chemically oscillating reactions while preserving authigenic microbial biomass, informing how carbonate textures may act as biosignature traps and potential false-positive/ambiguous biosignatures through Earth history."
+      "score": 90,
+      "summary": "Conceptual/theoretical BioSystems paper examining planetary abiogenesis as a transitional, potentially regular process across planets, with direct relevance to origins-of-life frameworks."
     }
   },
   {
@@ -124,10 +31,52 @@
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1",
     "published_date": "2026-01-03T00:00:00Z",
     "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
-      "score": 45,
-      "summary": "Using expansion microscopy, this study shows nucleolar phase-separated subcompartments reorganize under stress primarily due to reduced nascent rRNA synthesis, shifting condensates toward more solid-like states and altering physicochemical gradients\u2014relevant mainly as a modern-cell example of RNA-dependent self-organization."
+      "score": 40,
+      "summary": "Using expansion microscopy, this study shows that stress-induced nucleolar reorganization is largely a direct biophysical consequence of reduced nascent rRNA synthesis, shifting nucleolar subcompartments toward more solid-like condensates and altering physicochemical gradients rather than primarily reflecting an active rDNA repair signaling response."
+    }
+  },
+  {
+    "title": "Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars",
+    "summary": "<p>The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously bombarded by cosmic rays, resulting in the formation of cosmogenic nuclides. To accurately date these rocks and understand past geological events, precise estimates [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html\">Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html",
+    "published_date": "2026-01-02T16:34:24Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Uses Perseverance Jezero crater floor samples to model cosmogenic nuclide production in Martian igneous rocks, improving exposure/age constraints relevant to Mars Sample Return geological context rather than direct origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "A moments-based approach for inferring mechanisms of transcriptional regulation using nascent RNA data",
+    "summary": "Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels reflect not only transcriptional activity but also post-transcriptional processes. Recent advances in quantifying nascent RNAs across isogenic cells provide a more direct readout of transcriptional dynamics. Here, we present a moments-based theoretical framework that leverages nascent RNA data to infer transcriptional kinetics. We derive closed-form expressions for the first two time-dependent moments of nascent RNA across three canonical transcription models and demonstrate that nascent RNA exhibits distinct transient overshoots and higher Fano factors compared to mature mRNA. Through analysis of synthetic datasets, we show that these features enable more accurate estimation of transcriptional kinetics and allow reliable model selection, distinguishing single from multi-pathway promoter activation with over 75% accuracy even from small sample sizes. We further validated our model selection method using real experimental transcription datasets in yeast and E. coli cells, with nascent RNA demonstrating superior performance in identifying cross-talk pathway regulation. Our framework thus offers a computationally efficient and mechanistically informative approach for decoding transcriptional dynamics, emphasizing the advantages of time-dependent nascent RNA measurements over mature mRNA in capturing the true kinetics of transcriptional regulation.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Presents a moments-based framework using single-cell nascent RNA measurements to infer and select among transcriptional regulation kinetics models, validated on synthetic data and yeast/E. coli datasets."
+    }
+  },
+  {
+    "title": "The Natural history of the transition between RNA to DNA in the early stages of life",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): S\u00e1vio Torres de Farias, Marco Jos\u00e9</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 100,
+      "summary": "This BioSystems paper examines the early-life transition from an RNA-based world to DNA genomes, directly addressing core origins-of-life questions about the emergence and evolution of nucleic-acid heredity."
     }
   },
   {
@@ -136,22 +85,56 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all",
     "published_date": "2026-01-03T15:00:00Z",
     "source_feed": "Biosystems",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
       "score": 45,
-      "summary": "Examines how prime-mass amino-acid residue patterns influence the impact of single-point mutations on protein stability and evolution, offering indirect context for molecular evolution rather than a direct origins-of-life focus."
+      "summary": "Analyzes how prime-mass amino acid residues feature in single-point mutations and influence protein stability/function, offering only indirect relevance to origins-of-life questions via evolutionary protein constraints."
     }
   },
   {
-    "title": "Spatial Sucrose Sink Profiles Shape Phloem Transport Efficiency and Xylem-Phloem Water Exchange",
-    "summary": "<p>Publication date: Available online 24 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</p>",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all",
-    "published_date": "2026-01-03T15:00:00Z",
-    "source_feed": "Journal of Theoretical Biology",
+    "title": "Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life",
+    "summary": "<p>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html\">Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html",
+    "published_date": "2026-01-02T16:39:23Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2512.11136",
+      "https://arxiv.org/abs/2512.11136"
+    ],
+    "analysis_result": {
+      "score": 100,
+      "summary": "Proposes a protocell-first heuristic mechanism for the emergence of life\u2019s homochirality, linking phospholipid bilayer (liposome) self-assembly at the water\u2013air interface to downstream chiral selection of key biomolecular building blocks."
+    }
+  },
+  {
+    "title": "Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History",
+    "summary": "<p>Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to hypothetical formation models involving both biological and abiotic processes. The most commonly invoked model involves precipitates from supersaturated CaCO3 water under high-energy conditions. However, this model does [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html\">Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html",
+    "published_date": "2026-01-02T16:23:15Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass",
+      "https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "This study reframes carbonate ooids as potential authigenic repositories of microbial biomass and biosignatures formed via abiotic chemically oscillating precipitation, informing how ancient (and extraterrestrial) life signals might be preserved or mimicked in carbonate fabrics."
+    }
+  },
+  {
+    "title": "Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)",
+    "summary": "<p>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station&#8217;s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html\">Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html",
+    "published_date": "2026-01-02T16:44:55Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
-      "score": 0,
-      "summary": "A theoretical biology study of how sucrose sink spatial profiles affect plant phloem transport and xylem\u2013phloem water exchange, with no direct relevance to origins-of-life or astrobiology topics."
+      "score": 25,
+      "summary": "ISS-based ADSEP-4 biotechnology operations support microgravity pharmaceutical manufacturing, offering only tangential relevance to origins-of-life research (mainly as general space life-science infrastructure)."
     }
   },
   {
@@ -160,22 +143,53 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all",
     "published_date": "2026-01-03T15:00:00Z",
     "source_feed": "Journal of Computational Science",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
       "score": 5,
-      "summary": "Machine-learning paper on liquid neural networks and 'physical evolution' for continuous time-series prediction, with no clear connection to origins-of-life chemistry, astrobiology, or prebiotic processes beyond the generic term 'evolution'."
+      "summary": "This paper develops a liquid neural network framework using physical evolution concepts for continuous time-series prediction, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology beyond a generic use of the term \u201cevolution.\u201d"
     }
   },
   {
-    "title": "Evidence of upright walking found in 7-million-year-old Sahelanthropus fossils",
-    "summary": "In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal\u2014a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers powerful evidence that Sahelanthropus tchadensis\u2014a species discovered in the early 2000s\u2014was indeed bipedal by uncovering a feature found only in bipedal hominins.",
-    "url": "https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html",
-    "published_date": "2026-01-02T19:00:05Z",
-    "source_feed": "Phys.org: Evolution News",
+    "title": "On implementation of nonlocal terms in models in ecology and evolution. Comment on \u2018Nonlocal models in biology and life sciences: Sources, developments, and applications\u2019 by S. Pal & R. Melnick",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Andrew Yu Morozov</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
-      "score": 25,
-      "summary": "A paleoanthropology study presenting evidence for bipedalism in 7-million-year-old Sahelanthropus, relevant mainly to human evolution rather than origins-of-life or astrobiology."
+      "score": 15,
+      "summary": "A methodological comment on implementing nonlocal terms in ecology/evolution models with minimal direct relevance to origins-of-life research beyond general evolutionary theory."
+    }
+  },
+  {
+    "title": "Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential",
+    "summary": "<p>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html\">Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html",
+    "published_date": "2026-01-02T16:27:44Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://link.springer.com/article/10.1007/s11214-025-01260-9",
+      "https://doi.org/10.1007/s11214-025-01260-9"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Review of lava tube formation, preservation, and detection on Earth, the Moon, and Mars, highlighting their potential as protected habitable environments and high-value targets for future astrobiology exploration rather than directly addressing origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Spatial Sucrose Sink Profiles Shape Phloem Transport Efficiency and Xylem-Phloem Water Exchange",
+    "summary": "<p>Publication date: Available online 24 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 5,
+      "summary": "A theoretical plant-physiology study modeling how spatial sucrose sinks influence phloem transport efficiency and xylem\u2013phloem water exchange, with no direct connection to origins-of-life research."
     }
   },
   {
@@ -184,34 +198,24 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001836?dgcid=rss_sd_all",
     "published_date": "2026-01-03T15:00:00Z",
     "source_feed": "Physics of Life Reviews",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
       "score": 5,
-      "summary": "A biomedical review on non-coding RNA regulatory network remodeling in cardiovascular disease, with only tangential relevance to origins-of-life via the general concept of RNA."
+      "summary": "Review of how non-coding RNA regulatory network remodeling contributes to cardiovascular disease mechanisms and therapeutic strategies, with only tangential relevance to origins-of-life via the general involvement of RNA."
     }
   },
   {
-    "title": "On implementation of nonlocal terms in models in ecology and evolution. Comment on `Nonlocal models in biology and life sciences: Sources, developments, and applications' by S. Pal and R. Melnic",
-    "summary": "<p>Publication date: Available online 26 December 2025</p><p><b>Source:</b> Physics of Life Reviews</p><p>Author(s): Andrew Yu Morozov</p>",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all",
-    "published_date": "2026-01-03T15:00:00Z",
-    "source_feed": "Physics of Life Reviews",
-    "hunted_links": [],
-    "analysis_result": {
-      "score": 30,
-      "summary": "A technical comment on implementing nonlocal terms in ecological and evolutionary models, offering general theoretical context but little direct relevance to origins-of-life or astrobiology topics."
-    }
-  },
-  {
-    "title": "Flowering plant origins: Dosage-sensitive genes suggest no whole-genome duplications in ancestral angiosperm",
-    "summary": "Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-genome duplication (WGD), or polyploidization, is widely recognized as a key driver of the origin and trait evolution of both seed plants and angiosperms.",
-    "url": "https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html",
-    "published_date": "2026-01-02T19:00:08Z",
+    "title": "Evidence of upright walking found in 7-million-year-old Sahelanthropus fossils",
+    "summary": "In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal\u2014a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers powerful evidence that Sahelanthropus tchadensis\u2014a species discovered in the early 2000s\u2014was indeed bipedal by uncovering a feature found only in bipedal hominins.",
+    "url": "https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html",
+    "published_date": "2026-01-02T19:00:05Z",
     "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
       "score": 20,
-      "summary": "Analyzes whether whole-genome duplications occurred in ancestral flowering plants using dosage-sensitive genes, offering general evolutionary context but little direct relevance to origins-of-life or astrobiology."
+      "summary": "Anthropological reanalysis of 7-million-year-old Sahelanthropus fossils argues for bipedal locomotion, informing early hominin evolution but not directly addressing origins-of-life or prebiotic processes."
     }
   },
   {
@@ -220,46 +224,47 @@
     "url": "https://www.nature.com/articles/s41598-025-34129-6",
     "published_date": "2026-01-03T00:00:00Z",
     "source_feed": "Scientific Reports",
+    "stage": "ai_scored",
     "hunted_links": [
-      "https://www.nature.com/npg_/press_room/press_releases.html",
-      "https://www.nature.com/srep.rss",
-      "https://authorservices.springernature.com/scientific-editing/",
-      "https://support.nature.com/support/home",
-      "https://journal-alerts.springernature.com/subscribe?journal_id=41598",
-      "https://www.nature.com/immersive/natureawards/index.html",
-      "https://author-welcome.nature.com/41598",
-      "https://www.nature.com/authors/editorial_policies",
-      "https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&flavour=references",
-      "https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner",
-      "https://www.nature.com/openresearch/about-open-access/information-for-institutions",
-      "https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022",
-      "https://www.nature.com/npg_/company_info/index.html",
-      "https://www.nature.com/subjects",
-      "https://www.nature.com/naturecareers/",
-      "https://www.springernature.com/gp/librarians/tools-services",
-      "https://solutions.springernature.com/",
-      "https://www.nature.com/natafrica",
-      "https://authorservices.springernature.com/language-editing/",
-      "https://www.nature.com/nindia",
-      "https://www.springernature.com/gp/librarians/recommend-to-your-library",
-      "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal",
-      "https://doi.org/10.1101/2025.04.03.646976",
-      "https://masterclasses.nature.com/",
-      "https://www.springernature.com/",
-      "https://www.springernature.com/ccpa",
-      "https://doi.org/10.32942/X2P62N",
-      "https://doi.org/10.1038/s41598-025-34129-6",
-      "https://press.nature.com/",
-      "https://www.nature.com/reprints",
-      "https://www.springernature.com/gp/authors/research-data",
-      "https://www.nature.com/nmiddleeast",
       "https://www.nature.com/nature-research/open-access",
-      "https://conferences.nature.com",
-      "https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&flavour=citation"
+      "https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&flavour=references",
+      "https://www.nature.com/reprints",
+      "https://www.nature.com/authors/editorial_policies",
+      "https://www.nature.com/naturecareers/",
+      "https://www.springernature.com/",
+      "https://author-welcome.nature.com/41598",
+      "https://doi.org/10.1038/s41598-025-34129-6",
+      "https://authorservices.springernature.com/scientific-editing/",
+      "https://www.nature.com/nmiddleeast",
+      "https://authorservices.springernature.com/language-editing/",
+      "https://journal-alerts.springernature.com/subscribe?journal_id=41598",
+      "https://masterclasses.nature.com/",
+      "https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&flavour=citation",
+      "https://www.nature.com/srep.rss",
+      "https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner",
+      "https://doi.org/10.1101/2025.04.03.646976",
+      "https://solutions.springernature.com/",
+      "https://www.nature.com/npg_/press_room/press_releases.html",
+      "https://www.nature.com/natafrica",
+      "https://support.nature.com/support/home",
+      "https://doi.org/10.32942/X2P62N",
+      "https://www.springernature.com/ccpa",
+      "https://www.nature.com/openresearch/about-open-access/information-for-institutions",
+      "https://www.springernature.com/gp/librarians/recommend-to-your-library",
+      "https://www.nature.com/immersive/natureawards/index.html",
+      "https://www.springernature.com/gp/librarians/tools-services",
+      "https://www.nature.com/npg_/company_info/index.html",
+      "https://authorservices.springernature.com/go/sn/?utm_source=For+Authors&utm_medium=Website_Nature&utm_campaign=Platform+Experimentation+2022&utm_id=PE2022",
+      "https://www.nature.com/nindia",
+      "https://press.nature.com/",
+      "https://www.nature.com/subjects",
+      "https://www.springernature.com/gp/authors/research-data",
+      "https://www.springernature.com/gp/librarians/manage-your-account/librarianportal",
+      "https://conferences.nature.com"
     ],
     "analysis_result": {
       "score": 15,
-      "summary": "Reports episodic positive selection and predicted structural stabilization in the Arabidopsis CONSTANS-like gene COL5, indicating adaptive evolution in a plant regulatory protein with minimal direct relevance to origins-of-life questions."
+      "summary": "Analyzes episodic positive selection on the Arabidopsis CONSTANS-like gene COL5 and suggests adaptive structural stabilization, offering limited relevance to origins-of-life beyond general evolutionary mechanisms."
     }
   },
   {
@@ -268,10 +273,2084 @@
     "url": "https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html",
     "published_date": "2026-01-02T16:45:17Z",
     "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
     "hunted_links": [],
     "analysis_result": {
-      "score": 15,
-      "summary": "Comparative evolutionary biology study showing two fish lineages independently lost hemoglobin/red blood cells, offering only indirect context for astrobiology/origins-of-life discussions about the flexibility of complex life physiology."
+      "score": 17,
+      "summary": "Comparative evolutionary physiology study showing two fish lineages (Antarctic icefish and Asian noodlefish) independently lost hemoglobin/red blood cell function, with minimal direct relevance to origins-of-life research."
     }
+  },
+  {
+    "title": "Flowering plant origins: Dosage-sensitive genes suggest no whole-genome duplications in ancestral angiosperm",
+    "summary": "Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-genome duplication (WGD), or polyploidization, is widely recognized as a key driver of the origin and trait evolution of both seed plants and angiosperms.",
+    "url": "https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html",
+    "published_date": "2026-01-02T19:00:08Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Genomic analysis argues ancestral angiosperms likely lacked a whole-genome duplication, refining models of flowering plant evolution but offering minimal direct insight into origin-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Fossilized bones are revealing secrets from a lost world",
+    "summary": "Researchers have uncovered thousands of preserved metabolic molecules inside fossilized bones millions of years old, offering a surprising new window into prehistoric life. The findings reveal animals\u2019 diets, diseases, and even their surrounding climate, including evidence of warmer, wetter environments. One fossil even showed signs of a parasite still known today. This approach could transform how scientists reconstruct ancient ecosystems.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251228074449.htm",
+    "published_date": "2026-01-03T10:20:37Z",
+    "source_feed": "ScienceDaily: Origin of Life News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Conformational changes upon pore blocker removal reveal conductive states of TMEM16A",
+    "summary": "TMEM16A is a Ca2+-activated anion channel that provides direct electrical feedback to the plasma membrane in response to intracellular Ca2+. Its conductive state remains unresolved, leaving questions about gating, Cl- permeation, and modulation by Ca2+, depolarization, and lipids. To investigate the open state, we performed molecular dynamics simulations of TMEM16A bound to the putative open-state blocker 1PBC. After inhibitor removal, the putative, pore-lining helix TM4 developed kinks at two sites: an upper site that opens the pore for Cl- permeation, and a deeper site causing constriction. A conserved hydrophobic network between TM3 and TM4 persisted in most open structures but separated during extreme dilation, allowing lipids to transiently block the pore. Patch-clamp recordings indicated that the intact network promotes activation. Further simulations yielded > 60 Cl- permeation events and a single-channel conductance matching experiments. Additional electrostatic and kinetic modeling indicated that TMEM16As transition from outward-rectification to Ohmic conductance with increasing Ca2+ results from a weak voltage dependence of Ca2+ binding, which act cooperatively to open the pore.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697443v1?rss=1",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nanodisc-Mediated Visualization of Crowding-Induced Condensation and Membrane Reorganization in Two-Dimensional Membrane Environments",
+    "summary": "Although biological membranes exhibit complex and dynamic organization, the mechanistic role of molecular crowding in governing lateral membrane heterogeneity remains poorly characterized experimentally. Here, we provide direct experimental visualization showing that crowding-induced condensation of membrane-anchored macromolecules above the bilayer interface reorganizes membrane dynamics and gives rise to spatially heterogeneous lipid mobility. Both PEGylated lipids and membrane-anchored proteins undergo surface-density-driven condensation on supported lipid bilayers, forming immobile regions that constrain lipid diffusion. Notably, the condensation threshold varies inversely with PEG chain length and surface density, defining a quantitative relationship between molecular size and crowding strength. To directly visualize these crowding-induced structures, we employed nanodelivery using lipid-loaded nanodiscs, revealing a clear correspondence between condensed crowder regions and diffusion barriers reminiscent of the picket-fence model of live-cell membranes. Similar condensation behavior observed for protein-crowded SLBs demonstrates the generality of this crowding-driven mechanism. Together, these findings establish surface-density-driven crowding and condensation of membrane-anchored macromolecules as a key physical mechanism underlying lateral membrane inhomogeneity and position nanodelivery as a general approach for interrogating membrane organization across synthetic and biological systems.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697448v1?rss=1",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "PeptiVerse: A Unified Platform for Therapeutic Peptide Property Prediction",
+    "summary": "Therapeutic peptides combine the advantages of small molecules and antibodies, offering target flexibility and low immunogenicity, yet their successful translation requires careful evaluation of multiple developability properties beyond binding alone. As chemically modified peptides become increasingly common in drug design, no unified platform currently supports systematic property assessment across both canonical sequences and SMILES-based representations. Leveraging the generalizability of large foundational models trained on protein and chemical data, we introduce PeptiVerse, a universal therapeutic peptide property prediction platform. PeptiVerse accepts either amino acid sequences or chemically modified peptide SMILES, delivers state-of-the-art performance across diverse property prediction tasks, and provides both a web interface and open-source implementation for rapid, accessible, and scalable peptide developability analysis. By unifying property prediction across representations, PeptiVerse directly supports early-stage peptide therapeutic development campaigns and property-aware generative design workflows. PeptiVerse Interface: https://huggingface.co/spaces/ChatterjeeLab/PeptiVerse",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.31.697180v1?rss=1",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NAViFluX: a visualization-centric platform for interactive analysis, refinement and design of genome-scale metabolic networks",
+    "summary": "Genome-scale metabolic network (GSMN) models are rigorously curated, cellular-level representations of metabolism that enable flux-based metabolite fate discovery, metabolic engineering, drug target identification and context-specific multi-omics integration. However, the inherent complexity of model architectures, need for programming skills and limited visualization support restrict their broader applicability. Existing tools focus on visualization and analyses separately, necessitating tool-specific format conversions, offer either topology or flux analyses options exclusively, lack intuitive pathway-specific visualizations, database-integrated model refinement, pathway enrichment and large-scale perturbation analyses. Here, we present NAViFluX (metabolic Network Analysis and Visualization of Flux), a visualization-centric, web browser-based environment that unifies GSMN exploration through native pathway/subsystem map generation using various layouts; interactive refinement through addition of reactions from KEGG/BiGG, amending constraints, pathway merging; and modules for flux computations, topology, functional enrichment. Instead of treating visualization as a post hoc step, NAViFluX performs all actions within network views, enabling users to make decisions directly from visually interpretable subnetworks. Using three Escherichia coli case studies, NAViFluX is shown to characterize nutrient-specific metabolic adaptations, improve metabolic gene essentiality predictions, provide mechanistic insight into synthetic lethality and facilitate the design of an optimized carbon-fixing metabolic state, thereby democratizing GSMNs for biologically meaningful applications.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.03.697453v1?rss=1",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "systems biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Superimposed Coding of Count Fingerprints to Binary Fingerprints",
+    "summary": "Many cheminformatics workflows use Tanimoto similarity between binary fingerprints. When count fingerprints may be more appropriate, the benefit is often not large enough to justify replacing existing clustering tools, database search components, and other often highly optimized binary methods. This paper proposes a novel method based on random superimposed coding to convert count fingerprints to binary fingerprints such that the binary Tanimoto similarity between two binary fingerprints better approximates the multiset Tanimoto similarity between their original count form. In particular, the k-recall@k score for -nearest neighbor search is consistently better than hash-based folding or RDKit's count simulation conversion across the four count fingerprint generators in the RDKit, if the number of features is relatively small compared to the binary fingerprint size. For example, with 2048-bit Morgan fingerprints of radius 3, the recall at  for folded, count simulation, and superimposed coding are approximately 0.80, 0.86, and 0.94, respectively.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-j3hbj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reviving Algebraic Structure Approaches for Hidden Subgroup Variants and Novel Quantum Speedups in the NISQ Era",
+    "summary": "The Hidden Subgroup Problem (HSP) unifies several landmark quantum algorithms, yet systematic exploration of its variants and modern applications has slowed. This paper revives HSP-based algorithm design by examining new group structures with direct relevance to post-quantum cryptography, lattice problems, and structured optimization. We classify a family of finite and continuous groups-extensions and semi-direct products of abelian groups, matrix groups, and certain non-abelian groups-according to their Fourier-theoretic properties and the feasibility of efficient quantum Fourier transforms (QFTs). For each class, we determine whether the HSP admits an efficient quantum algorithm, a subexponential-time quantum algorithm, or appears intractable even quantumly. We construct explicit algorithms for eight new problem families, including structured lattice enumeration, automorphism groups of certain graphs, and algebraic attack primitives appearing in code-based and multivariate cryptosystems. For these, we show superpolynomial quantum speedups over all known classical approaches under standard complexity assumptions. We also discuss how approximate and block-encoded QFTs can be combined with variational post-processing to make some of these HSP algorithms more NISQ-friendly. Our results demonstrate that algebraic-structure-based quantum algorithms remain a rich and underexploited direction with both theoretical depth and potential cryptanalytic and optimization applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-sfpc1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Exploring Potential Size-Dependent Effects of Fibonacci-Based Acoustic Binary Strings on Cells as Measured by Cell Death and Cell Aggregation Patterns",
+    "summary": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): Edward Rietman, Jack A. Tuszynski, Geraldine A. Hamilton, Gianni Martire</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002990?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Expert-guided multi-objective optimization: An efficient strategy for parameter estimation of biological systems with limited data",
+    "summary": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): L\u00e9a Da Costa Fernandes, David Bernard, Fran\u00e7ois P\u00e9r\u00e8s, Paul Monsarrat, B\u00e9atrice Cousin, Sylvain Cussat-Blanc</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002965?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Quantum formalism for indeterminate preferences in decision theory",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Herv\u00e9 Zwirn</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002692?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Obesity, body heat loss, and efficiency in movement",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Adrian Bejan</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002837?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Integrating fuzzy DEMATEL and Constructal Law for biofouling dynamics in Marine Growth Prevention Systems",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Veysi Ba\u015fhan</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002734?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemiosmotic vs conformational models of oxidative phosphorylation: Theory and mechanistic insights",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Sungchul Ji</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002473?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Kinematic linkage models of muscle contraction: A mechanical engineering perspective",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Rama Krishna K</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002680?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Energy transformation and nuclear spin catalysis: From magnetic isotope effects in chemical physics to ATP-dependent molecular motors in bioenergetics",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Vitaly K. Koltover</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002679?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From nullomers to abundant motifs: Fractals, CpG Bias, and Chargaff\u2019s rules in genomic sequences",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Iv\u00e1n Marqu\u00e9s-Campillo, Claudia Arbeitman, Diego Luis Gonz\u00e1lez, Oreste Piro</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S030326472500245X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neural plasticity, heterochrony, and the onto-phylogeny of consciousness",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Giuseppe Iurato</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002710?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Evolutionary computation for reconstructing threshold networks of the tryptophan operon in <em>Escherichia coli</em>",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Gonzalo A. Ruz, Thomas Ledger, Matthew Macauley</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002928?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Variability in resource productivity drives community dynamics in intraguild predation systems",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Liyun Hou</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002941?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Natural born intelligence manifesto: Illustrating the dynamic perspective for consciousness",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Yukio-Pegio Gunji</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002874?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Viral thresholds and semiotic resonance: Rethinking the continuum between life and non-life",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Nicola Zengiaro</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002746?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Turing instability on multiplex simplicial epidemic networks with cross-diffusion and behavioral delay",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Yue Liu, Jianwei Shen</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002898?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Optimal information transmission in a non-Markovian auto-regulatory gene expression system",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Zihao Wang, Meiling Chen, Zhenquan Zhang, Xiyan Yang, Tianshou Zhou, Changhong Shi, Jiajun Zhang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002850?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "150\u00a0Years since the birth of Lev Berg: Nomogenesis is more relevant today than ever",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): A.V. Melkikh</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002801?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Immune response precision customized to tumor adaptive kinetics",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Yifan Li, Denisa Vlasceanu, Ruby Kim</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002758?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Endogenous regulation of selection pressure: A minimal game-theoretical model",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Bruno Ga\u0161perov, Branko \u0160ter</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S030326472500276X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "On the origin of biological teleonomy",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Shaojie Deng</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002722?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Anticipation, memory, and top-down causation in living systems",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Gordana Dodig-Crnkovic</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002503?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Time-delayed intermittent oscillations and chaos in a transcriptional and post-transcriptional gene regulatory network for long-term memory",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Lijie Hao, Liao Yu, Zhuoqin Yang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002655?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Computational image analysis from the transverse plane of <em>Drosophila</em> embryos",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Daniela J. de Sousa, Maira A. Cardoso, Helena M.M. Araujo, Francisco J.P. Lopes, Bruno A.N. Traven\u00e7olo</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002667?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bayesian consolidation of retinal micro(nano)plastic hypothesis: From existential confirmation to spatial\u2013phenotypic inference",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Tan Aik Kah</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002953?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reframing neural decussation: A vision-based theory for contralateral control",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Ghassan Ahmed Mubasher Mohamedsalih</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S030326472500293X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Unified Holographic Framework for neural computation and consciousness: From lipid membranes to the Schumann resonance",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Marco Cavagli\u00e0, Jack A. Tuszynski</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002795?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Least ranked human individuals exhibit scale free behavioral responses in hierarchical social systems",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Chetan K. Yadav</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002886?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EMI model: A scale free biophysical framework for human consciousness, cognition and behaviour",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Tommaso Firaux, Jack A. Tuszynski, Marco Cavagli\u00e0</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002849?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Morphospace engineering: Morphological computation in scaffold design",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): C. Galli, M.T. Colangelo, M. Meleti, S. Guizzardi</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002862?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nikolai Koltsov and his work, which anticipated many ideas in modern cellular and molecular biology, genetics, and epigenetics. Toward the 100th anniversary of the concept of template biosynthesis",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> BioSystems, Volume 259</p><p>Author(s): Alexander S. Ermakov</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002564?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Effects along the epithelial-mesenchymal biointerface in direct cell self-organisation: multiscale theoretical analysis",
+    "summary": "<p>Publication date: Available online 1 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): Ivana Pajic-Lijakovic, Milan Milivojevic, Peter V.E. McClintock</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725003004?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A hybrid DNN model using novel integrated interface features for predicting protein-protein complexes binding affinity",
+    "summary": "<p>Publication date: Available online 30 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Lichao Zhang, Zhengyan Bian, Xue Wang, Liang Kong</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002989?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Defining and finding lifelike entities with a lazy filter",
+    "summary": "<p>Publication date: Available online 26 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Mario Martinez-Saito</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002825?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Toward a unified theory of ATP synthesis/hydrolysis: Integrating physics, chemistry, and biology",
+    "summary": "<p>Publication date: Available online 13 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Victor Wray, Carey Witkov, Bjarne Andresen</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002904?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Transformation of the inherent energy in food to ATP and transformations of our knowledge about the mechanism",
+    "summary": "<p>Publication date: Available online 10 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Ole H. Petersen</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002916?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stochastic\u2013Dissipative Least-Action framework for self-organizing biological systems, Part II: Empirical estimation, average action efficiency, and applications to ATP synthase",
+    "summary": "<p>Publication date: Available online 8 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Georgi Yordanov Georgiev</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002771?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Anthropogenesis and the origin of human consciousness",
+    "summary": "<p>Publication date: Available online 8 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Pedro C. Mariju\u00e1n, Abir U. Igamberdiev, Terrence W. Deacon, Giuseppe Iurato</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002783?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Light-induced ATP production and proton translocation, two independent phenomena in <em>Halobacterium salinarum</em> archaea cells",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Gabi Drochioiu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002436?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A hybrid phase-synchronization framework for rotary motors: Discrete dynamics in ATP synthase and continuous dynamics in the bacterial flagellar motor",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Carey Witkov</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002278?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Scale-invariant dissipation underlies enzyme catalytic performance",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Davor Jureti\u0107, Branka Bruvo Ma\u0111ari\u0107</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725001789?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Names, classification, structure and function and their inter-relationship to the Q cycle, photosynthesis and ATP synthesis",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Brian J. Tindall</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002175?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Homeostatic set-points are physical and foundational to organism autonomy",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Keith D. Farnsworth</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002448?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A case for aneural cognition: <em>E. coli</em> and its cognitive repertoire",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Breno B. Just, S\u00e1vio Torres de Farias</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002552?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Value saturation: Architecture of subjective necessity",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Joseph J. Trukovich</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002527?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Timing inaccessibility and the projection bound: Resolving Maxwell\u2019s demon for continuous biological substrates",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Ian Todd</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002424?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Information and the living tree of life: A theory of measurement grounded in biology",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Kevin Hudnall</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002205?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How many and which types of primary cells (domains of life) emerged from LUCA, identified employing different genetic codes",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Massimo Di Giulio</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002461?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neurons and neural networks to model proteins and protein networks",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Sandhya Samarasinghe, Tran Nguyen Minh-Thai, Komal Sorthiya, Don Kulasiri</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002230?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "An energy landscape-based theoretical framework for understanding the self-organization of functions in a living system under the dynamical component interaction",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Ryunosuke Suzuki, Taiji Adachi</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002412?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cooperation in structured populations via coupled reputation and learning: A spatial evolutionary game approach",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Shouwei Li, Bo Peng, Baochen Li, Yan Shi</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002400?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Spectral bounds for Sombor and Sombor energy indices: A graph-theoretic study of neurotransmitter molecular networks",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Nalini Devi K., Srinivasa G.</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002308?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "When Maxwell\u2019s Demon leaves the room",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): P.G. Tello, S. Kauffman</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S030326472500228X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The threat of asymptomatic carriers and the benefits of testing",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Luca Zamboni</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002254?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The limits of falsifiability: Dimensionality, measurement thresholds, and the sub-Landauer domain in biological systems",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Ian Todd</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002187?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Antagonistic coinfection in rock\u2013paper\u2013scissors models during concurrent epidemics",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): J. Menezes, R. Menezes, S. Batista, E. Rangel</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002266?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "SBDyNetVis: a visualization tool of dynamic network for systems biology model",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Kentaro Inoue</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002540?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Maladaptation diseases as disorders of intraorganismal individuation",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): Thomas Lissek</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S030326472500231X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Humans and microbes: A systems theory perspective on coevolution",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): A.V. Melkikh</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002497?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Editorial Board",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> BioSystems, Volume 258</p><p>Author(s): </p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002618?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stochastic\u2013dissipative least-action framework for self-organizing biological systems, Part I: Variational rationale and Lyapunov-type behavior",
+    "summary": "<p>Publication date: Available online 1 December 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Georgi Yordanov Georgiev</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002576?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Overview of the fifth special issue in Code Biology",
+    "summary": "<p>Publication date: Available online 4 November 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Marcello Barbieri</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002539?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Languages of Hereditary Information Unfolding in Development: Linguistic Analogies and Semiotic Aspects",
+    "summary": "<p>Publication date: Available online 29 October 2025</p><p><b>Source:</b> BioSystems</p><p>Author(s): Alexander Spirov</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002394?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Development and implementation of a tool for the analysis and circuit representation of steady-state alternating current circuits",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): Celal Atalar, Selda Bayrak, Huseyin Pehlivan</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002510?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Semi-Supervised Rotation Forest",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): Jos\u00e9 Miguel Ram\u00edrez-Sanz, David Mart\u00ednez-Acha, \u00c1lvar Arnaiz-Gonz\u00e1lez, C\u00e9sar Garc\u00eda-Osorio, Juan J. Rodr\u00edguez</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002546?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "MOOSE ProbML: Parallelized probabilistic machine learning and uncertainty quantification for computational energy applications",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): Somayajulu L.N. Dhulipala, Peter German, Yifeng Che, Zachary M. Prince, Xianjian Xie, Pierre-Cl\u00e9ment A. Simon, Vincent M. Labour\u00e9, Hao Yan</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002534?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Efficient utilization of streaming multiprocessors for the implementation of particle filter on graphics processing unit",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): \u00d6zcan D\u00fclger</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002558?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A novel deep transfer learning model with a bidirectional quasi-recurrent neural network for underwater object classification from aquarium images",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): Tabeer Jan, Lavanya Madhuri Bollipo</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002522?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A local\u2013global Graph Transformer model for fluid dynamics simulations",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): Jiamin Jiang, Jingrun Chen, Zhouwang Yang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002509?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ENOF:Outlier detection algorithm based on Elastic Neighborhood Outlier Factor",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): Zhongping Zhang, Jinyu Dong, Kuo Wang, Zhongman Wang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002431?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Algorithm for segmentation of multimodally distributed time series in accordance with their modes",
+    "summary": "<p>Publication date: February 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 94</p><p>Author(s): V.S. Petrakova, E.D. Karepova</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S187775032500242X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "On qualitative uncertainty in modelling assumptions",
+    "summary": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Derek Groen, Laura M. Harbach</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002595?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Graph anomaly detection via local contrastive learning and attribute reconstruction",
+    "summary": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Xinyu Zhang, Yanfen Li</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002583?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Anastylosis of frescoes \u2212 optimal parallel performance via RINCCAS in a given HPC resource",
+    "summary": "<p>Publication date: Available online 2 January 2026</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Dimo Dimov, Sofiya Ivanovska, Aleksandar Dimov</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S187775032500256X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Computational modeling of incompressible two-phase fluid dynamics via the conservative Allen\u2013Cahn framework on a virtual cube",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Ahmed Zeeshan, Juho Ma, Zhengang Li, Xinpei Wu, Junseok Kim</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002327?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Enhancing urban solar photovoltaic system performance evaluation through a disc spherical fuzzy aggregation framework",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Shahzaib Ashraf, Muhammad Shakir Chohan, Wania Iqbal, Vladimir Simic, Dragan Pamucar, Nebojsa Bacanin</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002352?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Exploring network-level indicators for project analysis \u2014 A comparison of real and synthetic projects",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Zsolt T. Koszty\u00e1n</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002224?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Two improved physics-informed Neural Networks for solving Burgers equation",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Zeyue Zhang, Chunlei Ruan, Zhijun Liu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002339?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Thought Management System for long-horizon, goal-driven LLM agents",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Andrii Bidochko, Yaroslav Vyklyuk</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002170?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Safe merging aircraft flows in multi-route schemes",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Arseniy A. Spiridonov</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002182?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Local method of fundamental solutions formulations for polyharmonic BVPs",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Andreas Karageorghis, C.S. Chen, Malgorzata A. Jankowska</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002194?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ELM-UNet: An efficient and lightweight Vision Mamba UNet for skin lesion segmentation",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Songling Xia, Hongwei Deng, Feng Chen</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002200?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fuzzy data imputation with DIMP and FGAIN",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Maciej Romaniuk, Przemys\u0142aw Grzegorzewski</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002157?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Computational model of ammonia synthesis with catalyst pellets: Linking the structure and performance",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Michael Abeiku Daniels, Anna Geohagan, Agnieszka Truszkowska</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002145?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A nonlinear finite volume scheme preserving positivity for the numerical simulation of groundwater contaminant transport in porous media",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Sadiq Hamidi, Mustapha El Ossmani, Abdelaziz Taakili</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002169?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Parallel sparsity patterns for factored incomplete inverse matrices",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Christos K. Filelis-Papadopoulos, George A. Gravvanis</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002133?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A generalized colouring method for a parallelizable integer linear programming approach to polyomino tiling",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Marcus R. Garvie, John Burkardt</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S187775032500211X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Efficient cellular automata-Lattice Boltzmann method for modeling solidification microstructure",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): Jingjing Wang, Xiaoyu Liu, Ruina Mao</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002121?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Editorial Board",
+    "summary": "<p>Publication date: January 2026</p><p><b>Source:</b> Journal of Computational Science, Volume 93</p><p>Author(s): </p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S187775032500239X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Temporal carbon neutral Chinese knowledge graph completion method based on latent semantic mining",
+    "summary": "<p>Publication date: Available online 31 December 2025</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Xiping Zhu, Lijuan Xiao, Ang Gao, Lu Guo, Huan Yang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002212?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Novel Exact Solution of Extended Single Particle Model for Lithium-ion Cell and Its Application to High Capacity NMC Battery",
+    "summary": "<p>Publication date: Available online 31 December 2025</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Arif Ullah Khan, Mahvish Samar, Arif Hussain, Mei Li, Wenting Xu, Zhiyu Mao, Zhongwei Chen</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002571?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Corrigendum to \u201cTowards universal MPI bindings for enhanced new language support\u201d [J. Comput. Sci. 87 (2025), 102557]",
+    "summary": "<p>Publication date: Available online 22 October 2025</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): C\u00e9sar Pi\u00f1eiro, \u00c1lvaro V\u00e1zquez, Juan C. Pichel</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325001516?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Artificial intelligence and high-performance computing for advanced simulations",
+    "summary": "<p>Publication date: Available online 8 October 2025</p><p><b>Source:</b> Journal of Computational Science</p><p>Author(s): Maciej Paszy\u0144ski, David Pardo, Barbara Strug</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877750325002078?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Computational Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Parameter-wise predictions and sensitivity analysis for random walk models in the life sciences",
+    "summary": "<p>Publication date: 21 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 621</p><p>Author(s): Yihan Liu, David J. Warne, Matthew J. Simpson</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003315?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Timing the initiation of sex: Delay mechanisms alter fitness outcomes in a rotifer population model",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Bethany L.F. Stevens, Silke F. van Daalen, Tirzah J. Blomquist, Kristin E. Gribble, Michael G. Neubert</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003170?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dynamics of integrated multi-trophic aquaculture (IMTA): A modeling approach incorporating zooplankton and scavenger",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Honghui Gao, Ming Chen, Yuwei Liu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003352?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A discrete-time continuous-space neural model for shell patterns in mollusks",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Rahnuma Islam, Bard Ermentrout, Sabrina Streipert</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003182?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stability-driven assembly theory",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Dan Adler</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003364?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bistability in the regulatory system of the intrinsic apoptotic pathway arising from the Bax and Bcl-xL interactions",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Ruslan M. Timchenko, Mikhail A. Panteleev</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003285?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Semi-hydraulic actuation in spider legs: The transport of the hemolymph does not hamper muscle driven leg joint flexion",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Reinhard Blickhan, Tobias Siebert, Tom Weihmann</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003340?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Emergent stable tissue shapes from the regulatory feedback between morphogens and cell growth",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Bivash Kaity, Daniel Lobo</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003388?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sucrose transport to the root and shoot in the seedling phloem",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Jacob M. Jepson, Leah R. Band</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325002759?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A model of predation and survival in a system of three interacting species",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): Anca R\u01cedulescu, Richard Halpern, Drew Kozlowski</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003145?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Branch length statistics in phylogenetic trees under constant-rate birth-death dynamics",
+    "summary": "<p>Publication date: Available online 31 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Tobias Dieselhorst, Johannes Berg</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S002251932500339X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Habitat fragmentation promotes spatial scale separation under resource competition",
+    "summary": "<p>Publication date: Available online 30 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): James Austin Orgeron, Malbor Asllani</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003510?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Deciphering the modulatory role of direct pedunculopontine nucleus-cortical circuitry in absence seizure dynamics: A computational study",
+    "summary": "<p>Publication date: Available online 29 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Bing Hu, Jiaqin Peng, Wencan Li, Yuhan Xiao, Ningmin Zhu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003509?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Can physical activity augment drug efficacy in PMO treatments - Insights from in-silico simulations of PTH and denosumab treatments",
+    "summary": "<p>Publication date: Available online 21 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Roc\u00edo Ruiz-Lozano, Jos\u00e9 Luis Calvo-Gallego, Peter Pivonka, Javier Mart\u00ednez-Reina</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003376?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Modelling the spread and management of <em>Varroa Destructor</em> in naive European Honeybee populations",
+    "summary": "<p>Publication date: Available online 3 December 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Isobel R. Abell, Thao P. Le, Jennifer A. Flegg, Christopher M. Baker</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003133?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A mixed-effects cosinor modelling framework for circadian gene expression",
+    "summary": "<p>Publication date: Available online 2 November 2025</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Michael T. Gorczyca</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325002851?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Non-remnant triglyceride-rich lipoproteins due to lipoprotein lipase deficiency increase atherosclerosis in mice",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68193-3\">doi:10.1038/s41467-025-68193-3</a></p>Elevated triglyceride-rich lipoproteins (TRLs), long linked to cardiovascular disease, were thought to be harmful mainly in their remnant form. Here, the authors show that intact TRLs, not just their remnants, promote atherosclerosis and vascular inflammation in a mouse model.",
+    "url": "https://www.nature.com/articles/s41467-025-68193-3",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A chromosome region linked to neurodevelopmental disorders influences locomotor behavior through sex-specific neural circuits",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68047-y\">doi:10.1038/s41467-025-68047-y</a></p>This study demonstrates that 16p11.2 hemideletion, a genetic deletion linked to neurodevelopmental disorders, affects male and female mice differently, altering specific striatal neuronal circuits and driving sex-specific behavioral changes.",
+    "url": "https://www.nature.com/articles/s41467-025-68047-y",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Distinct antidepressant therapies act on a common brain network",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67945-5\">doi:10.1038/s41467-025-67945-5</a></p>This study demonstrated that distinct antidepressant therapies act on a common brain network. It explains previous heterogeneous findings across therapies and may be adopted to guide precision repetitive transcranial magnetic stimulation.",
+    "url": "https://www.nature.com/articles/s41467-025-67945-5",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Detection and identification of vacancy defects in antimony selenide",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68153-x\">doi:10.1038/s41467-025-68153-x</a></p>Antimony selenide is a promising photovoltaic material, but the presence of point defects degrades performance. Here, the authors use positron annihilation spectroscopy combined with theory to detect and identify vacancy-type point defects.",
+    "url": "https://www.nature.com/articles/s41467-025-68153-x",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A nose-to-brain axis for spoiled food odor-triggered defensive responses in male mice",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68057-w\">doi:10.1038/s41467-025-68057-w</a></p>Rancid odors trigger retching and aversion. Here, authors show a nose-to-brain axis whereby such odors activate olfactory-piriform circuits that diverge to mediodorsal thalamic nucleus and nucleus accumbens to mediate retching-like behavior and aversion.",
+    "url": "https://www.nature.com/articles/s41467-025-68057-w",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From the lens of early-career researchers: bridging science, technology, arts, and humanities to tackle antimicrobial resistance",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67863-6\">doi:10.1038/s41467-025-67863-6</a></p>Antimicrobial resistance (AMR) is a global challenge. In this Perspective, authors highlight the unique role of early-career researchers (ECRs) in the transdisciplinary progress in AMR research.",
+    "url": "https://www.nature.com/articles/s41467-025-67863-6",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The SoftFoot Pro: an anthropomorphic and adaptive soft articulated prosthetic foot",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68194-2\">doi:10.1038/s41467-025-68194-2</a></p>Irregular terrains challenge users of classic prosthetic feet. Here, the authors introduce an adaptive prosthetic foot that equalizes ground contact pressure and reduces compensatory strategies and gait asymmetries compared with a traditional carbon fibre foot.",
+    "url": "https://www.nature.com/articles/s41467-025-68194-2",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Peptide-functionalized membrane camouflage for endogenous H<sub>2</sub>S-induced photothermal immunotherapy of orthotopic colorectal cancer",
+    "summary": "<p>Nature Communications, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-65876-9\">doi:10.1038/s41467-025-65876-9</a></p>Colorectal cancer has high recurrence and metastasis rates making treatment difficult. Here, the authors report on peptide modified cell membrane coated cobalt based metal-organic frameworks which degrades and forms, in situ, photothermal materials with H2S, allowing for immune-photothermal therapy.",
+    "url": "https://www.nature.com/articles/s41467-025-65876-9",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From modelling PPST to modelling bodily self-consciousness: Comment on \u201cComputational models of peripersonal space representation\u201d by T. Bertoni, J.P. Noel & A. Serino",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Renato Paredes, Peggy Seri\u00e8s, Olaf Blanke</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001885?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From Hierarchical Decoding to State Dependent Computation: \u201cComment on Neural decoding in brain computer interfaces Hierarchical representations, complexity measures, and dynamical perspectives\u201d by Li et al.",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Han Zhang, Jincan Che</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001903?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why the memory palace is mightier than the memory pharmacy",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Boris N. Konrad, Martin Dresler</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001873?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From adaptive networks to expanding state spaces: Comment on \u201cBeyond networks: Toward adaptive models of biological complexity\u201d by Pessoa",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Jincan Che</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001861?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From brain dynamics to the dynamic self - standing in the spatiotemporal architecture of the psyche: Comment on \u201cBrain dynamics shape cognition\u2013Spatiotemporal Neuroscience\u201d by Northoff, Wolman & Zhang",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Andrea Scalabrini</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S157106452500185X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Decoding higher-order tumor-microenvironment interactions via an innovative computational framework: Comment on \u201cHigh-order interaction modeling of tumor-microenvironment crosstalk for tumor growth\u201d by Che et al",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Yuan Zhou, Qing Lu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001770?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Informational inbreeding: a useful concept to add to extant evolutionary theories: Comment on \u201cHomo informatio\u201d by Michael J. Walker",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): H\u00e9ctor M. Manrique, Ana Magdalena Hurtado</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001824?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Navigating Innovation, Ethics, and Motivation in Cognitive Enhancement: Comment on \u201cTo enhance or not to enhance: A debate about cognitive enhancement from a psychological and neuroscientific perspective\u201d by Sandra Grinschgl, Manuel Ninaus, Guilherme Wood, Aljoscha C. Neubauer",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Anja Pahor</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001678?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bodily rhythms and the Brain: Critical links to cognition in health and disease. Comment on \u2018A body-brain (dis)equilibrium regulating transitions from health to pathology\u2019 by Antonio Criscuolo, Anna Czepiel, Michael Schwartze and Sonja A. Kotz",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Marzia De Lucia, Andria Pelentritou, Alessandro Tavano</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001782?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neural cellular automata: Applications to biology and beyond classical AI",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Benedikt Hartl, Michael Levin, L\u00e9o Pio-Lopez</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001757?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Beyond behavioral studies: Exploring the multi-omics impact of music on human health.: Comment on Can arts-based interventions improve health? A conceptual and methodological critique by Martin Skov and Marcos Nadal",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Antonio Salas, Laura Navarro, Federico Martin\u00f3n-Torres, Alberto G\u00f3mez-Carballa</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001459?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The unbearable hardness of inferring being: Comment on \u201cpreliminaries to artificial consciousness\u201d by Evers et al.",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Robert Chis-Ciure</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001800?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The spatiotemporal structure of neural activities shapes cognitive functions: Comment on \u201cbrain dynamics shape cognition\u2013spatiotemporal neuroscience\u201d by Georg Northoff, Angelika Wolman, and Jianfeng Zhang",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Yuzhu Tang, Mengxiao Sun, Yifeng Wang, Xiujuan Jing</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001794?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Relating computational models and experiments in peripersonal space: Comment on \u201ccomputational models of peripersonal space representation\u201d, by Bertoni et al.",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Raffaele Tucciarelli, Matthew R. Longo</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001812?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Beyond networks: Toward adaptive models of biological complexity",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Luiz Pessoa</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001666?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mind-body transactions as informational operators: Comment on \u201cInformational embodiment: Computational role of information structure in codes and robots\u201d by A. Pitti, M. Austin, K. Nakajima, and Y. Kuniyoshi",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Tom Froese, Moritz Kriegleder</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001769?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A promising new foundation for conflict and control: Bridging the gap to verification. Comment on \u201cActive inference and cognitive control: Balancing deliberation and habits through precision optimization\u201d by Riccardo Proietti, Thomas Parr, Alessia Tessari, Karl Friston, & Giovanni Pezzulo",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Antonino Visalli</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S157106452500168X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cooperation versus social welfare",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): The Anh Han, Zhao Song, Theodor Cimpeanu, Manh Hong Duong, Marcus Krellner, Valerio Capraro, Matjaz Perc</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001654?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Biological models with nonlocal terms: Future scopes of research: Comment on \u201cNonlocal models in biology and life sciences: Sources, developments, and applications\u201d by S. Pal & R. Melnick",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Malay Banerjee, Kalyan Manna, Indrajyoti Gaine</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001642?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "On the minimal theory of consciousness implicit in active inference",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Christopher J. Whyte, Andrew W. Corcoran, Jonathan Robinson, Ryan Smith, Rosalyn J. Moran, Thomas Parr, Karl J. Friston, Anil K. Seth, Jakob Hohwy</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001617?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The limits of information: comment on \u201cinformational embodiment: computational role of information structure in codes and robots\u201d by Alexandre Pitti, Max Austin, Kohei Nakajima, Yasuo Kuniyoshi",
+    "summary": "<p>Publication date: March 2026</p><p><b>Source:</b> Physics of Life Reviews, Volume 56</p><p>Author(s): Anna Loi, Vicente Raja</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001630?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Toward embodied and action-oriented studies and models of peripersonal space: Comment on \u201cComputational models of peripersonal space representations\u201d by Bertoni et al.",
+    "summary": "<p>Publication date: Available online 30 December 2025</p><p><b>Source:</b> Physics of Life Reviews</p><p>Author(s): Matej Hoffmann, Zdenek Straka</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001848?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Time in peripersonal space. Comment on \"computational models of peripersonal space representation\" by Tommaso Bertoni, Ishan-Singh J. Chauhan, Jean-Paul Noel, Andrea Serino",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Fr\u00e9d\u00e9rique de Vignemont</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001599?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The body is not there to compute: Comment on \u201cInformational embodiment: Computational role of information structure in codes and robots\u201d by Pitti et al.",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Matej Hoffmann</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001629?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Making the private public: external grounding in inner States",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Friedemann Pulverm\u00fcller, Michael Pauen</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001563?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The dynamic duo: Calcium signaling and ultrasound modulation of cellular viscoelasticity: Comment on \u201cViscoelastic mechanics of living cells\u201d by Zhou et al.",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Fenfang Li</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001605?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Getting surprise under control: Via active inference or meta-reinforcement learning?",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Massimo Silvetti, Eliana Vassena</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001587?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Simple rules for simple models",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Arnaud Mess\u00e9, Claus C. Hilgetag, Marc-Thorsten H\u00fctt</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001575?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From static catalogs to dynamic regulation: Comment on \u201cUnlocking the brain's code: The crucial role of post-translational modifications in neurodevelopment and neurological function\u201d by Peng Ye et al.",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Sung Hee Baek, Keun Il Kim</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S157106452500154X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "But does humanity have a choice?: Comment on \u201cTo Enhance or not to Enhance\u201d by Grinschgl S., Ninaus, M., Wood. G. & Neubauer, AC (2025)",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Michael Laakasuo, Paolo Buttazzoni, Marianna Drosinou</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001538?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "What challenges remain after 25 years of the enhancement debate?: Comment on \"To enhance or not to enhance: A debate about cognitive enhancement from a psychological and neuroscientific perspective\" by Sandra Grinschgl, Manuel Ninaus, Guilherme Wood and Aljoscha C. Neubauer",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Stephan Schleim, Boris B. Quednow</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001551?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Protein post-translational modifications and tumor immunity: A pan-cancer perspective",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Haoling Zhang, Qilu Yan, Shuya Jiang, Dan Hu, Ping Lu, Shaowei Li, Doblin Sandai, Haolong Zhang, Wangzheqi Zhang, Chenglong Zhu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001526?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mechanomedicine in anastomosis: Bridging biomechanics and clinical outcomes for improved surgical healing",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Nianyuan Shi, Yufei Ma, Ning Liu, Yi Lv, Feng Xu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001514?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "On not forgetting: Comment on \u201cThoughts and thinkers: On the complementarity between objects and processes\u201d <em>by</em> Fields and Levin",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Pamela Lyon</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001496?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "\u201cHomo informatio\u201d",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Michael J. Walker</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001502?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Beyond stimulus-centric, dualist and modular theories of cognitive control: fact or fiction? Comment on \u201cActive inference and cognitive control: Balancing deliberation and habits through precision optimization\u201d by Riccardo Proietti, Thomas Parr, Alessia Tessari, Karl Friston, & Giovanni Pezzulo",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Francisco Barcel\u00f3</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001472?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cognitive control under active inference: from habits to metacognition. Comment on \"Active inference and cognitive control: Balancing deliberation and habits through precision optimization\u201d by Riccardo Proietti, Thomas Parr, Allessia Tessari, Karl Friston & Giovanni Pezzulo",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Anna-Lena Eckert</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001484?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sensing the unsensed: Ionizing radiation at the boundaries of human perception",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Marco Durante</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001460?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Modeling network connectivity may reveal further insights on how transcranial alternating current stimulation modulates brain activity: Comment on \u201cEntrainment by transcranial alternating current stimulation: Insights from models of cortical oscillations and dynamical systems theory\u201d by M. Madadi Asl and A. Valizadeh",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Heiko I. Stecher, Daniel Str\u00fcber, Christoph S. Herrmann</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001435?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Feeling the flow of time: Unraveling the time-dependent mechanics of living cells",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Yulong Han, Xin Chen, Xuechao Sun, Tian Jian Lu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001423?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Balancing objects and processes: advocating pluralism in biology: Comment on \u201cThoughts and thinkers: On the complementarity between objects and processes\" by Chris Fields and Michael Levin",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Soumya Banerjee</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001447?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Integrating large language models and active inference to understand eye movements in reading and dyslexia",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Francesco Donnarumma, Mirco Frosolone, Giovanni Pezzulo</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001277?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From dark to bright: Comment on \u201cDark brain energy: Toward an integrative model of spontaneous slow oscillations\u201d by Gong and Zuo",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Li-Xia Yuan, Yu-Feng Zang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001368?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Surfing brain waves without sinking: A commentary on \u201cEntrainment by transcranial alternating current stimulation: Insight from models of cortical oscillations and dynamical systems theory\u201d by M. Madadi Asl and A. Valizadeh",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Jeremie Lefebvre, Aref Pariz, Jean-Philippe Thivierge, Axel Hutt</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001290?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The viscoelastic living matter from biomolecular condensates to tissues: Comment on \u201cviscoelastic mechanics of living cells\u201d by Zhou et al",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Dongshi Guan</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001289?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Revealing hierarchical organization via frequency oscillations: Comment on: \u201cDark brain energy: Toward an integrative model of spontaneous slow oscillations\u201d by Gong & Zuo",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Hao Ming Dong, Li Hu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S157106452500137X?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fundamental constraints shaping intrinsic brain activity: Comment on \u201cDark brain energy: Toward an integrative model of spontaneous slow oscillations\u201d by Zhu-Qing Gong and Xi-Nian Zuo",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): James C. Pang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001253?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Brain networkness: from dynamics to function and dysfunction reply to comments on: \u201cDoes the brain behave like a (complex) network? I<em>. Dynamics</em>\u201d",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): D. Papo, J.M. Buld\u00fa</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001204?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neural decoding reliability: Breakthroughs and potential of brain\u2013computer interfaces technologies in the treatment of neurological diseases",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): Jiaqi Li, Wangzheqi Zhang, Yan Liao, Yanhao Qiu, Yalin Zhu, Xiaomin Zhang, Changli Wang</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001265?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Editorial Board",
+    "summary": "<p>Publication date: December 2025</p><p><b>Source:</b> Physics of Life Reviews, Volume 55</p><p>Author(s): </p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064525001721?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Action replication ultimately supports all cultural transmission",
+    "summary": "<p>Publication date: Available online 20 November 2019</p><p><b>Source:</b> Physics of Life Reviews</p><p>Author(s): Monica Tamariz</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064519301605?dgcid=rss_sd_all",
+    "published_date": "2026-01-03T15:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Effectiveness of dilution ventilation in mitigating occupational exposure to volatile organic compounds (VOCs) at the breathing zone of nail technicians: a simulation study",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33777-y\">doi:10.1038/s41598-025-33777-y</a></p>Effectiveness of dilution ventilation in mitigating occupational exposure to volatile organic compounds (VOCs) at the breathing zone of nail technicians: a simulation study",
+    "url": "https://www.nature.com/articles/s41598-025-33777-y",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NDRG4 overexpression is associated with reduced apoptosis after intracerebral hemorrhage via the PI3K/Akt/GSK3\u03b2 signaling pathway",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33247-5\">doi:10.1038/s41598-025-33247-5</a></p>NDRG4 overexpression is associated with reduced apoptosis after intracerebral hemorrhage via the PI3K/Akt/GSK3\u03b2 signaling pathway",
+    "url": "https://www.nature.com/articles/s41598-025-33247-5",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Application and accuracy analysis of different facial regions based on deep learning in the diagnosis of hypertension",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30936-z\">doi:10.1038/s41598-025-30936-z</a></p>Application and accuracy analysis of different facial regions based on deep learning in the diagnosis of hypertension",
+    "url": "https://www.nature.com/articles/s41598-025-30936-z",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "LowLoad-qPCR as a novel clinical strategy for detecting low-load bacteremia",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34230-w\">doi:10.1038/s41598-025-34230-w</a></p>LowLoad-qPCR as a novel clinical strategy for detecting low-load bacteremia",
+    "url": "https://www.nature.com/articles/s41598-025-34230-w",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Gallbladder disease diagnosis from ultrasound using squeeze-and-excitation capsule network with convolutional bidirectional long short-term memory",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32978-9\">doi:10.1038/s41598-025-32978-9</a></p>Gallbladder disease diagnosis from ultrasound using squeeze-and-excitation capsule network with convolutional bidirectional long short-term memory",
+    "url": "https://www.nature.com/articles/s41598-025-32978-9",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Green synthesis of CoAl<sub>2</sub>O<sub>4</sub>@ZnO nanocomposite using A<i>amygdalus scoparia Spach</i> gum and its photocatalytic activity for tetracycline degradation",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33926-3\">doi:10.1038/s41598-025-33926-3</a></p>Green synthesis of CoAl<sub>2</sub>O<sub>4</sub>@ZnO nanocomposite using A<i>amygdalus scoparia Spach</i> gum and its photocatalytic activity for tetracycline degradation",
+    "url": "https://www.nature.com/articles/s41598-025-33926-3",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Plasmonic imaging of living pancreatic beta-cell networks",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34094-0\">doi:10.1038/s41598-025-34094-0</a></p>Plasmonic imaging of living pancreatic beta-cell networks",
+    "url": "https://www.nature.com/articles/s41598-025-34094-0",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Galactic globular cluster loses stars through tidal stripping, observations reveal",
+    "summary": "Using the Anglo-Australian Telescope (AAT), astronomers have observed a nearby galactic globular cluster known as NGC 6569. Results of the observational campaign, published December 22 on the arXiv preprint server, indicate that this galaxy is actively losing stars through tidal stripping.",
+    "url": "https://phys.org/news/2026-01-galactic-globular-cluster-stars-tidal.html",
+    "published_date": "2026-01-03T14:30:03Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Astronomers measure both mass and distance of a rogue planet for the first time",
+    "summary": "While most planets that we are familiar with stick relatively close to their host star in a predictable orbit, some planets seem to have been knocked out of their orbits, floating through space free of any particular gravitational attachments. Astronomers refer to these lonely planets as \"free-floating\" or \"rogue\" planets.",
+    "url": "https://phys.org/news/2026-01-astronomers-mass-distance-rogue-planet.html",
+    "published_date": "2026-01-02T17:20:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chess960's random setups still favor white, new study reveals",
+    "summary": "Chess is a relatively simple game to learn but a very difficult one to master. Because the starting positions of the pieces are fixed, top players have relied on memorizing the \"best\" opening moves, which can sometimes result in boring, predictable games. To encourage more creative play and move away from pure memory, former world champion Bobby Fischer proposed Chess960 in the 1990s.",
+    "url": "https://phys.org/news/2026-01-chess960-random-setups-favor-white.html",
+    "published_date": "2026-01-02T15:37:38Z",
+    "source_feed": "phys.org - Mathematics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Peptide-functionalized membrane camouflage for endogenous H2S-induced photothermal immunotherapy of orthotopic colorectal cancer",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-65876-9",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A chromosome region linked to neurodevelopmental disorders influences locomotor behavior through sex-specific neural circuits",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68047-y",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A CD8\u03b1\u03b2 co-receptor modified to contain an intracellular CD28 signaling tail enhances TCR-engineered T cell function independent of solid-tumor-associated co-stimulatory ligands",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67446-5",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Non-remnant triglyceride-rich lipoproteins due to lipoprotein lipase deficiency increase atherosclerosis in mice",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68193-3",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A nose-to-brain axis for spoiled food odor-triggered defensive responses in male mice",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68057-w",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From the lens of early-career researchers: bridging science, technology, arts, and humanities to tackle antimicrobial resistance",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67863-6",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Oxidative stress and GPX2 control pancreatic vs. non-pancreatic cell fate in human endoderm",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68145-x",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Distinct antidepressant therapies act on a common brain network",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67945-5",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "La conqu\u00eate du temps, de l'\u00c9gypte \u00e0 l'\u00e8re atomique",
+    "summary": "En 2035, la disparition du temps universel coordonn\u00e9 marquera un basculement historique au profit du temps atomique international : pour la premi\u00e8re fois, le temps officiel des humains ne d\u00e9pendra plus du ciel ni de la Terre. Retour sur cinq mill\u00e9naires d'efforts pour quantifier l'\u00e9coulement du temps.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/la-conquete-du-temps-de-l-egypte-a-l-ere-atomique_190064?xtor=RSS-10",
+    "published_date": "2026-01-03T13:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "La fronti\u00e8re mouvante entre neurologie et psychiatrie",
+    "summary": "Depuis la fin du 19 si\u00e8cle, ces deux disciplines traitant des maladies du cerveau semblaient irr\u00e9conciliables. L'arriv\u00e9e des neurosciences fait aujourd'hui vaciller cet h\u00e9ritage. Une vieille histoire qui trouve un nouveau commencement.",
+    "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/la-frontiere-mouvante-entre-neurologie-et-psychiatrie_190074?xtor=RSS-16",
+    "published_date": "2026-01-03T09:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "\"La science moderne n'est pas n\u00e9e avec Galil\u00e9e ou Newton\"",
+    "summary": "L\u2019historien Pascal Duris r\u00e9fute la notion de r\u00e9volution scientifique aux 16 et 17e si\u00e8cles. Plut\u00f4t qu\u2019un basculement rapide et homog\u00e8ne, il d\u00e9crit des processus plus nuanc\u00e9s et complexes, s\u2019inscrivant dans une continuit\u00e9.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/la-science-moderne-n-est-pas-nee-avec-galilee-ou-newton_190062?xtor=RSS-10",
+    "published_date": "2026-01-03T05:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le virus de l'herp\u00e8s a int\u00e9gr\u00e9 notre g\u00e9nome voil\u00e0 2500 ans",
+    "summary": "Virus tr\u00e8s commun, l\u2019herp\u00e8s se d\u00e9cline en quantit\u00e9 d\u2019esp\u00e8ces dont celui responsable de la ros\u00e9ole infantile. Des chercheurs ont retrac\u00e9 le parcours de celui-ci dans l\u2019histoire humaine.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/le-virus-de-l-herpes-a-integre-notre-genome-il-y-a-2500-ans_190251?xtor=RSS-10",
+    "published_date": "2026-01-02T20:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Une alternative aux bisph\u00e9nols de nos tickets de caisse : du bois !",
+    "summary": "Se d\u00e9barrasser de n\u2019importe quel bisph\u00e9nol dans nos tickets de caisse ou nos re\u00e7us de carte bancaire&nbsp;? Des chimistes ont imagin\u00e9 avoir recours \u00e0 la lignine, un compos\u00e9 du bois, pour une solution \"verte\"&nbsp;et non-toxique.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10",
+    "published_date": "2026-01-02T19:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Une nouvelle \u00e9tude confirme que Touma\u00ef marchait bien sur ses deux jambes",
+    "summary": "Une \u00e9quipe am\u00e9ricaine de pal\u00e9oanthropologues&nbsp;apporte de nouvelles preuves dans la d\u00e9monstration du bip\u00e9disme de Sahelanthropus tchadensis, l'un des fossiles les plus controvers\u00e9s de l'histoire tant celui-ci est important. Et pour cause : s'il marchait bien sur ses jambes, celui que l'on surnomme aussi Touma\u00ef&nbsp;serait le grand anc\u00eatre de l'humanit\u00e9.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/une-nouvelle-etude-en-faveur-de-la-bipedie-de-toumai-notre-plus-vieil-ancetre-potentiel-vient-relancer-un-feroce-debat-scientifique_190259?xtor=RSS-4",
+    "published_date": "2026-01-02T19:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Superkilonova, Quadrantides et dinosaures \u00e0 plumes : l'actu des sciences",
+    "summary": "Au sommaire des ultrabr\u00e8ves du 2 janvier 2026 : la premi\u00e8re probable \"superkilonova\", le spectacle cosmique des pluies de m\u00e9t\u00e9ores des Quadrantides et certains dinosaures \u00e0 plumes incapables de voler.",
+    "url": "https://www.sciencesetavenir.fr/ultrabreves/superkilonova-quadrantides-et-dinosaures-a-plumes-ne-sachant-pas-voler-l-actu-des-sciences-en-ultrabreves_190248",
+    "published_date": "2026-01-02T16:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Was our earliest ancestor a knuckle-dragger, or did it walk upright?",
+    "summary": "Did Sahelanthropus, which lived 7 million years ago, walk on two legs like a modern human? It's complicated",
+    "url": "https://www.newscientist.com/article/2509929-was-our-earliest-ancestor-a-knuckle-dragger-or-did-it-walk-upright/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-02T19:00:36Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Earliest Human Ancestor May Have Walked on Two Legs",
+    "summary": "<p>A fossil belonging to an ancient hominin that lived seven million years ago bears the hallmarks of bipedalism, according to a new study</p>",
+    "url": "https://www.scientificamerican.com/article/earliest-human-ancestor-may-have-walked-on-two-legs/",
+    "published_date": "2026-01-02T19:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Was our earliest ancestor a knuckle-dragger, or did it walk upright?",
+    "summary": "Did Sahelanthropus, which lived 7 million years ago, walk on two legs like a modern human? It's complicated",
+    "url": "https://www.newscientist.com/article/2509929-was-our-earliest-ancestor-a-knuckle-dragger-or-did-it-walk-upright/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-02T19:00:36Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Was our earliest ancestor a knuckle-dragger, or did it walk upright?",
+    "summary": "Did Sahelanthropus, which lived 7 million years ago, walk on two legs like a modern human? It's complicated",
+    "url": "https://www.newscientist.com/article/2509929-was-our-earliest-ancestor-a-knuckle-dragger-or-did-it-walk-upright/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-02T19:00:36Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "De l\u2019art de\u2009bien comprendre les tests de d\u00e9pistage du Covid-19",
+    "summary": "Et s\u2019il y avait en fait beaucoup de personnes saines parmi celles dont le test est\u00a0positif\u2009? Enfoncer de longs cotons-tiges dans le nez de nos concitoyens serait alors inutile... Mais un calcul d\u00e9taill\u00e9\u00a0montre\u00a0qu\u2019en r\u00e9alit\u00e9, la probabilit\u00e9 de faux positifs est vraisemblablement tr\u00e8s faible.",
+    "url": "https://www.pourlascience.fr/sd/mathematiques/de-l-art-de-bien-comprendre-les-tests-de-depistage-du-covid-19-20330.php",
+    "published_date": "2026-01-03T13:12:27Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Croyance vs connaissance\u00a0: comment les distinguer\u00a0?",
+    "summary": "\u00c0 l\u2019heure o\u00f9 les fausses informations se multiplient, il est crucial d\u2019avoir une id\u00e9e claire de ces concepts. L\u2019histoire de l\u2019annedda, de son\u00a0usage empirique contre le scorbut \u00e0 l\u2019identification de la vitamine\u00a0C, illustre bien ce qui les diff\u00e9rencie.",
+    "url": "https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/croyance-vs-connaissance-comment-les-distinguer-28577.php",
+    "published_date": "2026-01-03T06:58:02Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Arbres",
+    "summary": "Paul Smith",
+    "url": "https://www.pourlascience.fr/sr/livres/arbres-25039.php",
+    "published_date": "2026-01-02T23:13:11Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
   }
 ]

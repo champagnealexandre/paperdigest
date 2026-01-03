@@ -3,39 +3,98 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-03T15:16:30.788372+00:00</updated>
+  <updated>2026-01-03T15:35:58.580716+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
-    <title>🔴 [5] Biosystems ▶ Cultural accumulation or stasis? The impact of imitation and early teaching on hominin cultural evolution</title>
+    <title>🔴 [0] Biosystems ▶ Cultural accumulation or stasis? The impact of imitation and early teaching on hominin cultural evolution</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all</id>
     <updated>2026-01-03T15:00:00Z</updated>
     <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Laureano Castro, Daniel Castro-Cañadilla, Miguel Ángel Castro-Nogueira, Miguel Ángel Toro</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A modeling/theoretical study of how imitation and early teaching affect hominin cultural accumulation or stasis, relevant to &quot;evolution&quot; in a behavioral sense but not to astrobiology or origins-of-life chemistry.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper examines hominin cultural evolution via imitation and early teaching, which is not relevant to origins-of-life, prebiotic chemistry, or astrobiology topics.</p>
 <p><em>Abstract not available in RSS feed.</em></p>
 <p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Laureano Castro, Daniel Castro-Cañadilla, Miguel Ángel Castro-Nogueira, Miguel Ángel Toro</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002515?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟢 [88] Biosystems ▶ The Natural history of the transition between RNA to DNA in the early stages of life</title>
+    <title>🟢 [90] Biosystems ▶ On the transitional character and regularity of planetary abiogenesis</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T15:00:00Z</updated>
+    <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Conceptual/theoretical BioSystems paper examining planetary abiogenesis as a transitional, potentially regular process across planets, with direct relevance to origins-of-life frameworks.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] cell biology - biorXiv Preprints ▶ Nucleolar reorganization on stress depends on physicochemical changes due to nascent rRNA synthesis</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1</id>
+    <updated>2026-01-03T00:00:00Z</updated>
+    <summary>Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleola</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Using expansion microscopy, this study shows that stress-induced nucleolar reorganization is largely a direct biophysical consequence of reduced nascent rRNA synthesis, shifting nucleolar subcompartments toward more solid-like condensates and altering physicochemical gradients rather than primarily reflecting an active rDNA repair signaling response.</p>
+<p><strong>Abstract:</strong> Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleolar substructures and how this adapts to cellular stress remain incompletely understood. In this study, we resolve the sub nucleolar structures using expansion microscopy to reveal ordered structures of fibrillar center (FC) and dense fibrillar component (DFC) domains as nested shells, which is reorganized upon cellular stress like DNA damage or RNA polymerase I (RNAPI) inhibition. Direct visualization of nascent (5&#x27; ETS) and mature (28S) rRNA suggested that rRNA synthesis is the critical regulator of nucleolar size, and organization. Nucleolar reorganization upon stress emerges to be a direct function of nascent rRNA levels. Stress-induced transcription inhibition remodels the sub-nucleolar compartments from a viscoelastic state into solid-like condensates thereby perturbing the nucleolar pH gradient due to the missing rRNA scaffold. We show, that rather than signalling to mediate rDNA repair, nucleolar reorganization naturally arises primarily from reduced rRNA levels and the resultant biophysical restructuring of the nucleolus under cellular stress.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars</title>
+    <link href="https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html"/>
+    <id>https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html</id>
+    <updated>2026-01-02T16:34:24Z</updated>
+    <summary>The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Uses Perseverance Jezero crater floor samples to model cosmogenic nuclide production in Martian igneous rocks, improving exposure/age constraints relevant to Mars Sample Return geological context rather than direct origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously bombarded by cosmic rays, resulting in the formation of cosmogenic nuclides. To accurately date these rocks and understand past geological events, precise estimates […] The post Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&amp;utm_medium=affiliate&amp;utm_content=meta&amp;utm_campaign=DDCN_1_GL01_metadata_scirep">https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&amp;utm_medium=affiliate&amp;utm_content=meta&amp;utm_campaign=DDCN_1_GL01_metadata_scirep</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] biophysics - biorXiv Preprints ▶ A moments-based approach for inferring mechanisms of transcriptional regulation using nascent RNA data</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1</id>
+    <updated>2026-01-03T00:00:00Z</updated>
+    <summary>Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a moments-based framework using single-cell nascent RNA measurements to infer and select among transcriptional regulation kinetics models, validated on synthetic data and yeast/E. coli datasets.</p>
+<p><strong>Abstract:</strong> Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels reflect not only transcriptional activity but also post-transcriptional processes. Recent advances in quantifying nascent RNAs across isogenic cells provide a more direct readout of transcriptional dynamics. Here, we present a moments-based theoretical framework that leverages nascent RNA data to infer transcriptional kinetics. We derive closed-form expressions for the first two time-dependent moments of nascent RNA across three canonical transcription models and demonstrate that nascent RNA exhibits distinct transient overshoots and higher Fano factors compared to mature mRNA. Through analysis of synthetic datasets, we show that these features enable more accurate estimation of transcriptional kinetics and allow reliable model selection, distinguishing single from multi-pathway promoter activation with over 75% accuracy even from small sample sizes. We further validated our model selection method using real experimental transcription datasets in yeast and E. coli cells, with nascent RNA demonstrating superior performance in identifying cross-talk pathway regulation. Our framework thus offers a computationally efficient and mechanistically informative approach for decoding transcriptional dynamics, emphasizing the advantages of time-dependent nascent RNA measurements over mature mRNA in capturing the true kinetics of transcriptional regulation.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] Biosystems ▶ The Natural history of the transition between RNA to DNA in the early stages of life</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all</id>
     <updated>2026-01-03T15:00:00Z</updated>
     <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Sávio Torres de Farias, Marco José</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reviews the natural history and proposed mechanisms underlying the early-life transition from RNA-based systems to DNA-based genetics, a core topic in origins-of-life research.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This BioSystems paper examines the early-life transition from an RNA-based world to DNA genomes, directly addressing core origins-of-life questions about the emergence and evolution of nucleic-acid heredity.</p>
 <p><em>Abstract not available in RSS feed.</em></p>
 <p><strong>Metadata:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Sávio Torres de Farias, Marco José</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002813?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟢 [98] Astrobiology (astrobiology.com) ▶ Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</title>
+    <title>🟠 [45] Biosystems ▶ Prevalence of prime mass residues in single point mutations and their importance to protein stability, function and evolution</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T15:00:00Z</updated>
+    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Analyzes how prime-mass amino acid residues feature in single-point mutations and influence protein stability/function, offering only indirect relevance to origins-of-life questions via evolutionary protein constraints.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] Astrobiology (astrobiology.com) ▶ Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</title>
     <link href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html"/>
     <id>https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html</id>
     <updated>2026-01-02T16:39:23Z</updated>
     <summary>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> An origins-of-life homochirality hypothesis proposing that phospholipid bilayer vesicle self-assembly at the water–air interface could bias chirality and propagate homochirality into ribose/nucleic-acid chemistry.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Proposes a protocell-first heuristic mechanism for the emergence of life’s homochirality, linking phospholipid bilayer (liposome) self-assembly at the water–air interface to downstream chiral selection of key biomolecular building blocks.</p>
 <p><strong>Abstract:</strong> Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by […] The post Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong></p><ul>
 <li><a href="https://doi.org/10.48550/arXiv.2512.11136">https://doi.org/10.48550/arXiv.2512.11136</a></li>
@@ -44,114 +103,29 @@
 <p><a href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] Astrobiology (astrobiology.com) ▶ Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</title>
-    <link href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html"/>
-    <id>https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html</id>
-    <updated>2026-01-02T16:44:55Z</updated>
-    <summary>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside th</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> ISS-based biotechnology work using the ADSEP-4 processor to support microgravity pharmaceutical manufacturing, with only indirect relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station’s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. […] The post Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4) appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [85] Biosystems ▶ On the transitional character and regularity of planetary abiogenesis</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T15:00:00Z</updated>
-    <summary>Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This BioSystems (Jan 2026) paper appears to address the general principles and transitional regularities of planetary abiogenesis, making it a core origins-of-life topic despite limited available metadata.</p>
-<p><em>Abstract not available in RSS feed.</em></p>
-<p><strong>Metadata:</strong> Publication date: January 2026 Source: BioSystems, Volume 259 Author(s): Serge Dolgikh</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002709?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] biophysics - biorXiv Preprints ▶ A moments-based approach for inferring mechanisms of transcriptional regulation using nascent RNA data</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1</id>
-    <updated>2026-01-03T00:00:00Z</updated>
-    <summary>Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Presents a moments-based framework to infer transcriptional regulation mechanisms from single-cell nascent RNA time-course data, improving kinetic parameter estimation and model selection compared to mature mRNA.</p>
-<p><strong>Abstract:</strong> Unraveling the kinetics of transcriptional regulation is a central challenge in molecular biology. Traditional inference methods based on cell-to-cell mRNA variability are limited because mRNA levels reflect not only transcriptional activity but also post-transcriptional processes. Recent advances in quantifying nascent RNAs across isogenic cells provide a more direct readout of transcriptional dynamics. Here, we present a moments-based theoretical framework that leverages nascent RNA data to infer transcriptional kinetics. We derive closed-form expressions for the first two time-dependent moments of nascent RNA across three canonical transcription models and demonstrate that nascent RNA exhibits distinct transient overshoots and higher Fano factors compared to mature mRNA. Through analysis of synthetic datasets, we show that these features enable more accurate estimation of transcriptional kinetics and allow reliable model selection, distinguishing single from multi-pathway promoter activation with over 75% accuracy even from small sample sizes. We further validated our model selection method using real experimental transcription datasets in yeast and E. coli cells, with nascent RNA demonstrating superior performance in identifying cross-talk pathway regulation. Our framework thus offers a computationally efficient and mechanistically informative approach for decoding transcriptional dynamics, emphasizing the advantages of time-dependent nascent RNA measurements over mature mRNA in capturing the true kinetics of transcriptional regulation.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697452v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars</title>
-    <link href="https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html"/>
-    <id>https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html</id>
-    <updated>2026-01-02T16:34:24Z</updated>
-    <summary>The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Quantifies cosmogenic nuclide production rates in Perseverance’s Jezero crater igneous rocks to improve exposure-age constraints and geological timeline calibration for Mars Sample Return context relevant to assessing past Martian habitability.</p>
-<p><strong>Abstract:</strong> The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously bombarded by cosmic rays, resulting in the formation of cosmogenic nuclides. To accurately date these rocks and understand past geological events, precise estimates […] The post Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&amp;utm_medium=affiliate&amp;utm_content=meta&amp;utm_campaign=DDCN_1_GL01_metadata_scirep">https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&amp;utm_medium=affiliate&amp;utm_content=meta&amp;utm_campaign=DDCN_1_GL01_metadata_scirep</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</title>
-    <link href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html"/>
-    <id>https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html</id>
-    <updated>2026-01-02T16:27:44Z</updated>
-    <summary>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. Th</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Review of lava tube formation and detection on Earth, the Moon, and Mars, highlighting their potential as protected habitable environments relevant to astrobiology and future exploration.</p>
-<p><strong>Abstract:</strong> Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We […] The post Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1007/s11214-025-01260-9">https://doi.org/10.1007/s11214-025-01260-9</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s11214-025-01260-9">https://link.springer.com/article/10.1007/s11214-025-01260-9</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History</title>
     <link href="https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html"/>
     <id>https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html</id>
     <updated>2026-01-02T16:23:15Z</updated>
     <summary>Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to h</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Proposes that carbonate ooids can form via abiotic chemically oscillating reactions while preserving authigenic microbial biomass, informing how carbonate textures may act as biosignature traps and potential false-positive/ambiguous biosignatures through Earth history.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study reframes carbonate ooids as potential authigenic repositories of microbial biomass and biosignatures formed via abiotic chemically oscillating precipitation, informing how ancient (and extraterrestrial) life signals might be preserved or mimicked in carbonate fabrics.</p>
 <p><strong>Abstract:</strong> Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to hypothetical formation models involving both biological and abiotic processes. The most commonly invoked model involves precipitates from supersaturated CaCO3 water under high-energy conditions. However, this model does […] The post Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass">https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass</a></li>
 <li><a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass">https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass</a></li>
+<li><a href="https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass">https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] cell biology - biorXiv Preprints ▶ Nucleolar reorganization on stress depends on physicochemical changes due to nascent rRNA synthesis</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1</id>
-    <updated>2026-01-03T00:00:00Z</updated>
-    <summary>Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleola</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Using expansion microscopy, this study shows nucleolar phase-separated subcompartments reorganize under stress primarily due to reduced nascent rRNA synthesis, shifting condensates toward more solid-like states and altering physicochemical gradients—relevant mainly as a modern-cell example of RNA-dependent self-organization.</p>
-<p><strong>Abstract:</strong> Successive maturation of ribosomal subunits occurs through multi-layered phase-separated structures of the cell nucleolus. The spatio-functional relationship between transcription of rRNA and nucleolar substructures and how this adapts to cellular stress remain incompletely understood. In this study, we resolve the sub nucleolar structures using expansion microscopy to reveal ordered structures of fibrillar center (FC) and dense fibrillar component (DFC) domains as nested shells, which is reorganized upon cellular stress like DNA damage or RNA polymerase I (RNAPI) inhibition. Direct visualization of nascent (5&#x27; ETS) and mature (28S) rRNA suggested that rRNA synthesis is the critical regulator of nucleolar size, and organization. Nucleolar reorganization upon stress emerges to be a direct function of nascent rRNA levels. Stress-induced transcription inhibition remodels the sub-nucleolar compartments from a viscoelastic state into solid-like condensates thereby perturbing the nucleolar pH gradient due to the missing rRNA scaffold. We show, that rather than signalling to mediate rDNA repair, nucleolar reorganization naturally arises primarily from reduced rRNA levels and the resultant biophysical restructuring of the nucleolus under cellular stress.</p>
+    <title>🔴 [25] Astrobiology (astrobiology.com) ▶ Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</title>
+    <link href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html"/>
+    <id>https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html</id>
+    <updated>2026-01-02T16:44:55Z</updated>
+    <summary>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside th</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> ISS-based ADSEP-4 biotechnology operations support microgravity pharmaceutical manufacturing, offering only tangential relevance to origins-of-life research (mainly as general space life-science infrastructure).</p>
+<p><strong>Abstract:</strong> NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station’s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. […] The post Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4) appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.03.697456v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Biosystems ▶ Prevalence of prime mass residues in single point mutations and their importance to protein stability, function and evolution</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T15:00:00Z</updated>
-    <summary>Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Examines how prime-mass amino-acid residue patterns influence the impact of single-point mutations on protein stability and evolution, offering indirect context for molecular evolution rather than a direct origins-of-life focus.</p>
-<p><em>Abstract not available in RSS feed.</em></p>
-<p><strong>Metadata:</strong> Publication date: December 2025 Source: BioSystems, Volume 258 Author(s): Matthew Wright, Kevin M. Downard</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002485?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [0] Journal of Theoretical Biology ▶ Spatial Sucrose Sink Profiles Shape Phloem Transport Efficiency and Xylem-Phloem Water Exchange</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T15:00:00Z</updated>
-    <summary>Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical biology study of how sucrose sink spatial profiles affect plant phloem transport and xylem–phloem water exchange, with no direct relevance to origins-of-life or astrobiology topics.</p>
-<p><em>Abstract not available in RSS feed.</em></p>
-<p><strong>Metadata:</strong> Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+<p><a href="https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [5] Journal of Computational Science ▶ A liquid neural network with physical evolution for variable continuous time series prediction</title>
@@ -159,22 +133,49 @@
     <id>https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all</id>
     <updated>2026-01-03T15:00:00Z</updated>
     <summary>Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Kui Qian, Yue Deng, Zhengyan Li, Xiulan Wen</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Machine-learning paper on liquid neural networks and &#x27;physical evolution&#x27; for continuous time-series prediction, with no clear connection to origins-of-life chemistry, astrobiology, or prebiotic processes beyond the generic term &#x27;evolution&#x27;.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a liquid neural network framework using physical evolution concepts for continuous time-series prediction, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology beyond a generic use of the term “evolution.”</p>
 <p><em>Abstract not available in RSS feed.</em></p>
 <p><strong>Metadata:</strong> Publication date: February 2026 Source: Journal of Computational Science, Volume 94 Author(s): Kui Qian, Yue Deng, Zhengyan Li, Xiulan Wen</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1877750325002340?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] Phys.org: Evolution News ▶ Evidence of upright walking found in 7-million-year-old Sahelanthropus fossils</title>
-    <link href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html"/>
-    <id>https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html</id>
-    <updated>2026-01-02T19:00:05Z</updated>
-    <summary>In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A paleoanthropology study presenting evidence for bipedalism in 7-million-year-old Sahelanthropus, relevant mainly to human evolution rather than origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers powerful evidence that Sahelanthropus tchadensis—a species discovered in the early 2000s—was indeed bipedal by uncovering a feature found only in bipedal hominins.</p>
+    <title>🔴 [15] Physics of Life Reviews ▶ On implementation of nonlocal terms in models in ecology and evolution. Comment on ‘Nonlocal models in biology and life sciences: Sources, developments, and applications’ by S. Pal &amp; R. Melnick</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T15:00:00Z</updated>
+    <summary>Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Andrew Yu Morozov</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A methodological comment on implementing nonlocal terms in ecology/evolution models with minimal direct relevance to origins-of-life research beyond general evolutionary theory.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Andrew Yu Morozov</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html">Read source article</a></p>]]></content>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</title>
+    <link href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html"/>
+    <id>https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html</id>
+    <updated>2026-01-02T16:27:44Z</updated>
+    <summary>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. Th</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Review of lava tube formation, preservation, and detection on Earth, the Moon, and Mars, highlighting their potential as protected habitable environments and high-value targets for future astrobiology exploration rather than directly addressing origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We […] The post Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://link.springer.com/article/10.1007/s11214-025-01260-9">https://link.springer.com/article/10.1007/s11214-025-01260-9</a></li>
+<li><a href="https://doi.org/10.1007/s11214-025-01260-9">https://doi.org/10.1007/s11214-025-01260-9</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] Journal of Theoretical Biology ▶ Spatial Sucrose Sink Profiles Shape Phloem Transport Efficiency and Xylem-Phloem Water Exchange</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all</id>
+    <updated>2026-01-03T15:00:00Z</updated>
+    <summary>Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical plant-physiology study modeling how spatial sucrose sinks influence phloem transport efficiency and xylem–phloem water exchange, with no direct connection to origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 24 December 2025 Source: Journal of Theoretical Biology Author(s): Mazen Nakad, Aaron Potkay, Marc A. Hesse, Maurizio Mencuccini, Pierre Gentine, Ensheng Weng</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0022519325003303?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [5] Physics of Life Reviews ▶ Remodeling of non-coding RNA regulatory networks: Decoding the pathological mechanisms and new therapeutic paradigms of cardiovascular diseases</title>
@@ -182,34 +183,22 @@
     <id>https://www.sciencedirect.com/science/article/pii/S1571064525001836?dgcid=rss_sd_all</id>
     <updated>2026-01-03T15:00:00Z</updated>
     <summary>Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Wangzheqi Zhang, Lei Duan, Changli Wang, Yan Liao, Rui Zhao, Zhaoyu Li, Haoling Zhang, Zengwu Wang, Jing-jing Zhang</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A biomedical review on non-coding RNA regulatory network remodeling in cardiovascular disease, with only tangential relevance to origins-of-life via the general concept of RNA.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Review of how non-coding RNA regulatory network remodeling contributes to cardiovascular disease mechanisms and therapeutic strategies, with only tangential relevance to origins-of-life via the general involvement of RNA.</p>
 <p><em>Abstract not available in RSS feed.</em></p>
 <p><strong>Metadata:</strong> Publication date: March 2026 Source: Physics of Life Reviews, Volume 56 Author(s): Wangzheqi Zhang, Lei Duan, Changli Wang, Yan Liao, Rui Zhao, Zhaoyu Li, Haoling Zhang, Zengwu Wang, Jing-jing Zhang</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001836?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] Physics of Life Reviews ▶ On implementation of nonlocal terms in models in ecology and evolution. Comment on `Nonlocal models in biology and life sciences: Sources, developments, and applications&#x27; by S. Pal and R. Melnic</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all</id>
-    <updated>2026-01-03T15:00:00Z</updated>
-    <summary>Publication date: Available online 26 December 2025 Source: Physics of Life Reviews Author(s): Andrew Yu Morozov</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A technical comment on implementing nonlocal terms in ecological and evolutionary models, offering general theoretical context but little direct relevance to origins-of-life or astrobiology topics.</p>
-<p><em>Abstract not available in RSS feed.</em></p>
-<p><strong>Metadata:</strong> Publication date: Available online 26 December 2025 Source: Physics of Life Reviews Author(s): Andrew Yu Morozov</p>
+    <title>🔴 [20] Phys.org: Evolution News ▶ Evidence of upright walking found in 7-million-year-old Sahelanthropus fossils</title>
+    <link href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html"/>
+    <id>https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html</id>
+    <updated>2026-01-02T19:00:05Z</updated>
+    <summary>In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Anthropological reanalysis of 7-million-year-old Sahelanthropus fossils argues for bipedal locomotion, informing early hominin evolution but not directly addressing origins-of-life or prebiotic processes.</p>
+<p><strong>Abstract:</strong> In recent decades, scientists have debated whether a seven-million-year-old fossil was bipedal—a trait that would make it the oldest human ancestor. A new analysis by a team of anthropologists offers powerful evidence that Sahelanthropus tchadensis—a species discovered in the early 2000s—was indeed bipedal by uncovering a feature found only in bipedal hominins.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064525001897?dgcid=rss_sd_all">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Phys.org: Evolution News ▶ Flowering plant origins: Dosage-sensitive genes suggest no whole-genome duplications in ancestral angiosperm</title>
-    <link href="https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html"/>
-    <id>https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html</id>
-    <updated>2026-01-02T19:00:08Z</updated>
-    <summary>Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-geno</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Analyzes whether whole-genome duplications occurred in ancestral flowering plants using dosage-sensitive genes, offering general evolutionary context but little direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-genome duplication (WGD), or polyploidization, is widely recognized as a key driver of the origin and trait evolution of both seed plants and angiosperms.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html">Read source article</a></p>]]></content>
+<p><a href="https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [15] Scientific Reports ▶ Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution</title>
@@ -217,31 +206,42 @@
     <id>https://www.nature.com/articles/s41598-025-34129-6</id>
     <updated>2026-01-03T00:00:00Z</updated>
     <summary>Scientific Reports, Published online: 03 January 2026; doi:10.1038/s41598-025-34129-6 Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive ev</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports episodic positive selection and predicted structural stabilization in the Arabidopsis CONSTANS-like gene COL5, indicating adaptive evolution in a plant regulatory protein with minimal direct relevance to origins-of-life questions.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Analyzes episodic positive selection on the Arabidopsis CONSTANS-like gene COL5 and suggests adaptive structural stabilization, offering limited relevance to origins-of-life beyond general evolutionary mechanisms.</p>
 <p><strong>Abstract:</strong> Scientific Reports, Published online: 03 January 2026; doi:10.1038/s41598-025-34129-6 Episodic positive selection structurally stabilizes the Arabidopsis CONSTANS-like gene COL5 indicating adaptive evolution</p>
 <p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/npg_/press_room/press_releases.html">https://www.nature.com/npg_/press_room/press_releases.html</a></li>
-<li><a href="https://www.nature.com/srep.rss">https://www.nature.com/srep.rss</a></li>
-<li><a href="https://authorservices.springernature.com/scientific-editing/">https://authorservices.springernature.com/scientific-editing/</a></li>
-<li><a href="https://support.nature.com/support/home">https://support.nature.com/support/home</a></li>
-<li><a href="https://journal-alerts.springernature.com/subscribe?journal_id=41598">https://journal-alerts.springernature.com/subscribe?journal_id=41598</a></li>
-<li><a href="https://www.nature.com/immersive/natureawards/index.html">https://www.nature.com/immersive/natureawards/index.html</a></li>
-<li><a href="https://author-welcome.nature.com/41598">https://author-welcome.nature.com/41598</a></li>
-<li><a href="https://www.nature.com/authors/editorial_policies">https://www.nature.com/authors/editorial_policies</a></li>
+<li><a href="https://www.nature.com/nature-research/open-access">https://www.nature.com/nature-research/open-access</a></li>
 <li><a href="https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&amp;flavour=references">https://citation-needed.springer.com/v2/references/10.1038/s41598-025-34129-6?format=refman&amp;flavour=references</a></li>
-<li><a href="https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner">https://www.nature.com/briefing/signup/?brieferEntryPoint=MainBriefingBanner</a></li>
+<li><a href="https://www.nature.com/reprints">https://www.nature.com/reprints</a></li>
+<li><a href="https://www.nature.com/authors/editorial_policies">https://www.nature.com/authors/editorial_policies</a></li>
+<li><a href="https://www.nature.com/naturecareers/">https://www.nature.com/naturecareers/</a></li>
+<li><a href="https://www.springernature.com/">https://www.springernature.com/</a></li>
+<li><a href="https://author-welcome.nature.com/41598">https://author-welcome.nature.com/41598</a></li>
+<li><a href="https://doi.org/10.1038/s41598-025-34129-6">https://doi.org/10.1038/s41598-025-34129-6</a></li>
+<li><a href="https://authorservices.springernature.com/scientific-editing/">https://authorservices.springernature.com/scientific-editing/</a></li>
+<li><a href="https://www.nature.com/nmiddleeast">https://www.nature.com/nmiddleeast</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41598-025-34129-6">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [15] Phys.org: Evolution News ▶ Two white-blooded fish, two paths: Icefish and noodlefish independently lose red blood cell function</title>
+    <title>🔴 [17] Phys.org: Evolution News ▶ Two white-blooded fish, two paths: Icefish and noodlefish independently lose red blood cell function</title>
     <link href="https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html"/>
     <id>https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html</id>
     <updated>2026-01-02T16:45:17Z</updated>
     <summary>Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cel</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Comparative evolutionary biology study showing two fish lineages independently lost hemoglobin/red blood cells, offering only indirect context for astrobiology/origins-of-life discussions about the flexibility of complex life physiology.</p>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Comparative evolutionary physiology study showing two fish lineages (Antarctic icefish and Asian noodlefish) independently lost hemoglobin/red blood cell function, with minimal direct relevance to origins-of-life research.</p>
 <p><strong>Abstract:</strong> Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cells. Like icefish, its veins are filled with translucent white blood, said H. William Detrich, professor emeritus of marine and environmental sciences, who collaborated with Chinese scientists on a paper about the strange aquatic creatures published in Current Biology.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Phys.org: Evolution News ▶ Flowering plant origins: Dosage-sensitive genes suggest no whole-genome duplications in ancestral angiosperm</title>
+    <link href="https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html"/>
+    <id>https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html</id>
+    <updated>2026-01-02T19:00:08Z</updated>
+    <summary>Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-geno</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Genomic analysis argues ancestral angiosperms likely lacked a whole-genome duplication, refining models of flowering plant evolution but offering minimal direct insight into origin-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Angiosperms, also known as flowering plants, represent the most diverse group of seed plants, and their origin and evolution have long been a central question in plant evolutionary biology. Whole-genome duplication (WGD), or polyploidization, is widely recognized as a key driver of the origin and trait evolution of both seed plants and angiosperms.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
