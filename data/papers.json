@@ -1,5 +1,121 @@
 [
   {
+    "title": "Atmospheric Mass Flux As A Function Of Ionospheric Emission On Unmagnetized Earth",
+    "summary": "<p>We explore ion escape from, and solar ion deposition to, an unmagnetized Earth-like planet. We use RHybrid, an ion-kinetic electron-fluid code to simulate the global plasma interaction of unmagnetized Earth with the solar wind. We vary the global ionospheric emission rate, and quantify the resultant planetary ion escape rates (O+ and H+) and the solar [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html\">Atmospheric Mass Flux As A Function Of Ionospheric Emission On Unmagnetized Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html",
+    "published_date": "2026-01-03T15:52:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2512.24004",
+      "https://doi.org/10.48550/arXiv.2512.24004"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Hybrid plasma simulations quantify how varying ionospheric outflow on an unmagnetized Earth-like planet modulates O+ and H+ escape and solar ion deposition, informing long-term atmospheric retention and habitability constraints relevant to early Earth/exoplanet environments."
+    }
+  },
+  {
+    "title": "Microbial Diversity and Metabolic Adaptations in Mars\u2010Analog Lava Tubes",
+    "summary": "<p>Lunar and Martian lava tubes will offer stable temperatures and radiation protection, making them potential habitats for extraterrestrial life. The Martian atmosphere, containing gases like H2, CO, and CH4, could serve as an energy source for microbes. To address the knowledge gap concerning microbial communities and their survival strategies in Earth&#8217;s lava tubes, which serve [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/microbial-diversity-and-metabolic-adaptations-in-mars%e2%80%90analog-lava-tubes.html\">Microbial Diversity and Metabolic Adaptations in Mars\u2010Analog Lava Tubes</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/microbial-diversity-and-metabolic-adaptations-in-mars%e2%80%90analog-lava-tubes.html",
+    "published_date": "2026-01-03T15:56:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009246",
+      "https://doi.org/10.1029/2025JE009246"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Studies microbial diversity and metabolic strategies in Earth lava tubes as Mars-analog habitats, highlighting potential subsurface energy sources and implications for Martian habitability."
+    }
+  },
+  {
+    "title": "Entropy-Driven Amino Acid-Based Coacervates with Enzyme-Free Metabolism and Prebiotic Robustness",
+    "summary": "<p>Protocells capable of nonenzymatic metabolism and environmental adaptation are essential models for understanding the emergence of cellular life. However, existing protocell designs often lack the robustness or prebiotic relevance to explain how functional supramolecular assemblies could have formed under early Earth conditions. In this study, we demonstrate that simple amino acid derivatives, observed on extraterrestrial [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/entropy-driven-amino-acid-based-coacervates-with-enzyme-free-metabolism-and-prebiotic-robustness.html\">Entropy-Driven Amino Acid-Based Coacervates with Enzyme-Free Metabolism and Prebiotic Robustness</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/entropy-driven-amino-acid-based-coacervates-with-enzyme-free-metabolism-and-prebiotic-robustness.html",
+    "published_date": "2026-01-03T16:00:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.1021/jacs.5c15328",
+      "https://pubs.acs.org/doi/10.1021/jacs.5c15328",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12703744/"
+    ],
+    "analysis_result": {
+      "score": 95,
+      "summary": "Demonstrates amino-acid-derivative coacervate protocells that self-assemble under prebiotically relevant conditions and support enzyme-free, metabolism-like chemistry with environmental robustness, directly informing origins-of-life protocell models."
+    }
+  },
+  {
+    "title": "Effect of PEG Chain Length on the Water Solubility of Monodisperse PEG-Appended Molecules",
+    "summary": "Polyethylene glycol (PEG) is a nonionic and highly water-soluble polymer, and PEGylation is widely used as a versatile chemical strategy to enhance the water solubility of otherwise poorly soluble molecules. The rational design of PEG-appended materials, therefore, requires an estimation of the PEG chain length necessary to achieve the desired level of solubility. Here, we investigated the relationship between the PEG chain length and the water solubility of PEG-appended molecules using a combination of experimental and computational approaches. We focused on monodisperse PEG with a discrete molecular weight, which enables us to identify the relationship between chain length and physicochemical properties, as represented by water solubility. Then, we designed a series of PEG\u2011appended molecules bearing monodisperse PEG chains of varying lengths, and measured their water solubilities experimentally. In parallel, molecular dynamics-based alchemical free\u2011energy calculations yielded thermodynamic trends that reproduced the observed dependence of solubility on PEG chain length. Comparison of experimental and computational results showed that the calculations not only distinguished between water-soluble and insoluble PEG-appended molecules but also captured the solubility trends for moderately soluble species. These findings demonstrate the potential of molecular-dynamics-based free-energy calculations for a priori prediction of the water solubility of PEG-appended molecules.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-q20rq?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-q20rq"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "This ChemRxiv study quantifies how monodisperse PEG chain length controls aqueous solubility (validated by experiments and MD free-energy calculations), offering general solvation/partitioning insights but limited direct relevance to prebiotic chemistry or origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Exploring Lipid Diversity And Minimalism To Define Membrane Requirements For Synthetic Cells",
+    "summary": "<p>The creation of minimal synthetic cells that mimic the essential functions of biological cells is a long\u2010term goal in synthetic biology. Achieving this objective not only advances our understanding of the origin of life, but also unlocks the way for applications in industry, medicine, etc. A key characteristic of life is self\u2010reproduction, which includes growth [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html\">Exploring Lipid Diversity And Minimalism To Define Membrane Requirements For Synthetic Cells</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html",
+    "published_date": "2026-01-03T16:00:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.70131",
+      "https://doi.org/10.1002/1873-3468.70131",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12720230/"
+    ],
+    "analysis_result": {
+      "score": 80,
+      "summary": "Reviews how lipid diversity and minimal membrane compositions constrain the feasibility of protocell-like synthetic cells, informing origin-of-life scenarios where self-assembling membranes enabled early self-reproduction and growth."
+    }
+  },
+  {
+    "title": "The Red box as selective G-quadruplex binder that downregulates c-MYC expression in human cells",
+    "summary": "G-quadruplex (G4) structures within oncogene promoters represent promising therapeutic targets, particularly in the context of transcriptional regulation. Here, we report that the Red box, a fully organic macrocyclic cationic receptor, exhibits high-affinity and selectivity for G4 structures. Biophysical analyses reveal that the Red box binds the c-MYC G4 with nanomolar affinity, stronger than most reported c-MYC ligands. Notably, the Red box displays greater selectivity for c-MYC over duplex DNA compared to the well-characterized porphyrin TMPyP4 and its macrocyclic architecture is essential for this activity, as its acyclic analogue displays negligible G4 stabilization. In cellular assays, treatment with non-cytotoxic concentrations of the Red box selectively downregulated c-MYC expression in HEK293T cells, with minimal effects on c-KIT and hTERT. Furthermore, c-MYC suppression was proportional to its basal expression across several cell lines, supporting a G4-mediated mechanism.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2flb0?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-2flb0"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "Reports a selective macrocyclic small-molecule binder of the c-MYC DNA G-quadruplex that downregulates c-MYC expression in human cells, mainly relevant to nucleic-acid structure/recognition rather than core origins-of-life research."
+    }
+  },
+  {
+    "title": "Spatially Correlated Flickering of All-inorganic Perovskite \nMicrocrystals",
+    "summary": "All-inorganic halide perovskites, especially CsPbBr3 microcrystals, are often considered to be \noptically stable and less defect-prone compared to their organometallic counterparts. \nNevertheless, reports of photoluminescence (PL) blinking in bulk perovskite systems till date \nare restricted to organometallic halide perovskite nano-/microrods, leaving it an open question \nwhether similar intermittency behaviour can be observed in all-inorganic halide perovskites of \ncomparable dimensions. Intriguingly, we witnessed multi-level PL fluctuations (flickering) in \nindividual green-emitting CsPbBr3 microrods. Wide-field PL microscopy reveals that the \nintensity fluctuations are nearly identical along the microrod, owing to charge carrier migration,  \nand waveguide\u2011assisted propagation. Our measurements on single microrod suggests that the \nflickering dynamics is strongly influenced by excitation power, excitation energy, and local \nenvironmental constituents. Under dry argon environment, a sharp reduction in the PL intensity \nis observed, indicating the formation of large number of nonradiative (NR) centers which \nquenches all the photogenerated carriers, suppressing overall emission intensity and PL \nflickering. The exposure of oxygen passivates these NR traps generated under argon, while \nhumidity introduces metastable photoinduced NR traps (\u201cspecial quenchers\u201d) that govern the \nenhanced flickering behaviours. Our findings establish that spatiotemporally correlated \nintermittency is not limited to organometallic perovskites but extends to all-inorganic \nperovskite bulk emitters as well and provides new insights into the role of transient defects and \natmospheric constituents in dictating emission stability.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-3xz24?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Adaptive variable impedance hybrid force-position control method for hub-spoke grinding robots",
+    "summary": "<p>Scientific Reports, Published online: 03 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34249-z\">doi:10.1038/s41598-025-34249-z</a></p>Adaptive variable impedance hybrid force-position control method for hub-spoke grinding robots",
+    "url": "https://www.nature.com/articles/s41598-025-34249-z",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life",
     "summary": "<p>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html\">Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html",

@@ -3,8 +3,92 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-03T15:46:38.126015+00:00</updated>
+  <updated>2026-01-03T16:20:18.048312+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Atmospheric Mass Flux As A Function Of Ionospheric Emission On Unmagnetized Earth</title>
+    <link href="https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html"/>
+    <id>https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html</id>
+    <updated>2026-01-03T15:52:00Z</updated>
+    <summary>We explore ion escape from, and solar ion deposition to, an unmagnetized Earth-like planet. We use RHybrid, an ion-kinetic electron-fluid code to simulate the global plasma interaction of unmagnetized</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Hybrid plasma simulations quantify how varying ionospheric outflow on an unmagnetized Earth-like planet modulates O+ and H+ escape and solar ion deposition, informing long-term atmospheric retention and habitability constraints relevant to early Earth/exoplanet environments.</p>
+<p><strong>Abstract:</strong> We explore ion escape from, and solar ion deposition to, an unmagnetized Earth-like planet. We use RHybrid, an ion-kinetic electron-fluid code to simulate the global plasma interaction of unmagnetized Earth with the solar wind. We vary the global ionospheric emission rate, and quantify the resultant planetary ion escape rates (O+ and H+) and the solar […] The post Atmospheric Mass Flux As A Function Of Ionospheric Emission On Unmagnetized Earth appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.24004">https://arxiv.org/abs/2512.24004</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2512.24004">https://doi.org/10.48550/arXiv.2512.24004</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Microbial Diversity and Metabolic Adaptations in Mars‐Analog Lava Tubes</title>
+    <link href="https://astrobiology.com/2026/01/microbial-diversity-and-metabolic-adaptations-in-mars%e2%80%90analog-lava-tubes.html"/>
+    <id>https://astrobiology.com/2026/01/microbial-diversity-and-metabolic-adaptations-in-mars%e2%80%90analog-lava-tubes.html</id>
+    <updated>2026-01-03T15:56:00Z</updated>
+    <summary>Lunar and Martian lava tubes will offer stable temperatures and radiation protection, making them potential habitats for extraterrestrial life. The Martian atmosphere, containing gases like H2, CO, an</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Studies microbial diversity and metabolic strategies in Earth lava tubes as Mars-analog habitats, highlighting potential subsurface energy sources and implications for Martian habitability.</p>
+<p><strong>Abstract:</strong> Lunar and Martian lava tubes will offer stable temperatures and radiation protection, making them potential habitats for extraterrestrial life. The Martian atmosphere, containing gases like H2, CO, and CH4, could serve as an energy source for microbes. To address the knowledge gap concerning microbial communities and their survival strategies in Earth’s lava tubes, which serve […] The post Microbial Diversity and Metabolic Adaptations in Mars‐Analog Lava Tubes appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009246">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009246</a></li>
+<li><a href="https://doi.org/10.1029/2025JE009246">https://doi.org/10.1029/2025JE009246</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/microbial-diversity-and-metabolic-adaptations-in-mars%e2%80%90analog-lava-tubes.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [95] Astrobiology (astrobiology.com) ▶ Entropy-Driven Amino Acid-Based Coacervates with Enzyme-Free Metabolism and Prebiotic Robustness</title>
+    <link href="https://astrobiology.com/2026/01/entropy-driven-amino-acid-based-coacervates-with-enzyme-free-metabolism-and-prebiotic-robustness.html"/>
+    <id>https://astrobiology.com/2026/01/entropy-driven-amino-acid-based-coacervates-with-enzyme-free-metabolism-and-prebiotic-robustness.html</id>
+    <updated>2026-01-03T16:00:00Z</updated>
+    <summary>Protocells capable of nonenzymatic metabolism and environmental adaptation are essential models for understanding the emergence of cellular life. However, existing protocell designs often lack the rob</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Demonstrates amino-acid-derivative coacervate protocells that self-assemble under prebiotically relevant conditions and support enzyme-free, metabolism-like chemistry with environmental robustness, directly informing origins-of-life protocell models.</p>
+<p><strong>Abstract:</strong> Protocells capable of nonenzymatic metabolism and environmental adaptation are essential models for understanding the emergence of cellular life. However, existing protocell designs often lack the robustness or prebiotic relevance to explain how functional supramolecular assemblies could have formed under early Earth conditions. In this study, we demonstrate that simple amino acid derivatives, observed on extraterrestrial […] The post Entropy-Driven Amino Acid-Based Coacervates with Enzyme-Free Metabolism and Prebiotic Robustness appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1021/jacs.5c15328">https://doi.org/10.1021/jacs.5c15328</a></li>
+<li><a href="https://pubs.acs.org/doi/10.1021/jacs.5c15328">https://pubs.acs.org/doi/10.1021/jacs.5c15328</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12703744/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12703744/</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/entropy-driven-amino-acid-based-coacervates-with-enzyme-free-metabolism-and-prebiotic-robustness.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] ChemRxiv ▶ Effect of PEG Chain Length on the Water Solubility of Monodisperse PEG-Appended Molecules</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-q20rq?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-q20rq?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-03T00:00:00Z</updated>
+    <summary>Polyethylene glycol (PEG) is a nonionic and highly water-soluble polymer, and PEGylation is widely used as a versatile chemical strategy to enhance the water solubility of otherwise poorly soluble mol</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This ChemRxiv study quantifies how monodisperse PEG chain length controls aqueous solubility (validated by experiments and MD free-energy calculations), offering general solvation/partitioning insights but limited direct relevance to prebiotic chemistry or origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Polyethylene glycol (PEG) is a nonionic and highly water-soluble polymer, and PEGylation is widely used as a versatile chemical strategy to enhance the water solubility of otherwise poorly soluble molecules. The rational design of PEG-appended materials, therefore, requires an estimation of the PEG chain length necessary to achieve the desired level of solubility. Here, we investigated the relationship between the PEG chain length and the water solubility of PEG-appended molecules using a combination of experimental and computational approaches. We focused on monodisperse PEG with a discrete molecular weight, which enables us to identify the relationship between chain length and physicochemical properties, as represented by water solubility. Then, we designed a series of PEG‑appended molecules bearing monodisperse PEG chains of varying lengths, and measured their water solubilities experimentally. In parallel, molecular dynamics-based alchemical free‑energy calculations yielded thermodynamic trends that reproduced the observed dependence of solubility on PEG chain length. Comparison of experimental and computational results showed that the calculations not only distinguished between water-soluble and insoluble PEG-appended molecules but also captured the solubility trends for moderately soluble species. These findings demonstrate the potential of molecular-dynamics-based free-energy calculations for a priori prediction of the water solubility of PEG-appended molecules.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-q20rq">https://doi.org/10.26434/chemrxiv-2026-q20rq</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-q20rq?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [80] Astrobiology (astrobiology.com) ▶ Exploring Lipid Diversity And Minimalism To Define Membrane Requirements For Synthetic Cells</title>
+    <link href="https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html"/>
+    <id>https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html</id>
+    <updated>2026-01-03T16:00:00Z</updated>
+    <summary>The creation of minimal synthetic cells that mimic the essential functions of biological cells is a long‐term goal in synthetic biology. Achieving this objective not only advances our understanding of</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reviews how lipid diversity and minimal membrane compositions constrain the feasibility of protocell-like synthetic cells, informing origin-of-life scenarios where self-assembling membranes enabled early self-reproduction and growth.</p>
+<p><strong>Abstract:</strong> The creation of minimal synthetic cells that mimic the essential functions of biological cells is a long‐term goal in synthetic biology. Achieving this objective not only advances our understanding of the origin of life, but also unlocks the way for applications in industry, medicine, etc. A key characteristic of life is self‐reproduction, which includes growth […] The post Exploring Lipid Diversity And Minimalism To Define Membrane Requirements For Synthetic Cells appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.70131">https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.70131</a></li>
+<li><a href="https://doi.org/10.1002/1873-3468.70131">https://doi.org/10.1002/1873-3468.70131</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12720230/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12720230/</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] ChemRxiv ▶ The Red box as selective G-quadruplex binder that downregulates c-MYC expression in human cells</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-2flb0?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-2flb0?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-03T00:00:00Z</updated>
+    <summary>G-quadruplex (G4) structures within oncogene promoters represent promising therapeutic targets, particularly in the context of transcriptional regulation. Here, we report that the Red box, a fully org</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a selective macrocyclic small-molecule binder of the c-MYC DNA G-quadruplex that downregulates c-MYC expression in human cells, mainly relevant to nucleic-acid structure/recognition rather than core origins-of-life research.</p>
+<p><strong>Abstract:</strong> G-quadruplex (G4) structures within oncogene promoters represent promising therapeutic targets, particularly in the context of transcriptional regulation. Here, we report that the Red box, a fully organic macrocyclic cationic receptor, exhibits high-affinity and selectivity for G4 structures. Biophysical analyses reveal that the Red box binds the c-MYC G4 with nanomolar affinity, stronger than most reported c-MYC ligands. Notably, the Red box displays greater selectivity for c-MYC over duplex DNA compared to the well-characterized porphyrin TMPyP4 and its macrocyclic architecture is essential for this activity, as its acyclic analogue displays negligible G4 stabilization. In cellular assays, treatment with non-cytotoxic concentrations of the Red box selectively downregulated c-MYC expression in HEK293T cells, with minimal effects on c-KIT and hTERT. Furthermore, c-MYC suppression was proportional to its basal expression across several cell lines, supporting a G4-mediated mechanism.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-2flb0">https://doi.org/10.26434/chemrxiv-2026-2flb0</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2flb0?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟢 [100] Astrobiology (astrobiology.com) ▶ Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</title>
     <link href="https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html"/>

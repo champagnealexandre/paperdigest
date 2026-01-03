@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [The Red box as selective G-quadruplex binder that downregula](https://dx.doi.org/10.26434/chemrxiv-2026-2flb0?rft_dat=source%3Ddrss) |
+| ai_scored | 80 | [Exploring Lipid Diversity And Minimalism To Define Membrane ](https://astrobiology.com/2026/01/exploring-lipid-diversity-and-minimalism-to-define-membrane-requirements-for-synthetic-cells.html) |
+| ai_scored | 30 | [Effect of PEG Chain Length on the Water Solubility of Monodi](https://dx.doi.org/10.26434/chemrxiv-2026-q20rq?rft_dat=source%3Ddrss) |
+| ai_scored | 95 | [Entropy-Driven Amino Acid-Based Coacervates with Enzyme-Free](https://astrobiology.com/2026/01/entropy-driven-amino-acid-based-coacervates-with-enzyme-free-metabolism-and-prebiotic-robustness.html) |
+| ai_scored | 65 | [Microbial Diversity and Metabolic Adaptations in Mars‐Analog](https://astrobiology.com/2026/01/microbial-diversity-and-metabolic-adaptations-in-mars%e2%80%90analog-lava-tubes.html) |
+| ai_scored | 50 | [Atmospheric Mass Flux As A Function Of Ionospheric Emission ](https://astrobiology.com/2026/01/atmospheric-mass-flux-as-a-function-of-ionospheric-emission-on-unmagnetized-earth.html) |
+| keyword_rejected | - | [Adaptive variable impedance hybrid force-position control me](https://www.nature.com/articles/s41598-025-34249-z) |
+| keyword_rejected | - | [Spatially Correlated Flickering of All-inorganic Perovskite ](https://dx.doi.org/10.26434/chemrxiv-2026-3xz24?rft_dat=source%3Ddrss) |
 | ai_scored | 35 | [Flowering plant origins: Dosage-sensitive genes suggest no w](https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html) |
 | ai_scored | 5 | [Two white-blooded fish, two paths: Icefish and noodlefish in](https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html) |
 | ai_scored | 10 | [Episodic positive selection structurally stabilizes the <i>A](https://www.nature.com/articles/s41598-025-34129-6) |
