@@ -85,7 +85,8 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
         'title': title,
         'url': url,
         'category': category,
-        'papers': [],
+        'papers': [],           # keyword-matched papers
+        'rejected': [],         # keyword-rejected papers (for history)
         'total': 0,
         'status': 'ok',
         'error': None,
@@ -130,21 +131,28 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
                 continue
             
             result['total'] += 1
+            
+            # Use RSS date if available, otherwise use current time (rounded to hour)
+            if pub:
+                item_date = pub
+            else:
+                now = datetime.datetime.now(datetime.timezone.utc)
+                item_date = now.replace(minute=0, second=0, microsecond=0)
+            
+            paper = Paper(
+                title=entry.get('title', 'No Title'),
+                summary=entry.get('summary', ''),
+                url=link,
+                published_date=item_date,
+                source_feed=title,
+            )
+            
             if matches_keywords(entry, keywords):
-                # Use RSS date if available, otherwise use current time (rounded to hour)
-                if pub:
-                    item_date = pub
-                else:
-                    now = datetime.datetime.now(datetime.timezone.utc)
-                    item_date = now.replace(minute=0, second=0, microsecond=0)
-                
-                result['papers'].append(Paper(
-                    title=entry.get('title', 'No Title'),
-                    summary=entry.get('summary', ''),
-                    url=link,
-                    published_date=item_date,
-                    source_feed=title,
-                ))
+                paper.stage = "keyword_matched"
+                result['papers'].append(paper)
+            else:
+                paper.stage = "keyword_rejected"
+                result['rejected'].append(paper)
         
         result['latest_date'] = latest
         
@@ -288,16 +296,23 @@ def main():
     
     # Aggregate results
     candidates: List[Paper] = []
+    rejected: List[Paper] = []
     total_fetched = 0
     for r in feed_results:
         candidates.extend(r['papers'])
+        rejected.extend(r['rejected'])
         total_fetched += r['total']
     
     errors_count = len([r for r in feed_results if r['status'] == 'error'])
-    logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds ({errors_count} errors), {len(candidates)} match keywords")
+    logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds ({errors_count} errors), {len(candidates)} match keywords, {len(rejected)} rejected")
+    
+    # Convert rejected papers to dict for history
+    rejected_dicts = [p.model_dump(mode='json') for p in rejected]
     
     if not candidates:
-        logging.info("No new papers. Regenerating feed from history.")
+        logging.info("No new keyword matches. Saving rejected papers and regenerating feed.")
+        new_history = rejected_dicts + history
+        utils.save_history(new_history, config.history_file)
         feed.generate_feed(history, config.model_dump(), "ooldigest-ai.xml")
         return
     
@@ -319,18 +334,24 @@ def main():
             except Exception:
                 errors += 1
     
+    # Mark processed papers as ai_scored
+    for p in processed:
+        p.stage = "ai_scored"
+    
     # Stats
     scores = [p.analysis_result.get('score', 0) for p in processed]
     avg_score = sum(scores) / len(scores) if scores else 0
     logging.info(f"Processed {len(processed)} papers (avg score: {avg_score:.0f}, errors: {errors})")
     
-    # Update history
-    new_history = [p.model_dump(mode='json') for p in processed] + history
+    # Update history: AI-scored first, then rejected, then old history
+    processed_dicts = [p.model_dump(mode='json') for p in processed]
+    new_history = processed_dicts + rejected_dicts + history
     utils.save_history(new_history, config.history_file)
     
-    # STAGE 4: Generate feeds
-    feed.generate_feed(new_history, config.model_dump(), "ooldigest-ai.xml")
-    logging.info(f"Done. Feed has {len(new_history)} papers.")
+    # STAGE 4: Generate feeds (only ai_scored papers)
+    ai_scored = [p for p in new_history if p.get('stage') == 'ai_scored']
+    feed.generate_feed(ai_scored, config.model_dump(), "ooldigest-ai.xml")
+    logging.info(f"Done. History has {len(new_history)} papers ({len(ai_scored)} AI-scored).")
 
 
 if __name__ == "__main__":

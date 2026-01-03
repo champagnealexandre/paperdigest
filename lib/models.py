@@ -27,5 +27,6 @@ class Paper(BaseModel):
     url: str
     published_date: datetime
     source_feed: str = ""
+    stage: str = "keyword_rejected"  # "keyword_rejected" | "ai_scored"
     hunted_links: List[str] = Field(default_factory=list)
     analysis_result: Optional[Dict[str, Any]] = None

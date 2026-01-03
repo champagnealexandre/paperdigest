@@ -15,9 +15,9 @@ def load_history(path: str) -> List[Dict[str, Any]]:
 
 
 def save_history(data: List[Dict[str, Any]], path: str) -> None:
-    """Save paper history, keeping only last 200 entries."""
+    """Save paper history, keeping only last 100,000 entries."""
     with open(path, 'w') as f:
-        json.dump(data[:200], f, indent=2)
+        json.dump(data[:100000], f, indent=2)
 
 
 def clean_text(text: str) -> str:
