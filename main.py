@@ -26,7 +26,7 @@ def load_config() -> Config:
     """Load config from multiple YAML files."""
     config_data = {}
     
-    for filename in ["config.yaml", "prompt.yaml", "keywords.yaml", "domains.yaml"]:
+    for filename in ["config.yaml", "ai.yaml", "keywords.yaml", "domains.yaml"]:
         with open(f"config/{filename}") as f:
             config_data.update(yaml.safe_load(f))
     

@@ -26,8 +26,8 @@ All config lives in `config/`:
 
 | File | Purpose |
 |------|---------|
-| `config.yaml` | Core settings: model tier, workers, paths |
-| `prompt.yaml` | LLM prompt template + custom instructions |
+| `config.yaml` | Paths (base URL, history file) |
+| `ai.yaml` | Model settings, prompt template, custom instructions |
 | `keywords.yaml` | Keyword lists (astro, ool) |
 | `domains.yaml` | Academic domains for link hunter |
 | `feeds.yaml` | RSS feed sources by category |
