@@ -49,6 +49,19 @@ Set `model_tier` in config.yaml (1-4):
 | 3 | `google/gemini-2.5-pro` |
 | 4 | `openai/gpt-5.2` |
 
+### Available OpenRouter Models (as of 2026-01-03)
+
+**Google Gemini:**
+- `google/gemini-2.5-flash`, `google/gemini-2.5-flash-lite`
+- `google/gemini-2.5-pro`, `google/gemini-3-pro-preview`
+- `google/gemini-2.0-flash-001`, `google/gemini-3-flash-preview`
+
+**OpenAI:**
+- `openai/gpt-4o`, `openai/gpt-4o-mini`, `openai/gpt-4.1`
+- `openai/gpt-5-mini`, `openai/gpt-5-nano`
+- `openai/gpt-5.1`, `openai/gpt-5.1-chat`, `openai/gpt-5.2`, `openai/gpt-5.2-pro`
+- `openai/o1-mini`, `openai/o1-pro`, `openai/o3-deep-research`
+
 ## Project Structure
 
 ```
