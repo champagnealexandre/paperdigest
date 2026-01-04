@@ -3,8 +3,19 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-04T21:15:14.894126+00:00</updated>
+  <updated>2026-01-04T22:17:00.996879+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [5] bioinformatics - biorXiv Preprints ▶ Decoupled Representation Learning Improves Generalization in CRISPR Off-Target Prediction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697551v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697551v1?rss=1</id>
+    <updated>2026-01-04T00:00:00Z</updated>
+    <summary>Computational prediction of CRISPR-Cas9 off-target activity is a critical step toward the safe and scalable design of guide RNAs. Most existing deep learning models are trained on large proxy datasets</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A two-stage deep learning approach using pretrained transformer sequence embeddings improves generalization of proxy-trained CRISPR-Cas9 off-target prediction models when evaluated on the experimentally validated TrueOT benchmark.</p>
+<p><strong>Abstract:</strong> Computational prediction of CRISPR-Cas9 off-target activity is a critical step toward the safe and scalable design of guide RNAs. Most existing deep learning models are trained on large proxy datasets derived from high-throughput assays; however, their performance often degrades when evaluated on experimentally validated off-target sites. This limitation raises concerns about the generalization ability of proxy-trained models and highlights the need for architectures that better transfer to biologically relevant benchmarks such as TrueOT. We propose a two-stage deep learning framework that decouples sequence representation learning from off-target classification. In the first stage, guide RNA sequences are encoded using pretrained transformer-based embeddings learned from large genomic corpora. In the second stage, a hybrid neural network integrates these embeddings with mismatch-level and sequence-pair features to predict off-target activity. Models are trained exclusively on a proxy dataset and evaluated under strict external validation on the TrueOT benchmark. Our results show that incorporating pretrained sequence embeddings substantially improves generalization performance. The full two-stage model achieves consistent improvements in ROC-AUC and PR-AUC on TrueOT, relative to proxy-only baselines, across repeated runs. We demonstrate a consistent generalization effect under distribution shift, robust to training noise, seeds, and evaluation variance. These findings provide empirical evidence that representation transfer plays a critical role in bridging the gap between proxy assay data and experimentally validated off-target behavior.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697551v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [37] ChemRxiv ▶ Polymer Concentration Induced Self-assembly of Block Copolymers in Ionic Liquid Smart Inks</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss"/>

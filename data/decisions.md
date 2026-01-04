@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Decoupled Representation Learning Improves Generalization in](https://www.biorxiv.org/content/10.64898/2026.01.04.697551v1?rss=1) |
+| keyword_rejected | - | [From fibril to framework: P. abyssi AbpX illuminates a calci](https://www.biorxiv.org/content/10.64898/2026.01.04.697558v1?rss=1) |
+| keyword_rejected | - | [NetMedGPT - A network medicine foundation model for extensiv](https://www.biorxiv.org/content/10.64898/2026.01.04.697552v1?rss=1) |
+| keyword_rejected | - | [The Influence of Ligands on AlphaFold3 Prediction of Cryptic](https://www.biorxiv.org/content/10.64898/2026.01.04.697564v1?rss=1) |
 | ai_scored | 37 | [Polymer Concentration Induced Self-assembly of Block Copolym](https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Characterisation of conserved and reacting moieties in chemi](https://www.sciencedirect.com/science/article/pii/S0022519325003327?dgcid=rss_sd_all) |
 | keyword_rejected | - | [One Acceptor Core, Two Bright Pathways: CF3-Substituted Tria](https://dx.doi.org/10.26434/chemrxiv-2026-tj0zt?rft_dat=source%3Ddrss) |
