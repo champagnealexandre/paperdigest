@@ -3,8 +3,21 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-04T19:13:15.477015+00:00</updated>
+  <updated>2026-01-04T20:19:13.741128+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [37] ChemRxiv ▶ Polymer Concentration Induced Self-assembly of Block Copolymers in Ionic Liquid Smart Inks</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-04T00:00:00Z</updated>
+    <summary>Assembly of block copolymers (BCPs) with epoxy is useful to enhance the mechanical toughness of 3D-printable epoxy inks. Recently, ionic liquids (ILs) like 1-Ethyl-3-Methylimidazolium dicyanamide ([EM</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Coarse-grained simulations show concentration-driven self-assembly transitions (spherical→cylindrical→lamellar) of Pluronic P123 in an ionic liquid, offering limited but conceptually relevant insight into physicochemical self-organization processes that could inform discussions of compartment-like structures in origins-of-life contexts.</p>
+<p><strong>Abstract:</strong> Assembly of block copolymers (BCPs) with epoxy is useful to enhance the mechanical toughness of 3D-printable epoxy inks. Recently, ionic liquids (ILs) like 1-Ethyl-3-Methylimidazolium dicyanamide ([EMIM][DCA]) have enhanced the self-assembly of pure BCP, enabling the formation of a controlled nanostructure. However, the mechanistic details of the morphological transitions of BCP to nanostructures in the presence of ILs remain unresolved. Here, we developed a coarse-grained (CG) model for a certain class of BCPs, namely Pluronic P123 in [EMIM][DCA] ionic liquid, to investigate the underlying mechanism beyond nanostructure transition of BCPs under varying temperature and composition. At various Pluronic compositions (20-60 wt%), P123 self-aggregates into spherical, cylindrical, and lamellar nanostructures, confirmed by visual inspection and quantitative metrics. An increase in the concentration of Pluronic leads to the formation of a more favorable self-interaction, resulting in a more ordered, lamellar-shaped aggregate. We suggest that morphological changes of nanostructure are governed by the balance between entropic and enthalpic factors. In a higher ordered shape (lamellar phase), enthalpic dominates, while in spherical-shaped micelles, both entropic and enthalpic are equivalent. Our CG model of PEO and PPO beads can be used to investigate the BCPs phase separation and will further help to understand the thermodynamics of self-aggregation for other BCPs in IL medium. This study will guide the acceleration of the discovery process for advanced 3D printable materials, including Pluronic P123 or other Pluronic materials.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-6n2h1">https://doi.org/10.26434/chemrxiv-2026-6n2h1</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] ChemRxiv ▶ Tailoring TiO2 Morphology and Surface Chemistry for Optimized Photocatalytic Activity in rGO Hybrids</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss"/>

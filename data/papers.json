@@ -1,5 +1,110 @@
 [
   {
+    "title": "Polymer Concentration Induced Self-assembly of Block Copolymers in Ionic Liquid Smart Inks",
+    "summary": "Assembly of block copolymers (BCPs) with epoxy is useful to enhance the mechanical toughness of 3D-printable epoxy inks. Recently, ionic liquids (ILs) like 1-Ethyl-3-Methylimidazolium dicyanamide ([EMIM][DCA]) have enhanced the self-assembly of pure BCP, enabling the formation of a controlled nanostructure. However, the mechanistic details of the morphological transitions of BCP to nanostructures in the presence of ILs remain unresolved. Here, we developed a coarse-grained (CG) model for a certain class of BCPs, namely Pluronic P123 in [EMIM][DCA] ionic liquid, to investigate the underlying mechanism beyond nanostructure transition of BCPs under varying temperature and composition. At various Pluronic compositions (20-60 wt%), P123 self-aggregates into spherical, cylindrical, and lamellar nanostructures, confirmed by visual inspection and quantitative metrics. An increase in the concentration of Pluronic leads to the formation of a more favorable self-interaction, resulting in a more ordered, lamellar-shaped aggregate. We suggest that morphological changes of nanostructure are governed by the balance between entropic and enthalpic factors. In a higher ordered shape (lamellar phase), enthalpic dominates, while in spherical-shaped micelles, both entropic and enthalpic are equivalent. Our CG model of PEO and PPO beads can be used to investigate the BCPs phase separation and will further help to understand the thermodynamics of self-aggregation for other BCPs in IL medium. This study will guide the acceleration of the discovery process for advanced 3D printable materials, including Pluronic P123 or other Pluronic materials.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-6n2h1"
+    ],
+    "analysis_result": {
+      "score": 37,
+      "summary": "Coarse-grained simulations show concentration-driven self-assembly transitions (spherical\u2192cylindrical\u2192lamellar) of Pluronic P123 in an ionic liquid, offering limited but conceptually relevant insight into physicochemical self-organization processes that could inform discussions of compartment-like structures in origins-of-life contexts."
+    }
+  },
+  {
+    "title": "Site-Specific Labeling of Native Peptides and Proteins: Chemical and Enzymatic Strategies",
+    "summary": "Site-specific modifications of native-sequence proteins are technologies that underpin progresses in chemical biology, diagnostics and next-generation biotherapeutics. However, the pursuit of site-specificity has often come at the expense of scalability and usability, ultimately limiting translational potential of a modification tool. This review critically compares current key strategies, including terminal, disulfide rebridging, small-molecule, glycan and enzyme-based modifications. Finally, we present a decision tree to guide method selection and highlight opportunities for innovation in next-generation native-sequence protein modification technologies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-76r25?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A versatile shaping route for the controlled release of nitric oxide from porous solids",
+    "summary": "Different classes of ordered porous materials, metal-organic frameworks and titanosilicates, with potential as nitric oxide (NO) delivery carriers are combined with a biocompatible hydrophobic polymer, polycaprolactone (PCL), to obtain a more clinically practical format and to improve the delivery kinetics and stability of the porous materials for NO-based therapies. Incorporation into PCL films transforms the rapid, minute-scale NO release of the powders into sustained release profiles lasting up to 24 h in biologically relevant media. By selecting the type of porous solid and tuning its loading and particle size within the polymer matrix, the NO dosage and release rate can be modulated. The film-like form of these PCL/porous material composites is particularly promising for clinical applications, such as wound dressings, where controlled NO release may support healing while providing antibacterial effects.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-8b329?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Atomistic insights into the chemical stability and ionic transport at Li-metal/Li-Argyrodite interfaces",
+    "summary": "All solid-state batteries (ASSBs) based on solid-state electrolytes (SSEs) are a novel Li-ion battery technology with the potential of enhanced safety, longer lifetimes, and increased energy density when coupled with the Li-metal anode. Li-Argyrodite (Li6PS5Cl) is a promising SSE with high ionic conductivity, produced using cheap and sustainable precursors, and therefore of interest to both academia and industry. Like many other sulfide-based SSEs, it is however unstable against Li-metal. Using ab-initio and machine-learning methods, we simulate three representative Li-metal/Li-Argyrodite interface models to investigate whether the exact surface termination affects the chemical stability and ion transport capability. We present a systematic approach to create low-energy interfaces by screening 28 low Miller-index surface terminations of Li-argyrodite and coupling them with Li-metal. Custom-made machine-learned interatomic potentials trained on ab-initio data enable the simulation of large interface models with over 2000 atoms for 5 ns. We find that all three interfaces decompose into an amorphous solid-electrolyte interphase (SEI) layer, consisting of Li3P, Li2S and LiCl, which then crystallizes into an antifluorite phase Li2S{1-x-y}P{x}Cl{y}; {x,y = 0.14-0.15}. A two orders of magnitude decrease in Li-ion flux shows that the crystalline SEI layer is a sluggish ion conductor, similar to Li2S. While all three interfaces form the same crystalline SEI layer, the exact rates of the decomposition and crystallisation depend on the actual surface composition. These atomic-level insights could potentially be used to control the SEI formation in sulphide-based SSEs and others.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-5d9nq?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Computational/Experimental Investigation into the Reversibility of [6+4]/[4+2] Cycloadditions with Tropone Derivatives",
+    "summary": "While the thermoreversibility of furan-maleimide Diels\u2013Alder adducts has been employed in dynamic polymer networks, the susceptibility of furans and maleimides to engage in irreversible side reactions motivated our investigations into other dynamic cycloaddition reactions.  Although [6+4] pericyclic reactions of tropone derivatives and dienes have been investigated since the mid 1960s, little work has been performed to look at the factors that may affect the energy barriers of both the forward and reverse reaction. In this work, we use DFT calculations and experimental analyses to examine the cycloaddition reactions of tropone derivatives with dienes. We find that DFT calculations at the m062x-6-31G(d) level of theory are consistent with experimentally derived values of  \u0394G\u2021 for the reactions of some tropone derivatives with cyclopentadiene. Likewise, calculations provide reasonable predictions of the distribution of [6+4] and competitive [4+2] adducts, with [6+4] adducts converting to the more stable [4+2] adducts at elevated temperatures. Finally, we observe that even the rather stable [4+2] adducts show some reversion to the starting tropone. Due to the alignment between calculations and experimental kinetic and thermodynamic data, this work highlights the value of employing DFT methods in the future to help in the design of new reversible cycloadditions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0bwtk?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Enhancing Interfacial Properties in Aramid Fiber/Epoxy Composites via Hyperbranched Polyimide for Superior Performance",
+    "summary": "Aramid fiber (AF) reinforced epoxy resin (EP) composites are widely regarded as promising candidates for fabricating advanced composites. However, the inherently weak interfacial adhesion between AF and EP considerably restricts the overall performance of AF/EP composites. Therefore, the effective interfacial optimization of is crucial for realizing high-performance AF/EP composites. In this work, an amino-terminated hyperbranched polyimide (HBPI) was synthesized via low-temperature solution polycondensation and utilized as a novel AF sizing agent. Thereafter, the AF/EP interfacial interactions were enhanced through the combined effects of chemical bonding between the HBPI sizing agent and EP and physical interactions (hydrogen bonding and \u03c0\u2013\u03c0 interactions) between HBPI sizing agent and AF, thereby benefiting stress transfer at the interfacial region. As a result, the 90\u00b0 tensile strength and NOL-ring interlaminar shear strength (ILSS) of AF0.04/EP composites (with a 0.04 wt% HBPI sizing concentration) were improved by 38.45% and 14.31%, respectively, compared with the AFunsized/EP specimen. Furthermore, the tensile strength and elongation at break of the impregnated filament increased by 17.86% and 14.73%, respectively. These findings demonstrate that the HBPI sizing agent offers significant potential for enhancing the interfacial performance of AF/EP composites, providing valuable theoretical insights for the development of high-performance composite materials.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-wbn21?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "One Acceptor Core, Two Bright Pathways: CF3-Substituted Triazines Achieve Highly Efficient Exciplexes through Inter- and Intramolecular Charge-Transfer",
+    "summary": "Intermolecular charge-transfer (CT)-based exciplexes provide broad design flexibility through independent donor and acceptor selection but typically suffer from intrinsically low photoluminescence quantum yields (PLQYs) due to diminished orbital overlap. In contrast, intramolecular CT systems readily achieve high PLQYs owing to more predictable orbital overlap, but they generally require laborious scaffold engineering with precise substituent tuning. Here, we show that a CF3-substituted triazine scaffold (T4) serves as a unifying design platform that enables high-efficiency emission in both regimes. With CzCF3 donors, T4-2CzCF3 and T4-3CzCF3 formed intermolecular CT exciplexes in mCBP-doped films, achieving PLQYs of 100%. Incorporation of stronger carbazole donors afforded T4-3Cz, which exhibited intramolecular CT-induced thermally activated delayed fluorescence (TADF) with equally high PLQY (100%) in both solution and thin films. Beyond these outstanding emissive properties, T4-3Cz displayed pronounced nonlinear optical responses, including a two-photon absorption cross-section (\u03c32) of 80 GM at 780 nm and a three-photon absorption cross-section (\u03c33) of 2.94\u00d710-80 cm6 s2 at 1210 nm. These findings establish the T4 scaffold as a versatile molecular framework that simultaneously supports highly efficient intermolecular and intramolecular CT-based TADF while unlocking multiphoton absorption functionality, thereby bridging the fields of organic electronics and bioimaging.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-tj0zt?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Computational/Experimental Investigation into the Reversibility of [6+4]/[4+2] Cycloadditions with Tropone Derivatives",
+    "summary": "While the thermoreversibility of furan-maleimide Diels\u2013Alder adducts has been employed in dynamic polymer networks, the susceptibility of furans and maleimides to engage in irreversible side reactions motivated our investigations into other dynamic cycloaddition reactions.  Although [6+4] pericyclic reactions of tropone derivatives and dienes have been investigated since the mid 1960s, little work has been performed to look at the factors that may affect the energy barriers of both the forward and reverse reaction. In this work, we use DFT calculations and experimental analyses to examine the cycloaddition reactions of tropone derivatives with dienes. We find that DFT calculations at the m062x-6-31G(d) level of theory are consistent with experimentally derived values of  \u0394G\u2021 for the reactions of some tropone derivatives with cyclopentadiene. Likewise, calculations provide reasonable predictions of the distribution of [6+4] and competitive [4+2] adducts, with [6+4] adducts converting to the more stable [4+2] adducts at elevated temperatures. Finally, we observe that even the rather stable [4+2] adducts show some reversion to the starting tropone. Due to the alignment between calculations and experimental kinetic and thermodynamic data, this work highlights the value of employing DFT methods in the future to help in the design of new reversible cycloadditions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0bwtk?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "One Acceptor Core, Two Bright Pathways: CF3-Substituted Triazines Achieve Highly Efficient Exciplexes through Inter- and Intramolecular Charge-Transfer",
+    "summary": "Intermolecular charge-transfer (CT)-based exciplexes provide broad design flexibility through independent donor and acceptor selection but typically suffer from intrinsically low photoluminescence quantum yields (PLQYs) due to diminished orbital overlap. In contrast, intramolecular CT systems readily achieve high PLQYs owing to more predictable orbital overlap, but they generally require laborious scaffold engineering with precise substituent tuning. Here, we show that a CF3-substituted triazine scaffold (T4) serves as a unifying design platform that enables high-efficiency emission in both regimes. With CzCF3 donors, T4-2CzCF3 and T4-3CzCF3 formed intermolecular CT exciplexes in mCBP-doped films, achieving PLQYs of 100%. Incorporation of stronger carbazole donors afforded T4-3Cz, which exhibited intramolecular CT-induced thermally activated delayed fluorescence (TADF) with equally high PLQY (100%) in both solution and thin films. Beyond these outstanding emissive properties, T4-3Cz displayed pronounced nonlinear optical responses, including a two-photon absorption cross-section (\u03c32) of 80 GM at 780 nm and a three-photon absorption cross-section (\u03c33) of 2.94\u00d710-80 cm6 s2 at 1210 nm. These findings establish the T4 scaffold as a versatile molecular framework that simultaneously supports highly efficient intermolecular and intramolecular CT-based TADF while unlocking multiphoton absorption functionality, thereby bridging the fields of organic electronics and bioimaging.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-tj0zt?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Characterisation of conserved and reacting moieties in chemical reaction networks",
+    "summary": "<p>Publication date: Available online 3 January 2026</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Hadjar Rahou, Hulda S. Haraldsd\u00f3ttir, Filippo Martinelli, Ines Thiele, Ronan M T Fleming</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003327?dgcid=rss_sd_all",
+    "published_date": "2026-01-04T20:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Tailoring TiO2 Morphology and Surface Chemistry for Optimized Photocatalytic Activity in rGO Hybrids",
     "summary": "TiO2\u2013reduced graphene oxide (rGO) hybrids were investigated in this study to elucidate how TiO2 morphology and surface chemistry govern charge-transfer pathways and, ultimately, reaction selectivity. Three anatase TiO2 nanostructures were compared: bipyramids predominantly exposing {101} facets (bipy) and two nanosheet-like samples enriched in {001} facets, either fluorinated (n-sh) or thermally defluorinated and {101}-enriched (n-sh_873K). A constant rGO loading (2 wt.%) was introduced via in situ hydrazine reduction of graphene oxide in the presence of TiO2. Photocatalytic activity was evaluated under Xe-lamp irradiation in two model reactions probing oxidative and reductive pathways: phenol degradation and H2 evolution using formic acid as a scavenger. rGO systematically enhanced phenol degradation for all morphologies, with bipy+rGO showing the highest activity. In contrast, H2 evolution was consistently suppressed upon rGO incorporation across all TiO2 samples, although the bipyramidal morphology remained the most active within each series.\nThese results highlight that facet exposure and surface functionalization dictate the beneficial or detrimental role of rGO depending on the targeted photocatalytic pathway.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss",

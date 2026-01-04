@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 37 | [Polymer Concentration Induced Self-assembly of Block Copolym](https://dx.doi.org/10.26434/chemrxiv-2026-6n2h1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Characterisation of conserved and reacting moieties in chemi](https://www.sciencedirect.com/science/article/pii/S0022519325003327?dgcid=rss_sd_all) |
+| keyword_rejected | - | [One Acceptor Core, Two Bright Pathways: CF3-Substituted Tria](https://dx.doi.org/10.26434/chemrxiv-2026-tj0zt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Computational/Experimental Investigation into the Reversib](https://dx.doi.org/10.26434/chemrxiv-2026-0bwtk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [One Acceptor Core, Two Bright Pathways: CF3-Substituted Tria](https://dx.doi.org/10.26434/chemrxiv-2026-tj0zt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Enhancing Interfacial Properties in Aramid Fiber/Epoxy Compo](https://dx.doi.org/10.26434/chemrxiv-2026-wbn21?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Computational/Experimental Investigation into the Reversib](https://dx.doi.org/10.26434/chemrxiv-2026-0bwtk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Atomistic insights into the chemical stability and ionic tra](https://dx.doi.org/10.26434/chemrxiv-2026-5d9nq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A versatile shaping route for the controlled release of nitr](https://dx.doi.org/10.26434/chemrxiv-2026-8b329?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Site-Specific Labeling of Native Peptides and Proteins: Chem](https://dx.doi.org/10.26434/chemrxiv-2026-76r25?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Cellulose Coating Altered the Electro-Chemo-Mechanical Evolu](https://dx.doi.org/10.26434/chemrxiv-2026-bwt22?rft_dat=source%3Ddrss) |
 | ai_scored | 35 | [Tailoring TiO2 Morphology and Surface Chemistry for Optimize](https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Leveraging Divergent LMCT Excited State Pathways for Catalys](https://dx.doi.org/10.26434/chemrxiv-2025-b2p6p-v2?rft_dat=source%3Ddrss) |
