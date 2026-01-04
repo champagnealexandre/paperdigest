@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Le sexe, un avantage évolutif](https://www.sciencesetavenir.fr/archeo-paleo/evolution/le-sexe-un-avantage-evolutif_190069?xtor=RSS-4) |
 | keyword_rejected | - | [Long term outcomes of valve sparing aortic root replacement ](https://www.nature.com/articles/s41598-025-34107-y) |
 | keyword_rejected | - | [Green agricultural product quality supervision based on pros](https://www.nature.com/articles/s41598-025-29675-y) |
 | ai_scored | 25 | [NASA JPL Unveils Rover Operations Center For Future Missions](https://astrobiology.com/2026/01/nasa-jpl-unveils-rover-operations-center-for-future-missions.html) |
