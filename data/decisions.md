@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [A dissolvable microneedle patch co-delivering Zerumbone and ](https://www.nature.com/articles/s41598-025-33891-x) |
+| keyword_rejected | - | [Body mass index mediates the association between neutrophil-](https://www.nature.com/articles/s41598-025-34721-w) |
+| keyword_rejected | - | [An investigation into the physico-chemical characteristics a](https://www.nature.com/articles/s41598-025-33181-6) |
+| keyword_rejected | - | [SlideMamba: entropy-based adaptive fusion of GNN and Mamba f](https://www.nature.com/articles/s41598-025-34367-8) |
+| keyword_rejected | - | [Prevalence and related influencing factors of depression sym](https://www.nature.com/articles/s41598-025-34565-4) |
+| keyword_rejected | - | [MOSPD3 mediates the ER recruitment of ATG2A to promote autop](https://www.biorxiv.org/content/10.64898/2026.01.04.697522v1?rss=1) |
 | keyword_rejected | - | [Explainable federated transformer framework for joint leukem](https://www.nature.com/articles/s41598-025-34715-8) |
 | keyword_rejected | - | [miR-96-5p antagonizes FOXQ1-driven WNT/β-catenin signaling t](https://www.nature.com/articles/s41598-025-34859-7) |
 | keyword_rejected | - | [LncRNA FOXP4-AS1 facilitates colorectal cancer invasion and ](https://www.nature.com/articles/s41598-025-34903-6) |
