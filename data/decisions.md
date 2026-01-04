@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Explainable federated transformer framework for joint leukem](https://www.nature.com/articles/s41598-025-34715-8) |
+| keyword_rejected | - | [miR-96-5p antagonizes FOXQ1-driven WNT/β-catenin signaling t](https://www.nature.com/articles/s41598-025-34859-7) |
+| keyword_rejected | - | [LncRNA FOXP4-AS1 facilitates colorectal cancer invasion and ](https://www.nature.com/articles/s41598-025-34903-6) |
+| keyword_rejected | - | [Persian text readability assessment with hierarchical transf](https://www.nature.com/articles/s41598-025-34549-4) |
+| keyword_rejected | - | [Human adipose stem cell-derived exosomes modulate the transc](https://www.nature.com/articles/s41598-025-34661-5) |
 | keyword_rejected | - | [Un an après les incendies de Los Angeles, les rescapés se ba](https://www.sciencesetavenir.fr/nature-environnement/un-an-apres-les-incendies-de-los-angeles-les-rescapes-se-battent-pour-reconstruire_190262?xtor=RSS-15) |
 | keyword_rejected | - | [Grand Zimbabwe : un empire prospère du Kalahari à l'océan In](https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/grand-zimbabwe-un-empire-prospere-du-kalahari-a-l-ocean-indien_190106?xtor=RSS-4) |
 | keyword_rejected | - | [A big data approach to artificial intelligence driven predic](https://www.nature.com/articles/s41598-025-29443-y) |
