@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le prince de Lavau, un Celte d'exception](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/le-prince-de-lavau-un-celte-d-exception_190122?xtor=RSS-4) |
 | keyword_rejected | - | [The first complete mitochondrial genome and phylogenetic ana](https://www.nature.com/articles/s41598-025-33261-7) |
 | ai_scored | 45 | [Vertically Resolved Minimal-set k-distribution For Thermal I](https://astrobiology.com/2026/01/vertically-resolved-minimal-set-k-distribution-for-thermal-infrared-absorption-in-the-venus-atmosphere.html) |
 | ai_scored | 70 | [Ancient Metagenomics Reveals Subglacial Microbiomes Driven B](https://astrobiology.com/2026/01/ancient-metagenomics-reveals-subglacial-microbiomes-driven-by-oxygen-availability.html) |
