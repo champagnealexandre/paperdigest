@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Un an après les incendies de Los Angeles, les rescapés se ba](https://www.sciencesetavenir.fr/nature-environnement/un-an-apres-les-incendies-de-los-angeles-les-rescapes-se-battent-pour-reconstruire_190262?xtor=RSS-15) |
+| keyword_rejected | - | [Grand Zimbabwe : un empire prospère du Kalahari à l'océan In](https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/grand-zimbabwe-un-empire-prospere-du-kalahari-a-l-ocean-indien_190106?xtor=RSS-4) |
 | keyword_rejected | - | [A big data approach to artificial intelligence driven predic](https://www.nature.com/articles/s41598-025-29443-y) |
 | keyword_rejected | - | [Le plomb, moteur de l’évolution du langage ?](https://www.pourlascience.fr/sd/paleoanthropologie/le-plomb-moteur-de-l-evolution-du-langage-28611.php) |
 | ai_scored | 40 | [Le sexe, un avantage évolutif](https://www.sciencesetavenir.fr/archeo-paleo/evolution/le-sexe-un-avantage-evolutif_190069?xtor=RSS-4) |
