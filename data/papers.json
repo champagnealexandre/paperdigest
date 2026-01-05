@@ -1,5 +1,243 @@
 [
   {
+    "title": "Prebiotic aqueous reactions catalyzed by native nickel without hydrogen",
+    "summary": "Compared to iron, nickel is comparatively rare as a transition metal in enzymes. But it is essential in several enzymes of carbon and energy metabolism in acetogens (bacteria) and methanogens (archaea), which use the acetyl-CoA pathway of H2-dependent CO2 fixation. Nickel containing enzymes of acetogens and methanogens include FeNi hydrogenase, carbon monoxide dehydrogenase, acetyl-CoA synthase and, in methanogens, methyl-CoM reductase in the last step of methane synthesis. Several lines of evidence implicate the acetyl-CoA pathway as the most ancient pathway of CO2 fixation, most notably recent findings that the overall reaction of the enzymatic pathway from H2 (E0' = -414 mV) and CO2 to pyruvate can be replaced by Ni0 alone in water as the lone catalyst. Here we studied the ability of Ni0 to serve as catalyst and reductant for nonenzymatic redox reactions that require only a mild reductant, as the midpoint potential of Ni0 oxidation to Ni2+ is E0' = -260 mV. We show that Ni0 in water can convert 2-oxo acids to 2-hydroxy acids and, in the presence of NH3, to amino acids at 25-100C without addition of H2, and that it will function as catalyst and reductant for the fumarate reductase reaction. The findings expand the repertoire of ancient metabolic reactions that Ni0 can catalyze without proteins, cofactors, or sulfur, shedding light on the broad catalytic activity and substrate specificity of Ni0 at metabolic origin.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1"
+    ],
+    "matched_keywords": [
+      "water",
+      "prebiotic"
+    ],
+    "analysis_result": {
+      "score": 95,
+      "summary": "This preprint reports that native Ni0 in water can drive multiple prebiotic, protein-free redox transformations (including 2-oxo acid reduction to 2-hydroxy acids/amino acids and fumarate reduction) at 25\u2013100\u00b0C without added H2, expanding plausible early metabolic-like chemistry linked to the acetyl-CoA pathway."
+    }
+  },
+  {
+    "title": "Atlas-Based Spatio-temporal MRI Phenotyping of 3D Fungal Spread in Grapevine Wood",
+    "summary": "In perennial crops, inner wood degradation often escapes detection until irreversible damage has occurred. Grapevine trunk disease (GTD) is a well-known example in viticulture that alters plants from within, years before foliar symptoms arise, making early assessment difficult. To overcome this limitation, we present a novel non-destructive 3D + t pipeline for Magnetic Resonance Imaging (MRI) spatial quantification and monitoring of early internal tissue degradation resulting from fungal colonization. This pipeline integrates (i) anatomical alignment and rigid time-series registration of volumetric MRI scans, (ii) a generalized cylindrical coordinate transformation for cross-sectional trunk anatomy normalization, (iii) supervised classification to segment water-depleted (diseased/non-functional) regions, and (iv) population-level statistical analyses including construction of population mean images, probabilistic atlases of lesions, and 3D lesion descriptors. Applied to multiple Vitis vinifera cultivars inoculated with a fungal trunk pathogen, our approach enables time-lapse comparisons of cultivar and treatment in vivo. The results reveal consistent early degradation signals across individuals and cultivar-dependent lesion differences. By combining high-resolution MRI with advanced image processing and statistical atlas tools, this method provides a new paradigm for 3D plant phenotyping of internal disease progression. This methodological innovation allows non-invasive quantification of disease development and comparative assessment of host responses in woody plants, demonstrating its potential to advance understanding and management of GTDs.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "Presents an MRI-based 3D+time imaging and atlas pipeline to non-destructively quantify early fungal-driven wood degradation in grapevines, with minimal relevance to origins-of-life questions aside from general water-status phenotyping."
+    }
+  },
+  {
+    "title": "A targeted mutational strategy aiding generating antisense RNA to knockdown the Ehrlichia chaffeensis p28-outer membrane protein 19 expression",
+    "summary": "Obligate intracellular pathogenic bacteria belonging to the order Rickettsiales include several important emerging pathogens causing major health and economic impact to people, companion animals, and agricultural animals. Despite some recent progress, the lack of well-established genetic manipulation methods for diverse research applications remains a challenge. We recently reported the establishment of targeted mutagenesis methods to disrupt genes in Ehrlichia and Anaplasma species. Many essential genes in Ehrlichia chaffeensis are likely refractory to targeted mutagenesis, thus we developed a novel targeted mutational approach leading to the expression of antisense RNA to facilitate the knockdown of p28-Omp19 protein expression from ECH_1143. This gene was selected as its encoded protein is among the highly immunogenic proteins of E. chaffeensis and is likely essential for the pathogen. This method involved introducing a mutation at a distal genomic location within the E. chaffeensis genome to allow for generation of a 209 nucleotide-long antisense RNA segment complementary to ECH_1143 coding mRNA from the same gene promoter which was duplicated as part of the mutagenesis. The mutational strategy was designed to retain the surrounding genomic regions unaltered. The antisense knockdown version of E. chaffeensis resulted in a reduction of p28-Omp19 expression when compared to wild-type E. chaffeensis during its replication in a macrophage cell line, where the gene expression is known to occur. We anticipate that the antisense mutational strategy will be broadly applicable to facilitate investigating essential genes of obligate intracellular bacterial pathogens.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Reports an antisense-RNA knockdown mutational strategy in the intracellular bacterium Ehrlichia chaffeensis to reduce expression of an essential outer membrane protein, offering a genetic tool but with minimal direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Structural basis of HSP90C, a highly active chloroplastic HSP90 chaperone from A. thaliana",
+    "summary": "Chloroplasts are the main energy organelles in plants, primary through photosynthesis. Thereby, they are responsible for CO2 fixation and dioxygen production, which are essential for living species on Earth. To ensure these processes, numerous proteins encoded from the nuclear DNA need to be imported inside the chloroplast, and eventually to the thylakoids. Whereas the translocation systems from both chloroplastic and thylakoids membranes have been studied in recent years, the stromal route between these two membranes is largely unknown. Notably, the chloroplastic HSP90 (HSP90C) is likely to play an important role in this process, but its structure and molecular mechanisms remain to be unveiled. In this study, we used a combination of structural and biophysical approaches to elucidate the features of Arabidopsis thaliana's HSP90C. Principally, we found that HSP90C has a remarkably high ATPase activity among the HSP90 family proteins. Further investigation allowed us to pinpoint atypical mechanisms responsible for this high activity. First, the N-terminal cap is involved in a disulfide bond that accelerates the ATPase activity of HSP90C. Second, its C-terminal domain features an extension that is mandatory for its dimerization. Third, our crystal structures reveal a wide opening of the HSP90C's dimer with reduced intermonomeric interfaces. Lastly, we identified a helical switch which is required for HSP90C's high activity. Three of these four features are due to sequence signatures of HSP90C, which we found to be shared by most of green plants representatives. Our study provides first insights of HSP90C's non-canonical mechanisms, which will help in the understanding of processes related to protein import in the chloroplast.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "This preprint reports crystal structures and biophysical mechanisms behind the unusually high ATPase activity and dimerization of the plant chloroplast HSP90C chaperone, informing chloroplast protein import but with only tangential relevance to origins-of-life questions."
+    }
+  },
+  {
+    "title": "High Recovery Stop-and-Go Extraction Tips Using Polytetrafluoroethylene Disks Embedded with Poly(styrene-divinylbenzene) Particles for Proteomics",
+    "summary": "The stop-and-go extraction tip (StageTip) is widely used for peptide purification in bottom-up proteomics, yet the original 3M EmporeTM disk is no longer available, prompting the need to evaluate current alternatives. Two types of commercially available poly(styrene-divinylbenzene) (SDB)-containing polytetrafluoroethylene (PTFE) disks were used to fabricate StageTips. Desalting was performed on 500 ng and 20 ng of HeLa tryptic peptides, and the nanoLC/MS/MS results were compared. Both StageTips demonstrated equivalent performance for the 500 ng sample, but for the 20 ng sample, one StageTip identified 1.8 times more peptides, particularly longer and more hydrophobic peptides. Physical characterization and scanning electron microscope imaging of these disks revealed that the high-performing disk contains more PTFE fibers, partially covering the SDB particle surface. This likely prevents hydrophobic peptides from being trapped in small mesopores, improving recovery from low-input samples. These findings demonstrate that disk material properties critically influence performance in trace proteomics.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697531v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Invertebrate FAXC and Metaxin Proteins: Related Proteins with Distinct Features",
+    "summary": "Structural features of FAXC proteins of invertebrates are examined in this report to further establish that invertebrate FAXCs are metaxin-like proteins. Invertebrate phyla that receive the most attention are Mollusca, Cnidaria, and Arthropoda. The results demonstrate that invertebrate FAXC proteins have structural homology to vertebrate and invertebrate metaxin proteins. However, pairwise alignments of amino acid sequences revealed only low percentages of amino acid identities, indicating that FAXC and metaxin proteins are distinct categories of proteins. Among the important criteria in identifying invertebrate FAXC proteins as metaxin-like was the presence of conserved protein domains: GST_N_Metaxin, GST_C_Metaxin, and Tom37. Another metaxin-like feature found with invertebrate FAXC proteins is a characteristic pattern of -helical and {beta}-strand segments. The four {beta}-strand segments form, in three dimensions, a planar {beta}-sheet motif that is a distinguishing characteristic of FAXC and metaxin proteins. Evolutionary relationships between FAXCs and metaxins were uncovered by phylogenetic analysis. Distinct but related evolutionary groups were found for invertebrate FAXCs and metaxins, as well as vertebrate FAXCs and metaxins. Invertebrate species can have multiple FAXC genes, and more than ten FAXC genes is not uncommon. The genes that are adjacent to different FAXC genes in the same invertebrate are typically not the same. Therefore, the genomic regions are generally not highly conserved for multiple FAXC genes. But, for invertebrates with a single FAXC gene, the same neighboring genes may be found for the FAXC genes of different but taxonomically related invertebrates. Honey bees and bumblebees are examples. For invertebrates with multiple FAXC genes, several of the genes may be in close proximity in the same genomic region, forming a cluster of FAXC genes.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697642v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Salmonella exploits USP32 to coordinate Rab14 and Rab11 recycling pathways for intracellular survival",
+    "summary": "Many intracellular bacterial pathogens establish membrane-bound niches derived from host material to survive and replicate within host cells. These compartments are carved through subversion of host intracellular trafficking pathways to modulate the composition of the vacuolar membrane. Although recycling-associated small Rab GTPases are frequently observed at infection sites, their role in membrane remodeling and cargo sorting has remained poorly understood. Here, we leverage the extensive early membrane remodeling occurring during Salmonella infection to dissect this process. Using endogenously tagged cell lines, we characterize the dynamics of the recycling small GTPases Rab14 and Rab11 at Salmonella intracellular infection sites. We report that Rab14 recruits its effector Rufy1, which mediates sorting of CI-M6PR through recycling tubules. Subsequently, Rab11 disperses the newly formed recycling endosomes by interacting with its effector Fip3 for retrograde transport. This pathway is controlled by the deubiquitinating enzyme USP32, which targets both Rab14 and Rab11, enhancing their interactions with Rufy1 and Fip3, respectively. We further show that USP32 is recruited to the infection site via local enrichment of phosphatidylserine-positive membranes, a process triggered by the Salmonella effector proteins SopE/E2. Importantly, silencing USP32 significantly impairs intracellular bacterial survival. Our findings reveal a remarkable exploitation of host signaling and trafficking pathways by Salmonella to construct a pro-replicative niche. Targeting these pathways may offer new strategies for therapeutic intervention against intracellular bacterial infections.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.01.696821v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "First-in-Class Small Molecule ROBO2 Binders Identified through Integrated Virtual Screening and Biophysical Validation",
+    "summary": "Roundabout homolog 2 (ROBO2) is a transmembrane receptor implicated in glioblastoma progression through its interaction with Slit2-mediated signaling pathways. Dysregulated Slit2-ROBO2 signaling enhances tumor cell migration, invasion, and tissue infiltration, while elevated ROBO2 levels contribute to an immunosuppressive tumor microenvironment supporting GBM aggressiveness and highlighting ROBO2 as a therapeutic target. Despite its therapeutic relevance, no ROBO2-targeted small molecules have been reported. To address this gap, we performed a structure-based virtual screening campaign targeting ROBO2, followed by experimental validation with Dianthus TRIC platform and microscale thermophoresis (MST). Fifteen compounds were screened for ROBO2 binding, from which four candidates exhibited robust TRIC signals. Subsequent affinity measurements revealed that two small molecules, Z1334432986 and Z1692774161, bind ROBO2 in a reproducible concentration-dependent manner, with dissociation constants (Kd) of 40.8 M and 25.8 M, respectively. Molecular docking with validated hits revealed a shared ROBO2 binding pocket defined by conserved anchor residues (ASN354, SER366, ASP385) and accommodation of distinct ligand conformations within the ROBO2 binding pocket. This work establishes a screening pipeline for identifying ROBO2-targeted small molecules and lays the foundation for developing therapeutics aimed at disrupting Slit-ROBO2 signaling in GBM.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697640v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Meso-Substitution Controlled Synthesis of BODIPY\u2013DPM Conjugates: A Pathway to Tailored Photophysical Properties",
+    "summary": "We show that the electronic nature of the meso-aryl substituent in 1,3,5,7-tetramethyl BODIPYs governs the reactivity of the 1,7-methyl (\u03b1-methyl) groups toward the Knoevenagel condensation. Reaction of pyrrole-2-aldehyde with electron-deficient 1,3,5,7-tetramethyl-meso-pentafluorophenyl and 1,3,5,7-tetramethyl-meso-4-nitrophenyl BODIPYs yields double condensation at the 1,7-methyl positions to give the corresponding bis(pyrrole) derivatives, whereas the electron-rich meso-tolyl analogue selectively undergoes single condensation at only one of the \u03b1-methyl groups under identical conditions. This substituent-dependent divergence extends to reactions with 1,9-diformyl-meso-aryl dipyrromethanes, enabling access to structurally distinct BODIPY\u2013DPM conjugates. Reaction of 1,9-diformyl-DPM with meso-tolyl BODIPY selectively yields acyclic monosubstituted BODIPY\u2013DPM conjugates, whereas the higher reactivity of meso-pentafluorophenyl BODIPY enables condensation between both 1,7-methyl groups and the two aldehyde functionalities of the diformyl-DPM scaffold, affording cyclic, porphyrin-like BODIPY\u2013DPM frameworks. Notably, meso-pentafluorophenyl BODIPYs also undergo nucleophilic aromatic substitution of the para-fluorine atom by piperidine under the condensation conditions, as confirmed unambiguously by single-crystal X-ray diffraction. The resulting BODIPY\u2013DPM and BODIPY\u2013pyrrole conjugates exhibit pronounced bathochromic shifts (90\u2013180 nm relative to parent BODIPYs), deep-red to near-infrared absorption (~670 nm) and emission (~750 nm), enlarged Stokes shifts, and strong intramolecular charge-transfer character. These features translate into efficient heavy-atom-free triplet formation, with singlet-oxygen quantum yields reaching up to 0.45. A representative conjugate (10) exhibits potent photodynamic activity in B16F10 melanoma cells with minimal dark toxicity (IC\u2085\u2080 = 0.95 \u03bcM). TD-DFT analysis indicates that excited-state twisting reduces \u0394EST, thereby facilitating heavy-atom-independent intersystem crossing. Collectively, these results establish a robust molecular design framework for next-generation heavy-atom-free photosensitizers.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0zz7t?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Meso-Substitution Controlled Synthesis of BODIPY\u2013DPM Conjugates: A Pathway to Tailored Photophysical Properties",
+    "summary": "We show that the electronic nature of the meso-aryl substituent in 1,3,5,7-tetramethyl BODIPYs governs the reactivity of the 1,7-methyl (\u03b1-methyl) groups toward the Knoevenagel condensation. Reaction of pyrrole-2-aldehyde with electron-deficient 1,3,5,7-tetramethyl-meso-pentafluorophenyl and 1,3,5,7-tetramethyl-meso-4-nitrophenyl BODIPYs yields double condensation at the 1,7-methyl positions to give the corresponding bis(pyrrole) derivatives, whereas the electron-rich meso-tolyl analogue selectively undergoes single condensation at only one of the \u03b1-methyl groups under identical conditions. This substituent-dependent divergence extends to reactions with 1,9-diformyl-meso-aryl dipyrromethanes, enabling access to structurally distinct BODIPY\u2013DPM conjugates. Reaction of 1,9-diformyl-DPM with meso-tolyl BODIPY selectively yields acyclic monosubstituted BODIPY\u2013DPM conjugates, whereas the higher reactivity of meso-pentafluorophenyl BODIPY enables condensation between both 1,7-methyl groups and the two aldehyde functionalities of the diformyl-DPM scaffold, affording cyclic, porphyrin-like BODIPY\u2013DPM frameworks. Notably, meso-pentafluorophenyl BODIPYs also undergo nucleophilic aromatic substitution of the para-fluorine atom by piperidine under the condensation conditions, as confirmed unambiguously by single-crystal X-ray diffraction. The resulting BODIPY\u2013DPM and BODIPY\u2013pyrrole conjugates exhibit pronounced bathochromic shifts (90\u2013180 nm relative to parent BODIPYs), deep-red to near-infrared absorption (~670 nm) and emission (~750 nm), enlarged Stokes shifts, and strong intramolecular charge-transfer character. These features translate into efficient heavy-atom-free triplet formation, with singlet-oxygen quantum yields reaching up to 0.45. A representative conjugate (10) exhibits potent photodynamic activity in B16F10 melanoma cells with minimal dark toxicity (IC\u2085\u2080 = 0.95 \u03bcM). TD-DFT analysis indicates that excited-state twisting reduces \u0394EST, thereby facilitating heavy-atom-independent intersystem crossing. Collectively, these results establish a robust molecular design framework for next-generation heavy-atom-free photosensitizers.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0zz7t?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Northern Greenland ice dome melted before and could melt again",
+    "summary": "Prudhoe Ice Dome disappeared during a warm period 7000 years ago. Global warming could cause similar temperatures by 2100, showing the ice sheet\u2019s vulnerability",
+    "url": "https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T18:30:55Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "What if the idea of the autism spectrum is completely wrong?",
+    "summary": "For years, we've thought of autism as lying on a spectrum, but emerging evidence suggests that it comes in several distinct types. The implications for how we support autistic people could be profound",
+    "url": "https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T16:10:03Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Weird clump in the early universe is piping hot and we don\u2019t know why",
+    "summary": "A galaxy cluster in the early universe is 10 times hotter than it ought to be, which may reshape how we think these enormous structures formed",
+    "url": "https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T16:00:51Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Northern Greenland ice dome melted before and could melt again",
+    "summary": "Prudhoe Ice Dome disappeared during a warm period 7000 years ago. Global warming could cause similar temperatures by 2100, showing the ice sheet\u2019s vulnerability",
+    "url": "https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T18:30:55Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "What if the idea of the autism spectrum is completely wrong?",
+    "summary": "For years, we've thought of autism as lying on a spectrum, but emerging evidence suggests that it comes in several distinct types. The implications for how we support autistic people could be profound",
+    "url": "https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T16:10:03Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Weird clump in the early universe is piping hot and we don\u2019t know why",
+    "summary": "A galaxy cluster in the early universe is 10 times hotter than it ought to be, which may reshape how we think these enormous structures formed",
+    "url": "https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T16:00:51Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Northern Greenland ice dome melted before and could melt again",
+    "summary": "Prudhoe Ice Dome disappeared during a warm period 7000 years ago. Global warming could cause similar temperatures by 2100, showing the ice sheet\u2019s vulnerability",
+    "url": "https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T18:30:55Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "What if the idea of the autism spectrum is completely wrong?",
+    "summary": "For years, we've thought of autism as lying on a spectrum, but emerging evidence suggests that it comes in several distinct types. The implications for how we support autistic people could be profound",
+    "url": "https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T16:10:03Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Weird clump in the early universe is piping hot and we don\u2019t know why",
+    "summary": "A galaxy cluster in the early universe is 10 times hotter than it ought to be, which may reshape how we think these enormous structures formed",
+    "url": "https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T16:00:51Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Astrobiologist Dale Andersen\u2019s Antarctic Field Report: 5 January 2026: Preparing to Leave Cape Town For The Ice",
     "summary": "<p>Keith The team and all of our gear and cargo made it to Cape Town, which feels especially welcoming right now\u2014warm, bright, and easy to settle into. Over Table Mountain, a steady cap cloud drifts to the edge and spills down like a soft waterfall, then thins and vanishes as it warms while descending. And [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html\">Astrobiologist Dale Andersen&#8217;s Antarctic Field Report: 5 January 2026: Preparing to Leave Cape Town For The Ice</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html",

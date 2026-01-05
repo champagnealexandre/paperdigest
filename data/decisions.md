@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Structural basis of HSP90C, a highly active chloroplastic HS](https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1) |
+| ai_scored | 10 | [A targeted mutational strategy aiding generating antisense R](https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1) |
+| ai_scored | 5 | [Atlas-Based Spatio-temporal MRI Phenotyping of 3D Fungal Spr](https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1) |
+| ai_scored | 95 | [Prebiotic aqueous reactions catalyzed by native nickel witho](https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1) |
+| keyword_rejected | - | [Weird clump in the early universe is piping hot and we don’t](https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [What if the idea of the autism spectrum is completely wrong?](https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Northern Greenland ice dome melted before and could melt aga](https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Weird clump in the early universe is piping hot and we don’t](https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [What if the idea of the autism spectrum is completely wrong?](https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Northern Greenland ice dome melted before and could melt aga](https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Weird clump in the early universe is piping hot and we don’t](https://www.newscientist.com/article/2509976-weird-clump-in-the-early-universe-is-piping-hot-and-we-dont-know-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [What if the idea of the autism spectrum is completely wrong?](https://www.newscientist.com/article/2509117-what-if-the-idea-of-the-autism-spectrum-is-completely-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Northern Greenland ice dome melted before and could melt aga](https://www.newscientist.com/article/2510205-northern-greenland-ice-dome-melted-before-and-could-melt-again/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Meso-Substitution Controlled Synthesis of BODIPY–DPM Conjuga](https://dx.doi.org/10.26434/chemrxiv-2026-0zz7t?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Meso-Substitution Controlled Synthesis of BODIPY–DPM Conjuga](https://dx.doi.org/10.26434/chemrxiv-2026-0zz7t?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [First-in-Class Small Molecule ROBO2 Binders Identified throu](https://www.biorxiv.org/content/10.64898/2026.01.05.697640v1?rss=1) |
+| keyword_rejected | - | [Salmonella exploits USP32 to coordinate Rab14 and Rab11 recy](https://www.biorxiv.org/content/10.64898/2026.01.01.696821v1?rss=1) |
+| keyword_rejected | - | [Invertebrate FAXC and Metaxin Proteins: Related Proteins wit](https://www.biorxiv.org/content/10.64898/2026.01.05.697642v1?rss=1) |
+| keyword_rejected | - | [High Recovery Stop-and-Go Extraction Tips Using Polytetraflu](https://www.biorxiv.org/content/10.64898/2026.01.04.697531v1?rss=1) |
 | ai_scored | 5 | [Author Correction: <i>Leishmania</i> RNA virus exacerbates L](https://www.nature.com/articles/s41467-025-67433-w) |
 | ai_scored | 50 | [The ambitious plan to spot habitable moons around giant plan](https://phys.org/news/2026-01-ambitious-habitable-moons-giant-planets.html) |
 | ai_scored | 15 | [Efflux pump regulation and metabolic rewiring define the cei](https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1) |
