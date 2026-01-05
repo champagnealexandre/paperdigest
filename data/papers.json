@@ -1,5 +1,27 @@
 [
   {
+    "title": "Most disease gene variants show minimal population differentiation despite incomplete coverage",
+    "summary": "Background Underrepresentation of non-European populations in genomic databases creates challenges for ancestry-matched variant interpretation, particularly when population frequency data are incomplete. Current approaches either assume missing populations have reference allele fixation (naive zero-imputation) or restrict analyses to observed populations (missingness-aware), but the clinical impact of these methodological choices remains unquantified. Methods We compared naive and missingness-aware differentiation metrics across 72,915 variants in 17 African-relevant disease genes with documented selection or clinical significance, using 10-population data from the 1000 Genomes Project Phase 3. Genome-wide validation employed 1,102,375 chromosome 22 variants with complete 26-population coverage. Population differentiation was quantified as maximum absolute reference allele frequency difference (max--{Delta}p--). Highdifferentiation variants (max--{Delta}p-- [&ge;] 0.5) were compared between disease genes and chromosomal background using Fishers exact tests with bootstrap confidence intervals. Results Methods showed high overall correlation (Spearman {rho} = 0.9969) with only 0.71% disagreement (518/72,915 variants), concentrated among variants with incomplete population coverage. However, 350 variants (0.48%) exceeded the high-differentiation threshold, including wellcharacterized ancestry-informative markers under documented selection. Disease genes showed 4.75fold depletion of highly differentiated variants relative to genome-wide background (Fishers exact test OR = 0.210, 95% CI [0.188, 0.233], p < 10-316), indicating that functional constraint limits frequency divergence except at sites under positive selection. Complete population coverage eliminated method disagreement (chromosome 22: Spearman {rho} = 1.0000, zero disagreements). Conclusions Ancestry-matched variant interpretation is not universally required but becomes critical for a small, clinically enriched subset (0.48%) showing substantial population differentiation. Functional constraint in disease genes concentrates extreme differentiation at specific adaptive sites rather than distributing it across functionally important regions. These findings provide empirical guidance for resource allocation in equitable variant interpretation frameworks.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697354v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Astronomers reveal hidden lives of the early universe's ultramassive galaxies",
+    "summary": "An international team of astronomers has uncovered multiple evolutionary paths for the universe's most massive galaxies. Observations of ultramassive galaxies, each containing more than 100 billion stars, show that less than 2 billion years after the Big Bang, some had already stopped forming stars and lost their dust, while others continued forming stars hidden behind thick dust clouds.",
+    "url": "https://phys.org/news/2026-01-astronomers-reveal-hidden-early-universe.html",
+    "published_date": "2026-01-05T19:35:36Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Prebiotic aqueous reactions catalyzed by native nickel without hydrogen",
     "summary": "Compared to iron, nickel is comparatively rare as a transition metal in enzymes. But it is essential in several enzymes of carbon and energy metabolism in acetogens (bacteria) and methanogens (archaea), which use the acetyl-CoA pathway of H2-dependent CO2 fixation. Nickel containing enzymes of acetogens and methanogens include FeNi hydrogenase, carbon monoxide dehydrogenase, acetyl-CoA synthase and, in methanogens, methyl-CoM reductase in the last step of methane synthesis. Several lines of evidence implicate the acetyl-CoA pathway as the most ancient pathway of CO2 fixation, most notably recent findings that the overall reaction of the enzymatic pathway from H2 (E0' = -414 mV) and CO2 to pyruvate can be replaced by Ni0 alone in water as the lone catalyst. Here we studied the ability of Ni0 to serve as catalyst and reductant for nonenzymatic redox reactions that require only a mild reductant, as the midpoint potential of Ni0 oxidation to Ni2+ is E0' = -260 mV. We show that Ni0 in water can convert 2-oxo acids to 2-hydroxy acids and, in the presence of NH3, to amino acids at 25-100C without addition of H2, and that it will function as catalyst and reductant for the fumarate reductase reaction. The findings expand the repertoire of ancient metabolic reactions that Ni0 can catalyze without proteins, cofactors, or sulfur, shedding light on the broad catalytic activity and substrate specificity of Ni0 at metabolic origin.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1",

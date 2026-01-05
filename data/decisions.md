@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Astronomers reveal hidden lives of the early universe's ultr](https://phys.org/news/2026-01-astronomers-reveal-hidden-early-universe.html) |
+| keyword_rejected | - | [Most disease gene variants show minimal population different](https://www.biorxiv.org/content/10.64898/2026.01.02.697354v1?rss=1) |
 | ai_scored | 25 | [Structural basis of HSP90C, a highly active chloroplastic HS](https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1) |
 | ai_scored | 10 | [A targeted mutational strategy aiding generating antisense R](https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1) |
 | ai_scored | 5 | [Atlas-Based Spatio-temporal MRI Phenotyping of 3D Fungal Spr](https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1) |
