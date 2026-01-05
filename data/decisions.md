@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Fermetures de cabinets médicaux et reports d'opérations atte](https://www.sciencesetavenir.fr/sante/fermetures-de-cabinets-medicaux-et-reports-d-operations-attendus-a-partir-de-lundi_190265?xtor=RSS-16) |
+| keyword_rejected | - | [Le Premier ministre reçoit les syndicats d'un monde agricole](https://www.sciencesetavenir.fr/nature-environnement/le-premier-ministre-recoit-les-syndicats-d-un-monde-agricole-ou-persiste-la-colere_190264?xtor=RSS-15) |
+| keyword_rejected | - | [Neuronal feedback loop of the suprachiasmatic nucleus genera](https://www.nature.com/articles/s41467-025-68218-x) |
+| keyword_rejected | - | [Performance evaluation of 3D-printed geopolymer monoliths fo](https://www.nature.com/articles/s41598-025-28711-1) |
+| keyword_rejected | - | [Caffeic acid phenethyl ester induced apoptosis in chronic my](https://www.nature.com/articles/s41598-025-34553-8) |
+| keyword_rejected | - | [Individual and institutional factors influencing dentists’ p](https://www.nature.com/articles/s41598-025-32094-8) |
 | ai_scored | 40 | [Tricorder Tech For Everyone: NASA’s STELLA Open Science Inst](https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html) |
 | keyword_rejected | - | [Prediction model for the dissemination of AI-generated deepf](https://www.nature.com/articles/s41598-025-34789-4) |
 | keyword_rejected | - | [Enhanced gait following NW-RSA training links to reduced myo](https://www.nature.com/articles/s41598-025-32563-0) |
