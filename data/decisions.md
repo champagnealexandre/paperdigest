@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Diverse bacterial pattern recognition receptors sense the co](https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1) |
+| ai_scored | 20 | [Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanis](https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss) |
+| ai_scored | 20 | [Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanis](https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Deux IA identifient les mutations génétiques responsables de](https://www.sciencesetavenir.fr/sante/deux-ia-identifient-les-mutations-genetiques-responsables-des-maladies_190263?xtor=RSS-16) |
+| keyword_rejected | - | [TBAT as “Multitool” catalyst for polysiloxane synthesis, mod](https://dx.doi.org/10.26434/chemrxiv-2026-8w39x?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Accurate and Robust Prediction of Vertical Excitation Energi](https://dx.doi.org/10.26434/chemrxiv-2026-cx0jm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Imine Linkers Enable the Formation of Robust Single Molecule](https://dx.doi.org/10.26434/chemrxiv-2026-1q3b8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Captodative radicals enable the coexistence of monomer and d](https://dx.doi.org/10.26434/chemrxiv-2026-06tvq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Continued Challenges in High-Throughput Materials Prediction](https://dx.doi.org/10.26434/chemrxiv-2025-mkls8-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The role of relA-mediated stringent response on the nutritio](https://www.biorxiv.org/content/10.64898/2026.01.04.697604v1?rss=1) |
 | ai_scored | 20 | [pH signalling and regulation in pyridinium redox flow batter](https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [First evidence of microplastics in bottled water sold in Mex](https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Un rythme sans précédent : 16.000 nouvelles espèces sont déc](https://www.sciencesetavenir.fr/animaux/biodiversite/un-rythme-sans-precedent-16-000-nouvelles-especes-sont-decouvertes-chaque-annee_190255?xtor=RSS-26) |

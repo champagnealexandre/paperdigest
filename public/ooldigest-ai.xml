@@ -3,8 +3,45 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T09:28:37.021363+00:00</updated>
+  <updated>2026-01-05T10:22:21.199793+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] ChemRxiv ▶ Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmac</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Metal-free pTSA-catalyzed H/D exchange enables efficient perdeuteration of aromatic rings using heavy water (D2O), advancing practical deuteration chemistry but with only tangential relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmaceuticals is particularly significant in pharmaceutical and medicinal chemistry. In this study, we present a novel catalytic method for hydrogen/deuterium (H/D) exchange in aromatic compounds, employing D2O as the deuterium source, which is not only easily accessible but also cost-effective. This approach demonstrates impressive deuterium incorporation under mild reaction conditions, yielding good to excellent results in a single run. Utilizing para-toluenesulfonic acid (pTSA) as a catalyst, this metal-free protocol exhibits broad applicability in the late-stage deuteration of a variety of bioactive molecules, pharmaceuticals, and small molecules. Furthermore, our method is scalable; it has been successfully implemented at the gram-scale with a reduced catalyst loading of 2.0 mol% for Tyrosol, illustrating its practical utility. Moreover, our thorough mechanistic studies and detailed DFT studies enhance our understanding of how the catalyst and solvent contribute to the aromatic electrophilic substitution process. This innovative method provides a sustainable alternative to traditional transition metal-catalyzed H/D exchange techniques. It addresses key challenges such as the use of expensive metals, the risk of undesired reactions, and the need to remove metal impurities from products. Overall, this research enhances the efficiency and environmental friendliness of H/D exchange in aromatic compounds.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-9fnfq">https://doi.org/10.26434/chemrxiv-2026-9fnfq</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Organic Chemistry on ChemRxiv ▶ Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmac</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a metal-free, pTSA-catalyzed H/D exchange (perdeuteration) of aromatic rings in pharmaceuticals using D2O under mild conditions with mechanistic/DFT support, mainly relevant to synthetic/medicinal chemistry rather than origins-of-life studies.</p>
+<p><strong>Abstract:</strong> Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmaceuticals is particularly significant in pharmaceutical and medicinal chemistry. In this study, we present a novel catalytic method for hydrogen/deuterium (H/D) exchange in aromatic compounds, employing D2O as the deuterium source, which is not only easily accessible but also cost-effective. This approach demonstrates impressive deuterium incorporation under mild reaction conditions, yielding good to excellent results in a single run. Utilizing para-toluenesulfonic acid (pTSA) as a catalyst, this metal-free protocol exhibits broad applicability in the late-stage deuteration of a variety of bioactive molecules, pharmaceuticals, and small molecules. Furthermore, our method is scalable; it has been successfully implemented at the gram-scale with a reduced catalyst loading of 2.0 mol% for Tyrosol, illustrating its practical utility. Moreover, our thorough mechanistic studies and detailed DFT studies enhance our understanding of how the catalyst and solvent contribute to the aromatic electrophilic substitution process. This innovative method provides a sustainable alternative to traditional transition metal-catalyzed H/D exchange techniques. It addresses key challenges such as the use of expensive metals, the risk of undesired reactions, and the need to remove metal impurities from products. Overall, this research enhances the efficiency and environmental friendliness of H/D exchange in aromatic compounds.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-9fnfq">https://doi.org/10.26434/chemrxiv-2026-9fnfq</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ Diverse bacterial pattern recognition receptors sense the conserved phage proteome</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Recognition of foreign molecules inside cells is critical for immunity in all domains of life. Proteins of the STAND NTPase superfamily, including eukaryotic nucleotide-binding oligomerization domain </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Systematic phylogenetic and structural study shows diverse bacterial STAND NTPase receptors recognize conserved tailed-phage protein folds (including major capsid protein) via structure-based pattern recognition and host-factor repurposing, informing how complex immune sensing systems evolve across life.</p>
+<p><strong>Abstract:</strong> Recognition of foreign molecules inside cells is critical for immunity in all domains of life. Proteins of the STAND NTPase superfamily, including eukaryotic nucleotide-binding oligomerization domain (NOD)-like receptors (NLRs), play a central role in this process. In bacteria and archaea, although several STAND NTPase families have been reported to sense phage proteins, their functional diversity remains largely unexplored. Here, we conducted a systematic phylogenetic analysis of prokaryotic STAND NTPases and identified at least 90 structurally distinct families associated with antiviral defense. We first show that the uncharacterized Avs7 family recognizes the major capsid protein (MCP) of tailed phages. Three cryo-EM structures of Salmonella enterica Avs7 reveal an asymmetric, butterfly-shaped tetramer that assembles stepwise via large, MCP-induced conformational changes, incorporating bacterial translation elongation factor Tu (EF-Tu) as a scaffold that is required for full defense activity. Using highly parallel genetic screens, we further show that 13 additional STAND families sense 12 conserved phage protein folds, encompassing most of the core structural and replicative components of tailed phages. These include two structurally distinct families--Avs8 (PD-{lambda}-4) and Avs10 (Erebus/Hypnos/bNACHT64)--that also recognize MCP, as well as 11 other families (Avs11-21) that recognize the portal, portal adaptor, tail nozzle, head-tail connector, tail terminator, tail tube protein, tail assembly chaperone, tape measure protein, DNA polymerase, helicase/RecA-type ATPase, and single-stranded DNA annealing protein (SSAP), respectively. Together, our findings highlight structure-based pattern recognition and host factor repurposing as fundamental strategies of bacterial immunity.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [15] ChemRxiv ▶ First evidence of microplastics in bottled water sold in Mexico</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss"/>

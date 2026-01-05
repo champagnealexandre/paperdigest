@@ -1,5 +1,118 @@
 [
   {
+    "title": "Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.",
+    "summary": "Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmaceuticals is particularly significant in pharmaceutical and medicinal chemistry. In this study, we present a novel catalytic method for hydrogen/deuterium (H/D) exchange in aromatic compounds, employing D2O as the deuterium source, which is not only easily accessible but also cost-effective. This approach demonstrates impressive deuterium incorporation under mild reaction conditions, yielding good to excellent results in a single run. Utilizing para-toluenesulfonic acid (pTSA) as a catalyst, this metal-free protocol exhibits broad applicability in the late-stage deuteration of a variety of bioactive molecules, pharmaceuticals, and small molecules. Furthermore, our method is scalable; it has been successfully implemented at the gram-scale with a reduced catalyst loading of 2.0 mol% for Tyrosol, illustrating its practical utility. Moreover, our thorough mechanistic studies and detailed DFT studies enhance our understanding of how the catalyst and solvent contribute to the aromatic electrophilic substitution process. This innovative method provides a sustainable alternative to traditional transition metal-catalyzed H/D exchange techniques. It addresses key challenges such as the use of expensive metals, the risk of undesired reactions, and the need to remove metal impurities from products. Overall, this research enhances the efficiency and environmental friendliness of H/D exchange in aromatic compounds.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-9fnfq"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Metal-free pTSA-catalyzed H/D exchange enables efficient perdeuteration of aromatic rings using heavy water (D2O), advancing practical deuteration chemistry but with only tangential relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.",
+    "summary": "Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmaceuticals is particularly significant in pharmaceutical and medicinal chemistry. In this study, we present a novel catalytic method for hydrogen/deuterium (H/D) exchange in aromatic compounds, employing D2O as the deuterium source, which is not only easily accessible but also cost-effective. This approach demonstrates impressive deuterium incorporation under mild reaction conditions, yielding good to excellent results in a single run. Utilizing para-toluenesulfonic acid (pTSA) as a catalyst, this metal-free protocol exhibits broad applicability in the late-stage deuteration of a variety of bioactive molecules, pharmaceuticals, and small molecules. Furthermore, our method is scalable; it has been successfully implemented at the gram-scale with a reduced catalyst loading of 2.0 mol% for Tyrosol, illustrating its practical utility. Moreover, our thorough mechanistic studies and detailed DFT studies enhance our understanding of how the catalyst and solvent contribute to the aromatic electrophilic substitution process. This innovative method provides a sustainable alternative to traditional transition metal-catalyzed H/D exchange techniques. It addresses key challenges such as the use of expensive metals, the risk of undesired reactions, and the need to remove metal impurities from products. Overall, this research enhances the efficiency and environmental friendliness of H/D exchange in aromatic compounds.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-9fnfq"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Reports a metal-free, pTSA-catalyzed H/D exchange (perdeuteration) of aromatic rings in pharmaceuticals using D2O under mild conditions with mechanistic/DFT support, mainly relevant to synthetic/medicinal chemistry rather than origins-of-life studies."
+    }
+  },
+  {
+    "title": "Diverse bacterial pattern recognition receptors sense the conserved phage proteome",
+    "summary": "Recognition of foreign molecules inside cells is critical for immunity in all domains of life. Proteins of the STAND NTPase superfamily, including eukaryotic nucleotide-binding oligomerization domain (NOD)-like receptors (NLRs), play a central role in this process. In bacteria and archaea, although several STAND NTPase families have been reported to sense phage proteins, their functional diversity remains largely unexplored. Here, we conducted a systematic phylogenetic analysis of prokaryotic STAND NTPases and identified at least 90 structurally distinct families associated with antiviral defense. We first show that the uncharacterized Avs7 family recognizes the major capsid protein (MCP) of tailed phages. Three cryo-EM structures of Salmonella enterica Avs7 reveal an asymmetric, butterfly-shaped tetramer that assembles stepwise via large, MCP-induced conformational changes, incorporating bacterial translation elongation factor Tu (EF-Tu) as a scaffold that is required for full defense activity. Using highly parallel genetic screens, we further show that 13 additional STAND families sense 12 conserved phage protein folds, encompassing most of the core structural and replicative components of tailed phages. These include two structurally distinct families--Avs8 (PD-{lambda}-4) and Avs10 (Erebus/Hypnos/bNACHT64)--that also recognize MCP, as well as 11 other families (Avs11-21) that recognize the portal, portal adaptor, tail nozzle, head-tail connector, tail terminator, tail tube protein, tail assembly chaperone, tape measure protein, DNA polymerase, helicase/RecA-type ATPase, and single-stranded DNA annealing protein (SSAP), respectively. Together, our findings highlight structure-based pattern recognition and host factor repurposing as fundamental strategies of bacterial immunity.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Systematic phylogenetic and structural study shows diverse bacterial STAND NTPase receptors recognize conserved tailed-phage protein folds (including major capsid protein) via structure-based pattern recognition and host-factor repurposing, informing how complex immune sensing systems evolve across life."
+    }
+  },
+  {
+    "title": "The role of relA-mediated stringent response on the nutritional, environmental, antimicrobial resistance and biofilm formation in Klebsiella pneumoniae and its effect on Drosophila melanogaster survival",
+    "summary": "The stringent response has far-reaching consequences, with links to antimicrobial resistance, stress and virulence. This study assessed the role of relA in nutritional, environmental and antimicrobial stress in Klebsiella pneumoniae, the extent of polysaccharide capsule and biofilm formation, and the pathogenic effect on Drosophila melanogaster. Two single mutants (KP03DrelA and KPPR1DrelA) obtained using the Lambda Red Recombinase Technique were the focus of analyses. We assessed environmental (ethanol, osmotic, heat) and nutritional stress (carbon, phosphate, amino acid) tolerance, capsule formation, and cell size determination in wild-type (WT) and mutant bacteria. Biofilm and agar plate susceptibility assays were performed on both starved and non-starved strains using gentamicin and ceftazidime, and stress response genes were analyzed. Drosophila melanogaster was used to examine the pathogenic effect of the presence or deletion of relA on fly survival. DrelA mutants had reduced fitness to environmental and nutritional stress compared to WT strains. Mutant strains' cell lengths were elongated and lacked a capsule versus WT and non-starved strains, and mutant strains exhibited enhanced biofilm formation or survival in the presence of ceftazidime and gentamicin. Stress response genes rpoD, phoR, phoU and pstB were absent during starvation, but rpoS was detected in C-, C+PO+ and serine hydroxamate (SHX) media; mrkA gene was not detected during starvation. Lastly, the animal model proved to be effective in showing infection levels associated with the presence of the relA gene.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697604v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Continued Challenges in High-Throughput Materials Predictions: MatterGen predicts compounds from the training dataset.",
+    "summary": "High-throughput computational tools and generative AI models aim to revolutionise materials discovery by enabling the rapid prediction of novel inorganic compounds. However, these tools face persistent challenges with modelling compounds where multiple elements occupy the same crystallographic site, often leading to misclassification of known disordered phases as new ordered compounds. Recently, Microsoft revealed MatterGen as a tool for predicting new materials. As a proof of concept, MatterGen was used to predict the novel compound TaCr2O6, which was subsequently synthesised in a disordered form as Ta1/3Cr2/3O2. However, detailed crystallographic analysis, presented in this paper, reveals that this is not a novel compound but is identical to the already known compound Ta1/2Cr1/2O2 reported in 1972 and actually included in MatterGen\u2019s training dataset. These findings underscore the necessity of rigorous human verification in AI-assisted materials research, limiting their use for rapid and large-scale prediction of new materials. While generative models hold great promise, their effectiveness is currently limited by unresolved issues with disorder prediction and dataset validation. Improved integration with crystallographic expertise is essential to realise their full potential.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-mkls8-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Captodative radicals enable the coexistence of monomer and dimer single-molecule junctions with 100-fold difference in conductance",
+    "summary": "Atomic-scale manipulation of chemical bond cleavage and formation offers significant advantages of extending the reaction controllability to the single-molecule regime and enabling the elucidation of fundamental reaction mechanisms. Herein, we drive reactions between two chemical species, open-shell monomeric radicals and closed-shell dimers in single-molecule junctions. Both monomers and dimers form a C-Au covalently-linked highly conducting junction in situ, with the conductance about 100 \u0301 higher than that of the dimer junction. First- principles calculations suggest that the substitution groups on the carbon in the C(sp3)-Au linkage bond effectively tunes the molecular junction conductance. Notably, captodative radicals enable the formation of weakly bonded spin-spin interactions in solution, yielding diamagnetic dimers, and we can reversibly switch between the dimer and the weakly- bonded radical pair by mechanically controlling the gap between the two electrodes.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-06tvq?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Imine Linkers Enable the Formation of Robust Single Molecule Junctions",
+    "summary": "While imine (C=N) groups are renowned for their role in dynamic chemistry, whether imine binds to Au electrodes for forming single-molecule junctions and their electronic properties remain elusive. We demonstrate that imine groups work as chemical anchors for reliable formation of single-molecule junctions with gold electrodes. Scanning tunneling microscope-based break junction measurements and density functional theory calculations reveal that imine-terminated wires exhibit slightly higher conductance than amine-terminated analogs. Critically, in the presence of a nearby phenyl ring substituent, junction formation is suppressed with amine anchors but not with imines, indicating expanded molecular designs attained with imine linkers. We further find that in addition to the structures terminated with one imine and one thiomethyl linkers, dual-imine terminated molecules can also form stable molecular junctions. Our findings highlight that imines can be used as linkers with slightly reduced contact resistance than commonly used amines, offering new molecular designs for constructing molecular devices.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1q3b8?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Accurate and Robust Prediction of Vertical Excitation Energies  with XYG3-Type Doubly Hybrid Density Functionals",
+    "summary": "The XYG3-type doubly hybrid density functionals (xDHs) have demonstrated remarkable success in predicting ground-state energies and properties. However, until now, no method has been available to compute excited states with xDHs. In this work, we propose a method that combines the second order constricted variational density functional theory [CV(2)-DFT] within the Tamm-Dancoff approximation (TDA) and the configuration interaction singles with perturbative doubles correction [CIS(D)] method to predict vertical excitation energies using xDHs. This new black-box method, dubbed TDA-xDH, has been benchmarked against a collective dataset of 410 excitation energies. The results demonstrate the high accuracy and robustness of xDHs. For local valence and Rydberg excitations represented by 352 benchmark data points, XYGJ-OS achieves a mean absolute deviation (MAD) of 0.08 eV, outperforming the more expensive coupled cluster singles and doubles (CCSD) method (MAD = 0.11 eV). For 30 intramolecular charge-transfer (CT) excitations, XYGJ-OS also emerges as the best performer among tested functionals, with an MAD of 0.14 eV. Furthermore, XYGJ-OS exhibits excellent performance in predicting the 1La-1Lb gap for six linear polycyclic aromatic hydrocarbons (PAHs), achieving an MAD of merely 0.01 eV. A case study on HAP-3MF further reveals that xDHs are able to correctly predict the inverted singlet-triplet gap. These results highlight the great promise of xDHs for accurately predicting a wide range of molecular excitation energies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-cx0jm?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "TBAT as \u201cMultitool\u201d catalyst for polysiloxane synthesis, modifica-tion and recycling",
+    "summary": "As a convenient, stable and non-toxic substance, tetrabutylammonium difluorotriphenylsilicate (TBAT) can be used as an organocatalyst in all stages of polymer lifetime - synthesis, modification and recycling. The fluorine-containing initiator showed high activity in the polymerization of siloxanes comparing to classic organocatalytic systems. Using kinetic controlled ROP, a high molecular weight PDMS (Mn up to 820 kg/mol) was prepared at room temperature using ppm-level catalyst loadings (TON up to 53000, TOF up to 139200 h-1). The possibility of initiation of lactone polymerization by generated siloxanolates was shown. Variation of reaction conditions enables the depolymerization of synthesized, commercial and postconsumer PDMS.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-8w39x?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Deux IA identifient les mutations g\u00e9n\u00e9tiques responsables de maladies rares",
+    "summary": "Les avanc\u00e9es de l\u2019intelligence artificielle permettent d\u00e9sormais d\u2019\u00e9tablir des relations de cause \u00e0 effet des variations g\u00e9n\u00e9tiques sp\u00e9cifiquement pour chaque patient, en fonction de l\u2019ensemble de son g\u00e9nome.",
+    "url": "https://www.sciencesetavenir.fr/sante/deux-ia-identifient-les-mutations-genetiques-responsables-des-maladies_190263?xtor=RSS-16",
+    "published_date": "2026-01-05T09:52:58Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "First evidence of microplastics in bottled water sold in Mexico",
     "summary": "Given that Mexico is one of the world's leading consumers of bottled water per capita, this study provides the first evidence of microplastic contamination across ten widely consumed commercial brands in the country. A total of 2,358 MP particles were detected with an average concentration of 39.3 \u00b1 14.6 particles/L. Statistical analysis (ANOVA, p = 0.0008) confirmed significant differences in MP levels between brands, likely attributed to variations in the production process and packaging quality. Fibers were the predominant shape of the detected MPs (72.2 %), and transparent particles were the most frequent color (57.7 %). Crucially, most detected MPs were smaller than 500 \u00b5m (80.3 %), raising toxicological concerns due to the high probability of systemic translocation in human tissues. Furthermore, FTIR spectroscopy confirmed that PET (66 %) and PP (18 %) were the dominant polymers, indicating that fragmentation and abrasion of the bottle and caps are the primary sources of MPs. The estimated intake assessment revealed that children are the most vulnerable population segment (228.2 particles/kg/year), exhibiting the highest relative MP dose normalized by body weight. Given the global evidence of adverse health effects from these polymers and their leached chemical additives, these findings underscore the urgent need to implement effective strategies to minimize MP exposure in bottled water.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss",
