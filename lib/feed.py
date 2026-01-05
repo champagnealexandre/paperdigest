@@ -56,6 +56,11 @@ def _build_entry(paper: Dict[str, Any]) -> str:
     # Build HTML content
     content_parts = []
     
+    # Matched Keywords
+    matched_kws = paper.get('matched_keywords', [])
+    if matched_kws:
+        content_parts.append(f"<p><strong>Keywords matched:</strong> {html.escape(', '.join(matched_kws))}</p>")
+    
     # AI Decision
     if ai_summary:
         content_parts.append(f"<p><strong>AI Decision:</strong> {html.escape(ai_summary)}</p>")

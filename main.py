@@ -44,8 +44,8 @@ def load_feeds() -> dict:
 # STAGE 1: FETCH & KEYWORD FILTER
 # ─────────────────────────────────────────────────────────────────────────────
 
-def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> bool:
-    """Check if entry matches any keyword.
+def find_matching_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> List[str]:
+    """Return list of keywords that match entry.
     
     Syntax:
       - 'eukaryo*' → prefix match (eukaryote, eukaryotic, etc.)
@@ -57,6 +57,7 @@ def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> b
         text += " " + " ".join(t.term.lower() for t in entry.tags)
     
     import re
+    matched = []
     for kw in keywords:
         kw_lower = kw.lower()
         
@@ -80,8 +81,8 @@ def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> b
                 pattern = r'\b' + re.escape(kw_processed) + r'\b'
         
         if re.search(pattern, text):
-            return True
-    return False
+            matched.append(kw)
+    return matched
 
 
 def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime, category: str) -> dict:
@@ -145,15 +146,18 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
                 now = datetime.datetime.now(datetime.timezone.utc)
                 item_date = now.replace(minute=0, second=0, microsecond=0)
             
+            matched_kws = find_matching_keywords(entry, keywords)
+            
             paper = Paper(
                 title=entry.get('title', 'No Title'),
                 summary=entry.get('summary', ''),
                 url=link,
                 published_date=item_date,
                 source_feed=title,
+                matched_keywords=matched_kws,
             )
             
-            if matches_keywords(entry, keywords):
+            if matched_kws:
                 paper.stage = "keyword_matched"
                 result['papers'].append(paper)
             else:
