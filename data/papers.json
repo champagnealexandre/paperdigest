@@ -1,5 +1,160 @@
 [
   {
+    "title": "Surface tension enhancement in nanoconfined water: The role of confinement and excluded volume effects",
+    "summary": "Author(s): Grace-Espoir Makaya and Aziz Ghoufi<br /><p>In this work, the surface tension ($\u03b3$) of nanoconfined water between planar interfaces was evaluated using atomistic simulations combined with the test-area method. To elucidate the role of spatial restriction, two types of confinement were considered: solid and liquid. In the case of solid surface\u2026</p><br />[Phys. Rev. E 113, 015501] Published Mon Jan 05, 2026",
+    "url": "http://link.aps.org/doi/10.1103/fmnj-d2gy",
+    "published_date": "2026-01-05T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/fmnj-d2gy"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Atomistic simulations quantify how nanoscale confinement between solid or liquid interfaces enhances water surface tension, informing how interfacial physics in pores or films could influence prebiotic compartmentalization and chemistry."
+    }
+  },
+  {
+    "title": "Microbes may hold the key to brain evolution",
+    "summary": "A new study reveals that changes to the gut microbiome can change the way the brain works.",
+    "url": "https://phys.org/news/2026-01-microbes-key-brain-evolution.html",
+    "published_date": "2026-01-05T21:06:34Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Study reports that altering the gut microbiome can change brain function, offering an evolutionary biology insight but little direct relevance to origins-of-life or astrobiology."
+    }
+  },
+  {
+    "title": "A method to obtain the solution of the time- independent Schrodinger\r\nequation for the simple harmonic oscillator",
+    "summary": "A method has been introduced to derive the solution of the time-independent Schrodinger\nequation for the simple harmonic oscillator. A trial solution has been chosen as the\nproduct of the divergent part of the approximate asymptomatic solution of the\nSchrodinger equation and an unknown function. By inserting this trial solution into the same equation, an equation of that unknown function is obtained.\nThis equation has a recursive property which has been exploited to obtain the\nsolutions of the equation. It is all about reconstruction of the equation with different solutions of that unknown function by repetitive differentiation and that\nultimately leads to the wave functions of the Schrodinger equation for harmonic oscillator.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-mrhnh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Predicting TCR-pMHC Binding by Reinforcement Learning",
+    "summary": "The binding between T cell receptors (TCRs) and peptide-major histocompatibility complexes (pMHCs) is fundamental to the immune system ability to recognize and eliminate pathogens. Accurate prediction of TCR-pMHC interactions holds significant promise for advancing cancer immunotherapy, vaccine design, and autoimmune disease research. However, existing approaches often treat the sequences, structures, and functions of TCRs, peptides, and MHC molecules in isolation, neglecting their interdependencies and hence limiting the prediction accuracy. In this study, we present ProTCR, a novel approach that integrates sequence, structural, and functional information within a reinforcement learning framework, offering a new paradigm for predicting TCR-pMHC binding. The reinforcement learning optimization enables ProTCR to generate TCR-pMHC sequences with enhanced binding propensity, thereby improving prediction accuracy. On benchmark datasets such as IEDB and VDJdb, ProTCR achieves an AUROC of 0.75, outperforming state-of-the-art methods by 32.7%, while offering interpretable insights into the structural and sequence determinants of binding. We further validate ProTCR using TCRs and neoantigens derived from a cervical cancer patient via proteogenomic profiling. Our analysis reveals a strong correlation between T cell clonal expansion and ProTCR-predicted TCR-peptide binding scores, supporting the biological relevance of the model. Additionally, ProTCR demonstrates robust performance in predicting SARS-CoV-2 TCR-pMHC complexes and generating MHC-specific peptides with potential applications in peptide-based immunotherapies. Collectively, these findings establish ProTCR as a powerful and interpretable tool for TCR-pMHC binding prediction, with broad utility across immunology research and translational applications.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697685v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Emergent viscous hydrodynamics from a single quantum particle",
+    "summary": "Author(s): Zhi-Li Zhou, Mauricio Hippert, Nicki Mullins, and Jorge Noronha<br /><p>We investigate an explicit example of how spatial decoherence can lead to hydrodynamic behavior in the late-time, long-wavelength regime of open quantum systems. We focus on the case of a single nonrelativistic quantum particle linearly coupled to a thermal bath of noninteracting harmonic oscillator\u2026</p><br />[Phys. Rev. E 113, 014101] Published Mon Jan 05, 2026",
+    "url": "http://link.aps.org/doi/10.1103/f61m-9fqj",
+    "published_date": "2026-01-05T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Overdamped diffusion through a channel of varying cross-section",
+    "summary": "Author(s): Micha\u0142 Cie\u015bla, Bart\u0142omiej Dybiec, Monika Krasowska, and Anna Strzelewicz<br /><p>Characterizing the transport properties of individual nanoparticles in pores is an important challenge for materials, environmental, and biological sciences. In this article, we analyze the diffusion of spherical particles within a long pore featuring a varying cross-section to demonstrate how geome\u2026</p><br />[Phys. Rev. E 113, 014102] Published Mon Jan 05, 2026",
+    "url": "http://link.aps.org/doi/10.1103/gq3s-55gh",
+    "published_date": "2026-01-05T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Thermodynamic framework for modeling social adoption in multi-agent systems",
+    "summary": "Author(s): Guilherme S. Y. Giardini and Carlo R. daCunha<br /><p>We develop a thermodynamic framework for modeling innovation adoption and abandonment dynamics using statistical mechanics. Starting from a mathematical model for an adoption distribution that fits empirically obtained date, we construct a canonical ensemble whose equilibrium distribution yields Gom\u2026</p><br />[Phys. Rev. E 113, 014301] Published Mon Jan 05, 2026",
+    "url": "http://link.aps.org/doi/10.1103/fps8-ltw5",
+    "published_date": "2026-01-05T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nematic layering, reentrant anchoring, and T-shaped structures in confined hard cylindrical disks",
+    "summary": "Author(s): Roohollah Aliabadi, Soudabe Nasirimoghadam, and Nasrin Aminizadeh<br /><p>The confinement of anisotropic particles can lead to entropy-driven structural phases not observed in bulk systems. Using a density functional theory framework, we explore the rich phase diagram of hard cylindrical disks confined within a slit pore. Our investigation reveals complex structural pheno\u2026</p><br />[Phys. Rev. E 113, 015403] Published Mon Jan 05, 2026",
+    "url": "http://link.aps.org/doi/10.1103/1hdy-dj3l",
+    "published_date": "2026-01-05T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Worms as particle sweepers: How simple movement, not intelligence, drives environmental order",
+    "summary": "When observing small worms under a microscope, one might observe something very surprising: the worms appear to make a sweeping motion to clean their own environment. Physicists at the University of Amsterdam, Georgia Tech and Sorbonne Universit\u00e9/CNRS have now discovered the reason for this unexpected behavior.",
+    "url": "https://phys.org/news/2026-01-worms-particle-sweepers-simple-movement.html",
+    "published_date": "2026-01-05T20:57:31Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Active solar region observed for record 94 days",
+    "summary": "In May 2024, the strongest solar storm in twenty years raged. An international team led by ETH Zurich observed it. Their findings are now helping to improve space weather forecasts.",
+    "url": "https://phys.org/news/2026-01-solar-region-days.html",
+    "published_date": "2026-01-05T20:40:03Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hubble examines Cloud-9, first of new type of object",
+    "summary": "A team using the NASA/ESA Hubble Space Telescope has uncovered a new type of astronomical object\u2014a starless, gas-rich, dark-matter cloud that is considered a \"relic\" or remnant of early galaxy formation. Nicknamed \"Cloud-9,\" this is the first confirmed detection of such an object in the universe. The finding, published in The Astrophysical Journal Letters, furthers the understanding of galaxy formation, the early universe, and the nature of dark matter itself.",
+    "url": "https://phys.org/news/2026-01-hubble-cloud.html",
+    "published_date": "2026-01-05T20:29:57Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Les Etats-Unis r\u00e9duisent le nombre de vaccins recommand\u00e9s pour les enfants",
+    "summary": "Le minist\u00e8re am\u00e9ricain de la Sant\u00e9, dirig\u00e9 par le vaccinosceptique Robert Kennedy Jr, a annonc\u00e9 lundi r\u00e9duire le nombre de vaccins recommand\u00e9s pour l'ensemble des enfants, une d\u00e9cision lourde de cons\u00e9quences d\u00e9j\u00e0 critiqu\u00e9e par des sp\u00e9cialistes.\nAvec cette r\u00e9forme, six vaccins pr\u00e9c\u00e9demment recommand\u00e9s \u00e0 tous les enfants ne le seront d\u00e9sormais plus que pour ceux particuli\u00e8rement \u00e0 risque.\nCela concerne les vaccins contre la grippe, l'h\u00e9patite A et B, les m\u00e9ningocoques (\u00e0 l'origine de m\u00e9ningites), ainsi que contre les rotavirus, responsable de gastro-ent\u00e9rites.",
+    "url": "https://www.sciencesetavenir.fr/sante/les-etats-unis-reduisent-le-nombre-de-vaccins-recommandes-pour-les-enfants_190283?xtor=RSS-16",
+    "published_date": "2026-01-05T21:06:32Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stunningly Hot Galaxy Cluster Puts New Spin on How These Cosmic Behemoths Evolved",
+    "summary": "<p>Scientists detected gas at least five times hotter than previous theories had predicted inside a galaxy cluster from the early universe</p>",
+    "url": "https://www.scientificamerican.com/article/stunningly-hot-galaxy-cluster-puts-new-spin-on-how-these-cosmic-behemoths/",
+    "published_date": "2026-01-05T19:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Most disease gene variants show minimal population differentiation despite incomplete coverage",
     "summary": "Background Underrepresentation of non-European populations in genomic databases creates challenges for ancestry-matched variant interpretation, particularly when population frequency data are incomplete. Current approaches either assume missing populations have reference allele fixation (naive zero-imputation) or restrict analyses to observed populations (missingness-aware), but the clinical impact of these methodological choices remains unquantified. Methods We compared naive and missingness-aware differentiation metrics across 72,915 variants in 17 African-relevant disease genes with documented selection or clinical significance, using 10-population data from the 1000 Genomes Project Phase 3. Genome-wide validation employed 1,102,375 chromosome 22 variants with complete 26-population coverage. Population differentiation was quantified as maximum absolute reference allele frequency difference (max--{Delta}p--). Highdifferentiation variants (max--{Delta}p-- [&ge;] 0.5) were compared between disease genes and chromosomal background using Fishers exact tests with bootstrap confidence intervals. Results Methods showed high overall correlation (Spearman {rho} = 0.9969) with only 0.71% disagreement (518/72,915 variants), concentrated among variants with incomplete population coverage. However, 350 variants (0.48%) exceeded the high-differentiation threshold, including wellcharacterized ancestry-informative markers under documented selection. Disease genes showed 4.75fold depletion of highly differentiated variants relative to genome-wide background (Fishers exact test OR = 0.210, 95% CI [0.188, 0.233], p < 10-316), indicating that functional constraint limits frequency divergence except at sites under positive selection. Complete population coverage eliminated method disagreement (chromosome 22: Spearman {rho} = 1.0000, zero disagreements). Conclusions Ancestry-matched variant interpretation is not universally required but becomes critical for a small, clinically enriched subset (0.48%) showing substantial population differentiation. Functional constraint in disease genes concentrates extreme differentiation at specific adaptive sites rather than distributing it across functionally important regions. These findings provide empirical guidance for resource allocation in equitable variant interpretation frameworks.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697354v1?rss=1",

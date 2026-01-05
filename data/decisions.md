@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Microbes may hold the key to brain evolution](https://phys.org/news/2026-01-microbes-key-brain-evolution.html) |
+| ai_scored | 50 | [Surface tension enhancement in nanoconfined water: The role ](http://link.aps.org/doi/10.1103/fmnj-d2gy) |
+| keyword_rejected | - | [Stunningly Hot Galaxy Cluster Puts New Spin on How These Cos](https://www.scientificamerican.com/article/stunningly-hot-galaxy-cluster-puts-new-spin-on-how-these-cosmic-behemoths/) |
+| keyword_rejected | - | [Les Etats-Unis réduisent le nombre de vaccins recommandés po](https://www.sciencesetavenir.fr/sante/les-etats-unis-reduisent-le-nombre-de-vaccins-recommandes-pour-les-enfants_190283?xtor=RSS-16) |
+| keyword_rejected | - | [Hubble examines Cloud-9, first of new type of object](https://phys.org/news/2026-01-hubble-cloud.html) |
+| keyword_rejected | - | [Active solar region observed for record 94 days](https://phys.org/news/2026-01-solar-region-days.html) |
+| keyword_rejected | - | [Worms as particle sweepers: How simple movement, not intelli](https://phys.org/news/2026-01-worms-particle-sweepers-simple-movement.html) |
+| keyword_rejected | - | [Nematic layering, reentrant anchoring, and T-shaped structur](http://link.aps.org/doi/10.1103/1hdy-dj3l) |
+| keyword_rejected | - | [Thermodynamic framework for modeling social adoption in mult](http://link.aps.org/doi/10.1103/fps8-ltw5) |
+| keyword_rejected | - | [Overdamped diffusion through a channel of varying cross-sect](http://link.aps.org/doi/10.1103/gq3s-55gh) |
+| keyword_rejected | - | [Emergent viscous hydrodynamics from a single quantum particl](http://link.aps.org/doi/10.1103/f61m-9fqj) |
+| keyword_rejected | - | [Predicting TCR-pMHC Binding by Reinforcement Learning](https://www.biorxiv.org/content/10.64898/2026.01.05.697685v1?rss=1) |
+| keyword_rejected | - | [A method to obtain the solution of the time- independent Sch](https://dx.doi.org/10.26434/chemrxiv-2026-mrhnh?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Astronomers reveal hidden lives of the early universe's ultr](https://phys.org/news/2026-01-astronomers-reveal-hidden-early-universe.html) |
 | keyword_rejected | - | [Most disease gene variants show minimal population different](https://www.biorxiv.org/content/10.64898/2026.01.02.697354v1?rss=1) |
 | ai_scored | 25 | [Structural basis of HSP90C, a highly active chloroplastic HS](https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1) |

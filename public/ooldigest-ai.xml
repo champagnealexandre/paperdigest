@@ -3,8 +3,34 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T20:21:19.420461+00:00</updated>
+  <updated>2026-01-05T21:18:28.784135+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] Phys. Rev. E ▶ Surface tension enhancement in nanoconfined water: The role of confinement and excluded volume effects</title>
+    <link href="http://link.aps.org/doi/10.1103/fmnj-d2gy"/>
+    <id>http://link.aps.org/doi/10.1103/fmnj-d2gy</id>
+    <updated>2026-01-05T10:00:00Z</updated>
+    <summary>Author(s): Grace-Espoir Makaya and Aziz Ghoufi In this work, the surface tension ($γ$) of nanoconfined water between planar interfaces was evaluated using atomistic simulations combined with the test-</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Atomistic simulations quantify how nanoscale confinement between solid or liquid interfaces enhances water surface tension, informing how interfacial physics in pores or films could influence prebiotic compartmentalization and chemistry.</p>
+<p><strong>Abstract:</strong> Author(s): Grace-Espoir Makaya and Aziz Ghoufi In this work, the surface tension ($γ$) of nanoconfined water between planar interfaces was evaluated using atomistic simulations combined with the test-area method. To elucidate the role of spatial restriction, two types of confinement were considered: solid and liquid. In the case of solid surface… [Phys. Rev. E 113, 015501] Published Mon Jan 05, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/fmnj-d2gy">http://link.aps.org/doi/10.1103/fmnj-d2gy</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/fmnj-d2gy">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] Phys.org: Evolution News ▶ Microbes may hold the key to brain evolution</title>
+    <link href="https://phys.org/news/2026-01-microbes-key-brain-evolution.html"/>
+    <id>https://phys.org/news/2026-01-microbes-key-brain-evolution.html</id>
+    <updated>2026-01-05T21:06:34Z</updated>
+    <summary>A new study reveals that changes to the gut microbiome can change the way the brain works.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Study reports that altering the gut microbiome can change brain function, offering an evolutionary biology insight but little direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> A new study reveals that changes to the gut microbiome can change the way the brain works.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-microbes-key-brain-evolution.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟢 [95] biochemistry - biorXiv Preprints ▶ Prebiotic aqueous reactions catalyzed by native nickel without hydrogen</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1"/>
