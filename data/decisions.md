@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Mechanistic insights into chromatin modulation by the orphan](https://www.biorxiv.org/content/10.64898/2026.01.04.697590v1?rss=1) |
+| ai_scored | 30 | [A Genome-Wide Genetic Screen Identifies a Novel kDNA Replica](https://www.biorxiv.org/content/10.64898/2026.01.05.697628v1?rss=1) |
+| ai_scored | 30 | [I see Mozambique’s baboons as windows into hominid evolution](https://www.nature.com/articles/d41586-025-04153-7) |
+| keyword_rejected | - | [Les chats domestiques ont été introduits en Chine par les ro](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-chats-domestiques-ont-ete-introduits-en-chine-par-les-routes-de-la-soie-il-y-a-seulement-1400-ans_190276?xtor=RSS-4) |
+| keyword_rejected | - | [A disulfide redox switch mechanism regulates glycoside hydro](https://www.nature.com/articles/s41467-025-67225-2) |
+| keyword_rejected | - | [The visual system of the longest-living vertebrate, the Gree](https://www.nature.com/articles/s41467-025-67429-6) |
+| keyword_rejected | - | [Solar flares and stellar flares hit differently](https://phys.org/news/2026-01-solar-flares-stellar-differently.html) |
+| keyword_rejected | - | [CCDC32 stabilizes clathrin-coated pits and drives their inva](https://elifesciences.org/articles/107039) |
 | keyword_rejected | - | [Box internet fibre : comment la très haute vitesse transform](https://www.sciencesetavenir.fr/high-tech/box-internet-fibre-comment-la-tres-haute-vitesse-transforme-nos-usages-numeriques_190270?xtor=RSS-12) |
 | keyword_rejected | - | [Pandemic PhDs: graduates anxious, but optimistic, about the ](https://www.nature.com/articles/d41586-025-04152-8) |
 | keyword_rejected | - | [Making sense of quantum gravity in five dimensions](https://phys.org/news/2026-01-quantum-gravity-dimensions.html) |
