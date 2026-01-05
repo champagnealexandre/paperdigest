@@ -1,5 +1,115 @@
 [
   {
+    "title": "Female moths incorporate plant acoustic emissions into their oviposition decision-making process",
+    "summary": "Insects rely on plants\u2019 visual, chemical, tactile, and electrical cues when making various decisions. A recent study demonstrated that dehydrated plants emit ultrasonic sounds within the auditory sensitivity range of many moth species. In this study, we sought to determine whether insects also rely on plant acoustic signals when making decisions. We investigated whether female moths rely on ultrasonic clicks which are typically produced by dehydrated plants when deciding where to oviposit. In the absence of an actual plant, the moths indeed preferred to lay their eggs in proximity to acoustic signals which represent dehydrating plants. Tracking the moths\u2019 behavior prior to the decision showed that they examined both sides of the arena and gradually spent more time on the acoustic-playback side. Interestingly, when actual plants were added to the arena, the oviposition preference was reversed and the moths preferred silent plants, which is in accordance with their a priori preference for hydrated plants. Deafening the moths eliminated their preference, confirming that the choice was based on hearing. Moreover, the presence of male moths, including their auditory signals, did not affect their oviposition decision, suggesting that the response was specific to plant sound emissions. We reveal evidence for a first acoustic interaction between moths and plants, but as plants emit various sounds, our findings hint at the existence of more currently unknown insect-plant acoustic interactions.",
+    "url": "https://elifesciences.org/articles/104700",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Population analyses reveal heterogenous encoding in the medial prefrontal cortex during naturalistic foraging",
+    "summary": "Foraging in the wild requires coordinated switching of critical functions, including goal-oriented navigation and context-appropriate action selection. Nevertheless, few studies have examined how different functions are represented in the brain during naturalistic foraging. To address this question, we recorded multiple single-unit activities from the medial prefrontal cortex (mPFC) of rats seeking a sucrose reward in the presence of an unpredictable attack posed by a robotic predator (Lobsterbot). Simultaneously recorded ensemble activities from neurons were analyzed in reference to various behavioral indices as the animal moved freely across the foraging area (F) between the nest (N) and the goal (E) area. An artificial neural network, trained with simultaneously recorded neural activity, estimated the rat\u2019s current distance from the Lobsterbot. The accuracy of distance estimation was the highest in the middle F-zone in which the dominant behavior was active navigation. The spatial encoding persisted in the N-zone when non-navigational behaviors such as grooming, rearing, and sniffing were excluded. In contrast, the accuracy decreased as the animal approached the E-zone, when the activity of the same neuronal ensembles was more correlated with events related to dynamic decision-making between food procurement and Lobsterbot evasion. A population-wide analysis confirmed highly heterogeneous encoding by the region. To further assess the decision-related activity in the E-zone, a naive Bayesian classifier was trained to predict the success and failure of avoidance behavior. The classifier predicted the avoidance outcome as much as 6 s before the head withdrawal. In addition, two sub-populations of recorded units with distinct temporal dynamics contributed differently to the prediction. These findings suggest that an overlapping population of mPFC neurons may switch between two heterogeneous modes, encoding relevant locations for goal-directed navigation or an imminent situational challenge.",
+    "url": "https://elifesciences.org/articles/93994",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Measuring and locating the changes in protein structure using MELO",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68110-8\">doi:10.1038/s41467-025-68110-8</a></p>Subtle variation can reshape protein structure but are hard to identify. Here, authors present MELO, which measures and locates structural changes, outperforms existing tools, and uncovers over 10,000 previously missed protein structure change pairs.",
+    "url": "https://www.nature.com/articles/s41467-025-68110-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma (GINECO window-of-opportunity COLIBRI study): a phase II trial",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67646-z\">doi:10.1038/s41467-025-67646-z</a></p>Pre-treatment dual immune checkpoint blockade in cervical cancer remains understudied. In this trial, the authors show that neoadjuvant immune checkpoint blockade enhances immune activation and correlates with improved response to subsequent chemoradiation in patients with cervical carcinoma.",
+    "url": "https://www.nature.com/articles/s41467-025-67646-z",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Correction: Association of attenuated leptin signaling pathways with impaired cardiac function under prolonged high-altitude hypoxia",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30890-w\">doi:10.1038/s41598-025-30890-w</a></p>Correction: Association of attenuated leptin signaling pathways with impaired cardiac function under prolonged high-altitude hypoxia",
+    "url": "https://www.nature.com/articles/s41598-025-30890-w",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Prenatal characteristics and prognosis of congenital pulmonary airway malformation: a retrospective multicenter cohort study",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34642-8\">doi:10.1038/s41598-025-34642-8</a></p>Prenatal characteristics and prognosis of congenital pulmonary airway malformation: a retrospective multicenter cohort study",
+    "url": "https://www.nature.com/articles/s41598-025-34642-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Two-Tier heuristic search for ransomware-as-a-service based cyberattack d\u00e9fense analysis using explainable Bayesian deep learning model",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-96083-7\">doi:10.1038/s41598-025-96083-7</a></p>Two-Tier heuristic search for ransomware-as-a-service based cyberattack d\u00e9fense analysis using explainable Bayesian deep learning model",
+    "url": "https://www.nature.com/articles/s41598-025-96083-7",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Measuring and locating the changes in protein structure using MELO",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68110-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Francis Hall\u00e9 : \"Les arbres ne sont pas programm\u00e9s pour mourir\u201d",
+    "summary": "Le botaniste Francis Hall\u00e9 est d\u00e9c\u00e9d\u00e9 \u00e0 l\u2019\u00e2ge de 87 ans. Sciences et Avenir&nbsp;vous propose de relire un entretien r\u00e9alis\u00e9 en 2008 avec ce grand scientifique, qui \u00e9voquait avec humilit\u00e9 et humour le destin des humains, vou\u00e9s \u00e0 mourir, face aux arbres, eux, non programm\u00e9s pour dispara\u00eetre.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/plantes-et-vegetaux/francis-halle-les-arbres-ne-sont-pas-programmes-pour-mourir_190278?xtor=RSS-15",
+    "published_date": "2026-01-05T16:54:11Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "L'astronaute Sophie Adenot veut \"repousser\" ses \"limites\" pendant sa mission sur l'ISS",
+    "summary": "A 40 jours de son envol pour l'espace, Sophie Adenot, la deuxi\u00e8me astronaute f\u00e9minine fran\u00e7aise de l'histoire apr\u00e8s Claudie Haigner\u00e9, s'est dit impatiente lundi de \"repousser\" ses \"limites\" pendant ses huit mois de mission sur la Station spatiale internationale (ISS).\nSi tout se passe comme pr\u00e9vu, le 15 f\u00e9vrier elle d\u00e9collera \u00e0 bord d'un v\u00e9hicule Crew Dragon de SpaceX avec deux coll\u00e8gues am\u00e9ricains et un russe vers l'ISS, trente ans apr\u00e8s le premier vol dans l'espace de Claudie Haigner\u00e9 en 1996.\nA l'issue d'une pr\u00e9paration qui aura dur\u00e9 deux ans et neuf mois, Sophie Adenot a donn\u00e9 sa derni\u00e8re conf\u00e9rence de presse europ\u00e9enne avant son grand voyage au Centre europ\u00e9en de formation des astronautes (ESA) \u00e0 Cologne, dans l'ouest de l'Allemagne.",
+    "url": "https://www.sciencesetavenir.fr/sciences/l-astronaute-sophie-adenot-veut-repousser-ses-limites-pendant-sa-mission-sur-l-iss_190279?xtor=RSS-18",
+    "published_date": "2026-01-05T16:36:26Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "NASA SMD ROSES-25 F.6 Science Activation: Corrections of Requirements for Budget Submission",
     "summary": "<p>The Science Mission Directorate Science Activation Program encourages all people to actively participate in science through activities and resources developed by a collaborative network of project teams drawing on NASA SMD assets (science content, experts, data, etc.). The Science Activation program element (F.6 SciAct) of ROSES-25 solicits a portfolio of projects that together cover the [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/nasa-smd-roses-25-f-6-science-activation-corrections-of-requirements-for-budget-submission.html\">NASA SMD ROSES-25 F.6 Science Activation: Corrections of Requirements for Budget Submission</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/nasa-smd-roses-25-f-6-science-activation-corrections-of-requirements-for-budget-submission.html",

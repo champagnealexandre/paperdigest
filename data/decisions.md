@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [L'astronaute Sophie Adenot veut "repousser" ses "limites" pe](https://www.sciencesetavenir.fr/sciences/l-astronaute-sophie-adenot-veut-repousser-ses-limites-pendant-sa-mission-sur-l-iss_190279?xtor=RSS-18) |
+| keyword_rejected | - | [Francis Hallé : "Les arbres ne sont pas programmés pour mour](https://www.sciencesetavenir.fr/nature-environnement/plantes-et-vegetaux/francis-halle-les-arbres-ne-sont-pas-programmes-pour-mourir_190278?xtor=RSS-15) |
+| keyword_rejected | - | [Measuring and locating the changes in protein structure usin](https://www.nature.com/articles/s41467-025-68110-8) |
+| keyword_rejected | - | [Two-Tier heuristic search for ransomware-as-a-service based ](https://www.nature.com/articles/s41598-025-96083-7) |
+| keyword_rejected | - | [Prenatal characteristics and prognosis of congenital pulmona](https://www.nature.com/articles/s41598-025-34642-8) |
+| keyword_rejected | - | [Correction: Association of attenuated leptin signaling pathw](https://www.nature.com/articles/s41598-025-30890-w) |
+| keyword_rejected | - | [Neoadjuvant immune checkpoint blockade before chemoradiation](https://www.nature.com/articles/s41467-025-67646-z) |
+| keyword_rejected | - | [Measuring and locating the changes in protein structure usin](https://www.nature.com/articles/s41467-025-68110-8) |
+| keyword_rejected | - | [Population analyses reveal heterogenous encoding in the medi](https://elifesciences.org/articles/93994) |
+| keyword_rejected | - | [Female moths incorporate plant acoustic emissions into their](https://elifesciences.org/articles/104700) |
 | ai_scored | 55 | [Mars Curiosity Rover Observes Sulfur Crystals](https://astrobiology.com/2026/01/mars-curiosity-rover-observes-sulfur-crystals.html) |
 | ai_scored | 0 | [NASA SMD ROSES-25 F.6 Science Activation: Corrections of Req](https://astrobiology.com/2026/01/nasa-smd-roses-25-f-6-science-activation-corrections-of-requirements-for-budget-submission.html) |
 | keyword_rejected | - | [2026 will shed light on whether a little-known drug helps wi](https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
