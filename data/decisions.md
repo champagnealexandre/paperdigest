@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Photocatalytic Hydrogels with Covalent Catalyst Crosslinks: ](https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ghostly particles might just break our understanding of the ](https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new science fiction books of January 2026](https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why Does Life Keep Evolving These Geometric Patterns?](https://www.scientificamerican.com/article/why-does-life-keep-evolving-these-geometric-patterns/) |
+| keyword_rejected | - | [Ghostly particles might just break our understanding of the ](https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new science fiction books of January 2026](https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Assemblée: le débat sur la pétition contre la loi Duplomb re](https://www.sciencesetavenir.fr/nature-environnement/assemblee-le-debat-sur-la-petition-contre-la-loi-duplomb-reporte-a-fevrier_190273?xtor=RSS-15) |
+| keyword_rejected | - | [Médecins libéraux: début d'une grève de dix jours prévue pou](https://www.sciencesetavenir.fr/sante/medecins-liberaux-debut-d-une-greve-de-dix-jours-prevue-pour-aller-crescendo_190275?xtor=RSS-16) |
+| keyword_rejected | - | [These women helped to shape quantum mechanics — it’s time to](https://www.nature.com/articles/d41586-025-04151-9) |
+| keyword_rejected | - | [Ghostly particles might just break our understanding of the ](https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new science fiction books of January 2026](https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Evidence of mutually exclusive outflow forms from a black ho](https://www.nature.com/articles/s41550-025-02753-x) |
+| keyword_rejected | - | [A possible challenge for cold and warm dark matter](https://www.nature.com/articles/s41550-025-02746-w) |
+| keyword_rejected | - | [Palladium-catalyzed asymmetric migratory diarylation of unac](https://www.nature.com/articles/s41467-025-68006-7) |
+| keyword_rejected | - | [Fluorescence Mapping of Atropisomer Populations enabled by T](https://dx.doi.org/10.26434/chemrxiv-2026-d8vks?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Red-Emitting NDI-Embedded Nanohoop as a Solution-Processable](https://dx.doi.org/10.26434/chemrxiv-2026-dgpnv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Fluorescence Mapping of Atropisomer Populations enabled by T](https://dx.doi.org/10.26434/chemrxiv-2026-d8vks?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ternary Transition Metal Oxides for Electrochemical Energy S](https://dx.doi.org/10.26434/chemrxiv-2025-2jncj-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Red-Emitting NDI-Embedded Nanohoop as a Solution-Processable](https://dx.doi.org/10.26434/chemrxiv-2026-dgpnv?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Blue amine hydrates as a novel strategy for partitioning CO2](https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Unravelling gas evolution mechanisms in battery electrode ma](https://www.nature.com/articles/s41557-025-02016-2) |
 | ai_scored | 8 | [Tunable Gelation and Viscoelasticity of Lung-Tissue–Mimetic ](https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss) |

@@ -1,5 +1,200 @@
 [
   {
+    "title": "Photocatalytic Hydrogels with Covalent Catalyst Crosslinks: Introducing the Dyedrogel Concept",
+    "summary": "Light-driven hydrogen evolution is a promising strategy for solar fuel production. While numerous systems for molecular photocatalysis exist, their implementation into reusable soft materials remains challenging due to catalyst leaching, solubility issues, and limited structural integration. Here, we report the first hydrogel system in which a molecular photocatalyst is covalently embedded as crosslinker. Using a bipyridine- annulated perylene dye bearing terminal alkene groups, we employ thiol-ene click chemistry to incorporate the dye into a polyethylene glycol (PEG)-based hydrogel network. Post-synthetic platinum coordination yields \u201cDyedrogels\u201d \u2013 mechanically robust hydrogels of varying shape that retain their photocatalytic functionality under visible-light irradiation in pure water, without any solubilizing additives. Structural and optical characterization confirms a homogeneous distribution of the catalyst, while indicating only negligible platinum leaching. Despite moderate hydrogen evolution turnover numbers (TON = 0.03), the stability, modularity, and reusability of this platform underscore its value as a device-like material for future flow-reactor designs. To the best of our knowledge, this is the first demonstration of a photocatalytically active hydrogel in which the molecular catalyst itself constitutes a covalent crosslink within the polymer network.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-5j8bm"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Error"
+    }
+  },
+  {
+    "title": "Red-Emitting NDI-Embedded Nanohoop as a Solution-Processable Emitter for Mechanically Reconfigurable Inorganic EL Devices",
+    "summary": "Nanohoops with radial \u03c0-conjugation, such as cycloparaphenylenes (CPPs), exhibit intrinsically large Stokes shifts arising from excited-state symmetry breaking. However, their integration into functional electroluminescent platforms has remained virtually unexplored. Herein, we report the synthesis of a three-fold symmetric naphthalenediimide (NDI)-embedded CPP analogue and its application in inorganic powder electroluminescence (iEL) devices. The incorporation of electron-accepting NDI units extends the emission into the red region (\u03bbem = 632 nm, \u03a6F = 22%, in CHCl\u2083) with a large Stokes shift of 138 nm (4420 cm\u207b\u00b9), which is advantageous for suppressing self-absorption. AC field-driven iEL devices achieved reddish-purple emission via a one-step spectral down-conversion from ZnS emission. Notably, the nanohoop emitter is integrated into the device via a simple solution-coating process by mixing 1 wt% of the dye with ZnS, and the resulting devices retained stable emission even when cut, and mechanically reconfigured into \u201corigami-\u201d and \u201ckirigami-\u201d type architectures, demonstrating a level of mechanical flexibility and low-cost processability that is challenging to achieve with conventional OLEDs. This work establishes a design principle for red-emissive nanohoops and highlights the potential of radially \u03c0-conjugated macrocycles as promising red emitters for next-generation EL technologies with mechanical reconfigurability.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-dgpnv?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ternary Transition Metal Oxides for Electrochemical Energy Storage: Synthesis, Advantages, Design Strategies, and Future Prospects",
+    "summary": "Ternary transition metal oxides (TTMOs) have emerged as a new class of electrode materials for high-performance energy storage systems, particularly supercapacitors (SCs) and hybrid battery-capacitor devices. This comprehensive review aims to comprehensively survey recent advances in the design, synthesis, and analysis of TTMOs-based nanostructures for supercapacitor (SC) electrodes. It begins by outlining the key concepts related to charge storage mechanisms in SC electrodes, electric double-layer capacitance (EDL), pseudocapacitive (PC), and battery-type (BT) behavior, followed by a clarification of device configurations, including symmetric SC (SSC), asymmetric SC (ASC), and hybrid SC (HSC) devices. This review then examines the fabrication strategies for TTMOs, emphasizing the impact of synthetic approaches on material morphology, crystallinity, and electrochemical performance. Special attention is given to the structure-property relationships that govern ion transport and charge storage dynamics in these materials. The influence of morphological features, including dimensionality, porosity, and hierarchical architecture, on electrochemical behavior is critically analyzed. A comparative evaluation of electrochemical matrices across various TTMO electrodes is presented, highlighting key performance and challenges. Ultimately, the review highlights emerging trends, current limitations, and future research directions that are poised to accelerate the development of next-generation TTMO materials for advanced energy storage technologies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-2jncj-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fluorescence Mapping of Atropisomer Populations enabled by Through-Space Conjugation",
+    "summary": "Multi-axis atropisomers are ubiquitous in nature, and their intricate stereoconformations not only deepen stereochemical understanding but also elucidate fundamental principles of molecular atropisomeric dynamics. Nevertheless, insights into multi-axis atropisomerism remain limited. This work presents a systematic investigation of three classes of LaPlente-type biaxial atropisomers based on naphthalene rotors and phenyl linkers. Thermodynamically and kinetically controlled interconversion of molecular conformations is achieved in 22-NB, 11-NB, and 11-NB-8DMe. Concurrently, a direct correlation between molecular dynamics and electronic through-space conjugation (TSC) is elucidated. Furthermore, absolute separation of syn and anti conformers is accomplished in 11-NB-2DMe, whose distinct TSC-induced fluorescence enables direct visualization of dynamic conformer populations and kinetics during temporally sequential crystallization. This work provides fundamental mechanistic insights into multi-axis atropisomer stereochemistry and establishes a fluorescence-based approach as an in-situ platform for real-time analysis of molecular dynamics across life and materials sciences.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-d8vks?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Red-Emitting NDI-Embedded Nanohoop as a Solution-Processable Emitter for Mechanically Reconfigurable Inorganic EL Devices",
+    "summary": "Nanohoops with radial \u03c0-conjugation, such as cycloparaphenylenes (CPPs), exhibit intrinsically large Stokes shifts arising from excited-state symmetry breaking. However, their integration into functional electroluminescent platforms has remained virtually unexplored. Herein, we report the synthesis of a three-fold symmetric naphthalenediimide (NDI)-embedded CPP analogue and its application in inorganic powder electroluminescence (iEL) devices. The incorporation of electron-accepting NDI units extends the emission into the red region (\u03bbem = 632 nm, \u03a6F = 22%, in CHCl\u2083) with a large Stokes shift of 138 nm (4420 cm\u207b\u00b9), which is advantageous for suppressing self-absorption. AC field-driven iEL devices achieved reddish-purple emission via a one-step spectral down-conversion from ZnS emission. Notably, the nanohoop emitter is integrated into the device via a simple solution-coating process by mixing 1 wt% of the dye with ZnS, and the resulting devices retained stable emission even when cut, and mechanically reconfigured into \u201corigami-\u201d and \u201ckirigami-\u201d type architectures, demonstrating a level of mechanical flexibility and low-cost processability that is challenging to achieve with conventional OLEDs. This work establishes a design principle for red-emissive nanohoops and highlights the potential of radially \u03c0-conjugated macrocycles as promising red emitters for next-generation EL technologies with mechanical reconfigurability.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-dgpnv?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fluorescence Mapping of Atropisomer Populations enabled by Through-Space Conjugation",
+    "summary": "Multi-axis atropisomers are ubiquitous in nature, and their intricate stereoconformations not only deepen stereochemical understanding but also elucidate fundamental principles of molecular atropisomeric dynamics. Nevertheless, insights into multi-axis atropisomerism remain limited. This work presents a systematic investigation of three classes of LaPlente-type biaxial atropisomers based on naphthalene rotors and phenyl linkers. Thermodynamically and kinetically controlled interconversion of molecular conformations is achieved in 22-NB, 11-NB, and 11-NB-8DMe. Concurrently, a direct correlation between molecular dynamics and electronic through-space conjugation (TSC) is elucidated. Furthermore, absolute separation of syn and anti conformers is accomplished in 11-NB-2DMe, whose distinct TSC-induced fluorescence enables direct visualization of dynamic conformer populations and kinetics during temporally sequential crystallization. This work provides fundamental mechanistic insights into multi-axis atropisomer stereochemistry and establishes a fluorescence-based approach as an in-situ platform for real-time analysis of molecular dynamics across life and materials sciences.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-d8vks?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Palladium-catalyzed asymmetric migratory diarylation of unactivated directing-group-free internal alkenes",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68006-7\">doi:10.1038/s41467-025-68006-7</a></p>Enantioselective dicarbofunctionalization of alkenes is a powerful strategy for constructing functionalized sp\u00b3-rich molecules. Here, the authors report a palladium-catalyzed asymmetric migratory process that enables highly selective 1,3- and 1,4- diarylation of unactivated trisubstituted alkenes.",
+    "url": "https://www.nature.com/articles/s41467-025-68006-7",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A possible challenge for cold and warm dark matter",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41550-025-02746-w",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "nature.com - Astronomy and astrophysics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Evidence of mutually exclusive outflow forms from a black hole X-ray binary",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41550-025-02753-x",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "nature.com - Astronomy and astrophysics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new science fiction books of January 2026",
+    "summary": "Big hitter Peter F. Hamilton has a new sci-fi novel out this month \u2013 and Booker winner George Saunders ventures into speculative fiction with his latest book, Vigil",
+    "url": "https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T10:00:38Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ghostly particles might just break our understanding of the universe",
+    "summary": "An analysis of several experiments aimed at detecting the mysterious neutrino has identified a hint of a crack in the standard model of particle physics",
+    "url": "https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T08:00:49Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "These women helped to shape quantum mechanics \u2014 it\u2019s time to recognize them",
+    "summary": "<p>Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04151-9\">doi:10.1038/d41586-025-04151-9</a></p>An astute book redresses our collective perception of a field that became known as \u2018boys\u2019 physics\u2019.",
+    "url": "https://www.nature.com/articles/d41586-025-04151-9",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "M\u00e9decins lib\u00e9raux: d\u00e9but d'une gr\u00e8ve de dix jours pr\u00e9vue pour aller crescendo",
+    "summary": "Vent debout contre des \"politiques qui les pi\u00e9tinent\", les m\u00e9decins lib\u00e9raux de ville et des cliniques d\u00e9butent lundi une gr\u00e8ve de dix jours qu'ils pr\u00e9disent tr\u00e8s suivie, pr\u00e9vue pour monter progressivement en puissance et aller vers une \"fermeture totale\" des blocs op\u00e9ratoires ce week-end.\n\"Le cabinet sera ferm\u00e9 du 5 au 15 janvier\", \u00e9crit par exemple sur Doctolib le Dr Julie Galey, gyn\u00e9cologue et m\u00e9decin de la reproduction dans les Hauts-de-Seine. \"Le Dr Justine Dailly sera en gr\u00e8ve du 5 au 15 janvier comme des milliers de m\u00e9decins en France en r\u00e9action au m\u00e9pris du gouvernement\", pouvait-on lire sur la page d'une g\u00e9n\u00e9raliste lyonnaise.",
+    "url": "https://www.sciencesetavenir.fr/sante/medecins-liberaux-debut-d-une-greve-de-dix-jours-prevue-pour-aller-crescendo_190275?xtor=RSS-16",
+    "published_date": "2026-01-05T12:23:08Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Assembl\u00e9e: le d\u00e9bat sur la p\u00e9tition contre la loi Duplomb report\u00e9 \u00e0 f\u00e9vrier",
+    "summary": "Le d\u00e9bat \u00e0 l'Assembl\u00e9e nationale sur la p\u00e9tition contre la loi Duplomb, qui avait recueilli l'\u00e9t\u00e9 dernier plus de deux millions de signatures, initialement pr\u00e9vu mercredi est repouss\u00e9 \u00e0 f\u00e9vrier, a indiqu\u00e9 lundi l'entourage de la rapporteure Aur\u00e9lie Trouv\u00e9 (LFI).\n\"Le d\u00e9bat programm\u00e9 en h\u00e9micycle mercredi 7 janvier sur la loi Duplomb est report\u00e9 \u00e0 la semaine de contr\u00f4le (de l'Assembl\u00e9e nationale, NDLR) de f\u00e9vrier afin de permettre la pr\u00e9sence de la ministre (de l'Agriculture Annie) Genevard (qui doit se rendre \u00e0 Bruxelles mercredi). Sans doute le 10 ou le 11\", a annonc\u00e9 l'entourage de Mme Trouv\u00e9.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/assemblee-le-debat-sur-la-petition-contre-la-loi-duplomb-reporte-a-fevrier_190273?xtor=RSS-15",
+    "published_date": "2026-01-05T10:41:51Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new science fiction books of January 2026",
+    "summary": "Big hitter Peter F. Hamilton has a new sci-fi novel out this month \u2013 and Booker winner George Saunders ventures into speculative fiction with his latest book, Vigil",
+    "url": "https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T10:00:38Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ghostly particles might just break our understanding of the universe",
+    "summary": "An analysis of several experiments aimed at detecting the mysterious neutrino has identified a hint of a crack in the standard model of particle physics",
+    "url": "https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T08:00:49Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why Does Life Keep Evolving These Geometric Patterns?",
+    "summary": "<p>A global catalog shows how creatures across the tree of life balance rigidity with flexibility in remarkably consistent ways</p>",
+    "url": "https://www.scientificamerican.com/article/why-does-life-keep-evolving-these-geometric-patterns/",
+    "published_date": "2026-01-05T11:45:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new science fiction books of January 2026",
+    "summary": "Big hitter Peter F. Hamilton has a new sci-fi novel out this month \u2013 and Booker winner George Saunders ventures into speculative fiction with his latest book, Vigil",
+    "url": "https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T10:00:38Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ghostly particles might just break our understanding of the universe",
+    "summary": "An analysis of several experiments aimed at detecting the mysterious neutrino has identified a hint of a crack in the standard model of particle physics",
+    "url": "https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T08:00:49Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Tunable Gelation and Viscoelasticity of Lung-Tissue\u2013Mimetic Sealant: Linking Shear History to In Situ Mechanical Performance through Physics-Informed Machine Learning",
     "summary": "Hydrogel-based lung sealants are optimized largely based on formulation and post-cure mechanics, even though deformation history during delivery and placement plays a critical, yet under-characterized, role in determining in situ performance. This disconnect is particularly consequential on the application of lung sealants, where excessive stiffness promotes delamination while insufficient stiffness compromises airtight sealing. Here, we establish a quantitative process\u2013structure\u2013property framework for a gelatin\u2013tannic acid\u2013transglutaminase lung-mimetic sealant by integrating time-resolved rheology with physics-informed machine learning.\n\nUsing small-amplitude oscillatory shear and steady torsional flow at 37 \u00b0C, we show that gelation follows a reproducible kinetic clock (storage modulus, G\u2032\u2013 loss modulus, G\u2033, crossover at ~100 s; modulus plateau by ~600 s), while the attainable viscoelastic state is strongly governed by deformation history. Increasing oscillatory strain amplitude from 0.1 % to 50 % suppresses network maturation, reducing the post-gelation storage modulus, G\u2032,  from ~10\u2076 to ~10\u2074 Pa, whereas sustained steady shear (0.01\u20131 s\u207b\u00b9) decreases magnitude of complex viscosity by 2\u20133 orders of magnitude and permanently downshifts elastic moduli, G\u2032\u2013, from \u22483.5\u00d710\u00b3 to \u22484\u00d710\u00b2 Pa. These modulus ranges span the effective compliance of lung parenchyma under physiological tidal strain, delineating mechanical regimes associated with airtight sealing, strain accommodation, or premature interfacial failure. Controlled aeration during the processing of the sealant further decreases stiffness by ~30 % without altering gelation kinetics, providing an additional, physically interpretable compliance-tuning mechanism.\n\nTo unify these effects, we introduce a dimensionless Degree of Gelation (DoG), serving as a rheological state variable that collapses oscillatory and steady-shear histories into a single, time-resolved descriptor of network evolution. Machine-learning models trained on experimentally accessible inputs (time, strain amplitude, shear rate, frequency, aeration) accurately predict DoG (R\u00b2 \u2248 0.9) and, in inverse mode, identify handling conditions required to achieve targeted in situ mechanical states.\n\nThis rheology\u2013machine-learning framework reframes lung sealant development from a static materials optimization problem to a controllable, process-driven design strategy. By quantitatively linking applicator-level parameters to failure-relevant mechanical outcomes\u2014airtightness, compliance, and resistance to delamination\u2014it provides a mechanistic and generalizable foundation for the design of injectable hydrogels, bioadhesives, and tissue-interfacing",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss",

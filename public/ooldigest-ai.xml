@@ -3,8 +3,21 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T11:17:31.084072+00:00</updated>
+  <updated>2026-01-05T13:09:51.005308+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [0] ChemRxiv ▶ Photocatalytic Hydrogels with Covalent Catalyst Crosslinks: Introducing the Dyedrogel Concept</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Light-driven hydrogen evolution is a promising strategy for solar fuel production. While numerous systems for molecular photocatalysis exist, their implementation into reusable soft materials remains </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Error</p>
+<p><strong>Abstract:</strong> Light-driven hydrogen evolution is a promising strategy for solar fuel production. While numerous systems for molecular photocatalysis exist, their implementation into reusable soft materials remains challenging due to catalyst leaching, solubility issues, and limited structural integration. Here, we report the first hydrogel system in which a molecular photocatalyst is covalently embedded as crosslinker. Using a bipyridine- annulated perylene dye bearing terminal alkene groups, we employ thiol-ene click chemistry to incorporate the dye into a polyethylene glycol (PEG)-based hydrogel network. Post-synthetic platinum coordination yields “Dyedrogels” – mechanically robust hydrogels of varying shape that retain their photocatalytic functionality under visible-light irradiation in pure water, without any solubilizing additives. Structural and optical characterization confirms a homogeneous distribution of the catalyst, while indicating only negligible platinum leaching. Despite moderate hydrogen evolution turnover numbers (TON = 0.03), the stability, modularity, and reusability of this platform underscore its value as a device-like material for future flow-reactor designs. To the best of our knowledge, this is the first demonstration of a photocatalytically active hydrogel in which the molecular catalyst itself constitutes a covalent crosslink within the polymer network.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-5j8bm">https://doi.org/10.26434/chemrxiv-2026-5j8bm</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [8] ChemRxiv ▶ Tunable Gelation and Viscoelasticity of Lung-Tissue–Mimetic Sealant: Linking Shear History to In Situ Mechanical Performance through Physics-Informed Machine Learning</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss"/>

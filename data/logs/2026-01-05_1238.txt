@@ -1,0 +1,6 @@
+12:38:47 Fetching 93 RSS feeds...
+12:39:49 Fetched 19 papers from 93 feeds (4 errors), 1 match keywords, 18 rejected
+12:39:49 Processing 1 papers...
+13:09:50 LLM Error: 'NoneType' object is not subscriptable
+13:09:50 Processed 1 papers (avg score: 0, errors: 0)
+13:09:51 Done. History has 638 papers (82 AI-scored).
