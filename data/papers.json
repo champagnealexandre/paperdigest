@@ -1,5 +1,95 @@
 [
   {
+    "title": "Stable, Near-Unity-PLQY CsPbBr3 QDs by In-Situ Hydroxyl-Terminated Polystyrene Ligands",
+    "summary": "Halide perovskite quantum dots (PQDs) possess outstanding optical properties for display technologies, but their commercial use is limited by surface defects and poor environmental stability. In this work, we introduce hydroxyl-terminated polystyrene (PS\u2013OH) as a bifunctional ligand incorporated directly during CsPbBr3 PQD synthesis. The terminal -OH groups provide strong coordination to under-coordinated Pb2+ sites, suppressing non-radiative recombination, while the polystyrene backbone forms a protective hydrophobic shell. This dual action leads to substantially enhanced photoluminescence quantum yield and substantially improved resistance to moisture-induced degradation. When used as a color-conversion layer on top of blue LEDs, the PS\u2013OH modified PQDs enable more efficient photon down-conversion and improved device-level performance. These results demonstrate that functionalized polymers, employed as in-situ ligands, offer a powerful approach for stabilizing and enhancing brightness of perovskite quantum dots for advanced optoelectronic applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-hng84?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Photoredox manifold for dehydrogenative coupling using protons as oxidants",
+    "summary": "The direct coupling of two unfunctionalized molecules under mild conditions embodies an ideal in synthetic chemistry. In this study, we report a metal-free photocatalytic process for arene C-H functionalization that employs an acridinium-type catalyst and produces dihydrogen as the only by-product. Throughout the catalytic cycle, the catalyst acts as an oxidizing agent, a hydrogen atom transfer agent, and a proton-reducing agent, enabling a cross-dehydrogenative transformation without the need for external oxidants. The reaction is conveniently performed using visible light, and the high oxidation potential of the catalyst allows it to engage even electron- deficient arene substrates. The catalytic mechanism disclosed herein can become a general logic for developing various cross-dehydrogenative reactions adaptable for pharmaceutical and material sciences.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-w07qb?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Photoredox manifold for dehydrogenative coupling using protons as oxidants",
+    "summary": "The direct coupling of two unfunctionalized molecules under mild conditions embodies an ideal in synthetic chemistry. In this study, we report a metal-free photocatalytic process for arene C-H functionalization that employs an acridinium-type catalyst and produces dihydrogen as the only by-product. Throughout the catalytic cycle, the catalyst acts as an oxidizing agent, a hydrogen atom transfer agent, and a proton-reducing agent, enabling a cross-dehydrogenative transformation without the need for external oxidants. The reaction is conveniently performed using visible light, and the high oxidation potential of the catalyst allows it to engage even electron- deficient arene substrates. The catalytic mechanism disclosed herein can become a general logic for developing various cross-dehydrogenative reactions adaptable for pharmaceutical and material sciences.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-w07qb?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Harnessing strengthening-metastability synergy for extreme work hardening in additively manufactured titanium alloys",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67683-8\">doi:10.1038/s41467-025-67683-8</a></p>A new AM titanium alloy design tailors the metastability-strengthening synergy and achieves high yield strength with enhanced work hardening and ductility by leveraging a complete, sequential martensitic transformation pathway.",
+    "url": "https://www.nature.com/articles/s41467-025-67683-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "State estimator and convolutional neural networks-based fault localization approach for modern grids",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33975-8\">doi:10.1038/s41598-025-33975-8</a></p>State estimator and convolutional neural networks-based fault localization approach for modern grids",
+    "url": "https://www.nature.com/articles/s41598-025-33975-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A stability-indicating RP-HPLC method for the simultaneous quantification of brimonidine tartrate and timolol maleate in bulk drug substances and pharmaceutical dosage forms",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33716-x\">doi:10.1038/s41598-025-33716-x</a></p>A stability-indicating RP-HPLC method for the simultaneous quantification of brimonidine tartrate and timolol maleate in bulk drug substances and pharmaceutical dosage forms",
+    "url": "https://www.nature.com/articles/s41598-025-33716-x",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Making sense of quantum gravity in five dimensions",
+    "summary": "Quantum theory and Einstein's theory of general relativity are two of the greatest successes in modern physics. Each works extremely well in its own domain: Quantum theory explains how atoms and particles behave, while general relativity describes gravity and the structure of spacetime. However, despite many decades of effort, scientists still do not have a satisfying theory that combines both into one clear picture of reality.",
+    "url": "https://phys.org/news/2026-01-quantum-gravity-dimensions.html",
+    "published_date": "2026-01-05T13:32:51Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pandemic PhDs: graduates anxious, but optimistic, about the future",
+    "summary": "<p>Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04152-8\">doi:10.1038/d41586-025-04152-8</a></p>Five early-career scientists from around the world share how lingering COVID-19 pandemic shadows and ripples from US academic disruptions have affected them.",
+    "url": "https://www.nature.com/articles/d41586-025-04152-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Box internet fibre : comment la tr\u00e8s haute vitesse transforme nos usages num\u00e9riques",
+    "summary": "L\u2019arriv\u00e9e de la fibre optique dans les foyers fran\u00e7ais marque un tournant manifeste dans la mani\u00e8re dont nous consommons le num\u00e9rique. Fini les temps de chargement interminables, les coupures intempestives et les frustrations li\u00e9es \u00e0 une connexion poussive. La box internet fibre ouvre la porte \u00e0 une exp\u00e9rience fluide, rapide et simultan\u00e9e pour l\u2018ensemble des membres du foyer.",
+    "url": "https://www.sciencesetavenir.fr/high-tech/box-internet-fibre-comment-la-tres-haute-vitesse-transforme-nos-usages-numeriques_190270?xtor=RSS-12",
+    "published_date": "2026-01-05T13:20:29Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Photocatalytic Hydrogels with Covalent Catalyst Crosslinks: Introducing the Dyedrogel Concept",
     "summary": "Light-driven hydrogen evolution is a promising strategy for solar fuel production. While numerous systems for molecular photocatalysis exist, their implementation into reusable soft materials remains challenging due to catalyst leaching, solubility issues, and limited structural integration. Here, we report the first hydrogel system in which a molecular photocatalyst is covalently embedded as crosslinker. Using a bipyridine- annulated perylene dye bearing terminal alkene groups, we employ thiol-ene click chemistry to incorporate the dye into a polyethylene glycol (PEG)-based hydrogel network. Post-synthetic platinum coordination yields \u201cDyedrogels\u201d \u2013 mechanically robust hydrogels of varying shape that retain their photocatalytic functionality under visible-light irradiation in pure water, without any solubilizing additives. Structural and optical characterization confirms a homogeneous distribution of the catalyst, while indicating only negligible platinum leaching. Despite moderate hydrogen evolution turnover numbers (TON = 0.03), the stability, modularity, and reusability of this platform underscore its value as a device-like material for future flow-reactor designs. To the best of our knowledge, this is the first demonstration of a photocatalytically active hydrogel in which the molecular catalyst itself constitutes a covalent crosslink within the polymer network.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss",

@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Box internet fibre : comment la très haute vitesse transform](https://www.sciencesetavenir.fr/high-tech/box-internet-fibre-comment-la-tres-haute-vitesse-transforme-nos-usages-numeriques_190270?xtor=RSS-12) |
+| keyword_rejected | - | [Pandemic PhDs: graduates anxious, but optimistic, about the ](https://www.nature.com/articles/d41586-025-04152-8) |
+| keyword_rejected | - | [Making sense of quantum gravity in five dimensions](https://phys.org/news/2026-01-quantum-gravity-dimensions.html) |
+| keyword_rejected | - | [A stability-indicating RP-HPLC method for the simultaneous q](https://www.nature.com/articles/s41598-025-33716-x) |
+| keyword_rejected | - | [State estimator and convolutional neural networks-based faul](https://www.nature.com/articles/s41598-025-33975-8) |
+| keyword_rejected | - | [Harnessing strengthening-metastability synergy for extreme w](https://www.nature.com/articles/s41467-025-67683-8) |
+| keyword_rejected | - | [Photoredox manifold for dehydrogenative coupling using proto](https://dx.doi.org/10.26434/chemrxiv-2026-w07qb?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Photoredox manifold for dehydrogenative coupling using proto](https://dx.doi.org/10.26434/chemrxiv-2026-w07qb?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Stable, Near-Unity-PLQY CsPbBr3 QDs by In-Situ Hydroxyl-Term](https://dx.doi.org/10.26434/chemrxiv-2026-hng84?rft_dat=source%3Ddrss) |
 | ai_scored | 0 | [Photocatalytic Hydrogels with Covalent Catalyst Crosslinks: ](https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Ghostly particles might just break our understanding of the ](https://www.newscientist.com/article/2509266-ghostly-particles-might-just-break-our-understanding-of-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [The best new science fiction books of January 2026](https://www.newscientist.com/article/2508577-the-best-new-science-fiction-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
