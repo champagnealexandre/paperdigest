@@ -253,7 +253,12 @@ def write_feed_status(feed_results: List[dict], categories: dict):
 
 def process_paper(paper: Paper, config: Config, client, keywords: List[str]) -> Paper:
     """Hunt links and score with AI."""
-    paper.hunted_links = hunter.hunt_paper_links(paper.url, config.academic_domains)
+    # Skip hunting if paper URL is already from an academic domain
+    if any(domain in paper.url for domain in config.academic_domains):
+        paper.hunted_links = [paper.url]
+    else:
+        paper.hunted_links = hunter.hunt_paper_links(paper.url, config.academic_domains)
+    
     model = config.models[config.model_tier - 1]
     paper.analysis_result = ai.analyze_paper(
         client, model, config.model_prompt,
