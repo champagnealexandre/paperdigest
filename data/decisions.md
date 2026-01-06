@@ -1,5 +1,32 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Importance of Nonadiabatic Effects in Modeling Absorption Sp](https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss) |
+| ai_scored | 20 | [Porous Biopolymer–MOF Composites for Water Treatment: From M](https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Beyond the first glance: How human presence enhances visual ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013173) |
+| keyword_rejected | - | [ShapeSpaceExplorer: Analysis of morphological transitions in](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013864) |
+| keyword_rejected | - | [A modelling assessment of the impact of control measures on ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013874) |
+| keyword_rejected | - | [L’astronaute française Sophie Adenot se prépare à passer hui](https://www.sciencesetavenir.fr/espace/exploration/l-astronaute-sophie-adenot-veut-repousser-ses-limites-pendant-sa-mission-sur-l-iss_190279?xtor=RSS-9) |
+| keyword_rejected | - | [Réchauffement climatique: la mortalité des arbres s'accélère](https://www.sciencesetavenir.fr/nature-environnement/rechauffement-climatique-la-mortalite-des-arbres-s-accelere-en-australie-selon-une-etude_190285?xtor=RSS-15) |
+| keyword_rejected | - | [2025, une année de catastrophes liées au changement climatiq](https://www.sciencesetavenir.fr/nature-environnement/climat/2025-une-annee-de-catastrophes-liees-au-changement-climatique_190284?xtor=RSS-15) |
+| keyword_rejected | - | [Optical control of orbital magnetism in magic-angle twisted ](https://www.nature.com/articles/s41567-025-03117-y) |
+| keyword_rejected | - | [Why cancer can come back years later — and how to stop it](https://www.nature.com/articles/d41586-025-04149-3) |
+| keyword_rejected | - | [To improve resilience to climate change, track what endures](https://www.nature.com/articles/d41586-025-04122-0) |
+| keyword_rejected | - | [Retire ‘seminal’ from the scientific vocabulary](https://www.nature.com/articles/d41586-025-04124-y) |
+| keyword_rejected | - | [Help small-scale gold miners to transition away from mercury](https://www.nature.com/articles/d41586-025-04121-1) |
+| keyword_rejected | - | [Rethink how we build AI to enable effective climate-change m](https://www.nature.com/articles/d41586-025-04123-z) |
+| keyword_rejected | - | [Molecular systems engineering of synthetic cells](https://www.nature.com/articles/s41557-025-02019-z) |
+| keyword_rejected | - | [The catalytic enantioselective [1,2]-Wittig rearrangement ca](https://www.nature.com/articles/s41557-025-02022-4) |
+| keyword_rejected | - | [Stereoselective total synthesis of <i>skew</i>-tetramantane](https://www.nature.com/articles/s41557-025-02026-0) |
+| keyword_rejected | - | [Two roads to lithium nucleation](https://www.nature.com/articles/s41557-025-02023-3) |
+| keyword_rejected | - | [Stress-trained microalgae robots with probiotics backpack an](https://www.nature.com/articles/s41467-025-66692-x) |
+| keyword_rejected | - | [Mimicking the Namesake Reaction of Extradiol Catechol Dioxyg](https://dx.doi.org/10.26434/chemrxiv-2026-pnxxp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Direct CO2 Reduction to CO with an Fe4S4-Based Coordination ](https://dx.doi.org/10.26434/chemrxiv-2026-6bs5s?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Assessment of Protein Conformation via Diazirine-Promoted Ox](https://dx.doi.org/10.26434/chemrxiv-2025-s5jct-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Assessing the Cradle-to-Gate Environmental Burden of Human P](https://dx.doi.org/10.26434/chemrxiv-2025-4pwf9-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Centimeter-Scale Giant-Grain Growth: Radial Expansion of MAP](https://dx.doi.org/10.26434/chemrxiv-2025-0dxhw-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Phylogenomic assessment of microhylid frogs reveals widespre](https://www.biorxiv.org/content/10.64898/2026.01.05.697806v1?rss=1) |
+| keyword_rejected | - | [Conformation Driven Enhancement of Neurolysin Activity in Pr](https://www.biorxiv.org/content/10.64898/2026.01.05.697776v1?rss=1) |
+| keyword_rejected | - | [Quantitative interactome mapping of skeletal muscle insulin ](https://www.biorxiv.org/content/10.64898/2026.01.05.697787v1?rss=1) |
 | ai_scored | 30 | [NORAD orchestrates KLC1-mediated SFPQ transport via liquid-l](https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1) |
 | ai_scored | 15 | [Chitosan Infiltrated TiO2 Nanocrystal Composite Optical Meta](https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss) |
 | ai_scored | 0 | [Intermittent AP-1 activation in muscles contributes to exerc](https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1) |

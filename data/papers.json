@@ -1,5 +1,316 @@
 [
   {
+    "title": "Porous Biopolymer\u2013MOF Composites for Water Treatment: From Material Design to Practical Performance",
+    "summary": "Porous biopolymer platforms integrated with metal\u2013organic frameworks (MOFs) pair the processability of \npolymer networks with the high surface area and tunable chemistry of MOFs, but reported performance is \noften difficult to compare across studies due to inconsistent metrics, idealized batch testing, and limited \nattention to transport, regeneration, and matrix effects. This review evaluates porous biopolymer\u2013MOF \ncomposites from a platform-level perspective, emphasizing how architecture, MOF placement, and \noperating mode shape performance under realistic constraints rather than isolated adsorption capacities. \nPerformance trends are synthesized across major contaminant classes (heavy metals, dyes, pharmaceuticals, \nand PFAS), focusing on dominant interaction mechanisms and the penalties imposed by diffusion \nlimitations, fouling, and competitive solutes. Regeneration and durability are treated as central determinants \nof viability, alongside leaching risk and water-matrix realism. To improve comparability and translation, a \nminimum reporting framework is proposed, specifying essential parameters for both batch and flow \nsystems. Overall, the review provides a structured basis to judge when porous biopolymer\u2013MOF \ncomposites justify added complexity for sustainable water treatment.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Review of porous biopolymer\u2013MOF composite materials for practical water-treatment performance (transport, fouling, regeneration), with only tangential relevance to origins-of-life via general water/materials context."
+    }
+  },
+  {
+    "title": "Importance of Nonadiabatic Effects in Modeling Absorption Spectra of Indole and Cyanoindole Derivatives in Solution",
+    "summary": "Nonadiabatic effects arising from conical intersections between excited states play a crucial role in the optical properties of a wide range of chromophores and have to be accounted for in first-principles modeling of spectral lineshapes. In this work, we investigate the importance of nonadiabatic effects in the absorption spectra of indole and cyanoindole derivatives by contrasting three modeling approaches. In the Gaussian Condon and Gaussian Non-Condon Theory formalisms, the linear response function is computed from excitation energy fluctuations of independent adiabatic excited states sampled along molecular dynamics trajectories, with the latter approach additionally including transition dipole moment fluctuations to account for Herzberg- Teller-type effects. In contrast, the tensor network-based T-TEDOPA approach allows for numerically exact quantum dynamics simulations of explicitly coupled diabatic excited states. We find that only the explicit coupling of the two lowest-lying excited states, La and Lb, within the T-TEDOPA approach yields accurate absorption spectra for all systems, while an adiabatic treatment underestimates spectral contributions from excitations into states with highly mixed electronic character. We further elucidate the role of polar solvent stabilization of the charge-transfer character La state by comparing indole in vacuum and in water, showing that solvent effects significantly shape the ultrafast population transfer between excited states and contribute to the differences in the experimental absorption lineshapes. Finally, we discuss the influence of cyano substituent position on the optical properties of cyanoindole derivatives through changes in the energy ordering of La and Lb, their relative transition dipole moments, and stabilization of the charge-transfer state in polar solvent.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Computational photophysics study showing that explicitly nonadiabatic coupling between the La and Lb excited states is required to reproduce absorption spectra of indole and cyanoindoles, with water strongly stabilizing charge-transfer character and reshaping ultrafast excited-state dynamics."
+    }
+  },
+  {
+    "title": "Quantitative interactome mapping of skeletal muscle insulin resistance",
+    "summary": "Protein-protein interactions (PPIs) are dynamic and critical to adaptive homeostasis. While there have been massive efforts to catalogue proteome-wide PPIs, global quantification of changes remains a challenge. Here, we integrate dynamic protein correlation profiling - mass spectrometry (PCP-MS) and quantitative cross linking-mass spectrometry (qXL-MS) using multiplexed stable isotope labelling to characterise global PPI remodelling following the development of chronic skeletal muscle insulin resistance (IR) with or without acute insulin stimulation. We quantify >7,000 unique PPIs amongst 5,346 proteins and show changes in the interactome network dominate the proteome response. Our data show the dysregulation of protein processing in the endoplasmic/sarcoplasmic reticulum involving changes in PPIs with protein chaperones and disulfide isomerases is a major hallmark of skeletal muscle IR. Mechanistically, we show the dysregulation of PPIs with Protein-Disulfide Isomerase 6 (PDIA6) regulates cysteine oxidation and insulin sensitivity. Taken together, we show in vivo quantitative interactome mapping is a powerful approach to understand disease mechanisms and provide new insights into protein network re-organisations with IR.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697787v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Conformation Driven Enhancement of Neurolysin Activity in Presence of a Small Molecule Activator",
+    "summary": "Neurolysin (Nln) is an M3 metallopeptidase that regulates neuropeptide concentration in the central nervous system. It has emerged as a therapeutic target for mitigating post-ischemic injury by hydrolyzing and inactivating several neuropeptides. It has been recently shown that small molecule activators, such as pyridine piperazine (Py-Pip) derivatives, can enhance Nln catalytic activity, facilitating hydrolysis of Nln substrate peptides. However, binding sites of these molecules and the mechanism of action remain unclear due to the dynamic nature of Nln. Here, we use molecular dynamics (MD) simulation of the apo and activator-bound Nln systems along with Markov state modeling to identify three binding sites of Py-Pip, and quantify their effects on the Nln conformational landscape and kinetics. Two of these sites have opposing functional outcomes: Binding inside the interhelical channel favors closed conformations by slowing down channel opening, thus allowing the substrates to orient favorably for the catalytic reaction, while binding at the exterior region of the channel stabilizes open states, potentially facilitating both substrate entry and cleaved product release. These findings suggest a possibility of a multi-site allosteric activation model in which distinct binding locations selectively modulate different steps within a catalytic cycle. This framework provides a structural and kinetic model for the action of small molecule Nln activators, offering insight into the design of cerebro-protective therapeutics that reduce neuropeptide accumulation after ischemic injury.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697776v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Phylogenomic assessment of microhylid frogs reveals widespread taxonomic confusion in the Asterophryinae and establishes the timing of diversification in Australia",
+    "summary": "Microhylid frogs are a hyper-diverse family thought to have radiated explosively around the Cretaceous-Paleogene boundary. Roughly half of microhylid species richness is concentrated into a single subfamily, the Asterophryinae, which is centered in New Guinea and surrounds, and has been a rich source for species discovery over the past 50 years. However, resolving Asteroprhyinae phylogenetics has remained a challenge, with frequent taxonomic reshuffling. To address this instability, we generated a sequence-capture molecular dataset to investigate the phylogenetics of the group. This included 71 species of Asteroprhyinae, across 13 of 17 recognized genera representing extensive sampling of the New Guinea radiation and full sampling of Australian microhylid species. Our dated species tree supports an explosive diversification of microhylids in New Guinea near the start of the Miocene, approximately 20 million years ago. Asterophryinae expansion into northern Australia occurred much later (~10 ma) and is marked by well supported clades of Austrochaperina and Cophixalus that show temporally consistent splits from their New Guinea ancestors. Our phylogeny allows us to identify several instances of polyphyly which are at odds with our current understanding of intergeneric relationships within the Asterophryinae. We suggest this confusion is a result of rapid radiation and morphological variability across some poorly defined genera. This work establishes a reliable phylogenetic framework that can form a foundation for a more stable taxonomy of the Asterophryinae.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697806v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Centimeter-Scale Giant-Grain Growth: Radial Expansion of MAPbI3-xClx Precursor Single Crystals from a Single Nucleus on Glass",
+    "summary": "Here I report a novel crystal growth phenomenon termed \u201cradial Giant-Grain Growth\u201d (r-GGG), which transforms spin-coated polycrystalline MAPbI3\u2212xClx thin films into macroscopic single-nucleus domains spanning millimeters to centimeters. Although governed solely by substrate temperature and ambient humidity, r-GGG is characterized by the extreme suppression of secondary nucleation, allowing a single nucleus\u2014either a hydrate or a perovskite phase\u2014to dominate growth over extensive areas. Specifically, a Cl-rich seed layer is prepared by spin-coating a precursor solution (MAI:PbCl2 = 3:1 molar ratio in DMF), followed by brief annealing at 60\u00b0C under an inert atmosphere. Subsequent exposure to air (65\u201370% relative humidity) initiates r-GGG. At room temperature, densely packed, needle-like hydrate single crystals propagate radially from a single nucleus at an isotropic growth rate, resulting in films composed of needle-crystal aggregates with millimeter- to centimeter-scale domains\u2014a morphology unprecedented in conventional perovskite fabrication. Conversely, substrate temperatures exceeding 50\u00b0C induce the direct lateral growth of large-grain MAPbI3\u2212xClx. Notably, thermal annealing of the r-GGG-derived hydrate films at 90\u00b0C yields highly textured MAPbI3\u2212xClx films with pronounced (110) preferred orientation (strong (110) texture), as evidenced by the dominance of the (110)/(220) reflections and a narrowed rocking-curve width relative to conventional thin films. These (110)-textured films exhibit exceptional stability, showing negligible degradation even after one week of ambient exposure. These findings challenge the long-standing dogma that moisture must be strictly excluded during perovskite fabrication, demonstrating instead that controlled humidity can serve as a potent driving force for forming macroscopically coherent crystal domains. Elucidating the physical mechanisms underlying r-GGG could enable the fabrication of giant-grain thin films with long-range, periodically spaced nucleation sites across diverse material systems, offering a new conceptual framework for crystal growth science.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-0dxhw-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Assessing the Cradle-to-Gate Environmental Burden of Human Papillomavirus Vaccine Manufacturing using Life Cycle Assessment Methodology",
+    "summary": "Ensuring sufficient vaccine supply to resource-constrained settings is a paramount global health priority. As climate change threatens disruption of global supply chains, vaccine manufacturers have a duty to evaluate their own supply chains and production facilities to understand how they can engage in more environmentally sustainable manufacturing. However, few publicly available environmental impact models have been developed for vaccine production. Discussed here is a novel model developed to capture environmental impact of quadrivalent human papillomavirus vaccine manufacturing from upstream material inputs for fermentation, cell processing, and clarification, through filling and packaging. Findings include a calculated carbon footprint of 1.20 kg CO2 eq per dose of packaged vaccine. Energy demand for fermentation steps accounted for 60% of total system emissions. Fermentation energy demand was 60\u201365% of model impact for ozone depletion and human toxicity. Emissions heavily depend on grid geography and heating, ventilation, and air conditioning; an Indian production facility would generate 130% greater emissions than one using a European energy mix. Regardless of location, manufacturers can take important steps to reduce emissions, such as strategies focused on process intensification and continuous batch manufacturing. Often, these improvements offer economic gains, which in turn incentivize development of more sustainable production practices.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-4pwf9-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Assessment of Protein Conformation via Diazirine-Promoted Oxidation",
+    "summary": "Photo-affinity labeling (PAL) utilizes photoreactive molecules to derivatize proteins in a solvent-accessible depend-ent manner. The site and frequency of the products of this reaction can be used to garner insights into the confor-mation of the protein. In this work, we document and characterize a novel oxidation process instigated by UV irradia-tion of aromatic diazirines. Diazirine is an increasingly utilized reagent for probing protein conformations, and this product has yet to be documented. We initially assess the selectivity of the chemical reaction and find that it is highly selective to methionine (Met) and tryptophan (Trp) residues. We next examine whether this oxidative labeling can be utilized to evaluate protein conformation. We assess native and urea-denatured ubiquitin and cytochrome c, holo- and apo-myoglobin, and native and copper-bound B-2-microglobulin. In all surveyed protein systems but ubiquitin, this diazirine-promoted oxidation readily differentiates between the two protein conformations.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-s5jct-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Direct CO2 Reduction to CO with an Fe4S4-Based Coordination Polymer",
+    "summary": "Fe\u2084S\u2084 clusters play essential roles in nature, classically in electron transport but increasingly in newly discovered reactivity or catalysis. These roles have spurred interest in developing synthetic Fe4S4 systems and while several molecular and material systems based on Fe\u2084S\u2084 clusters have been developed, comparatively few examples of synthetic Fe\u2084S\u2084 cluster-based catalysts exist. Herein, we present the use of an Fe\u2084S\u2084-based coordination polymer as a catalyst for the direct and selective electroreduction of CO2 to CO. Computational studies suggest that the reaction proceeds through CO2 binding to a reduced Fe4S4 cluster, followed by a series of protonation, reduction, and H2O loss steps to yield a CO-bound cluster that can finally exchange with CO2 to restart the catalytic cycle. CO bound clusters are predicted to be thermodynamically stable, suggesting that carbonyl species might be off-cycle intermediates. Mechanistic CV studies as well as in situ studies by IR spectroscopy provide evidence for carbonyl-ligated clusters, supporting these compounds as unusual examples of small molecule binding to Fe4S4 clusters. This work establishes Fe4S4 cluster-based coordination polymers as direct electrocatalysts for CO2 reduction and provides mechanistic insights into how these clusters mediate catalytic conversions of small molecules.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-6bs5s?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mimicking the Namesake Reaction of Extradiol Catechol Dioxygenase on Iridium",
+    "summary": "Extradiol catechol dioxygenases expand a benzenediol (catechol) by oxygen atom insertion, generating the corresponding seven-membered oxepinedione. Because the enzymes accept any of the MnII, FeII, or CoII as metallocofactors, each state derived from FeII may have one-electron-shifted analogs. Here, we observe the conversion of a synthetic Ir-peroxo (2) to three complexes \u2013 3, 4, and 5 \u2013 models for several previously hypothesized intermediates. An H\u2022 can be abstracted from 2 to furnish the metallatrioxolane 3, which is one-electron reduced from the more widely characterized FeII intermediate. Alternatively, photolysis of 2 (467 nm) results in 4, from which an H\u2022 can be abstracted to generate 5. Both 4 and 5 are oxepinedione products that remain bound to Ir. The X-ray structure of 5 features a \u03ba2-bound, dianionic ortho ester \u2013 a motif which has no prior analogy. These unusual states were made synthetically accessible by incorporating a catechol-like substrate into a multidentate ligand framework.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-pnxxp?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stress-trained microalgae robots with probiotics backpack and intestinal brake for inflammatory bowel disease management",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-66692-x\">doi:10.1038/s41467-025-66692-x</a></p>IBD involves intestinal ROS overproduction and microbial imbalance, with current delivery systems lacking effective protection and targeting. Here, the authors show the EcN@PDA@HP biohybrid robot alleviates murine IBD via astaxanthin and probiotic",
+    "url": "https://www.nature.com/articles/s41467-025-66692-x",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Two roads to lithium nucleation",
+    "summary": "<p>Nature Chemistry, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02023-3\">doi:10.1038/s41557-025-02023-3</a></p>Lithium nucleation at the metal anode surface dictates the morphologies of lithium deposits, which impact battery stability and performances. Now, a physics-based framework decouples substrate- and solid-electrolyte interphase-controlled nucleation pathways by examining the interplay of short-range transport and reaction.",
+    "url": "https://www.nature.com/articles/s41557-025-02023-3",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stereoselective total synthesis of <i>skew</i>-tetramantane",
+    "summary": "<p>Nature Chemistry, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02026-0\">doi:10.1038/s41557-025-02026-0</a></p>skew-Tetramantane\u2014diamond\u2019s chiral core\u2014previously only accessible from fossil fuels after elaborate separations, was selectively synthesized by a combination of visible-light photocatalytic reactions to modulate radical chemistry and catalyst-controlled C\u2013H insertions. Operating under kinetic control, this stereoselective adamantalogous cage-extension strategy provides access to synthetic diamondoids beyond adamantane, diamantane and triamantane.",
+    "url": "https://www.nature.com/articles/s41557-025-02026-0",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The catalytic enantioselective [1,2]-Wittig rearrangement cascade of allylic ethers",
+    "summary": "<p>Nature Chemistry, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02022-4\">doi:10.1038/s41557-025-02022-4</a></p>The [1,2]-Wittig rearrangement of allylic ethers is traditionally considered to proceed via formation and recombination of radical pairs. Now it has been shown that an alternative reaction cascade, involving initial enantioselective [2,3]-rearrangement followed by base-promoted anionic fragmentation\u2013recombination that proceeds with high enantiospecificity, allows a catalytic enantioselective [1,2]-Wittig process.",
+    "url": "https://www.nature.com/articles/s41557-025-02022-4",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Molecular systems engineering of synthetic cells",
+    "summary": "<p>Nature Chemistry, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02019-z\">doi:10.1038/s41557-025-02019-z</a></p>Living cells rely on the choreography of multiple simultaneous functions, without clear boundaries between molecular subsystems. Replicating these capabilities in synthetic cells would represent a major advance in understanding life. This Perspective argues that this challenge requires a shift away from modular design concepts, towards a strategy that integrates the theoretical principles of systems chemistry with data-driven high-throughput experimental methods.",
+    "url": "https://www.nature.com/articles/s41557-025-02019-z",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rethink how we build AI to enable effective climate-change mitigation",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04123-z\">doi:10.1038/d41586-025-04123-z</a></p>Rethink how we build AI to enable effective climate-change mitigation",
+    "url": "https://www.nature.com/articles/d41586-025-04123-z",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Help small-scale gold miners to transition away from mercury use",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04121-1\">doi:10.1038/d41586-025-04121-1</a></p>Help small-scale gold miners to transition away from mercury use",
+    "url": "https://www.nature.com/articles/d41586-025-04121-1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Retire \u2018seminal\u2019 from the scientific vocabulary",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04124-y\">doi:10.1038/d41586-025-04124-y</a></p>Retire \u2018seminal\u2019 from the scientific vocabulary",
+    "url": "https://www.nature.com/articles/d41586-025-04124-y",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "To improve resilience to climate change, track what endures",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04122-0\">doi:10.1038/d41586-025-04122-0</a></p>To improve resilience to climate change, track what endures",
+    "url": "https://www.nature.com/articles/d41586-025-04122-0",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why cancer can come back years later \u2014 and how to stop it",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04149-3\">doi:10.1038/d41586-025-04149-3</a></p>Researchers are targeting dormant tumour cells that might explain why some cancers reappear long after successful treatment.",
+    "url": "https://www.nature.com/articles/d41586-025-04149-3",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Optical control of orbital magnetism in magic-angle twisted bilayer graphene",
+    "summary": "<p>Nature Physics, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41567-025-03117-y\">doi:10.1038/s41567-025-03117-y</a></p>Strong correlations and topology have been seen in moir\u00e9 graphene, but their optical control has not been shown yet. Now, the optical manipulation of orbital magnetism and anomalous Hall effects is demonstrated in magic-angle twisted bilayer graphene.",
+    "url": "https://www.nature.com/articles/s41567-025-03117-y",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Nature Physics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "2025, une ann\u00e9e de catastrophes li\u00e9es au changement climatique",
+    "summary": "Au cours des douze&nbsp;derniers mois, 157 \u00e9v\u00e9nements m\u00e9t\u00e9o ont \u00e9t\u00e9 aggrav\u00e9s par le changement climatique, affirme le groupe scientifique World Weather Atttribution. Aucun crit\u00e8re naturel ne peut expliquer pourquoi 2025 a \u00e9t\u00e9 la deuxi\u00e8me ann\u00e9e la plus chaude derri\u00e8re 2024.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/climat/2025-une-annee-de-catastrophes-liees-au-changement-climatique_190284?xtor=RSS-15",
+    "published_date": "2026-01-06T10:26:02Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "R\u00e9chauffement climatique: la mortalit\u00e9 des arbres s'acc\u00e9l\u00e8re en Australie, selon une \u00e9tude",
+    "summary": "Les for\u00eats australiennes se d\u00e9peuplent \u00e0 un rythme acc\u00e9l\u00e9r\u00e9 \u00e0 mesure que le climat se r\u00e9chauffe, selon une \u00e9tude publi\u00e9e mardi dans la revue Nature Plants, s'appuyant sur des donn\u00e9es recueillies sur plusieurs d\u00e9cennies.\nL'\u00e9tude s'est appuy\u00e9e sur les donn\u00e9es d'inventaire forestier de 2.700 parcelles \u00e0 travers le pays, dans quatre \u00e9cosyst\u00e8mes diff\u00e9rents:  savane tropicale, for\u00eat temp\u00e9r\u00e9e fra\u00eeche, for\u00eat temp\u00e9r\u00e9e chaude et for\u00eat tropicale humide.\n\"Nous avons constat\u00e9 que le taux de mortalit\u00e9 a augment\u00e9 de mani\u00e8re constante au fil du temps, dans tous les types de for\u00eats\", a d\u00e9clar\u00e9 Belinda Medlyn, professeure \u00e0 l'Institut Hawkesbury pour l'environnement de l'Universit\u00e9 occidentale de Sydney.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/rechauffement-climatique-la-mortalite-des-arbres-s-accelere-en-australie-selon-une-etude_190285?xtor=RSS-15",
+    "published_date": "2026-01-06T10:25:58Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "L\u2019astronaute fran\u00e7aise Sophie Adenot se pr\u00e9pare \u00e0 passer huit mois sur l'ISS",
+    "summary": "\u00c0 40 jours de son envol, Sophie Adenot s\u2019appr\u00eate \u00e0 devenir la deuxi\u00e8me Fran\u00e7aise dans l\u2019espace, trente ans apr\u00e8s Claudie Haigner\u00e9. Sa mission de huit mois \u00e0 bord de l\u2019ISS combinera exp\u00e9riences scientifiques, robotique et coop\u00e9ration internationale.",
+    "url": "https://www.sciencesetavenir.fr/espace/exploration/l-astronaute-sophie-adenot-veut-repousser-ses-limites-pendant-sa-mission-sur-l-iss_190279?xtor=RSS-9",
+    "published_date": "2026-01-05T16:36:26Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A modelling assessment of the impact of control measures on highly pathogenic avian influenza transmission in poultry in Great Britain",
+    "summary": "<p>by Christopher N. Davis, Edward M. Hill, Chris P. Jewell, Kristyna Rysava, Robin N. Thompson, Michael J. Tildesley</p>\n\nSince 2020, large-scale outbreaks of highly pathogenic avian influenza (HPAI) H5N1 in Great Britain have resulted in substantial poultry mortality and economic losses. Alongside the costs, the risk of circulation leading to a viral reassortment that causes zoonotic spillover raises additional concerns. However, the precise mechanisms driving transmission between poultry premises and the impact of potential control measures in Great Britain, such as vaccination, are not fully understood. We have developed a spatial transmission model for the spread of HPAI in poultry premises calibrated to infected premises data for the 2022\u201323 season using Markov chain Monte Carlo. Our results indicate that reducing the susceptibility of the premises surrounding an identified infected premises (for example, through enhanced biosecurity measures and/or vaccination) can substantially reduce the overall number of infected premises. Our findings highlight that enhanced control measures could limit the future impact of HPAI on the poultry industry and reduce the risk of broader health threats.",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013874",
+    "published_date": "2026-01-05T14:00:00Z",
+    "source_feed": "PLOS Computational Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ShapeSpaceExplorer: Analysis of morphological transitions in migrating cells using similarity-based shape space mapping",
+    "summary": "<p>by Samuel D. R. Jefferyes, Roswitha Gostner, Laura Cooper, Mohammed M. Abdelsamea, Elly Straube, Nasir Rajpoot, David B. A. Epstein, Anne Straube</p>\n\nHere we describe the development of ShapeSpaceExplorer, an interactive software for the extraction, visualisation and analysis of complex 2D shape series. We also demonstrate its application to the analysis of cell morphology changes during cell migration. Cell migration is essential for many physiological and pathological processes. Intracellular force generation and transmission of these forces to extracellular structures or neighbouring cells drives cell migration. The emergent property of the processes driving cell migration is a change in cell shape. We describe a machine learning approach to understand the relationship of cell shape dynamics and cell migration behaviour. Our algorithm analyses cell shape from time-lapse images and learns the intrinsic low-dimensional structure of cell shape space. We use the resultant shape space map to visualise differences in cell shape distribution following perturbation experiments and to analyse the quantitative relationships between shape and migration behaviour. The core of our algorithm is a new, rapid, and landmark-free shape difference measure that allows unbiased analysis of the widely varying morphologies exhibited by migrating mesenchymal cells. We used our method to predict cell turning from dynamic cell shape information. ShapeSpaceExplorer can be applied widely to visualise and analyse cell morphology changes during development, the cell cycle and stress response, but also to the outlines of clusters, tissues and inanimate objects.",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013864",
+    "published_date": "2026-01-05T14:00:00Z",
+    "source_feed": "PLOS Computational Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Beyond the first glance: How human presence enhances visual entropy and promotes spatial learning",
+    "summary": "<p>by Tracy S\u00e1nchez Pacheco, Debora Nolte, Sabine U. K\u00f6nig, Gordon Pipa, Peter K\u00f6nig</p>\n\nSpatial learning emerges not only from static environmental cues but also from the social and semantic context embedded in our surroundings. This study investigates how human agents influence visual exploration and spatial knowledge acquisition in a controlled Virtual Reality (VR) environment, focusing on the role of contextual congruency. Participants freely explored a 1 km<sup>2</sup> virtual city while their eye movements were recorded. Agents were visually identical across conditions but placed in locations that were either congruent, incongruent, or neutral with respect to the surrounding environment. Using Bayesian hierarchical modeling, we found that incongruent agents elicited longer fixations and higher gaze transition entropy (GTE), a measure of scanning variability. Crucially, GTE emerged as the strongest predictor of spatial recall accuracy. A counterfactual mediation analysis indicated a small but reliable pathway via GTE and, for incongruent agents, a larger direct component not captured by GTE. These findings suggest that human-contextual incongruence promotes more flexible and distributed visual exploration, thereby enhancing spatial learning. By showing that human agents shape not only where we look but how we explore and encode space, this study contributes to a growing understanding of how social meaning guides attention and supports navigation.",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013173",
+    "published_date": "2026-01-05T14:00:00Z",
+    "source_feed": "PLOS Computational Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Intermittent AP-1 activation in muscles contributes to exercise-induced health benefits",
     "summary": "Regular physical exercise extends healthspan, yet the molecular mechanisms that translate intermittent contractile stress into lasting benefit remain incompletely understood. Using global nuclear run-on (GRO-seq) in mouse skeletal muscle after treadmill running, we profiled enhancer RNA (eRNA), a sensitive marker of enhancer activity. Activation protein-1 (AP-1), a family of pioneering factors for senescence, emerged as the top transcription factor with motif enrichment in exercise-activated enhancers. Our screen in the contracting C2C12 myotubes pinpointed cFos/JunD as the primary AP-1 factor responsible for contraction-induced transcriptional changes. Muscle-specific overexpression of A-Fos, a dominant-negative mutant of cFos, disrupted transcriptomic responses to exercise and attenuated exercise-mediated improvement in muscle functions. Interestingly, intermittent but not continuous overexpression of cFos/JunD in mouse muscles mimicked exercise-induced transcriptomic changes, increased mitochondrial volume density, enhanced muscle strength and fatigue resistance, and improved glucose tolerance. These results define a transcriptional regulatory signaling pathway linking exercise intermittency to beneficial adaptations and highlight the necessary recovery cycles in training. The paradoxical anti- and pro-aging roles of AP-1 offer insights into the timing and dynamics of stressors and stress responses in shaping senescence and healthspan.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1",

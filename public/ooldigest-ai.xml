@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T10:20:01.193954+00:00</updated>
+  <updated>2026-01-06T11:16:23.141621+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] ChemRxiv ▶ Porous Biopolymer–MOF Composites for Water Treatment: From Material Design to Practical Performance</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Porous biopolymer platforms integrated with metal–organic frameworks (MOFs) pair the processability of polymer networks with the high surface area and tunable chemistry of MOFs, but reported performan</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Review of porous biopolymer–MOF composite materials for practical water-treatment performance (transport, fouling, regeneration), with only tangential relevance to origins-of-life via general water/materials context.</p>
+<p><strong>Abstract:</strong> Porous biopolymer platforms integrated with metal–organic frameworks (MOFs) pair the processability of polymer networks with the high surface area and tunable chemistry of MOFs, but reported performance is often difficult to compare across studies due to inconsistent metrics, idealized batch testing, and limited attention to transport, regeneration, and matrix effects. This review evaluates porous biopolymer–MOF composites from a platform-level perspective, emphasizing how architecture, MOF placement, and operating mode shape performance under realistic constraints rather than isolated adsorption capacities. Performance trends are synthesized across major contaminant classes (heavy metals, dyes, pharmaceuticals, and PFAS), focusing on dominant interaction mechanisms and the penalties imposed by diffusion limitations, fouling, and competitive solutes. Regeneration and durability are treated as central determinants of viability, alongside leaching risk and water-matrix realism. To improve comparability and translation, a minimum reporting framework is proposed, specifying essential parameters for both batch and flow systems. Overall, the review provides a structured basis to judge when porous biopolymer–MOF composites justify added complexity for sustainable water treatment.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] ChemRxiv ▶ Importance of Nonadiabatic Effects in Modeling Absorption Spectra of Indole and Cyanoindole Derivatives in Solution</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Nonadiabatic effects arising from conical intersections between excited states play a crucial role in the optical properties of a wide range of chromophores and have to be accounted for in first-princ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Computational photophysics study showing that explicitly nonadiabatic coupling between the La and Lb excited states is required to reproduce absorption spectra of indole and cyanoindoles, with water strongly stabilizing charge-transfer character and reshaping ultrafast excited-state dynamics.</p>
+<p><strong>Abstract:</strong> Nonadiabatic effects arising from conical intersections between excited states play a crucial role in the optical properties of a wide range of chromophores and have to be accounted for in first-principles modeling of spectral lineshapes. In this work, we investigate the importance of nonadiabatic effects in the absorption spectra of indole and cyanoindole derivatives by contrasting three modeling approaches. In the Gaussian Condon and Gaussian Non-Condon Theory formalisms, the linear response function is computed from excitation energy fluctuations of independent adiabatic excited states sampled along molecular dynamics trajectories, with the latter approach additionally including transition dipole moment fluctuations to account for Herzberg- Teller-type effects. In contrast, the tensor network-based T-TEDOPA approach allows for numerically exact quantum dynamics simulations of explicitly coupled diabatic excited states. We find that only the explicit coupling of the two lowest-lying excited states, La and Lb, within the T-TEDOPA approach yields accurate absorption spectra for all systems, while an adiabatic treatment underestimates spectral contributions from excitations into states with highly mixed electronic character. We further elucidate the role of polar solvent stabilization of the charge-transfer character La state by comparing indole in vacuum and in water, showing that solvent effects significantly shape the ultrafast population transfer between excited states and contribute to the differences in the experimental absorption lineshapes. Finally, we discuss the influence of cyano substituent position on the optical properties of cyanoindole derivatives through changes in the energy ordering of La and Lb, their relative transition dipole moments, and stabilization of the charge-transfer state in polar solvent.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [0] molecular biology - biorXiv Preprints ▶ Intermittent AP-1 activation in muscles contributes to exercise-induced health benefits</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1"/>
