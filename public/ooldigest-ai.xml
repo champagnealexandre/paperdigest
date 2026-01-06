@@ -3,8 +3,48 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T01:22:10.758640+00:00</updated>
+  <updated>2026-01-06T03:27:32.182064+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [0] Scientific Reports ▶ A hybrid differential evolution algorithm for distributed assembly flexible job shop scheduling with batch delivery and inventory</title>
+    <link href="https://www.nature.com/articles/s41598-025-34395-4"/>
+    <id>https://www.nature.com/articles/s41598-025-34395-4</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 06 January 2026; doi:10.1038/s41598-025-34395-4 A hybrid differential evolution algorithm for distributed assembly flexible job shop scheduling with batch deliver</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This paper develops a hybrid differential evolution algorithm for industrial job shop scheduling with batch delivery and inventory, with no apparent connection to origins of life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 06 January 2026; doi:10.1038/s41598-025-34395-4 A hybrid differential evolution algorithm for distributed assembly flexible job shop scheduling with batch delivery and inventory</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-025-34395-4">https://www.nature.com/articles/s41598-025-34395-4</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-025-34395-4">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ So … I asked A.I. to write a song about searching for life in the universe</title>
+    <link href="https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html"/>
+    <id>https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html</id>
+    <updated>2026-01-06T03:06:39Z</updated>
+    <summary>Keith’s note: I tried an experiment tonight. I simply asked Grok to “write a song with 5 verses and a chorus about searching for life in the universe”. I got an answer back in 30 seconds. I then went </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> A non-technical astrobiology.com blog post about using generative AI tools to create a song themed around searching for life in the universe, with no research content or academic references.</p>
+<p><strong>Abstract:</strong> Keith’s note: I tried an experiment tonight. I simply asked Grok to “write a song with 5 verses and a chorus about searching for life in the universe”. I got an answer back in 30 seconds. I then went to Suno and asked it to create music – I let it pick the preferences. It […] The post So … I asked A.I. to write a song about searching for life in the universe appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] Nature Communications ▶ Defining expansions and perturbations to the RNA polymerase III transcriptome and epitranscriptome by modified direct RNA nanopore sequencing</title>
+    <link href="https://www.nature.com/articles/s41467-025-68230-1"/>
+    <id>https://www.nature.com/articles/s41467-025-68230-1</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 06 January 2026; doi:10.1038/s41467-025-68230-1 RNA polymerase III transcribes essential non-coding RNAs, but many aspects of this biology remain unclear. Here</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces DRAP3R, a nanopore direct-RNA sequencing approach that profiles RNA polymerase III transcripts and their RNA modifications, expanding known Pol III RNAs and revealing dynamic epitranscriptomic patterns.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 06 January 2026; doi:10.1038/s41467-025-68230-1 RNA polymerase III transcribes essential non-coding RNAs, but many aspects of this biology remain unclear. Here, the authors develop DRAP3R, a nanopore sequencing method that captures Pol III transcripts and RNA modifications, revealing new RNAs and dynamic modification patterns.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-68230-1">https://www.nature.com/articles/s41467-025-68230-1</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-68230-1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [65] Astrobiology (astrobiology.com) ▶ NASA Selects Proposals To Advance The Habitable Worlds Observatory Astrobiology Mission Concept</title>
     <link href="https://astrobiology.com/2026/01/nasa-selects-proposals-to-advance-the-habitable-worlds-observatory-astrobiology-mission-concept.html"/>

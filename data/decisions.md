@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Defining expansions and perturbations to the RNA polymerase ](https://www.nature.com/articles/s41467-025-68230-1) |
+| ai_scored | 30 | [So … I asked A.I. to write a song about searching for life i](https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html) |
+| ai_scored | 0 | [A hybrid differential evolution algorithm for distributed as](https://www.nature.com/articles/s41598-025-34395-4) |
+| keyword_rejected | - | [Nonclassical Nucleation Pathways in Liquid Condensation Reve](http://link.aps.org/doi/10.1103/n3b1-tgjv) |
+| keyword_rejected | - | [Electrical Generation of Surface Plasmon Polaritons in Plasm](http://link.aps.org/doi/10.1103/q59q-m9q1) |
+| keyword_rejected | - | [Odd-Chern-Number Quantum Anomalous Hall Effect at Even Filli](http://link.aps.org/doi/10.1103/gm64-vxdm) |
+| keyword_rejected | - | [Large Spontaneous Nonreciprocal Charge Transport in a Zero-M](http://link.aps.org/doi/10.1103/13pd-tlzp) |
+| keyword_rejected | - | [Complex Phonon Behaviors Dictate Anisotropic and Nonmonotoni](http://link.aps.org/doi/10.1103/fw22-25rz) |
+| keyword_rejected | - | [Observation of $\mathrm{Δ}J=0$ Rotational Excitation in Dens](http://link.aps.org/doi/10.1103/7m51-n6w7) |
+| keyword_rejected | - | [Effects of Geometric Curvature and Weak Magnetic Shear on th](http://link.aps.org/doi/10.1103/mysq-8cv3) |
+| keyword_rejected | - | [Extending the Observation Time of Charged Helium Droplets to](http://link.aps.org/doi/10.1103/yr98-h791) |
+| keyword_rejected | - | [Influence of different industrial resource profiles on taxon](https://www.nature.com/articles/s41598-025-32865-3) |
+| keyword_rejected | - | [Visualization and quantification of lattice strain in batter](https://www.nature.com/articles/s41467-025-68166-6) |
+| keyword_rejected | - | [Lithospheric models supported by the Caribbean and Levant ex](https://www.nature.com/articles/s41467-025-68051-2) |
 | ai_scored | 65 | [NASA Selects Proposals To Advance The Habitable Worlds Obser](https://astrobiology.com/2026/01/nasa-selects-proposals-to-advance-the-habitable-worlds-observatory-astrobiology-mission-concept.html) |
 | keyword_rejected | - | [Comparison of treatment modalities for distal radius fractur](https://www.nature.com/articles/s41598-025-34837-z) |
 | keyword_rejected | - | [Design and evaluation of a remote damage control surgery rea](https://www.nature.com/articles/s41598-025-34705-w) |
