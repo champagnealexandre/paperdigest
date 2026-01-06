@@ -3,8 +3,526 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T04:37:41.281193+00:00</updated>
+  <updated>2026-01-06T05:23:07.785989+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ Trajectory-Based Dust Evolution in Disks: First Results from the RAPID Simulation Code</title>
+    <link href="https://arxiv.org/abs/2601.01468"/>
+    <id>https://arxiv.org/abs/2601.01468</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01468v1 Announce Type: new Abstract: The rapid depletion of dust particles in protoplanetary disks limits the time available for planetesimal formation, as solids are typically accreted ont</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, planetesimal</p>
+<p><strong>AI Decision:</strong> Simulations with the RAPID code show how dust traps at dead-zone viscosity transitions can retain several Earth masses of solids and sensitively control early planetesimal-building conditions in protoplanetary disks.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01468v1 Announce Type: new Abstract: The rapid depletion of dust particles in protoplanetary disks limits the time available for planetesimal formation, as solids are typically accreted onto the central star before dust particles can undergo substantial growth. Dust traps formed at sharp viscosity transitions $-$ such as at the edges of the accretionally inactive dead zones $-$ can halt radial drift and enhance dust coagulation. In this study, dust dynamics is investigated using \texttt{RAPID}, a one-dimensional Lagrangian-Eulerian simulation code that tracks representative particle trajectories over time. In order to explore the effect of physical parameters on dust evolution, a grid of 243 models was run. The simulation grid covers a range of parameters such as viscosity, width of the transition region at the edges of the dead zone, disk surface density exponent, and the collisional fragmentation velocity of the dust particles. The computational domain extends from 1 to 50 AU and covers $5\times10^5$ years of disk evolution, assuming a disk mass of $\sim 0.005\,M_\odot$. The results show that pressure maxima can trap up to $3-10\,M_\oplus$ of dust, depending on the local disk conditions. However, increasing the fragmentation velocity, decreasing the viscosity, or widening the dead zone transition width tends to reduce the effectiveness of dust trapping. The simulation results with \texttt{RAPID} reveal that dust evolution is highly sensitive to the physical conditions of the disk, which governs the early stages of planetesimal growth.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01468">https://arxiv.org/abs/2601.01468</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01468">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ Hunting for &quot;Oddballs&quot; with Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders</title>
+    <link href="https://arxiv.org/abs/2601.02324"/>
+    <id>https://arxiv.org/abs/2601.02324</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.02324v1 Announce Type: new Abstract: This study explores the application of autoencoder-based machine learning techniques for anomaly detection to identify exoplanet atmospheres with unconv</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Uses autoencoder-based latent-space anomaly detection on large simulated transit-spectra datasets to robustly flag chemically unusual exoplanet atmospheres (e.g., CO2-rich) under realistic noise, enabling efficient triage for follow-up atmospheric characterization relevant to habitability/biosignature searches.</p>
+<p><strong>Abstract:</strong> arXiv:2601.02324v1 Announce Type: new Abstract: This study explores the application of autoencoder-based machine learning techniques for anomaly detection to identify exoplanet atmospheres with unconventional chemical signatures using a low-dimensional data representation. We use the Atmospheric Big Challenge (ABC) database, a publicly available dataset with over 100,000 simulated exoplanet spectra, to construct an anomaly detection scenario by defining CO2-rich atmospheres as anomalies and CO2-poor atmospheres as the normal class. We benchmarked four different anomaly detection strategies: Autoencoder Reconstruction Loss, One-Class Support Vector Machine (1 class-SVM), K-means Clustering, and Local Outlier Factor (LOF). Each method was evaluated in both the original spectral space and the autoencoder&#x27;s latent space using Receiver Operating Characteristic (ROC) curves and Area Under the Curve (AUC) metrics. To test the performance of the different methods under realistic conditions, we introduced Gaussian noise levels ranging from 10 to 50 ppm. Our results indicate that anomaly detection is consistently more effective when performed within the latent space across all noise levels. Specifically, K-means clustering in the latent space emerged as a stable and high-performing method. We demonstrate that this anomaly detection approach is robust to noise levels up to 30 ppm (consistent with realistic space-based observations) and remains viable even at 50 ppm when leveraging latent space representations. On the other hand, the performance of the anomaly detection methods applied directly in the raw spectral space degrades significantly with increasing the level of noise. This suggests that autoencoder-driven dimensionality reduction offers a robust methodology for flagging chemically anomalous targets in large-scale surveys where exhaustive retrievals are computationally prohibitive.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02324">https://arxiv.org/abs/2601.02324</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.02324">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ A comprehensive study of the relations between the properties of planetary systems and the chemical compositions of their host stars</title>
+    <link href="https://arxiv.org/abs/2601.00962"/>
+    <id>https://arxiv.org/abs/2601.00962</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.00962v1 Announce Type: new Abstract: The giant planet-metallicity correlation revealed that planetary formation depends on the stellar properties. There is growing evidence that it is also </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> High-resolution abundance measurements of 13 elements in 561 Kepler host stars show planet-size/temperature demographics correlate mainly with overall metallicity (with alpha-enhancement aiding giant-planet formation at low [Fe/H]), offering indirect astrobiology context via how stellar chemistry shapes planetary system architectures rather than origins-of-life processes.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00962v1 Announce Type: new Abstract: The giant planet-metallicity correlation revealed that planetary formation depends on the stellar properties. There is growing evidence that it is also valid for smaller hot planets, but it is not clear whether elements other than iron also influence the properties of planetary systems. To investigate this, we determined the abundances of 13 chemical elements (Na, Mg, Al, Si, Ca, Sc, Ti, V, Cr, Mn, Co, Ni and Cu) for a sample of 561 Kepler exoplanet-hosting stars using high-resolution Keck/HIRES spectra. We find that stars in systems having only large or hot planets are enriched in some elements relative to those having only small or warm planets, respectively, with this signature being related to the underlying stellar metallicity. This Kepler sample is composed of stars belonging to the Galactic low- and high-$\alpha$ sequences, corresponding to the chemical thin and thick disks. Our results reveal that stars enhanced in $\alpha$-elements may facilitate the formation of large planets in metal-poor environments although the iron abundance is still a limiting factor. We also investigated chemical abundances as a function of elemental condensation temperatures and found that there is a diversity of slopes of regardless of the exoplanetary systems hosted by the star. We confirmed that the Sun is depleted in refractory elements relative to the solar twins in our sample, all of which host a diversity of exoplanets, suggesting that this depletion is caused by processes not related to planet formation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.00962">https://arxiv.org/abs/2601.00962</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00962">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] cs.NE updates on arXiv.org ▶ Modelling the emergence of open-ended cultural evolution</title>
+    <link href="https://arxiv.org/abs/2508.04828"/>
+    <id>https://arxiv.org/abs/2508.04828</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2508.04828v2 Announce Type: replace Abstract: Humans stand alone in terms of their potential to collectively and cumulatively change their culture in an open-ended manner. This open-endedness pr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a macro-level coevolutionary model showing that open-ended cultural evolution is rare and requires coupled dynamics between cultural systems and an expanding search space, with stochastic perturbations and selection-like maintenance.</p>
+<p><strong>Abstract:</strong> arXiv:2508.04828v2 Announce Type: replace Abstract: Humans stand alone in terms of their potential to collectively and cumulatively change their culture in an open-ended manner. This open-endedness provides societies with the ability to continually expand their resources and to increase their capacity to store, transmit and process information at a collective-level. Here, we propose that the production of resources arises from the interaction between cultural systems (a society&#x27;s repertoire of interdependent techniques, artifacts, norms and knowledge) and search spaces (an ensemble of needs, problems and goals facing a society). Starting from this premise we develop a macro-level model wherein both cultural systems and search spaces are subject to evolutionary dynamics. By manipulating the extent to which these dynamics are characterised by stochastic or selection-like processes, we demonstrate that open-ended growth is extremely rare, historically contingent and only possible when cultural systems and search spaces co-evolve. Here, stochastic factors must be strong enough to continually perturb the dynamics into a far-from-equilibrium state, whereas selection-like factors help maintain effectiveness and ensure the sustained production of resources. Only when this co-evolutionary dynamic maintains effective cultural systems, supports the ongoing expansion of the search space and leads to an increased provision of resources do we observe open-ended cultural evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2508.04828">https://arxiv.org/abs/2508.04828</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2508.04828">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] cs.IT updates on arXiv.org ▶ Information Flow in geophysical systems</title>
+    <link href="https://arxiv.org/abs/2601.01795"/>
+    <id>https://arxiv.org/abs/2601.01795</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01795v1 Announce Type: new Abstract: We present a new framework for analyzing the evolution of information in geophysical systems. Understanding how information, and its counterpart, uncert</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, water</p>
+<p><strong>AI Decision:</strong> Presents an information-propagation/causality diagnostic for nonlinear geophysical fluid models (Kuramoto–Sivashinsky and shallow-water atmospheres), potentially useful for planetary climate/atmospheric predictability studies but not directly focused on origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01795v1 Announce Type: new Abstract: We present a new framework for analyzing the evolution of information in geophysical systems. Understanding how information, and its counterpart, uncertainty, propagates is central to predictability studies and has significant implications for applications such as forecast uncertainty quantification and risk management. It also offers valuable insight into the underlying physics of the system. Information propagation is closely linked to causality: how one part of a system influences another, and how some regions remain dynamically isolated. We apply this framework to the one-dimensional, highly nonlinear Kuramoto-Sivashinsky model and to the shallow-water equations, representing a mid-latitude atmospheric strip. Notably, we observe that information can propagate against the fluid flow, and that different model variables exhibit distinct patterns of information evolution. For example, pressure-related information propagates differently from relative vorticity, reflecting the influence of gravity waves versus balanced flow dynamics. This new framework offers a promising addition to the diagnostic tools available for studying complex dynamical systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01795">https://arxiv.org/abs/2601.01795</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01795">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] cond-mat.dis-nn updates on arXiv.org ▶ Is Grokking a Computational Glass Relaxation?</title>
+    <link href="https://arxiv.org/abs/2505.11411"/>
+    <id>https://arxiv.org/abs/2505.11411</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2505.11411v5 Announce Type: replace-cross Abstract: Understanding neural network&#x27;s (NN) generalizability remains a central question in deep learning research. The special phenomenon of grokking,</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This machine-learning study interprets neural-network grokking as a glass-like relaxation process and maps an entropy landscape for memorization-to-generalization transitions, but it has only tangential relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2505.11411v5 Announce Type: replace-cross Abstract: Understanding neural network&#x27;s (NN) generalizability remains a central question in deep learning research. The special phenomenon of grokking, where NNs abruptly generalize long after the training performance reaches a near-perfect level, offers a unique window to investigate the underlying mechanisms of NNs&#x27; generalizability. Here we propose an interpretation for grokking by framing it as a computational glass relaxation: viewing NNs as a physical system where parameters are the degrees of freedom and train loss is the system energy, we find memorization process resembles a rapid cooling of liquid into non-equilibrium glassy state at low temperature and the later generalization is like a slow relaxation towards a more stable configuration. This mapping enables us to sample NNs&#x27; Boltzmann entropy (states of density) landscape as a function of training loss and test accuracy. Our experiments in transformers on arithmetic tasks suggests that there is NO entropy barrier in the memorization-to-generalization transition of grokking, challenging previous theory that defines grokking as a first-order phase transition. We identify a high-entropy advantage under grokking, an extension of prior work linking entropy to generalizability but much more significant. Inspired by grokking&#x27;s far-from-equilibrium nature, we develop a toy optimizer WanD based on Wang-landau molecular dynamics, which can eliminate grokking without any constraints and find high-norm generalizing solutions. This provides strictly-defined counterexamples to theory attributing grokking solely to weight norm evolution towards the Goldilocks zone and also suggests new potential ways for optimizer design.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2505.11411">https://arxiv.org/abs/2505.11411</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2505.11411">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ A Dichotomy of the Mass-Metallicity Relation of Exoplanetary Atmospheres Demarcated by their Birthplace</title>
+    <link href="https://arxiv.org/abs/2506.16060"/>
+    <id>https://arxiv.org/abs/2506.16060</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2506.16060v2 Announce Type: replace Abstract: Atmospheric observations by JWST raise a growing evidence that atmospheric metallicity exhibits an anti-correlation with masses of giant exoplanets.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, planetesimal</p>
+<p><strong>AI Decision:</strong> Modeling of pebble-accretion giant planet formation predicts two distinct atmospheric mass–metallicity trends set by formation inside vs. beyond the H2O snowline, with envelope mixing controlling whether an anti-correlation appears—useful context for interpreting JWST atmospheres but only indirectly relevant to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2506.16060v2 Announce Type: replace Abstract: Atmospheric observations by JWST raise a growing evidence that atmospheric metallicity exhibits an anti-correlation with masses of giant exoplanets. While such a trend was anticipated by planetesimal-based planet formation models, it remains unclear what kind of atmospheric metallicity trends emerge from pebble-based planet formation. Moreover, while recent studies of solar system Jupiter suggest that uppermost observable atmosphere may not represent the bulk envelope composition, it remains uncertain how the envelope inhomogeneity influences the atmospheric metallicity trend. In this study, we develop disk evolution and planet formation models to investigate the possible atmospheric metallicity trends of giant exoplanets formed via pebble accretion and how they depend on the metallicity inhomogeneity within the envelope. We find that pebble-based planet formation produces two distinct mass-metallicity relations depending on planetary birthplace. Planets formed beyond the H2O snowline exhibit a mass-metallicity anti-correlation similar to that predicted by planetesimal-based models if their atmospheres are fully convective. This anti-correlation disappears if the convective mixing is inefficient. In contrast, planets formed inside the H2O snowline show a shallower mass-metallicity anti-correlation, regardless of the efficiency of atmospheric mixing. Many gas giants observed by JWST observations lie around the mass-metallicity relation predicted for formation at close-in orbits, although some planets with sub-stellar atmospheric metallicity appear to require unmixed envelopes and formation beyond the H2O snowline. We also examine the relationship between bulk and atmospheric metallicity and find a clear correlation that closely follows atmospheric metallicity that is comparable to bulk metallicity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2506.16060">https://arxiv.org/abs/2506.16060</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2506.16060">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [62] astro-ph.EP updates on arXiv.org ▶ Protoplanetary disk cavities with JWST-MIRI: a dichotomy in molecular emission</title>
+    <link href="https://arxiv.org/abs/2601.02344"/>
+    <id>https://arxiv.org/abs/2601.02344</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.02344v1 Announce Type: new Abstract: The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central def</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, water</p>
+<p><strong>AI Decision:</strong> JWST-MIRI spectra of protoplanetary disks with dust cavities reveal a molecule-rich vs molecule-poor dichotomy (notably in H2O/CO/OH and organics) linked to residual small dust and reduced gas density, informing how water and prebiotic organics may be processed during planet-forming disk clearing.</p>
+<p><strong>Abstract:</strong> arXiv:2601.02344v1 Announce Type: new Abstract: The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central deficit in dust emission, a &quot;cavity&quot;, have long attracted interest as potential evidence for advanced disk clearing by protoplanets and/or winds. Before JWST, infrared spectra showed that these disks typically lack the strong molecular emission observed in full disks. In this work, we combine a sample of 12 disks with millimeter cavities of a range of sizes ($\sim2$-70 au) and different levels of millimeter and infrared continuum deficits. We analyze their molecular spectra as observed with MIRI on JWST, homogeneously reduced with the new JDISCS pipeline. This analysis demonstrates a stark dichotomy in molecular emission where &quot;molecule-rich&quot; (MR) cavities follow global trends between water, CO, and OH luminosity and accretion luminosity as in full disks, while &quot;molecule-poor&quot; (MP) cavities are significantly sub-luminous in all molecules except sometimes OH. Disk cavities generally show sub-luminous organic emission, higher OH/H$_2$O ratios, and suggest a lower water column density. The sub-thermal excitation of CO and water vibrational lines suggests a decreased gas density in the emitting layer in all cavities, supporting model expectations for C$_2$H$_2$ photodissociation. We discover a bifurcation in infrared index (lower in MR cavities) suggesting that the molecular dichotomy is linked to residual $\mu$m-size dust within millimeter disk cavities. Put together, these results suggest a feedback process between dust depletion, gas density decrease, and molecule dissociation. Disk cavities may have a common evolutionary sequence where MR switch into MP over time.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02344">https://arxiv.org/abs/2601.02344</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.02344">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] astro-ph.EP updates on arXiv.org ▶ Exo-Geoscience Perspectives Beyond Habitability</title>
+    <link href="https://arxiv.org/abs/2601.01177"/>
+    <id>https://arxiv.org/abs/2601.01177</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01177v1 Announce Type: new Abstract: This article reviews the emerging field of exo-geoscience, focusing on the geological and geophysical processes thought to influence the evolution and (</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, exoplanet, habitab*</p>
+<p><strong>AI Decision:</strong> A review of exo-geoscience linking rocky exoplanet interior and surface processes to long-term climate stability and potentially detectable atmospheric/surface signatures relevant to habitability and life detection.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01177v1 Announce Type: new Abstract: This article reviews the emerging field of exo-geoscience, focusing on the geological and geophysical processes thought to influence the evolution and (eu)habitability of rocky exoplanets. We examine the possible roles of planetary interiors, tectonic regimes, continental coverage, volatile cycling, magnetic fields, and atmospheric composition and evolution in shaping long-term climate stability and biospheric potential. Comparisons with Earth and other planets in the Solar System highlight the diversity of planetary conditions and the rarity of conditions relevant to life. We also discuss contingency and convergence in planetary and biological evolution as they relate to the spread of life in the universe. The observational limits of current and planned missions are assessed, emphasizing the need for models that connect internal dynamics to detectable atmospheric and surface signatures as well as the need for laboratory measurements of planetary properties under a wide range of conditions. The large number of exoplanets promises opportunities for empirical and statistical studies of processes that may have occurred earlier in Earth&#x27;s history, as well as of the other pathways rocky planets and biospheres may take. Thus, exo-geoscience provides a framework for interpreting exoplanet diversity and refining strategies for detecting life beyond the Solar System.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01177">https://arxiv.org/abs/2601.01177</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01177">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] astro-ph.EP updates on arXiv.org ▶ The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions for 20 exoplanet host stars that JWST observed in Cycle 1</title>
+    <link href="https://arxiv.org/abs/2601.01628"/>
+    <id>https://arxiv.org/abs/2601.01628</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01628v1 Announce Type: new Abstract: Correctly interpreting JWST spectra of close-in exoplanets requires a measurement of the X-ray and ultraviolet light that the planets receive from their</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, habitab*</p>
+<p><strong>AI Decision:</strong> Compiles panchromatic (X-ray–IR) stellar SEDs for 20 JWST exoplanet host stars to quantify UV/X-ray irradiation that drives atmospheric chemistry and escape, improving habitability and atmospheric/biosignature interpretation though not directly addressing origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01628v1 Announce Type: new Abstract: Correctly interpreting JWST spectra of close-in exoplanets requires a measurement of the X-ray and ultraviolet light that the planets receive from their host stars. Here we provide spectral energy distributions (SEDs) covering the range $\approx5-1\times10^7$A for 20 transiting exoplanet host stars observed in JWST Cycle 1. The SEDs are constructed out of new and archival Hubble Space Telescope, Chandra X-ray Observatory and/or XMM-Newton data combined with spectra from models or stars with similar properties (proxies) filling in unobserved gaps. We have also constructed SEDs of likely Habitable Worlds Observatory targets $\kappa^1$ Ceti, $\tau$ Ceti, $\epsilon$ Indi and 70 Oph B for use as proxies. We find that the JWST target planets almost all experience much stronger ultraviolet fluxes than the Earth, especially in the extreme ultraviolet, even for planets with similar overall instellation. Strong ongoing or past atmospheric escape is possible for a majority of these planets. We also assess the now considerable sample of panchromatic stellar SEDs and its applicability for current JWST observations and beyond.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01628">https://arxiv.org/abs/2601.01628</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01628">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] cond-mat.stat-mech updates on arXiv.org ▶ Tunable chiral spiral phases in a non-Hermitian Ising-Gamma spin chain</title>
+    <link href="https://arxiv.org/abs/2601.01020"/>
+    <id>https://arxiv.org/abs/2601.01020</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01020v1 Announce Type: cross Abstract: We study the influence of dissipation on the Ising-Gamma model. Through observables such as ground-state energy, order parameters, entanglement entrop</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Non-Hermitian Ising–Gamma spin-chain study showing dissipation-tunable spiral phases with emergent opposite chiralities, offering a controllable physical mechanism for chirality selection but with only indirect relevance to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01020v1 Announce Type: cross Abstract: We study the influence of dissipation on the Ising-Gamma model. Through observables such as ground-state energy, order parameters, entanglement entropy, etc., we identify each phase region and provide the global phase diagram of the system. The results show that the region of the spiral phase will continuously expand with the increase of dissipation, gradually squeezing the original paramagnetic and antiferromagnetic phase regions. Remarkably, unlike the conservative system, the introduction of dissipation will cause two spiral phases with opposite chiralities to emerge simultaneously in the system, which provides a possibility for the manipulation of spiral chirality in cold atomic experiments. Moreover, we reveal the mechanism of the dependence of the transformation between these two spiral phases with distinct chirality on the strength of the relative coefficient of off-diagonal Gamma interactions in the Ising-Gamma model. Since both the relevant order parameters and dissipation can be well controlled within a detectable range, these phenomena can be observed in ultracold atomic experiments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01020">https://arxiv.org/abs/2601.01020</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01020">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] astro-ph.EP updates on arXiv.org ▶ Limits on forming coreless terrestrial worlds in the TRAPPIST-1 system</title>
+    <link href="https://arxiv.org/abs/2511.01231"/>
+    <id>https://arxiv.org/abs/2511.01231</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2511.01231v2 Announce Type: replace Abstract: With seven temperate Earth-sized planets revolving around an ultracool red dwarf, the nearby TRAPPIST-1 system offers a unique opportunity to verify</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Using updated metal–silicate partitioning, the authors argue TRAPPIST-1 planets are too small to fully oxidize iron and become coreless, implying their low densities more likely reflect volatile inventories or system-specific elemental budgets relevant to long-term habitability.</p>
+<p><strong>Abstract:</strong> arXiv:2511.01231v2 Announce Type: replace Abstract: With seven temperate Earth-sized planets revolving around an ultracool red dwarf, the nearby TRAPPIST-1 system offers a unique opportunity to verify models of exoplanet composition, differentiation, and interior structure. In particular, the low bulk densities of the TRAPPIST-1 planets, compared to terrestrial planets in our solar system, require either substantial amount of volatiles to be present or a corefree scenario where the metallic core is fully oxidised. Here, using an updated metal-silicate partitioning model, we show that during core-mantle differentiation oxygen becomes more siderophile (iron-loving) implying larger planet radii. For the seven TRAPPIST-1 planets, however, we find that they are not sufficiently large to oxidise all the iron in the core, if they differentiate from an Earth-like composition. Oxygen partitioning in rocky worlds precludes coreless planets up to about 4 Earth masses. The observed density deficit in the TRAPPIST-1 planets, and more generally in M dwarf systems if confirmed by future observations, may be explained by system-dependent element budgets during planet formation, which are intrinsically linked to their stellar metallicity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2511.01231">https://arxiv.org/abs/2511.01231</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2511.01231">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] astro-ph.EP updates on arXiv.org ▶ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <link href="https://arxiv.org/abs/2512.11459"/>
+    <id>https://arxiv.org/abs/2512.11459</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.11459v4 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> planetesimal</p>
+<p><strong>AI Decision:</strong> Reviews a combinatorial framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with applications including planetesimal formation, offering broadly relevant methodology to prebiotic self-assembly/early planetary contexts but not a direct origins-of-life study.</p>
+<p><strong>Abstract:</strong> arXiv:2512.11459v4 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.11459">https://arxiv.org/abs/2512.11459</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.11459">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] astro-ph.EP updates on arXiv.org ▶ Structure of Jupiter&#x27;s High-Latitude Storms: Folded Filamentary Regions Revealed by Juno</title>
+    <link href="https://arxiv.org/abs/2512.15696"/>
+    <id>https://arxiv.org/abs/2512.15696</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.15696v2 Announce Type: replace Abstract: Sprawling, turbulent cloud formations dominate the meteorology of Jupiter&#x27;s mid-to-high latitudes, known as Folded Filamentary Regions (FFRs). A mul</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, water</p>
+<p><strong>AI Decision:</strong> Juno multi-wavelength observations reveal the vertical structure and water-linked convection/lighting activity of Jupiter’s high-latitude Folded Filamentary Regions, offering broad planetary-atmosphere context (with tangential relevance via water and lightning) rather than direct origins-of-life insight.</p>
+<p><strong>Abstract:</strong> arXiv:2512.15696v2 Announce Type: replace Abstract: Sprawling, turbulent cloud formations dominate the meteorology of Jupiter&#x27;s mid-to-high latitudes, known as Folded Filamentary Regions (FFRs). A multi-wavelength characterisation by Juno reveals the spatial distribution, vertical structure, and energetics of the FFRs. The cloud tops display multiple lobes of stratiform aerosols, separated by darker, cloud-free lanes, and embedded with smaller eddies and high-altitude cumulus clouds. These cyclonic FFRs are microwave-bright in shallow-sounding wavelengths ($p&lt;5$ bars) and microwave-dark in deep-sounding wavelengths ($p&gt;10$ bars), with the transition potentially associated with the water condensation layer (6-7 bars). Associating microwave contrasts with temperature anomalies, this implies despinning of cyclonic eddies above/below their mid-planes. Despite deep roots (being detectable in wavelengths sounding $\sim100$ bars), they are ``pancake vortices&#x27;&#x27; with horizontal extents at least an order of magnitude larger than their depth. In the northern hemisphere, FFRs are most common in cyclonic belts poleward of $40^\circ$N (all latitudes are planetocentric), particularly a North Polar Filamentary Belt (NPFB) near $66-70^\circ$N that defines the transition from organised belts/zones to the chaotic polar domain. This distribution explains the high lightning rates from $45-80^\circ$N, peaking in a belt poleward of $52.3^\circ$N, which may trace the availability of water for moist convection. Many observed lightning flashes can be associated to specific FFRs containing bright storms, but some FFRs display no activity, suggesting quiescent periods during storm evolution. Analogies to Earth&#x27;s oceanic eddies suggest that cyclones deform isentropic surfaces at their midplanes, raising deep water-rich layers upwards to promote moist convection, release latent heat, and inject clouds into the upper troposphere.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.15696">https://arxiv.org/abs/2512.15696</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.15696">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] physics.comp-ph updates on arXiv.org ▶ Probabilistic modeling of Cherenkov emission from particle showers</title>
+    <link href="https://arxiv.org/abs/2601.00944"/>
+    <id>https://arxiv.org/abs/2601.00944</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.00944v1 Announce Type: cross Abstract: Subatomic particles can interact with target nuclei in matter or decay in flight, and an individual high-energy particle can induce a particle shower </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Develops probabilistic parameter distributions to efficiently model Cherenkov light from particle showers in ice for improved neutrino-telescope simulations, with minimal direct relevance to origins-of-life research beyond generic water/ice context.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00944v1 Announce Type: cross Abstract: Subatomic particles can interact with target nuclei in matter or decay in flight, and an individual high-energy particle can induce a particle shower composed of numerous, lower-energy secondaries. These particle showers broadly exhibit universality across diverse media, including air, water, ice, and other materials, with their development governed by the Standard Model. Full Monte Carlo simulation of particle showers, where each secondary is individually tracked and propagated, can be a computational challenge to perform at scale. Experiments thus resort to parametrized approximations when efficient simulation becomes necessary. Here, we construct distributions of parameters capable of describing the Cherenkov light yield from particle showers in ice, and extensible to other, similar media. Sampling from the distributions allows for a much improved description of event-to-event fluctuations, in amplitude and shape, along the shower axis. Including these effects is essential for a more accurate simulation of signal and background events in current and next-generation neutrino telescopes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.00944">https://arxiv.org/abs/2601.00944</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00944">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] cond-mat.stat-mech updates on arXiv.org ▶ Colloidal Suspensions can have Non-Zero Angles of Repose below the Minimal Value for Athermal Frictionless Particles</title>
+    <link href="https://arxiv.org/abs/2601.02291"/>
+    <id>https://arxiv.org/abs/2601.02291</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.02291v1 Announce Type: cross Abstract: We investigate the angle of repose ${\theta}_r$ of dense suspensions of colloidal silica particles ($d = 2$ $\mu m$ to $7$ $\mu m$) in water-filled mi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Microfluidic rotating-drum experiments show how thermal agitation versus gravity controls creep and arrest in colloidal silica piles in water, yielding finite angles of repose below the athermal frictionless limit via a glass-to-jamming crossover.</p>
+<p><strong>Abstract:</strong> arXiv:2601.02291v1 Announce Type: cross Abstract: We investigate the angle of repose ${\theta}_r$ of dense suspensions of colloidal silica particles ($d = 2$ $\mu m$ to $7$ $\mu m$) in water-filled microfluidic rotating drums experiments, to probe the crossover between the thermal (colloidal) and athermal (granular) regimes. For the smallest particles, thermal agitation promotes slow creep flows, and piles always flatten completely regardless of their initial inclination angle, resulting in ${\theta}_r = 0$. Above a critical particle size, piles of colloids stop flowing at a finite angle of repose, which increases with particle size but remains below the minimal value expected for athermal frictionless granular materials: $0 &lt; {\theta}_r &lt; {\theta}_{ath} \approx 5.8{\deg}$. We quantify the arrest dynamics as a function of the gravitational P\&#x27;eclet number $Pe_g$, which characterizes the competition between particle weight and thermal agitation. Our measurements are consistent with a recent rheological model [Billon et al., Phys. Rev. Fluids 8, 034302, 2023], in which the arrested state stems from a crossover between glass-like and jamming-dominated regimes as the granular pressure in the pile increases relative to the thermal pressure.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02291">https://arxiv.org/abs/2601.02291</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.02291">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] cond-mat.stat-mech updates on arXiv.org ▶ Non-reciprocal visual perception and polar alignment drive collective states in chiral active particles</title>
+    <link href="https://arxiv.org/abs/2601.01572"/>
+    <id>https://arxiv.org/abs/2601.01572</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01572v1 Announce Type: cross Abstract: Self-propelled particles rarely move in straight lines; environmental interactions, shape asymmetry, and intrinsic torques generically induce curved o</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Modeling shows how chirality coupled to non-reciprocal perception and polar alignment produces distinct collective patterns in active particles, offering broad-context insight into chiral self-organization mechanisms potentially relevant to prebiotic/early biological systems.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01572v1 Announce Type: cross Abstract: Self-propelled particles rarely move in straight lines; environmental interactions, shape asymmetry, and intrinsic torques generically induce curved or fluctuating trajectories. In biological and synthetic systems, this curvature often coexists with directional sensing and non-reciprocal interactions. Motivated by this, we explore the collective dynamics of chiral intelligent active Brownian particles (iABPs) that combine polar alignment with vision-based sensing. By varying the ratio of alignment to visual maneuverability, the vision angle, and the reduced chirality $(\omega/D_r)$, we construct a phase diagram exhibiting diverse collective states: spinners, vortices, ripples, worm-like swarms, rotary clusters, and irregular aggregates. Chirality critically governs their morphology: high chirality yields dilute phases, while moderate to low chirality produces cohesive yet dynamic patterns. Ripple loops emerge as a distinct state, characterized by expanding ring-like motion driven by outward torques and sustained only when both particle number and visual maneuverability are large. Structural and dynamical measures, including polarization, pair correlations, mean-square displacement, and orientation correlations, reveal clear signatures distinguishing these phases. Overall, our results show how chirality, non-reciprocal perception, and alignment together generate collective states inaccessible to non-chiral systems, with implications for chiral active matter in biological and synthetic contexts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01572">https://arxiv.org/abs/2601.01572</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01572">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] math.DS updates on arXiv.org ▶ Spatially-Coupled Network RNA Velocities: A Control-Theoretic Perspective</title>
+    <link href="https://arxiv.org/abs/2601.01018"/>
+    <id>https://arxiv.org/abs/2601.01018</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01018v1 Announce Type: new Abstract: RNA velocity is an important model that combines cellular spliced and unspliced RNA counts to infer dynamical properties of various regulatory functions</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces a control-theoretic RNA velocity framework for modern spatial transcriptomics that models intracellular gene regulatory networks and intercellular coupling, with only indirect relevance to origins-of-life questions despite involving RNA.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01018v1 Announce Type: new Abstract: RNA velocity is an important model that combines cellular spliced and unspliced RNA counts to infer dynamical properties of various regulatory functions. Despite its wide applicability and many variants used in practice, the model has not been adequately designed to directly account for both intracellular gene regulatory network interactions and spatial intercellular communications. Here, we propose a new RNA velocity approach that jointly and directly captures two new network structures: an intracellular gene regulatory network (GRN) and an intercellular interaction network that captures interactions between (neighboring) cells, with relevance to spatial transcriptomics. We theoretically analyze this two-level network system through the lens of control and consensus theory. In particular, we investigate network equilibria, stability, cellular network consensus, and optimal control approaches for targeted drug intervention.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01018">https://arxiv.org/abs/2601.01018</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01018">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] cond-mat.stat-mech updates on arXiv.org ▶ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <link href="https://arxiv.org/abs/2512.11459"/>
+    <id>https://arxiv.org/abs/2512.11459</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.11459v4 Announce Type: replace Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progre</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> planetesimal</p>
+<p><strong>AI Decision:</strong> Mini-review of a combinatorial framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with applications including aerosol growth and planetesimal formation, offering broadly relevant modeling tools but limited direct connection to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2512.11459v4 Announce Type: replace Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.11459">https://arxiv.org/abs/2512.11459</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.11459">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] physics.comp-ph updates on arXiv.org ▶ thornado+Flash-X: A Hybrid DG-IMEX and Finite-Volume Framework for Neutrino-Radiation Hydrodynamics in Core-Collapse Supernovae</title>
+    <link href="https://arxiv.org/abs/2601.00976"/>
+    <id>https://arxiv.org/abs/2601.00976</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.00976v1 Announce Type: cross Abstract: We present neutrino-transport algorithms implemented in the toolkit for high-order neutrino-radiation hydrodynamics (thornado) and their coupling to s</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Describes a high-order GPU-enabled neutrino–radiation hydrodynamics framework for core-collapse supernova simulations, primarily advancing computational astrophysics rather than directly informing origins-of-life or habitability questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00976v1 Announce Type: cross Abstract: We present neutrino-transport algorithms implemented in the toolkit for high-order neutrino-radiation hydrodynamics (thornado) and their coupling to self-gravitating hydrodynamics within the adaptive mesh refinement (AMR)-based multiphysics simulation framework Flash-X. thornado, developed primarily for simulations of core-collapse supernovae (CCSNe), employs a spectral, six-species two-moment formulation with algebraic closure and special-relativistic observer corrections accurate to $O(v/c)$, and uses discontinuous Galerkin (DG) methods for phase-space discretization combined with implicit-explicit time stepping. A key development is a nonlinear neutrino-matter coupling algorithm based on nested fixed-point iteration with Anderson acceleration, enabling fully implicit treatment of collisional processes, including energy-coupling interactions such as neutrino-electron scattering and pair production. Coupling to finite-volume (FV) hydrodynamics is achieved with a hybrid DG-FV representation of the fluid variables and operator-split evolution in Flash-X. The implementation is verified using basic transport tests with idealized opacities and relaxation and deleptonization problems with tabulated microphysics. Spherically symmetric CCSN simulations demonstrate accuracy and robustness of the coupled scheme, including close agreement with the CCSN simulation code Chimera. An axisymmetric CCSN simulation further demonstrates the viability of DG-based neutrino transport for multidimensional supernova modeling within Flash-X. thornado&#x27;s neutrino-transport solver is GPU-enabled using OpenMP offloading or OpenACC, and all CCSN applications included in this work use the GPU implementation. Together, these results establish a foundation for future enhancements in physics fidelity, numerical algorithms, and computational performance, for increasingly realistic large-scale CCSN simulations.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.00976">https://arxiv.org/abs/2601.00976</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00976">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] math-ph updates on arXiv.org ▶ Bianchi I spacetimes within 4D Einstein-Gauss-Bonnet scalar field theory</title>
+    <link href="https://arxiv.org/abs/2601.01909"/>
+    <id>https://arxiv.org/abs/2601.01909</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01909v1 Announce Type: cross Abstract: We investigate the evolution of anisotropies in Bianchi I spacetimes within the framework of the 4D Einstein-Gauss-Bonnet scalar field theory. The fie</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This paper studies anisotropy dynamics and accelerating solutions in Bianchi I cosmologies within 4D Einstein–Gauss–Bonnet scalar field theory, with no direct connection to origins-of-life or astrobiology beyond generic cosmological context.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01909v1 Announce Type: cross Abstract: We investigate the evolution of anisotropies in Bianchi I spacetimes within the framework of the 4D Einstein-Gauss-Bonnet scalar field theory. The field equations are formulated using dimensionless variables, and the asymptotic dynamics are studied through a combination of analytical and numerical techniques. For the locally rotationally symmetric case, we analytically explore the stationary points of the field equations. The analysis reveals the existence of accelerating solutions in which the scalar field and the Gauss-Bonnet scalar effectively play the role of a cosmological constant. As a result, both anisotropic and isotropic expanding solutions are recovered, along with the Minkowski spacetime. No scaling solutions are supported by the gravitational model. For the general anisotropic Bianchi I geometry with three distinct scale factors, we find that a class of compactified Kasner-like solutions is obtained. In addition, a new family of solutions follows, describing a two-dimensional splitting of the background geometry. This behavior is similar to the previously observed pure Einstein-Gauss-Bonnet theory in higher-dimensional spacetimes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01909">https://arxiv.org/abs/2601.01909</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01909">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] physics.comp-ph updates on arXiv.org ▶ A quadratic-scaling algorithm with guaranteed convergence for quantum coupled-channel calculations</title>
+    <link href="https://arxiv.org/abs/2601.01159"/>
+    <id>https://arxiv.org/abs/2601.01159</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01159v1 Announce Type: cross Abstract: Rigorous quantum dynamics calculations provide essential insights into complex scattering phenomena across atomic and molecular physics, chemical reac</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry</p>
+<p><strong>AI Decision:</strong> Presents a new quadratic-scaling, guaranteed-convergence quantum coupled-channel scattering algorithm that could accelerate accurate molecular collision calculations relevant to astrochemistry, but is not directly focused on origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01159v1 Announce Type: cross Abstract: Rigorous quantum dynamics calculations provide essential insights into complex scattering phenomena across atomic and molecular physics, chemical reaction dynamics, and astrochemistry. However, the application of the gold-standard quantum coupled-channel (CC) method has been fundamentally constrained by a steep cubic scaling of computational cost [${O}(N^3)$]. Here, we develop a general, rigorous, and robust method for solving the time-independent Schr\&quot;odinger equation for a single column of the scattering S-matrix with quadratic scaling [${O}(N^2)$] in the number of channels. The Weinberg-regularized Iterative Series Expansion (WISE) algorithm resolves the divergence issues affecting iterative techniques by applying a regularization procedure to the kernel of the multichannel Lippmann-Schwinger integral equation. The method also explicitly incorporates closed-channel effects, including those responsible for multichannel Feshbach resonances. We demonstrate the power of this approach by performing rigorous calculations on He + CO and CO + N$_2$ collisions, achieving exact quantum results with demonstrably quadratic scaling. Our results establish a new computational paradigm, enabling state-to-state quantum scattering computations for complex molecular systems and providing a novel window onto the intricate multichannel molecular collision dynamics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01159">https://arxiv.org/abs/2601.01159</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01159">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] math-ph updates on arXiv.org ▶ Limit theorems for the evolution of quantum pure states</title>
+    <link href="https://arxiv.org/abs/2601.01845"/>
+    <id>https://arxiv.org/abs/2601.01845</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01845v1 Announce Type: cross Abstract: Limit theorems of strong law of large numbers and central limit theorem types are obtained for the compositions of independent identically distributed</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops strong law of large numbers and central limit theorem–type results for compositions of i.i.d. random unitary quantum channels, with no direct connection to origins-of-life or astrobiology beyond generic “evolution” terminology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01845v1 Announce Type: cross Abstract: Limit theorems of strong law of large numbers and central limit theorem types are obtained for the compositions of independent identically distributed random unitary channels.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01845">https://arxiv.org/abs/2601.01845</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01845">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] math-ph updates on arXiv.org ▶ A generalization of the Choi isomorphism with application to open quantum systems</title>
+    <link href="https://arxiv.org/abs/2408.03086"/>
+    <id>https://arxiv.org/abs/2408.03086</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2408.03086v2 Announce Type: replace Abstract: Completely positive transformations play an important role in the description of state changes in quantum mechanics, including the time evolution of</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a generalized Choi/GKS isomorphism for completely positive maps in open quantum systems and derives a second-order-in-time representation of their evolution, with no direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2408.03086v2 Announce Type: replace Abstract: Completely positive transformations play an important role in the description of state changes in quantum mechanics, including the time evolution of open quantum systems. One useful tool to describe them is the so-called Choi isomorphism, which maps completely positive transformations to positive semi-definite matrices. Accordingly, there are numerous proposals to generalize the Choi isomorphism. In the present paper, we show that the 1976 paper of Gorini, Kossakowski and Sudarshan (GKS) already holds the key for a further generalization and study the resulting GKS isomorphism. As an application, we compute the GKS matrix of the time evolution of a general open quantum system up to second order in time.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2408.03086">https://arxiv.org/abs/2408.03086</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2408.03086">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] math-ph updates on arXiv.org ▶ Molchanov&#x27;s Formula and Quantum Walks: A Probabilistic Approach</title>
+    <link href="https://arxiv.org/abs/2601.01071"/>
+    <id>https://arxiv.org/abs/2601.01071</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01071v1 Announce Type: cross Abstract: This paper establishes a robust link between quantum dynamics and classical ones by deriving probabilistic representation for both continuous time and</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops probabilistic representations of continuous and discrete-time quantum walks via an adaptation of Molchanov’s formula, with no direct connection to origins-of-life or astrobiology beyond generic use of the term “evolution.”</p>
+<p><strong>Abstract:</strong> arXiv:2601.01071v1 Announce Type: cross Abstract: This paper establishes a robust link between quantum dynamics and classical ones by deriving probabilistic representation for both continuous time and discrete time quantum walks. We first adapt Molchanov formula, originally employed in the study of Schrodinger operators on multidimensional integer lattice, to characterize the evolution of continuous time quantum walks. Extending this framework, we develop a probabilistic method to represent discrete time quantum walks on an infinite integer line, bypassing the locality constraints that typically inhibit direct application of Molchanov formula. The validity of our representation is empirically confirmed through a benchmark analysis of the Hadamard walk, demonstrating high fidelity with traditional unitary evolution. Our results suggest that this probabilistic lens offer a powerful alternative for learning multidimensional quantum walks and provides new analytical pathways for investigating quantum systems via classical stochastic processes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01071">https://arxiv.org/abs/2601.01071</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01071">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] math-ph updates on arXiv.org ▶ Generalized Symmetries in Shallow Water</title>
+    <link href="https://arxiv.org/abs/2506.09190"/>
+    <id>https://arxiv.org/abs/2506.09190</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2506.09190v2 Announce Type: replace-cross Abstract: Recent developments have extended the concept of global symmetries in several directions, offering new perspectives across a wide range of phy</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Develops a theoretical framework showing generalized (subsystem) symmetries underpin conservation laws in shallow-water flows, with potential indirect relevance to planetary/ocean dynamics but no direct origins-of-life focus.</p>
+<p><strong>Abstract:</strong> arXiv:2506.09190v2 Announce Type: replace-cross Abstract: Recent developments have extended the concept of global symmetries in several directions, offering new perspectives across a wide range of physical systems. This work shows that generalized global symmetries naturally emerge in shallow water systems. In particular, we demonstrate that two subsystem symmetries-previously studied primarily in exotic field theories-arise intrinsically in the dynamics of shallow water flows. A central result is that the local conservation of potential vorticity follows directly from the first subsystem symmetry, revealing that the classic Kelvin circulation theorem is rooted in these symmetries. Notably, the associated charge algebra forms a Kac-Moody current algebra, with the level determined by the spatial variation of the Coriolis parameter. Beyond the first subsystem symmetry, we also identify a second one, construct the corresponding Noether charges, and explore their potential applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2506.09190">https://arxiv.org/abs/2506.09190</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2506.09190">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] math-ph updates on arXiv.org ▶ Spectral Analysis of Weighted Weyl Fractional Operators: Aging, Infinite Memory, and the Amnesia Effect</title>
+    <link href="https://arxiv.org/abs/2601.02142"/>
+    <id>https://arxiv.org/abs/2601.02142</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.02142v1 Announce Type: cross Abstract: This paper establishes a rigorous spectral framework for the Weighted Weyl Fractional Calculus, designed to model non-local systems exhibiting aging a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a spectral framework for weighted Weyl fractional operators to model aging, infinite-memory systems and analytically explains an &quot;amnesia&quot; transition from power-law to exponential relaxation, with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2601.02142v1 Announce Type: cross Abstract: This paper establishes a rigorous spectral framework for the Weighted Weyl Fractional Calculus, designed to model non-local systems exhibiting aging and subjective time scales. By constructing a conjugation map involving a time-dependent weight $\omega(t)$ and a scale function $\psi(t)$, we define a new class of fractional operators that preserve the spectral tractability of time-invariant systems. We derive the Spectral Mapping Theorem for these operators and prove that Weighted Mittag-Leffler functions act as their fundamental eigenfunctions, demonstrating that the Weighted Fourier Transform naturally diagonalizes the associated evolution equations. As a physical application, we formulate a constitutive law for aging viscoelastic materials with infinite memory. Crucially, we analytically demonstrate the &quot;Amnesia Phenomenon&quot;: we prove that rapid aging modulates the system&#x27;s history, effectively transforming the hereditary power-law decay into a short-range exponential relaxation. This result provides a closed-form explanation for the loss of memory in fast-aging media, overcoming the computational bottlenecks of standard discretization methods.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02142">https://arxiv.org/abs/2601.02142</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.02142">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] q-bio.PE updates on arXiv.org ▶ Modelling the emergence of open-ended cultural evolution</title>
+    <link href="https://arxiv.org/abs/2508.04828"/>
+    <id>https://arxiv.org/abs/2508.04828</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2508.04828v2 Announce Type: replace-cross Abstract: Humans stand alone in terms of their potential to collectively and cumulatively change their culture in an open-ended manner. This open-endedn</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a macro-level co-evolutionary model showing open-ended cultural evolution is rare and historically contingent, requiring both stochastic perturbations and selection-like pressures to jointly expand search spaces and sustain resource production.</p>
+<p><strong>Abstract:</strong> arXiv:2508.04828v2 Announce Type: replace-cross Abstract: Humans stand alone in terms of their potential to collectively and cumulatively change their culture in an open-ended manner. This open-endedness provides societies with the ability to continually expand their resources and to increase their capacity to store, transmit and process information at a collective-level. Here, we propose that the production of resources arises from the interaction between cultural systems (a society&#x27;s repertoire of interdependent techniques, artifacts, norms and knowledge) and search spaces (an ensemble of needs, problems and goals facing a society). Starting from this premise we develop a macro-level model wherein both cultural systems and search spaces are subject to evolutionary dynamics. By manipulating the extent to which these dynamics are characterised by stochastic or selection-like processes, we demonstrate that open-ended growth is extremely rare, historically contingent and only possible when cultural systems and search spaces co-evolve. Here, stochastic factors must be strong enough to continually perturb the dynamics into a far-from-equilibrium state, whereas selection-like factors help maintain effectiveness and ensure the sustained production of resources. Only when this co-evolutionary dynamic maintains effective cultural systems, supports the ongoing expansion of the search space and leads to an increased provision of resources do we observe open-ended cultural evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2508.04828">https://arxiv.org/abs/2508.04828</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2508.04828">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] math-ph updates on arXiv.org ▶ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <link href="https://arxiv.org/abs/2512.11459"/>
+    <id>https://arxiv.org/abs/2512.11459</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.11459v4 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> planetesimal</p>
+<p><strong>AI Decision:</strong> Reviews a combinatorial enumeration framework for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with example kernels and applications including planetesimal formation, offering broadly relevant methodology for clustering processes but only indirect connection to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2512.11459v4 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.11459">https://arxiv.org/abs/2512.11459</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.11459">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] physics.chem-ph updates on arXiv.org ▶ A quadratic-scaling algorithm with guaranteed convergence for quantum coupled-channel calculations</title>
+    <link href="https://arxiv.org/abs/2601.01159"/>
+    <id>https://arxiv.org/abs/2601.01159</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01159v1 Announce Type: new Abstract: Rigorous quantum dynamics calculations provide essential insights into complex scattering phenomena across atomic and molecular physics, chemical reacti</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry</p>
+<p><strong>AI Decision:</strong> Introduces a guaranteed-convergent quadratic-scaling quantum coupled-channel scattering algorithm (WISE) that could substantially expand state-to-state collision calculations relevant to astrochemistry, but is only indirectly connected to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01159v1 Announce Type: new Abstract: Rigorous quantum dynamics calculations provide essential insights into complex scattering phenomena across atomic and molecular physics, chemical reaction dynamics, and astrochemistry. However, the application of the gold-standard quantum coupled-channel (CC) method has been fundamentally constrained by a steep cubic scaling of computational cost [${O}(N^3)$]. Here, we develop a general, rigorous, and robust method for solving the time-independent Schr\&quot;odinger equation for a single column of the scattering S-matrix with quadratic scaling [${O}(N^2)$] in the number of channels. The Weinberg-regularized Iterative Series Expansion (WISE) algorithm resolves the divergence issues affecting iterative techniques by applying a regularization procedure to the kernel of the multichannel Lippmann-Schwinger integral equation. The method also explicitly incorporates closed-channel effects, including those responsible for multichannel Feshbach resonances. We demonstrate the power of this approach by performing rigorous calculations on He + CO and CO + N$_2$ collisions, achieving exact quantum results with demonstrably quadratic scaling. Our results establish a new computational paradigm, enabling state-to-state quantum scattering computations for complex molecular systems and providing a novel window onto the intricate multichannel molecular collision dynamics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01159">https://arxiv.org/abs/2601.01159</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01159">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] physics.bio-ph updates on arXiv.org ▶ Non-reciprocal visual perception and polar alignment drive collective states in chiral active particles</title>
+    <link href="https://arxiv.org/abs/2601.01572"/>
+    <id>https://arxiv.org/abs/2601.01572</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01572v1 Announce Type: cross Abstract: Self-propelled particles rarely move in straight lines; environmental interactions, shape asymmetry, and intrinsic torques generically induce curved o</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Modeling shows how chirality plus non-reciprocal vision-like sensing and polar alignment produce novel collective active-matter phases (vortices, spinners, ripples), offering a potential physical analog for prebiotic self-organization but not directly addressing origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01572v1 Announce Type: cross Abstract: Self-propelled particles rarely move in straight lines; environmental interactions, shape asymmetry, and intrinsic torques generically induce curved or fluctuating trajectories. In biological and synthetic systems, this curvature often coexists with directional sensing and non-reciprocal interactions. Motivated by this, we explore the collective dynamics of chiral intelligent active Brownian particles (iABPs) that combine polar alignment with vision-based sensing. By varying the ratio of alignment to visual maneuverability, the vision angle, and the reduced chirality $(\omega/D_r)$, we construct a phase diagram exhibiting diverse collective states: spinners, vortices, ripples, worm-like swarms, rotary clusters, and irregular aggregates. Chirality critically governs their morphology: high chirality yields dilute phases, while moderate to low chirality produces cohesive yet dynamic patterns. Ripple loops emerge as a distinct state, characterized by expanding ring-like motion driven by outward torques and sustained only when both particle number and visual maneuverability are large. Structural and dynamical measures, including polarization, pair correlations, mean-square displacement, and orientation correlations, reveal clear signatures distinguishing these phases. Overall, our results show how chirality, non-reciprocal perception, and alignment together generate collective states inaccessible to non-chiral systems, with implications for chiral active matter in biological and synthetic contexts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01572">https://arxiv.org/abs/2601.01572</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01572">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] physics.bio-ph updates on arXiv.org ▶ A Universal Model for the Resting Potential in Nanofluidic Systems</title>
+    <link href="https://arxiv.org/abs/2601.01536"/>
+    <id>https://arxiv.org/abs/2601.01536</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.01536v1 Announce Type: cross Abstract: The resting voltage, $V$, which is the potential drop required to nullify the electrical current ($i=0$), is a key characteristic of water desalinatio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Derives and numerically validates a universal theoretical model for the zero-current (resting) potential across nanofluidic pores under arbitrary salt gradients, potentially informing how ion gradients could arise and be maintained across early membrane-like systems.</p>
+<p><strong>Abstract:</strong> arXiv:2601.01536v1 Announce Type: cross Abstract: The resting voltage, $V$, which is the potential drop required to nullify the electrical current ($i=0$), is a key characteristic of water desalination and energy harvesting systems that utilize macroscopically large nanoporous membranes, as well as for physiological ion channels subjected to asymmetric salt concentrations. To date, existing analytical expressions for $V_{i=0}$ have been limited to simple scenarios. In this work, we derive a universal, self-consistent theoretical model, devoid of unnecessary oversimplifying assumptions, that unifies all previous models within a single framework. This new model, verified by non-approximated numerical simulations, predicts the behavior of $V_{i=0}$ for arbitrary concentration gradients and for arbitrary diffusion coefficients and ionic valences. We show how the interplay between diffusion coefficients and ionic valencies significantly varies the system response and why it is essential to account for all system parameters. Ultimately, this model can be used to improve experimental interpretation of ion transport measurements.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.01536">https://arxiv.org/abs/2601.01536</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.01536">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] physics.chem-ph updates on arXiv.org ▶ Liquid-vapor critical behavior of the TIP4P/2005 water model: effects of NaCl solutes and hydrophobic confinement</title>
+    <link href="https://arxiv.org/abs/2601.02086"/>
+    <id>https://arxiv.org/abs/2601.02086</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.02086v1 Announce Type: new Abstract: The liquid-vapor critical behavior of water is strongly influenced by both ionic solutes and confinement. Molecular dynamics simulations of aqueous NaCl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Molecular dynamics simulations with TIP4P/2005 show NaCl raises, while hydrophobic confinement lowers, water’s liquid–vapor critical point and highlight strong sensitivity to long-range interaction treatment—relevant to understanding aqueous prebiotic/planetary microenvironments but not directly an origins-of-life mechanism.</p>
+<p><strong>Abstract:</strong> arXiv:2601.02086v1 Announce Type: new Abstract: The liquid-vapor critical behavior of water is strongly influenced by both ionic solutes and confinement. Molecular dynamics simulations of aqueous NaCl solutions using the TIP4P/2005 water model and the Madrid-2019 ion parameters reveal a systematic increase in the liquid-vapor critical temperature and pressure with salt concentration, consistent with experimental trends. In contrast, confinement between parallel hydrophobic plates leads to a depression of the critical point. The critical temperature was determined from the Binder cumulant crossing in the NVT ensemble, using a recently developed method originally applied to an active Brownian particle system. The reliability of this approach was verified through complementary NPT simulations. We further demonstrate the pronounced sensitivity of the estimated critical point to the van der Waals cutoff distance, underscoring the importance of properly accounting for long-range interactions. Our framework, which employs and tests an adjusted subbox method, can be readily extended to other critical phenomena, including the liquid-liquid critical point of water.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02086">https://arxiv.org/abs/2601.02086</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.02086">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] physics.chem-ph updates on arXiv.org ▶ Simulation of Radiation Chemistry by a One-Shot Hybrid Continuum / Monte Carlo Method</title>
+    <link href="https://arxiv.org/abs/2601.02132"/>
+    <id>https://arxiv.org/abs/2601.02132</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2601.02132v1 Announce Type: new Abstract: Understanding the spatio-temporal evolution of radiolytic species created by high-energy electrons in water underpins key applications from radiotherapy</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, water</p>
+<p><strong>AI Decision:</strong> Introduces a fast hybrid continuum/Monte Carlo method (MIRaCLE) to model water radiolysis products over long timescales and extreme dose rates, a broadly relevant advance for radiation-driven aqueous chemistry that could inform prebiotic/astrobiological radiolysis scenarios.</p>
+<p><strong>Abstract:</strong> arXiv:2601.02132v1 Announce Type: new Abstract: Understanding the spatio-temporal evolution of radiolytic species created by high-energy electrons in water underpins key applications from radiotherapy and nuclear safety to environmental processing and electron microscopy. Here, using the Manchester Inhomogeneous Radiation Chemistry by Linear Expansions (MIRaCLE) toolkit, we introduce and benchmark a novel approach to simulating these processes. Although the initial conditions are determined stochastically, the subsequent time evolution is calculated deterministically using a continuum representation, derived from those initial conditions. This hybrid approach essentially averages over many chemistry ``trajectories&#x27;&#x27; simultaneously, often converging to the 1% level in one shot, not requiring multiple runs. We demonstrate this new approach through the calculation of time-dependent G-values for e_{aq}^-$, \dot{\mathrm{OH}} and other radiolytic products, including at unprecedented dose rates where calculations which would take years with a conventional Monte Carlo approach can be performed in mere hours on a commercial laptop. We demonstrate that the main artifact of continuum modelling can be mitigated by a correction term. These results establish MIRaCLE as a flexible and efficient platform for modelling long-timescale radiolysis, providing a bridge between Monte Carlo approaches and macroscopic reaction--diffusion schemes, with broad implications for radiation chemistry in medicine, energy, and materials science.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02132">https://arxiv.org/abs/2601.02132</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.02132">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] physics.chem-ph updates on arXiv.org ▶ Hidden long-range correlations in the ion distribution at the graphite / [bmim][NTf$_2$] electrified interface</title>
+    <link href="https://arxiv.org/abs/2512.24900"/>
+    <id>https://arxiv.org/abs/2512.24900</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.24900v2 Announce Type: replace Abstract: A capacitor consisting of the [bmim][NTf$_2$] ionic liquid (IL) confined in between planar graphite electrodes has been investigated by molecular dy</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Molecular-dynamics study of ion-pair ordering and long-range dipole correlations in the electrical double layer of a graphite/[bmim][NTf2] ionic-liquid capacitor (including effects of absorbed water), with potential relevance mainly as general interfacial electrochemistry rather than direct origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2512.24900v2 Announce Type: replace Abstract: A capacitor consisting of the [bmim][NTf$_2$] ionic liquid (IL) confined in between planar graphite electrodes has been investigated by molecular dynamics based on an all-atom, unpolarizable force field. Structural and dynamical properties such as: (i) the density and orientation of the [bmim]$^+$ and [NTf$_2$]$^-$ ions throughout the capacitor; (ii) the electrostatic double layer at the electrode / electrolyte interface; (iii) the ions&#x27; mobility perpendicular and parallel to the graphite plates are determined as a function of the electrostatic charge of the capacitor, the concentration of absorbed water, the temperature and pressure. Grouping the [bmim]$^+$ and [NTf$_2$]$^-$ ions into neutral ion pairs reveals an intriguing ordering normal to the interface that is related to correlations among the dipole moments of the neutral ion pairs. These correlations might explain the observation of an anomalous Stark effect (Pockels effect) reported a few years ago in Langmuir, vol. 37, 5193-5201, (2021), and provides useful insight for the multitude of electro-chemical applications that involve electrode / ionic liquid interfaces.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.24900">https://arxiv.org/abs/2512.24900</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.24900">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [90] physics.bio-ph updates on arXiv.org ▶ Protocellular energetics: Free energy estimates for all metabolic, self-assembly and vesicle fission processes</title>
+    <link href="https://arxiv.org/abs/2512.24095"/>
+    <id>https://arxiv.org/abs/2512.24095</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.24095v2 Announce Type: replace Abstract: As minimal cells or protocells are dramatically simpler than modern unicells it is possible to quantitatively estimate free energy changes for every</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> protocell, self-assembly</p>
+<p><strong>AI Decision:</strong> Quantitatively estimates free-energy budgets for protocell lifecycles by combining new DFT-based metabolic energetics with thermodynamic calculations of self-assembly, membrane bending, and vesicle fission, enabling direct comparison to modern unicellular energetics.</p>
+<p><strong>Abstract:</strong> arXiv:2512.24095v2 Announce Type: replace Abstract: As minimal cells or protocells are dramatically simpler than modern unicells it is possible to quantitatively estimate free energy changes for every process in the lifecycle of a protocell and compare these with estimates of the free energy changes for lifecycles in modern unicells. We present quantitative estimates of all metabolic changes in part by new density function theory (DFT) estimations, in part by compiling previously measured or estimated free energy changes, and in part by new thermodynamic calculations for all self-assembly, vesicle bending, and fission energies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.24095">https://arxiv.org/abs/2512.24095</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.24095">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] physics.chem-ph updates on arXiv.org ▶ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <link href="https://arxiv.org/abs/2512.11459"/>
+    <id>https://arxiv.org/abs/2512.11459</id>
+    <updated>2026-01-06T05:00:00Z</updated>
+    <summary>arXiv:2512.11459v4 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> planetesimal</p>
+<p><strong>AI Decision:</strong> Reviews a combinatorial, state-enumeration approach to irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with example kernels and applications to aerosol growth and planetesimal formation, offering tangential relevance to origins-of-life via generic self-organization/assembly processes rather than prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2512.11459v4 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.11459">https://arxiv.org/abs/2512.11459</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.11459">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [0] Scientific Reports ▶ A hybrid differential evolution algorithm for distributed assembly flexible job shop scheduling with batch delivery and inventory</title>
     <link href="https://www.nature.com/articles/s41598-025-34395-4"/>
