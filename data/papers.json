@@ -1,5 +1,100 @@
 [
   {
+    "title": "Circulating miR-4532 is associated with loss of ambulation in dysferlinopathy",
+    "summary": "Background: Limb-girdle muscular dystrophies (LGMDs) are inherited myopathies characterized mainly by progressive weakness of the proximal muscles of the shoulder and pelvic girdle areas, leading to functional decline and eventual loss of independent ambulation. Dysferlinopathy (LGMD2B) is an autosomal recessive LGMD subtype, is caused by mutations in the DYSF gene that lead to lack of dysferlin which results in muscle death and chronic muscle fiber degeneration. Preservation of ambulation is a key clinical milestone, as loss of independent gait markedly reduces quality of life and complicates care management. Although patients often perceive functional decline before their initial clinical presentation, current clinical assessments typically detect disease progression after substantial muscle damage has occurred. Methods: In this multigroup case-control study, we profiled plasma miRNAs from 49 genetically confirmed dysferlinopathy patients (24 ambulatory, 25 non-ambulatory) and 25 age- and sex-matched healthy controls. Total RNA was extracted from blood samples and hybridized to Affymetrix GeneChip miRNA 3.1 arrays. After quality control and filtering, differential expression analysis was performed using linear models for microarrays, adjusting for age and sex, with a false discovery rate cutoff of 10%. Results: 14 miRNAs were significantly altered between dysferlinopathy patients and controls. Notably, miR-4532 was upregulated in ambulatory patients relative to controls, whereas it was downregulated in non-ambulatory patients compared with ambulatory patients, although expression levels remained higher than in controls. Levels of miR-4532 were positively associated with circulating monocyte levels in ambulatory patients only.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697793v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697793v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "Clinical biomarker study identifying circulating miR-4532 changes associated with ambulation status in dysferlinopathy patients, with minimal relevance to origins-of-life beyond involving RNA biology."
+    }
+  },
+  {
+    "title": "Can AI Conduct Autonomous Scientific Research? Case Studies on Two Real-World Tasks",
+    "summary": "Recent advances in artificial intelligence (AI) have prompted claims about autonomous \"AI scientists,\" yet systematic evaluations of these capabilities remain scarce. This exploratory study investigates whether current AI frameworks can execute scientific research tasks beyond isolated demonstrations. We tested eight open-source AI frameworks (Agent Laboratory, AutoGen, BabyAGI, GPT Researcher, MOOSE-Chem2, SciAgents, SciMON, and Virtual Lab) on two tasks that aimed to reproduce research on algorithm development from recent papers in uncertainty quantification and protein interaction discovery. In our evaluation, no framework completed a full research cycle from literature understanding through computational execution to validated results and scientific paper writing. While all systems showed competence in conceptual tasks such as planning and summarization, they consistently failed at robust implementation. Every framework produced sophisticated hallucinations. Deployment proved demanding, requiring substantial debugging and technical expertise, which undermines common claims about the democratization of science with AI. Despite these limitations, the frameworks showed promise as research assistants for methodological planning and ideation under careful human supervision. Our findings suggest that the explored AI systems cannot yet autonomously conduct scientific research, but may provide real value for specific subtasks within the research workflow. We offer preliminary observations to help researchers and developers better understand the gap between advertised and actual capabilities of AI in science.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697809v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Young galaxies grow up fast: Research reveals unexpected chemical maturity",
+    "summary": "Astronomers have captured the most detailed look yet at faraway galaxies at the peak of their youth, an active time when the adolescent galaxies were fervently producing new stars.",
+    "url": "https://phys.org/news/2026-01-young-galaxies-fast-reveals-unexpected.html",
+    "published_date": "2026-01-06T18:20:02Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "First sky map from NASA's SPHEREx observatory",
+    "summary": "NASA's SPHEREx Observatory has mapped the entire sky in 102 infrared colors, as seen here in this image released on Dec. 18, 2025. This image features a selection of colors emitted primarily by stars (blue, green, and white), hot hydrogen gas (blue), and cosmic dust (red).",
+    "url": "https://phys.org/news/2026-01-sky-nasa-spherex-observatory.html",
+    "published_date": "2026-01-06T18:13:45Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Webb telescope sheds light on ancient 'monster stars' that may reveal the birth of black holes",
+    "summary": "Using data from NASA's James Webb Space Telescope, astronomers from the Center for Astrophysics | Harvard & Smithsonian (CfA) have revealed the universe's most mysterious distant objects, known as little red dots, may actually be gigantic, short-lived stars.",
+    "url": "https://phys.org/news/2026-01-webb-telescope-ancient-monster-stars.html",
+    "published_date": "2026-01-06T18:12:23Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "'Platypus' objects in the early universe look like stars but behave like galaxies",
+    "summary": "Scientists at the University of Missouri have identified a small group of unusual objects in the early universe. Using NASA's James Webb Space Telescope (JWST), Haojing Yan and his team at Mizzou's College of Arts and Science spotted these strange objects, which seem like one galactic thing but have the unmistakable fingerprints of something else entirely.",
+    "url": "https://phys.org/news/2026-01-platypus-early-universe-stars-galaxies.html",
+    "published_date": "2026-01-06T18:10:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dauphins: un rapport scientifique explore des alternatives \u00e0 la fermeture de la p\u00eache",
+    "summary": "Un rapport scientifique publi\u00e9 mardi, portant sur les captures accidentelles de dauphins dans le golfe de Gascogne, \u00e9value des mesures plus cibl\u00e9es que la fermeture temporaire de la p\u00eache, reconduite cet hiver, afin de pr\u00e9server les c\u00e9tac\u00e9s - mais aussi la fili\u00e8re.\n\"Cette mesure, efficace \u00e0 court terme mais co\u00fbteuse sur le plan \u00e9conomique et social, appelle \u00e0 discuter et \u00e9valuer des options alternatives\", \u00e9crivent dans un communiqu\u00e9 les auteurs du projet Delmoges, pilot\u00e9 par l'Ifremer, La Rochelle Universit\u00e9 et le CNRS, en partenariat avec l'Universit\u00e9 de Bretagne occidentale et le Comit\u00e9 national des p\u00eaches maritimes et des \u00e9levages marins (CNPMEM).\nL'interdiction de la p\u00eache a \u00e9t\u00e9 reconduite du 22 janvier au 20 f\u00e9vrier 2026, pour la troisi\u00e8me ann\u00e9e cons\u00e9cutive, dans le golfe de Gascogne.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/dauphins-un-rapport-scientifique-explore-des-alternatives-a-la-fermeture-de-la-peche_190294?xtor=RSS-15",
+    "published_date": "2026-01-06T07:00:14Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Jellyfish sleep like humans \u2014 even though they don\u2019t have brains",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00044-7\">doi:10.1038/d41586-026-00044-7</a></p>Studying ancient sea creatures\u2019 snoozing habits could shed light on the origins of sleep.",
+    "url": "https://www.nature.com/articles/d41586-026-00044-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Neural coding of multiple motion speeds in visual cortical area MT",
     "summary": "Motion speed is a salient cue for visual segmentation, yet how the visual system represents and differentiates multiple speeds remains unclear. Here, we investigated the encoding and decoding of multiple speeds. We first characterized the perceptual capacity of human and macaque subjects to segment overlapping stimuli moving at different speeds. We then determined how neurons in area MT of macaque monkeys represent multiple speeds. We found that the responses of MT neurons to two speeds showed a robust bias toward the faster speed component. This faster-speed bias occurred when both speeds were slow (\u226420\u00b0/s) and diminished as stimulus speed increased. Our findings can be explained by a modified divisive normalization model, in which the weights for the speed components are proportional to the responses of a population of neurons (the weighting pool) with a broad range of speed preferences, elicited by the individual speeds. Regarding decoding, a classifier could distinguish MT responses to two speeds from those to a corresponding log-mean speed. We further found that it was possible to decode two speeds from the MT population response, supporting the theoretical framework of coding multiplicity in neuronal populations. The decoded speeds can account for perceptual performance in segmenting two speeds with a large (4x) but not a small (2x) separation. Our findings help define the neural coding rule of multiple speeds. The faster-speed bias in MT could benefit important behavioral tasks, such as figure-ground segregation, as figural objects tend to move faster than the background in the natural environment.",
     "url": "https://elifesciences.org/articles/94835",

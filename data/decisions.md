@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Circulating miR-4532 is associated with loss of ambulation i](https://www.biorxiv.org/content/10.64898/2026.01.05.697793v1?rss=1) |
+| keyword_rejected | - | [Jellyfish sleep like humans — even though they don’t have br](https://www.nature.com/articles/d41586-026-00044-7) |
+| keyword_rejected | - | [Dauphins: un rapport scientifique explore des alternatives à](https://www.sciencesetavenir.fr/nature-environnement/dauphins-un-rapport-scientifique-explore-des-alternatives-a-la-fermeture-de-la-peche_190294?xtor=RSS-15) |
+| keyword_rejected | - | ['Platypus' objects in the early universe look like stars but](https://phys.org/news/2026-01-platypus-early-universe-stars-galaxies.html) |
+| keyword_rejected | - | [Webb telescope sheds light on ancient 'monster stars' that m](https://phys.org/news/2026-01-webb-telescope-ancient-monster-stars.html) |
+| keyword_rejected | - | [First sky map from NASA's SPHEREx observatory](https://phys.org/news/2026-01-sky-nasa-spherex-observatory.html) |
+| keyword_rejected | - | [Young galaxies grow up fast: Research reveals unexpected che](https://phys.org/news/2026-01-young-galaxies-fast-reveals-unexpected.html) |
+| keyword_rejected | - | [Can AI Conduct Autonomous Scientific Research? Case Studies ](https://www.biorxiv.org/content/10.64898/2026.01.05.697809v1?rss=1) |
 | keyword_rejected | - | [Doctor Visits for Flu Hit Highest Level in Almost 30 Years](https://www.scientificamerican.com/article/doctor-visits-for-flu-hit-highest-level-in-almost-30-years/) |
 | keyword_rejected | - | [The South Pole Just Moved. Here’s Why](https://www.scientificamerican.com/article/the-south-pole-just-moved-heres-why/) |
 | keyword_rejected | - | [Neige et verglas vont s'intensifier, routes et vols perturbé](https://www.sciencesetavenir.fr/nature-environnement/neige-et-verglas-vont-s-intensifier-routes-et-vols-perturbes_190292?xtor=RSS-15) |
