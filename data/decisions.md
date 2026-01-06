@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [The non-coding facet of Pink1 mRNA regulates mitochondria ho](https://www.biorxiv.org/content/10.64898/2026.01.05.697839v1?rss=1) |
+| ai_scored | 40 | [Cracking sleep's evolutionary code: Neuron protection traced](https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html) |
+| keyword_rejected | - | [The secret weapon that could finally force climate action](https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Jellyfish sleep about as much as humans do – and nap like us](https://www.newscientist.com/article/2509909-jellyfish-sleep-about-as-much-as-humans-do-and-nap-like-us-too/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Passwords will be on the way out in 2026 as passkeys take ov](https://www.newscientist.com/article/2508261-passwords-will-be-on-the-way-out-in-2026-as-passkeys-take-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The first quantum fluctuations set into motion a huge cosmic](https://www.newscientist.com/article/2509769-the-first-quantum-fluctuations-set-into-motion-a-huge-cosmic-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The secret weapon that could finally force climate action](https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Jellyfish sleep about as much as humans do – and nap like us](https://www.newscientist.com/article/2509909-jellyfish-sleep-about-as-much-as-humans-do-and-nap-like-us-too/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Passwords will be on the way out in 2026 as passkeys take ov](https://www.newscientist.com/article/2508261-passwords-will-be-on-the-way-out-in-2026-as-passkeys-take-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The first quantum fluctuations set into motion a huge cosmic](https://www.newscientist.com/article/2509769-the-first-quantum-fluctuations-set-into-motion-a-huge-cosmic-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Congress Proposes Strong Science Funding for 2026](https://www.scientificamerican.com/article/congress-proposes-strong-science-funding-for-2026/) |
+| keyword_rejected | - | [At CES 2026, AI Leaves the Screen and Enters the Real World](https://www.scientificamerican.com/article/at-ces-2026-ai-leaves-the-screen-and-enters-the-real-world/) |
+| keyword_rejected | - | [Starless ‘Cloud-9’ Is an Entirely New Astrophysical Object](https://www.scientificamerican.com/article/starless-cloud-9-is-an-entirely-new-astrophysical-object/) |
+| keyword_rejected | - | [The secret weapon that could finally force climate action](https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Jellyfish sleep about as much as humans do – and nap like us](https://www.newscientist.com/article/2509909-jellyfish-sleep-about-as-much-as-humans-do-and-nap-like-us-too/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Passwords will be on the way out in 2026 as passkeys take ov](https://www.newscientist.com/article/2508261-passwords-will-be-on-the-way-out-in-2026-as-passkeys-take-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The first quantum fluctuations set into motion a huge cosmic](https://www.newscientist.com/article/2509769-the-first-quantum-fluctuations-set-into-motion-a-huge-cosmic-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Webb finds early-universe analog's unexpected talent for mak](https://phys.org/news/2026-01-webb-early-universe-analog-unexpected.html) |
+| keyword_rejected | - | [Webb reveals a sample of galaxies with unusual features, nic](https://phys.org/news/2026-01-webb-reveals-sample-galaxies-unusual.html) |
+| keyword_rejected | - | [An Approach to Bromine Production and Storage in a High Scho](https://dx.doi.org/10.26434/chemrxiv-2026-rr8vj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Comparison of nonlinear scales using atmospheric CO2 data](https://dx.doi.org/10.26434/chemrxiv-2026-l5xd1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Armstrongs Probabilistic Electron Phase-Space Overlap Model ](https://dx.doi.org/10.26434/chemrxiv-2026-bvl0v?rft_dat=source%3Ddrss) |
 | ai_scored | 20 | [Bedaquiline inhibits the ATP synthase leak channel and preve](https://www.biorxiv.org/content/10.64898/2026.01.05.697836v1?rss=1) |
 | ai_scored | 55 | [Spontaneous mutation rate in Saccharomyces cerevisiae is low](https://www.biorxiv.org/content/10.64898/2026.01.06.697716v1?rss=1) |
 | keyword_rejected | - | [Astronomers May Have Unlocked the Reason for Betelgeuse’s Bi](https://www.scientificamerican.com/article/astronomers-may-have-unlocked-the-reason-for-betelgeuses-bizarre-dimming/) |

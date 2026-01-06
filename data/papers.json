@@ -1,5 +1,260 @@
 [
   {
+    "title": "Cracking sleep's evolutionary code: Neuron protection traced back to jellyfish and sea anemones",
+    "summary": "A new study from Bar-Ilan University shows that one of sleep's core functions originated hundreds of millions of years ago in jellyfish and sea anemones, among the earliest creatures with nervous systems. By tracing this mechanism back to these ancient animals, the research demonstrates that protecting neurons from DNA damage and cellular stress is a basic, ancient function of sleep that began long before complex brains evolved.",
+    "url": "https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html",
+    "published_date": "2026-01-06T19:31:26Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "DNA",
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Study traces an ancient sleep function in early nervous-system animals, showing sleep-linked neuronal protection from DNA damage and cellular stress, offering evolutionary context but limited direct relevance to origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "The non-coding facet of Pink1 mRNA regulates mitochondria homeostasis",
+    "summary": "Coding and non-coding RNAs have traditionally been viewed as functionally distinct entities. Here, we found that the down-regulation of Pink1 due to Tet2 knockout (KO) in muscle cells resulted in mitochondria dysfunction and muscle fatigue. Surprisingly, both Pink1 mRNA alone and untranslatable ATG-deficient Pink1 RNA were sufficient to rescue the mitochondria defects in Tet2 KO cells. PINK1 protein was fast degraded shortly after translation and dispensable for functions of Pink1 mRNA in muscle cells. Moreover, a portion of Pink1 mRNA was located in mitochondria and interacted directly with mitochondria inner membrane located protein YME1L1, promoting its proteolytic cleavage of Opa1, a master regulator of mitochondria fusion, to generate the mature protein form. These findings uncovered a bona fide non-coding role for a canonical mRNA, suggesting that translation independent functions could be present in mRNAs with coding potentials, blurring the conventional dichotomy between coding and non-coding RNAs.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697839v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697839v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "This preprint reports that Pink1 mRNA has a translation-independent, non-coding function in eukaryotic muscle cells by localizing to mitochondria and directly interacting with YME1L1 to promote Opa1 processing, thereby maintaining mitochondrial homeostasis without requiring PINK1 protein."
+    }
+  },
+  {
+    "title": "Armstrongs Probabilistic Electron Phase-Space Overlap Model (APEPM)",
+    "summary": "A new closed-form, geometry-driven framework for modeling electronic overlap and orbital participation is introduced. Armstrong\u2019s Probabilistic Electron Phase-Space Overlap Model (APEPM) determines electron cloud overlap and identifies which atomic orbital regions are geometrically involved in that overlap without explicit solution of the electronic wavefunction or use of variational quantum mechanical methods. The model combines geometric overlap formalism adapted from Armstrong\u2019s exclusion-zone solvent-accessible surface area (SASA) methodology with probabilistic orbital occupancy constraints defined by Armstrong\u2019s Range Exponent Electron Configuration Model (AREECM).\nIn APEPM, bonded atoms are treated as interacting probabilistic electron volumes whose effective radii define a closed-form overlap region as a function of bond length. This overlap is reinterpreted as a penetration depth into radially partitioned orbital shells, allowing identification of which electronic regions are geometrically involved in the shared electron phase-space. Probability redistribution within these regions is constrained using AREECM-style minimum and maximum occupancy bounds, preserving normalization and exclusion principles while remaining wavefunction-free.\nBecause all electronic quantities are explicitly tethered to bond length, the model provides a continuous, geometry-based description of electron cloud overlap and orbital involvement under changing structural conditions such as bond compression or extension. While not intended to replace quantum mechanical electronic structure methods or to reproduce spectroscopic accuracy, APEPM offers a fast, interpretable, and physically constrained framework for analyzing electron cloud overlap and orbital participation in large systems, dynamic environments, and reduced-order chemical modeling.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-bvl0v?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Comparison of nonlinear scales using atmospheric CO2 data",
+    "summary": "Nonlinear monotonically increasing bounded functions help to visualize and analyze data on various scales. However, many monotonic functions such as logarithm or power laws have either function values or derivatives that become unbounded at some regions of the $x-$ axis. On the other hand, sigmoid or hyperbolic functions become saturated and functionally inactive over a wide region of the $x-$ axis. Therefore, a well-behaved function over $x\\in(-\\infty,\\infty)$ is still a fundamental requirement for data visualization and analysis. Recently introduced algebraic form $ay^3+y=mx$ with parameters $a>0$ and $m$ as slope is one such function that is both well-behaved and smooth i.e., infinitely differentiable on an $xy-$ plane. The slope of this form vanishes as $x\\rightarrow\\pm\\infty$ similar to $y=\\log x$. This form can also be interpreted as a continued fraction of $y=mx$ when expressed as $y=mx/(1+ay^2)$. The analytical real solution of the algebraic form can be interpreted as a recursion up to infinite depth. In this work, in addition to the cubic form we introduce higher order polynomials in $y$ that can be expressed as continued fraction of straight lines with tractable analytical solutions. We plot atmospheric CO$_2$ data on the continued fraction of axes for various values of $a$ and $m$.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l5xd1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "An Approach to Bromine Production and Storage in a High School Laboratory",
+    "summary": "This study documents a three-year-long project to produce and safely store elemental bromine in a high school laboratory. In the first attempts chlorine displacement by generating chlorine gas with trichloroisocyanuric acid was used to synthesize the bromine. These attempts were observed to be difficult to control, and produced an impure, low yield. To improve the process, a new method of oxidation using hydrogen peroxide was adopted. This new reaction was significantly easier to control, more optimized and resulted in a visibly larger yield. The first attempts were stored in plastic-capped glass bottles. However, this method would not contain the liquid bromine for a long period of time. Following research, a new method using custom-made hermetically sealed glass ampules was adopted for the more optimized reaction. The project shows optimization of both a chemical reaction and a safe storage method.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-rr8vj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Webb reveals a sample of galaxies with unusual features, nicknamed 'Platypus'",
+    "summary": "After combing through NASA's James Webb Space Telescope's archive of sweeping extragalactic cosmic fields, a small team of astronomers at the University of Missouri says they have identified a sample of galaxies that have a previously unseen combination of features.",
+    "url": "https://phys.org/news/2026-01-webb-reveals-sample-galaxies-unusual.html",
+    "published_date": "2026-01-06T19:42:26Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Webb finds early-universe analog's unexpected talent for making dust",
+    "summary": "Using NASA's James Webb Space Telescope, astronomers have spotted two rare kinds of dust in the dwarf galaxy Sextans A, one of the most chemically primitive galaxies near the Milky Way.",
+    "url": "https://phys.org/news/2026-01-webb-early-universe-analog-unexpected.html",
+    "published_date": "2026-01-06T19:35:28Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The first quantum fluctuations set into motion a huge cosmic mystery",
+    "summary": "The earliest acoustic vibrations in the cosmos weren\u2019t exactly sound \u2013 they travelled at half the speed of light and there was nobody around to hear them anyway. But Jim Baggott says from the first moments, the universe was singing",
+    "url": "https://www.newscientist.com/article/2509769-the-first-quantum-fluctuations-set-into-motion-a-huge-cosmic-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T18:00:44Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Passwords will be on the way out in 2026 as passkeys take over",
+    "summary": "The curse of having to remember easily hackable passwords may soon be over, as a new alternative is set to take over in 2026",
+    "url": "https://www.newscientist.com/article/2508261-passwords-will-be-on-the-way-out-in-2026-as-passkeys-take-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T17:00:46Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Jellyfish sleep about as much as humans do \u2013 and nap like us too",
+    "summary": "The benefits of sleep may be more universal than we thought. We know it helps clear waste from the brain in humans, and now it seems that even creatures without brains like ours get similar benefits",
+    "url": "https://www.newscientist.com/article/2509909-jellyfish-sleep-about-as-much-as-humans-do-and-nap-like-us-too/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T16:00:30Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The secret weapon that could finally force climate action",
+    "summary": "An ambitious form of climate modelling aims to pin the blame for disasters \u2013 from floods to heatwaves \u2013 on specific companies. Is this the tool we need to effectively prosecute the world\u2019s biggest carbon emitters?",
+    "url": "https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T16:00:29Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Starless \u2018Cloud-9\u2019 Is an Entirely New Astrophysical Object",
+    "summary": "<p>Scientists have found the best evidence yet for long-predicted &ldquo;failed galaxies&rdquo;</p>",
+    "url": "https://www.scientificamerican.com/article/starless-cloud-9-is-an-entirely-new-astrophysical-object/",
+    "published_date": "2026-01-06T19:30:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "At CES 2026, AI Leaves the Screen and Enters the Real World",
+    "summary": "<p>Humanoids, robotaxis and industrial bots dominate the year&rsquo;s biggest consumer technology show. Their usefulness remains an open question<br /></p>",
+    "url": "https://www.scientificamerican.com/article/at-ces-2026-ai-leaves-the-screen-and-enters-the-real-world/",
+    "published_date": "2026-01-06T18:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Congress Proposes Strong Science Funding for 2026",
+    "summary": "<p>Lawmakers aim to support science research despite cuts proposed by the Trump administration</p>",
+    "url": "https://www.scientificamerican.com/article/congress-proposes-strong-science-funding-for-2026/",
+    "published_date": "2026-01-06T18:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The first quantum fluctuations set into motion a huge cosmic mystery",
+    "summary": "The earliest acoustic vibrations in the cosmos weren\u2019t exactly sound \u2013 they travelled at half the speed of light and there was nobody around to hear them anyway. But Jim Baggott says from the first moments, the universe was singing",
+    "url": "https://www.newscientist.com/article/2509769-the-first-quantum-fluctuations-set-into-motion-a-huge-cosmic-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T18:00:44Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Passwords will be on the way out in 2026 as passkeys take over",
+    "summary": "The curse of having to remember easily hackable passwords may soon be over, as a new alternative is set to take over in 2026",
+    "url": "https://www.newscientist.com/article/2508261-passwords-will-be-on-the-way-out-in-2026-as-passkeys-take-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T17:00:46Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Jellyfish sleep about as much as humans do \u2013 and nap like us too",
+    "summary": "The benefits of sleep may be more universal than we thought. We know it helps clear waste from the brain in humans, and now it seems that even creatures without brains like ours get similar benefits",
+    "url": "https://www.newscientist.com/article/2509909-jellyfish-sleep-about-as-much-as-humans-do-and-nap-like-us-too/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T16:00:30Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The secret weapon that could finally force climate action",
+    "summary": "An ambitious form of climate modelling aims to pin the blame for disasters \u2013 from floods to heatwaves \u2013 on specific companies. Is this the tool we need to effectively prosecute the world\u2019s biggest carbon emitters?",
+    "url": "https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T16:00:29Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The first quantum fluctuations set into motion a huge cosmic mystery",
+    "summary": "The earliest acoustic vibrations in the cosmos weren\u2019t exactly sound \u2013 they travelled at half the speed of light and there was nobody around to hear them anyway. But Jim Baggott says from the first moments, the universe was singing",
+    "url": "https://www.newscientist.com/article/2509769-the-first-quantum-fluctuations-set-into-motion-a-huge-cosmic-mystery/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T18:00:44Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Passwords will be on the way out in 2026 as passkeys take over",
+    "summary": "The curse of having to remember easily hackable passwords may soon be over, as a new alternative is set to take over in 2026",
+    "url": "https://www.newscientist.com/article/2508261-passwords-will-be-on-the-way-out-in-2026-as-passkeys-take-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T17:00:46Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Jellyfish sleep about as much as humans do \u2013 and nap like us too",
+    "summary": "The benefits of sleep may be more universal than we thought. We know it helps clear waste from the brain in humans, and now it seems that even creatures without brains like ours get similar benefits",
+    "url": "https://www.newscientist.com/article/2509909-jellyfish-sleep-about-as-much-as-humans-do-and-nap-like-us-too/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T16:00:30Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The secret weapon that could finally force climate action",
+    "summary": "An ambitious form of climate modelling aims to pin the blame for disasters \u2013 from floods to heatwaves \u2013 on specific companies. Is this the tool we need to effectively prosecute the world\u2019s biggest carbon emitters?",
+    "url": "https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T16:00:29Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Spontaneous mutation rate in Saccharomyces cerevisiae is lower in nutritional and genotypic conditions reducing specific growth rate",
     "summary": "Even in the absence of mutagenic factors, spontaneous errors in DNA replication generate genetic diversity in microbial populations. The spontaneous mutation rate is not immutable but may be conditionally elevated. However, it remains unresolved whether apparently non-stressful nutritional or genotypic conditions affect the spontaneous mutation rate. Here, we determined the spontaneous mutation rate of haploid Saccharomyces cerevisiae CEN.PK113-7D in three nutritional and three genotypic conditions. The nutritional and genotypic conditions influenced the specific growth rate of the S. cerevisiae population. Thus, we extended the established fluctuation assay for spontaneous mutation rate determination with CAN1 as a reporter gene to populations with different generation times. We applied the method to determine the spontaneous mutations rates in wild type S. cerevisiae grown on glucose and ammonium, raffinose and ammonium, and glucose and L-tryptophan as sole carbon and nitrogen sources. Alike we determined the spontaneous mutation rates of two engineered S. cerevisiae strains (i.e., representing genotypic conditions different from wild type) on glucose and ammonium medium. The engineered strains had two to three heterologous or variant genes integrated into the genome, common to simple heterologous small molecule production host strains. In all alternative nutritional and genotypic conditions, the spontaneous mutation rate of S. cerevisiae was reduced compared to wild type growing on glucose and ammonium medium. Spontaneous mutation rate is fundamentally relevant for evolvability of strains, but it may also influence the performance robustness of microbial populations in applications such as food or beverage fermentation or biotechnological chemical production. Our novel findings are important for biotechnological processes using microbial cells, often engineered and cultivated in unnatural chemical environments.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697716v1?rss=1",
