@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 65 | [NASA Selects Proposals To Advance The Habitable Worlds Obser](https://astrobiology.com/2026/01/nasa-selects-proposals-to-advance-the-habitable-worlds-observatory-astrobiology-mission-concept.html) |
+| keyword_rejected | - | [Comparison of treatment modalities for distal radius fractur](https://www.nature.com/articles/s41598-025-34837-z) |
+| keyword_rejected | - | [Design and evaluation of a remote damage control surgery rea](https://www.nature.com/articles/s41598-025-34705-w) |
+| keyword_rejected | - | [Modeling runoff, sediment yield and conservation measures us](https://www.nature.com/articles/s41598-025-34617-9) |
+| keyword_rejected | - | [Knowledge graph-enhanced deep learning for pharmaceutical de](https://www.nature.com/articles/s41598-026-35113-4) |
+| keyword_rejected | - | [Study of the energy efficiency of various drive systems of a](https://www.nature.com/articles/s41598-025-34855-x) |
+| keyword_rejected | - | [Influence of Kerr nonlinearities on THz radiation generation](https://www.nature.com/articles/s41598-025-33997-2) |
+| keyword_rejected | - | [PRRs-related genes and immune landscape in heart failure and](https://www.nature.com/articles/s41598-025-34671-3) |
+| keyword_rejected | - | [Flatfish intestinal microbiota depend on various host traits](https://www.nature.com/articles/s41598-025-34195-w) |
+| keyword_rejected | - | [Retrospective cohort study of hepatitis B immunization strat](https://www.nature.com/articles/s41467-025-68243-w) |
 | ai_scored | 35 | [The E3 ubiquitin ligase mechanism specifying target-directed](https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1) |
 | keyword_rejected | - | [TRPV4 Inhibition by a Natural Product Mediates Analgesia](https://www.biorxiv.org/content/10.64898/2026.01.05.697673v1?rss=1) |
 | ai_scored | 5 | [CNOT10 is involved in TTP-mediated AU-rich element containin](https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1) |
