@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Ce dinosaure lancé à pleine vitesse rivalise avec Usain Bolt](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/ce-dinosaure-mongol-lance-a-pleine-vitesse-rivalise-avec-usain-bolt_190281?xtor=RSS-4) |
+| keyword_rejected | - | [The poetic life and death of a glow-worm](https://www.nature.com/articles/d41586-025-03990-w) |
+| keyword_rejected | - | [Tracking the protein conformational motions driving HIV-1 me](https://www.nature.com/articles/s41598-025-33350-7) |
+| keyword_rejected | - | [Researchers build plasma accelerator that boosts electron en](https://phys.org/news/2026-01-plasma-boosts-electron-energy-brightness.html) |
+| keyword_rejected | - | [Decoding the biogenesis of HIV-induced CPSF6 puncta and thei](https://elifesciences.org/articles/103725) |
 | ai_scored | 45 | [From Darwin to teleonomy: A categorical final–cause calculus](https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all) |
 | keyword_rejected | - | [Soft sonocapacitor with topologically integrated piezodielec](https://www.nature.com/articles/s41467-025-67723-3) |
 | keyword_rejected | - | [Sulfur-containing class of broad-spectrum antivirals improve](https://www.nature.com/articles/s41467-025-67775-5) |

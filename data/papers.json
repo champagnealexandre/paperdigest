@@ -1,5 +1,60 @@
 [
   {
+    "title": "Decoding the biogenesis of HIV-induced CPSF6 puncta and their fusion with nuclear speckles",
+    "summary": "Viruses rely on host cellular machinery for replication. After entering the nucleus, the HIV genome accumulates in nuclear niches where it undergoes reverse transcription and integrates into neighbouring chromatin, promoting high transcription rates and new virus progeny. Despite antiretroviral treatment, viral genomes can persist in these nuclear niches and reactivate upon treatment interruption, raising the possibility that they could play a role in the establishment of viral reservoirs. The post-nuclear entry dynamics of HIV remain unclear, and understanding these steps is critical for revealing how viral reservoirs are established. In this study, we elucidate the formation of HIV-induced CPSF6 puncta and the domains of CPSF6 essential for this process. We also explore the roles of nuclear speckle (NS) scaffold factors, SON and SRRM2, in the biogenesis of these puncta. Through genetic manipulation and depletion experiments, we demonstrate the key role of the intrinsically disordered region of SRRM2 in enlarging NSs in the presence of the HIV capsid. We identify the FG domain of CPSF6 as essential for both puncta formation and binding to the viral core, which serves as the scaffold for CPSF6 puncta. While the low-complexity regions modulate CPSF6 binding to the viral capsid, they do not contribute to puncta formation, nor do the disordered mixed charge domains of CPSF6. Interestingly, the FG peptide facilitates viral replication. These results demonstrate how HIV evolved to hijack host nuclear factors, enabling its persistence in the host. Of note, this study provides new insights into the underlying interactions between host factors and viral components, advancing our understanding of HIV nuclear dynamics and offering potential therapeutic targets for preventing viral persistence.",
+    "url": "https://elifesciences.org/articles/103725",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Researchers build plasma accelerator that boosts electron energy and brightness at the same time",
+    "summary": "Researchers from the Department of Energy's SLAC National Accelerator Laboratory and the University of California, Los Angeles (UCLA), have designed innovative technology that can generate both high-energy and high-brightness electron bunches in an accelerator that is a fraction of the size of current particle accelerators.",
+    "url": "https://phys.org/news/2026-01-plasma-boosts-electron-energy-brightness.html",
+    "published_date": "2026-01-06T14:18:34Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Tracking the protein conformational motions driving HIV-1 membrane fusion",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33350-7\">doi:10.1038/s41598-025-33350-7</a></p>Tracking the protein conformational motions driving HIV-1 membrane fusion",
+    "url": "https://www.nature.com/articles/s41598-025-33350-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The poetic life and death of a glow-worm",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03990-w\">doi:10.1038/d41586-025-03990-w</a></p>A peek behind the scenes at the zoo reveals animal escapades, and a glow-worm shines in a mild midwinter, in our weekly dip into Nature\u2019s archive.",
+    "url": "https://www.nature.com/articles/d41586-025-03990-w",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ce dinosaure lanc\u00e9 \u00e0 pleine vitesse rivalise avec Usain Bolt",
+    "summary": "Dans le nord de la Mongolie, une piste fossile longue de plus de 80 m\u00e8tres conserve la trace d\u2019un th\u00e9ropode lanc\u00e9 \u00e0 pleine vitesse.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/ce-dinosaure-mongol-lance-a-pleine-vitesse-rivalise-avec-usain-bolt_190281?xtor=RSS-4",
+    "published_date": "2026-01-06T13:51:04Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "From Darwin to teleonomy: A categorical final\u2013cause calculus for evolution",
     "summary": "<p>Publication date: Available online 5 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): Andrei T. Patrascu</p>",
     "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all",
