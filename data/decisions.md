@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Exploring the relationship between artificial intelligence a](https://www.nature.com/articles/s41598-025-34829-z) |
+| keyword_rejected | - | [Physics-informed neural network with weighted loss and hard ](https://www.nature.com/articles/s41598-025-34263-1) |
 | ai_scored | 40 | [Defining expansions and perturbations to the RNA polymerase ](https://www.nature.com/articles/s41467-025-68230-1) |
 | ai_scored | 30 | [So … I asked A.I. to write a song about searching for life i](https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html) |
 | ai_scored | 0 | [A hybrid differential evolution algorithm for distributed as](https://www.nature.com/articles/s41598-025-34395-4) |
