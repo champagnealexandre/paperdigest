@@ -3,8 +3,48 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T20:21:10.002002+00:00</updated>
+  <updated>2026-01-06T21:18:00.979879+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] phys.org - Space News ▶ New census of sun&#x27;s neighbors reveals best potential real estate for life</title>
+    <link href="https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html"/>
+    <id>https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html</id>
+    <updated>2026-01-06T20:27:10Z</updated>
+    <summary>A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> A nearby-star census meant to identify promising targets for future searches for Earth-like planets and potential habitability, but it does not directly advance origins-of-life mechanisms or biosignature/atmospheric characterization.</p>
+<p><strong>Abstract:</strong> A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebastián Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Ariz.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] cell biology - biorXiv Preprints ▶ Chromosome axis protein SYCP2 recruits HORMAD2 to enable meiotic synapsis quality control in mice</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Faithful chromosome segregation during meiosis depends on accurate recombination and synapsis of homologous chromosomes. These processes are monitored in mammals by checkpoint mechanisms involving the</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This mouse meiosis study identifies a SYCP2 closure motif that recruits HORMAD2 to unsynapsed chromosome axes, enabling ATR-mediated synapsis checkpoint signaling, but it has minimal direct relevance to origins-of-life research beyond general DNA biology.</p>
+<p><strong>Abstract:</strong> Faithful chromosome segregation during meiosis depends on accurate recombination and synapsis of homologous chromosomes. These processes are monitored in mammals by checkpoint mechanisms involving the meiotic HORMA-domain proteins HORMAD1 and HORMAD2, which bind unsynapsed chromosome axes and promote activation of the DNA damage-response kinase ATR independently of DNA double-strand breaks (DSBs). However, no mechanism for axis recruitment of HORMAD1 or HORMAD2 had been demonstrated, nor had its role in checkpoint function been tested. We establish that a putative HORMAD-interacting region--the closure motif (CM)--within the chromosome-axis component SYCP2 is selectively required for HORMAD2, but not HORMAD1, localization. Deletion of the SYCP2 CM disrupts SYCP2-HORMAD2 complexes and prevents HORMAD2 axis binding without affecting axis assembly or recombination. Consequently, ATR accumulation and signaling on unsynapsed axes are reduced, and the prophase checkpoint malfunctions in a sexually dimorphic manner--causing aberrant elimination of synapsis-proficient spermatocytes and persistence of asynaptic oocytes. The phenotypes of SYCP2-CM-deficient and HORMAD2-null mice are indistinguishable, establishing the requirement for HORMAD2 axis recruitment in synapsis surveillance. We propose that axial recruitment generates a HORMAD2 scaffold that drives clustering-mediated ATR network activation independently of DSBs, thereby linking chromosome-axis architecture to synapsis quality control in mammalian meiosis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ SLBP-independent control of maternal histone mRNA</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Replication-dependent (RD) histones are crucial for packaging newly replicated DNA into chromatin, ensuring genome stability. In metazoans, the mRNA of RD histones is uniquely regulated through a cons</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
+<p><strong>AI Decision:</strong> This preprint identifies an SLBP-independent mechanism (PETISCO–TOST-1) that stabilizes maternal replication-dependent histone mRNAs in C. elegans and suggests this machinery was later co-opted for piRNA biogenesis, offering limited indirect relevance to molecular evolution rather than origins-of-life.</p>
+<p><strong>Abstract:</strong> Replication-dependent (RD) histones are crucial for packaging newly replicated DNA into chromatin, ensuring genome stability. In metazoans, the mRNA of RD histones is uniquely regulated through a conserved 3&#x27; stemloop bound by stemloop binding protein (SLBP). This allows cell cycle-coupled regulation of these important transcripts. However, oocytes must stabilise histone mRNAs independently of the cell cycle to ensure maternal loading to support the first embryonic divisions. Using Caenorhabditis elegans as a model system, we discovered an SLBP-independent mechanism that ensures RD histone transcript stability during oogenesis. This is mediated by the protein complex PETISCO, bound to the effector protein TOST-1, which directly binds the histone stemloop region and maintains maternal histone mRNA levels during oogenesis and early embryogenesis. Loss of this mechanism disrupts histone homeostasis, leading to premature genome activation, mitotic defects, and embryonic lethality. Interestingly, the same complex, PETISCO, acts in piRNA biogenesis when bound to the effector PID-1, revealing an intriguing co-option of this histone mRNA homeostasis mechanism by the piRNA pathway. Our findings reveal a unique SLBP-independent mechanism of histone mRNA regulation, that served as a basis for the evolution of a novel piRNA biogenesis mechanism.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] Phys.org: Evolution News ▶ Cracking sleep&#x27;s evolutionary code: Neuron protection traced back to jellyfish and sea anemones</title>
     <link href="https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html"/>

@@ -1,5 +1,80 @@
 [
   {
+    "title": "New census of sun's neighbors reveals best potential real estate for life",
+    "summary": "A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebasti\u00e1n Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Ariz.",
+    "url": "https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html",
+    "published_date": "2026-01-06T20:27:10Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "A nearby-star census meant to identify promising targets for future searches for Earth-like planets and potential habitability, but it does not directly advance origins-of-life mechanisms or biosignature/atmospheric characterization."
+    }
+  },
+  {
+    "title": "Chromosome axis protein SYCP2 recruits HORMAD2 to enable meiotic synapsis quality control in mice",
+    "summary": "Faithful chromosome segregation during meiosis depends on accurate recombination and synapsis of homologous chromosomes. These processes are monitored in mammals by checkpoint mechanisms involving the meiotic HORMA-domain proteins HORMAD1 and HORMAD2, which bind unsynapsed chromosome axes and promote activation of the DNA damage-response kinase ATR independently of DNA double-strand breaks (DSBs). However, no mechanism for axis recruitment of HORMAD1 or HORMAD2 had been demonstrated, nor had its role in checkpoint function been tested. We establish that a putative HORMAD-interacting region--the closure motif (CM)--within the chromosome-axis component SYCP2 is selectively required for HORMAD2, but not HORMAD1, localization. Deletion of the SYCP2 CM disrupts SYCP2-HORMAD2 complexes and prevents HORMAD2 axis binding without affecting axis assembly or recombination. Consequently, ATR accumulation and signaling on unsynapsed axes are reduced, and the prophase checkpoint malfunctions in a sexually dimorphic manner--causing aberrant elimination of synapsis-proficient spermatocytes and persistence of asynaptic oocytes. The phenotypes of SYCP2-CM-deficient and HORMAD2-null mice are indistinguishable, establishing the requirement for HORMAD2 axis recruitment in synapsis surveillance. We propose that axial recruitment generates a HORMAD2 scaffold that drives clustering-mediated ATR network activation independently of DSBs, thereby linking chromosome-axis architecture to synapsis quality control in mammalian meiosis.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "This mouse meiosis study identifies a SYCP2 closure motif that recruits HORMAD2 to unsynapsed chromosome axes, enabling ATR-mediated synapsis checkpoint signaling, but it has minimal direct relevance to origins-of-life research beyond general DNA biology."
+    }
+  },
+  {
+    "title": "SLBP-independent control of maternal histone mRNA",
+    "summary": "Replication-dependent (RD) histones are crucial for packaging newly replicated DNA into chromatin, ensuring genome stability. In metazoans, the mRNA of RD histones is uniquely regulated through a conserved 3' stemloop bound by stemloop binding protein (SLBP). This allows cell cycle-coupled regulation of these important transcripts. However, oocytes must stabilise histone mRNAs independently of the cell cycle to ensure maternal loading to support the first embryonic divisions. Using Caenorhabditis elegans as a model system, we discovered an SLBP-independent mechanism that ensures RD histone transcript stability during oogenesis. This is mediated by the protein complex PETISCO, bound to the effector protein TOST-1, which directly binds the histone stemloop region and maintains maternal histone mRNA levels during oogenesis and early embryogenesis. Loss of this mechanism disrupts histone homeostasis, leading to premature genome activation, mitotic defects, and embryonic lethality. Interestingly, the same complex, PETISCO, acts in piRNA biogenesis when bound to the effector PID-1, revealing an intriguing co-option of this histone mRNA homeostasis mechanism by the piRNA pathway. Our findings reveal a unique SLBP-independent mechanism of histone mRNA regulation, that served as a basis for the evolution of a novel piRNA biogenesis mechanism.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1"
+    ],
+    "matched_keywords": [
+      "DNA",
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "This preprint identifies an SLBP-independent mechanism (PETISCO\u2013TOST-1) that stabilizes maternal replication-dependent histone mRNAs in C. elegans and suggests this machinery was later co-opted for piRNA biogenesis, offering limited indirect relevance to molecular evolution rather than origins-of-life."
+    }
+  },
+  {
+    "title": "Return on Experiment: Information-per-Cost Metrics for Self-Driving Chemical Laboratories",
+    "summary": "Self-driving laboratories (SDLs) integrate artificial intelligence with laboratory automation to accelerate chemical optimization through iterative experiment design, execution, and analysis. Current evaluation practices emphasize outcome-centric metrics such as best-achieved yield, number of experiments to reach a target, and Pareto-front advancement. However, these summaries do not explicitly quantify learning efficiency\u2014how much model-relevant information is gained per unit resource\u2014nor do they credit experiments that reduce uncertainty without improving observed outcomes, including negative or null results that delineate the boundaries of viable chemical space.\n\nWe propose Return on Experiment (RoE), a resource-normalized metric that couples information return to total cost. RoE is defined as \u0394I/C, where \u0394I denotes an information-gain term quantified through reduction in posterior predictive uncertainty (operationalized as domain-averaged variance reduction, entropy decrease, or improvement in held-out predictive log-score), and C denotes audited resource costs spanning both experimental expenditures (time, reagents, monetary cost, environmental impact) and computational expenditures (token usage, compute hours). RoE is reported either as per-resource values preserving interpretability across cost dimensions, or as a scalar following explicit normalization and weighting protocols.\n\nWe formalize standardized \u0394I definitions with objective normalization and reference-set specifications enabling cross-study comparison, establish calibration reporting as a gating requirement for uncertainty-based RoE interpretation, and propose a minimum reporting standard encompassing selection criteria, resource boundaries, and multi-objective handling. Illustrative applications demonstrate that RoE discriminates optimization strategies masked by single-metric reporting, credits informative negative experiments, and preserves trade-off structure in multi-objective campaigns. RoE complements existing outcome metrics by making learning efficiency an explicit, auditable, and reportable quantity for autonomous chemistry evaluation.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1vrq1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Advanced quantum detectors are reinventing the search for dark matter",
+    "summary": "When it comes to understanding the universe, what we know is only a sliver of the whole picture.",
+    "url": "https://phys.org/news/2026-01-advanced-quantum-detectors-reinventing-dark.html",
+    "published_date": "2026-01-06T20:26:47Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Cracking sleep's evolutionary code: Neuron protection traced back to jellyfish and sea anemones",
     "summary": "A new study from Bar-Ilan University shows that one of sleep's core functions originated hundreds of millions of years ago in jellyfish and sea anemones, among the earliest creatures with nervous systems. By tracing this mechanism back to these ancient animals, the research demonstrates that protecting neurons from DNA damage and cellular stress is a basic, ancient function of sleep that began long before complex brains evolved.",
     "url": "https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html",

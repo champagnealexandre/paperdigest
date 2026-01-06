@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [SLBP-independent control of maternal histone mRNA](https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1) |
+| ai_scored | 5 | [Chromosome axis protein SYCP2 recruits HORMAD2 to enable mei](https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1) |
+| ai_scored | 40 | [New census of sun's neighbors reveals best potential real es](https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html) |
+| keyword_rejected | - | [Advanced quantum detectors are reinventing the search for da](https://phys.org/news/2026-01-advanced-quantum-detectors-reinventing-dark.html) |
+| keyword_rejected | - | [Return on Experiment: Information-per-Cost Metrics for Self-](https://dx.doi.org/10.26434/chemrxiv-2026-1vrq1?rft_dat=source%3Ddrss) |
 | ai_scored | 20 | [The non-coding facet of Pink1 mRNA regulates mitochondria ho](https://www.biorxiv.org/content/10.64898/2026.01.05.697839v1?rss=1) |
 | ai_scored | 40 | [Cracking sleep's evolutionary code: Neuron protection traced](https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html) |
 | keyword_rejected | - | [The secret weapon that could finally force climate action](https://www.newscientist.com/article/2508956-the-secret-weapon-that-could-finally-force-climate-action/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
