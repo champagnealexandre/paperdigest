@@ -1,5 +1,247 @@
 [
   {
+    "title": "Thin Ice May Have Protected Lake Water On Frozen Mars",
+    "summary": "<p>Using a climate model adapted for Martian conditions, a team of researchers from Rice University discovered that lakes in locations such as Gale Crater, near Mars\u2019 equator, could have persisted under thin seasonal ice for at least decades and likely as long as climate conditions were stable. These findings contribute to resolving a long-standing puzzle [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/thin-ice-may-have-protected-lake-water-on-frozen-mars.html\">Thin Ice May Have Protected Lake Water On Frozen Mars</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/thin-ice-may-have-protected-lake-water-on-frozen-mars.html",
+    "published_date": "2026-01-06T13:51:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV001891",
+      "https://doi.org/10.1029/2025AV001891"
+    ],
+    "matched_keywords": [
+      "mars",
+      "water",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 75,
+      "summary": "Martian climate modeling suggests equatorial crater lakes (e.g., Gale) could have remained liquid for decades beneath thin seasonal ice, strengthening the case for transient near-surface water and localized habitability on a generally cold Mars."
+    }
+  },
+  {
+    "title": "A Free-floating-Planet Microlensing Event Caused By A Saturn-mass Object",
+    "summary": "<p>A population of free-floating planets is known from gravitational microlensing surveys. None have a directly measured mass, owing to a degeneracy with the distance, but the population statistics indicate that many are less massive than Jupiter. We report a microlensing event &#8212; KMT-2024-BLG-0792/OGLE-2024-BLG-0516, which was observed from both ground- and space-based telescopes &#8212; that breaks [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/a-free-floating-planet-microlensing-event-caused-by-a-saturn-mass-object.html\">A Free-floating-Planet Microlensing Event Caused By A Saturn-mass Object</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/a-free-floating-planet-microlensing-event-caused-by-a-saturn-mass-object.html",
+    "published_date": "2026-01-06T14:03:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.00057",
+      "https://arxiv.org/abs/2601.00057",
+      "https://doi.org/10.1126/science.adv9266"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Reports a microlensing event that directly constrains the mass of a Saturn-mass free-floating planet, improving statistics on rogue-planet populations but with limited direct relevance to origins-of-life or habitability questions."
+    }
+  },
+  {
+    "title": "Jupiter's moon Europa lacks the undersea activity needed to support life, study suggests",
+    "summary": "The giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to possess a vast ocean of liquid salt water. For decades, scientists have wondered whether that ocean could harbor the right conditions for life, placing Europa near the top of the list of solar system bodies to explore.",
+    "url": "https://phys.org/news/2026-01-jupiter-moon-europa-lacks-undersea.html",
+    "published_date": "2026-01-06T16:00:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "water",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "A study argues Europa may lack sufficient seafloor hydrothermal/geochemical activity to sustain long-term habitability in its subsurface ocean, tempering expectations for life in a watery world."
+    }
+  },
+  {
+    "title": "Deep Learning For Microbial Life Detection In Deep Subseafloor Samples: Objective Cell Recognition",
+    "summary": "<p>Microscopic detection and enumeration of microbial biomass provide essential primary information about the biosphere. Unlike aquatic samples, the application of specific microbial detection methods, such as fluorescence staining, to particle-rich samples such as marine sediments has been challenging because of the abundance of non-cellular particles. Even with recently developed fluorescence-based techniques for distinguishing microbial cells [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/deep-learning-for-microbial-life-detection-in-deep-subseafloor-samples-objective-cell-recognition.html\">Deep Learning For Microbial Life Detection In Deep Subseafloor Samples: Objective Cell Recognition</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/deep-learning-for-microbial-life-detection-in-deep-subseafloor-samples-objective-cell-recognition.html",
+    "published_date": "2026-01-06T12:46:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12753647/"
+    ],
+    "matched_keywords": [
+      "water",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Introduces a deep-learning approach to objectively recognize and count microbial cells in particle-rich deep subseafloor sediments, improving life-detection sensitivity in challenging samples relevant to astrobiological biosignature searches."
+    }
+  },
+  {
+    "title": "One-dimensional And Time-dependent Modelling Of Complex Organic Molecules In Protostars",
+    "summary": "<p>Complex organic molecules (COMs), the building blocks of life, have been extensively detected under various physical conditions, from quiescent clouds to star-forming regions. They therefore serve as excellent tracers for the local physical and chemical properties of these environments. Proper models that are capable of grasping the formation and destruction of COMs are crucial to [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/one-dimensional-and-time-dependent-modelling-of-complex-organic-molecules-in-protostars.html\">One-dimensional And Time-dependent Modelling Of Complex Organic Molecules In Protostars</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/one-dimensional-and-time-dependent-modelling-of-complex-organic-molecules-in-protostars.html",
+    "published_date": "2026-01-06T12:56:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.00731",
+      "https://arxiv.org/abs/2601.00731"
+    ],
+    "matched_keywords": [
+      "astrochemistry",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "This study uses 1D time-dependent astrochemical modelling to track the formation and destruction of complex organic molecules in protostars, informing how prebiotic building blocks may be synthesized and processed in star-forming environments."
+    }
+  },
+  {
+    "title": "Halotolerant Bacteria From Mangrove And Restinga Ecosystems In Camocim, Brazil: Astrobiological Relevance And Biotechnological Potential",
+    "summary": "<p>Halotolerant bacteria possess significant scientific and biotechnological potential due to their ability to thrive in high-salinity environments and withstand other harsh conditions. Their adaptive mechanisms-such as the production of specialized enzymes, and biosurfactants-enable applications in bioremediation, saline wastewater treatment, and industries like food, medicine, and detergents. Notably, these bacteria can tolerate not only NaCl but [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/halotolerant-bacteria-from-mangrove-and-restinga-ecosystems-in-camocim-brazil-astrobiological-relevance-and-biotechnological-potential.html\">Halotolerant Bacteria From Mangrove And Restinga Ecosystems In Camocim, Brazil: Astrobiological Relevance And Biotechnological Potential</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/halotolerant-bacteria-from-mangrove-and-restinga-ecosystems-in-camocim-brazil-astrobiological-relevance-and-biotechnological-potential.html",
+    "published_date": "2026-01-06T13:08:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.1007/s42770-025-01850-3",
+      "https://link.springer.com/article/10.1007/s42770-025-01850-3"
+    ],
+    "matched_keywords": [
+      "mars",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "This study isolates and characterizes halotolerant bacteria from Brazilian mangrove/restinga ecosystems, highlighting extremophile adaptations with astrobiological relevance as analogs for saline habitability and potential biosignature-related metabolisms, though it is not a direct origins-of-life mechanistic paper."
+    }
+  },
+  {
+    "title": "When Light Teaches Materials To Self-organize: Writing Nature-like 3D Nanowrinkles",
+    "summary": "<p>Wrinkles are everywhere in nature. They shape the surface of leaves, insect wings, and even the tiny finger-like structures that line the human intestine. These patterns are not just decorative. They control how surfaces interact with light, liquids, and living cells. However, reproducing such intricate textures in the lab, especially in three dimensions and at [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html\">When Light Teaches Materials To Self-organize: Writing Nature-like 3D Nanowrinkles</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html",
+    "published_date": "2026-01-06T12:43:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://iopscience.iop.org/article/10.1088/2631-7990/ae1eb7",
+      "https://doi.org/10.1088/2631-7990/ae1eb7"
+    ],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Describes light-driven self-organization to write nature-like 3D nanowrinkle textures in materials, offering broad conceptual relevance to self-organizing pattern formation but not directly addressing prebiotic chemistry or origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "DNA damage modulates sleep drive in basal cnidarians with divergent chronotypes",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67400-5",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-67400-5"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Using basal cnidarians with different chronotypes, this study shows that DNA damage can increase sleep drive, linking genome maintenance to the evolution of sleep-like states in early-diverging multicellular animals."
+    }
+  },
+  {
+    "title": "Molecular Hydrogen Controls The Temperatures Of Flares On TRAPPIST-1",
+    "summary": "<p>Early JWST observations of TRAPPIST-1 have revealed an unexpected puzzle: energetic white-light flares (E&#62;1030 erg) reach temperatures of only \u223c3500&#8211;4000,K, nearly three times cooler than typical solar flares, which peak around 9000&#8211;10000,K. Here we explain this difference by identifying the physical mechanism that regulates flare temperatures on late M-dwarfs. The key factor is that in [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/molecular-hydrogen-controls-the-temperatures-of-flares-on-trappist-1.html\">Molecular Hydrogen Controls The Temperatures Of Flares On TRAPPIST-1</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/molecular-hydrogen-controls-the-temperatures-of-flares-on-trappist-1.html",
+    "published_date": "2026-01-06T14:00:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.00386",
+      "https://doi.org/10.48550/arXiv.2601.00386"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Uses JWST flare observations to explain why TRAPPIST-1\u2019s white-light flares are unusually cool, informing assessments of the system\u2019s radiation environment and potential habitability impacts rather than directly addressing origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Editorial Board",
+    "summary": "<p>Publication date: 7 March 2026</p><p><b>Source:</b> Journal of Theoretical Biology, Volume 620</p><p>Author(s): </p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S002251932500356X?dgcid=rss_sd_all",
+    "published_date": "2026-01-06T16:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ferroelectric switching of interfacial dipoles in <i>\u03b1</i>-RuCl<sub>3</sub>/graphene heterostructure",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68072-x\">doi:10.1038/s41467-025-68072-x</a></p>This study shows that electrically switchable and non-volatile dipoles can form at the interface of graphene and \u03b1-RuCl3 when separated by an ultrathin hBN layer. The dipole switching is driven by interfacial charge transfer, is stable without continuous power, and emerges in a narrow temperature window around 30 K.",
+    "url": "https://www.nature.com/articles/s41467-025-68072-x",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Intrathecal CRISPR-edited allogeneic IL-13R\u03b12 CAR T Cells for recurrent high-grade Glioma: preclinical characterization and phase I trial",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68112-6\">doi:10.1038/s41467-025-68112-6</a></p>Off-the-shelf, on-demand allogeneic CAR-T cells could represent a therapeutic alternative to autologous products for cancer therapy. Here the authors report the preclinical characterization of off-the-shelf CRISPR-Cas9\u2013 edited IL-13R\u03b12-specific allogeneic universal CAR-T cells and the results of a first-in-human phase I trial in patients with high-grade glioma.",
+    "url": "https://www.nature.com/articles/s41467-025-68112-6",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rare 'firework morphology' of supernova remnant Pa 30 may be due to white dwarf wind",
+    "summary": "In 1181 AD, a bright \"guest star\" was observed to linger in the sky for around six months. Nearly 850 years later, the likely remnants of this event were rediscovered and tentatively linked to the 1181 supernova and dubbed supernova remnant (SNR) Pa 30. Yet, this supernova remnant was unique in appearance and researchers have struggled to understand why.",
+    "url": "https://phys.org/news/2026-01-rare-firework-morphology-supernova-remnant.html",
+    "published_date": "2026-01-06T16:18:38Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Intrathecal CRISPR-edited allogeneic IL-13R\u03b12 CAR T Cells for recurrent high-grade Glioma: preclinical characterization and phase I trial",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68112-6",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Artificial skin mimics the octopus\u2019s art of disguise",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03984-8\">doi:10.1038/d41586-025-03984-8</a></p>A \u2018photonic skin\u2019 with controllable colour and texture brings materials science a step closer to the adaptive camouflage found in nature.",
+    "url": "https://www.nature.com/articles/d41586-025-03984-8",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "House sparrows can help us save endangered species: A mathematical framework for genomic prediction",
     "summary": "Researchers are trying to understand why some wild species do better than others over time, as the environment changes.",
     "url": "https://phys.org/news/2026-01-house-sparrows-endangered-species-mathematical.html",

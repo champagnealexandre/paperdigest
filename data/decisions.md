@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Molecular Hydrogen Controls The Temperatures Of Flares On TR](https://astrobiology.com/2026/01/molecular-hydrogen-controls-the-temperatures-of-flares-on-trappist-1.html) |
+| ai_scored | 50 | [DNA damage modulates sleep drive in basal cnidarians with di](https://www.nature.com/articles/s41467-025-67400-5) |
+| ai_scored | 40 | [When Light Teaches Materials To Self-organize: Writing Natur](https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html) |
+| ai_scored | 55 | [Halotolerant Bacteria From Mangrove And Restinga Ecosystems ](https://astrobiology.com/2026/01/halotolerant-bacteria-from-mangrove-and-restinga-ecosystems-in-camocim-brazil-astrobiological-relevance-and-biotechnological-potential.html) |
+| ai_scored | 60 | [One-dimensional And Time-dependent Modelling Of Complex Orga](https://astrobiology.com/2026/01/one-dimensional-and-time-dependent-modelling-of-complex-organic-molecules-in-protostars.html) |
+| ai_scored | 55 | [Deep Learning For Microbial Life Detection In Deep Subseaflo](https://astrobiology.com/2026/01/deep-learning-for-microbial-life-detection-in-deep-subseafloor-samples-objective-cell-recognition.html) |
+| ai_scored | 60 | [Jupiter's moon Europa lacks the undersea activity needed to ](https://phys.org/news/2026-01-jupiter-moon-europa-lacks-undersea.html) |
+| ai_scored | 25 | [A Free-floating-Planet Microlensing Event Caused By A Saturn](https://astrobiology.com/2026/01/a-free-floating-planet-microlensing-event-caused-by-a-saturn-mass-object.html) |
+| ai_scored | 75 | [Thin Ice May Have Protected Lake Water On Frozen Mars](https://astrobiology.com/2026/01/thin-ice-may-have-protected-lake-water-on-frozen-mars.html) |
+| keyword_rejected | - | [Artificial skin mimics the octopus’s art of disguise](https://www.nature.com/articles/d41586-025-03984-8) |
+| keyword_rejected | - | [Intrathecal CRISPR-edited allogeneic IL-13Rα2 CAR T Cells fo](https://www.nature.com/articles/s41467-025-68112-6) |
+| keyword_rejected | - | [Rare 'firework morphology' of supernova remnant Pa 30 may be](https://phys.org/news/2026-01-rare-firework-morphology-supernova-remnant.html) |
+| keyword_rejected | - | [Intrathecal CRISPR-edited allogeneic IL-13Rα2 CAR T Cells fo](https://www.nature.com/articles/s41467-025-68112-6) |
+| keyword_rejected | - | [Ferroelectric switching of interfacial dipoles in <i>α</i>-R](https://www.nature.com/articles/s41467-025-68072-x) |
+| keyword_rejected | - | [Editorial Board](https://www.sciencedirect.com/science/article/pii/S002251932500356X?dgcid=rss_sd_all) |
 | ai_scored | 0 | [How a biological version of rock-paper-scissors determines i](https://phys.org/news/2026-01-biological-version-paper-scissors-lizard.html) |
 | ai_scored | 0 | [To understand exoplanet habitability, we need a better under](https://phys.org/news/2026-01-exoplanet-habitability-stellar-flaring.html) |
 | ai_scored | 15 | [Orange pigments in birds and human redheads prevent cellular](https://phys.org/news/2026-01-orange-pigments-birds-human-redheads.html) |
