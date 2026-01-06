@@ -1,5 +1,107 @@
 [
   {
+    "title": "Spontaneous mutation rate in Saccharomyces cerevisiae is lower in nutritional and genotypic conditions reducing specific growth rate",
+    "summary": "Even in the absence of mutagenic factors, spontaneous errors in DNA replication generate genetic diversity in microbial populations. The spontaneous mutation rate is not immutable but may be conditionally elevated. However, it remains unresolved whether apparently non-stressful nutritional or genotypic conditions affect the spontaneous mutation rate. Here, we determined the spontaneous mutation rate of haploid Saccharomyces cerevisiae CEN.PK113-7D in three nutritional and three genotypic conditions. The nutritional and genotypic conditions influenced the specific growth rate of the S. cerevisiae population. Thus, we extended the established fluctuation assay for spontaneous mutation rate determination with CAN1 as a reporter gene to populations with different generation times. We applied the method to determine the spontaneous mutations rates in wild type S. cerevisiae grown on glucose and ammonium, raffinose and ammonium, and glucose and L-tryptophan as sole carbon and nitrogen sources. Alike we determined the spontaneous mutation rates of two engineered S. cerevisiae strains (i.e., representing genotypic conditions different from wild type) on glucose and ammonium medium. The engineered strains had two to three heterologous or variant genes integrated into the genome, common to simple heterologous small molecule production host strains. In all alternative nutritional and genotypic conditions, the spontaneous mutation rate of S. cerevisiae was reduced compared to wild type growing on glucose and ammonium medium. Spontaneous mutation rate is fundamentally relevant for evolvability of strains, but it may also influence the performance robustness of microbial populations in applications such as food or beverage fermentation or biotechnological chemical production. Our novel findings are important for biotechnological processes using microbial cells, often engineered and cultivated in unnatural chemical environments.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697716v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697716v1?rss=1"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Using an extended fluctuation assay, this preprint shows that Saccharomyces cerevisiae exhibits lower spontaneous DNA mutation rates under nutritional and engineered-genotype conditions that reduce specific growth rate, with implications for how growth-linked mutation dynamics shape evolvability (indirectly relevant to Origins-of-Life questions)."
+    }
+  },
+  {
+    "title": "Bedaquiline inhibits the ATP synthase leak channel and prevents glutamate-induced neuronal death",
+    "summary": "FOF1-ATP synthase is one of the most abundant proteins of the mitochondrial inner membrane and the primary enzyme responsible for ATP production in eukaryotic cells. Nevertheless, it was recently reported to play a prominent role in cell death by forming a large-conductance leak channel in the mitochondrial permeability transition pore (mPTP), making it a promising therapeutic target. Bedaquiline (BDQ), a member of the diarylquinoline class of drugs, was shown to selectively inhibit the catalytic activity of Mycobacterium tuberculosis ATP synthase with no effect on the mammalian enzyme. Here, we report a new role for BDQ as a potent inhibitor of the ATP synthase c-subunit leak channel in mammals. BDQ inhibited the single-channel activity of porcine heart ATP synthase in planar lipid bilayer recordings and prevented glutamate-induced cell death in primary hippocampal neurons. These findings reveal the potential new application of BDQ for treating mPTP-related diseases by targeting the ATP synthase c-subunit leak channel.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697836v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697836v1?rss=1"
+    ],
+    "matched_keywords": [
+      "eukaryo*"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "This preprint reports that bedaquiline inhibits a mammalian ATP synthase c-subunit leak channel implicated in the mitochondrial permeability transition pore, protecting neurons from glutamate-induced death, with only tangential relevance to origins-of-life via core bioenergetics in eukaryotes."
+    }
+  },
+  {
+    "title": "Protein Language Models and Structure-Based Machine Learning for Prediction of Allosteric Binding Sites in Protein Kinases: An Explainable AI Framework Grounded in Energy Landscape-Encoded Frustration",
+    "summary": "Reliable identification of allosteric binding sites remains a major bottleneck in structure-based drug discovery, particularly in protein kinase families where such sites are often structurally cryptic, evolutionarily nonconserved, and sparsely populated. In this work, we present a systematic analysis of binding site prediction across a rigorously curated dataset of human kinase-ligand complexes, encompassing 453 kinases and spanning five inhibitor classes: Type I, Type I.5, and Type II (orthosteric ATP-competitive) and Type III/IV (non-ATP allosteric) modulators. We employed the pretrained protein language model (PLM) ESM2-650M model that was fine-tuned for prediction of protein-ligand binding sites by replacing the original masked language modeling head with a token-level classification head that acts as a projection layer that maps the high-dimensional latent representation of each residue to a scalar probability score for a given protein residue to be part of the binding site. We employed this fine-tuned sequence-based PLM and structure-based detection approach P2Rank for identification of orthosteric and allosteric binding sites in protein kinases. Our analysis reveals a stark performance divergence: while both methods achieve high precision-recall (AUPR = 0.64-0.76) on orthosteric sites, PLM performance collapses on allosteric sites (AUPR = 0.06), despite retaining moderate ranking ability (AUROC = 0.70). This deficit persists even after strict control for sequence similarity, structural redundancy, and extreme class imbalance (allosteric residues constitute <3% of the kinase domain). To mechanistically interpret this discrepancy, we integrate large-scale local frustration analysis, a physics-based framework derived from energy landscape theory that quantifies the energetic stability of residue-residue interactions under mutational and conformational perturbations. We find that, although the global frustration landscape is conserved across kinase states dominated by neutral frustration (55-75% of residues), local binding sites exhibit fundamentally distinct mutational constraints. Orthosteric pockets are enriched in minimally frustrated residues, whereas allosteric sites are characterized by neutral mutational frustration, indicating evolutionary permissiveness and sequence degeneracy. This study reframes the performance of AI approaches in predicting protein binding sites as a reflection of functional design that can be rationalized through lens of the landscape-encoded protein frustration as an explainable AI framework.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697819v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Influenza hemagglutinin subtypes have different sequence constraints despite sharing extremely similar structures",
+    "summary": "Hemagglutinins (HA) from different influenza A virus subtypes share as little as ~40% amino acid identity, yet their protein structure and cell entry function are highly conserved. Here we examine the extent that sequence constraints on HA differ across three subtypes. To do this, we first use pseudovirus deep mutational scanning to measure how all amino-acid mutations to an H7 HA affect its cell entry function. We then compare these new measurements to previously described measurements of how all mutations to H3 and H5 HAs affect cell entry function. We find that ~50% of HA sites display substantially diverged preferences for different amino acids across the HA subtypes. The sites with the most divergent amino-acid preferences tend to be buried and have biochemically distinct wildtype amino acids in the different HA subtypes. We provide an example of how rewiring the interactions among contacting residues has dramatically shifted which amino acids are tolerated at specific sites. Overall, our results show how proteins with the same structure and function can become subject to very different site-specific evolutionary constraints as their sequences diverge.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697808v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Structural investigation of an engineered feruloyl esterase with improved MHET degrading properties",
+    "summary": "MHETases are enzymes implicated in polyethylene terephthalate (PET) biodegradation. The present study elucidates the structural determinants that result in increased mono(2-hydroxyethyl) terephthalate (MHET) degradation by a feruloyl esterase, which has been engineered to resemble MHETase active site. The crystal structures of the variant in apo and benzoic acid bound state reveal the changes induced by the introduced mutation, specifically the formation of a hydrogen bond and a trans to cis isomerization of a peptide bond in the vicinity of the catalytic site. Molecular dynamics simulations demonstrate the stabilization of the loop harboring the engineered residue, as well as an expansion of the substrate binding cleft, which would facilitate accommodation of a broader variety of substrates, indicative of a promiscuous biocatalyst.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697840v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Delta PSA: A New Metric for Conformational Dynamics Underlying Macrocyclic Peptide Permeability",
+    "summary": "Development of oral cyclic drugs often suffers from low oral bioavailability resulting from limited passive permeability making accurate prediction a central challenge in drug development. Existing approaches generally fall into two categories: deep learning, based models and accelerated molecular dynamics (aMD) simulations. While deep learning models enable rapid, high throughput predictions, they often suffer from dependence on training data, and sensitivity to dataset biases. On the other hand, aMD provide mechanistic interpretability by explicitly modeling peptide translocation across lipid bilayers, however, suffer from huge computational cost. Here, we present a conventional MD-based framework for predicting macrocyclic peptide permeability, designed to facilitate interpretation. Importantly, we show that Delta PSA directly quantifies a peptide's chameleon propensity, providing a mechanistically meaningful measure. Furthermore, we identify two key structural indicators, the sidechain PSA ratio and the radius of gyration, as refined metrics for assessing conformational behavior. When applied to a benchmark dataset of macrocyclic peptides, our framework achieves an MSE of 0.22, surpassing the 0.25 reported for Multi_CycGT and demonstrating its superior performance. Our work also provides a large dataset of MD trajectories for macrocyclic peptides in both polar and nonpolar environments. This dataset offers access to a broader conformational space for cyclic peptide studies.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697862v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Advancing censored geochemical Au prediction through Bayesian spatial models and Random Forest with fractal-based background separation",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-34999-4\">doi:10.1038/s41598-026-34999-4</a></p>Advancing censored geochemical Au prediction through Bayesian spatial models and Random Forest with fractal-based background separation",
+    "url": "https://www.nature.com/articles/s41598-026-34999-4",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Astronomers May Have Unlocked the Reason for Betelgeuse\u2019s Bizarre Dimming",
+    "summary": "<p>Researchers found evidence that a companion star may be influencing Betelgeuse, explaining why the latter star&rsquo;s brightness changes over time</p>",
+    "url": "https://www.scientificamerican.com/article/astronomers-may-have-unlocked-the-reason-for-betelgeuses-bizarre-dimming/",
+    "published_date": "2026-01-06T18:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Circulating miR-4532 is associated with loss of ambulation in dysferlinopathy",
     "summary": "Background: Limb-girdle muscular dystrophies (LGMDs) are inherited myopathies characterized mainly by progressive weakness of the proximal muscles of the shoulder and pelvic girdle areas, leading to functional decline and eventual loss of independent ambulation. Dysferlinopathy (LGMD2B) is an autosomal recessive LGMD subtype, is caused by mutations in the DYSF gene that lead to lack of dysferlin which results in muscle death and chronic muscle fiber degeneration. Preservation of ambulation is a key clinical milestone, as loss of independent gait markedly reduces quality of life and complicates care management. Although patients often perceive functional decline before their initial clinical presentation, current clinical assessments typically detect disease progression after substantial muscle damage has occurred. Methods: In this multigroup case-control study, we profiled plasma miRNAs from 49 genetically confirmed dysferlinopathy patients (24 ambulatory, 25 non-ambulatory) and 25 age- and sex-matched healthy controls. Total RNA was extracted from blood samples and hybridized to Affymetrix GeneChip miRNA 3.1 arrays. After quality control and filtering, differential expression analysis was performed using linear models for microarrays, adjusting for age and sex, with a false discovery rate cutoff of 10%. Results: 14 miRNAs were significantly altered between dysferlinopathy patients and controls. Notably, miR-4532 was upregulated in ambulatory patients relative to controls, whereas it was downregulated in non-ambulatory patients compared with ambulatory patients, although expression levels remained higher than in controls. Levels of miR-4532 were positively associated with circulating monocyte levels in ambulatory patients only.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697793v1?rss=1",

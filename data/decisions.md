@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Bedaquiline inhibits the ATP synthase leak channel and preve](https://www.biorxiv.org/content/10.64898/2026.01.05.697836v1?rss=1) |
+| ai_scored | 55 | [Spontaneous mutation rate in Saccharomyces cerevisiae is low](https://www.biorxiv.org/content/10.64898/2026.01.06.697716v1?rss=1) |
+| keyword_rejected | - | [Astronomers May Have Unlocked the Reason for Betelgeuse’s Bi](https://www.scientificamerican.com/article/astronomers-may-have-unlocked-the-reason-for-betelgeuses-bizarre-dimming/) |
+| keyword_rejected | - | [Advancing censored geochemical Au prediction through Bayesia](https://www.nature.com/articles/s41598-026-34999-4) |
+| keyword_rejected | - | [Delta PSA: A New Metric for Conformational Dynamics Underlyi](https://www.biorxiv.org/content/10.64898/2026.01.06.697862v1?rss=1) |
+| keyword_rejected | - | [Structural investigation of an engineered feruloyl esterase ](https://www.biorxiv.org/content/10.64898/2026.01.05.697840v1?rss=1) |
+| keyword_rejected | - | [Influenza hemagglutinin subtypes have different sequence con](https://www.biorxiv.org/content/10.64898/2026.01.05.697808v1?rss=1) |
+| keyword_rejected | - | [Protein Language Models and Structure-Based Machine Learning](https://www.biorxiv.org/content/10.64898/2026.01.05.697819v1?rss=1) |
 | ai_scored | 5 | [Circulating miR-4532 is associated with loss of ambulation i](https://www.biorxiv.org/content/10.64898/2026.01.05.697793v1?rss=1) |
 | keyword_rejected | - | [Jellyfish sleep like humans — even though they don’t have br](https://www.nature.com/articles/d41586-026-00044-7) |
 | keyword_rejected | - | [Dauphins: un rapport scientifique explore des alternatives à](https://www.sciencesetavenir.fr/nature-environnement/dauphins-un-rapport-scientifique-explore-des-alternatives-a-la-fermeture-de-la-peche_190294?xtor=RSS-15) |
