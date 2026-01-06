@@ -1,5 +1,260 @@
 [
   {
+    "title": "House sparrows can help us save endangered species: A mathematical framework for genomic prediction",
+    "summary": "Researchers are trying to understand why some wild species do better than others over time, as the environment changes.",
+    "url": "https://phys.org/news/2026-01-house-sparrows-endangered-species-mathematical.html",
+    "published_date": "2026-01-06T15:08:25Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "This paper presents a mathematical framework for genomic prediction in house sparrows to inform conservation outcomes, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology topics."
+    }
+  },
+  {
+    "title": "Dale Andersen\u2019s Astrobiology Antarctic Status Report: 6 January 2026: Flying South to Novolazarevskaya Station, Antarctica",
+    "summary": "<p>Keith\u2019s note: Astrobiologist Dale Andersen is heading back in Antarctica at Lake Untersee in January-February 2026 for another field season of research. After a 5-6 hr flight from Cape Town, South Africa, Dale and his team will land at the Novolazarevskaya Station ice-runway in Antarctica. They will unpack, gather their stored gear, and prepare for [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-6-january-2026-flying-south-to-novolazarevskaya-station-antarctica.html\">Dale Andersen\u2019s Astrobiology Antarctic Status Report: 6 January 2026: Flying South to Novolazarevskaya Station, Antarctica</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-6-january-2026-flying-south-to-novolazarevskaya-station-antarctica.html",
+    "published_date": "2026-01-06T14:56:53Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*",
+      "water"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Field-status travel report on an astrobiology expedition to Antarctica (Lake Untersee/Novolazarevskaya logistics), providing broad contextual relevance but no direct origins-of-life, prebiotic chemistry, or biosignature science content in the abstract."
+    }
+  },
+  {
+    "title": "Filament assembly induced by the recognition of target DNA activates the prokaryotic Argonaute SPARDA system",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68195-1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-68195-1"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "This Nature Communications study shows that target-DNA recognition triggers filament self-assembly to activate the prokaryotic Argonaute SPARDA defense system, offering broad origins-of-life relevance through nucleic-acid\u2013driven molecular assembly mechanisms."
+    }
+  },
+  {
+    "title": "Orange pigments in birds and human redheads prevent cellular damage, study shows",
+    "summary": "A pigment that makes feathers and hair orange helps prevent cellular damage by removing excess cysteine from cells. Pheomelanin is an orange-to-red pigment that is built with the amino acid cysteine and found in human red hair and fair skin, as well as in bird feathers. Previous research has shown that pheomelanin is associated with increased melanoma risk, raising questions about why evolution has maintained genetic variants that promote pheomelanin production.",
+    "url": "https://phys.org/news/2026-01-orange-pigments-birds-human-redheads.html",
+    "published_date": "2026-01-06T15:16:13Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Study reports that pheomelanin (orange/red pigment in birds and human redheads) may protect cells by scavenging excess cysteine, offering an evolutionary/biochemical insight but little direct relevance to origins-of-life or astrobiology."
+    }
+  },
+  {
+    "title": "To understand exoplanet habitability, we need a better understanding of stellar flaring",
+    "summary": "One of the main questions in exoplanet science concerns M dwarfs (red dwarfs) and the habitability of exoplanets that orbit them. These stars are known for their prolific and energetic flaring, and that's a problem. M dwarfs are so small that their habitable zones are in tight proximity to them, putting any potentially habitable planets in the direct line of fire of all this dangerous flaring.",
+    "url": "https://phys.org/news/2026-01-exoplanet-habitability-stellar-flaring.html",
+    "published_date": "2026-01-06T14:25:40Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*",
+      "exoplanet",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Error"
+    }
+  },
+  {
+    "title": "How a biological version of rock-paper-scissors determines if lizard colors are maintained or lost",
+    "summary": "Two new studies into lizard colors reveal how one species maintains its colorful diversity while others are losing their ancient colors. And the changes are being driven by the biological equivalent of rock-paper-scissors.",
+    "url": "https://phys.org/news/2026-01-biological-version-paper-scissors-lizard.html",
+    "published_date": "2026-01-06T14:40:04Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Error"
+    }
+  },
+  {
+    "title": "Unconventional polaronic ground state in superconducting LiTi<sub>2</sub>O<sub>4</sub>",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68068-7\">doi:10.1038/s41467-025-68068-7</a></p>The authors study epitaxial thin films of the pyrochlore-sublattice compound LiTi2O4 by RIXS and ARPES. They observe cooperation between strong electron correlations and strong electron-phonon coupling, giving rise to a mobile polaronic ground state in which charge motion and lattice distortions are coupled.",
+    "url": "https://www.nature.com/articles/s41467-025-68068-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Retraction Note: The influence of exploration activities of a potential lithium mine to the environment in Western Serbia",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33959-8\">doi:10.1038/s41598-025-33959-8</a></p>Retraction Note: The influence of exploration activities of a potential lithium mine to the environment in Western Serbia",
+    "url": "https://www.nature.com/articles/s41598-025-33959-8",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Black hole shreds distant 'super sun,' unleashing a spectacular event known as the Whippet",
+    "summary": "A black hole has shredded a massive star like it was \"preparing a snack for lunch,\" according to a team of scientists at the American Astronomical Society's annual meeting (5\u20138 January).",
+    "url": "https://phys.org/news/2026-01-black-hole-shreds-distant-super.html",
+    "published_date": "2026-01-06T14:55:49Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ALMA devours cosmic 'hamburger,' reveals potential for giant planet formation",
+    "summary": "Have you ever found something unexpected in your hamburger? Astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA) were surprised to discover the very earliest phases of giant planet formation between the dense layers of gas and dust in the \"Gomez's Hamburger\" system, referred to as GoHam. This research, currently in preparation for publication, was presented at a press conference at the American Astronomical Society's annual meeting (AAS 2026), held  January 4\u20138 in Phoenix.",
+    "url": "https://phys.org/news/2026-01-alma-devours-cosmic-hamburger-reveals.html",
+    "published_date": "2026-01-06T14:26:45Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stars and planets are linked together, and dust is the key to understanding how",
+    "summary": "Stars and planets are inextricably linked. They form together and stars shape the fate of planets. Stars create the dusty protoplanetary disks that give birth to planets of all kinds. And when a star dies, planets are either blown apart, swallowed, or doomed to spend an eternity in cold and darkness.",
+    "url": "https://phys.org/news/2026-01-stars-planets-linked-key.html",
+    "published_date": "2026-01-06T14:24:10Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Astronomers build molecular cloud atlas for nearby Andromeda galaxy",
+    "summary": "Astronomers from Cardiff University, UK, have employed the Combined Array for Research in Millimeter-wave Astronomy (CARMA) to explore the nearby Andromeda galaxy. Results of the observational campaign, published December 27 on the pre-print server arXiv, yield important insights into the molecular cloud system of this galaxy.",
+    "url": "https://phys.org/news/2026-01-astronomers-molecular-cloud-atlas-nearby.html",
+    "published_date": "2026-01-06T14:20:55Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nouvelles esp\u00e8ces, chats domestiqu\u00e9s et mutations g\u00e9n\u00e9tiques analys\u00e9es par l'IA : l'actu des sciences",
+    "summary": "Au sommaire des ultrabr\u00e8ves du 6 janvier 2026 : le&nbsp;rythme annuel&nbsp;important de d\u00e9couverte des esp\u00e8ces, l'origine chinoise de la domestication&nbsp;des chats et l'identification des mutations g\u00e9n\u00e9tiques par l'intelligence artificielle.&nbsp;",
+    "url": "https://www.sciencesetavenir.fr/ultrabreves/l-actu-des-sciences-en-ultrabreves_190287",
+    "published_date": "2026-01-06T15:07:55Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Defossilize our chemical world",
+    "summary": "<p>Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00005-0\">doi:10.1038/d41586-026-00005-0</a></p>Achieving net zero means eliminating fossil fuels, not carbon \u2014 the chemical element has a crucial part to play in powering the modern world.",
+    "url": "https://www.nature.com/articles/d41586-026-00005-0",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The first commercial space stations will start orbiting Earth in 2026",
+    "summary": "For nearly three decades, the International Space Station has been the only destination in low Earth orbit, but that will change this year. Could it be the start of a thriving economy in space?",
+    "url": "https://www.newscientist.com/article/2509494-the-first-commercial-space-stations-will-start-orbiting-earth-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T14:00:42Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "US will need both carrots and sticks to reach net zero",
+    "summary": "Modelling suggests both carbon taxes and green subsidies will be necessary to decarbonise the US economy, but the inconsistent policies of successive presidents are the \"worst case\" scenario",
+    "url": "https://www.newscientist.com/article/2509789-us-will-need-both-carrots-and-sticks-to-reach-net-zero/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T12:00:22Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The first commercial space stations will start orbiting Earth in 2026",
+    "summary": "For nearly three decades, the International Space Station has been the only destination in low Earth orbit, but that will change this year. Could it be the start of a thriving economy in space?",
+    "url": "https://www.newscientist.com/article/2509494-the-first-commercial-space-stations-will-start-orbiting-earth-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T14:00:42Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "US will need both carrots and sticks to reach net zero",
+    "summary": "Modelling suggests both carbon taxes and green subsidies will be necessary to decarbonise the US economy, but the inconsistent policies of successive presidents are the \"worst case\" scenario",
+    "url": "https://www.newscientist.com/article/2509789-us-will-need-both-carrots-and-sticks-to-reach-net-zero/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T12:00:22Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The first commercial space stations will start orbiting Earth in 2026",
+    "summary": "For nearly three decades, the International Space Station has been the only destination in low Earth orbit, but that will change this year. Could it be the start of a thriving economy in space?",
+    "url": "https://www.newscientist.com/article/2509494-the-first-commercial-space-stations-will-start-orbiting-earth-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T14:00:42Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "US will need both carrots and sticks to reach net zero",
+    "summary": "Modelling suggests both carbon taxes and green subsidies will be necessary to decarbonise the US economy, but the inconsistent policies of successive presidents are the \"worst case\" scenario",
+    "url": "https://www.newscientist.com/article/2509789-us-will-need-both-carrots-and-sticks-to-reach-net-zero/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T12:00:22Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Decoding the biogenesis of HIV-induced CPSF6 puncta and their fusion with nuclear speckles",
     "summary": "Viruses rely on host cellular machinery for replication. After entering the nucleus, the HIV genome accumulates in nuclear niches where it undergoes reverse transcription and integrates into neighbouring chromatin, promoting high transcription rates and new virus progeny. Despite antiretroviral treatment, viral genomes can persist in these nuclear niches and reactivate upon treatment interruption, raising the possibility that they could play a role in the establishment of viral reservoirs. The post-nuclear entry dynamics of HIV remain unclear, and understanding these steps is critical for revealing how viral reservoirs are established. In this study, we elucidate the formation of HIV-induced CPSF6 puncta and the domains of CPSF6 essential for this process. We also explore the roles of nuclear speckle (NS) scaffold factors, SON and SRRM2, in the biogenesis of these puncta. Through genetic manipulation and depletion experiments, we demonstrate the key role of the intrinsically disordered region of SRRM2 in enlarging NSs in the presence of the HIV capsid. We identify the FG domain of CPSF6 as essential for both puncta formation and binding to the viral core, which serves as the scaffold for CPSF6 puncta. While the low-complexity regions modulate CPSF6 binding to the viral capsid, they do not contribute to puncta formation, nor do the disordered mixed charge domains of CPSF6. Interestingly, the FG peptide facilitates viral replication. These results demonstrate how HIV evolved to hijack host nuclear factors, enabling its persistence in the host. Of note, this study provides new insights into the underlying interactions between host factors and viral components, advancing our understanding of HIV nuclear dynamics and offering potential therapeutic targets for preventing viral persistence.",
     "url": "https://elifesciences.org/articles/103725",

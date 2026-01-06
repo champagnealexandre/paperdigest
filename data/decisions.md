@@ -1,5 +1,25 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [How a biological version of rock-paper-scissors determines i](https://phys.org/news/2026-01-biological-version-paper-scissors-lizard.html) |
+| ai_scored | 0 | [To understand exoplanet habitability, we need a better under](https://phys.org/news/2026-01-exoplanet-habitability-stellar-flaring.html) |
+| ai_scored | 15 | [Orange pigments in birds and human redheads prevent cellular](https://phys.org/news/2026-01-orange-pigments-birds-human-redheads.html) |
+| ai_scored | 55 | [Filament assembly induced by the recognition of target DNA a](https://www.nature.com/articles/s41467-025-68195-1) |
+| ai_scored | 40 | [Dale Andersen’s Astrobiology Antarctic Status Report: 6 Janu](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-6-january-2026-flying-south-to-novolazarevskaya-station-antarctica.html) |
+| ai_scored | 0 | [House sparrows can help us save endangered species: A mathem](https://phys.org/news/2026-01-house-sparrows-endangered-species-mathematical.html) |
+| keyword_rejected | - | [US will need both carrots and sticks to reach net zero](https://www.newscientist.com/article/2509789-us-will-need-both-carrots-and-sticks-to-reach-net-zero/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The first commercial space stations will start orbiting Eart](https://www.newscientist.com/article/2509494-the-first-commercial-space-stations-will-start-orbiting-earth-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [US will need both carrots and sticks to reach net zero](https://www.newscientist.com/article/2509789-us-will-need-both-carrots-and-sticks-to-reach-net-zero/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The first commercial space stations will start orbiting Eart](https://www.newscientist.com/article/2509494-the-first-commercial-space-stations-will-start-orbiting-earth-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [US will need both carrots and sticks to reach net zero](https://www.newscientist.com/article/2509789-us-will-need-both-carrots-and-sticks-to-reach-net-zero/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The first commercial space stations will start orbiting Eart](https://www.newscientist.com/article/2509494-the-first-commercial-space-stations-will-start-orbiting-earth-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Defossilize our chemical world](https://www.nature.com/articles/d41586-026-00005-0) |
+| keyword_rejected | - | [Nouvelles espèces, chats domestiqués et mutations génétiques](https://www.sciencesetavenir.fr/ultrabreves/l-actu-des-sciences-en-ultrabreves_190287) |
+| keyword_rejected | - | [Astronomers build molecular cloud atlas for nearby Andromeda](https://phys.org/news/2026-01-astronomers-molecular-cloud-atlas-nearby.html) |
+| keyword_rejected | - | [Stars and planets are linked together, and dust is the key t](https://phys.org/news/2026-01-stars-planets-linked-key.html) |
+| keyword_rejected | - | [ALMA devours cosmic 'hamburger,' reveals potential for giant](https://phys.org/news/2026-01-alma-devours-cosmic-hamburger-reveals.html) |
+| keyword_rejected | - | [Black hole shreds distant 'super sun,' unleashing a spectacu](https://phys.org/news/2026-01-black-hole-shreds-distant-super.html) |
+| keyword_rejected | - | [Retraction Note: The influence of exploration activities of ](https://www.nature.com/articles/s41598-025-33959-8) |
+| keyword_rejected | - | [Unconventional polaronic ground state in superconducting LiT](https://www.nature.com/articles/s41467-025-68068-7) |
 | keyword_rejected | - | [Ce dinosaure lancé à pleine vitesse rivalise avec Usain Bolt](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/ce-dinosaure-mongol-lance-a-pleine-vitesse-rivalise-avec-usain-bolt_190281?xtor=RSS-4) |
 | keyword_rejected | - | [The poetic life and death of a glow-worm](https://www.nature.com/articles/d41586-025-03990-w) |
 | keyword_rejected | - | [Tracking the protein conformational motions driving HIV-1 me](https://www.nature.com/articles/s41598-025-33350-7) |
