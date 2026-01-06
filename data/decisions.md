@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Heterogeneity of genetic sequence within quasi-species of in](https://elifesciences.org/articles/108882) |
+| keyword_rejected | - | [Quantum and thermodynamic evaluation of C<sub>24</sub> fulle](https://www.nature.com/articles/s41598-025-34744-3) |
+| keyword_rejected | - | [A fast, accurate and oscillation-free spectral collocation s](https://www.nature.com/articles/s41598-025-16905-6) |
+| keyword_rejected | - | [Selecting high-yield forage sorghum genotypes for ensiling: ](https://www.nature.com/articles/s41598-025-34020-4) |
+| keyword_rejected | - | [Design, Synthesis, and Anti-Melanoma Activity Study of Cinna](https://dx.doi.org/10.26434/chemrxiv-2026-d0h8f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Development of Functional Coatings from Amphiphilic Polymer ](https://dx.doi.org/10.26434/chemrxiv-2026-znpqg?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [La mystérieuse « bande de trous » inca de Monte Sierpe serai](https://www.pourlascience.fr/sd/archeologie/la-mysterieuse-bande-de-trous-inca-de-monte-sierpe-serait-un-centre-de-collecte-des-impots-28510.php) |
 | keyword_rejected | - | [Urban heatwaves reverse vulnerability-resilience relationshi](https://www.nature.com/articles/s42949-025-00327-4) |
 | keyword_rejected | - | [A Systematic Review of Prompt Engineering Paradigms in Organ](https://dx.doi.org/10.26434/chemrxiv-2026-625v3?rft_dat=source%3Ddrss) |

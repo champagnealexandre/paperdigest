@@ -3,8 +3,31 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T07:23:18.091742+00:00</updated>
+  <updated>2026-01-06T08:25:40.740749+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] eLife - recent issues ▶ Heterogeneity of genetic sequence within quasi-species of influenza virus revealed by single-molecule sequencing</title>
+    <link href="https://elifesciences.org/articles/108882"/>
+    <id>https://elifesciences.org/articles/108882</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Influenza viruses exhibit high mutation rates and extensive genetic diversity, which hinder effective vaccine development and facilitate immune evasion (Taubenberger and Morens, 2006; Barr et al., 201</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, RNA</p>
+<p><strong>AI Decision:</strong> Single-molecule (UMI-corrected) sequencing resolves ultra-low-frequency mutations within influenza RNA quasi-species, quantifying intra-host genetic diversity and selective constraints with information-theoretic metrics.</p>
+<p><strong>Abstract:</strong> Influenza viruses exhibit high mutation rates and extensive genetic diversity, which hinder effective vaccine development and facilitate immune evasion (Taubenberger and Morens, 2006; Barr et al., 2010). These mutations arise from the error-prone viral RNA-dependent RNA polymerase, generating highly heterogeneous viral populations within individual hosts that conform to the quasi-species model of a cloud of related genomes evolving under selection (Domingo et al., 2012). Accurate characterization of this intra-host diversity is crucial for understanding viral evolution and improving vaccine design, yet conventional RNA sequencing often fails to detect low-frequency variants because of technical errors during sample preparation and sequencing. Here, we implement a single unique molecular identifier strategy that reduces sequencing artifacts and achieves an error rate of ~10⁻⁵, enabling single-particle–level quantification of quasi-species diversity. Mutation frequencies greatly exceeding background error confirm their biological origin, while information-theoretic metrics such as Shannon entropy and Jensen–Shannon divergence reveal non-random mutation distributions under selective constraints. This framework supports detailed studies of intra-host viral evolution and may inform artificial intelligence-driven prediction of mutational trajectories and more effective influenza vaccine strategies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/30705374">https://www.ncbi.nlm.nih.gov/pubmed/30705374</a></li>
+<li><a href="https://doi.org/10.1007/BF01719678">https://doi.org/10.1007/BF01719678</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/34128955">https://www.ncbi.nlm.nih.gov/pubmed/34128955</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/29304222">https://www.ncbi.nlm.nih.gov/pubmed/29304222</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/17108046">https://www.ncbi.nlm.nih.gov/pubmed/17108046</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/19516283">https://www.ncbi.nlm.nih.gov/pubmed/19516283</a></li>
+<li><a href="https://doi.org/10.7554/eLife.108882.3.sa0">https://doi.org/10.7554/eLife.108882.3.sa0</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/31242907">https://www.ncbi.nlm.nih.gov/pubmed/31242907</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/27061888">https://www.ncbi.nlm.nih.gov/pubmed/27061888</a></li>
+<li><a href="https://doi.org/10.1186/1743-422X-8-250">https://doi.org/10.1186/1743-422X-8-250</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/108882">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] ChemRxiv ▶ Enantioselective Hydrogen Atom Relay via Non-covalent Catalyst Assembly</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss"/>
