@@ -1,5 +1,104 @@
 [
   {
+    "title": "Hydration\u2013Complexation Balance in Eu(III)/Er(III) Extraction from Thiocyanate Media by Aliquat\u2011336",
+    "summary": "We report on the speciation of two lanthanides, Eu(III) and Er(III), in aqueous and organic thiocyanate solutions obtained by solvent extraction with a quaternary ammonium extractant (Aliquat-336.thiocyanate, AQ.SCN) in toluene. The connection between the metal extraction behavior and the metal speciation in the two phases is investigated by a combination of spectroscopic techniques including UV-vis, photoluminescence, and ATR-FTIR spectroscopy. Extraction studies show a higher extraction of Er(III) than Eu(III), with extractant dependency exponents of 2 and  1.5 respectively, indicating the formation of -1 to -2 charged anionic complexes in the organic phase. Spectroscopic studies indicate that the anionic complexes are not formed in the aqueous phase for either lanthanide, even at high NaSCN concentrations. Photoluminescence of Eu(III) in the organic phase shows the presence of multiple species with 3 and 5-6 thiocyanate anions in the inner coordination sphere corresponding to the non-integral exponents in extraction studies. ATR-FTIR spectra show differences in the CN stretching region of SCN- for the two lanthanides, corresponding to predominantly inner-sphere coordination of thiocyanate to Eu(III) and outer-sphere coordination to Er(III). Thus, while extraction studies show that the overall charge on the anionic species in the organic phase is greater for Er(III) than Eu(III), spectroscopic results reveal that the number of thiocyanate anions in the inner coordination sphere of Eu(III) is larger than that of Er(III). Thus, a balance of lanthanide hydration and complexation in the organic phase plays a major role in the extraction of lanthanides with AQ.SCN from thiocyanate solutions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9n2kr?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A direct LC\u2013MS/MS method for simultaneous quantitation of bisphenol S, propylparaben, monobutyl phthalate, and their metabolites in human urine",
+    "summary": "Accurate biomonitoring of non-persistent endocrine-disrupting chemicals (EDCs) requires robust quantitative methods for reliable human exposure and risk assessment. Building on previous work showing that direct measurement of bisphenol A and its conjugated metabolites in human urine reveals substantial underestimation in commonly used indirect, hydrolysis-based approaches, this study addresses the broader need for direct assays of other short-lived EDCs. Here, a direct liquid chromatography\u2013tandem mass spectrometry method is developed and validated for the simultaneous quantification of bisphenol S (BPS), propylparaben (PP), monobutyl phthalate (MBP), and their major glucuronide and sulfate conjugates in human urine, and its performance is systematically compared with that of indirect enzymatic hydrolysis\u2013based methods.\n\nChromatographic separation was achieved on a C18 column with gradient elution, and detection employed negative electrospray ionization in multiple reaction monitoring mode. The method exhibited excellent linearity (r\u00b2 > 0.995), low limits of detection (\u22640.1 ng/mL for all analytes except BPS glucuronide), and high precision (CV \u2264 7%) and accuracy (relative error \u2264 10%), fulfilling the U.S. FDA bioanalytical validation criteria. Solid-phase extraction provided quantitative and reproducible recoveries with minimal matrix effects and no detectable carryover. Comparison with indirect enzymatic hydrolysis demonstrated close agreement for BPS and PP but revealed concentration-dependent underestimation of MBP (down to ~65% recovery at higher concentrations) using the indirect method. Application of the validated method to urine samples from 30 second-trimester pregnant women showed that glucuronidated forms accounted for >90% of total analyte concentrations and that total BPS, PP and MBP levels exceeded contemporary National Health and Nutrition Examination Survey (NHANES) estimates. Our findings demonstrate that direct approaches can provide more accurate EDC biomonitoring data, highlighting the need to reevaluate exposure estimates derived from indirect methods in population studies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9h99h?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Generalization and Usability of Co-Folded GPCR\u2013Ligand Complexes: A Physics-Guided Assessment",
+    "summary": "Deep learning co-folding models for end-to-end protein\u2013ligand structure prediction mark a major advance beyond AlphaFold2, yet their reliability for decision-making in drug discovery remains unclear. Here, we benchmark Boltz, a state-of-the-art co-folding model, using a curated set of ligand-bound human G protein-coupled receptors (GPCRs) from families unseen during training. We find that the receptor backbones are generally predicted with reasonable accuracy, but ligand poses often deviate significantly from experimental structures. We then evaluate physics-based refinement with rigid-receptor (Glide) and induced-fit docking (IFD-MD) methods, which recover more than half of the misplaced ligands to near-experimental accuracy. As conventional evaluations for co-folded structures focus on distance-based metrics such as root-mean-squared deviation (RMSD), which can miss subtle but consequential binding-site errors, we carry out a further assessment of Boltz performance using free-energy perturbation (FEP+), which is both accurate and sensitive to starting-structure quality, on curated congeneric ligand series with known binding affinities that target the GPCRs. A significant fraction of the 14 congeneric series tested in this fashion fail to reproduce experimental binding affinities via FEP+ when employing the Boltz generated complex, even when the binding-site RMSD is low in some cases. IFD-MD rescues these failures and restores retrospective FEP signals to native-like level for all of these series. Together, these results delineate current generalization and usability limits of co-folded GPCR\u2013ligand complexes and motivate a workflow that pairs deep learning predictions with physics-based refinement and validation before high-stakes decisions in drug discovery.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1rkqz?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chimeric peptide-based radiopharmaceuticals for glioblastoma imaging and therapy by targeting mHsp70 and enhancing BBB penetration",
+    "summary": "Glioblastoma (GBM) is the most aggressive form of malignant brain cancer. Here, we synthesized two chimeric peptide-based radiopharmaceuticals (Comb-1 and Comb-2) targeted to the membrane-bound form of heat shock protein 70 (mHsp70), which is overexpressed in GMB tissues, for future theranostic applications. The design concept features a DOTA chelator for coordination to different radiometals tethered directly or via the use of a PEG linker to a chimeric peptide. The latter combines the Hsp70-targeting ability of the TPP peptide sequence with the BBB penetration of another 7-amino acid sequence (D-PepH3) derived from the dengue virus capsid protein (DEN2C). The two compounds were successfully radiolabelled with Gallium-67, suitable for single photon emission computed tomography (SPECT) imaging, or with Lutetium-177 for beta- therapy. Further, the in vitro properties of the ligand, including lipophilicity (LogD7.4), human serum albumin (HSA) binding, and stability in human serum were evaluated. The presence of the TPP sequence affected the half-life of the combinatorial peptides. Cytometry assays performed with a fluorescent analogue of Comb-2 confirmed the binding to mHsp70-expressing U87 MG cells. In an in vitro model, all tracers demonstrated the ability to cross the BBB, indicating that conjugation of the mHsp70-targeting peptide to the PepH3 sequence did not impair its translocating properties. Biodistribution experiments of 67Ga-labeled compounds were performed in naive female CD1 mice and showed brain uptake 2 min p.i., as well as renal excretion. For the best performing compound [67Ga]Ga Comb 2 (0.60\u00b10.17 %IA/g (injected activity per gram)), the biodistribution experiment was also performed with perfusion of the organs after the sacrifice, and the results showed retention of radioactivity in the brain (0.14\u00b10.05 %IA/g). Further metabolic studies in murine urine and blood were performed after biodistribution, confirming the stability of the chimeric tracers.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-wrz17?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chicken biliary exosomes ameliorate lipopolysaccharide-induced hepatocyte injury",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33506-5\">doi:10.1038/s41598-025-33506-5</a></p>Chicken biliary exosomes ameliorate lipopolysaccharide-induced hepatocyte injury",
+    "url": "https://www.nature.com/articles/s41598-025-33506-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Selection for high-yielding sugarcane ideotypes and multi-trait selection via MGIDI across different harvesting periods improves sugar quality and yield",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34232-8\">doi:10.1038/s41598-025-34232-8</a></p>Selection for high-yielding sugarcane ideotypes and multi-trait selection via MGIDI across different harvesting periods improves sugar quality and yield",
+    "url": "https://www.nature.com/articles/s41598-025-34232-8",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "11,000-year-old dog skulls reveal a hidden origin story",
+    "summary": "Dogs began diversifying thousands of years earlier than previously believed, with clear differences in size and shape appearing over 11,000 years ago. A massive global analysis of ancient skulls shows that early dogs were already adapting to different roles in human societies. This challenges the idea that dog diversity is mainly a product of recent breeding. Instead, it points to a long process of coevolution between humans and their earliest canine companions.",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260106001920.htm",
+    "published_date": "2026-01-07T04:43:56Z",
+    "source_feed": "ScienceDaily - Evolutionary Biology News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "La g\u00e9ographie des m\u00e9gots de cigarettes reflet des flux humains, selon une \u00e9tude",
+    "summary": "Les m\u00e9gots de cigarettes jet\u00e9s se concentrent dans les lieux les plus fr\u00e9quent\u00e9s et la propret\u00e9 d'une ville ne passe pas seulement par des solutions techniques mais aussi par une meilleure sensibilisation des habitants, selon une \u00e9tude publi\u00e9e mercredi.\nObjet banal mais invisibilis\u00e9, le m\u00e9got est un v\u00e9ritable fl\u00e9au pour les communes, avec 23,5 milliards jet\u00e9s chaque ann\u00e9e. \n\"Plus un lieu est fr\u00e9quent\u00e9, plus il est expos\u00e9\", souligne l'enqu\u00eate r\u00e9alis\u00e9e par l'essayiste Jean-Laurent Cassely pour l'institut Terram.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/la-geographie-des-megots-de-cigarettes-reflet-des-flux-humains-selon-une-etude_190298?xtor=RSS-15",
+    "published_date": "2026-01-07T06:05:03Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Courses-poursuites sur des graphes",
+    "summary": "Le \u00ab\u00a0jeu\u00a0des gendarmes et du voleur\u00a0\u00bb, o\u00f9 des poursuivants cherchent \u00e0 rattraper un fugitif en de d\u00e9pla\u00e7ant sur un graphe, est un champ math\u00e9matique riche et encore actif.",
+    "url": "https://www.pourlascience.fr/sr/logique-calcul/courses-poursuites-sur-des-graphes-28563.php",
+    "published_date": "2026-01-07T06:36:02Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Lanthanum \u03b2-Tetracyanoporphyrin Double-Decker Complexes: Four-Electron Reduction and Slow Ligand Rotation",
     "summary": "Porphyrin double-decker complexes undergo multiple redox processes that significantly alter their structural and electronic properties, although most studies have focused on oxidation processes. Studies of reduction have remained limited, particularly for porphyrin-based systems in which accessing multiply-reduced states remains challenging. Here we report the synthesis and characterization of lanthanum(III) porphyrin double-decker complex [La(CNTPP)2]\u207b that exhibits unprecedented four-electron reduction capability, reaching the pentaanion state. Strategic incorporation of electron-withdrawing cyano groups at the \u03b2-positions shifts the reduction potentials by approximately 1.3 V toward more positive values compared to the tetraphenylporphyrin analogue, enabling reduction at \u20130.78, \u20131.00, \u20131.42, and \u20131.66 V (vs. Fc/Fc\u207a) in DMSO. Single-crystal X-ray diffraction analysis revealed that the complexes adopt the monoanion form with an azimuthal rotation angle of 33\u00b0 and pronounced dome-shaped distortion arising from steric interactions. Variable-temperature NMR studies showed unusually slow ligand rotation with an activation barrier of 17.8 kcal mol\u207b\u00b9, which computational analysis attributed primarily to steric rather than electronic effects. This work demonstrates a rational design strategy for accessing multiply-reduced porphyrin double-decker complexes and opens new possibilities for applications in molecular electronics and redox-switchable molecular devices.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-zx3xh?rft_dat=source%3Ddrss",

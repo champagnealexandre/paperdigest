@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Courses-poursuites sur des graphes](https://www.pourlascience.fr/sr/logique-calcul/courses-poursuites-sur-des-graphes-28563.php) |
+| keyword_rejected | - | [La géographie des mégots de cigarettes reflet des flux humai](https://www.sciencesetavenir.fr/nature-environnement/la-geographie-des-megots-de-cigarettes-reflet-des-flux-humains-selon-une-etude_190298?xtor=RSS-15) |
+| keyword_rejected | - | [11,000-year-old dog skulls reveal a hidden origin story](https://www.sciencedaily.com/releases/2026/01/260106001920.htm) |
+| keyword_rejected | - | [Selection for high-yielding sugarcane ideotypes and multi-tr](https://www.nature.com/articles/s41598-025-34232-8) |
+| keyword_rejected | - | [Chicken biliary exosomes ameliorate lipopolysaccharide-induc](https://www.nature.com/articles/s41598-025-33506-5) |
+| keyword_rejected | - | [Chimeric peptide-based radiopharmaceuticals for glioblastoma](https://dx.doi.org/10.26434/chemrxiv-2026-wrz17?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Generalization and Usability of Co-Folded GPCR–Ligand Comple](https://dx.doi.org/10.26434/chemrxiv-2026-1rkqz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A direct LC–MS/MS method for simultaneous quantitation of bi](https://dx.doi.org/10.26434/chemrxiv-2026-9h99h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Hydration–Complexation Balance in Eu(III)/Er(III) Extraction](https://dx.doi.org/10.26434/chemrxiv-2026-9n2kr?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Sivelestat sodium mitigates lung injury post-acute pulmonary](https://www.nature.com/articles/s41598-025-34824-4) |
 | keyword_rejected | - | [Domain-adaptive faster R-CNN for non-PPE identification on c](https://www.nature.com/articles/s41598-026-35148-7) |
 | keyword_rejected | - | [Accurate quantification of steps from multiple smartphone po](https://www.nature.com/articles/s41598-025-34270-2) |
