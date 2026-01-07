@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T23:18:00.605583+00:00</updated>
+  <updated>2026-01-07T01:22:27.564871+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] Nature Communications ▶ DNA actively regulates the “safety-belt” dynamics of condensin during loop extrusion</title>
+    <link href="https://www.nature.com/articles/s41467-025-68239-6"/>
+    <id>https://www.nature.com/articles/s41467-025-68239-6</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 07 January 2026; doi:10.1038/s41467-025-68239-6 The molecular mechanism underlying DNA entrapment during loop extrusion by condensin remains poorly understood.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Multiscale simulations suggest that DNA actively guides condensin’s flexible “safety-belt” conformation during loop extrusion, informing modern nucleoprotein mechanics with limited direct origins-of-life relevance.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 07 January 2026; doi:10.1038/s41467-025-68239-6 The molecular mechanism underlying DNA entrapment during loop extrusion by condensin remains poorly understood. Here, the authors use multiscale molecular simulations to show that DNA itself steers a flexible “safety belt” in condensin.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-68239-6">https://www.nature.com/articles/s41467-025-68239-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-68239-6">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] cell biology - biorXiv Preprints ▶ Expanding and Decoding the Chemistry of Phospholipid Headgroup in Eukaryotes</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1"/>

@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [DNA actively regulates the “safety-belt” dynamics of condens](https://www.nature.com/articles/s41467-025-68239-6) |
+| keyword_rejected | - | [Visible-light Cr(VI) reduction on a CdS@MOF@C<sub>3</sub>N<s](https://www.nature.com/articles/s41598-025-34727-4) |
+| keyword_rejected | - | [Micro-cavity–induced optical resonance for performance enhan](https://www.nature.com/articles/s41598-026-35105-4) |
+| keyword_rejected | - | [Evaluation of ChatGPT-4o and Gemini for gout management: a c](https://www.nature.com/articles/s41598-026-35166-5) |
+| keyword_rejected | - | [Fast–slow dynamics in a cyanobacteria–phosphorus model](https://www.nature.com/articles/s41598-025-34967-4) |
+| keyword_rejected | - | [Hourglass-shaped GaAs<sub>0.99</sub>Bi<sub>0.01</sub> nanowi](https://www.nature.com/articles/s41598-025-34717-6) |
+| keyword_rejected | - | [Enhanced power capture for the wind turbine system via a nov](https://www.nature.com/articles/s41598-026-35245-7) |
+| keyword_rejected | - | [The novel alumina/CQDs nanocomposites for modifying optical ](https://www.nature.com/articles/s41598-026-35063-x) |
+| keyword_rejected | - | [Long-distance spin transport in frustrated hyperkagome magne](https://www.nature.com/articles/s41467-025-68203-4) |
+| keyword_rejected | - | [A multidimensional workflow profiling of allogeneic virus-sp](https://www.nature.com/articles/s41467-025-67924-w) |
+| keyword_rejected | - | [Spontaneous chlorine production from chloride-containing bri](https://www.nature.com/articles/s41467-025-68181-7) |
+| keyword_rejected | - | [Refrigeration down to 0.16 K using a frustrated magnet Gd<su](https://www.nature.com/articles/s41467-025-68278-z) |
 | keyword_rejected | - | [Early humans may have begun butchering elephants 1.8 million](https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Early humans may have begun butchering elephants 1.8 million](https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Early humans may have begun butchering elephants 1.8 million](https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
