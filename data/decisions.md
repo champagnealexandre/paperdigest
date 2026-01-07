@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [The Race to Find Leonardo da Vinci’s DNA Just Took a Major T](https://www.scientificamerican.com/article/the-race-to-find-leonardo-da-vincis-dna-just-took-a-major-twist/) |
+| keyword_rejected | - | [RFK, Jr., Upsets Food Pyramid, Urging Americans to Eat More ](https://www.scientificamerican.com/article/rfk-jr-upsets-food-pyramid-urging-americans-to-eat-more-meat/) |
+| keyword_rejected | - | [How rethinking your relationship with time could give you mo](https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Super-low-density worlds reveal how common planetary systems](https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Hominin fossils from Morocco may be close ancestors of moder](https://www.newscientist.com/article/2510396-hominin-fossils-from-morocco-may-be-close-ancestors-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [How rethinking your relationship with time could give you mo](https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Super-low-density worlds reveal how common planetary systems](https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Hominin fossils from Morocco may be close ancestors of moder](https://www.newscientist.com/article/2510396-hominin-fossils-from-morocco-may-be-close-ancestors-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [How rethinking your relationship with time could give you mo](https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Super-low-density worlds reveal how common planetary systems](https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Hominin fossils from Morocco may be close ancestors of moder](https://www.newscientist.com/article/2510396-hominin-fossils-from-morocco-may-be-close-ancestors-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Octopus-inspired ‘synthetic skin’ changes colour and texture](https://www.nature.com/articles/d41586-026-00052-7) |
+| keyword_rejected | - | [Making the invisible visible: Space particles become observa](https://phys.org/news/2026-01-invisible-visible-space-particles-handheld.html) |
+| keyword_rejected | - | [A conveyor-belt magneto-optical trap of CaF](https://www.nature.com/articles/s41467-025-67944-6) |
 | ai_scored | 25 | [Tau condensation on DNA mediates microtubule attachment sugg](https://www.nature.com/articles/s41467-025-67888-x) |
 | ai_scored | 35 | [Sandblasting on Mars: Camera reveals how prevailing winds sh](https://phys.org/news/2026-01-sandblasting-mars-camera-reveals-prevailing.html) |
 | ai_scored | 75 | [Organic Carbon In A Submarine Pressure Cooker](https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html) |

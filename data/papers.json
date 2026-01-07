@@ -1,5 +1,168 @@
 [
   {
+    "title": "The Race to Find Leonardo da Vinci\u2019s DNA Just Took a Major Twist",
+    "summary": "<p>Scientists have uncovered genetic evidence that they say may be linked to the Renaissance master, but some experts are more skeptical</p>",
+    "url": "https://www.scientificamerican.com/article/the-race-to-find-leonardo-da-vincis-dna-just-took-a-major-twist/",
+    "published_date": "2026-01-07T17:45:00Z",
+    "source_feed": "Scientific American",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.64898/2026.01.06.697880v1",
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697880v1",
+      "https://www.science.org/content/article/have-scientists-found-leonardo-da-vinci-s-dna"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "A genetics/ancestry study claiming potential identification of Leonardo da Vinci\u2013linked DNA, with no substantive connection to abiogenesis or origins-of-life mechanisms beyond the incidental focus on DNA."
+    }
+  },
+  {
+    "title": "A conveyor-belt magneto-optical trap of CaF",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67944-6\">doi:10.1038/s41467-025-67944-6</a></p>Magneto-optical traps (MOTs) are a workhorse for laser cooling of atoms and were recently extended to molecules. Yet, new mechanisms for molecular trapping and cooling are still an open area of exploration. Here, the authors show a blue-detuned MOT based on a conveyor-belt effect for CaF molecules, yielding higher number densities, comparable with some atomic MOTs.",
+    "url": "https://www.nature.com/articles/s41467-025-67944-6",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Making the invisible visible: Space particles become observable through handheld invention",
+    "summary": "You can't see, feel, hear, taste or smell them, but tiny particles from space are constantly raining down on us.",
+    "url": "https://phys.org/news/2026-01-invisible-visible-space-particles-handheld.html",
+    "published_date": "2026-01-07T18:08:18Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Octopus-inspired \u2018synthetic skin\u2019 changes colour and texture on demand",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00052-7\">doi:10.1038/d41586-026-00052-7</a></p>A material that can switch its appearance, cephalopod-style, could have future applications in robotics or display technology.",
+    "url": "https://www.nature.com/articles/d41586-026-00052-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hominin fossils from Morocco may be close ancestors of modern humans",
+    "summary": "The jawbones and vertebrae of a hominin that lived 773,000 years ago have been found in North Africa and could represent a common ancestor of Homo sapiens, Neanderthals and Denisovans",
+    "url": "https://www.newscientist.com/article/2510396-hominin-fossils-from-morocco-may-be-close-ancestors-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:50Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Super-low-density worlds reveal how common planetary systems form",
+    "summary": "Most planetary systems contain worlds larger than Earth but smaller than Neptune, and the low-density planets around one young star should help us understand how such systems form",
+    "url": "https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:33Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How rethinking your relationship with time could give you more of it",
+    "summary": "You might feel like the days and weeks are slipping by. Here is how one psychologist says you can shift your experience of time",
+    "url": "https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:13Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hominin fossils from Morocco may be close ancestors of modern humans",
+    "summary": "The jawbones and vertebrae of a hominin that lived 773,000 years ago have been found in North Africa and could represent a common ancestor of Homo sapiens, Neanderthals and Denisovans",
+    "url": "https://www.newscientist.com/article/2510396-hominin-fossils-from-morocco-may-be-close-ancestors-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:50Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Super-low-density worlds reveal how common planetary systems form",
+    "summary": "Most planetary systems contain worlds larger than Earth but smaller than Neptune, and the low-density planets around one young star should help us understand how such systems form",
+    "url": "https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:33Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How rethinking your relationship with time could give you more of it",
+    "summary": "You might feel like the days and weeks are slipping by. Here is how one psychologist says you can shift your experience of time",
+    "url": "https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:13Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hominin fossils from Morocco may be close ancestors of modern humans",
+    "summary": "The jawbones and vertebrae of a hominin that lived 773,000 years ago have been found in North Africa and could represent a common ancestor of Homo sapiens, Neanderthals and Denisovans",
+    "url": "https://www.newscientist.com/article/2510396-hominin-fossils-from-morocco-may-be-close-ancestors-of-modern-humans/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:50Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Super-low-density worlds reveal how common planetary systems form",
+    "summary": "Most planetary systems contain worlds larger than Earth but smaller than Neptune, and the low-density planets around one young star should help us understand how such systems form",
+    "url": "https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:33Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How rethinking your relationship with time could give you more of it",
+    "summary": "You might feel like the days and weeks are slipping by. Here is how one psychologist says you can shift your experience of time",
+    "url": "https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T16:00:13Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "RFK, Jr., Upsets Food Pyramid, Urging Americans to Eat More Meat",
+    "summary": "<p>Nutritional guidelines released on Wednesday by Secretary of Health and Human Services Robert F. Kennedy, Jr., and the USDA emphasize &ldquo;real food&rdquo; that is high in saturated fat, departing from decades of evidence on healthful diets</p>",
+    "url": "https://www.scientificamerican.com/article/rfk-jr-upsets-food-pyramid-urging-americans-to-eat-more-meat/",
+    "published_date": "2026-01-07T17:45:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "A co-evolutionary perspective on humans and <i>Mycobacterium tuberculosis</i> in the era of systems biology",
     "summary": "Tuberculosis is once again the most fatal global infectious disease and has killed many more humans than any other pathogen. Despite the identification of <i>Mycobacterium tuberculosis</i> (Mtb) over 140 years ago, we have yet to control the epidemic. A central issue is the complexity of the host\u2013pathogen interaction, with multiple underlying pathways leading to tuberculosis disease. This intricate relationship stems from the prolonged co-evolution of the pathogen with humans, resulting in diverse immunological processes leading to tuberculosis disease. Conversely, Mtb exposure may give a survival advantage through innate immune training, thereby providing selective pressure over millennia. Emerging methodologies, such as single-cell and spatial transcriptomics, offer a golden opportunity to understand the immunology unpinning this host\u2013pathogen interaction at unprecedented resolution. However, these analyses will be fundamentally flawed if they do not consider the intricacies of human Mtb infection. Here, we propose that attempts to find single immunological mechanisms leading to tuberculosis are hindering progress, and we must embrace the complexity of multiple paths to disease to allow the systems biology era to deliver transformative solutions.",
     "url": "https://elifesciences.org/articles/108175",
