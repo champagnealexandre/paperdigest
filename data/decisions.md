@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 65 | [Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of L](https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html) |
+| ai_scored | 40 | [Dynamic oxygen vacancy engineering on CuO via refreshable ca](https://www.nature.com/articles/s41467-025-68180-8) |
+| ai_scored | 45 | [Vera C. Rubin Observatory spots record-breaking asteroid in ](https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html) |
+| ai_scored | 50 | [Lunar spacecraft exhaust could obscure clues to origins of l](https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html) |
+| keyword_rejected | - | [Humans Made Poisoned Arrowheads Thousands of Years Earlier T](https://www.scientificamerican.com/article/humans-made-poisoned-arrowheads-thousands-of-years-earlier-than-previously/) |
+| keyword_rejected | - | [Oldest known poison arrows show Stone Age humans’ technologi](https://www.nature.com/articles/d41586-026-00051-8) |
+| keyword_rejected | - | [Nombreux incendies en Patagonie argentine: 3.000 touristes é](https://www.sciencesetavenir.fr/nature-environnement/nombreux-incendies-en-patagonie-argentine-3-000-touristes-evacues_190316?xtor=RSS-15) |
+| keyword_rejected | - | [Cross-Domain Transfer Learning from Peptides to Lipids Using](https://www.biorxiv.org/content/10.64898/2026.01.06.697904v1?rss=1) |
+| keyword_rejected | - | [Discovery of potent oligopeptides for various metabolic dise](https://www.biorxiv.org/content/10.64898/2026.01.06.697667v1?rss=1) |
+| keyword_rejected | - | [Adhesion or Vibration? Frequency-Dependent Fingertip Contact](https://www.biorxiv.org/content/10.64898/2026.01.06.697908v1?rss=1) |
 | ai_scored | 45 | [Earth's early sponges were soft: Scientists close fossil rec](https://phys.org/news/2026-01-earth-early-sponges-soft-scientists.html) |
 | ai_scored | 10 | [Pressure dynamics in the bottleneck flow of self-propelled p](http://link.aps.org/doi/10.1103/gqmg-t16q) |
 | ai_scored | 5 | [Dale Andersen’s Astrobiology Antarctic Status Report: 7 Janu](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html) |

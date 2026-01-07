@@ -1,5 +1,143 @@
 [
   {
+    "title": "Lunar spacecraft exhaust could obscure clues to origins of life",
+    "summary": "Over half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of Earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft's touchdown site; even for a landing at the South Pole, methane molecules may \"hop\" across the lunar surface to the North Pole in under two lunar days.",
+    "url": "https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html",
+    "published_date": "2026-01-07T19:31:27Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*",
+      "origin(s) of life"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Study suggests methane exhaust from lunar landers could rapidly migrate and contaminate lunar cold-trap regions, potentially obscuring chemical records relevant to understanding the origins of Earth\u2019s life."
+    }
+  },
+  {
+    "title": "Vera C. Rubin Observatory spots record-breaking asteroid in pre-survey observations",
+    "summary": "Astronomers analyzing data from Vera C. Rubin Observatory have discovered the fastest-ever spinning asteroid with a diameter over half a kilometer\u2014a feat uniquely enabled by Rubin. The study provides crucial information about asteroid composition and evolution, and demonstrates how Rubin is pushing the boundaries of what we can discover within our own solar system.",
+    "url": "https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html",
+    "published_date": "2026-01-07T19:28:23Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Pre-survey Rubin Observatory data reveal a record-breaking fast-spinning large asteroid, informing small-body composition and evolution with only indirect relevance to origins-of-life questions (e.g., planetesimal evolution and delivery of building blocks)."
+    }
+  },
+  {
+    "title": "Dynamic oxygen vacancy engineering on CuO via refreshable catalytic surface for high-efficient water decontamination",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68180-8\">doi:10.1038/s41467-025-68180-8</a></p>This study demonstrates that simple alkali etching enables in-situ regeneration of oxygen vacancies on CuO, enhancing peroxymonosulfate activation for efficient pollutant degradation with a 42-fold increase and long-term stability.",
+    "url": "https://www.nature.com/articles/s41467-025-68180-8",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-68180-8"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Alkali etching is used to refresh oxygen vacancies on CuO, greatly boosting peroxymonosulfate activation for long-lived, high-efficiency water pollutant degradation\u2014relevant mainly as broad catalytic/redox surface chemistry rather than direct origins-of-life work."
+    }
+  },
+  {
+    "title": "Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of Life",
+    "summary": "<p>Over half of the exhaust methane from lunar spacecraft could end up contaminating areas ofthe moon that might otherwise yield clues about the origins of earthly life, according toa recent study. The pollution could unfold rapidly regardless of a spacecraft\u2019s touchdownsite; even for a landing at the South Pole, methane molecules may \u201chop\u201d across the [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html\">Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of Life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html",
+    "published_date": "2026-01-07T19:34:25Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009132",
+      "https://doi.org/10.1029/2025JE009132"
+    ],
+    "matched_keywords": [
+      "astrobio*",
+      "origin(s) of life",
+      "astrochemistry"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "A modeling study suggests methane exhaust from lunar landers can rapidly migrate and contaminate cold-trap regions of the Moon that may preserve pristine organics relevant to reconstructing the origins of life on Earth."
+    }
+  },
+  {
+    "title": "Adhesion or Vibration? Frequency-Dependent Fingertip Contact on Electrostatic Displays",
+    "summary": "Electrostatic actuation enables programmable tactile feedback on touchscreens by modulating finger-surface friction through an oscillating electric field. Previous studies have attributed this modulation to adhesion, where increased real contact area enhances friction. However, adhesion alone cannot explain the frequency-dependent behavior observed under oscillation, indicating a role of vibration-driven fingertip dynamics. Here, finger-glass contact is directly visualized and quantified in 10 participants using frustrated total internal reflection, providing the first time-resolved measurements of real contact area modulation synchronized with normal and tangential forces. The real contact area and tangential force exhibited an inverted U-shaped dependence on actuation frequency, consistent with models of fingertip mass-spring-damper systems and contact mechanics. Below 320 Hz, a vibration regime increased the real contact area more rapidly than the tangential force, reducing interfacial shear stress. At higher frequencies, skin viscoelasticity attenuated oscillations and restored or increased interfacial shear stress, yielding an adhesion regime. Increased fingertip moisture reduced the modulation amplitude of both real contact area and tangential force. These findings reveal how adhesion and vibration jointly govern finger-surface interactions, guiding the design of next-generation electrostatic haptic interfaces.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697908v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Discovery of potent oligopeptides for various metabolic diseases using deep learning",
+    "summary": "Artificial intelligence (AI)-based methods are increasingly critical in peptide drug discovery, but their applications are limited in a narrow scope such as antimicrobial peptides. For indications where peptide therapy inherently excels, such as metabolism, endocrinology, and tissue regeneration, AI-based pipeline for therapeutic peptide discovery is long awaited but still unmet. Here, we propose a deep learning-based pipeline, Deepeptide, capable of identifying therapeutic oligopeptides for various metabolism-related indications. Leveraging the intrinsical relationship of 'disease indication - biological processes - molecular functions', Deepeptide discovers oligopeptides with indication-ameliorating-related molecular functions as lead candidates for indication of interest. Deepeptide was applied in five representative indications of metabolism, endocrinology, and tissue regeneration: angiogenesis, lipid metabolism, osteogenesis, glucose metabolism, and anti-angiogenesis. Overall, 62% of the identified oligopeptide candidates demonstrated significant bioactivity in vitro, with most of them showing comparable potency to the first-line drugs. Notably, the heptapeptide AP7 exhibited angiogenic potency comparable to VEGF in excisional wound splinting mouse model by promoting cell migration rather than proliferation, and hexapeptide TP6 showed significant dual-efficacy against hyperlipidemia and obesity in high-fat diet mice by inhibiting lipid synthesis and regulating gut microbiota. These findings highlight the potential and generalizability of Deepeptide in therapeutic oligopeptide discovery for metabolic diseases.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697667v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cross-Domain Transfer Learning from Peptides to Lipids Using a Multi-Property Fine-Tuned LLM",
+    "summary": "Accurate knowledge of liquid chromatography retention time (RT) is essential for confident compound identification in metabolomics and lipidomics. Yet, it is often constrained by the scarcity of experimental data for many molecular classes. Current workflows depend on experimental RT libraries, which are time-consuming to build and limited to previously observed compounds. Here, we present a transfer learning pipeline that leverages large, publicly available peptide datasets to enable accurate lipid RT prediction in data-sparse scenarios. We first show that a ChemBERTa language model, when pre-trained on peptides with a multi-task objective (predicting both RT and fundamental RDKit molecular descriptors), learns a more robust and generalizable chemical representation than a single-task (RT-only) model. This multi-property pre-training yielded superior generalization in lipids, achieving test correlation coefficient values of 0.842 against 0.814 (RT-only). Crucially, transferring this peptide-based model to lipid data provided a pronounced advantage in data-sparse scenarios. When fine-tuned on only 5% of available lipid data, the transferred model improved the median test correlation coefficient by +0.234 over a model trained from scratch. Significant benefits persisted at intermediate data scales (50-75%), with performance converging only when 100% of the lipid data was used. Notably, the pre-trained model never underperformed the baseline, exhibiting more stable training across all data scales. These results demonstrate that multi-property pre-training guides language models towards chemically meaningful representations that support better RT prediction in different molecular domains. Furthermore, peptide-based pre-training facilitates cross-domain transfer of chemical properties to lipid. Our work provides a practical, scalable strategy to mitigate data scarcity in lipidomics by transferring knowledge from data-rich peptide databases, offering a computational alternative to extensive experimental library generation and enabling more confident identification in small-scale omics studies.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697904v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nombreux incendies en Patagonie argentine: 3.000 touristes \u00e9vacu\u00e9s",
+    "summary": "Au moins 3.000 touristes ont \u00e9t\u00e9 \u00e9vacu\u00e9s dans le sud de l'Argentine \u00e0 cause des multiples incendies qui ravagent des milliers d'hectares en Patagonie, les pires incendies de for\u00eat dans la r\u00e9gion depuis trois d\u00e9cennies.\n\"Nous avons \u00e9vacu\u00e9 plus de 3.000 touristes\" de la station baln\u00e9aire de Puerto Patriada, au nord du lac Epuy\u00e9n, a d\u00e9clar\u00e9 mercredi le gouverneur de la province de Chubut, Ignacio Torres.\nLa nationalit\u00e9 des touristes \u00e9vacu\u00e9s n'\u00e9tait pas connue dans l'imm\u00e9diat.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/nombreux-incendies-en-patagonie-argentine-3-000-touristes-evacues_190316?xtor=RSS-15",
+    "published_date": "2026-01-07T19:02:13Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Oldest known poison arrows show Stone Age humans\u2019 technological talents",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00051-8\">doi:10.1038/d41586-026-00051-8</a></p>Traces of a toxic chemical found on 60,000-year-old arrowheads hint at advanced planning by Palaeolithic hunters.",
+    "url": "https://www.nature.com/articles/d41586-026-00051-8",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Humans Made Poisoned Arrowheads Thousands of Years Earlier Than Previously Thought",
+    "summary": "<p>The use of poison on arrows marked a revolution in human hunting technology&mdash;new evidence suggests it happened tens of thousands of years earlier than previously known</p>",
+    "url": "https://www.scientificamerican.com/article/humans-made-poisoned-arrowheads-thousands-of-years-earlier-than-previously/",
+    "published_date": "2026-01-07T19:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Dale Andersen\u2019s Astrobiology Antarctic Status Report: 7 January 2026: Arrival At Novolazarevskaya Station, Antarctica",
     "summary": "<p>Keith&#8217;s note: I got this update by text from Dale early this morning: Hi Keith, We arrived 6pm UTC Tuesday evening to a bright, sunny windless day with air temps just over freezing. Our flight down was nice and the aircraft should return to CPT (Cape Town) later this morning or afternoon. Sorry I think [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html\">Dale Andersen\u2019s Astrobiology Antarctic Status Report: 7 January 2026: Arrival At Novolazarevskaya Station, Antarctica</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html",
