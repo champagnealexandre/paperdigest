@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [L'interdiction de la pilule abortive au Wyoming jugée illéga](https://www.sciencesetavenir.fr/sante/l-interdiction-de-la-pilule-abortive-au-wyoming-jugee-illegale_190299?xtor=RSS-16) |
+| keyword_rejected | - | [Multi-organ network of cardiometabolic disease-depression mu](https://www.nature.com/articles/s41467-025-68092-7) |
+| keyword_rejected | - | [Spatially resolved integrative analysis of transcriptomic an](https://www.nature.com/articles/s41467-025-68003-w) |
+| keyword_rejected | - | [Accumbal calcium-permeable AMPA receptors orchestrate neuron](https://www.nature.com/articles/s41467-025-67459-0) |
+| keyword_rejected | - | [Airway immune profiles and therapeutic implications of IGF1 ](https://www.nature.com/articles/s41467-025-68104-6) |
+| keyword_rejected | - | [Automatic optimization of flat-field corrections by evaluati](https://www.nature.com/articles/s41467-025-68150-0) |
+| keyword_rejected | - | [Automated image inpainting for historical artifact restorati](https://www.nature.com/articles/s41598-026-35056-w) |
+| keyword_rejected | - | [Huangqin decoction disrupts energy metabolism of <i>Trichoph](https://www.nature.com/articles/s41598-025-34456-8) |
+| keyword_rejected | - | [Alkali/Alkaline Earth Metal-Mediated Mechanochemical Wurtz R](https://dx.doi.org/10.26434/chemrxiv-2026-ppqmj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Alkali/Alkaline Earth Metal-Mediated Mechanochemical Wurtz R](https://dx.doi.org/10.26434/chemrxiv-2026-ppqmj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [QuantumPDB: A Workflow for High-Throughput Quantum Cluster M](https://dx.doi.org/10.26434/chemrxiv-2026-w5x1d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A metal-metal quadruply bonded dimer of two pincer-ligated m](https://dx.doi.org/10.26434/chemrxiv-2026-cxh6t?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Courses-poursuites sur des graphes](https://www.pourlascience.fr/sr/logique-calcul/courses-poursuites-sur-des-graphes-28563.php) |
 | keyword_rejected | - | [La géographie des mégots de cigarettes reflet des flux humai](https://www.sciencesetavenir.fr/nature-environnement/la-geographie-des-megots-de-cigarettes-reflet-des-flux-humains-selon-une-etude_190298?xtor=RSS-15) |
 | keyword_rejected | - | [11,000-year-old dog skulls reveal a hidden origin story](https://www.sciencedaily.com/releases/2026/01/260106001920.htm) |
