@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Sivelestat sodium mitigates lung injury post-acute pulmonary](https://www.nature.com/articles/s41598-025-34824-4) |
+| keyword_rejected | - | [Domain-adaptive faster R-CNN for non-PPE identification on c](https://www.nature.com/articles/s41598-026-35148-7) |
+| keyword_rejected | - | [Accurate quantification of steps from multiple smartphone po](https://www.nature.com/articles/s41598-025-34270-2) |
+| keyword_rejected | - | [Thermotropic liquid-assisted interface management enables ef](https://www.nature.com/articles/s41467-025-68231-0) |
+| keyword_rejected | - | [Quantum mechanical calculations on Ensartinib drug](https://dx.doi.org/10.26434/chemrxiv-2026-fr4rn?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Beyond traditional ligands: chelating peptoids as polydentat](https://dx.doi.org/10.26434/chemrxiv-2026-pbcnj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Memory effects in active droplets](https://dx.doi.org/10.26434/chemrxiv-2026-s6k3g?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Toward fully autonomous closed-loop molecular discovery – A ](https://dx.doi.org/10.26434/chemrxiv-2026-q7xdt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Lightdriven proton-coupled two-electron ligand reduction cau](https://dx.doi.org/10.26434/chemrxiv-2026-b8lbh?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Lanthanum β-Tetracyanoporphyrin Double-Decker Complexes: Fou](https://dx.doi.org/10.26434/chemrxiv-2026-zx3xh?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Adsorption-Calibrated Double Factorization with λ-Metrics fo](https://dx.doi.org/10.26434/chemrxiv-2026-ztrbq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Lanthanum β-Tetracyanoporphyrin Double-Decker Complexes: Fou](https://dx.doi.org/10.26434/chemrxiv-2026-zx3xh?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Fluids at an electrostatically active surface: Optimum in in](https://arxiv.org/abs/2601.02539) |
 | ai_scored | 20 | [Geometric integrators for adiabatically closed simple thermo](https://arxiv.org/abs/2511.14154) |
 | ai_scored | 5 | [Deterministic quantum trajectory via imaginary time evolutio](https://arxiv.org/abs/2504.00210) |

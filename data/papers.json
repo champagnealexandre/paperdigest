@@ -1,5 +1,137 @@
 [
   {
+    "title": "Lanthanum \u03b2-Tetracyanoporphyrin Double-Decker Complexes: Four-Electron Reduction and Slow Ligand Rotation",
+    "summary": "Porphyrin double-decker complexes undergo multiple redox processes that significantly alter their structural and electronic properties, although most studies have focused on oxidation processes. Studies of reduction have remained limited, particularly for porphyrin-based systems in which accessing multiply-reduced states remains challenging. Here we report the synthesis and characterization of lanthanum(III) porphyrin double-decker complex [La(CNTPP)2]\u207b that exhibits unprecedented four-electron reduction capability, reaching the pentaanion state. Strategic incorporation of electron-withdrawing cyano groups at the \u03b2-positions shifts the reduction potentials by approximately 1.3 V toward more positive values compared to the tetraphenylporphyrin analogue, enabling reduction at \u20130.78, \u20131.00, \u20131.42, and \u20131.66 V (vs. Fc/Fc\u207a) in DMSO. Single-crystal X-ray diffraction analysis revealed that the complexes adopt the monoanion form with an azimuthal rotation angle of 33\u00b0 and pronounced dome-shaped distortion arising from steric interactions. Variable-temperature NMR studies showed unusually slow ligand rotation with an activation barrier of 17.8 kcal mol\u207b\u00b9, which computational analysis attributed primarily to steric rather than electronic effects. This work demonstrates a rational design strategy for accessing multiply-reduced porphyrin double-decker complexes and opens new possibilities for applications in molecular electronics and redox-switchable molecular devices.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-zx3xh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Adsorption-Calibrated Double Factorization with \u03bb-Metrics for Qubitization-Oriented Hamiltonians",
+    "summary": "Low-rank factorizations of the two-electron repulsion integral (ERI) tensor are central to reducing fault-tolerant costs of Hamiltonian simulation in quantum chemistry, particularly under qubitization/LCU constructions where both the block-encoding normalization constant \u03bb and the complexity of Prepare/Select depend on the chosen decomposition. We present a CPU-only, FCIDUMP-first workflow that (i) constructs a spectral double factorization (DF) of the ERI supermatrix G_(pq,rs) = (pq|rs), (ii) truncates the factorization at rank r and reports reconstruction residuals, (iii) evaluates DF resource proxies via \u03bb_LCU^DF and \u03bb_Burg^DF, and (iv) selects an operational rank by enforcing an observable-level constraint on a differential quantity: the MP2 correlation contribution to a model adsorption energy, \u0394E_ads,corr. Using NH3 as a minimal Lewis-basic site and CO2 as adsorbate in STO-3G, we sweep intermolecular separations d_N\u00b7\u00b7\u00b7C \u2208 {2.2, 2.6, 3.0} \u00c5 and determine the worst-case feasible rank r_worst as the smallest rank satisfying a predefined adsorption-error tolerance across the geometry set. In this toy benchmark, \u03bb-metrics for the complex saturate at moderate ranks while the differential adsorption observable remains sensitive to intermediate-rank components, demonstrating that \u03bb convergence alone can be insufficient for rank selection when targeting chemically relevant differences. The resulting protocol provides a reproducible bridge between DF-based resource estimation and observable-constrained truncation criteria for qubitization-oriented Hamiltonians.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-ztrbq?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Lanthanum \u03b2-Tetracyanoporphyrin Double-Decker Complexes: Four-Electron Reduction and Slow Ligand Rotation",
+    "summary": "Porphyrin double-decker complexes undergo multiple redox processes that significantly alter their structural and electronic properties, although most studies have focused on oxidation processes. Studies of reduction have remained limited, particularly for porphyrin-based systems in which accessing multiply-reduced states remains challenging. Here we report the synthesis and characterization of lanthanum(III) porphyrin double-decker complex [La(CNTPP)2]\u207b that exhibits unprecedented four-electron reduction capability, reaching the pentaanion state. Strategic incorporation of electron-withdrawing cyano groups at the \u03b2-positions shifts the reduction potentials by approximately 1.3 V toward more positive values compared to the tetraphenylporphyrin analogue, enabling reduction at \u20130.78, \u20131.00, \u20131.42, and \u20131.66 V (vs. Fc/Fc\u207a) in DMSO. Single-crystal X-ray diffraction analysis revealed that the complexes adopt the monoanion form with an azimuthal rotation angle of 33\u00b0 and pronounced dome-shaped distortion arising from steric interactions. Variable-temperature NMR studies showed unusually slow ligand rotation with an activation barrier of 17.8 kcal mol\u207b\u00b9, which computational analysis attributed primarily to steric rather than electronic effects. This work demonstrates a rational design strategy for accessing multiply-reduced porphyrin double-decker complexes and opens new possibilities for applications in molecular electronics and redox-switchable molecular devices.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-zx3xh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Lightdriven proton-coupled two-electron ligand reduction causes the rearrangement of the coordination sphere in Cu(I) 4H-imidazolato complexes",
+    "summary": "The direct conversion of solar light into chemical energy, inspired by natural photosynthesis, presents a promising strat-egy for energy storage and chemical transformations. We investigate this approach using photoactive Cu(I) complexes with the functional 4H-imidazolato ligand for storage of multiple photoredox equivalents. This study demonstrates that these complexes undergo light-driven reduction under a variety of reaction conditions involving different irradiation wavelengths, solvents, and elec-tron/proton donors. We used single-crystal X-ray analysis together with NMR spectroscopy to characterize the isolated photore-duction product. This analysis supports a proton-coupled two-electron transfer mechanism and reveals a significant structural trans-formation of the complex. By employing UV-Vis spectroscopy alongside DFT calculations, we elucidated the mechanisms underlying the photoreduction process, including protonation of both exocyclic nitrogen atoms at the chelating binding site as consequence of the two electron reduction, resulting in the migration of the Cu(I) bisphosphine fragment from the chelating binding site of the imidazolato ligand to form a trigonal-planar Cu(I) 1H-imidazolato complex. This rearrangement drastically changes the shape of the molecule, exposing an additional binding site on the Cu(I) center and making the N,N binding site available for subsequent reactions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-b8lbh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Toward fully autonomous closed-loop molecular discovery \u2013 A case study on JAK targets",
+    "summary": "Bridging AI and self-driving laboratories, we introduce the first fully-automated, closed-loop molecular discovery cycle, exemplified by the identification of novel JAK inhibitors. With minimal human intervention, we combined AI-driven molecular design and retrosynthesis with IBM\u2019s synthesis automation system RoboRXN and Arctoris\u2019 Ulysses platform for automated in-vitro screening. We performed two Design-Make-Test-Analyze (DMTA) cycles with a total of 36 synthesized compounds. In the first round, the generative model identified structural analogs of established JAK inhibitors despite being blinded from known JAK inhibitors. The second iteration yielded molecules with significantly improved pIC50 and ligand efficiency (p < 0.001) compared to the first round, underscoring the effectiveness of the closed-loop workflow.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-q7xdt?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Memory effects in active droplets",
+    "summary": "Marangoni-driven self-propelled droplets have attracted considerable attention as a platform to study active soft matter and collective behavior. The speed of active drops is generally assumed to be determined by instantaneous diameter and solubilization rate, which together dictate the spontaneously generated interfacial tension gradients across the drop surface and induce propulsion; the history of the droplet has not before been considered. Here, we report that active droplets can exhibit a type of memory wherein the temporal history of the droplet, particularly the starting diameter, influences the droplet speed. For example, two droplets of identical instantaneous diameter in the same local chemical environment can exhibit dramatically different instantaneous velocities depending upon their initial diameter. This effect is observed for a range of droplet oils and common ionic surfactants. The relationships between drop diameter, velocity, and solubilization rate were examined for several ionic and nonionic surfactants and suggest that droplet motility only is present when solubilization is interfacially limited, as opposed to diffusion limited. Oil droplets in ionic surfactant solutions also undergo a transition from motile to non-motile, where the diameter at the transitionary point depends upon initial drop diameter. We hypothesize that this memory behavior may result from an interfacial phase transition, as hinted at by observed visual deformations on drop interfaces under some circumstances. We believe this work provides insight as to how memory may be imparted in active droplet systems, highlights the importance of non-equilibrium phenomena in active materials, and offers valuable insights for the design of adaptive, dynamic droplet systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-s6k3g?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Beyond traditional ligands: chelating peptoids as polydentate macrocyclic ligands for luminescent Eu-based biolabels",
+    "summary": "We report the synthesis and characterization of a series of Eu-labeled cyclic peptoids and evaluate their potential as luminescent probes for biological applications. Our results suggest that Eu-peptoid hybrids represent a promising class of luminescent probes for bioimaging, with potential applications in disease diagnosis, drug discovery, and fundamental biological research.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-pbcnj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Quantum mechanical calculations on Ensartinib drug",
+    "summary": "Ensartinib is a next-generation anaplastic lymphoma kinase (ALK) inhibitor, recently approved for the treatment of ALK-positive non-small cell lung cancer (NSCLC). In this study, density functional theory (DFT) calculations were employed to investigate the molecular structure, electronic properties, and thermodynamic parameters of Ensartinib. The calculations were performed using the B3LYP functional with the 6-311+G basis set, providing comprehensive insights into bond lengths, bond angles, dihedral angles, dipole moment, polarizability, zero-point energy, enthalpy, Gibbs free energy, vibrational frequencies, and the HOMO-LUMO energy gap. The HOMO-LUMO gap of -0.13131 eV indicates significant electronic reactivity, which may influence the drug\u2019s pharmacokinetic and pharmacodynamic behavior. These results contribute to a detailed understanding of Ensartinib's molecular properties, potentially aiding in the rational design and optimization of more effective ALK inhibitors.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-fr4rn?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Thermotropic liquid-assisted interface management enables efficient and stable perovskite solar cells and modules",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68231-0\">doi:10.1038/s41467-025-68231-0</a></p>In this work, Chang et al. report a thermotropic liquid additive for perovskite solar cells that enables dynamic interface management, simultaneously passivating defects and suppressing ion migration to deliver high efficiency and substantially enhanced operational stability.",
+    "url": "https://www.nature.com/articles/s41467-025-68231-0",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Accurate quantification of steps from multiple smartphone positions",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34270-2\">doi:10.1038/s41598-025-34270-2</a></p>Accurate quantification of steps from multiple smartphone positions",
+    "url": "https://www.nature.com/articles/s41598-025-34270-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Domain-adaptive faster R-CNN for non-PPE identification on construction sites from body-worn and general images",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35148-7\">doi:10.1038/s41598-026-35148-7</a></p>Domain-adaptive faster R-CNN for non-PPE identification on construction sites from body-worn and general images",
+    "url": "https://www.nature.com/articles/s41598-026-35148-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sivelestat sodium mitigates lung injury post-acute pulmonary embolism by inhibiting NE-SPP1 neutrophil recruitment and restoring redox balance",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34824-4\">doi:10.1038/s41598-025-34824-4</a></p>Sivelestat sodium mitigates lung injury post-acute pulmonary embolism by inhibiting NE-SPP1 neutrophil recruitment and restoring redox balance",
+    "url": "https://www.nature.com/articles/s41598-025-34824-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Exact State Evolution and Energy Spectrum in Solvable Bosonic Models",
     "summary": "arXiv:2510.20046v2 Announce Type: replace-cross \nAbstract: Solvable bosonic models provide a fundamental framework for describing light propagation in nonlinear media, including optical down-conversion processes that generate squeezed states of light and their higher-order generalizations. In quantum optics a central objective is to determine the time evolution of a given initial state. Exact analytic solution to the state-evolution problem is presented, applicable to a broad class of solvable bosonic models and arbitrary initial states. Moreover, the characteristic equation governing the energy spectrum is derived and the eigenstates are found in the form of continued fractions and as the principal minors of the associated Jacobi matrix. The results provide a solid analytical framework for discussion of exactly solvable bosonic models.",
     "url": "https://arxiv.org/abs/2510.20046",
