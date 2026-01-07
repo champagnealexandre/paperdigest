@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Adaptive Landscapes of Plasmodium Falciparum Dihydrofolate R](https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1) |
+| ai_scored | 55 | [Plasma rings around M dwarf stars offer new clues to planeta](https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html) |
+| keyword_rejected | - | [Hunting with poison arrows may have begun 60,000 years ago i](https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Hunting with poison arrows may have begun 60,000 years ago i](https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Hunting with poison arrows may have begun 60,000 years ago i](https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Solar physicists discover long-hidden source of gamma rays u](https://phys.org/news/2026-01-solar-physicists-hidden-source-gamma.html) |
+| keyword_rejected | - | [Emergence of Biological Structural Discovery in General-Purp](https://www.biorxiv.org/content/10.64898/2026.01.03.697478v1?rss=1) |
+| keyword_rejected | - | [HEDeST: An Integrative Approach to Enhance Spatial Transcrip](https://www.biorxiv.org/content/10.64898/2026.01.06.697922v1?rss=1) |
+| keyword_rejected | - | [Dynamic S-acylation controls CMG2 maturation, extracellular ](https://www.biorxiv.org/content/10.64898/2026.01.06.697925v1?rss=1) |
 | ai_scored | 65 | [Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of L](https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html) |
 | ai_scored | 40 | [Dynamic oxygen vacancy engineering on CuO via refreshable ca](https://www.nature.com/articles/s41467-025-68180-8) |
 | ai_scored | 45 | [Vera C. Rubin Observatory spots record-breaking asteroid in ](https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html) |

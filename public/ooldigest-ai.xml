@@ -3,8 +3,34 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-07T21:17:35.388506+00:00</updated>
+  <updated>2026-01-07T22:17:27.241581+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] phys.org - Space News ▶ Plasma rings around M dwarf stars offer new clues to planetary habitability</title>
+    <link href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html"/>
+    <id>https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html</id>
+    <updated>2026-01-07T21:30:05Z</updated>
+    <summary>How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie&#x27;s Luke Bouma is exploring a new way to probe this critical question—using nat</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*</p>
+<p><strong>AI Decision:</strong> Conference work proposes using naturally occurring plasma rings around young M dwarfs as “space weather stations” to better constrain star–planet interactions that shape exoplanet atmospheric retention and potential habitability.</p>
+<p><strong>Abstract:</strong> How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie&#x27;s Luke Bouma is exploring a new way to probe this critical question—using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He is presenting his work at the 247th American Astronomical Society meeting.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biophysics - biorXiv Preprints ▶ Adaptive Landscapes of Plasmodium Falciparum Dihydrofolate Reductase Reveal Pathways to Antifolate Resistance</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Antifolate resistance in P. falciparum dihydrofolate reductase remains a major challenge for malaria control. To understand how this enzyme preserves function under antifolate selection, we developed </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using a computational framework (PfPATH) integrating fitness, epistasis, and structural data, the study maps constrained adaptive pathways by which P. falciparum dihydrofolate reductase evolves antifolate resistance while maintaining enzyme function via stabilizing mutations and reorganized internal communication.</p>
+<p><strong>Abstract:</strong> Antifolate resistance in P. falciparum dihydrofolate reductase remains a major challenge for malaria control. To understand how this enzyme preserves function under antifolate selection, we developed PfPATH, a computational framework that integrates mutational fitness measurements, evolutionary interactions, and structural information to map plausible adaptive trajectories. PfPATH adaptive walks reveal that only a small subset of residues forms a constrained adaptive ridge that guides evolution. Most resistance mutations are harmful on their own and only become viable when supported by stabilizing changes. Hence, adaptation is confined to a few constrained pathways yielding high resistance. Structural network analyses indicate that these resistance mutations do not disrupt the overall enzyme architecture. Instead, they reorganize internal communication in a way that preserves catalytic function. We further showed through molecular dynamics and free-energy analyses that resistant variants remain structurally stable while exploring broader low-energy conformational substates. In conclusion, our work reveals a narrow and predictable route to antifolate escape, with implications for anticipating resistance evolution and guiding future drug design.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ Lunar spacecraft exhaust could obscure clues to origins of life</title>
     <link href="https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html"/>

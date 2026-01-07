@@ -1,5 +1,116 @@
 [
   {
+    "title": "Plasma rings around M dwarf stars offer new clues to planetary habitability",
+    "summary": "How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie's Luke Bouma is exploring a new way to probe this critical question\u2014using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He is presenting his work at the 247th American Astronomical Society meeting.",
+    "url": "https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html",
+    "published_date": "2026-01-07T21:30:05Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Conference work proposes using naturally occurring plasma rings around young M dwarfs as \u201cspace weather stations\u201d to better constrain star\u2013planet interactions that shape exoplanet atmospheric retention and potential habitability."
+    }
+  },
+  {
+    "title": "Adaptive Landscapes of Plasmodium Falciparum Dihydrofolate Reductase Reveal Pathways to Antifolate Resistance",
+    "summary": "Antifolate resistance in P. falciparum dihydrofolate reductase remains a major challenge for malaria control. To understand how this enzyme preserves function under antifolate selection, we developed PfPATH, a computational framework that integrates mutational fitness measurements, evolutionary interactions, and structural information to map plausible adaptive trajectories. PfPATH adaptive walks reveal that only a small subset of residues forms a constrained adaptive ridge that guides evolution. Most resistance mutations are harmful on their own and only become viable when supported by stabilizing changes. Hence, adaptation is confined to a few constrained pathways yielding high resistance. Structural network analyses indicate that these resistance mutations do not disrupt the overall enzyme architecture. Instead, they reorganize internal communication in a way that preserves catalytic function. We further showed through molecular dynamics and free-energy analyses that resistant variants remain structurally stable while exploring broader low-energy conformational substates. In conclusion, our work reveals a narrow and predictable route to antifolate escape, with implications for anticipating resistance evolution and guiding future drug design.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Using a computational framework (PfPATH) integrating fitness, epistasis, and structural data, the study maps constrained adaptive pathways by which P. falciparum dihydrofolate reductase evolves antifolate resistance while maintaining enzyme function via stabilizing mutations and reorganized internal communication."
+    }
+  },
+  {
+    "title": "Dynamic S-acylation controls CMG2 maturation, extracellular matrix regulation, and anthrax toxin entry",
+    "summary": "CMG2/ANTXR2 functions as a Collagen VI receptor and the primary portal for anthrax toxin entry. We find that CMG2 is regulated by ordered cycles of S-acylation and deacylation throughout its life cycle. Following synthesis in the endoplasmic reticulum, acylation by ZDHHC7 on two juxtamembrane cysteines protects folding intermediates from ER-associated degradation, resulting in a 5-fold increase in CMG2 biogenesis. The cytosolic thioesterase APT2 can remove these acyl chains, thereby controlling CMG2 levels. In the Golgi, CMG2 acylation by ZDHHC3 on a third cysteine to permit Arf6-dependent transport to the plasma membrane. At the cell surface, S-acylated CMG2 recruits APT2 in response to ligand binding, enabling release from the actin cytoskeleton and endocytosis. Accordingly, blocking APT2 suppresses the intracellular delivery of anthrax toxin, and inhibits CMG2-dependent Collagen VI degradation. These results define S-acylation-deacylation cycles as key regulators of CMG2 biogenesis and function, and highlight APT2 inhibition as a strategy to modulate CMG2 levels or prevent anthrax intoxication.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697925v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "HEDeST: An Integrative Approach to Enhance Spatial Transcriptomic Deconvolution with Histology",
+    "summary": "Spatial organization of cells is essential for tissue function, yet sequencing-based spatial transcriptomics often lacks single-cell resolution. We present HEDeST, a weakly supervised framework that integrates histology-derived morphological features with deconvolution-derived spot-level proportions to assign cell types at single-cell resolution. HEDeST is robust to technical variability, adaptable to user-defined cell types, and compatible with any deconvolution method. Across simulated and semi-simulated datasets, HEDeST outperforms existing morphology-based approaches and reveals biologically meaningful microenvironments when applied to real cancer datasets, providing a scalable tool for high-resolution spatial tissue analysis.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697922v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Emergence of Biological Structural Discovery in General-Purpose Language Models",
+    "summary": "Large language models (LLMs) are evolving into engines for scientific discovery, yet the assumption that biological understanding requires domain-specific pre-training remains unchallenged. Here, we report that general-purpose LLMs possess an emergent capability for biological structural discovery. First, we demonstrate that a small-scale GPT-2, fine-tuned solely on English paraphrasing, achieves ~84% zero-shot accuracy in protein homology detection, where network-based interpretability confirms a deep structural isomorphism between human language and the language of life. Scaling to massive models (e.g., Qwen-3) reveals a phase transition, achieving near-perfect accuracy (~100%) on standard tasks while maintaining 75% precision on specially constructed remote homology datasets. Chain-of-Thought interpretability reveals that these models transcend simple sequence alignment, leveraging implicit structural knowledge to perform reasoning akin to \"mental folding.\" We formalize this cross-modal universality through the BioPAWS benchmark. Our work establishes a minimalist paradigm for AI for Science, proving that abstract logical structures distilled from human language constitute a powerful cognitive prior for decoding the complex syntax of biology.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.03.697478v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Solar physicists discover long-hidden source of gamma rays unleashed by flares",
+    "summary": "Solar physicists say they have found a key source of intense gamma rays unleashed when Earth's nearest star produces its most violent eruptions.",
+    "url": "https://phys.org/news/2026-01-solar-physicists-hidden-source-gamma.html",
+    "published_date": "2026-01-07T21:49:17Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hunting with poison arrows may have begun 60,000 years ago in Africa",
+    "summary": "A collection of arrow points excavated in South Africa has provided the oldest direct evidence of hunters deploying plant-based poisons on their weapons, a practice that has continued into modern times in some traditional cultures",
+    "url": "https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T19:00:14Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hunting with poison arrows may have begun 60,000 years ago in Africa",
+    "summary": "A collection of arrow points excavated in South Africa has provided the oldest direct evidence of hunters deploying plant-based poisons on their weapons, a practice that has continued into modern times in some traditional cultures",
+    "url": "https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T19:00:14Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hunting with poison arrows may have begun 60,000 years ago in Africa",
+    "summary": "A collection of arrow points excavated in South Africa has provided the oldest direct evidence of hunters deploying plant-based poisons on their weapons, a practice that has continued into modern times in some traditional cultures",
+    "url": "https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T19:00:14Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Lunar spacecraft exhaust could obscure clues to origins of life",
     "summary": "Over half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of Earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft's touchdown site; even for a landing at the South Pole, methane molecules may \"hop\" across the lunar surface to the North Pole in under two lunar days.",
     "url": "https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html",
