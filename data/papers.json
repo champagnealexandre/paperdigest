@@ -1,5 +1,134 @@
 [
   {
+    "title": "Ancient skeletons reveal viruses embedded in human DNA",
+    "summary": "Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years. Some people inherited the virus directly in their DNA, passing it down across generations. The study shows that these viruses evolved alongside humans\u2014and that one strain eventually lost its ability to integrate into our chromosomes. It\u2019s the first time this long, intimate relationship has been proven with ancient genetic evidence.",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260106224628.htm",
+    "published_date": "2026-01-07T12:07:41Z",
+    "source_feed": "ScienceDaily - Evolutionary Biology News",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.1126/sciadv.adx5460",
+      "http://dx.doi.org/10.1126/sciadv.adx5460"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Ancient genomes show HHV-6 has infected humans for ~2,500 years and that inherited chromosomal integration occurred across generations, illuminating long-term virus\u2013host DNA evolution rather than core abiogenesis."
+    }
+  },
+  {
+    "title": "Conformational dynamics of plasmepsin X during inhibitor binding",
+    "summary": "The aspartic protease plasmepsin X (PMX) of the parasite Plasmodium is a promising drug target for novel malaria therapies. Two potent inhibitors of PMX are WM382 and WM4, which both include a guanidinium group that is in contact with the two catalytic aspartates of PMX in the bound complexes. In structural representations of the inhibitors, the guanidinium group is typically depicted as uncharged. However, pKa predictions with standard tools presented in this article indicate that the guanidinium groups of WM382 and WM4 are protonated and, thus, positively charged in the bound complexes. This positive charge is counterbalanced by a negatively charged catalytic aspartate D266 in PMX of Plasmodium falciparum, while the second catalytic aspartate D457 is uncharged. To investigate the interplay of the conformational dynamics of PMX and inhibitor (un)binding, we performed Hamiltonian replica exchange molecular dynamics (H-REMD) simulations starting from the predicted protonation state of the PMX-WM382 complex. On eight unbinding pathways enabled by weakened interactions of PMX and WM382 in the H-REMD simulations, we observed a dominant route of exit of the inhibitor from the binding pocket with a coupling to conformational changes in the \"flap\" of PMX, a {beta}-hairpin located above the binding pocket. In the bound complex, the flap adopts a closed conformation in which it tightly interacts with and covers the inhibitor. On the dominant route observed in our simulations, unbinding involves an open conformation of the flap that allows the inhibitor to exit the binding pocket. After unbinding, the flap adopts an occluded conformation in which the binding site is blocked by a bulky aromatic sidechain.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697907v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Development of a Tunable Photoreactor for High-Throughput Experimentation",
+    "summary": "Photochemistry has revolutionized modern chemical synthesis, offering new modes of bond activation and construction under mild conditions. Yet, the systematic study of light as a tunable reaction variable remains underdeveloped as commercial HTE plates lack the flexibility to independently tune light parameters across parallel reactions. These constraints hinder the discovery and optimization of light-dependent reactivity, which is critical for identifying new photocatalysts and novel reactivity. The control of light in high-throughput screening is particularly challenging yet it is essential for visible light-induced homolysis (VLIH) chemistry, whereby the photocatalyst is generated in situ and the optimal wavelength of irradiation may not be reported. Herein, we disclose the development of a tunable 24-well photoreactor that enables independent control of wavelength, light intensity, and irradiation time per well to efficiently screen light-driven reactions. In benchmarking studies of Fe VLIH chemistry, the tunable platform demonstrated excellent reproducibility across wells (standard deviation: 3% yield), providing reliable comparison of parallel reaction outcomes. Moreover, the yield obtained in each well was comparable to the commercially available single-wavelength platforms. The plate successfully maintained room temperature even after a day of continuous irradiation and no significant light penetration was observed between wells. Additionally, the versatility of the photoreactor was demonstrated by screening a range of VLIH-mediated transformations, employing Fe, Ce, and Cu salts, each requiring distinct irradiation wavelength and time within the same plate. These results underscore the utility of this platform in efficiently screening photochemical reactions, where incorporation of wavelength as a tunable variable provides the opportunity to expand the dimensions of screening and high-throughput reaction discovery.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-kghtx?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pure-shift 14N MAS NMR spectra via 2-field 2D autocorrelation",
+    "summary": "The possibility to obtain isotropic 14N NMR spectra in the solid state by means of hypothetical 2-field autocorrelation magic-angle spinning 2D experiments is outlined and proven by means of numerical simulations. The resolution of the resulting pure-shift angled projections is considered for three combinations of fields. Differences with half-integer quadrupolar spins, more specifically for the static case, are briefly discussed.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-p528d?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Deciphering the Dynamic Binding of Spicy Odorants to Human Olfactory Receptors",
+    "summary": "<p>Publication date: Available online 7 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): Jingtao Wang, Chenglei Zhang, Juncang Peng, Jian Wu, Shan Wang, Wu Fan, Qingzhao Shi, Qidong Zhang, Guobi Chai</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264726000134?dgcid=rss_sd_all",
+    "published_date": "2026-01-07T13:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Development of a Tunable Photoreactor for High-Throughput Experimentation",
+    "summary": "Photochemistry has revolutionized modern chemical synthesis, offering new modes of bond activation and construction under mild conditions. Yet, the systematic study of light as a tunable reaction variable remains underdeveloped as commercial HTE plates lack the flexibility to independently tune light parameters across parallel reactions. These constraints hinder the discovery and optimization of light-dependent reactivity, which is critical for identifying new photocatalysts and novel reactivity. The control of light in high-throughput screening is particularly challenging yet it is essential for visible light-induced homolysis (VLIH) chemistry, whereby the photocatalyst is generated in situ and the optimal wavelength of irradiation may not be reported. Herein, we disclose the development of a tunable 24-well photoreactor that enables independent control of wavelength, light intensity, and irradiation time per well to efficiently screen light-driven reactions. In benchmarking studies of Fe VLIH chemistry, the tunable platform demonstrated excellent reproducibility across wells (standard deviation: 3% yield), providing reliable comparison of parallel reaction outcomes. Moreover, the yield obtained in each well was comparable to the commercially available single-wavelength platforms. The plate successfully maintained room temperature even after a day of continuous irradiation and no significant light penetration was observed between wells. Additionally, the versatility of the photoreactor was demonstrated by screening a range of VLIH-mediated transformations, employing Fe, Ce, and Cu salts, each requiring distinct irradiation wavelength and time within the same plate. These results underscore the utility of this platform in efficiently screening photochemical reactions, where incorporation of wavelength as a tunable variable provides the opportunity to expand the dimensions of screening and high-throughput reaction discovery.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-kghtx?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The next great space race: Building data centers in orbit",
+    "summary": "Google, SpaceX and Blue Origin are reportedly racing to develop technology for AI data centers in space, but it will likely be years before we see them rocketing into the sky, experts say.",
+    "url": "https://phys.org/news/2026-01-great-space-centers-orbit.html",
+    "published_date": "2026-01-07T13:35:03Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "FAST J0139+4328 is a low-surface-brightness galaxy, deep imaging reveals",
+    "summary": "Astronomers from Serbia and Russia have conducted deep optical observations of a cloud of neutral atomic hydrogen, designated FAST J0139+4328. Results of the observational campaign, published December 31 on the arXiv preprint server, provide evidence that FAST J0139+4328 is a low-surface-brightness galaxy.",
+    "url": "https://phys.org/news/2026-01-fast-j01394328-surface-brightness-galaxy.html",
+    "published_date": "2026-01-07T13:10:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Adjuvanted influenza vaccination increases pre-existing H5N1 cross-reactive antibodies",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68137-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A troubleshooting guide to your flat-pack planet",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04028-x\">doi:10.1038/d41586-025-04028-x</a></p>World-making tips and tricks.",
+    "url": "https://www.nature.com/articles/d41586-025-04028-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Exposition \"Machine arri\u00e8re\" \u00e0 la Cit\u00e9 des sciences : l'h\u00e9ritage de la machine \u00e0 \u00e9crire",
+    "summary": "La Cit\u00e9 des sciences et de l\u2019industrie a s\u00e9lectionn\u00e9 trois objets qui ont influenc\u00e9 durablement notre rapport au son, \u00e0 l\u2019\u00e9crit et \u00e0 l\u2019image pour sa s\u00e9rie d\u2019expositions \"Machine arri\u00e8re\". Trois expositions sont programm\u00e9es de 2024 \u00e0 2026 pour raconter tout un pan d\u2019histoire des techniques et soci\u00e9tal. Le deuxi\u00e8me volet, visible jusqu'au mois d'octobre 2026, est consacr\u00e9 \u00e0 la machine \u00e0 \u00e9crire.",
+    "url": "https://www.sciencesetavenir.fr/decouvrir/expositions/exposition-machine-arriere-a-la-cite-des-sciences-que-reste-t-il-de-la-machine-a-ecrire_190295?xtor=RSS-27",
+    "published_date": "2026-01-07T13:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "How Surface Reconstruction Drives Heterogeneous Bulk Delithiation in Single-crystalline Ni-rich Layered Oxide Cathodes",
     "summary": "The electrochemical performance of single-crystalline Ni-rich layered oxide cathodes is fundamentally limited by bulk Li\u207a diffusion within micrometre-sized particles. During high-voltage cycling\u2014necessary for high-energy applications\u2014intraparticle Li\u207a diffusion is further impeded by oxygen-loss-induced surface reconstruction from the layered phase to spinel/rock-salt structures. Therefore, to fully understand how bulk Li\u207a transport kinetics influences electrochemical degradation, it is necessary to establish the correlation between surface reconstruction and bulk delithiation during the anisotropic structural evolution (i.e., expansion of the layers followed by their contraction) of the cathode particles during long-term cycling. In this work, we accomplish this using multi-rate operando X-ray diffraction studies of single-crystalline Ni-rich layered oxide cathodes aged under different voltage windows in single-layer pouch full cells. We quantify how increased surface reconstruction leads to greater heterogeneity in bulk delithiation, thereby promoting phase separation and exacerbating electrochemical capacity fade. These results provide a direct mechanistic link between surface degradation and bulk delithiation in such cathodes and offer a framework for non-destructively probing kinetics-dependent degradation under practically relevant conditions to guide strategies for improved cycling stability.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss",

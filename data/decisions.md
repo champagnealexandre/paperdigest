@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Ancient skeletons reveal viruses embedded in human DNA](https://www.sciencedaily.com/releases/2026/01/260106224628.htm) |
+| keyword_rejected | - | [Exposition "Machine arrière" à la Cité des sciences : l'héri](https://www.sciencesetavenir.fr/decouvrir/expositions/exposition-machine-arriere-a-la-cite-des-sciences-que-reste-t-il-de-la-machine-a-ecrire_190295?xtor=RSS-27) |
+| keyword_rejected | - | [A troubleshooting guide to your flat-pack planet](https://www.nature.com/articles/d41586-025-04028-x) |
+| keyword_rejected | - | [Adjuvanted influenza vaccination increases pre-existing H5N1](https://www.nature.com/articles/s41467-025-68137-x) |
+| keyword_rejected | - | [FAST J0139+4328 is a low-surface-brightness galaxy, deep ima](https://phys.org/news/2026-01-fast-j01394328-surface-brightness-galaxy.html) |
+| keyword_rejected | - | [The next great space race: Building data centers in orbit](https://phys.org/news/2026-01-great-space-centers-orbit.html) |
+| keyword_rejected | - | [Development of a Tunable Photoreactor for High-Throughput Ex](https://dx.doi.org/10.26434/chemrxiv-2026-kghtx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Deciphering the Dynamic Binding of Spicy Odorants to Human O](https://www.sciencedirect.com/science/article/pii/S0303264726000134?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Pure-shift 14N MAS NMR spectra via 2-field 2D autocorrelatio](https://dx.doi.org/10.26434/chemrxiv-2026-p528d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Development of a Tunable Photoreactor for High-Throughput Ex](https://dx.doi.org/10.26434/chemrxiv-2026-kghtx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Conformational dynamics of plasmepsin X during inhibitor bin](https://www.biorxiv.org/content/10.64898/2026.01.06.697907v1?rss=1) |
 | ai_scored | 35 | [Structural probing of RNA hairpins quantifies protein occupa](https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1) |
 | ai_scored | 50 | [Chirality transfer in nematic liquid crystals via octahedral](https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss) |
 | ai_scored | 0 | [Replication stress-inducing ELF3 upregulation promotes BRCA1](https://elifesciences.org/articles/89573) |
