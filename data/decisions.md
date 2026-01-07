@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Ushikuvirus: Newly discovered giant virus may offer clues to](https://phys.org/news/2026-01-ushikuvirus-newly-giant-virus-clues.html) |
+| keyword_rejected | - | [Neige : transports toujours perturbés dans plusieurs pays d'](https://www.sciencesetavenir.fr/nature-environnement/meteo/neige-transports-toujours-perturbes-dans-plusieurs-pays-d-europe_190307?xtor=RSS-15) |
+| keyword_rejected | - | [Carte du ciel, blanc mental dans le cerveau et catastrophes ](https://www.sciencesetavenir.fr/ultrabreves/carte-de-la-voute-celeste-blanc-mental-dans-le-cerveau-et-catastrophes-climatiques-de-2025-l-actu-des-sciences-en-ultrabreves_190308) |
+| keyword_rejected | - | [Pas besoin de cerveau pour dormir !](https://www.sciencesetavenir.fr/animaux/pas-besoin-de-cerveau-pour-dormir_190290?xtor=RSS-26) |
+| keyword_rejected | - | [Hausse des prises accidentelles de dauphins : le réchauffeme](https://www.sciencesetavenir.fr/animaux/animaux-marins/augmentation-des-prises-accidentelles-de-dauphins-le-rechauffement-du-golfe-de-gascogne-en-cause_190289?xtor=RSS-26) |
+| keyword_rejected | - | [Mapping bipartite networks into multidimensional hyperbolic ](https://www.nature.com/articles/s42005-025-02464-9) |
+| keyword_rejected | - | [Bayesian teaching enables probabilistic reasoning in large l](https://www.nature.com/articles/s41467-025-67998-6) |
+| keyword_rejected | - | [Learning the language of protein-protein interactions](https://www.nature.com/articles/s41467-025-67971-3) |
+| keyword_rejected | - | [Dark matter and neutrinos may interact, challenging standard](https://phys.org/news/2026-01-dark-neutrinos-interact-standard-universe.html) |
+| keyword_rejected | - | [A red moon, a blue moon, a supermoon and more: Your guide to](https://phys.org/news/2026-01-red-moon-blue-supermoon-southern.html) |
+| keyword_rejected | - | [Nature-inspired computers are shockingly good at math](https://phys.org/news/2026-01-nature-good-math.html) |
+| keyword_rejected | - | [Towards time resolved tip-enhanced Raman spectroscopy: TERS ](https://dx.doi.org/10.26434/chemrxiv-2026-r0n1m?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [How a parasite 'gave up sex' to find more hosts—and why its ](https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html) |
 | keyword_rejected | - | [Un implant qui envoie des messages au cerveau grâce à la lum](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/un-implant-qui-envoie-des-messages-au-cerveau-grace-a-la-lumiere_190305?xtor=RSS-16) |
 | keyword_rejected | - | [Reply to: Influence of the reinsertion algorithm on the perf](https://www.nature.com/articles/s42005-025-02430-5) |

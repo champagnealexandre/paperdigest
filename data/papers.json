@@ -1,5 +1,143 @@
 [
   {
+    "title": "Ushikuvirus: Newly discovered giant virus may offer clues to the origin of life",
+    "summary": "The origin of life on Earth becomes even more fascinating and complex as we peer into the mysterious world of viruses. Said to have existed since living cells first appeared, these microscopic entities differ greatly from other forms of life. Composed of only genetic material, they lack the ability to synthesize proteins, which are essential for carrying out cellular activity and, ultimately, for life by itself.",
+    "url": "https://phys.org/news/2026-01-ushikuvirus-newly-giant-virus-clues.html",
+    "published_date": "2026-01-07T14:40:02Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution",
+      "origin(s) of life"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "A popular-level overview framing a newly reported giant virus as potentially informative for origins-of-life questions, but without cited primary literature or specific mechanistic links to prebiotic chemistry or early cellular evolution."
+    }
+  },
+  {
+    "title": "Towards time resolved tip-enhanced Raman spectroscopy: TERS with chopped laser pulses",
+    "summary": "In this work, the use of a mechanically chopped laser beam as excitation source of an ambient tip-enhanced Raman (TER) spectrometer has been studied. In the experiment, all macroscopic variables are identical except the nature of the laser excitation, with the objective to increase the time resolution of this technique toward the (sub)millisecond time scale. A (sub)monolayer of thiophenol adsorbed on an Au(111) surface was analyzed in terms of the stability of the TER signal as a function of time and laser power. The results show that TER spectra with chopped excitation have similar stability, sensitivity, spectral resolution, peak position and peak width and signal-to-noise ratio as the ones recorded by employing continuous wave (cw) excitation. The proposed methodology allows to successfully overcome the trade-off of spectral and temporal resolution given by ps or fs excitation and increases the pulsed laser power tolerated by the tip/sample junction and the adsorbed molecules before degradation occurs. This works opens the possibility to perform ambient TER measurements with a temporal resolution on the millisecond scale at spectral resolution and SNR comparable to the one achieved with cw excitation without modification of the standard detection system of the TER set-up.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-r0n1m?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nature-inspired computers are shockingly good at math",
+    "summary": "Neuromorphic computers, inspired by the architecture of the human brain, are proving surprisingly adept at solving complex mathematical problems that underpin scientific and engineering challenges.",
+    "url": "https://phys.org/news/2026-01-nature-good-math.html",
+    "published_date": "2026-01-07T14:32:49Z",
+    "source_feed": "phys.org - Mathematics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A red moon, a blue moon, a supermoon and more: Your guide to the southern sky in 2026",
+    "summary": "What will we see in the southern sky in 2026? A total eclipse of the moon (at a convenient time), a blue moon and a supermoon, the two brightest planets close together, and Jupiter disappearing behind the moon in the daytime.",
+    "url": "https://phys.org/news/2026-01-red-moon-blue-supermoon-southern.html",
+    "published_date": "2026-01-07T15:18:36Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dark matter and neutrinos may interact, challenging standard model of the universe",
+    "summary": "Scientists are a step closer to solving one of the universe's biggest mysteries as new research finds evidence that two of its least understood components may be interacting, offering a rare window into the darkest recesses of the cosmos.",
+    "url": "https://phys.org/news/2026-01-dark-neutrinos-interact-standard-universe.html",
+    "published_date": "2026-01-07T14:58:35Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Learning the language of protein-protein interactions",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67971-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bayesian teaching enables probabilistic reasoning in large language models",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67998-6",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mapping bipartite networks into multidimensional hyperbolic spaces",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s42005-025-02464-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Complex networks",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hausse des prises accidentelles de dauphins : le r\u00e9chauffement du golfe de Gascogne en cause",
+    "summary": "Un projet scientifique d'envergure a permis de r\u00e9v\u00e9ler un m\u00e9canisme qui conduit&nbsp;\u00e0 une augmentation des prises accidentelles de dauphins dans le golfe de Gascogne. Les chercheurs indiquent que le changement climatique a induit une r\u00e9action en cha\u00eene menant \u00e0 une hausse de ces captures par les engins de p\u00eache depuis 2016.",
+    "url": "https://www.sciencesetavenir.fr/animaux/animaux-marins/augmentation-des-prises-accidentelles-de-dauphins-le-rechauffement-du-golfe-de-gascogne-en-cause_190289?xtor=RSS-26",
+    "published_date": "2026-01-07T15:18:31Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pas besoin de cerveau pour dormir !",
+    "summary": "Le sommeil n\u2019est pas apparu avec les mammif\u00e8res ni m\u00eame avec les vert\u00e9br\u00e9s. Des m\u00e9duses et des an\u00e9mones de mer, pourtant d\u00e9pourvues de cerveau, dorment elles aussi, et pour une raison fondamentale : limiter les dommages \u00e0 l\u2019ADN de leurs neurones.",
+    "url": "https://www.sciencesetavenir.fr/animaux/pas-besoin-de-cerveau-pour-dormir_190290?xtor=RSS-26",
+    "published_date": "2026-01-07T14:42:21Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Carte du ciel, blanc mental dans le cerveau et catastrophes climatiques : l'actu des sciences",
+    "summary": "Au sommaire des ultrabr\u00e8ves du 7 janvier 2026 : une carte de la vo\u00fbte c\u00e9leste en 102 couleurs, la signature c\u00e9r\u00e9brale du blanc mental et une ann\u00e9e lourde en \u00e9v\u00e9nements climatiques.",
+    "url": "https://www.sciencesetavenir.fr/ultrabreves/carte-de-la-voute-celeste-blanc-mental-dans-le-cerveau-et-catastrophes-climatiques-de-2025-l-actu-des-sciences-en-ultrabreves_190308",
+    "published_date": "2026-01-07T14:22:13Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neige : transports toujours perturb\u00e9s dans plusieurs pays d'Europe",
+    "summary": "Vols annul\u00e9s par centaines, routes satur\u00e9es, \u00e9coles ferm\u00e9es et temp\u00e9ratures extr\u00eames : une vague de neige et de froid intense perturbe lourdement les transports et la vie quotidienne dans de nombreux pays europ\u00e9ens, de la France aux Pays-Bas en passant par l\u2019Europe centrale.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/neige-transports-toujours-perturbes-dans-plusieurs-pays-d-europe_190307?xtor=RSS-15",
+    "published_date": "2026-01-07T11:28:49Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "How a parasite 'gave up sex' to find more hosts\u2014and why its victory won't last",
     "summary": "Australian researchers have uncovered how a particular strain of a diarrhea-causing parasite managed to infect more animal species, offering new insights into how parasitic infections emerge and spread to people.",
     "url": "https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html",
