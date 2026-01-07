@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Earth's early sponges were soft: Scientists close fossil rec](https://phys.org/news/2026-01-earth-early-sponges-soft-scientists.html) |
+| ai_scored | 10 | [Pressure dynamics in the bottleneck flow of self-propelled p](http://link.aps.org/doi/10.1103/gqmg-t16q) |
+| ai_scored | 5 | [Dale Andersen’s Astrobiology Antarctic Status Report: 7 Janu](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html) |
+| keyword_rejected | - | [Dynamics of self-thermophoretic Janus particle in optical tr](http://link.aps.org/doi/10.1103/l57w-d419) |
+| keyword_rejected | - | [Two-population Rouse models for polymer segmental dynamics i](http://link.aps.org/doi/10.1103/s8k6-cvfr) |
+| keyword_rejected | - | [Elastic properties of polycatenane chains and ribbons](http://link.aps.org/doi/10.1103/gqs8-8rtg) |
+| keyword_rejected | - | [Inference in spreading processes with neural-network priors](http://link.aps.org/doi/10.1103/8mww-brdk) |
+| keyword_rejected | - | [Nondiffusive transport of inertial heavy impurities in drift](http://link.aps.org/doi/10.1103/4px7-2vtt) |
+| keyword_rejected | - | [Proton acceleration via high-power laser interactions with n](http://link.aps.org/doi/10.1103/3b9c-l4s2) |
+| keyword_rejected | - | [Multiscale emergence of directional traveling waves in rando](http://link.aps.org/doi/10.1103/jwrf-fk75) |
+| keyword_rejected | - | [Change in the order of a phase transition in the two-dimensi](http://link.aps.org/doi/10.1103/t156-9vyr) |
+| keyword_rejected | - | [Out-of-equilibrium spinodal-like scaling behaviors across th](http://link.aps.org/doi/10.1103/w719-vnd4) |
+| keyword_rejected | - | [Loss of KDM6A-mediated genomic instability and metabolic rep](https://www.nature.com/articles/s41467-025-68132-2) |
+| keyword_rejected | - | [Disturbances of paraventricular thalamic nucleus neurons in ](https://www.nature.com/articles/s41467-025-68094-5) |
+| keyword_rejected | - | [Smart hybrid microscopy for cell-friendly detection of rare ](https://www.nature.com/articles/s41467-025-68168-4) |
 | ai_scored | 5 | [The Race to Find Leonardo da Vinci’s DNA Just Took a Major T](https://www.scientificamerican.com/article/the-race-to-find-leonardo-da-vincis-dna-just-took-a-major-twist/) |
 | keyword_rejected | - | [RFK, Jr., Upsets Food Pyramid, Urging Americans to Eat More ](https://www.scientificamerican.com/article/rfk-jr-upsets-food-pyramid-urging-americans-to-eat-more-meat/) |
 | keyword_rejected | - | [How rethinking your relationship with time could give you mo](https://www.newscientist.com/article/2509450-how-rethinking-your-relationship-with-time-could-give-you-more-of-it/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

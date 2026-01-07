@@ -1,5 +1,188 @@
 [
   {
+    "title": "Dale Andersen\u2019s Astrobiology Antarctic Status Report: 7 January 2026: Arrival At Novolazarevskaya Station, Antarctica",
+    "summary": "<p>Keith&#8217;s note: I got this update by text from Dale early this morning: Hi Keith, We arrived 6pm UTC Tuesday evening to a bright, sunny windless day with air temps just over freezing. Our flight down was nice and the aircraft should return to CPT (Cape Town) later this morning or afternoon. Sorry I think [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html\">Dale Andersen\u2019s Astrobiology Antarctic Status Report: 7 January 2026: Arrival At Novolazarevskaya Station, Antarctica</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html",
+    "published_date": "2026-01-07T18:36:28Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*",
+      "water"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "A logistical field-update on an astrobiology team\u2019s arrival at Novolazarevskaya Station in Antarctica, with no substantive origins-of-life science content reported."
+    }
+  },
+  {
+    "title": "Pressure dynamics in the bottleneck flow of self-propelled particles",
+    "summary": "Author(s): N. Colantuono, M. Ramdan Ferressini, I. Zuriguel, D. R. Parisi, and G. A. Patterson<br /><p>Intermittency and clogging statistics have been extensively investigated in a variety of systems \u2013 from granular materials to pedestrian evacuations. Here, the authors experimentally study the evolution of mechanical pressure in a two-dimensional system of self-propelled agents flowing through a bottleneck, revealing a strong correlation between pressure dynamics and the system state (clogged vs unclogged).</p>\n<p>#ClearMotivation #SoftMatterSpotlight</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRE/key_images/10.1103/gqmg-t16q.png\" width=\"200\" /><br />[Phys. Rev. E 113, 015406] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/gqmg-t16q",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/gqmg-t16q"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Experimental active-matter physics study showing that pressure fluctuations in self-propelled particle flow through a bottleneck correlate strongly with clogging vs unclogging states, with only indirect relevance to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Earth's early sponges were soft: Scientists close fossil record gap",
+    "summary": "Sponges are among Earth's most ancient animals, but exactly when they evolved has long puzzled scientists. Genetic information from living sponges, as well as chemical signals from ancient rocks, suggest that sponges evolved at least 650 million years ago.",
+    "url": "https://phys.org/news/2026-01-earth-early-sponges-soft-scientists.html",
+    "published_date": "2026-01-07T19:00:04Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Reports evidence suggesting sponges (early multicellular animals) originated at least ~650 million years ago, helping constrain timelines for early animal evolution rather than abiogenesis itself."
+    }
+  },
+  {
+    "title": "Smart hybrid microscopy for cell-friendly detection of rare events",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68168-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Disturbances of paraventricular thalamic nucleus neurons in bipolar disorder revealed by single-nucleus analysis",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68094-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Loss of KDM6A-mediated genomic instability and metabolic reprogramming regulates response to therapeutic perturbations in bladder cancer",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68132-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Out-of-equilibrium spinodal-like scaling behaviors across the magnetic first-order transitions of\u00a0two-dimensional and three-dimensional Ising systems",
+    "summary": "Author(s): Andrea Pelissetto and Ettore Vicari<br /><p>We study the out-of-equilibrium scaling behavior of two-dimensional and three-dimensional Ising systems, when they are slowly driven across their <i>magnetic</i> first-order transitions at low temperature $T&lt;{T}_{c}$, where ${T}_{c}$ is the temperature of their continuous transition. We consider Kibble-\u2026</p><br />[Phys. Rev. E 113, 014107] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/w719-vnd4",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Change in the order of a phase transition in the two-dimensional Potts model with equivalent neighbors",
+    "summary": "Author(s): Petro Sarkanych<br /><p>Two-dimensional (2D) Potts model is a classical example when the symmetry of the order parameter controls the order of a phase transition: on a square lattice with nearest-neighbors interaction, when the number of states $q$ is less than or equal to 4, the second-order phase transition is observed, \u2026</p><br />[Phys. Rev. E 113, 014108] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/t156-9vyr",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Multiscale emergence of directional traveling waves in random neuronal networks with nonreciprocal excitation-inhibition synaptic coupling",
+    "summary": "Author(s): Weiqiang Ma, Tonghui Yuan, Fei Meng, and Jun Wang<br /><p>Traveling waves (TWs) are a fundamental mechanism of large-scale spatiotemporal coordination in the cortex, yet how their directionality originates from microscale circuit properties remains an open question. To address this, we introduce a multiscale model that reveals a dual emergence process unde\u2026</p><br />[Phys. Rev. E 113, 014304] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/jwrf-fk75",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Proton acceleration via high-power laser interactions with near-critical-density foam targets",
+    "summary": "Author(s): O. Culfa, J. Kim, M. Bailly-Grandvaux, and F. N. Beg<br /><p>Ultraintense laser interactions with near-critical density (NCD) targets have emerged as a promising approach to enhance proton energy and flux. In this study, we used three-dimensional particle-in-cell simulations to investigate proton acceleration by a linearly polarized 100 TW, 40-fs laser beam i\u2026</p><br />[Phys. Rev. E 113, 015202] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/3b9c-l4s2",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nondiffusive transport of inertial heavy impurities in drift-wave turbulence",
+    "summary": "Author(s): Zetao Lin, Benjamin Kadoch, Sadruddin Benkadda, and Kai Schneider<br /><p>We investigate the transport behavior of tungsten impurities with finite inertia in drift-wave turbulence using the Hasegawa-Wakatani model. Unlike previous tracer-based models, our simulations reveal a transition to nondiffusive dynamics for a range of charge states. This mechanism offers a turbule\u2026</p><br />[Phys. Rev. E 113, 015203] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/4px7-2vtt",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Inference in spreading processes with neural-network priors",
+    "summary": "Author(s): Davide Ghio, Fabrizio Boncoraglio, and Lenka Zdeborov\u00e1<br /><p>In the inference problem for epidemic spreading processes on graphs in the case of correlated initial states (i.e., epidemic sources), the initial states can be given as the output of a neural network. This paper presents a framework to study this case.</p>\n<p>#AdvancingField #MachineLearningSpotlight</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRE/key_images/10.1103/8mww-brdk.png\" width=\"200\" /><br />[Phys. Rev. E 113, 015301] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/8mww-brdk",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Elastic properties of polycatenane chains and ribbons",
+    "summary": "Author(s): James M. Polson, Liam MacNevin, Alaaddin Elobeid, and Carlos E. Padilla Robles<br /><p>Single-chain elasticity is of fundamental importance in polymer physics, as it underlies many of the unique properties of polymer systems. Recently, there has been interest in characterizing the elastic properties of catenanes, molecular architectures composed of linked molecular rings. To date most\u2026</p><br />[Phys. Rev. E 113, 015404] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/gqs8-8rtg",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Two-population Rouse models for polymer segmental dynamics in nanocomposites",
+    "summary": "Author(s): Jack R. Rooks, Giovanni Ferraro, Emiliano Fratini, Naresh C. Osti, Osawa Takahito, Antonio Faraone, and Norman J. Wagner<br /><p>Segmental dynamics of polymer chains in a model nanocomposite of poly(ethylene oxide) and silica nanoparticles (NPs) was investigated using quasielastic neutron scattering. The dynamics can be accurately described with the Rouse model. The bulklike polymer far from the NP surface behaves as the neat\u2026</p><br />[Phys. Rev. E 113, 015405] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/s8k6-cvfr",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dynamics of self-thermophoretic Janus particle in optical trap",
+    "summary": "Author(s): Khate Cheryl C. Bayer, Romie Seth M. Florida, Mike A. Bonachita, Michael Jade Y. Jerez, and Mark Nolan P. Confesor<br /><p>Optical manipulation of metallic Janus particles via self-thermophoresis results in complex trajectories due to competing effect of space-dependent speed and optical torque with the optical trapping presumed to have less or no effect. Here we report that when the beam size is comparable to the size \u2026</p><br />[Phys. Rev. E 113, L013401] Published Wed Jan 07, 2026",
+    "url": "http://link.aps.org/doi/10.1103/l57w-d419",
+    "published_date": "2026-01-07T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "The Race to Find Leonardo da Vinci\u2019s DNA Just Took a Major Twist",
     "summary": "<p>Scientists have uncovered genetic evidence that they say may be linked to the Renaissance master, but some experts are more skeptical</p>",
     "url": "https://www.scientificamerican.com/article/the-race-to-find-leonardo-da-vincis-dna-just-took-a-major-twist/",
