@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Highly efficient expression of DNA-peptide conjugates in gro](https://www.nature.com/articles/s41467-025-68167-5) |
+| ai_scored | 20 | [Assessing potential wildfire ash organic carbon threats to d](https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [Size-Controlled Hydrothermal Synthesis of Crystalline High-e](https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss) |
+| ai_scored | 20 | [Assessing potential wildfire ash organic carbon threats to d](https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Making excited state MD faster: extrapolation of transition ](https://dx.doi.org/10.26434/chemrxiv-2026-mqwxc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Current advancements of 3G biofuel and single-cell protein p](https://dx.doi.org/10.26434/chemrxiv-2026-fdt2g?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Defined by Shape: Elucidating the Molecular Recognition of D](https://dx.doi.org/10.26434/chemrxiv-2026-qwc85?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Learning EXAFS from atomic structure through physics-informe](https://dx.doi.org/10.26434/chemrxiv-2026-sv3f6?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [QUICK and Robust ESP and RESP Charges for Computational Bioc](https://dx.doi.org/10.26434/chemrxiv-2026-kb7jh?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Interplay of acid sites and surface hydrophobicity in tin si](https://dx.doi.org/10.26434/chemrxiv-2026-l9vnw?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Mitochondria-Microbiome Crosstalk: A Bidirectional Dialo](https://dx.doi.org/10.26434/chemrxiv-2026-x0zjd?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Si nous avons un gros cerveau, ce serait grâce à nos bactéri](https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/si-nous-avons-un-gros-cerveau-ce-serait-grace-a-nos-bacteries-intestinales_190300?xtor=RSS-10) |
+| keyword_rejected | - | [Perpendicular neuromorphic channels facilitate lateral inhib](https://www.nature.com/articles/s41467-025-68139-9) |
+| keyword_rejected | - | [Uncertainty-aware machine learning to predict non-cancer hum](https://www.nature.com/articles/s41467-025-67374-4) |
+| keyword_rejected | - | [Probing the proteome](https://elifesciences.org/articles/110102) |
 | keyword_rejected | - | [L'interdiction de la pilule abortive au Wyoming jugée illéga](https://www.sciencesetavenir.fr/sante/l-interdiction-de-la-pilule-abortive-au-wyoming-jugee-illegale_190299?xtor=RSS-16) |
 | keyword_rejected | - | [Multi-organ network of cardiometabolic disease-depression mu](https://www.nature.com/articles/s41467-025-68092-7) |
 | keyword_rejected | - | [Spatially resolved integrative analysis of transcriptomic an](https://www.nature.com/articles/s41467-025-68003-w) |

@@ -1,5 +1,198 @@
 [
   {
+    "title": "Assessing potential wildfire ash organic carbon threats to drinking water: Key considerations",
+    "summary": "To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditions has led to conflicting inferences across studies and inconsistent results, even between nominal replicates. Here, mixing time and ash concentration effects on wildfire ash-impacted water (WAIW) quality were investigated, and their impacts on leached water extractable organic matter (WEOM) from wildfire and prescribed fire ash were characterized at bench-scale. The effects of mixing time and ash-to-water ratios were investigated using both natural river water and ultrapure water. Notably, WEOM concentration and character varied considerably within the first 24 hours of mixing, and water type and ash mass concentration limit the leaching of WEOM into water. These results highlight the critical role of careful experimental design and well-justified approaches to support meaningful interpretation and comparability across studies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Bench-scale study quantifying how mixing time, ash concentration, and water type control wildfire-ash leaching of water-extractable organic matter, with limited direct relevance to origins-of-life beyond general aqueous organic carbon chemistry."
+    }
+  },
+  {
+    "title": "Size-Controlled Hydrothermal Synthesis of Crystalline High-entropy Spinel Oxide Nanoparticles for Oxygen Evolution Electrocatalysts",
+    "summary": "High-entropy oxides offer a promising platform for oxygen evolution reaction catalysis owing to their entropy-stabilized structures and flexible design of cation metal elements. However, conventional high-temperature synthesis leads to extensive particle growth and limits access to nanoscale particles with higher density of catalytic sites. Here, a subcritical hydrothermal synthesis combined with catechol-assisted growth regulation is introduced to produce high-entropy single-phase spinel oxide nanoparticles with controlled crystallite sizes down to the single-nanometer scale. The resulting reduction in particle size markedly enhances the oxygen evolution activity. A linear dependence of the oxygen evolution current density on the inverse crystallite size highlights the critical role of nanoscale structures in accelerating catalytic reactions. In-situ X-ray absorption spectroscopy reveals electronic and structural robustness of all constituent metal elements under OER conditions, with negligible shifts in oxidation state or changes in local coordination structure, which is distinct from the pronounced reconstruction typically observed in conventional oxide catalysts. When deployed in a membrane electrode assembly, our synthesized high-entropy oxide catalysts with the smallest particle size deliver 2.0 A cm-2 at 1.96 V, demonstrating practical relevance for high-current-density electrolysis. This work establishes low-temperature hydrothermal synthesis with organic molecular regulation as a powerful and scalable route to engineer highly crystalline, compositionally homogeneous high-entropy oxide nanoparticles, offering design guidelines for next-generation oxygen evolution reaction catalysts.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Materials/electrocatalysis study demonstrating size-controlled hydrothermal synthesis of high-entropy spinel oxide nanoparticles that boost oxygen-evolution (water-splitting) performance, with only indirect relevance to Origins of Life via general redox/energy catalysis contexts."
+    }
+  },
+  {
+    "title": "Assessing potential wildfire ash organic carbon threats to drinking water: Key considerations",
+    "summary": "To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditions has led to conflicting inferences across studies and inconsistent results, even between nominal replicates. Here, mixing time and ash concentration effects on wildfire ash-impacted water (WAIW) quality were investigated, and their impacts on leached water extractable organic matter (WEOM) from wildfire and prescribed fire ash were characterized at bench-scale. The effects of mixing time and ash-to-water ratios were investigated using both natural river water and ultrapure water. Notably, WEOM concentration and character varied considerably within the first 24 hours of mixing, and water type and ash mass concentration limit the leaching of WEOM into water. These results highlight the critical role of careful experimental design and well-justified approaches to support meaningful interpretation and comparability across studies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Bench-scale study shows wildfire ash leaches water-extractable organic matter rapidly and variably within 24 hours depending on mixing time, ash loading, and water type\u2014useful for environmental aqueous organic chemistry but only tangential to origins-of-life research."
+    }
+  },
+  {
+    "title": "Highly efficient expression of DNA-peptide conjugates in growth-arrested cells",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68167-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-68167-5"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Reports a high-efficiency method to express DNA\u2013peptide conjugates in growth-arrested cells, a synthetic-biology advance that broadly informs genotype\u2013phenotype linkage technologies but is not directly focused on prebiotic/abiogenesis origins-of-life questions."
+    }
+  },
+  {
+    "title": "Probing the proteome",
+    "summary": "Raman spectroscopy can be used to predict cellular physiology and proteome composition in <i>E. coli</i>.",
+    "url": "https://elifesciences.org/articles/110102",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Uncertainty-aware machine learning to predict non-cancer human toxicity for the global chemicals market",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67374-4\">doi:10.1038/s41467-025-67374-4</a></p>Uncertainty-aware machine learning models predict human toxicity for more than 100,000 chemicals, highlighting potency and uncertainty hotspots to guide safer use and to focus efforts to improve prediction confidence.",
+    "url": "https://www.nature.com/articles/s41467-025-67374-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Perpendicular neuromorphic channels facilitate lateral inhibition for tactile location",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68139-9\">doi:10.1038/s41467-025-68139-9</a></p>Lateral inhibition operational logic has not yet been realized in neuromorphic sensing systems at the device level. Here, the authors use a cross-channel synaptic transistor with perpendicularly integrated channels to replicate the lateral inhibition mechanism.",
+    "url": "https://www.nature.com/articles/s41467-025-68139-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Si nous avons un gros cerveau, ce serait gr\u00e2ce \u00e0 nos bact\u00e9ries intestinales",
+    "summary": "Gr\u00e2ce \u00e0 une s\u00e9rie d\u2019exp\u00e9riences consistant \u00e0 greffer les microbiotes intestinaux de primates \u00e0 des souris, des chercheurs ont pu constater des changements \u00e9volutifs dans le cerveau des rongeurs.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/si-nous-avons-un-gros-cerveau-ce-serait-grace-a-nos-bacteries-intestinales_190300?xtor=RSS-10",
+    "published_date": "2026-01-07T08:59:09Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The Mitochondria-Microbiome Crosstalk: A Bidirectional Dialogue in Health and Disease",
+    "summary": "The intricate bidirectional communication between mitochondria and the gut microbiota \u2013 termed mitochondria-microbiome crosstalk \u2013 plays a pivotal role in regulating host metabolism, immune responses, and overall physiological homeostasis. Emerging evidence highlights how microbial-derived metabolites, such as short-chain fatty acids, secondary bile acids, and lipopolysaccharides, directly modulate mitochondrial function by influencing energy production (ATP synthesis), oxidative stress (ROS balance), and inflammatory signaling (e.g., NLRP3 inflammasome activation). Conversely, mitochondrial health shapes the gut microbial ecosystem through oxygen tension regulation, immune-mediated selection of commensal bacteria, and metabolic byproduct secretion (e.g., succinate, lactate). Dysregulation of this crosstalk is implicated in a spectrum of diseases, including metabolic disorders (obesity, type 2 diabetes, NAFLD), neurodegenerative conditions (Parkinson\u2019s and Alzheimer\u2019s diseases), and chronic inflammatory states (inflammatory bowel disease, autoimmune diseases). Therapeutic strategies targeting this axis \u2013 such as probiotics, dietary interventions (high-fiber/ketogenic diets), and mitochondrial boosters (NAD+ precursors, antioxidants) \u2013 hold promise for restoring homeostasis. \nThis review synthesizes current knowledge on the molecular mechanisms underlying mitochondria-microbiome interactions, their pathophysiological consequences, and potential clinical applications, while addressing challenges in translating preclinical findings to personalized medicine. Unraveling this complex dialogue may open new avenues for treating diseases rooted in metabolic and microbial dysbiosis.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-x0zjd?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Interplay of acid sites and surface hydrophobicity in tin silicate catalysts",
+    "summary": "Tin-containing silicates are ubiquitous heterogeneous catalysts for biomass conversion and fine chemicals synthesis, owing to their strong and selective Lewis acidity. Traditionally, these materials are synthesized via multi-step procedures such as dealumination of zeolites followed by tin incorporation, which usually offer only limited control on texture and poor metal dispersion. The non-hydrolytic sol gel (NHSG) method offers a streamlined alternative for synthesizing metal silicates with enhanced control over composition, porosity, and active site dispersion. Here, we employed three NHSG routes \u2013 i.e. alkyl halide elimination, acetamide elimination, and their combination \u2013 to prepare porous tin silicates. Remarkably, the combined route yielded catalysts with high specific surface areas (up to 900 m2 g\u20131, without requiring the use of any pore-generating agent), uniform tin dispersion, and high Lewis acidity. This correlated with comparable activity in dihydroxyacetone (DHA) conversion to ethyl lactate and aminolysis of styrene oxide to reported literature. Modification with trimethylsilyl groups was used to further tune the catalytic behavior by modulating surface polarity. While hydrophobization markedly improved apparent turnover frequencies \u2013 up to fivefold in styrene oxide aminolysis \u2013 excessive silylation was detrimental to DHA conversion, underscoring the dual role of Si\u2013OH and Si\u2013OSiMe\u2083 groups in catalytic performance.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l9vnw?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "QUICK and Robust ESP and RESP Charges for Computational Biochemistry: Open-Source GPU Implementation",
+    "summary": "We describe the implementation details of highly efficient ab initio electrostatic potential (ESP) calculations on graphics processing units (GPUs), and introduce a novel scheme for partial charges that are robust against molecular orientation. Performance analyses are discussed, and we highlight that in our new implementation, a single data center GPU can outperform 128 corresponding data center CPU cores in time to solution. This implementation in the open-source Quantum Interaction Computational Kernel code (QUICK) enables ESP computations on highly dense grids that surpass what is reported in the literature, on the order of N(grid points) ~ 20000 points/atom. We demonstrate that, in this dense-grid limit, ESP charges become independent of molecular orientation. We denote such ESP charges as being robust against molecular orientation and validate this desirable attribute against standard charge schemes. Our proposed charge scheme, called reweighted RESP (rwRESP), is designed to significantly overcome the sensitivity to N(grid points) that limits the reliability of canonical RESP charges. By effectively amending this N(grid points)-sensitivity, we demonstrate that rwRESP charges also achieve robustness against molecular orientation. Ultra-dense-grid ESP compu- tations and rwRESP fits can be readily performed via the seamless integration of QUICK with Ambertools, enabling highly efficient and reliable parameterization of the general AMBER force field (GAFF) for nonstandard residues. In this spirit, we believe that our fully-fledged GPU protocol for obtaining robust molecular charges will facilitate a wide range of applications, such as high-throughput parameterization of molecular interaction potentials, while also serving as a foundational step toward GPU-accelerated on-the-fly polarizable QM/MM simulations with QUICK.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-kb7jh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Learning EXAFS from atomic structure through physics-informed machine learning",
+    "summary": "Extended X-ray absorption fine structure (EXAFS) provides element-specific access to local atomic environments and is widely used to relate structure and reactivity across chemical systems. However, quantitative EXAFS interpretation still relies on manually constructed structural models and extensive parameter tuning, creating a growing bottleneck as experimental datasets increase in size and complexity. Addressing this bottleneck requires a direct and systematic mapping between atomic structure and EXAFS response. Here we introduce AI-EXAFS, a physics-informed graph neural network that predicts full EXAFS spectra directly from three-dimensional atomic coordinates. By formulating the learning problem around the physical principles governing EXAFS signal formation, the model learns transferable structure\u2013spectrum relationships and eliminates the need for user-defined parameter selection at inference. Trained on 86,000 transition-metal complexes, AI-EXAFS reproduces reference theoretical spectra with accuracy consistent with established EXAFS analysis practice and generalizes to experimentally relevant systems, including platinum single-atom catalysts. AI-EXAFS provides an accurate and readily deployable forward model for EXAFS, enabling standardized first-pass structural screening and offering a scalable foundation for future extensions toward more realistic and data-rich EXAFS analysis.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-sv3f6?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Defined by Shape: Elucidating the Molecular Recognition of Dynamic Loops with Covalent Ligands",
+    "summary": "Protein loops harness conformational heterogeneity to perform an array of functions, ranging from catalyzing enzymatic reactions to communicating allosteric signals. Although attractive targets for small molecule modulation, these functional hubs are often considered unligandable due to their lack of well-defined binding pockets and highly dynamic structure. Recent studies, however, have demonstrated the power of covalent chemistry to selectively capture cryptic pockets formed by protein loops. Herein, we leverage machine learning to elucidate the molecular basis of covalent ligand:loop recognition in the transcriptional coactivator Med25. Key to our success was classification by ligand shape prior to model training, which led to descriptive and predictive models. The models were experimentally validated through the synthesis and in vitro testing of novel top-ranked ligands, revealing canonical structure-affinity relationships, including an activity cliff. Further feature analyses identified traditional topological and spatial parameters predictive of binding, and molecular modeling uncovered a potential binding pocket with at least two distinct conformations with high shape complementarity. Collectively, these findings reveal the hidden potential of dynamic loops as specific sites for covalent small molecule modulation, challenging the notion that protein loops are unligandable and demonstrating their capacity for exquisite, shape-based molecular recognition.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-qwc85?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Current advancements of 3G biofuel and single-cell protein production using microalgae: carbon-sequestration, photobioreactor-cultivation technology and bio-refining strategy",
+    "summary": "Energy and nutrition scarcity are significant future challenges due to growing global population, resource scarcity and climate change. Microalgae are emerging as a favorable feedstock owing to their high photosynthetic efficiency, rapid proliferation, and remarkable capacity to sequester atmospheric CO\u2082. Harnessing this carbon-rich biomass for the production of third-generation liquid biofuels and single cell proteins (SCP) provides a sustainable way to address both energy and nutritional demands. This review explores recent developments in cultivation methods using open and closed system photobioreactors, biomass harvesting, and conversion technologies for liquid biofuel production. Simultaneously, the potential of microalgae cells as a source of SCP is discussed with respect to its nutritional properties, digestibility, and application in food and feed sectors. The integration of biofuel and SCP production in a biorefinery model enhances resource utilization, reduces process costs, and supports circular bioeconomy goals. The review emphasizes that carbon sequestered microalgal biomass holds significant potential in achieving the dual objectives of climate change mitigation and food-energy security through sustainable biofuel and protein production. This present investigation in the form of a review can help esteemed researchers, budding entrepreneurs and profound industrialists to evaluate the impression of the microalgae-based products towards mitigating energy and food security.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-fdt2g?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Making excited state MD faster: extrapolation of transition densities for TD-DFT calculations",
+    "summary": "Excited state molecular dynamics simulations are a powerful computational tool for the study of photoinduced phenomena. These are often used in conjunction with linear response TD-DFT to get the excited state energy and its gradients. At each step of an MD simulation, the new molecular geometry is relatively close to the previous ones, suggesting that some extrapolation strategy can be applied, such that the results of the previous calculations, which are available for free, can be used to predict the result of the upcoming calculation. The prediction can then be used as a guess for the iterative solver to lower the number of iterations and thus the cost. In this contribution, we present an extension of the Grassmann extrapolation scheme (GExt) to linear response TD-DFT, in which the knowledge about the manifold structure to which the solutions belong is used to make the extrapolation more accurate. The new extrapolation strategy is then tested on four systems showing a significant acceleration of the excited state molecular dynamics.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-mqwxc?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "A metal-metal quadruply bonded dimer of two pincer-ligated metal centers",
     "summary": "Two-electron reduction of pincer complex (PArNP)MoBr3 using Na/Hg under argon yields a quadruply bonded Mo-Mo dimer, (k3-PArNP)BrMo\u2263Mo(k3-PArNP)Br. This complex represents a rare example of a metal-metal bonded species in which each metal bears a k3-mer coordinated pincer ligand.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-cxh6t?rft_dat=source%3Ddrss",
