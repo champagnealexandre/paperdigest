@@ -1,5 +1,23 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Aqueous FeCl3-Mediated Assembly of heterocyclic compounds co](https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Aqueous FeCl3-Mediated Assembly of heterocyclic compounds co](https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [L’impact des microplastiques sur notre santé dépendrait de n](https://www.sciencesetavenir.fr/sante/l-impact-des-microplastiques-sur-la-sante-dependrait-de-notre-alimentation_190291?xtor=RSS-16) |
+| keyword_rejected | - | [A Machine Learning-Driven Electrophysiological Platform for ](https://www.nature.com/articles/s41467-025-66988-y) |
+| keyword_rejected | - | [Protection against lethal canine distemper virus infection b](https://www.nature.com/articles/s41467-025-67600-z) |
+| keyword_rejected | - | [Drug and single-cell gene expression integration identifies ](https://www.nature.com/articles/s41467-025-67783-5) |
+| keyword_rejected | - | [Phylogenomic profile of exon-intron organization across angi](https://www.nature.com/articles/s41467-025-66816-3) |
+| keyword_rejected | - | [Brain and neural cell type proteomics reveal extracellular m](https://www.nature.com/articles/s41467-025-68118-0) |
+| keyword_rejected | - | [Multiplexed lipid nanoparticle barcoding reveals tissue-dyna](https://www.nature.com/articles/s41467-025-68103-7) |
+| keyword_rejected | - | [Efficacy and safety of low-dose interleukin 2 for Behçet’s s](https://www.nature.com/articles/s41467-025-68100-w) |
+| keyword_rejected | - | [O-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate migras](https://www.nature.com/articles/s41467-025-68220-3) |
+| keyword_rejected | - | [North Atlantic ventilation change over the past three decade](https://www.nature.com/articles/s41467-025-67923-x) |
+| keyword_rejected | - | [Dredging and dumping impact coastal fluxes of sediment and o](https://www.nature.com/articles/s41467-025-68105-5) |
+| keyword_rejected | - | [Comprehensive evaluation of GLP-1 receptor agonists: an umbr](https://www.nature.com/articles/s41467-025-67701-9) |
+| keyword_rejected | - | [Efficacy and safety of low-dose interleukin 2 for Behçet’s s](https://www.nature.com/articles/s41467-025-68100-w) |
+| keyword_rejected | - | [Boosted catalytic activity by metal-oxide interface in porou](https://www.nature.com/articles/s41467-025-68117-1) |
+| keyword_rejected | - | [<i>O</i>-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate](https://www.nature.com/articles/s41467-025-68220-3) |
+| keyword_rejected | - | [Quantum Ninjas vs. Laser Robots: A Board Game to Cultivate Q](https://dx.doi.org/10.26434/chemrxiv-2025-3psdf-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Highly efficient expression of DNA-peptide conjugates in gro](https://www.nature.com/articles/s41467-025-68167-5) |
 | ai_scored | 20 | [Assessing potential wildfire ash organic carbon threats to d](https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Size-Controlled Hydrothermal Synthesis of Crystalline High-e](https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss) |

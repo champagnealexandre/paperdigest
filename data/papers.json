@@ -1,5 +1,217 @@
 [
   {
+    "title": "Aqueous FeCl3-Mediated Assembly of heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties",
+    "summary": "A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demonstrated broad substrate scope, high functional group tolerance and easy operation, achieving yields of 35-86%. The protocol\u2019s efficiency in aqueous conditions highlights its environmental advantages while maintaining synthetic versatility for bioactive heterocycles. Furthermore, the amplification experiment and synthetic transformations of the adducts including modifications of marketed drugs further highlighted their practicalities.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Reports an FeCl3-catalyzed aqueous synthetic method to assemble pyrazole-containing heterocycles, which is environmentally benign chemistry but only tangentially relevant to origins-of-life beyond demonstrating reactions in water."
+    }
+  },
+  {
+    "title": "Aqueous FeCl3-Mediated Assembly of heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties",
+    "summary": "A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demonstrated broad substrate scope, high functional group tolerance and easy operation, achieving yields of 35-86%. The protocol\u2019s efficiency in aqueous conditions highlights its environmental advantages while maintaining synthetic versatility for bioactive heterocycles. Furthermore, the amplification experiment and synthetic transformations of the adducts including modifications of marketed drugs further highlighted their practicalities.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Reports an FeCl3-catalyzed aqueous method to synthesize pyrazole-containing heterocycles with tertiary alcohol ester motifs, relevant mainly as tangential prebiotic-chemistry-adjacent aqueous catalysis rather than a direct origins-of-life study."
+    }
+  },
+  {
+    "title": "Quantum Ninjas vs. Laser Robots: A Board Game to Cultivate Quantum Intuition",
+    "summary": "In this work, we introduce Quantum Ninjas vs. Laser Robots, a board game designed to cultivate quantum intuition in learners across a variety of backgrounds through interactive gameplay and tangible analogies. The game introduces familiar and approachable characters, ninjas and robots, which help to model key ideas of quantum mechanics, including probabilistic measurement, discrete energy levels, excitation and relaxation processes, and wavefunction collapse. The game was introduced to a group of undergraduate students at Texas A&amp;M University, and their learning outcomes were evaluated using a post-game survey. The results indicate improved familiarity with quantum mechanics as well as high levels of engagement and collaborative learning. Our findings suggest that game-based learning can serve as a very effective complement to traditional teaching methods for abstract and math-heavy subjects such as quantum mechanics by lowering barriers to entry and fostering intuitive understanding.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-3psdf-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "<i>O</i>-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate migrasome formation for viral release",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68220-3\">doi:10.1038/s41467-025-68220-3</a></p>Migrasomes mediate the release of cytoplasmic contents, thereby facilitating intercellular communication. Here, the authors propose a regulatory mechanism underlying migrasome biogenesis and elucidate how viruses exploit this pathway to promote cell-to-cell transmission.",
+    "url": "https://www.nature.com/articles/s41467-025-68220-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Boosted catalytic activity by metal-oxide interface in porous single-crystalline niobium oxide monoliths",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68117-1\">doi:10.1038/s41467-025-68117-1</a></p>Introducing and stabilizing oxygen vacancies within oxide supports remains a significant challenge for enhancing catalytic activity in redox reactions. Here, the authors fabricate centimeter-scale porous single-crystalline Nb\u2082O\u2085 monoliths and deposit Pt clusters on their surfaces, creating an interfacial system that markedly improves catalytic CO oxidation.",
+    "url": "https://www.nature.com/articles/s41467-025-68117-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Efficacy and safety of low-dose interleukin 2 for Beh\u00e7et\u2019s syndrome: a randomized, placebo-controlled, double-blind, phase 2 clinical trial",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68100-w\">doi:10.1038/s41467-025-68100-w</a></p>Beh\u00e7et\u2019s syndrome is a chronic inflammatory disease with oral ulcers being the most common symptom. Here authors present results from a phase 2 randomized double-blind placebo-controlled clinical trial that shows that systemic low dose interleukin-2 could be safely administered to these patients, and the therapy may improve their quality of life.",
+    "url": "https://www.nature.com/articles/s41467-025-68100-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Comprehensive evaluation of GLP-1 receptor agonists: an umbrella review of clinical outcomes across multiple diseases",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67701-9\">doi:10.1038/s41467-025-67701-9</a></p>This umbrella review synthesizes the evidence for safety and efficacy GLP-1 receptor agonists on multiple outcomes including but not limited to metabolic, cardiovascular and renal outcomes.",
+    "url": "https://www.nature.com/articles/s41467-025-67701-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dredging and dumping impact coastal fluxes of sediment and organic carbon",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68105-5\">doi:10.1038/s41467-025-68105-5</a></p>Dredging and dumping in the North Sea strongly disturb sediment and carbon fluxes, affecting coastal Blue Carbon systems. Global estimates show these activities rival natural fluxes and should be included in sediment and carbon budgets.",
+    "url": "https://www.nature.com/articles/s41467-025-68105-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "North Atlantic ventilation change over the past three decades is potentially driven by climate change",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67923-x\">doi:10.1038/s41467-025-67923-x</a></p>North Atlantic waters have been aging over the past three decades, indicating a slowdown in ocean ventilation. By combining observations with models, this slowdown is likely driven by climate change.",
+    "url": "https://www.nature.com/articles/s41467-025-67923-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "O-GlcNAcylation of AMFR stabilizes TSPAN4 to regulate migrasome formation for viral release",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68220-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Efficacy and safety of low-dose interleukin 2 for Beh\u00e7et\u2019s syndrome: a randomized, placebo-controlled, double-blind, phase 2 clinical trial",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68100-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Multiplexed lipid nanoparticle barcoding reveals tissue-dynamic kinetic insights and enriched cellular tropism in hepatic zones",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68103-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Brain and neural cell type proteomics reveal extracellular matrix proteins enriched in progressive multiple sclerosis",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68118-0",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Phylogenomic profile of exon-intron organization across angiosperms, their relationships with protein domains, and functional implications",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-66816-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Drug and single-cell gene expression integration identifies sensitive and resistant glioblastoma cell populations",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67783-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Protection against lethal canine distemper virus infection by a dual epitope-targeting synthetic antibody",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67600-z",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Machine Learning-Driven Electrophysiological Platform for Real-Time Tumor-Neural Interaction Analysis and Modulation",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-66988-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "L\u2019impact des microplastiques sur notre sant\u00e9 d\u00e9pendrait de notre r\u00e9gime alimentaire",
+    "summary": "Les effets des microplastiques seraient diff\u00e9rents selon que l\u2019on adopte&nbsp;une alimentation saine ou une alimentation riche en gras et en sucre.",
+    "url": "https://www.sciencesetavenir.fr/sante/l-impact-des-microplastiques-sur-la-sante-dependrait-de-notre-alimentation_190291?xtor=RSS-16",
+    "published_date": "2026-01-07T10:06:24Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Assessing potential wildfire ash organic carbon threats to drinking water: Key considerations",
     "summary": "To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditions has led to conflicting inferences across studies and inconsistent results, even between nominal replicates. Here, mixing time and ash concentration effects on wildfire ash-impacted water (WAIW) quality were investigated, and their impacts on leached water extractable organic matter (WEOM) from wildfire and prescribed fire ash were characterized at bench-scale. The effects of mixing time and ash-to-water ratios were investigated using both natural river water and ultrapure water. Notably, WEOM concentration and character varied considerably within the first 24 hours of mixing, and water type and ash mass concentration limit the leaching of WEOM into water. These results highlight the critical role of careful experimental design and well-justified approaches to support meaningful interpretation and comparability across studies.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss",
