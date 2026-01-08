@@ -3,8 +3,64 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T09:25:14.699470+00:00</updated>
+  <updated>2026-01-08T10:20:50.997359+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [65] ChemRxiv ▶ Peptide-Directed Folding of the Elusive RNA i-Motif</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Folded RNA structures are increasingly being recognised as key regulators in biological processes, yet the RNA i-motif remains poorly characterised due to its low stability and lack of selective molec</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> Reports a minimalist nucleolin-derived peptide that selectively binds and stabilizes the otherwise unstable RNA i-motif at higher pH, highlighting plausible peptide–RNA recognition mechanisms relevant to early nucleic-acid structural regulation.</p>
+<p><strong>Abstract:</strong> Folded RNA structures are increasingly being recognised as key regulators in biological processes, yet the RNA i-motif remains poorly characterised due to its low stability and lack of selective molecular probes. Here, we describe the first small molecule – a short peptide – that binds the elusive RNA i-motif. Our minimalist peptide RGGFGGRGG is derived from the intrinsically disordered region of the protein Nucleolin and binds to folded RNA over DNA with &gt;5x selectivity. The binding of two peptide molecules folds the RNA i-motif at a higher pH than under native conditions. This folded, peptide-bound structure can still bind other guests, such as the intercalator thiazole orange, displaying heteroallosteric properties. Our peptide binding is driven by more than simple electrostatic attraction, exploiting the subtle differences in steric complementarity and hydration of the compact RNA structures relative to DNA congeners and unfolded strands. Our findings underline the potential of minimalistic peptide scaffolds as selective binders for non-canonical RNA structures, allowing for the probing and modulation of RNA topologies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] Complexity Digest ▶ The Physics of Causation</title>
+    <link href="https://comdig.unam.mx/2026/01/08/the-physics-of-causation/"/>
+    <id>https://comdig.unam.mx/2026/01/08/the-physics-of-causation/</id>
+    <updated>2026-01-08T09:52:16Z</updated>
+    <summary>Leroy Cronin, Sara I. Walker Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Cronin and Walker extend assembly theory to quantify “material causation” via an assembly index and copy number, proposing a selection threshold in assembly space that operationally demarcates life and open-ended evolution as persistent, high-assembly structures.</p>
+<p><strong>Abstract:</strong> Leroy Cronin, Sara I. Walker Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is quantified with the assembly index, defined as the minimum number of steps necessary for a distinguishable object to exist, where steps are assembled recursively. Observing countable copies of high assembly index objects indicates that a mechanism to produce them is persistent, such that the object&#x27;s environment builds a memory that traps causation within a contingent chain. Copy number and assembly index underlie the standardized metrology for detecting causation (assembly index), and evidence of contingency (copy number). Together, these allow the precise definition of a selective threshold in assembly space, understood as the set of all causal possibilities. This threshold demarcates life (and its derivative agential, intelligent and technological forms) as structures with persistent copies beyond the threshold. In introducing a fundamental concept of material causation to explain and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT&#x27;s concept of causation provides the foundation for a theory of physics where novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent along assembled lineages. Read the full article at: arxiv.org</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.00515">https://arxiv.org/abs/2601.00515</a></li>
+</ul>
+<p><a href="https://comdig.unam.mx/2026/01/08/the-physics-of-causation/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] ChemRxiv ▶ Efficient nucleic acid delivery in mammalian and plant cells using precisely engineered cationic perylenes</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
+<p><strong>AI Decision:</strong> Rationally engineered cationic perylene nanocarbons enable efficient DNA/siRNA delivery across mammalian, plant, and difficult-to-transfect stem cells, offering a tunable nucleic-acid handling platform with indirect relevance to origins-of-life experimental toolkits.</p>
+<p><strong>Abstract:</strong> Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging and phototherapy, the use of molecularly well-defined nanocarbons with independently tunable charge and hydrophobicity for gene delivery remains largely unexplored. Herein, we report the rational design and synthesis of a new class of cationic perylene tetraesters for efficient nucleic acid delivery. The lead compound, SMZ052, exhibits delivery efficiencies comparable to those of standard commercial reagents across plasmid DNA and siRNA platforms in mammalian cells, and further enables DNA delivery into plant protoplasts as well as hematopoietic stem cells, a cell type that is typically challenging to transfect. These results establish molecular nanocarbons as a versatile and designable platform for gene delivery and highlight their broad potential across biological systems and translational applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] Organic Chemistry on ChemRxiv ▶ Efficient nucleic acid delivery in mammalian and plant cells using precisely engineered cationic perylenes</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
+<p><strong>AI Decision:</strong> ChemRxiv preprint reporting precisely engineered cationic perylene nanocarbons that deliver plasmid DNA and siRNA into mammalian cells and plant protoplasts, offering a tunable nucleic-acid–handling platform with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging and phototherapy, the use of molecularly well-defined nanocarbons with independently tunable charge and hydrophobicity for gene delivery remains largely unexplored. Herein, we report the rational design and synthesis of a new class of cationic perylene tetraesters for efficient nucleic acid delivery. The lead compound, SMZ052, exhibits delivery efficiencies comparable to those of standard commercial reagents across plasmid DNA and siRNA platforms in mammalian cells, and further enables DNA delivery into plant protoplasts as well as hematopoietic stem cells, a cell type that is typically challenging to transfect. These results establish molecular nanocarbons as a versatile and designable platform for gene delivery and highlight their broad potential across biological systems and translational applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [65] ChemRxiv ▶ Hierarchical chiral self-assembly of nanocylinders composed of sequence-defined mesogenic dimers</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss"/>

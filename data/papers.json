@@ -1,5 +1,157 @@
 [
   {
+    "title": "Peptide-Directed Folding of the Elusive RNA i-Motif",
+    "summary": "Folded RNA structures are increasingly being recognised as key regulators in biological processes, yet the RNA i-motif remains poorly characterised due to its low stability and lack of selective molecular probes. Here, we describe the first small molecule \u2013 a short peptide \u2013 that binds the elusive RNA i-motif. Our minimalist peptide RGGFGGRGG is derived from the intrinsically disordered region of the protein Nucleolin and binds to folded RNA over DNA with >5x selectivity. The binding of two peptide molecules folds the RNA i-motif at a higher pH than under native conditions. This folded, peptide-bound structure can still bind other guests, such as the intercalator thiazole orange, displaying heteroallosteric properties. Our peptide binding is driven by more than simple electrostatic attraction, exploiting the subtle differences in steric complementarity and hydration of the compact RNA structures relative to DNA congeners and unfolded strands. Our findings underline the potential of minimalistic peptide scaffolds as selective binders for non-canonical RNA structures, allowing for the probing and modulation of RNA topologies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "RNA",
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Reports a minimalist nucleolin-derived peptide that selectively binds and stabilizes the otherwise unstable RNA i-motif at higher pH, highlighting plausible peptide\u2013RNA recognition mechanisms relevant to early nucleic-acid structural regulation."
+    }
+  },
+  {
+    "title": "The Physics of Causation",
+    "summary": "<p>Leroy Cronin, Sara I. Walker</p>\n<p>Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is quantified with the assembly index, defined as the minimum number of steps necessary for a distinguishable object to exist, where steps are assembled recursively. Observing countable copies of high assembly index objects indicates that a mechanism to produce them is persistent, such that the object's environment builds a memory that traps causation within a contingent chain. Copy number and assembly index underlie the standardized metrology for detecting causation (assembly index), and evidence of contingency (copy number). Together, these allow the precise definition of a selective threshold in assembly space, understood as the set of all causal possibilities. This threshold demarcates life (and its derivative agential, intelligent and technological forms) as structures with persistent copies beyond the threshold. In introducing a fundamental concept of material causation to explain and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT's concept of causation provides the foundation for a theory of physics where novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent along assembled lineages.</p>\n<p>Read the full article at: <a href=\"https://arxiv.org/abs/2601.00515\" rel=\"noopener\" target=\"_blank\">arxiv.org</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/08/the-physics-of-causation/",
+    "published_date": "2026-01-08T09:52:16Z",
+    "source_feed": "Complexity Digest",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.00515"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Cronin and Walker extend assembly theory to quantify \u201cmaterial causation\u201d via an assembly index and copy number, proposing a selection threshold in assembly space that operationally demarcates life and open-ended evolution as persistent, high-assembly structures."
+    }
+  },
+  {
+    "title": "Efficient nucleic acid delivery in mammalian and plant cells using precisely engineered cationic perylenes",
+    "summary": "Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging and phototherapy, the use of molecularly well-defined nanocarbons with independently tunable charge and hydrophobicity for gene delivery remains largely unexplored. Herein, we report the rational design and synthesis of a new class of cationic perylene tetraesters for efficient nucleic acid delivery. The lead compound, SMZ052, exhibits delivery efficiencies comparable to those of standard commercial reagents across plasmid DNA and siRNA platforms in mammalian cells, and further enables DNA delivery into plant protoplasts as well as hematopoietic stem cells, a cell type that is typically challenging to transfect. These results establish molecular nanocarbons as a versatile and designable platform for gene delivery and highlight their broad potential across biological systems and translational applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "nucleic acid",
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Rationally engineered cationic perylene nanocarbons enable efficient DNA/siRNA delivery across mammalian, plant, and difficult-to-transfect stem cells, offering a tunable nucleic-acid handling platform with indirect relevance to origins-of-life experimental toolkits."
+    }
+  },
+  {
+    "title": "Efficient nucleic acid delivery in mammalian and plant cells using precisely engineered cationic perylenes",
+    "summary": "Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging and phototherapy, the use of molecularly well-defined nanocarbons with independently tunable charge and hydrophobicity for gene delivery remains largely unexplored. Herein, we report the rational design and synthesis of a new class of cationic perylene tetraesters for efficient nucleic acid delivery. The lead compound, SMZ052, exhibits delivery efficiencies comparable to those of standard commercial reagents across plasmid DNA and siRNA platforms in mammalian cells, and further enables DNA delivery into plant protoplasts as well as hematopoietic stem cells, a cell type that is typically challenging to transfect. These results establish molecular nanocarbons as a versatile and designable platform for gene delivery and highlight their broad potential across biological systems and translational applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "nucleic acid",
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "ChemRxiv preprint reporting precisely engineered cationic perylene nanocarbons that deliver plasmid DNA and siRNA into mammalian cells and plant protoplasts, offering a tunable nucleic-acid\u2013handling platform with only indirect relevance to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Hyperfine Coupling Quantifies Hole Delocalization in Triarylamine Radical Cations of D\u2013\u03c7\u2013A Molecules",
+    "summary": "Weak-field magnetic response in spin-correlated radical pairs (SCRPs) is set by the radical-pair hyperfine couplings, making synthetic handles that reshape these couplings important to SCRP design. Here we show the isotropic 14N hyperfine coupling (AN) of triarylamine radical cations provides an experimental metric of hole delocalization in donor\u2013chiral bridge\u2013acceptor molecules. We modulate delocalization through a donor series that varies the N-aryl \u03c0-manifold (extension/fusion) and its torsion control. Room-temperature cw-EPR resolves the 14N triplet for radical cations generated chemically and electrochemically. AN decreases as spin density moves off the N-centered aryl and into distal rings, correlating with both DFT Fermi-contact terms and global delocalization metrics. In contrast, the visible\u2013NIR radical-cation absorption contains two overlapping transitions that depend primarily on local N-bound aryl identity and therefore do not uniquely track delocalization. These findings provide a practical route to systematically tuning the effective hyperfine scale relevant to SCRP magnetic response.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-7v3g5?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Analyzing density-driven errors: Principles and pitfalls",
+    "summary": "The theory of density-corrected density functional theory (DC-DFT) separates the error in any approximate DFT calculation into a functional-driven contribution and a density-driven error. Practical DC-DFT calculations often use the Hartree-Fock density instead of a self-consistent DFT density--a method known as HF-DFT--and reduce energetic errors in several classes of chemical problems. Using principles of DC-DFT, we illustrate several pitfalls when analyzing HF-DFT errors, including an interpolator for density-driven errors that is chronically inaccurate, using proxies instead of accurate densities, and conflating common measures of density errors with those of DC-DFT.  We report ideal density-driven errors for one- and two-electron systems, where we can calculate most properties exactly, illustrating these problems. A simple analysis of benchmarking data shows that proxy densities proposed in recent literature are too inaccurate to be useful in DC-DFT. Despite recent claims to the contrary, we show that the success of DC-DFT for barrier heights does not rely on a cancellation of errors, and it is to be expected that HF-DFT errors can be smaller than functional errors, but we fall short of explaining why the improvement is so quantitatively systematic.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-18txc-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "What is conservation chemistry?",
+    "summary": "Conservation chemistry is an emerging discipline focused on preventing the loss of biodiversity through molecular-level insight and intervention. As the planet enters a mass extinction event \u2013 driven by pollution, habitat loss, invasive species, climate change, overharvesting, and disease \u2013 chemical sciences offer unique tools for diagnostics, treatment, and restoration. This Perspective defines the fundamental tenets of conservation chemistry, illustrates how chemical interventions can address key drivers of extinction, and highlights the importance of ethical considerations. By integrating advances from medicinal, analytical, green, environmental and synthetic chemistry, conservation chemistry can complement traditional biology and deliver targeted solutions that improve the status of endangered species and ecosystem health.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-mx60q?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "What is conservation chemistry?",
+    "summary": "Conservation chemistry is an emerging discipline focused on preventing the loss of biodiversity through molecular-level insight and intervention. As the planet enters a mass extinction event \u2013 driven by pollution, habitat loss, invasive species, climate change, overharvesting, and disease \u2013 chemical sciences offer unique tools for diagnostics, treatment, and restoration. This Perspective defines the fundamental tenets of conservation chemistry, illustrates how chemical interventions can address key drivers of extinction, and highlights the importance of ethical considerations. By integrating advances from medicinal, analytical, green, environmental and synthetic chemistry, conservation chemistry can complement traditional biology and deliver targeted solutions that improve the status of endangered species and ecosystem health.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-mx60q?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le Venezuela, une terre riche en minerais ?",
+    "summary": "Alors que l\u2019existence d\u2019un immense r\u00e9servoir de p\u00e9trole est largement \u00e9tablie, la pr\u00e9sence de ressources mini\u00e8res au Venezuela pourrait \u00e9galement constituer un attrait \u00e9conomique majeur, en particulier aux yeux de l\u2019administration Trump, qui entend g\u00e9rer le pays apr\u00e8s l\u2019enl\u00e8vement du pr\u00e9sident Nicolas Maduro.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/geologie/venezuela-un-gisement-d-or-geant-et-des-ressources-minieres-encore-sous-exploitees_190315?xtor=RSS-10",
+    "published_date": "2026-01-08T10:09:15Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Temp\u00eate Goretti: vents violents attendus sur le nord-ouest, la Manche en vigilance rouge",
+    "summary": "Le quart nord-ouest de la France se pr\u00e9pare jeudi \u00e0 affronter des vents violents provoqu\u00e9s par le passage de la temp\u00eate Goretti avec des rafales qui pourront atteindre jusqu'\u00e0 160 km/h dans le d\u00e9partement de la Manche, plac\u00e9 en vigilance rouge dans la soir\u00e9e.\nOutre la Manche, en premi\u00e8re ligne \u00e0 partir de 18H00, pr\u00e8s d'une trentaine de d\u00e9partements, de la Charente-Maritime \u00e0 l'Ile-de-France, sont plac\u00e9s en vigilance orange par M\u00e9t\u00e9o-France dans son bulletin de jeudi matin.\n\"Mettez-vous \u00e0 l'abri et n'utilisez pas votre v\u00e9hicule\", rappelle sur son compte X la pr\u00e9fecture de la Manche, qui incite aussi la population \u00e0 pr\u00e9voir des moyens d'\u00e9clairage de secours et une r\u00e9serve d'eau potable.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/tempete-goretti-vents-violents-attendus-sur-le-nord-ouest-la-manche-en-vigilance-rouge_190320?xtor=RSS-15",
+    "published_date": "2026-01-08T09:48:51Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Moins chers et plus l\u00e9gers, les exosquelettes s'ins\u00e8rent dans nos vies",
+    "summary": "D\u00e9sormais moins encombrants et plus abordables, les exosquelettes partent \u00e0 l'assaut du grand public, des randonneurs aux seniors, leurs fabricants esp\u00e9rant que leur usage se banalise.\nImpossible de les rater dans les all\u00e9es du salon de la technologie grand public CES \u00e0 Las Vegas. Ils sont partout, tr\u00e8s pris\u00e9s des visiteurs avides d'essayer ces armatures m\u00e9talliques qui, selon les mod\u00e8les, entra\u00eenent les jambes, soutiennent les genoux et renforcent le dos, voire les trois \u00e0 la fois.",
+    "url": "https://www.sciencesetavenir.fr/sante/moins-chers-et-plus-legers-les-exosquelettes-s-inserent-dans-nos-vies_190319?xtor=RSS-16",
+    "published_date": "2026-01-08T08:26:11Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Tracking the Charge Transfer State of the Model \nGFP Chromophore using Transient Grating \nPhotoluminescence Spectroscopy",
     "summary": "The green fluorescent protein chromophore led to new methodologies in cell and life sciences. Scientists encoded the protein into biological entities for fluorescence. The green fluorescent protein emitted light concurrently to cellular events. However, the emissive chromophore inside the green protein also interested academics. Specifically, \u201cwhy the chromophore has lower fluorescence quantum yield outside of the beta-barrel protein?\u201d Relaxation dynamics were important for the anionic model chromophore in basic aqueous solution, and in viscous glycerol solution. With modern instrumentation, broadband ultrafast fluorescence spectroscopy (via the transient grating method) and transient absorption spectroscopy found a specific excitation state within 400 fs till 1-2 picoseconds before a ground state relaxation. Also, the slower timescales in glycerol confirmed the importance of ring-twisting in the chromophore outside the protein.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l9vqw?rft_dat=source%3Ddrss",

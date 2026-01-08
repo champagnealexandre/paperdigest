@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Efficient nucleic acid delivery in mammalian and plant cells](https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 55 | [Efficient nucleic acid delivery in mammalian and plant cells](https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 65 | [The Physics of Causation](https://comdig.unam.mx/2026/01/08/the-physics-of-causation/) |
+| ai_scored | 65 | [Peptide-Directed Folding of the Elusive RNA i-Motif](https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Moins chers et plus légers, les exosquelettes s'insèrent dan](https://www.sciencesetavenir.fr/sante/moins-chers-et-plus-legers-les-exosquelettes-s-inserent-dans-nos-vies_190319?xtor=RSS-16) |
+| keyword_rejected | - | [Tempête Goretti: vents violents attendus sur le nord-ouest, ](https://www.sciencesetavenir.fr/nature-environnement/tempete-goretti-vents-violents-attendus-sur-le-nord-ouest-la-manche-en-vigilance-rouge_190320?xtor=RSS-15) |
+| keyword_rejected | - | [Le Venezuela, une terre riche en minerais ?](https://www.sciencesetavenir.fr/fondamental/geologie/venezuela-un-gisement-d-or-geant-et-des-ressources-minieres-encore-sous-exploitees_190315?xtor=RSS-10) |
+| keyword_rejected | - | [What is conservation chemistry?](https://dx.doi.org/10.26434/chemrxiv-2026-mx60q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [What is conservation chemistry?](https://dx.doi.org/10.26434/chemrxiv-2026-mx60q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Analyzing density-driven errors: Principles and pitfalls](https://dx.doi.org/10.26434/chemrxiv-2025-18txc-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Hyperfine Coupling Quantifies Hole Delocalization in Triaryl](https://dx.doi.org/10.26434/chemrxiv-2026-7v3g5?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [A universal polyphosphate kinase powers in vitro transcripti](https://www.nature.com/articles/s41467-025-68012-9) |
 | keyword_rejected | - | [Root-associated protein prediction using a protein large lan](https://www.nature.com/articles/s41598-026-35110-7) |
 | keyword_rejected | - | [Maximal eccentric–concentric strength determines stretch-sho](https://www.nature.com/articles/s41598-025-34475-5) |
