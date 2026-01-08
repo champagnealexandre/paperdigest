@@ -3,8 +3,32 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T16:25:45.381520+00:00</updated>
+  <updated>2026-01-08T17:24:21.085403+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [25] phys.org - Space News ▶ Earliest known barred spiral galaxy spotted just 2 billion years after Big Bang</title>
+    <link href="https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html"/>
+    <id>https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html</id>
+    <updated>2026-01-08T17:06:59Z</updated>
+    <summary>Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral ga</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Reports an early barred spiral galaxy discovery relevant to galactic evolution context but with no direct connection to origins-of-life mechanisms or astrobiological targets.</p>
+<p><strong>Abstract:</strong> Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral galaxies containing a stellar bar, a sometimes-striking visual feature that can play an important role in the evolution of a galaxy. Our galaxy, the Milky Way, also has a stellar bar.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Phys.org: Evolution News ▶ How population bottlenecks shape bacterial cooperation and competition</title>
+    <link href="https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html"/>
+    <id>https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html</id>
+    <updated>2026-01-08T16:36:18Z</updated>
+    <summary>Microbes often display cooperative behavior in which individual cells put in work and sacrifice resources to collectively benefit the group. But sometimes, &quot;cheater&quot; cells in the group may reap the be</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study examines how population bottlenecks influence the stability of microbial cooperation versus cheating, offering broad evolutionary context potentially relevant to early-life transitions but not directly addressing abiogenesis or prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> Microbes often display cooperative behavior in which individual cells put in work and sacrifice resources to collectively benefit the group. But sometimes, &quot;cheater&quot; cells in the group may reap the benefits of this cooperation without incurring any cost themselves. Scientists have suggested that in such cases, population bottlenecks—reduction in the total number of individuals—can help stabilize cooperative behavior in the group.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] bioinformatics - biorXiv Preprints ▶ DeepKOALA: A Fast and Accurate Deep Learning Framework for KEGG Orthology Assignment</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1"/>

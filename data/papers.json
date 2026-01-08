@@ -1,5 +1,147 @@
 [
   {
+    "title": "Earliest known barred spiral galaxy spotted just 2 billion years after Big Bang",
+    "summary": "Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral galaxies containing a stellar bar, a sometimes-striking visual feature that can play an important role in the evolution of a galaxy. Our galaxy, the Milky Way, also has a stellar bar.",
+    "url": "https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html",
+    "published_date": "2026-01-08T17:06:59Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Reports an early barred spiral galaxy discovery relevant to galactic evolution context but with no direct connection to origins-of-life mechanisms or astrobiological targets."
+    }
+  },
+  {
+    "title": "How population bottlenecks shape bacterial cooperation and competition",
+    "summary": "Microbes often display cooperative behavior in which individual cells put in work and sacrifice resources to collectively benefit the group. But sometimes, \"cheater\" cells in the group may reap the benefits of this cooperation without incurring any cost themselves. Scientists have suggested that in such cases, population bottlenecks\u2014reduction in the total number of individuals\u2014can help stabilize cooperative behavior in the group.",
+    "url": "https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html",
+    "published_date": "2026-01-08T16:36:18Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "This study examines how population bottlenecks influence the stability of microbial cooperation versus cheating, offering broad evolutionary context potentially relevant to early-life transitions but not directly addressing abiogenesis or prebiotic chemistry."
+    }
+  },
+  {
+    "title": "Asteroid impact simulation reveals the hidden strength of space rocks",
+    "summary": "Physicists at the University of Oxford have contributed to a new study which has found that iron-rich asteroids can tolerate far more energy than previously thought without breaking apart\u2014a breakthrough with direct implications for planetary defense strategies. The findings have been published in Nature Communications.",
+    "url": "https://phys.org/news/2026-01-asteroid-impact-simulation-reveals-hidden.html",
+    "published_date": "2026-01-08T17:05:20Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "City-sized iceberg has turned into a giant swimming pool",
+    "summary": "Satellite photos show meltwater on the surface of iceberg A23a collecting in an unusual way, which may be a sign that the huge berg is about to break apart",
+    "url": "https://www.newscientist.com/article/2510702-city-sized-iceberg-has-turned-into-a-giant-swimming-pool/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-08T15:00:09Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "I'm calling it \u2013 2026 is going to be the year of the galaxy",
+    "summary": "We are going to be getting a lot of exciting new information about galaxies in 2026, says Chanda Prescod-Weinstein, who can't wait to see what it can tell us",
+    "url": "https://www.newscientist.com/article/mg26935770-100-im-calling-it-2026-is-going-to-be-the-year-of-the-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T18:00:00Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Jean-Louis Etienne retourne explorer l'Antarctique pour mieux le prot\u00e9ger",
+    "summary": "Le m\u00e9decin-explorateur fran\u00e7ais Jean-Louis \u00c9tienne lance une nouvelle exp\u00e9dition scientifique en Antarctique pour alimenter les connaissances sur ce continent m\u00e9connu et gravement menac\u00e9 par les activit\u00e9s humaines, et d\u00e9fendre la cr\u00e9ation d'une nouvelle aire marine prot\u00e9g\u00e9e (AMP) dans cette zone.\n\"Les p\u00f4les sont le t\u00e9moin du changement climatique\" et les aires marines prot\u00e9g\u00e9es \"on en a besoin, sinon on va vers une disparition progressive\" de ces \u00e9cosyst\u00e8mes \"pr\u00e9cieux pour la plan\u00e8te\", a d\u00e9clar\u00e9 M. \u00c9tienne jeudi lors d'une conf\u00e9rence de presse.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/jean-louis-etienne-retourne-explorer-l-antarctique-pour-mieux-le-proteger_190332?xtor=RSS-15",
+    "published_date": "2026-01-08T16:18:24Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Archeologists Just Found a 2,000-Year-Old Battle Trumpet That May Be Linked to Queen Boudica",
+    "summary": "<p>The newly discovered Iron Age instrument may have been played in the Celtic resistance against the Roman Empire</p>",
+    "url": "https://www.scientificamerican.com/article/archeologists-just-found-a-2-000-year-old-battle-trumpet-that-may-be-linked/",
+    "published_date": "2026-01-08T17:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why Trump's Exit from Pivotal Climate Treaty Matters",
+    "summary": "<p>In the latest effort to undermine climate action, President Trump pulled the U.S. out of the U.N. Framework Convention on Climate Change, which underpins global efforts to address rising temperatures</p>",
+    "url": "https://www.scientificamerican.com/article/why-trumps-exit-from-pivotal-climate-treaty-matters/",
+    "published_date": "2026-01-08T15:45:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "City-sized iceberg has turned into a giant swimming pool",
+    "summary": "Satellite photos show meltwater on the surface of iceberg A23a collecting in an unusual way, which may be a sign that the huge berg is about to break apart",
+    "url": "https://www.newscientist.com/article/2510702-city-sized-iceberg-has-turned-into-a-giant-swimming-pool/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-08T15:00:09Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "I'm calling it \u2013 2026 is going to be the year of the galaxy",
+    "summary": "We are going to be getting a lot of exciting new information about galaxies in 2026, says Chanda Prescod-Weinstein, who can't wait to see what it can tell us",
+    "url": "https://www.newscientist.com/article/mg26935770-100-im-calling-it-2026-is-going-to-be-the-year-of-the-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T18:00:00Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "City-sized iceberg has turned into a giant swimming pool",
+    "summary": "Satellite photos show meltwater on the surface of iceberg A23a collecting in an unusual way, which may be a sign that the huge berg is about to break apart",
+    "url": "https://www.newscientist.com/article/2510702-city-sized-iceberg-has-turned-into-a-giant-swimming-pool/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-08T15:00:09Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "I'm calling it \u2013 2026 is going to be the year of the galaxy",
+    "summary": "We are going to be getting a lot of exciting new information about galaxies in 2026, says Chanda Prescod-Weinstein, who can't wait to see what it can tell us",
+    "url": "https://www.newscientist.com/article/mg26935770-100-im-calling-it-2026-is-going-to-be-the-year-of-the-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T18:00:00Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Pupil dilation offers a time-window on prediction error",
     "summary": "Task-evoked pupil dilation is notably linked to unexpected events. Building on Z\u00e9non\u2019s (2019) information-theory framework, we investigated whether the pupil\u2019s response to feedback on decision outcomes during associative learning reflects a prediction error signal. Operationally, we defined prediction errors as an interaction between stimulus-pair frequency and accuracy. We then tested if these signals correlated with information gain, formally defined as the Kullback-Leibler (KL) divergence between posterior and prior belief distributions of an ideal observer. We reasoned that information gain should be proportional to the precision-weighted prediction error signals potentially arising from neuromodulatory arousal networks. We analyzed two data sets in which participants performed perceptual decision-making tasks while pupil dilation was recorded. Our findings consistently showed that a significant proportion of variability in the post-feedback pupil response was explained by information gain shortly after feedback presentation. For the first time, we present evidence that whether the pupil dilates or constricts along with information gain was context dependent. This study offers empirical evidence that the pupil\u2019s response provides valuable insights into the process of model updating during learning, highlighting its utility as a physiological indicator of internal belief states.",
     "url": "https://elifesciences.org/articles/105287",
