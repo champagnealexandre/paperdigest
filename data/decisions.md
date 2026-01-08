@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [L’oiseau « aux quatre sexes » qui rebat les cartes du dimorp](https://www.pourlascience.fr/sd/biologie/l-oiseau-aux-quatre-sexes-qui-rebat-les-cartes-du-dimorphisme-sexuel-28583.php) |
+| keyword_rejected | - | [Butyrophilin 2A2 promotes T cell immunoregulation via CD45 p](https://www.nature.com/articles/s41467-025-68077-6) |
+| keyword_rejected | - | [The anionic states of ubiquinone characterised by second ord](https://dx.doi.org/10.26434/chemrxiv-2025-cw6hn-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Hybrid IEG–ISG Synthesis of Sequence-Defined Polymers via Or](https://dx.doi.org/10.26434/chemrxiv-2026-5ttnj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Synthesis of 1,3-bis-trifluoromethylated-(hetero)cyclohexane](https://dx.doi.org/10.26434/chemrxiv-2025-bzjl4-v4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Semi-Empirical Orbital-Free DFT Approach for Modeling Part](https://dx.doi.org/10.26434/chemrxiv-2025-sj2j7-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Patentability of polymorphic compounds: an analysis based on](https://dx.doi.org/10.26434/chemrxiv-2026-60jwz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Hybrid IEG–ISG Synthesis of Sequence-Defined Polymers via Or](https://dx.doi.org/10.26434/chemrxiv-2026-5ttnj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Synthesis of 1,3-bis-trifluoromethylated-(hetero)cyclohexane](https://dx.doi.org/10.26434/chemrxiv-2025-bzjl4-v4?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Bayes-PD: Exploring a Sequence to Binding Bayesian Neural Ne](https://arxiv.org/abs/2601.03930) |
 | ai_scored | 15 | [Tipping Point Forecasting in Non-Stationary Dynamics on Func](https://arxiv.org/abs/2308.08794) |
 | ai_scored | 0 | [Design of Cycles by Impulsive Feedback: Application to Discr](https://arxiv.org/abs/2511.22417) |

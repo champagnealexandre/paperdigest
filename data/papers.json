@@ -1,5 +1,104 @@
 [
   {
+    "title": "Synthesis of 1,3-bis-trifluoromethylated-(hetero)cyclohexane-2-carboxylates",
+    "summary": "Reported herein is a method for syn-selective 1,3-bis-trifluoromethylation of (hetero)cycloalkylidenemalononitriles. The malononitrile-containing intermediate can be readily converted into carboxylates (and derivatives thereof) by oxidative decyanation. The products of this two-step sequence are 1,3-bis-trifluoromethylated physicochemically-altered analogs of common (hetero)cyclohexane carboxylate. This study includes optimization of the bis-trifluoromethylation reaction, scope studies, synthesis of various new bis-trifluoromethylated (hetero)cycloalkane carboxylates, representative transformations relevant to pharmaceutical synthesis, mechanistic studies, and some computational analyses of the newly accessible scaffolds.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-bzjl4-v4?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hybrid IEG\u2013ISG Synthesis of Sequence-Defined Polymers via Orthogonal CuAAC and Acyl Azide Esterification",
+    "summary": "Sequence-defined polymers demand synthetic strategies that deliver high sequence fidelity, structural complexity, and access to high\u2013molar mass in a limited number of operations. Here we report a hybrid growth platform that combines an IEG-type Cu(I)-catalyzed azide\u2013alkyne cycloaddition (CuAAC) backbone with a protecting-group-free ISG step based on acyl azide esterification. In this orthogonal pairing, acyl azides and alcohols serve as built-in acyl-transfer partners, enabling clean ester formation under mild conditions without external activating agents, while CuAAC provides a robust triazole-forming step with excellent chemoselectivity. Using two bifunctional monomers bearing hydroxyl/alkynyl and azide/acyl-azide motifs, we construct sequence-defined oligotriazoles with high\u2013molar mass in a small number of iterative cycles. Expansion to diversified monomers further demonstrates the modularity of the approach and its capacity to encode more complex architectures. Tandem mass spectrometry reveals characteristic and diverse cleavage patterns associated with ester and triazole linkages, underscoring the potential of this acyl azide/CuAAC platform for digital polymer synthesis and readout.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-5ttnj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Patentability of polymorphic compounds: an analysis based on relevant decisions by the EPO Board of Appeal.",
+    "summary": "The present study analyzes how the European Patent Office (EPO) Boards of Appeal evaluate the patentability of polymorphic chemical compounds, with a focus on novelty (Article 54 EPC) and inventive step (Article 56 EPC). The paper utilizes leading and recent EPO decisions - including T 777/08, T 1684/16, T 1326/18, T 672/21, T 1994/22, T 2086/21, and T 2157/21 - to synthesize the evidentiary demands and propose a structured account of when polymorph claims can be patentable. Polymorph claims are tipically patentable when a specific solid form is novel and delivers an unexpected technical advantage (often understood as a valuable balance of properties) that can be credibly attributed to the form as claimed.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-60jwz?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Semi-Empirical Orbital-Free DFT Approach for Modeling Partial Charges and Interaction Energies",
+    "summary": "Accurate functionals for the kinetic energy and exchange-correlation potential energy remain a critical challenge within Orbital-Free Density Functional Theory (OFDFT). The Thomas-Fermi model, one of the earliest and most significant approaches in this domain, provides a computationally efficient framework for modeling very large systems where Kohn-Sham DFT (KSDFT) is computationally prohibitive. In this work, we extend our previous OFDFT methodology [J. Phys. Chem. A (2024), 128, 6, 1163\u20131172 and J. Chem. Phys. 160 (2024) 235101] by introducing several key enhancements: a more rigorous theoretical formulation that solely relies on variational calculus, fictitious atomic kinetic energy terms that use the Thomas-Fermi and von Weizs\u00e4cker functionals, and empirically fitted coefficients that only depend on the atomic numbers of the pair of interacting atoms. The parameters of the model are optimized by fitting to reference data generated using KSDFT calculations on the B3LYP/aug-cc-pVTZ level of theory, allowing us to evaluate the ability of our model to capture complex chemical environments.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-sj2j7-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Synthesis of 1,3-bis-trifluoromethylated-(hetero)cyclohexane-2-carboxylates",
+    "summary": "Reported herein is a method for syn-selective 1,3-bis-trifluoromethylation of (hetero)cycloalkylidenemalononitriles. The malononitrile-containing intermediate can be readily converted into carboxylates (and derivatives thereof) by oxidative decyanation. The products of this two-step sequence are 1,3-bis-trifluoromethylated physicochemically-altered analogs of common (hetero)cyclohexane carboxylate. This study includes optimization of the bis-trifluoromethylation reaction, scope studies, synthesis of various new bis-trifluoromethylated (hetero)cycloalkane carboxylates, representative transformations relevant to pharmaceutical synthesis, mechanistic studies, and some computational analyses of the newly accessible scaffolds.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-bzjl4-v4?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hybrid IEG\u2013ISG Synthesis of Sequence-Defined Polymers via Orthogonal CuAAC and Acyl Azide Esterification",
+    "summary": "Sequence-defined polymers demand synthetic strategies that deliver high sequence fidelity, structural complexity, and access to high\u2013molar mass in a limited number of operations. Here we report a hybrid growth platform that combines an IEG-type Cu(I)-catalyzed azide\u2013alkyne cycloaddition (CuAAC) backbone with a protecting-group-free ISG step based on acyl azide esterification. In this orthogonal pairing, acyl azides and alcohols serve as built-in acyl-transfer partners, enabling clean ester formation under mild conditions without external activating agents, while CuAAC provides a robust triazole-forming step with excellent chemoselectivity. Using two bifunctional monomers bearing hydroxyl/alkynyl and azide/acyl-azide motifs, we construct sequence-defined oligotriazoles with high\u2013molar mass in a small number of iterative cycles. Expansion to diversified monomers further demonstrates the modularity of the approach and its capacity to encode more complex architectures. Tandem mass spectrometry reveals characteristic and diverse cleavage patterns associated with ester and triazole linkages, underscoring the potential of this acyl azide/CuAAC platform for digital polymer synthesis and readout.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-5ttnj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The anionic states of ubiquinone characterised by second order approximate coupled cluster theory",
+    "summary": "The reduction of ubiquinone (CoQ) is a critical step in cellular respiration. CoQ can support two distinct types of anionic states: a valence-bound state (VBS) and a non-valence, dipole-bound state (DBS). DBSs, where an excess electron is weakly bound by the molecular dipole, are of significant interest as potential \u2019doorway\u2019 states for electron transfer processes. In this work, we employ the cost-effective electron- attachment equation-of-motion second-order approximate coupled-cluster method (EA- EOM-RICC2) to investigate the anionic states of CoQ analogs, Q0 and Q1. We charac- terise the conformational energy, molecular dipole, and DBS and VBS binding energies asafunctionofthetworelevantcoordinatesofthesystem: themethoxydihedralangles. The vertical electron affinity (VEA) of the VBS varies by only 0.2 eV over thermally ac- cessibleregions, whereastheDBSappearsdiscontinuouslyin\u201cislands\u201d governedbyboth dipole magnitude and orientation. Addition of a single isoprenoid unit (Q1) modestly reshapes DBS-supporting regions but leaves the VBS surface essentially unchanged. Cluster scans with small molecules (H2O, HF, NH3, CH4) placed along the quinone dipole axis show that intermolecular interactions can modulate VBS VEAs by up to 0.8-1.0 eV, far exceeding conformational tuning, and enhance or quench DBS binding depending on dipole alignment. Application to bacterial reaction center QA site mu- tants reproduces the experimentally observed 0.1 eV lowering of the quinone electron affinity upon replacing the hydrophobic residue isoleucine (Ile) with polar side chains (Thr, Ser, Asn) while remaining unchanged when mutated to the also hydrophobic valine (Val).",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-cw6hn-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Butyrophilin 2A2 promotes T cell immunoregulation via CD45 phosphatase activation and protects against murine autoimmune glomerulonephritis and pregnancy loss",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68077-6",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "L\u2019oiseau \u00ab\u00a0aux quatre sexes\u00a0\u00bb qui rebat\u00a0les cartes du\u00a0dimorphisme sexuel",
+    "summary": "Chez le bruant \u00e0 gorge blanche, les traits li\u00e9s au sexe sont gouvern\u00e9s par des g\u00e8nes qui ne se trouvent pas sur les chromosomes sexuels\u2026 avec \u00e0 la cl\u00e9 une diversit\u00e9 ph\u00e9notypique inattendue.",
+    "url": "https://www.pourlascience.fr/sd/biologie/l-oiseau-aux-quatre-sexes-qui-rebat-les-cartes-du-dimorphisme-sexuel-28583.php",
+    "published_date": "2026-01-08T06:18:02Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Multifractality, percolation threshold and critical point of a nuclear reactor",
     "summary": "arXiv:2601.03399v1 Announce Type: new \nAbstract: A multifractal model is used to analyze neutron evolution within a reactor. For chain reactions, various characteristics of multifractal neutron behavior have been determined. These include the dimension of the multifractal carrier, information and correlation dimensions, the entropy of the fractal set, maximum and minimum dimension values, and the multifractal spectrum function. The geometric features of a multifractal allow for the description of a stochastic system consisting of hierarchically subordinate statistical ensembles, which are characterized by Cayley trees. A stationary distribution over hierarchical levels is established, which follows the Tsallis power law. The text also points out some potential applications of fractal patterns in nuclear reactor theory. The chance of percolation, which is when we see a state in the Bethe lattice where there's at least one continuous path through neighboring conducting nodes all the way across, is similar to the likelihood of a self-sustaining fission chain reaction happening. When this probability hits a critical point, we get a (conditionally) infinite cluster of neutrons forming. The percolation probability, influenced by how long the reactor has been running and its size, is linked to the reactor's criticality. We take a look at how the neutron multiplication factor behaves over time. We especially focus on the early stages of a self-sustaining nuclear fission chain reaction. We also highlight the ways to identify the boundaries of the critical region.",
     "url": "https://arxiv.org/abs/2601.03399",
