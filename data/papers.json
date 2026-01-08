@@ -1,5 +1,60 @@
 [
   {
+    "title": "Tracking the Charge Transfer State of the Model \nGFP Chromophore using Transient Grating \nPhotoluminescence Spectroscopy",
+    "summary": "The green fluorescent protein chromophore led to new methodologies in cell and life sciences. Scientists encoded the protein into biological entities for fluorescence. The green fluorescent protein emitted light concurrently to cellular events. However, the emissive chromophore inside the green protein also interested academics. Specifically, \u201cwhy the chromophore has lower fluorescence quantum yield outside of the beta-barrel protein?\u201d Relaxation dynamics were important for the anionic model chromophore in basic aqueous solution, and in viscous glycerol solution. With modern instrumentation, broadband ultrafast fluorescence spectroscopy (via the transient grating method) and transient absorption spectroscopy found a specific excitation state within 400 fs till 1-2 picoseconds before a ground state relaxation. Also, the slower timescales in glycerol confirmed the importance of ring-twisting in the chromophore outside the protein.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l9vqw?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The unique example of approximation of the electronic term of diatomic molecules by Morse potential. HF, DF, TF.",
+    "summary": "The Morse approximations M1(r) and M2(r) of the 1\u03a3+ ground state potential curves of three hydrofluoride isotopologues are analyzed. Qualitative differences between HF and heavy isotopologues were found. The result of the HF approximation is a function mainly described by the characteristics of a simple term. For HF, the anharmonicity M1(r) is lower than for M2(r), \u03c9\u0435\u0445\u0435<\u03c9\u0435\u0445\u0435' and De>D', therefore the curve M1(r) lies above U(r). The M2(r) model is constructed from the values of \u03c9\u0435 and De, using the equation De=\u03c9\u04352/4\u03c9\u0435\u0445\u0435, so that its potential curve lies below U(r). For DF and TF, the anharmonicity of M1(r) is greater than of M2(r), \u03c9\u0435\u0445\u0435>\u03c9\u0435\u0445\u0435' and De<D', therefore, the curve M1(r) lies below U(r) and is outside its potential well with possible intersections. For DF and TF this results in the emergence of inversion of anharmonicity. The shape of U(r) for all three molecules is well described by the Morse formula, their parameters are close to each other, and the differences between HF and heavy isotopologues are small. The differences between the extrapolated and true De values for HF, DF, TF are 290, -230, -460 cm-1, and the differences between the values of anharmonicities \u03c9\u0435\u0445\u0435 and \u03c9\u0435\u0445\u0435' are -0.51, 0.22, 0.30 cm-1, i.e. within 0.5\u20121%. In the plot of the differences \u03b4(r)\u2261U(r)\u2012M(r), the curves M2(r) of the three isotopologues are in the upper half-plane. The curve \u03b4(r) M1(r) HF, which has not experienced an inversion, is also located there due to the small differences \u2206\u03c9\u0435\u0445e and \u2206De. It has the Morse potential shape, similar to M2(r), and its amplitude is lower than that for M2(r). For DF and TF, the amplitude of \u03b4(r) for M1(r) is greater than \u03b4(r) for M2(r), and their maxima coincide. Inversion of anharmonicity changes only the model term, therefore, a section of the \u03b4(r) curves distorted by the Herzberg anomaly remains in the negative half-plane, because of the broadening of the U(r) term in the lower part of the potential well. This area occupies about half of its depth.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-z97tt?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Maximal eccentric\u2013concentric strength determines stretch-shortening cycle leg power across biological sexes",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34475-5\">doi:10.1038/s41598-025-34475-5</a></p>Maximal eccentric\u2013concentric strength determines stretch-shortening cycle leg power across biological sexes",
+    "url": "https://www.nature.com/articles/s41598-025-34475-5",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Root-associated protein prediction using a protein large language model and hypergraph convolutional networks",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35110-7\">doi:10.1038/s41598-026-35110-7</a></p>Root-associated protein prediction using a protein large language model and hypergraph convolutional networks",
+    "url": "https://www.nature.com/articles/s41598-026-35110-7",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A universal polyphosphate kinase powers in vitro transcription",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68012-9",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Structure-Reactivity Relationships Applied to Diazonium-Based Surface Functionalization: Toward Tunable Redox Bicomponent Monolayers",
     "summary": "The precise engineering of surface-bound organic layers remains a central challenge in materials chemistry, particularly for the construction of mixed monolayers with tunable composition. While the electroreduction of diazonium salts produces robust, covalently anchored films, its inherent limitations - poor control over surface coverage and the lack of dynamic molecular exchange - frequently result in uncontrolled multilayer growth, complicating compositional tuning. In this study, we demonstrate that rational molecular design, specifically the incorporation of extended alkyl spacers, overcomes these limitations by enabling controlled co-immobilization of functional and diluent species and by promoting confinement of film growth to the monolayer regime. Using TEMPO as a model redox-active motif, we compare mixed layers derived from diazonium precursors with and without C12 spacers. Electrochemical characterization reveals that the presence of extended linkers enhances molecular organization, suppresses overgrowth, and enables predictable tuning of redox unit surface density simply by adjusting the composition of the functionalization solution. These results establish clear design principles for the controlled assembly of multifunctional organic interfaces and provide new insight into structure-reactivity relationships in diazonium-based surface modification.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-18ml9?rft_dat=source%3Ddrss",

@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [A universal polyphosphate kinase powers in vitro transcripti](https://www.nature.com/articles/s41467-025-68012-9) |
+| keyword_rejected | - | [Root-associated protein prediction using a protein large lan](https://www.nature.com/articles/s41598-026-35110-7) |
+| keyword_rejected | - | [Maximal eccentric–concentric strength determines stretch-sho](https://www.nature.com/articles/s41598-025-34475-5) |
+| keyword_rejected | - | [The unique example of approximation of the electronic term o](https://dx.doi.org/10.26434/chemrxiv-2026-z97tt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Tracking the Charge Transfer State of the Model 
+GFP Chromop](https://dx.doi.org/10.26434/chemrxiv-2026-l9vqw?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Salicylic acid induces cultivar specific compromises in yiel](https://www.nature.com/articles/s41598-026-35412-w) |
 | keyword_rejected | - | [A modular, multi-sensor crawler robot for adaptive pipeline ](https://www.nature.com/articles/s41598-025-32719-y) |
 | keyword_rejected | - | [Characterization of <i>Pseudomonas mediterranea</i> and <i>P](https://www.nature.com/articles/s41598-025-33480-y) |
