@@ -1,5 +1,186 @@
 [
   {
+    "title": "Naturally Occurring Network Structures At Vastly Different Scales",
+    "summary": "<p>Editor&#8217;s note: Astrobiology has links to and from everything NASA does. I wish NASA would think outside the box when highlighting this topic &#8211; and use the word for this agency program i.e. &#8220;astrobiology&#8221; in so doing. Compare the structure of these two natural networks: A Cubic Millimeter of Mouse Brain Formation of the cosmic [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html\">Naturally Occurring Network Structures At Vastly Different Scales</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html",
+    "published_date": "2026-01-08T18:26:21Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "A non-technical Astrobiology.com editorial comparing brain and cosmic web network structures, with only indirect relevance to origins-of-life questions and no linked primary literature."
+    }
+  },
+  {
+    "title": "Cysteine reactive chloroalkane probe enables HaloTag ligation for downstream chemical proteomics analysis.",
+    "summary": "Chemical proteomics is a powerful method to track proteins labelled by reactive small molecules in living cells on proteome-wide scale. The strategy relies on reactivity and specificity of bioorthogonal click reactions. Although a variety of bioorthogonal reactions have been developed to facilitate chemical proteomics, their reactivity and specificity might not be comparable with enzymatic reactions. Here we describe an iodoacetamide chloroalkane cysteine reactive probe that is, upon the reaction with nucleophilic cysteine of thioredoxin (TrxA), efficiently and specifically conjugated with HaloTag protein. The TrxA-HaloTag conjugate is utilized for downstream chemoproteomics analysis including in-gel shift assay and mass spectrometry-based proteomics. The TrxA-HaloTag conjugation in whole cell lysate allows fast and efficient pull-down of labelled protein on anti-HaloTag nanobeads resulting in low background after mass spectrometric analysis. The main advantage of the system is its high efficiency and complete biorthogonality due to enzymatic reactivity that is characteristic for HaloTag ligation. The study demonstrates the utility of chloroalkane small compound probes for chemoproteomics applications.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698136v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "KASSPer: Kinase Active Site Structure Prediction using Protein and Ligand Language Models and Its Application to Virtual Screening",
+    "summary": "Motivation Structure-based virtual screening (SBVS) is limited by the rigid-receptor assumption, which is particularly problematic for kinases that adopt multiple active-site conformations but are experimentally biased toward a single state. Although ensemble screening can address this limitation, it remains computationally expensive. Results We introduce KASSPer (Kinase Active Site Structure Predictor), a framework that predicts kinase active-site conformational states using protein and compound language models. Given a kinase amino acid sequence and a ligand SMILES string, KASSPer enables ligand-specific conformer selection prior to SBVS, substantially reducing the computational cost associated with ensemble screening. Benchmarking on the DUD-E kinase subset demonstrates that KASSPer-guided screening consistently outperforms ensemble-based approaches across all evaluation metrics. Availability and Implementation The implementation for model loading and inference is available at the GitHub repository https://github.com/kucm-lsbi/KASSPer",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698135v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Assessment model for multivariable fatigue performance of EA4T axles containing defects",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34892-6\">doi:10.1038/s41598-025-34892-6</a></p>Assessment model for multivariable fatigue performance of EA4T axles containing defects",
+    "url": "https://www.nature.com/articles/s41598-025-34892-6",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Adaptation acts directly on the sensory representation of numerosity",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35068-6\">doi:10.1038/s41598-026-35068-6</a></p>Adaptation acts directly on the sensory representation of numerosity",
+    "url": "https://www.nature.com/articles/s41598-026-35068-6",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "An aptamer-functionalized AuNPs/rGO nanocomposite biosensor for ultrasensitive detection of foodborne pathogen <i>E. coli O157:H7</i>",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32516-7\">doi:10.1038/s41598-025-32516-7</a></p>An aptamer-functionalized AuNPs/rGO nanocomposite biosensor for ultrasensitive detection of foodborne pathogen <i>E. coli O157:H7</i>",
+    "url": "https://www.nature.com/articles/s41598-025-32516-7",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Replication efforts suggest 'smoking gun' evidence isn't enough to prove quantum computing claims",
+    "summary": "A group of scientists, including Sergey Frolov, professor of physics at the University of Pittsburgh, and co-authors from Minnesota and Grenoble have undertaken several replication studies centered around topological effects in nanoscale superconducting or semiconducting devices. This field is important because it can bring about topological quantum computing, a hypothetical way of storing and manipulating quantum information while protecting it against errors.",
+    "url": "https://phys.org/news/2026-01-replication-efforts-gun-evidence-isnt.html",
+    "published_date": "2026-01-08T19:00:08Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Computational and neural mechanisms underlying the influence of action affordances on value learning",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67858-3",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dynamins maintain nuclear envelope homeostasis and genome stability",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68130-4",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ces chiens capables d'apprendre de nouveaux mots en \u00e9coutant nos conversations",
+    "summary": "Certains chiens pr\u00e9sentent des capacit\u00e9s d'apprentissage du vocabulaire incroyables, si bien qu'elles correspondent \u00e0 celles d'un enfant \u00e2g\u00e9 de 18 mois.",
+    "url": "https://www.sciencesetavenir.fr/animaux/chiens/ces-chiens-capables-d-apprendre-de-nouveaux-mots-en-suivant-les-conversations_190269?xtor=RSS-26",
+    "published_date": "2026-01-08T19:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "RDC: naissance rare de jumeaux gorilles de montagne dans le parc national des Virunga",
+    "summary": "Fait rare, deux jumeaux gorilles des montagnes sont n\u00e9s dans le parc national des Virunga dans l'est de la RDC, un site remarquable pour sa biodiversit\u00e9 mais menac\u00e9 par des conflits successifs dans la r\u00e9gion, a-t-on appris jeudi aupr\u00e8s des autorit\u00e9s de la r\u00e9serve.\nLes naissances g\u00e9mellaires chez les gorilles et notamment chez les gorilles des montagnes, esp\u00e8ce menac\u00e9e, sont consid\u00e9r\u00e9es comme tr\u00e8s rares, les scientifiques recensant moins d'1% de cas en moyenne. Un cas avait d\u00e9j\u00e0 \u00e9t\u00e9 enregistr\u00e9 en R\u00e9publique d\u00e9mocratique du Congo (RDC), toujours au parc des Virunga, en 2020.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/rdc-naissance-rare-de-jumeaux-gorilles-de-montagne-dans-le-parc-national-des-virunga_190333?xtor=RSS-15",
+    "published_date": "2026-01-08T17:33:30Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "This Newly Discovered Asteroid, Almost Half a Mile Wide, Just Set a New Space Record",
+    "summary": "<p>A giant asteroid has sent astronomers into a spin, setting a record for how fast it rotates on its axis</p>",
+    "url": "https://www.scientificamerican.com/article/this-newly-discovered-asteroid-almost-half-a-mile-wide-just-set-a-new-space/",
+    "published_date": "2026-01-08T18:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Supermassive Black Hole \u2018Snowplows\u2019 Can Stifle Star Formation in Spiral Galaxies",
+    "summary": "<p>A wobbling jet from a giant, voracious black hole is suppressing star formation in a distant galaxy&mdash;and astronomers have never seen anything quite like it before</p>",
+    "url": "https://www.scientificamerican.com/article/supermassive-black-hole-snowplows-can-stifle-star-formation-in-spiral/",
+    "published_date": "2026-01-08T17:45:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Some quantum computers might need more power than supercomputers",
+    "summary": "A preliminary analysis suggests that industrially useful quantum computers designs come with a broad spectrum of energy footprints, including some larger than the most powerful existing supercomputers",
+    "url": "https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-08T17:00:11Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Some quantum computers might need more power than supercomputers",
+    "summary": "A preliminary analysis suggests that industrially useful quantum computers designs come with a broad spectrum of energy footprints, including some larger than the most powerful existing supercomputers",
+    "url": "https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-08T17:00:11Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Some quantum computers might need more power than supercomputers",
+    "summary": "A preliminary analysis suggests that industrially useful quantum computers designs come with a broad spectrum of energy footprints, including some larger than the most powerful existing supercomputers",
+    "url": "https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-08T17:00:11Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Methanogens Through Geological Time And Space: Impact On Planetary Evolution and Significance For Life Beyond Earth",
     "summary": "<p>Methanogens, also known as methanogenic archaea, are among the most ancient and widespread microorganisms, despite their particular requirements for growth. These oxygen-sensitive microorganisms have impacted climate and biogeochemical cycles throughout Earth\u2019s history, although their specific roles in the long-term carbon cycle remain little explored. Methanogens evolved early during Earth\u2019s history, likely during the Archaean Eon, [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html\">Methanogens Through Geological Time And Space: Impact On Planetary Evolution and Significance For Life Beyond Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html",

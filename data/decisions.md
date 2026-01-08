@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Naturally Occurring Network Structures At Vastly Different S](https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html) |
+| keyword_rejected | - | [Some quantum computers might need more power than supercompu](https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Some quantum computers might need more power than supercompu](https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Some quantum computers might need more power than supercompu](https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Supermassive Black Hole ‘Snowplows’ Can Stifle Star Formatio](https://www.scientificamerican.com/article/supermassive-black-hole-snowplows-can-stifle-star-formation-in-spiral/) |
+| keyword_rejected | - | [This Newly Discovered Asteroid, Almost Half a Mile Wide, Jus](https://www.scientificamerican.com/article/this-newly-discovered-asteroid-almost-half-a-mile-wide-just-set-a-new-space/) |
+| keyword_rejected | - | [RDC: naissance rare de jumeaux gorilles de montagne dans le ](https://www.sciencesetavenir.fr/nature-environnement/rdc-naissance-rare-de-jumeaux-gorilles-de-montagne-dans-le-parc-national-des-virunga_190333?xtor=RSS-15) |
+| keyword_rejected | - | [Ces chiens capables d'apprendre de nouveaux mots en écoutant](https://www.sciencesetavenir.fr/animaux/chiens/ces-chiens-capables-d-apprendre-de-nouveaux-mots-en-suivant-les-conversations_190269?xtor=RSS-26) |
+| keyword_rejected | - | [Dynamins maintain nuclear envelope homeostasis and genome st](https://www.nature.com/articles/s41467-025-68130-4) |
+| keyword_rejected | - | [Computational and neural mechanisms underlying the influence](https://www.nature.com/articles/s41467-025-67858-3) |
+| keyword_rejected | - | [Replication efforts suggest 'smoking gun' evidence isn't eno](https://phys.org/news/2026-01-replication-efforts-gun-evidence-isnt.html) |
+| keyword_rejected | - | [An aptamer-functionalized AuNPs/rGO nanocomposite biosensor ](https://www.nature.com/articles/s41598-025-32516-7) |
+| keyword_rejected | - | [Adaptation acts directly on the sensory representation of nu](https://www.nature.com/articles/s41598-026-35068-6) |
+| keyword_rejected | - | [Assessment model for multivariable fatigue performance of EA](https://www.nature.com/articles/s41598-025-34892-6) |
+| keyword_rejected | - | [KASSPer: Kinase Active Site Structure Prediction using Prote](https://www.biorxiv.org/content/10.64898/2026.01.07.698135v1?rss=1) |
+| keyword_rejected | - | [Cysteine reactive chloroalkane probe enables HaloTag ligatio](https://www.biorxiv.org/content/10.64898/2026.01.07.698136v1?rss=1) |
 | ai_scored | 60 | [Taxonomic Description Of Uncultured Cyanobacteria From Extre](https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html) |
 | ai_scored | 70 | [Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. I](https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html) |
 | ai_scored | 50 | [Extreme Environmental Tolerance And Space Survivability Of T](https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html) |
