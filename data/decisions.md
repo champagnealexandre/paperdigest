@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Pulsed evolution shaped extant angiosperm pollen disparity](https://www.nature.com/articles/s41467-025-68253-8) |
+| keyword_rejected | - | [Critical impact of automobile industry with advanced decisio](https://www.nature.com/articles/s41598-025-24344-6) |
+| keyword_rejected | - | [Electronegativity and entropy design of layered oxides for s](https://www.nature.com/articles/s41467-025-68016-5) |
+| keyword_rejected | - | [Perioperative tislelizumab plus lenvatinib treatment for res](https://www.nature.com/articles/s41467-025-68108-2) |
 | keyword_rejected | - | [NASA Postpones Spacewalk Just Hours Before Astronauts Were t](https://www.scientificamerican.com/article/nasa-postpones-spacewalk-just-hours-before-astronauts-were-to-exit-iss/) |
 | keyword_rejected | - | [Dynamic microvascular monitoring with miniaturized omnidirec](https://www.nature.com/articles/s41467-025-68190-6) |
 | keyword_rejected | - | [Boron neutron capture therapy preserves immune cells and ind](https://www.nature.com/articles/s41467-025-67984-y) |

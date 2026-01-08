@@ -1,5 +1,56 @@
 [
   {
+    "title": "Pulsed evolution shaped extant angiosperm pollen disparity",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68253-8",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-68253-8"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Analyzes how episodic ('pulsed') evolutionary dynamics shaped morphological disparity in modern flowering-plant pollen, offering general evolutionary-pattern context but little direct relevance to origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Perioperative tislelizumab plus lenvatinib treatment for resectable hepatocellular carcinoma at high risk of recurrence: single-arm phase II trial",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68108-2\">doi:10.1038/s41467-025-68108-2</a></p>Hepatectomy is an important part of hepatocellular carcinoma (HCC) treatment but postoperative recurrence limits long-term survival. Here, the authors report a phase II clinical trial investigating perioperative tislelizumab (anti-PD-1) and lenvatinib (multi tyrosine kinase inhibitor) in patients with resectable HCC with a high-risk of recurrence.",
+    "url": "https://www.nature.com/articles/s41467-025-68108-2",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Electronegativity and entropy design of layered oxides for sodium-ion batteries",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68016-5\">doi:10.1038/s41467-025-68016-5</a></p>The structure of layered oxides dictates their properties as positive electrodes in sodium-ion batteries, but its rational design remains challenging. Here, authors employ electronegativity and configurational entropy as a design descriptor to guide the synthesis of a sodium-deficient layered oxide with an O3 stacking sequence, rendering good thermal and air stability.",
+    "url": "https://www.nature.com/articles/s41467-025-68016-5",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Critical impact of automobile industry with advanced decision support system and Acz\u00e9l-Alsina Hammy mean operators",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-24344-6\">doi:10.1038/s41598-025-24344-6</a></p>Critical impact of automobile industry with advanced decision support system and Acz\u00e9l-Alsina Hammy mean operators",
+    "url": "https://www.nature.com/articles/s41598-025-24344-6",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Ladderization: A Powerful Strategy for Controlling Supramolecular Helical Ordering, Amplifying Asymmetry, and Emerging and Enhancing Circularly Polarized Luminescence",
     "summary": "We report the synthesis of optically-active pi-conjugated coplanar ladder polymers with enantiopure side groups that enable helical ordering-induced circular dichroism (CD) and circularly polarized luminescence (CPL) in a specific solvent mixture and in the film state, whereas the corresponding linear polymer precursor showed a negligible CD and CPL in any state, demonstrating the key role of the coplanar ladder framework in forming well-ordered supramolecular chiral aggregates. The CPL activities of the pristine films of the chiral ladder polymers were significantly enhanced after solvent vapor exposure, leading to a luminescence dissymmetry factor exceeding 0.1, which arises from the more ordered helical aggregation. This methodology for enhancing the CPL was versatile and highly effective in generating a comparably intense CPL even when the films contained up to 75 mol% of an achiral analogue of the chiral ladder polymer, demonstrating strong amplification of the asymmetry. Furthermore, the CPL color of the film could be readily tuned by F\u00f6rster resonance energy transfer to an achiral ladder polymer with a backbone structure different from that of the chiral ladder polymer.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0hz7r?rft_dat=source%3Ddrss",
