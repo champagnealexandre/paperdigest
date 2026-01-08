@@ -1,5 +1,166 @@
 [
   {
+    "title": "The Gated Quantum Resonator: A Bayesian\nCircuit\u2013Hamiltonian Framework for Catalysis,\nEnzymology,  Materials\nScience and UPE.",
+    "summary": "Molecular dynamics (MD) and hybrid quantum\u2013classical (QM/MM) methods provide powerful tools for simulating chemical and biological systems, yet their application to long-timescale, strongly coupled processes remains limited by non-integrability, chaotic sensitivity, and extreme time-scale separation. These limitations motivate complementary formalisms that emphasize structure, constraint, and evidence integration over brute-force trajectory resolution. Here we introduce the Gated Quantum Resonator (GQR) framework, a Bayesian circuit\u2013Hamiltonian formalism in which reactive coordinates are modeled as coupled vibronic\u2013electronic resonators with gateable interactions. Linearization around operating points maps the effective Hamiltonian onto electrical network analogues, enabling transparent parameterization and rapid Bayesian updating from spectroscopic and mechanistic evidence. The framework provides a unified language for describing non-Arrhenius kinetics, tunnelling assisted by constrained vibronic coherence, and mode-selective transport in open quantum systems. Without resolving full many-body trajectories, GQR identifies protected dynamical subspaces in which coherent evolution can persist under environmental coupling. This formulation is applicable across enzymatic catalysis, heterogeneous and electrocatalytic systems, and radiative phenomena, offering a tractable complement to conventional simulation approaches for hypothesis generation, model reduction, and mechanistic discrimination.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Proposes a Bayesian circuit\u2013Hamiltonian \u201cGated Quantum Resonator\u201d formalism to model catalysis and tunneling/coherence effects in complex reactive systems, offering a potentially useful (but indirect) theoretical tool for origins-of-life chemistry via improved mechanistic discrimination without explicit long-timescale MD/QM-MM trajectories."
+    }
+  },
+  {
+    "title": "A Stable Mesoporous Zeolite with Unprecedented 36-Ring Channels",
+    "summary": "Expanding the pore size of zeolites beyond the microporous regime has long been constrained by conventional organic structure-directing agents (OSDAs). Here we report JU-69, a mesoporous pure-silica zeolite featuring one-dimensional 36-ring channels, which represent the largest apertures observed in any tetrahedral framework, and an ultralow framework density (9.53 T/1000 \u00c53). A surfactant-like phosphonium OSDA, combining bulky head groups with a long alkyl chain, directs the formation of columnar assemblies that template long-range-ordered mesoporous walls. Three-dimensional electron diffraction reveals a trigonal framework constructed from three composite building units (CBUs), including two previously unknown CBUs that generate chiral clover motifs and circular 36-ring pores. JU-69 shows outstanding stability up to 900 \u2103 and hosts periodically arranged silanol groups ideal for metal anchoring, exemplified by active Pd/JU-69 hydrogenation catalysts. This work establishes a new pathway for designing crystalline mesoporous zeolites with unprecedented structural openness.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-d9tsz?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "GroLigFF 2.0: GROMOS force field compatible parameters for Heteromolecules",
+    "summary": "A web-server to generate GROMOS (force field)-compatible parameters for large organic drug-like molecules, complex natural products, macromolecules and polymers is presented. The web-server GroLigFF (https://groligff.net) provides force field topology and parameters that can be used to perform Molecular Dynamics (MD) simulations, Linear Interaction Energy (LIE) calculations and Alchemical Free Energy (FE) calculations. The force field description is generated combining the GROMOS 54A7 biomolecular force field for bonded and van der Waals parameters with a Bond Charge Increment (BCI) Model for partial atomic charges. The output parameters can be used with Gromos, Gromacs and Amber (with gromos2amber conversion) programs with a recommended single range 1.4 nm cut-off for non-bonded interactions. In addition, the \u201cBCI atomic charges\u201d can be extracted from the output MOL2 file and can be used an alternate charge model for OPLS, GAFF, CHARMM and OpenFF force field topologies for heteromolecules, additional validation may be required.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-400k5?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Atomistic insights into the chemical stability and ionic transport at Li-metal/Li-Argyrodite interfaces",
+    "summary": "All solid-state batteries (ASSBs) based on solid-state electrolytes (SSEs) are a novel Li-ion battery technology with the potential of enhanced safety, longer lifetimes, and increased energy density when coupled with the Li-metal anode. Li-Argyrodite (Li6PS5Cl) is a promising SSE with high ionic conductivity, produced using cheap and sustainable precursors, and therefore of interest to both academia and industry. Like many other sulfide-based SSEs, it is however unstable against Li-metal. Using ab-initio and machine-learning methods, we simulate three representative Li-metal/Li-Argyrodite interface models to investigate whether the exact surface termination affects the chemical stability and ion transport capability. We present a systematic approach to create low-energy interfaces by screening 28 low Miller-index surface terminations of Li-argyrodite and coupling them with Li-metal. Custom-made machine-learned interatomic potentials trained on ab-initio data enable the simulation of large interface models with over 2000 atoms for 5 ns. We find that all three interfaces decompose into an amorphous solid-electrolyte interphase (SEI) layer, consisting of Li3P, Li2S and LiCl, which then crystallizes into an antifluorite phase Li2S{1-x-y}P{x}Cl{y}; {x,y = 0.14-0.15}. A two orders of magnitude decrease in Li-ion flux shows that the crystalline SEI layer is a sluggish ion conductor, similar to Li2S. While all three interfaces form the same crystalline SEI layer, the exact rates of the decomposition and crystallisation depend on the actual surface composition. These atomic-level insights could potentially be used to control the SEI formation in sulphide-based SSEs and others.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-5d9nq-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Phase-Templated Poly(ethylene glycol) Sponges for Programmable Porosity and Bone Regeneration",
+    "summary": "Synthetic hydrogels rarely form the porous, cell-permissive architectures required for effective tissue regeneration. Here, we report a poly(ethylene glycol) (PEG) sponge hydrogel whose macroporous network is pre-programmed through gel\u2013gel phase separation (GGPS) and stabilized by freeze\u2013thaw processing. This mechanism generates fully interconnected pores up to 150 \u03bcm in size, larger than those typically achieved in conventional PEG hydrogels, while preserving mechanical resilience and eliminating swelling. The resulting architecture supports infiltration and three-dimensional expansion of human mesenchymal stem cells and directs lineage specification through pore-geometry\u2013dependent mechanotransduction. When functionalized with osteoinductive cues, the sponge promotes robust regeneration of critical-sized cranial defects. By coupling polymer phase behavior with precise structural control, this strategy establishes a scalable route to architecturally defined synthetic scaffolds for regenerative medicine.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-jtdlz?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Repeating fast radio burst shows diverse activity and hints at magnetar origin",
+    "summary": "Using the upgraded Giant Metrewave Radio Telescope (uGMRT), Indian astronomers have performed multi-frequency observations of a repeating fast radio burst designated FRB 20201124A. Results of these observations shed more light on the activity and properties of this burst. The new findings were presented in a paper published December 31 on the arXiv preprint server.",
+    "url": "https://phys.org/news/2026-01-fast-radio-diverse-hints-magnetar.html",
+    "published_date": "2026-01-08T13:10:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Casein kinase 1a mediates a two-step subunit remodeling mechanism to regulate the FRQ-FRH circadian clock complex",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68087-4",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "METTL3 abrogation promotes glioma progression through regulating the ISG15-FASN axis-mediated lipid metabolism in macrophages",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68079-4",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The missense mutation Y65C in PQBP1 causes microcephaly and cognitive deficits through a combination of partial loss-of-function and gain-of-function effects",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68202-5",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Genomic dissection of the clonal background and global dissemination of hypervirulent Klebsiella pneumoniae CG23-KL57 lineage",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68184-4",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "TIGIT disruption rescues the antitumor activity of low avidity TCR-engineered T cells by increasing TCR signal strength",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67263-w",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Putting immune cells into \u2018night mode\u2019 reduces heart-attack damage",
+    "summary": "<p>Nature, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00008-x\">doi:10.1038/d41586-026-00008-x</a></p>Drugs that limit the activity of cells called neutrophils could make heart attacks less severe without compromising the immune system.",
+    "url": "https://www.nature.com/articles/d41586-026-00008-x",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le chat marsupial du nord de retour dans un important sanctuaire",
+    "summary": "Le&nbsp;chat marsupial du nord semblait avoir d\u00e9sert\u00e9 le sanctuaire australien des plaines de Piccaninny depuis des d\u00e9cennies. Finalement, un sp\u00e9cimen a \u00e9t\u00e9 aper\u00e7u, une excellente nouvelle pour cette esp\u00e8ce en danger d'extinction.",
+    "url": "https://www.sciencesetavenir.fr/animaux/biodiversite/le-chat-marsupial-du-nord-apercu-pour-la-premiere-fois-depuis-80-ans-dans-un-important-sanctuaire_190321?xtor=RSS-26",
+    "published_date": "2026-01-08T12:46:41Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Temp\u00eate Goretti : des rafales jusqu\u2019\u00e0 160 km/h attendues dans la Manche",
+    "summary": "Le nord-ouest de la France s\u2019appr\u00eate \u00e0 affronter la temp\u00eate Goretti, avec des vents violents comparables \u00e0 ceux de Ciaran. La Manche est plac\u00e9e en vigilance rouge : \u00e9coles ferm\u00e9es, d\u00e9placements restreints et trains suspendus.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/meteo/tempete-goretti-vents-violents-attendus-sur-le-nord-ouest-la-manche-en-vigilance-rouge_190320?xtor=RSS-15",
+    "published_date": "2026-01-08T09:48:51Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "The Chemical Bond in Several Di-Atomics - Orbital Exchange Calculations",
     "summary": "This paper extends orbital exchange method calculations to include a series of di-atomic molecules: NO+,CO, CO+, BO, BF, BeF, LiF, and Li2. BF, BeF and LiF are more accurately described as B+F-, Be+F- and Li+F- as there is no net overlap of the orbitals on the bonding ions. The sigma orbitals on B+ and Be+ are made orthogonal to the F- sigma orbitals and the sigma orbitals on F- made orthogonal to the 1s core orbitals of B+ ,Be+, and Li+. NO+, CO, CO+ and BO have dual sigma bonds and exhibit pi resonance. The bond length results for NO+, CO, and CO+ are within about 0.005 Angstrom units of experiment. The bond energy results for NO+, CO, and CO+ are within 2 percent of experiment Precise bond lengths are not consistently obtained for the \u201cionic\u201d di-atomics, B+F-, Be+F- and Li+F, primarily because these are not subject to the usual overlap\u22641.0 constraint. Precise bond energy and bond length are not obtained for Li2 (and to a lesser extent BO) because of the difficulty in precisely defining the orthogonalization parameters for the light elements.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-k73wv?rft_dat=source%3Ddrss",

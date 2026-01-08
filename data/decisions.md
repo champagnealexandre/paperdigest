@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [The Gated Quantum Resonator: A Bayesian
+Circuit–Hamiltonian ](https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Tempête Goretti : des rafales jusqu’à 160 km/h attendues dan](https://www.sciencesetavenir.fr/nature-environnement/meteo/tempete-goretti-vents-violents-attendus-sur-le-nord-ouest-la-manche-en-vigilance-rouge_190320?xtor=RSS-15) |
+| keyword_rejected | - | [Le chat marsupial du nord de retour dans un important sanctu](https://www.sciencesetavenir.fr/animaux/biodiversite/le-chat-marsupial-du-nord-apercu-pour-la-premiere-fois-depuis-80-ans-dans-un-important-sanctuaire_190321?xtor=RSS-26) |
+| keyword_rejected | - | [Putting immune cells into ‘night mode’ reduces heart-attack ](https://www.nature.com/articles/d41586-026-00008-x) |
+| keyword_rejected | - | [TIGIT disruption rescues the antitumor activity of low avidi](https://www.nature.com/articles/s41467-025-67263-w) |
+| keyword_rejected | - | [Genomic dissection of the clonal background and global disse](https://www.nature.com/articles/s41467-025-68184-4) |
+| keyword_rejected | - | [The missense mutation Y65C in PQBP1 causes microcephaly and ](https://www.nature.com/articles/s41467-025-68202-5) |
+| keyword_rejected | - | [METTL3 abrogation promotes glioma progression through regula](https://www.nature.com/articles/s41467-025-68079-4) |
+| keyword_rejected | - | [Casein kinase 1a mediates a two-step subunit remodeling mech](https://www.nature.com/articles/s41467-025-68087-4) |
+| keyword_rejected | - | [Repeating fast radio burst shows diverse activity and hints ](https://phys.org/news/2026-01-fast-radio-diverse-hints-magnetar.html) |
+| keyword_rejected | - | [Phase-Templated Poly(ethylene glycol) Sponges for Programmab](https://dx.doi.org/10.26434/chemrxiv-2026-jtdlz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Atomistic insights into the chemical stability and ionic tra](https://dx.doi.org/10.26434/chemrxiv-2026-5d9nq-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [GroLigFF 2.0: GROMOS force field compatible parameters for H](https://dx.doi.org/10.26434/chemrxiv-2026-400k5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Stable Mesoporous Zeolite with Unprecedented 36-Ring Chann](https://dx.doi.org/10.26434/chemrxiv-2026-d9tsz?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Jellyfish and Sea Anemones Sleep Just Like Us](https://www.scientificamerican.com/article/jellyfish-and-sea-anemones-sleep-just-like-us/) |
 | keyword_rejected | - | [Why connecting with nature shouldn't mean disconnecting from](https://www.newscientist.com/article/mg26935773-600-why-connecting-with-nature-shouldnt-mean-disconnecting-from-science/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Will mpox go global again? Research shows it's evolving in c](https://www.nature.com/articles/d41586-025-04154-6) |

@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T12:38:02.715994+00:00</updated>
+  <updated>2026-01-08T13:38:20.191117+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] ChemRxiv ▶ The Gated Quantum Resonator: A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE.</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Molecular dynamics (MD) and hybrid quantum–classical (QM/MM) methods provide powerful tools for simulating chemical and biological systems, yet their application to long-timescale, strongly coupled pr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Proposes a Bayesian circuit–Hamiltonian “Gated Quantum Resonator” formalism to model catalysis and tunneling/coherence effects in complex reactive systems, offering a potentially useful (but indirect) theoretical tool for origins-of-life chemistry via improved mechanistic discrimination without explicit long-timescale MD/QM-MM trajectories.</p>
+<p><strong>Abstract:</strong> Molecular dynamics (MD) and hybrid quantum–classical (QM/MM) methods provide powerful tools for simulating chemical and biological systems, yet their application to long-timescale, strongly coupled processes remains limited by non-integrability, chaotic sensitivity, and extreme time-scale separation. These limitations motivate complementary formalisms that emphasize structure, constraint, and evidence integration over brute-force trajectory resolution. Here we introduce the Gated Quantum Resonator (GQR) framework, a Bayesian circuit–Hamiltonian formalism in which reactive coordinates are modeled as coupled vibronic–electronic resonators with gateable interactions. Linearization around operating points maps the effective Hamiltonian onto electrical network analogues, enabling transparent parameterization and rapid Bayesian updating from spectroscopic and mechanistic evidence. The framework provides a unified language for describing non-Arrhenius kinetics, tunnelling assisted by constrained vibronic coherence, and mode-selective transport in open quantum systems. Without resolving full many-body trajectories, GQR identifies protected dynamical subspaces in which coherent evolution can persist under environmental coupling. This formulation is applicable across enzymatic catalysis, heterogeneous and electrocatalytic systems, and radiative phenomena, offering a tractable complement to conventional simulation approaches for hypothesis generation, model reduction, and mechanistic discrimination.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] nature.com - Nature Physics ▶ A polyhedral structure controls programmable self-assembly</title>
     <link href="https://www.nature.com/articles/s41567-025-03120-3"/>
