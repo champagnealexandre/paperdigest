@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Dynamic RNA Polymerase compartments organize the transcripti](https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1) |
+| ai_scored | 45 | [DeepKOALA: A Fast and Accurate Deep Learning Framework for K](https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1) |
+| keyword_rejected | - | [Ancêtre d’Homo sapiens, militarisation de l’espace et prises](https://www.sciencesetavenir.fr/ultrabreves/ancetre-d-homo-sapiens-militarisation-de-l-espace-et-prises-accidentelles-de-dauphins-l-actu-des-sciences-en-ultrabreves_190326) |
+| keyword_rejected | - | [Ultra-broadband near- to mid-infrared electro-optic modulato](https://www.nature.com/articles/s41467-025-67902-2) |
+| keyword_rejected | - | [Dissecting surveying behavior of reactive microglia under ch](https://elifesciences.org/articles/107650) |
+| keyword_rejected | - | [Phase-specific premotor inhibition modulates leech rhythmic ](https://elifesciences.org/articles/104921) |
+| keyword_rejected | - | [Cross-species evaluation of TANGO2 homologs, including HRG-9](https://elifesciences.org/articles/105418) |
+| keyword_rejected | - | [ATGL-mediated lipid droplet lipolysis promotes collective mi](https://www.biorxiv.org/content/10.64898/2026.01.06.697938v1?rss=1) |
+| keyword_rejected | - | [Mast cell-driven adipocyte lipolysis promotes post-expansive](https://www.biorxiv.org/content/10.64898/2026.01.07.698076v1?rss=1) |
+| keyword_rejected | - | [Biomolecular condensate architecture of an autophagic cargo ](https://www.biorxiv.org/content/10.64898/2026.01.07.698105v1?rss=1) |
 | keyword_rejected | - | [Le problème du canapé dans un couloir anguleux, une énigme m](https://www.sciencesetavenir.fr/fondamental/mathematiques/le-probleme-du-canape-dans-un-couloir-anguleux-semble-resolu_190322?xtor=RSS-10) |
 | keyword_rejected | - | [Cosmic lens reveals hyperactive cradle of future galaxy clus](https://phys.org/news/2026-01-cosmic-lens-reveals-hyperactive-cradle.html) |
 | keyword_rejected | - | [Astrophysicists map how many ghost particles all the Milky W](https://phys.org/news/2026-01-astrophysicists-ghost-particles-milky-stars.html) |

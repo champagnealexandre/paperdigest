@@ -1,5 +1,130 @@
 [
   {
+    "title": "DeepKOALA: A Fast and Accurate Deep Learning Framework for KEGG Orthology Assignment",
+    "summary": "The KEGG Orthology (KO) system links DNA and protein sequences to biological functions and pathways, providing a curated, fundamental and consistent annotation framework across all domains of life. While accurate, traditional sequence alignment-based annotation methods are computationally expensive, which severely limits their application in large-scale datasets. To address this challenge, we introduce DeepKOALA, a deep learning approach based on Gated Recurrent Units (GRU), which frames KO annotation as an open-set recognition task. This design reduces false positives arising from out-of-scope sequences and, together with a lightweight GRU backbone, enables high-throughput annotation. The GRU-based model was benchmarked against four other deep learning architectures and showed the best balance between speed and accuracy. We further performed a cross-species evaluation of DeepKOALA in comparison with existing KO annotation tools, where it achieved an F1-score of 0.8653 and 37.5-fold acceleration compared with BlastKOALA. We also provide a specialized fragment model for handling incomplete sequences and an optional Multi-domain mode. Together, these features make DeepKOALA a scalable, efficient, and accurate solution for high-throughput function annotation.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "DeepKOALA is a fast GRU-based deep learning tool for KEGG Orthology assignment that accelerates large-scale DNA/protein functional annotation but is only indirectly relevant to origins-of-life research as a general bioinformatics enabler."
+    }
+  },
+  {
+    "title": "Dynamic RNA Polymerase compartments organize the transcription of gene clusters",
+    "summary": "Spatial organization of transcription machinery is emerging as a key regulator of gene expression, yet how RNA polymerases are organized at gene clusters remains unclear. Here, we show that RNA polymerases II and polymerase III form distinct nuclear foci at the 5S ribosomal DNA (rDNA)-Spliced leader 1 (SL1) cluster in C. elegans. Within this cluster, polymerase II binds to the SL1 gene, while polymerase III associates with 5S rDNA. Both polymerase foci display dynamic but distinct behaviors within the nucleus. The assembly of these polymerase foci is regulated across the cell cycle. ATTF-6, an AT-hook transcription factor, is essential for polymerases II foci formation but dispensable for polymerases III foci. While Pol III foci are largely resistant to temperature changes, Pol II foci are temperature-sensitive, and their dissolution correlates with reduced SL1 expression. Together, these results reveal a spatial and temporal regulation of two RNA polymerases that organize gene cluster transcription.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA",
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "In C. elegans, RNA polymerases II and III self-organize into distinct, cell-cycle-regulated nuclear foci at the 5S rDNA\u2013SL1 gene cluster, with Pol II foci being ATTF-6-dependent and temperature-sensitive in a way that impacts SL1 transcription."
+    }
+  },
+  {
+    "title": "Biomolecular condensate architecture of an autophagic cargo at molecular resolution in situ",
+    "summary": "Biomolecular condensates organise cellular biochemistry, yet their molecular architecture in situ remains poorly understood. During selective autophagy, macromolecules frequently accumulate into biomolecular condensates, forming discrete entities for autophagic engulfment and degradation - ideal systems for structural analysis. We employed in situ cryo-electron tomography to determine the near-atomic resolution structure of Aminopeptidase 1 condensates within cells. These condensates form densely packed, spherical assemblies with amorphous organisation and liquid-like properties, elucidating the requirements of a selective autophagic cargo for exclusive targeting. Structural analysis and multiscale simulations reveal that the short, transient -helical structures in the disordered N-terminus of Aminopeptidase 1 enable site-specific, coiled-coil-like interactions required for condensate formation and properties. A single point mutation that increases -helical propensity directly modulates condensate viscosity and dynamics from a liquid-like to a glass-like state, while preserving local molecular packing. Our results demonstrate that disordered regions encode both specificity and material properties through transiently structured motifs, linking sequence specificity to phase behaviour in cells and expanding the molecular logic of phase separation in cells.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698105v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mast cell-driven adipocyte lipolysis promotes post-expansive VAT atrophy and ectopic hepatic steatosis",
+    "summary": "Excessive visceral fat is an essential risk factor of metabolic dysfunction-associated steatotic liver disease (MASLD). Yet, the cellular and molecular mechanisms implicated in the correlation between visceral fat metabolism and hepatic steatosis remain poorly understood. Here we report post-expansive epididymal adipose tissue (EAT) atrophy and hepatic steatosis in mice fed a high-fat diet (HFD) primarily due to elevated adipocyte lipolysis in EAT. Mast cell (MC) accumulation in EAT represents a lipolysis-associated feature. Pharmacological stabilization of MCs suppresses EAT adipocyte lipolysis, and improves EAT atrophy and hepatic steatosis. MC-derived serotonin (5-HT) correlates with visceral adipose tissue (VAT) lipolysis in HFD-fed mice as well as in MASLD patients. Conditional deletion of 5-HT from MCs or its receptor HTR2b on adipocytes demonstrates that MC-derived 5-HT promotes adipocyte lipolysis, EAT atrophy, and hepatic steatosis by binding on adipocyte HTR2b. These results suggest that MCs and MC-derived 5-HT are potential therapeutic targets for obesity-associated MASLD.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698076v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ATGL-mediated lipid droplet lipolysis promotes collective migration in Drosophila",
+    "summary": "While lipid droplets (LDs), dynamic organelles central to lipid and energy homeostasis, are implicated in cancer cell migration, their roles during collective cell migration remain unknown. We use Drosophila border cell migration as an in vivo model of invasive, collective cell migration to dissect the roles of LDs and the conserved LD lipase, Adipose Triglyceride Lipase (ATGL). Border cell LDs undergo dynamic changes and decrease in volume by the end of migration. Loss of ATGL increases LD volume, whereas border cell overexpression depletes LDs. Loss, border cell knockdown or overexpression of ATGL delays migration and blocks delamination. Further, loss of ATGL disrupts border cell mitochondria - it alters morphology, reduces membrane potential and increases reactive oxygen species. These results demonstrate that tight regulation of lipid mobilization from LDs, including for energy production, drives delamination and collective migration. Our findings not only have the potential to inform how cancer cells exploit LDs to promote their invasive behaviors but also highlight the crucial role of LDs in migration during development, hinting at their broader significance in diverse migratory contexts.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697938v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cross-species evaluation of TANGO2 homologs, including HRG-9 and HRG-10 in <i>Caenorhabditis elegans,</i> challenges a proposed role in heme trafficking",
+    "summary": "Mutations in the <i>TANGO2</i> gene are associated with a severe neurometabolic disorder in humans, often presenting with life-threatening metabolic crisis. However, the function of TANGO2 protein remains unknown. It has recently been proposed that TANGO2 transports heme within and between cells, from areas with high heme concentrations to those with lower concentrations. Here, we demonstrate that prior heme-related observations in <i>Caenorhabditis elegans</i> lacking TANGO2 homologs HRG-9 and HRG-10 may be better explained by a previously unreported metabolic phenotype, characterized by reduced feeding, decreased lifespan and brood sizes, and poor motility. We also show that several genes not implicated in heme transport are upregulated in the low heme state and conversely demonstrate that <i>hrg-9</i> in particular is highly responsive to oxidative stress, independent of heme status. Collectively, these data implicate bioenergetic failure and oxidative stress as potential factors in the pathophysiology of TANGO2 deficiency, in alignment with observations from human patients. Our group performed several experiments in yeast and zebrafish deficient in TANGO2 homologs and was unable to replicate prior findings from these models. Overall, we believe there is insufficient evidence to support heme transport as the primary function for TANGO2.",
+    "url": "https://elifesciences.org/articles/105418",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Phase-specific premotor inhibition modulates leech rhythmic motor output",
+    "summary": "Understanding how motoneuron activity is finely tuned remains an open question. Leeches are a highly suitable organism for studying motor control due to their well-characterized behaviors and relatively simple nervous system. On solid surfaces, leeches display crawling, a rhythmic motor pattern that can be elicited in the isolated nerve cord or even in single ganglia isolated from it. This study aimed to learn how this motor output is shaped by concurrent premotor signals. Specifically, we analyzed how electrophysiological manipulation of a premotor nonspiking (NS) neuron, which forms a recurrent inhibitory circuit (analogous to that formed by vertebrate Renshaw cells), shapes the leech crawling motor pattern. The study included a quantitative analysis of putative motor units active throughout the fictive crawling cycle that shows that the rhythmic motor output in isolated ganglia mirrors the phase relationships observed in vivo. Taken together, the study reveals that the premotor NS neurons, under the control of the segmental pattern generator, modulated the degree of excitation of motoneurons during crawling in a phase-specific manner.",
+    "url": "https://elifesciences.org/articles/104921",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dissecting surveying behavior of reactive microglia under chronic neurodegeneration",
+    "summary": "In the healthy brain, microglia maintain homeostasis by continuously surveying neuronal health through highly dynamic processes that form purinergic junctions with neuronal somas. These mechanisms are finely tuned for the rapid detection of acute injuries. However, during the transition to a chronically reactive state in neurodegenerative diseases, microglial ramification decreases even as the need for neuronal monitoring escalates. How reactive microglia adapt their surveillance strategies under these conditions remains poorly understood. Using time-lapse imaging of acute brain slices from prion-infected mice, we identified a previously unrecognized mode of neuronal surveillance employed by reactive microglia. Unlike homeostatic microglia, which exhibit low somatic mobility and high process motility, enabling broad, simultaneous monitoring, reactive microglia display high somatic mobility. These cells actively migrate through the brain parenchyma, pausing to form direct and extensive body-to-body contacts with individual neurons. Contact durations ranged from minutes to several hours, often involving partial or full somatic envelopment, with transitions between these states being both frequent and reversible. Notably, reactive microglia exhibited sustained intracellular calcium bursts correlated with their increased mobility. Pharmacological inhibition of the P2Y6 receptor partially reduced microglial migration without disrupting their ability to form neuronal contacts. Furthermore, this highly mobile behavior persisted in acutely isolated reactive microglia in vitro, even in the absence of external stimuli, indicating that dynamic mobility is an intrinsic feature of the reactive phenotype. These findings reveal a fundamental shift in microglial surveillance architecture during chronic neurodegeneration \u2013 transforming from static, multi-neuron monitoring to dynamic, neuron-by-neuron engagement. This work uncovers a novel, adaptive strategy of microglial behavior with critical implications for understanding microglia\u2013neuron interaction under chronic neurodegeneration.",
+    "url": "https://elifesciences.org/articles/107650",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ultra-broadband near- to mid-infrared electro-optic modulator on thin-film lithium niobate",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67902-2\">doi:10.1038/s41467-025-67902-2</a></p>This work demonstrates a thin-film lithium niobate modulator with an 800-nm operational bandwidth covering from near- to mid-infrared region, enabling single-lane 240\u2009Gbps and 170\u2009Gbps PAM-4 transmission at all O-U bands and 2-\u03bcm band, respectively.",
+    "url": "https://www.nature.com/articles/s41467-025-67902-2",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Anc\u00eatre d\u2019Homo sapiens, militarisation de l\u2019espace et prises accidentelles de dauphins : l\u2019actu des sciences",
+    "summary": "Au sommaire des ultrabr\u00e8ves du 8 janvier 2026 : la datation d\u2019un fossile d'anc\u00eatre d\u2019Homo Sapiens et de Neandertal, un projet de militarisation de l\u2019espace et les explications de la hausse de prises accidentelles de dauphins.",
+    "url": "https://www.sciencesetavenir.fr/ultrabreves/ancetre-d-homo-sapiens-militarisation-de-l-espace-et-prises-accidentelles-de-dauphins-l-actu-des-sciences-en-ultrabreves_190326",
+    "published_date": "2026-01-08T14:47:54Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Mechanism of Alkaline Gating in a Pentameric Ion Channel",
     "summary": "Pentameric ligand-gated ion channels (pLGICs) are key mediators of electrochemical signal transduction in various organisms. Like many proteins involved in cellular signaling, they are modulated by a variety of environmental factors including pH and small molecules. However, the molecular mechanisms underlying pLGIC activation and modulation remain unclear. A promising model system in this family is the bacterial ion channel sTeLIC, which can be activated by alkaline pH, and for which we recently determined structures in multiple functional states. However, protonation changes and other pH-driven dynamics cannot be directly observed in these structures. Here, we used constant-pH molecular dynamics simulations and oocyte-electrophysiology recordings from engineered mutants to develop a comprehensive mechanistic model for pH sensing. Interestingly, critical residues include two Glu residues (E106, E160) located in the extracellular-vestibule and domain-interface regions of each subunit, where they mediate differential electrostatic interactions in closed versus open states. This work demonstrates the applicability of constant-pH methods to model dynamic processes in a multimeric membrane-embedded protein, and offers a detailed mechanism for pH sensing, likely extensible to human drug targets.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698087v1?rss=1",

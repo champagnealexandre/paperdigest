@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T14:21:33.837511+00:00</updated>
+  <updated>2026-01-08T15:21:43.877299+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] bioinformatics - biorXiv Preprints ▶ DeepKOALA: A Fast and Accurate Deep Learning Framework for KEGG Orthology Assignment</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>The KEGG Orthology (KO) system links DNA and protein sequences to biological functions and pathways, providing a curated, fundamental and consistent annotation framework across all domains of life. Wh</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> DeepKOALA is a fast GRU-based deep learning tool for KEGG Orthology assignment that accelerates large-scale DNA/protein functional annotation but is only indirectly relevant to origins-of-life research as a general bioinformatics enabler.</p>
+<p><strong>Abstract:</strong> The KEGG Orthology (KO) system links DNA and protein sequences to biological functions and pathways, providing a curated, fundamental and consistent annotation framework across all domains of life. While accurate, traditional sequence alignment-based annotation methods are computationally expensive, which severely limits their application in large-scale datasets. To address this challenge, we introduce DeepKOALA, a deep learning approach based on Gated Recurrent Units (GRU), which frames KO annotation as an open-set recognition task. This design reduces false positives arising from out-of-scope sequences and, together with a lightweight GRU backbone, enables high-throughput annotation. The GRU-based model was benchmarked against four other deep learning architectures and showed the best balance between speed and accuracy. We further performed a cross-species evaluation of DeepKOALA in comparison with existing KO annotation tools, where it achieved an F1-score of 0.8653 and 37.5-fold acceleration compared with BlastKOALA. We also provide a specialized fragment model for handling incomplete sequences and an optional Multi-domain mode. Together, these features make DeepKOALA a scalable, efficient, and accurate solution for high-throughput function annotation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] cell biology - biorXiv Preprints ▶ Dynamic RNA Polymerase compartments organize the transcription of gene clusters</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Spatial organization of transcription machinery is emerging as a key regulator of gene expression, yet how RNA polymerases are organized at gene clusters remains unclear. Here, we show that RNA polyme</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> In C. elegans, RNA polymerases II and III self-organize into distinct, cell-cycle-regulated nuclear foci at the 5S rDNA–SL1 gene cluster, with Pol II foci being ATTF-6-dependent and temperature-sensitive in a way that impacts SL1 transcription.</p>
+<p><strong>Abstract:</strong> Spatial organization of transcription machinery is emerging as a key regulator of gene expression, yet how RNA polymerases are organized at gene clusters remains unclear. Here, we show that RNA polymerases II and polymerase III form distinct nuclear foci at the 5S ribosomal DNA (rDNA)-Spliced leader 1 (SL1) cluster in C. elegans. Within this cluster, polymerase II binds to the SL1 gene, while polymerase III associates with 5S rDNA. Both polymerase foci display dynamic but distinct behaviors within the nucleus. The assembly of these polymerase foci is regulated across the cell cycle. ATTF-6, an AT-hook transcription factor, is essential for polymerases II foci formation but dispensable for polymerases III foci. While Pol III foci are largely resistant to temperature changes, Pol II foci are temperature-sensitive, and their dissolution correlates with reduced SL1 expression. Together, these results reveal a spatial and temporal regulation of two RNA polymerases that organize gene cluster transcription.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] ChemRxiv ▶ The Gated Quantum Resonator: A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE.</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss"/>
