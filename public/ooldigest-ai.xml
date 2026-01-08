@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T06:28:45.535881+00:00</updated>
+  <updated>2026-01-08T07:21:53.823779+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [65] ChemRxiv ▶ Hierarchical chiral self-assembly of nanocylinders composed of sequence-defined mesogenic dimers</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Chirality can arise through supramolecular curvature that resolves geometric frustrations in the packing of bent, achiral molecular or colloidal building blocks. Here, we leverage orthogonal protectio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality, self-assembly</p>
+<p><strong>AI Decision:</strong> ChemRxiv study showing how subtle sequence-level changes in achiral mesogenic dimers drive hierarchical self-assembly into spontaneously chiral nanocylinder/spherulite structures, offering mechanistic insight relevant to potential prebiotic origins of chirality.</p>
+<p><strong>Abstract:</strong> Chirality can arise through supramolecular curvature that resolves geometric frustrations in the packing of bent, achiral molecular or colloidal building blocks. Here, we leverage orthogonal protection-deprotection click chemistry to create sequence-defined mesogenic heterodimers exhibiting emergent chirality. We compare the hierarchical self-assembly of the synthesized asymmetric, achiral heterodimers which differ only in the position of a methyl substituent. Both dimers form chiral spherulites composed of nanocylinders. However, the detailed arrangement of nanocylinders depends on the position of the methyl substituent and the crystallization conditions. Despite the chemical similarity, in one dimer, two crystalline forms exhibit optical rotation indicating the presence of chiral domains, while the crystalline phase of the other dimer does not exhibit optical rotation yet adopts a chiral assembly of nanocylinders. We propose that differences in nanocylinder arrangements may arise from changes in nanocylinder curvature and dimensions dictated by the methyl substituent position, inducing these divergent spontaneously chiral behaviors. These results highlight the role of sequence and molecular design in directing the bottom-up hierarchical self-assembly and chirality of mesogenic systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [5] cond-mat.dis-nn updates on arXiv.org ▶ Multifractality, percolation threshold and critical point of a nuclear reactor</title>
     <link href="https://arxiv.org/abs/2601.03399"/>

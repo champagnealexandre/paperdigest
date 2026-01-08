@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 65 | [Hierarchical chiral self-assembly of nanocylinders composed ](https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Anti-obésité: la vitesse de reprise du poids après l'arrêt d](https://www.sciencesetavenir.fr/sante/anti-obesite-la-vitesse-de-reprise-du-poids-apres-l-arret-des-traitements-eclaircie-par-une-etude_190318?xtor=RSS-16) |
+| keyword_rejected | - | [Single symmetric nanopores in ultrathin crystalline ferroele](https://www.nature.com/articles/s41467-025-68262-7) |
+| keyword_rejected | - | [Competition Between Enzymatic and Anodic Oxidation in Electr](https://dx.doi.org/10.26434/chemrxiv-2026-c7b95?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Optimal electrolyte pH for efficient quinone-based aqueous r](https://dx.doi.org/10.26434/chemrxiv-2025-8phqv-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Competition Between Enzymatic and Anodic Oxidation in Electr](https://dx.doi.org/10.26434/chemrxiv-2026-c7b95?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Machine-Learning-Accelerated Simulations of Vibrational Acti](https://dx.doi.org/10.26434/chemrxiv-2026-wlm7r?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Efficient and Accurate Prediction of Adsorption Energies via](https://dx.doi.org/10.26434/chemrxiv-2026-zbq6f?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [L’oiseau « aux quatre sexes » qui rebat les cartes du dimorp](https://www.pourlascience.fr/sd/biologie/l-oiseau-aux-quatre-sexes-qui-rebat-les-cartes-du-dimorphisme-sexuel-28583.php) |
 | keyword_rejected | - | [Butyrophilin 2A2 promotes T cell immunoregulation via CD45 p](https://www.nature.com/articles/s41467-025-68077-6) |
 | keyword_rejected | - | [The anionic states of ubiquinone characterised by second ord](https://dx.doi.org/10.26434/chemrxiv-2025-cw6hn-v2?rft_dat=source%3Ddrss) |

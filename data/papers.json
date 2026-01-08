@@ -1,5 +1,101 @@
 [
   {
+    "title": "Hierarchical chiral self-assembly of nanocylinders composed of sequence-defined mesogenic dimers",
+    "summary": "Chirality can arise through supramolecular curvature that resolves geometric frustrations in the packing of bent, achiral molecular or colloidal building blocks. Here, we leverage orthogonal protection-deprotection click chemistry to create sequence-defined mesogenic heterodimers exhibiting emergent chirality. We compare the hierarchical self-assembly of the synthesized asymmetric, achiral heterodimers which differ only in the position of a methyl substituent. Both dimers form chiral spherulites composed of nanocylinders. However, the detailed arrangement of nanocylinders depends on the position of the methyl substituent and the crystallization conditions. Despite the chemical similarity, in one dimer, two crystalline forms exhibit optical rotation indicating the presence of chiral domains, while the crystalline phase of the other dimer does not exhibit optical rotation yet adopts a chiral assembly of nanocylinders. We propose that differences in nanocylinder arrangements may arise from changes in nanocylinder curvature and dimensions dictated by the methyl substituent position, inducing these divergent spontaneously chiral behaviors. These results highlight the role of sequence and molecular design in directing the bottom-up hierarchical self-assembly and chirality of mesogenic systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "chirality",
+      "self-assembly"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "ChemRxiv study showing how subtle sequence-level changes in achiral mesogenic dimers drive hierarchical self-assembly into spontaneously chiral nanocylinder/spherulite structures, offering mechanistic insight relevant to potential prebiotic origins of chirality."
+    }
+  },
+  {
+    "title": "Efficient and Accurate Prediction of Adsorption Energies via a Hybrid PBE/CCSD(T) Scheme Using Hydrogen Saturated Clusters",
+    "summary": "Accurate prediction of adsorption energies remains a central challenge in heterogeneous catalysis, hindered by the trade-off between computational accuracy and efficiency. Conventional DFT with GGA functionals exhibits systematic overbinding errors, while high-accuracy methods like CCSD(T) remain prohibitively expensive for extended surfaces. To bridge this gap, we introduce a novel hybrid PBE/CCSD(T) embedding scheme. Our key innovations are twofold: (i) a robust hydrogen-saturation protocol for clusters that effectively mitigates boundary effects from truncation, and (ii) a linear interpolation strategy that leverages the strong correlation between PBE and CCSD(T) energies on clusters. This approach requires CCSD(T) calculations only for minimal clusters containing 1-3 metal atoms for CO adsorption on metal surfaces. Validated across a series of CO adsorption systems on transition metal surfaces (Pt, Pd, Rh, Cu, Ir, Ru), our method achieves corrected adsorption energies very close to experimental benchmarks. This work provides a general, efficient, and accurate framework for predictive modeling in surface science and catalysis.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-zbq6f?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Machine-Learning-Accelerated Simulations of Vibrational Activation for Controlled Photoisomerization in a Molecular Motor",
+    "summary": "The precise manipulation of photochemical reactions across broad configurational spaces requires sophisticated design of external control fields. Using the photoisomerization of a molecular motor as a prototype, this study integrates enhanced sampling and active learning to construct accurate machine-learned multi-state potential energy surfaces (PESs). By combining active-learning trajectories with enhanced sampling, our approach efficiently covers substantial reaction regions, enabling trajectory propagation extending to tens of picoseconds at a low computational cost within the machine learning framework. Furthermore, local control theory (LCT) is employed to selectively activate specific vibrational motions, leading to accelerated access to reactive regions, enhanced nonadiabatic transitions, and significantly improved selectivity toward the dominant photoproduct. This combined strategy of machine-learning potentials and LCT offers an efficient and generalizable framework for controlling excited-state dynamics in complex systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-wlm7r?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Competition Between Enzymatic and Anodic Oxidation in Electro-chemical Galactose Oxidase Catalysis",
+    "summary": "Electrochemical activation of galactose oxidase (GalOx) has emerged as a sustainable alternative to peroxide-driven systems for aerobic alcohol oxidation. Here, we present a systematic investigation of wild-type GalOx under electrochemical conditions for the oxidation of non-carbohydrate primary alcohols. While benzylic substrates undergo selective enzyme-mediated oxidation to the corresponding alde-hydes, we identify a prominent competing pathway in which weakly bound substrates are directly oxidized at the electrode surface, fre-quently resulting in over-oxidation to carboxylic acids. Using 4-methoxybenzyl alcohol as a diagnostic probe, we disentangle the enzymat-ic and non-enzymatic pathways and demonstrate that both applied potential and electrode material exert decisive control over product selectivity. In contrast, aryl 1,2-diols are oxidized exclusively through a direct anodic mechanism, completely bypassing enzymatic turno-ver. Collectively, these results define critical operational boundaries for electro-enzymatic GalOx catalysis and underscore the necessity of rigorous enzyme-free controls in the development of selective electrochemical biocatalytic oxidation platforms.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-c7b95?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Optimal electrolyte pH for efficient quinone-based aqueous redox flow batteries and solar cell integration",
+    "summary": "Quinone-based redox flow batteries (RFBs) have emerged as potential sustainable alternatives to conventional vanadium systems, offering lower costs, high abundance and compatibility with large-scale aqueous energy storage systems. Their tuneable redox potential with pH can also enable direct integration with photovoltaic (PV) devices for solar charging. However, the design of efficient quinone electrolytes requires a detailed understanding of pH-dependent proton-coupled electron transfer, which drives reaction kinetics. Here, we apply a pH buffering method to 2,7-AQDS anolyte to tune cell voltage, enabling efficient operation of a proof-of-concept solar redox flow battery (SRFB) with maximized solar-to-output electricity efficiency (SOEE). We also investigate how pH affects the charging reaction pathway and voltage efficiency (VE), establishing that a buffered 2,7-AQDS anolyte achieves optimal performance at pH 8\u201310.  These findings provide key insights into device integration and into the role of pH on the VE of quinone electrolytes. Importantly, this work establishes practical guidelines for pH optimisation in the design of the next-generation of quinone-based aqueous RFB and SRFB technologies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-8phqv-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Competition Between Enzymatic and Anodic Oxidation in Electro-chemical Galactose Oxidase Catalysis",
+    "summary": "Electrochemical activation of galactose oxidase (GalOx) has emerged as a sustainable alternative to peroxide-driven systems for aerobic alcohol oxidation. Here, we present a systematic investigation of wild-type GalOx under electrochemical conditions for the oxidation of non-carbohydrate primary alcohols. While benzylic substrates undergo selective enzyme-mediated oxidation to the corresponding alde-hydes, we identify a prominent competing pathway in which weakly bound substrates are directly oxidized at the electrode surface, fre-quently resulting in over-oxidation to carboxylic acids. Using 4-methoxybenzyl alcohol as a diagnostic probe, we disentangle the enzymat-ic and non-enzymatic pathways and demonstrate that both applied potential and electrode material exert decisive control over product selectivity. In contrast, aryl 1,2-diols are oxidized exclusively through a direct anodic mechanism, completely bypassing enzymatic turno-ver. Collectively, these results define critical operational boundaries for electro-enzymatic GalOx catalysis and underscore the necessity of rigorous enzyme-free controls in the development of selective electrochemical biocatalytic oxidation platforms.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-c7b95?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Single symmetric nanopores in ultrathin crystalline ferroelectric BiFeO<sub>3</sub> as polarization-switchable ionic diodes",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68262-7\">doi:10.1038/s41467-025-68262-7</a></p>Achieving directional ion transport in thin membranes is desirable yet challenging. Here, authors demonstrate an ultrathin ferroelectric single-pore membrane that enables polarization-driven ion rectification and hysteretic responses under pH stimuli.",
+    "url": "https://www.nature.com/articles/s41467-025-68262-7",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Anti-ob\u00e9sit\u00e9: la vitesse de reprise du poids apr\u00e8s l'arr\u00eat des traitements \u00e9claircie par une \u00e9tude",
+    "summary": "A l'arr\u00eat des traitements anti-ob\u00e9sit\u00e9, la reprise de poids est quatre fois plus rapide qu'apr\u00e8s l'interruption d'un r\u00e9gime et d'un programme d'activit\u00e9 physique, conclut une vaste \u00e9tude britannique publi\u00e9e jeudi, pointant le contrecoup d'un important amaigrissement initial mais aussi les limites des m\u00e9dicaments seuls.\nLa nouvelle g\u00e9n\u00e9ration de traitements contre le diab\u00e8te et l'ob\u00e9sit\u00e9, qui accentue l'action d'une hormone agissant sur la s\u00e9cr\u00e9tion d'insuline (GLP-1, abr\u00e9viation de glugaco-like peptide 1) et plus largement sur la sensation de sati\u00e9t\u00e9, est devenue extr\u00eamement populaire ces derni\u00e8res ann\u00e9es dans les pays les plus favoris\u00e9s.\nL'Organisation mondiale de la sant\u00e9 l'a m\u00eame ajout\u00e9e en septembre dernier \u00e0 sa liste de m\u00e9dicaments essentiels, tout en appelant \u00e0 des versions g\u00e9n\u00e9riques, moins ch\u00e8res, pour les populations des pays en d\u00e9veloppement.",
+    "url": "https://www.sciencesetavenir.fr/sante/anti-obesite-la-vitesse-de-reprise-du-poids-apres-l-arret-des-traitements-eclaircie-par-une-etude_190318?xtor=RSS-16",
+    "published_date": "2026-01-07T23:30:13Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Synthesis of 1,3-bis-trifluoromethylated-(hetero)cyclohexane-2-carboxylates",
     "summary": "Reported herein is a method for syn-selective 1,3-bis-trifluoromethylation of (hetero)cycloalkylidenemalononitriles. The malononitrile-containing intermediate can be readily converted into carboxylates (and derivatives thereof) by oxidative decyanation. The products of this two-step sequence are 1,3-bis-trifluoromethylated physicochemically-altered analogs of common (hetero)cyclohexane carboxylate. This study includes optimization of the bis-trifluoromethylation reaction, scope studies, synthesis of various new bis-trifluoromethylated (hetero)cycloalkane carboxylates, representative transformations relevant to pharmaceutical synthesis, mechanistic studies, and some computational analyses of the newly accessible scaffolds.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2025-bzjl4-v4?rft_dat=source%3Ddrss",
