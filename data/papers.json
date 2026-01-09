@@ -1,5 +1,27 @@
 [
   {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109012821&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le cisaillement, un facteur insoup\u00e7onn\u00e9 de\u00a0l\u2019explosivit\u00e9 des magmas",
+    "summary": "Lorsque le magma remonte vers la surface, la d\u00e9compression entra\u00eene la formation de bulles. Mais le cisaillement\u00a0favoriserait aussi la lib\u00e9ration du gaz dissous. Un nouveau m\u00e9canisme \u00e0 prendre en compte pour \u00e9valuer la dangerosit\u00e9 des \u00e9ruptions.",
+    "url": "https://www.pourlascience.fr/sd/geosciences/le-cisaillement-un-facteur-insoupconne-de-l-explosivite-des-magmas-28511.php",
+    "published_date": "2026-01-09T06:16:02Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions",
     "summary": "arXiv:2601.05095v1 Announce Type: new \nAbstract: Epilepsy is a chronic neurological disorder characterized by recurrent unprovoked seizures, affects over 50 million people worldwide, and poses significant risks, including sudden unexpected death in epilepsy (SUDEP). Conventional unimodal approaches, primarily reliant on electroencephalography (EEG), face several key challenges, including low SNR, nonstationarity, inter- and intrapatient heterogeneity, portability, and real-time applicability in clinical settings. To address these issues, a comprehensive survey highlights the concept of advanced multimodal learning for epileptic seizure detection and prediction (AMLSDP). The survey presents the evolution of epileptic seizure detection (ESD) and prediction (ESP) technologies across different eras. The survey also explores the core challenges of multimodal and non-EEG-based ESD and ESP. To overcome the key challenges of the multimodal system, the survey introduces the advanced processing strategies for efficient AMLSDP. Furthermore, this survey highlights future directions for researchers and practitioners. We believe this work will advance neurotechnology toward wearable and imaging-based solutions for epilepsy monitoring, serving as a valuable resource for future innovations in this domain.",
     "url": "https://arxiv.org/abs/2601.05095",

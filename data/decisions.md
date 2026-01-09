@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le cisaillement, un facteur insoupçonné de l’explosivité des](https://www.pourlascience.fr/sd/geosciences/le-cisaillement-un-facteur-insoupconne-de-l-explosivite-des-magmas-28511.php) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109012821&v=2.18.0.post22+67771e2) |
 | ai_scored | 0 | [Spontaneous emergence of linguistic statistical laws in imag](https://arxiv.org/abs/2501.18620) |
 | ai_scored | 5 | [A joint voxel flow - phase field framework for ultra-long mi](https://arxiv.org/abs/2601.04898) |
 | ai_scored | 40 | [Deformable bodies in a 3-dimensional viscous flow: Vorticity](https://arxiv.org/abs/2601.05031) |
