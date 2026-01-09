@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T23:15:36.374182+00:00</updated>
+  <updated>2026-01-09T01:22:00.558715+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [0] Phys. Rev. Lett. ▶ Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered Materials</title>
+    <link href="http://link.aps.org/doi/10.1103/28hd-pwhv"/>
+    <id>http://link.aps.org/doi/10.1103/28hd-pwhv</id>
+    <updated>2026-01-08T10:00:00Z</updated>
+    <summary>Author(s): Luis M. Canonico, Stephan Roche, and Aron W. Cummings We report a linear-scaling numerical method for exploring nonequilibrium electron dynamics in systems of arbitrary complexity. Based on</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a linear-scaling Chebyshev-based method to simulate nonequilibrium quantum electron dynamics in disordered materials, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology topics.</p>
+<p><strong>Abstract:</strong> Author(s): Luis M. Canonico, Stephan Roche, and Aron W. Cummings We report a linear-scaling numerical method for exploring nonequilibrium electron dynamics in systems of arbitrary complexity. Based on the Chebyshev expansion of the time evolution of the single-particle density matrix, the method gives access to nonperturbative excitation and relaxation phenomena … [Phys. Rev. Lett. 136, 016903] Published Thu Jan 08, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/28hd-pwhv">http://link.aps.org/doi/10.1103/28hd-pwhv</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/28hd-pwhv">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [5] molecular biology - biorXiv Preprints ▶ Ac-FAPI-04 Promotes Anti-tumor Immunity via IL-27 Activation and Tnfaip3 Inhibition</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1"/>

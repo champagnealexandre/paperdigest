@@ -1,5 +1,122 @@
 [
   {
+    "title": "Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered Materials",
+    "summary": "Author(s): Luis M. Canonico, Stephan Roche, and Aron W. Cummings<br /><p>We report a linear-scaling numerical method for exploring nonequilibrium electron dynamics in systems of arbitrary complexity. Based on the Chebyshev expansion of the time evolution of the single-particle density matrix, the method gives access to nonperturbative excitation and relaxation phenomena \u2026</p><br />[Phys. Rev. Lett. 136, 016903] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/28hd-pwhv",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/28hd-pwhv"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Develops a linear-scaling Chebyshev-based method to simulate nonequilibrium quantum electron dynamics in disordered materials, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology topics."
+    }
+  },
+  {
+    "title": "Efficient synthesis of chiral vicinal diamines with four contiguous stereocenters via sequential dynamic kinetic resolution of 2,3-diamino-1,4-diketones",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67526-6\">doi:10.1038/s41467-025-67526-6</a></p>The stereoselective construction of acyclic molecules bearing three or more contiguous stereocenters remains a long-standing challenge in modern organic synthesis. Here, the authors describe an iridium-catalyzed dynamic kinetic resolution of 2,3-diamino-1,4-diketones to enable the efficient synthesis of acyclic vicinal diamines containing four contiguous stereocenters.",
+    "url": "https://www.nature.com/articles/s41467-025-67526-6",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Enhancing Gravitational-Wave Detection: A Machine Learning Pipeline Combination Approach with Robust Uncertainty Quantification",
+    "summary": "Author(s): Gregory Ashton, Ann-Kristin Malz, and Nicolo Colombo<br /><p>Gravitational-wave data from advanced-era interferometric detectors consists of background Gaussian noise, frequent transient artifacts, and rare astrophysical signals. Multiple search algorithms exist to detect the signals from compact binary coalescences, but their varying performance complicates \u2026</p><br />[Phys. Rev. Lett. 136, 011402] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/yfb3-fgf2",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Precision Measurement of Neutrino Oscillation Parameters with 10 Years of Data from the NOvA Experiment",
+    "summary": "Author(s): S. Abubakar <em>et al.</em> (The NOvA Collaboration)<br /><p>A decade of neutrino oscillation data leads to the most precise single-experiment measurement of the neutrino mass splitting between eigenstates 3 and 2.</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRL/key_images/10.1103/x53y-2b86.png\" width=\"200\" /><br />[Phys. Rev. Lett. 136, 011802] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/x53y-2b86",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "X-Ray-Induced Quenching of the $^{229}\\mathrm{Th}$ Clock Isomer in ${\\mathrm{CaF}}_{2}$",
+    "summary": "Author(s): Ming Guan <em>et al.</em><br /><p>Recent studies have shown that the lifetime of the isomeric $^{229}\\mathrm{Th}$ doped in crystals can be shortened by x-ray or laser irradiation, a phenomenon referred to as isomer quenching. We investigate the temperature dependence of x-ray-induced quenching in $^{229}\\mathrm{Th}:{\\text{CaF}}_{2}$\u2026</p><br />[Phys. Rev. Lett. 136, 013203] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/75bb-thn7",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Time-Dependent Hole States in Multiconfigurational Time-Dependent Hartree-Fock Approaches: A Time-Domain Generalization of Extended Koopmans\u2019 Theorem",
+    "summary": "Author(s): Zhao-Han Zhang, Yang Li, Himadri Pathak, Takeshi Sato, Kenichi L. Ishikawa, and Feng He<br /><p>We introduce a framework for resolving electron-hole dynamics within wave-function-based multiconfigurational time-dependent Hartree-Fock (MCTDHF) theory. Central to this framework is a time-domain generalization of the extended Koopmans\u2019 theorem, which rigorously defines time-dependent hole states \u2026</p><br />[Phys. Rev. Lett. 136, 013204] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/dcdw-ly16",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Temperature Dependence of $p$-Wave Contacts in a Harmonically Trapped Fermi Gas",
+    "summary": "Author(s): Kenta Nagase, Hikaru Takahashi, Soki Oshima, and Takashi Mukaiyama<br /><p>The temperature dependence of so-called <math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math>-wave interactions in an ultracold atomic gas has been measured for the first time.</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRL/key_images/10.1103/3mxj-ym4b.png\" width=\"200\" /><br />[Phys. Rev. Lett. 136, 013402] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/3mxj-ym4b",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108202152&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Un \u00e9quipage de l'ISS va \u00eatre \u00e9vacu\u00e9 \u00e0 cause d'un probl\u00e8me m\u00e9dical, une premi\u00e8re",
+    "summary": "La Nasa a annonc\u00e9 jeudi que les quatre membres d'un \u00e9quipage de la Station spatiale internationale (ISS) seraient \u00e9vacu\u00e9s dans les prochains jours en raison d'un probl\u00e8me de sant\u00e9 touchant un astronaute, une premi\u00e8re dans l'histoire du laboratoire orbital.\nLes responsables de l'agence spatiale am\u00e9ricaine n'ont pas donn\u00e9 de d\u00e9tails sur la nature de ce probl\u00e8me, mais ont pr\u00e9cis\u00e9 que l'astronaute, qui n'a pas \u00e9t\u00e9 nomm\u00e9, se trouve dans un \u00e9tat stable.\nUn \"risque persistant\" et \"l'incertitude quant au diagnostic\" ont motiv\u00e9 la d\u00e9cision de ramener l'\u00e9quipage plus t\u00f4t, a expliqu\u00e9 le m\u00e9decin-chef de la Nasa, James Polk, tout en soulignant qu'il ne s'agissait pas d'une \u00e9vacuation d'urgence.",
+    "url": "https://www.sciencesetavenir.fr/sciences/un-equipage-de-l-iss-va-etre-evacue-a-cause-d-un-probleme-medical-une-premiere_190335?xtor=RSS-18",
+    "published_date": "2026-01-09T00:12:56Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "In Unprecedented Move, NASA to Rush Astronauts Home after Medical Incident on ISS",
+    "summary": "<p>NASA on Thursday announced it would take the extraordinary step of bringing four crewmembers back to Earth from the space station before their official mission end</p>",
+    "url": "https://www.scientificamerican.com/article/in-unprecedented-move-nasa-to-rush-astronauts-home-after-medical-incident-on/",
+    "published_date": "2026-01-08T22:20:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "<i>Chlorella</i>-derived extracellular vesicle-based nanogels suppress cGAS-STING for treatment of radiation-induced lung injury",
     "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68140-2\">doi:10.1038/s41467-025-68140-2</a></p>Radiation-induced lung injury (RILI), a serious complication of radiation exposure, is associated with cGAS-STING pathway overactivation. Here, the authors developed a nanogel based on microalgal extracellular vesicles and a cGAS inhibitor to prevent and treat RILI and its progression to fibrosis.",
     "url": "https://www.nature.com/articles/s41467-025-68140-2",

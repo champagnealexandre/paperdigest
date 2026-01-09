@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered ](http://link.aps.org/doi/10.1103/28hd-pwhv) |
+| keyword_rejected | - | [In Unprecedented Move, NASA to Rush Astronauts Home after Me](https://www.scientificamerican.com/article/in-unprecedented-move-nasa-to-rush-astronauts-home-after-medical-incident-on/) |
+| keyword_rejected | - | [Un équipage de l'ISS va être évacué à cause d'un problème mé](https://www.sciencesetavenir.fr/sciences/un-equipage-de-l-iss-va-etre-evacue-a-cause-d-un-probleme-medical-une-premiere_190335?xtor=RSS-18) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108202152&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Temperature Dependence of $p$-Wave Contacts in a Harmonicall](http://link.aps.org/doi/10.1103/3mxj-ym4b) |
+| keyword_rejected | - | [Time-Dependent Hole States in Multiconfigurational Time-Depe](http://link.aps.org/doi/10.1103/dcdw-ly16) |
+| keyword_rejected | - | [X-Ray-Induced Quenching of the $^{229}\mathrm{Th}$ Clock Iso](http://link.aps.org/doi/10.1103/75bb-thn7) |
+| keyword_rejected | - | [Precision Measurement of Neutrino Oscillation Parameters wit](http://link.aps.org/doi/10.1103/x53y-2b86) |
+| keyword_rejected | - | [Enhancing Gravitational-Wave Detection: A Machine Learning P](http://link.aps.org/doi/10.1103/yfb3-fgf2) |
+| keyword_rejected | - | [Efficient synthesis of chiral vicinal diamines with four con](https://www.nature.com/articles/s41467-025-67526-6) |
 | keyword_rejected | - | [Tree bark microbiome has important overlooked role in climat](https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Tree bark microbiome has important overlooked role in climat](https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Tree bark microbiome has important overlooked role in climat](https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
