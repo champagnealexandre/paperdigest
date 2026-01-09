@@ -1,5 +1,27 @@
 [
   {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108222727&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "En plein d\u00e9bat sur la fin de vie, l'heure du jugement pour des militants du suicide assist\u00e9",
+    "summary": "Au milieu des d\u00e9bats parlementaires sur la fin de vie, le tribunal correctionnel de Paris rend vendredi son jugement \u00e0 l'encontre de douze militants radicaux du suicide assist\u00e9, qui ont fait de leur proc\u00e8s \u00e0 l'automne une tribune sur l'aide \u00e0 mourir.\nAg\u00e9s de 75 \u00e0 89 ans, douze adh\u00e9rents de l'association Ultime Libert\u00e9 ont \u00e9t\u00e9 jug\u00e9s de mi-septembre \u00e0 d\u00e9but octobre pour avoir, entre ao\u00fbt 2018 et novembre 2020, aid\u00e9 des dizaines de personnes \u00e0 acheter sur internet du pentobarbital, un barbiturique entra\u00eenant une mort rapide et sans douleur.\n\"Notre objectif n'est pas de faire mourir les gens.",
+    "url": "https://www.sciencesetavenir.fr/sante/en-plein-debat-sur-la-fin-de-vie-l-heure-du-jugement-pour-des-militants-du-suicide-assiste_190336?xtor=RSS-16",
+    "published_date": "2026-01-09T02:50:08Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered Materials",
     "summary": "Author(s): Luis M. Canonico, Stephan Roche, and Aron W. Cummings<br /><p>We report a linear-scaling numerical method for exploring nonequilibrium electron dynamics in systems of arbitrary complexity. Based on the Chebyshev expansion of the time evolution of the single-particle density matrix, the method gives access to nonperturbative excitation and relaxation phenomena \u2026</p><br />[Phys. Rev. Lett. 136, 016903] Published Thu Jan 08, 2026",
     "url": "http://link.aps.org/doi/10.1103/28hd-pwhv",

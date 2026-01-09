@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [En plein débat sur la fin de vie, l'heure du jugement pour d](https://www.sciencesetavenir.fr/sante/en-plein-debat-sur-la-fin-de-vie-l-heure-du-jugement-pour-des-militants-du-suicide-assiste_190336?xtor=RSS-16) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108222727&v=2.18.0.post22+67771e2) |
 | ai_scored | 0 | [Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered ](http://link.aps.org/doi/10.1103/28hd-pwhv) |
 | keyword_rejected | - | [In Unprecedented Move, NASA to Rush Astronauts Home after Me](https://www.scientificamerican.com/article/in-unprecedented-move-nasa-to-rush-astronauts-home-after-medical-incident-on/) |
 | keyword_rejected | - | [Un équipage de l'ISS va être évacué à cause d'un problème mé](https://www.sciencesetavenir.fr/sciences/un-equipage-de-l-iss-va-etre-evacue-a-cause-d-un-probleme-medical-une-premiere_190335?xtor=RSS-18) |
