@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [We need to talk about salaries in science](https://www.nature.com/articles/d41586-025-03488-5) |
+| keyword_rejected | - | [Time-resolved X-ray imaging of the current filamentation ins](https://www.nature.com/articles/s41467-025-67160-2) |
+| keyword_rejected | - | [AMP-BMS/MM: A Multiscale Neural Network Potential for the Fa](https://dx.doi.org/10.26434/chemrxiv-2026-kx9w0?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Interfacial Engineering of Ni Domain with Alumina Ensembles ](https://dx.doi.org/10.26434/chemrxiv-2026-jj5q8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Bioaccumulation and Metabolism of [14C]-6PPD-Q
+in Rainbo](https://dx.doi.org/10.26434/chemrxiv-2026-tfd1s?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Cold neutral gas in early universe prompts rethink of galaxy](https://phys.org/news/2026-01-cold-neutral-gas-early-universe.html) |
 | keyword_rejected | - | ['Knitted' satellite launching to monitor Earth's surface wit](https://www.newscientist.com/article/2510842-knitted-satellite-launching-to-monitor-earths-surface-with-radar/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Man whose gut made its own alcohol gets relief from faecal t](https://www.newscientist.com/article/2510789-man-whose-gut-made-its-own-alcohol-gets-relief-from-faecal-transplant/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

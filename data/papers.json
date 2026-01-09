@@ -1,5 +1,60 @@
 [
   {
+    "title": "The Bioaccumulation and Metabolism of [14C]-6PPD-Q\nin Rainbow Trout according to the OECD 305 Guideline",
+    "summary": "6PPD-quinone (6PPD-Q) has been recognized as a pollutant of surface waters in recent years and\nhas been shown to contribute to Urban Runo\udbc0\uddaf Mortality Syndrome (URMS) in sensitive species.\nWhile there is published in silico, in vitro and semi-quantitative data available, little is known\nabout the bioaccumulation and biotransformation (metabolism) of 6PPD-Q in intact salmonid\nspecies. This research focuses on the bioaccumulation and metabolism of carbon-14 ([14C])\nradiolabeled 6PPD-Q using techniques and strategies commonly employed in regulatory science\nfor the registration of agrochemicals, chemicals and as used in pharmaceutical environmental\nrisk assessments. The OECD 305 test guideline (TG) is used as the basis for generating data on\nbioaccumulation but also lends itself to the generation of biotransformation data. Rainbow trout\n(Oncorhynchus mykiss) is commonly used as the model species for such studies and has also\nbeen shown to be acutely sensitive to 6PPD-Q. The use of [14C]-6PPD-Q allows the quantification\nof total residues without the need for reference standards and provides a means of assessing the\nbioaccumulation potential of 6PPD-Q. The use of radiolabeled material also allows assessment\nof extraction e\udbc0\uddaficiency and quantitative metabolite profiling and identification without the need\nfor reference standards providing full coverage of the metabolites generated from 6PPD-Q\nexposure in rainbow trout. The bioaccumulation potential and metabolic routes in rainbow trout\nare presented herein.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-tfd1s?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Interfacial Engineering of Ni Domain with Alumina Ensembles to Enhance Coke-Resistance for Durable Hydrogenolysis",
+    "summary": "Owing to its unique multifunctionality, Ni has been extensively employed in diverse catalytic\nsystems; however, its performance is severely constrained by pronounced coking that results in rapid\ncatalyst deactivation. Herein, we report a strategy for enhancing coke resistance of Ni-based catalyst\nby surface modification with interfacial AlOx. Specifically, AlOx ensembles were constructed on\nsupported Ni nanoparticles by high-temperature reduction, generating abundant Ni-Al interfaces. This\nstrengthens Ni-Al electronic interactions and decreases the electron density of Ni domains, thereby\nattenuating the surface basicity. In tandem aqueous-phase reforming (APR, for hydrogen generation)\nand C-O bond hydrogenolysis (for depolymerization of etheric aromatics), this tailored surface\nproperty substantially raises the energy barrier for aldol condensation of APR intermediates\u2014a key\nundesired side reaction responsible for carbon-chain growth. Consequently, carbonaceous deposition\nis suppressed, enabling durable tandem APR-hydrogenolysis. In contrast to bare Ni nanoparticles that\nundergo near-complete deactivation within six cycles, the AlOx-modified Ni sustains stable APRhydrogenolysis\nperformance. This work provides an interface-engineering strategy to enhance the coke\nresistance while preserving the essential functionalities of the catalysts.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-jj5q8?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "AMP-BMS/MM: A Multiscale Neural Network Potential for the Fast and Accurate Simulation of Protein Dynamics and Enzymatic Reactions",
+    "summary": "We present the next generation of AMP, a neural network potential (NNP) with anisotropic message passing designed to study large biomolecular systems at DFT accuracy in the condensed phase using a multiscale approach similar to quantum-mechanics/molecular-mechanics (QM/MM) with electrostatic embedding. We trained AMPv3 on our recently published biomolecular multiscale simulation (BMS25) dataset and demonstrated the model\u2019s high e\ufb03ciency, which enabled us to simulate proteins involving thousands of atoms at DFT accuracy in addition to explicit MM solvent for up to hundred nanoseconds, which presents a major leap for contemporary NNPs. We observe excellent scaling to large systems on a single GPU. AMPv3-BMS25 (or short AMP-BMS) shows promising performance on benchmarks and we demonstrate that the model can be used to accurately estimate experimental properties, including solvation free energies of small molecules and structural features of proteins. Finally, AMP-BMS/MM was employed to predict the free-energy profiles of reactions catalyzed by the enzymes chorismate mutase and fluoroacetate dehalogenase. In total, AMP-BMS/MM was used to simulate proteins in the condensed phase for a cumulative 23 \u00b5s simulation time or 48 billion integration steps. This work establishes AMP-BMS as a highly e\ufb03cient and accurate model for multiscale simulations of biomolecules.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-kx9w0?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Time-resolved X-ray imaging of the current filamentation instability in solid-density plasmas",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67160-2",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "nature.com - Astronomy and astrophysics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "We need to talk about salaries in science",
+    "summary": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03488-5\">doi:10.1038/d41586-025-03488-5</a></p>Academia too often has a \u2018passion first, money second\u2019 culture. Overcoming this mindset is crucial for building a happy career.",
+    "url": "https://www.nature.com/articles/d41586-025-03488-5",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Cold neutral gas in early universe prompts rethink of galaxy cluster evolution",
     "summary": "A small group of young researchers at the Cosmic Dawn Center, Niels Bohr Institute, University of Copenhagen, have, through observations of the early stages of an extremely large galaxy cluster's evolution, shown that the largest structures we know have a different history than previously thought.",
     "url": "https://phys.org/news/2026-01-cold-neutral-gas-early-universe.html",
