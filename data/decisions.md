@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Nouvelle-Zélande: le kakapo, perroquet en danger, recommence](https://www.sciencesetavenir.fr/nature-environnement/nouvelle-zelande-le-kakapo-perroquet-en-danger-recommence-a-se-reproduire-apres-4-ans_190337?xtor=RSS-15) |
+| keyword_rejected | - | [Cloud-9 : un nuage de gaz témoin d'une galaxie avortée](https://www.sciencesetavenir.fr/espace/univers/cloud-9-nuage-de-gaz-produit-d-une-galaxie-non-formee_190304?xtor=RSS-9) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109022234&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Enhancing patient admission efficiency through a hybrid clou](https://www.nature.com/articles/s41598-026-35014-6) |
+| keyword_rejected | - | [Effect of powder metallurgy parameters on microstructure, me](https://www.nature.com/articles/s41598-026-35078-4) |
+| keyword_rejected | - | [Evaluation of the malaria surveillance system and trends in ](https://www.nature.com/articles/s41598-025-33344-5) |
+| keyword_rejected | - | [Targeting the NLRP3 inflammasome alleviates the comorbidity ](https://www.nature.com/articles/s41598-026-35400-0) |
+| keyword_rejected | - | [Changes in peripheral IR thermography and energy expenditure](https://www.nature.com/articles/s41598-026-35294-y) |
 | keyword_rejected | - | [Le cisaillement, un facteur insoupçonné de l’explosivité des](https://www.pourlascience.fr/sd/geosciences/le-cisaillement-un-facteur-insoupconne-de-l-explosivite-des-magmas-28511.php) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109012821&v=2.18.0.post22+67771e2) |
 | ai_scored | 0 | [Spontaneous emergence of linguistic statistical laws in imag](https://arxiv.org/abs/2501.18620) |
