@@ -1,5 +1,74 @@
 [
   {
+    "title": "LOTUS-domain proteins activate Vasa to drive germ granule assembly",
+    "summary": "Germline development relies on perinuclear membraneless germ granules, yet the mechanisms underlying their assembly remain poorly understood. Here we uncover a conserved and central role for LOTUS-domain proteins in driving germ granule assembly. In C. elegans, the LOTUS-domain protein EGGD-1/MIP-1 at sub-stoichiometric levels recruits Vasa protein GLH-1 to the nuclear periphery. Acting as a catalyst, EGGD-1 modulates the ATPase cycle of GLH-1 by preferentially binding to its open conformation, enhancing its RNA binding activities, and facilitating its transition to the closed conformation. In this closed state, GLH-1 enriches mRNAs at the nuclear periphery, which enables the accumulation of RNA-binding proteins including PGL-1 and PGL-3. Using human cells, we demonstrate the LOTUS-domain protein TDRD5 similarly recruits DDX4, the human Vasa homolog, and stimulates the formation of intermitochondrial cement. Collectively, our findings reveal an evolutionarily conserved role of LOTUS-domain proteins in enhancing Vasa activity and provide a unified model for germ granule assembly across species.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "This study shows that conserved LOTUS-domain proteins catalytically activate the Vasa RNA helicase to drive RNA-rich, phase-separated germ granule assembly in worms and humans, offering broad-context insights into RNA-centered self-organization relevant to origins-of-life thinking."
+    }
+  },
+  {
+    "title": "circDiscoverer: A resource for curated and predicted circRNA-Protein interactions with experimental support tools",
+    "summary": "Circular RNA (circRNA) interacts with miRNAs and proteins and can regulate various cellular processes. Compared to circRNA-miRNA interaction, circRNA-protein interaction (CPI) has been relatively less explored, following which we developed a comprehensive user-friendly web resource, circDiscoverer, which provides an open-access knowledge base empowering characterization of circRNA-protein interactions in Homo sapiens. circDiscoverer contains manually curated circRNA-protein interactions from published articles and predicted circRNA-protein interactions. Furthermore, the resource offers comprehensive insights into protein binding profiles and presents detailed information on interacting circRNAs, including qRT-PCR primer sequences, guide RNAs, and potential RNA modifications, thereby providing an integrated platform for researchers. circDiscoverer is available at https://aclab.iiserb.ac.in.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Presents a human-focused web database for curated and predicted circular RNA\u2013protein interactions, which is largely outside origins-of-life research aside from general RNA biology relevance."
+    }
+  },
+  {
+    "title": "An inducer of snail hibernation causes quiescence and hibernation-like cardioprotection, through metabolic rewiring and autophagy, in mice hearts",
+    "summary": "Cells of hibernators achieve dormancy, resembling cellular quiescence, through molecular rewiring, metabolic remodelling and autophagy, resisting ischemic and ischemia-reperfusion (IR) injury, while non-hibernators are vulnerable to both. We discovered a circulating dormancy-inducing factor in hibernating snails, synthesized it chemically and because it activates PHLPP1 (a phosphatase regulating the mTOR mediators p-AKT and p-S6K1), named it SNail Activator of PHLPP1 (SNAP). During IR, plasma membrane PHLPP1 and p-AKT translocate to the cytoplasm and mitochondria. SNAP dephosphorylates mitochondrial p-AKT, p-S6K1 and induces dormancy in snails and quiescence (autophagy, reversible cell-cycle exit, proteostasis, apoptosis-resistance) in ischemic mouse fibroblasts. In IR models of cardiomyocytes and perfused hearts, SNAP is cardioprotective by preserving Pyruvate Dehydrogenase (PDH) activity, preventing mitochondrial depolarization, apoptosis and ROS-induced ER stress. SNAP's cardioprotective and mitochondrial effects are absent in hearts with a cardiomyocyte-specific PDH knockout. SNAP reveals fundamental mechanisms of quiescence under stress; while its cardioprotection may be beneficial in the IR injury of normal hearts offered for transplantation, a major challenge in transplant medicine",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698452v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Intrinsic sodium regulation by Na,K-ATPase: The blue crab's salinity adaptation described by a single negative feedback loop",
+    "summary": "The term enantiostasis was introduced by Mangum and Towle to describe functional relationships between environmental changes and an organism's adaptation to them, and furthermore, to distinguish this kind of adaptation from homeostatic control. The defining example of enantiostasis is the blue crab's blood salinity response when exposed to different environmental salinities during the organism's move between the ocean and upriver freshwater conditions. In this paper an internal negative feedback loop in the Albers-Post mechanism of the sodium pump (Na,K-ATPase, NKA) is used to describe the blue crab's salinity adaptations. The following assumptions are made: Internal sodium ion activates NKA, while external sodium ion inhibits it. To describe the pump's behavior on changed environmental salinities, integral control is implemented by assuming that the activated pump is deactivated by zero-order or close to zero-order kinetics. As a result, internal sodium ion is robustly regulated by the feedback's environmentally changing setpoint. Enantiostasis and the closely related concept of rheostasis were both introduced to distinguish them from homeostatic mechanisms. However, the here presented results suggest that enantiostasis and the related rheostatic setpoint changes can be viewed as the emergence from a single homeostatic feedback regulation. In addition, the here suggested intrinsic negative feedback of NKA may be present in other Albers-Post based pumps and may also there contribute to homeostatic regulation.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698424v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "systems biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How Prepared Are ISS Astronauts for Medical Emergencies?",
+    "summary": "<p>NASA crews go through extensive training and have access to tools and drugs to treat medical issues, from dental problems and migraines to heart attacks, while they are in orbit</p>",
+    "url": "https://www.scientificamerican.com/article/how-prepared-are-iss-astronauts-for-medical-emergencies/",
+    "published_date": "2026-01-09T22:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Apparent stabilizing selection explains micro and macroevolution of Drosophila wings",
     "summary": "Evolution over deep time is often slow relative to neutral or directional expectations. A striking example is provided by Drosophila wing shape, which shows substantial genetic variance yet comparatively little macroevolutionary change. Using a large-scale fitness assay, we find pervasive stabilizing selection across dimensions of D. melanogaster wing shape that is proportional to standing variation, driven by variance in male fitness, and likely generated by pleiotropy. Parameterizing a macroevolutionary Ornstein-Uhlenbeck model using our selection estimate recapitulates observed among species variance under reasonable effective population sizes, suggesting a role for apparent stabilizing selection in constraining wing shape evolution over deep time.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1",

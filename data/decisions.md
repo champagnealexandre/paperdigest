@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [circDiscoverer: A resource for curated and predicted circRNA](https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1) |
+| ai_scored | 60 | [LOTUS-domain proteins activate Vasa to drive germ granule as](https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1) |
+| keyword_rejected | - | [How Prepared Are ISS Astronauts for Medical Emergencies?](https://www.scientificamerican.com/article/how-prepared-are-iss-astronauts-for-medical-emergencies/) |
+| keyword_rejected | - | [Intrinsic sodium regulation by Na,K-ATPase: The blue crab's ](https://www.biorxiv.org/content/10.64898/2026.01.08.698424v1?rss=1) |
+| keyword_rejected | - | [An inducer of snail hibernation causes quiescence and hibern](https://www.biorxiv.org/content/10.64898/2026.01.08.698452v1?rss=1) |
 | ai_scored | 60 | [NASA won’t bring Mars samples back to Earth: this is the sci](https://www.nature.com/articles/d41586-026-00060-7) |
 | ai_scored | 75 | [NASA won’t bring Mars samples back to Earth: this is the sci](https://www.nature.com/articles/d41586-026-00060-7) |
 | ai_scored | 25 | [Tunable Cell Surface Proximity Labeling via Photocatalytic a](https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss) |

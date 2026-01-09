@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-09T22:17:47.309078+00:00</updated>
+  <updated>2026-01-09T23:17:01.072347+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [60] cell biology - biorXiv Preprints ▶ LOTUS-domain proteins activate Vasa to drive germ granule assembly</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Germline development relies on perinuclear membraneless germ granules, yet the mechanisms underlying their assembly remain poorly understood. Here we uncover a conserved and central role for LOTUS-dom</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study shows that conserved LOTUS-domain proteins catalytically activate the Vasa RNA helicase to drive RNA-rich, phase-separated germ granule assembly in worms and humans, offering broad-context insights into RNA-centered self-organization relevant to origins-of-life thinking.</p>
+<p><strong>Abstract:</strong> Germline development relies on perinuclear membraneless germ granules, yet the mechanisms underlying their assembly remain poorly understood. Here we uncover a conserved and central role for LOTUS-domain proteins in driving germ granule assembly. In C. elegans, the LOTUS-domain protein EGGD-1/MIP-1 at sub-stoichiometric levels recruits Vasa protein GLH-1 to the nuclear periphery. Acting as a catalyst, EGGD-1 modulates the ATPase cycle of GLH-1 by preferentially binding to its open conformation, enhancing its RNA binding activities, and facilitating its transition to the closed conformation. In this closed state, GLH-1 enriches mRNAs at the nuclear periphery, which enables the accumulation of RNA-binding proteins including PGL-1 and PGL-3. Using human cells, we demonstrate the LOTUS-domain protein TDRD5 similarly recruits DDX4, the human Vasa homolog, and stimulates the formation of intermitochondrial cement. Collectively, our findings reveal an evolutionarily conserved role of LOTUS-domain proteins in enhancing Vasa activity and provide a unified model for germ granule assembly across species.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] bioinformatics - biorXiv Preprints ▶ circDiscoverer: A resource for curated and predicted circRNA-Protein interactions with experimental support tools</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Circular RNA (circRNA) interacts with miRNAs and proteins and can regulate various cellular processes. Compared to circRNA-miRNA interaction, circRNA-protein interaction (CPI) has been relatively less</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Presents a human-focused web database for curated and predicted circular RNA–protein interactions, which is largely outside origins-of-life research aside from general RNA biology relevance.</p>
+<p><strong>Abstract:</strong> Circular RNA (circRNA) interacts with miRNAs and proteins and can regulate various cellular processes. Compared to circRNA-miRNA interaction, circRNA-protein interaction (CPI) has been relatively less explored, following which we developed a comprehensive user-friendly web resource, circDiscoverer, which provides an open-access knowledge base empowering characterization of circRNA-protein interactions in Homo sapiens. circDiscoverer contains manually curated circRNA-protein interactions from published articles and predicted circRNA-protein interactions. Furthermore, the resource offers comprehensive insights into protein binding profiles and presents detailed information on interacting circRNAs, including qRT-PCR primer sequences, guide RNAs, and potential RNA modifications, thereby providing an integrated platform for researchers. circDiscoverer is available at https://aclab.iiserb.ac.in.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Apparent stabilizing selection explains micro and macroevolution of Drosophila wings</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1"/>
