@@ -1,5 +1,153 @@
 [
   {
+    "title": "Callisto\u2019s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure",
+    "summary": "<p>The Galilean moons of Io, Europa, and Ganymede exhibit a 4:2:1 commensurability in their mean motions, a configuration known as the Laplace resonance. The prevailing view for the origin of this three-body resonance involves the convergent migration of the moons, resulting from gas-driven torques in the circum-Jovian disk wherein they accreted. To account for Callisto&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html\">Callisto&#8217;s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html",
+    "published_date": "2026-01-09T19:47:38Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.00786",
+      "https://doi.org/10.3847/1538-4357/ae171c",
+      "https://arxiv.org/abs/2601.00786"
+    ],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "This paper models how substructure in the circum-Jovian gas disk could have altered migration pathways so that Callisto avoided capture into the Laplace resonance with Io\u2013Europa\u2013Ganymede."
+    }
+  },
+  {
+    "title": "Physical Vetting of the Ultra-Short-Period Sub-Earth TOI 864.01",
+    "summary": "<p>We present a comprehensive analysis of TOI 864.01, a transit-like signal associated with the M-dwarf TIC 231728511. Utilizing the full baseline of TESS photometry (54 sectors), we recover a periodic signal with P=0.52067 d and a shallow depth of \u223c158 ppm. To assess the planetary nature of the candidate, we performed a rigorous vetting process [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html\">Physical Vetting of the Ultra-Short-Period Sub-Earth TOI 864.01</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html",
+    "published_date": "2026-01-09T17:13:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.02171",
+      "https://arxiv.org/abs/2601.02171"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "This study rigorously vets the ultra-short-period, sub-Earth TESS transit candidate TOI 864.01 but, as a likely highly irradiated close-in world without direct habitability or prebiotic-chemistry implications, it has limited relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In Molecular Emission",
+    "summary": "<p>The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central deficit in dust emission, a &#8220;cavity&#8221;, have long attracted interest as potential evidence for advanced disk clearing by protoplanets and/or winds. Before JWST, infrared spectra showed that these disks typically lack the strong molecular emission [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html\">Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In Molecular Emission</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html",
+    "published_date": "2026-01-09T19:38:17Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.02344",
+      "https://arxiv.org/abs/2601.02344"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrochemistry",
+      "evolution",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "JWST-MIRI spectroscopy of protoplanetary disks with dust cavities reveals a dichotomy in infrared molecular emission, informing how planet-forming environments and their volatile inventories evolve prior to planet assembly."
+    }
+  },
+  {
+    "title": "The Persistent Thermal Anomalies In Rocky Worlds",
+    "summary": "<p>Observing the dayside thermal emissions of rocky exoplanets provides essential insights into their compositions and the presence of atmospheres. Even though no conclusive evidence has been found for atmospheres on small rocky exoplanets orbiting M dwarfs, recent JWST observations identified puzzling thermal emission excesses: some rocky exoplanets orbiting M dwarfs have dayside emission temperatures higher [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html\">The Persistent Thermal Anomalies In Rocky Worlds</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html",
+    "published_date": "2026-01-09T19:44:50Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.00412",
+      "https://doi.org/10.48550/arXiv.2601.00412"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Analyzes JWST dayside thermal emission excesses in rocky M-dwarf exoplanets, exploring physical explanations that impact how we infer atmospheres and thus assess potential habitability."
+    }
+  },
+  {
+    "title": "AutoPELSA: an automated sample preparation system for proteome-wide identification of target proteins of diverse ligands",
+    "summary": "Protein ligand interactions are fundamental to cellular function and drug discovery, and ligand modification free strategies have emerged as powerful tools for proteome wide interrogation of these interactions. Among these, the peptide centric local stability assay (PELSA) stands out for its high sensitivity. It uses a single digestion step to detect ligand induced local stability shifts, enabling precise binding region localization and affinity estimation. However, manual PELSA workflows suffer from multiple labor intensive steps that introduce variability and constrain throughput, limiting large scale applications. To address these limitations, we developed AutoPELSA, an automated platform that streamlines the PELSA workflow including the limited proteolysis step and the following peptide separation step. AutoPELSA completes 96 samples in ~4 h, enabling high throughput analysis under native conditions. AutoPELSA reliably detected targets of both strong affinity ligands (e.g., staurosporine, identifying 114 kinase targets) and low affinity ligands, including ketoglutarate (30 known targets). Furthermore, a mixed ligand dose response strategy enabled simultaneous determination of binding affinities for multiple ligand protein interaction regions in a single experiment. Overall, AutoPELSA provides a scalable and modification free platform for proteome wide identification and affinity profiling of ligand protein interactions.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.697612v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Environmental Toxin Rotenone Drives LRRK2-Mediated Microtubule, Cilia and Proteostasis Disruption in Parkinson's Disease Model",
+    "summary": "Exposure to the environmental toxin rotenone increases risk for Parkinson's disease (PD). However, protein phosphorylation changes induced by rotenone in neural-derived cells have not been reported. We examined the effect of rotenone on the proteome and phosphoproteome of cortex-derived cultures from wild-type and Lrrk2-/- mouse brains. We also analyzed the phosphoproteome of the PD cadaver brain using a previously unanalyzed dataset. Rotenone alters phosphorylation at 904 sites, most of which are unchanged in Lrrk2-/- cultures. Common targets include proteins that control microtubule stability, vesicular transport, and protein clearance via the autophagosomal/lysosomal pathway. Analysis of phosphosites with known function indicate that rotenone activates histone deacetylase-1 and represses the pro-survival transcriptional regulators MEF2C and MEF2D, while inhibiting translation by phosphorylating EIF2b5. These effects do not occur in Lrrk2-/- cultures. This study shows that Lrrk2 is required for the earliest rotenone-triggered phospho-signalling events.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.697160v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "systems biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The role of ducks in detecting Highly Pathogenic Avian Influenza in small-scale backyard poultry farms",
+    "summary": "<p>by Steven Xingyu Wu, Christopher N. Davis, Mark Arnold, Michael J. Tildesley</p>\n\nPrevious research efforts on highly pathogenic H5N1 avian influenza (HPAI) suggest that different avian species exhibit a varied severity of clinical signs after infection. Waterfowl, such as ducks or geese, can be asymptomatic and act as silent carriers of H5N1, making detection harder and increasing the risk of further transmission, potentially leading to significant economic losses. For backyard hobby farmers, passive reporting is a common HPAI detection strategy. We aim to develop a computational, mechanistic model to quantify the effectiveness of this strategy by simulating the spread of H5N1 in a mixed-species, small-population backyard flock. Quantities such as detection time and undetected burden of infection in various scenarios are compared. Our results indicate that the presence of ducks can lead to a higher risk of an outbreak and a higher burden of infection. If most ducks within a flock are resistant to H5N1, detection can be significantly delayed. We find that within-flock infection dynamics can heavily depend on the species composition in backyard farms. Ducks, in particular, can pose a higher risk of transmission within a flock or between flocks. Our findings can help inform surveillance and intervention strategies at the flock and local levels.",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013357",
+    "published_date": "2026-01-09T14:00:00Z",
+    "source_feed": "PLOS Computational Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Two-year persistence of MERS-CoV-specific antibody and T cell responses after MVA-MERS-S vaccination in healthy adults",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68248-5",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Endothelial IRE1\u03b1 promotes thrombospondin-1 mRNA decay and supports metabolic stress adaptation of pancreatic islets",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68276-1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stevie Wonder\u2019s Rule for AI at CES 2026\u2014Make Life Better for the Living",
+    "summary": "<p>Wonder offered a simple test. In the smart-glasses boom, the most persuasive tools aren&rsquo;t about perfect sight, but day-to-day independence.</p>",
+    "url": "https://www.scientificamerican.com/article/stevie-wonders-rule-for-ai-at-ces-2026-make-life-better-for-the-living/",
+    "published_date": "2026-01-09T19:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "The 'Age of Fishes' began with mass death, fossil database reveals",
     "summary": "Some 445 million years ago, life on Earth was forever changed. During the geological blink of an eye, glaciers formed over the supercontinent Gondwana, drying out many of the vast, shallow seas like a sponge and giving an \"icehouse climate\" that, together with radically changed ocean chemistry, ultimately caused the extinction of about 85% of all marine species\u2014the majority of life on Earth.",
     "url": "https://phys.org/news/2026-01-age-fishes-began-mass-death.html",

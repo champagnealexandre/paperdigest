@@ -3,8 +3,69 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-09T19:17:55.285017+00:00</updated>
+  <updated>2026-01-09T20:21:47.002208+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Callisto’s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure</title>
+    <link href="https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html"/>
+    <id>https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html</id>
+    <updated>2026-01-09T19:47:38Z</updated>
+    <summary>The Galilean moons of Io, Europa, and Ganymede exhibit a 4:2:1 commensurability in their mean motions, a configuration known as the Laplace resonance. The prevailing view for the origin of this three-</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> This paper models how substructure in the circum-Jovian gas disk could have altered migration pathways so that Callisto avoided capture into the Laplace resonance with Io–Europa–Ganymede.</p>
+<p><strong>Abstract:</strong> The Galilean moons of Io, Europa, and Ganymede exhibit a 4:2:1 commensurability in their mean motions, a configuration known as the Laplace resonance. The prevailing view for the origin of this three-body resonance involves the convergent migration of the moons, resulting from gas-driven torques in the circum-Jovian disk wherein they accreted. To account for Callisto’s […] The post Callisto’s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00786">https://doi.org/10.48550/arXiv.2601.00786</a></li>
+<li><a href="https://doi.org/10.3847/1538-4357/ae171c">https://doi.org/10.3847/1538-4357/ae171c</a></li>
+<li><a href="https://arxiv.org/abs/2601.00786">https://arxiv.org/abs/2601.00786</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Astrobiology (astrobiology.com) ▶ Physical Vetting of the Ultra-Short-Period Sub-Earth TOI 864.01</title>
+    <link href="https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html"/>
+    <id>https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html</id>
+    <updated>2026-01-09T17:13:00Z</updated>
+    <summary>We present a comprehensive analysis of TOI 864.01, a transit-like signal associated with the M-dwarf TIC 231728511. Utilizing the full baseline of TESS photometry (54 sectors), we recover a periodic s</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*</p>
+<p><strong>AI Decision:</strong> This study rigorously vets the ultra-short-period, sub-Earth TESS transit candidate TOI 864.01 but, as a likely highly irradiated close-in world without direct habitability or prebiotic-chemistry implications, it has limited relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> We present a comprehensive analysis of TOI 864.01, a transit-like signal associated with the M-dwarf TIC 231728511. Utilizing the full baseline of TESS photometry (54 sectors), we recover a periodic signal with P=0.52067 d and a shallow depth of ∼158 ppm. To assess the planetary nature of the candidate, we performed a rigorous vetting process […] The post Physical Vetting of the Ultra-Short-Period Sub-Earth TOI 864.01 appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.02171">https://doi.org/10.48550/arXiv.2601.02171</a></li>
+<li><a href="https://arxiv.org/abs/2601.02171">https://arxiv.org/abs/2601.02171</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In Molecular Emission</title>
+    <link href="https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html"/>
+    <id>https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html</id>
+    <updated>2026-01-09T19:38:17Z</updated>
+    <summary>The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central deficit in dust emission, a “cavity”, have long att</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrochemistry, evolution, astrobio*</p>
+<p><strong>AI Decision:</strong> JWST-MIRI spectroscopy of protoplanetary disks with dust cavities reveals a dichotomy in infrared molecular emission, informing how planet-forming environments and their volatile inventories evolve prior to planet assembly.</p>
+<p><strong>Abstract:</strong> The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central deficit in dust emission, a “cavity”, have long attracted interest as potential evidence for advanced disk clearing by protoplanets and/or winds. Before JWST, infrared spectra showed that these disks typically lack the strong molecular emission […] The post Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In Molecular Emission appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.02344">https://doi.org/10.48550/arXiv.2601.02344</a></li>
+<li><a href="https://arxiv.org/abs/2601.02344">https://arxiv.org/abs/2601.02344</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ The Persistent Thermal Anomalies In Rocky Worlds</title>
+    <link href="https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html"/>
+    <id>https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html</id>
+    <updated>2026-01-09T19:44:50Z</updated>
+    <summary>Observing the dayside thermal emissions of rocky exoplanets provides essential insights into their compositions and the presence of atmospheres. Even though no conclusive evidence has been found for a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*</p>
+<p><strong>AI Decision:</strong> Analyzes JWST dayside thermal emission excesses in rocky M-dwarf exoplanets, exploring physical explanations that impact how we infer atmospheres and thus assess potential habitability.</p>
+<p><strong>Abstract:</strong> Observing the dayside thermal emissions of rocky exoplanets provides essential insights into their compositions and the presence of atmospheres. Even though no conclusive evidence has been found for atmospheres on small rocky exoplanets orbiting M dwarfs, recent JWST observations identified puzzling thermal emission excesses: some rocky exoplanets orbiting M dwarfs have dayside emission temperatures higher […] The post The Persistent Thermal Anomalies In Rocky Worlds appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.00412">https://arxiv.org/abs/2601.00412</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00412">https://doi.org/10.48550/arXiv.2601.00412</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] Phys.org: Evolution News ▶ The &#x27;Age of Fishes&#x27; began with mass death, fossil database reveals</title>
     <link href="https://phys.org/news/2026-01-age-fishes-began-mass-death.html"/>

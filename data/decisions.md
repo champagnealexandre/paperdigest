@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [The Persistent Thermal Anomalies In Rocky Worlds](https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html) |
+| ai_scored | 50 | [Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In ](https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html) |
+| ai_scored | 20 | [Physical Vetting of the Ultra-Short-Period Sub-Earth TOI 864](https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html) |
+| ai_scored | 30 | [Callisto’s Nonresonant Orbit As An Outcome Of Circum-Jovian ](https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html) |
+| keyword_rejected | - | [Stevie Wonder’s Rule for AI at CES 2026—Make Life Better for](https://www.scientificamerican.com/article/stevie-wonders-rule-for-ai-at-ces-2026-make-life-better-for-the-living/) |
+| keyword_rejected | - | [Endothelial IRE1α promotes thrombospondin-1 mRNA decay and s](https://www.nature.com/articles/s41467-025-68276-1) |
+| keyword_rejected | - | [Two-year persistence of MERS-CoV-specific antibody and T cel](https://www.nature.com/articles/s41467-025-68248-5) |
+| keyword_rejected | - | [The role of ducks in detecting Highly Pathogenic Avian Influ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013357) |
+| keyword_rejected | - | [Environmental Toxin Rotenone Drives LRRK2-Mediated Microtubu](https://www.biorxiv.org/content/10.64898/2026.01.08.697160v1?rss=1) |
+| keyword_rejected | - | [AutoPELSA: an automated sample preparation system for proteo](https://www.biorxiv.org/content/10.64898/2026.01.08.697612v1?rss=1) |
 | ai_scored | 40 | [The 'Age of Fishes' began with mass death, fossil database r](https://phys.org/news/2026-01-age-fishes-began-mass-death.html) |
 | keyword_rejected | - | [Scientists Discover Brain Circuit That Acts Like a ‘Brake’ o](https://www.scientificamerican.com/article/scientists-discover-brain-circuit-that-acts-like-a-brake-on-motivation/) |
 | keyword_rejected | - | [L'extinction qui a ouvert les mers aux poissons](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/l-extinction-qui-a-ouvert-les-mers-aux-poissons_190323?xtor=RSS-4) |
