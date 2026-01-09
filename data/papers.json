@@ -1,5 +1,224 @@
 [
   {
+    "title": "Dynamics of Low-Temperature Water are Driven by Electrostatics",
+    "summary": "Non-Gaussian dynamics in low-temperature liquids are assigned to spatial fluctuations of relax- ation times and linear transport coe\ufb00icients (dynamic heterogeneity). In contrast, molecular dy- namics simulations of SPC/E water assign non-Gaussian dynamics to electrostatic intermolecular interactions growing in prominence with lowering temperature. Translational non-Gaussian param- eter and rotational/translational relaxation times follow master curves produced by either changing temperature or liquid\u2019s dipole moment. Static and dynamic compensation relations found for bulk water are assigned to the separation of time scales between density and electrostatic fluctuations.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Molecular dynamics simulations suggest that anomalous low-temperature water dynamics are primarily driven by strengthening electrostatic interactions, a finding broadly relevant to astrobiology via water physics in cold environments but not directly focused on origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "A New Chirality Phenomenon in Amino Acid and Peptide Derivatives",
+    "summary": "Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored due to their high solubility in aqueous biological systems, ease of structural modification, and the non-toxic nature of their metabolites. For most peptide drugs, the chirality of their higher structures determines both their functionality and biological activities. To date, nearly all amino acid residues in peptide structures exhibit central chirality, although axial chirality has occasionally been observed in peptides. In this study, we report the discovery of a new form of chirality, termed turbo chirality, which consists of two propeller blades and coexists alongside central chirality in amino acids and peptides. Specifically, we found that di-propeller structures in amino acids and peptides can exist in either M,M- or P,P-configurations, depending on the orientation of their chiral centers, which are controlled by (S)- and (R)-configurations, respectively. Computational studies were conducted to explore the relative energies of rotational barriers for conversion between M,M- and P,P-configurations, as well as the transition pathways between the two enantiomers, yielding results that align with our expectations. This discovery is expected to have broad implications for amino acid and peptide research, particularly in structure-activity relationship (SAR) studies of peptides and peptidomimetics. As a result, our findings are anticipated to make a significant impact across multiple disciplines, including chemistry, biomedicine, and materials science.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "chirality"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Reports a newly defined 'turbo chirality' (di-propeller M,M vs P,P configurations coupled to central stereocenters) in amino acid/peptide derivatives, a stereochemical finding broadly relevant to understanding biomolecular chirality but not directly framed in prebiotic or origins-of-life contexts."
+    }
+  },
+  {
+    "title": "A New Chirality Phenomenon in Amino Acid and Peptide Derivatives",
+    "summary": "Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored due to their high solubility in aqueous biological systems, ease of structural modification, and the non-toxic nature of their metabolites. For most peptide drugs, the chirality of their higher structures determines both their functionality and biological activities. To date, nearly all amino acid residues in peptide structures exhibit central chirality, although axial chirality has occasionally been observed in peptides. In this study, we report the discovery of a new form of chirality, termed turbo chirality, which consists of two propeller blades and coexists alongside central chirality in amino acids and peptides. Specifically, we found that di-propeller structures in amino acids and peptides can exist in either M,M- or P,P-configurations, depending on the orientation of their chiral centers, which are controlled by (S)- and (R)-configurations, respectively. Computational studies were conducted to explore the relative energies of rotational barriers for conversion between M,M- and P,P-configurations, as well as the transition pathways between the two enantiomers, yielding results that align with our expectations. This discovery is expected to have broad implications for amino acid and peptide research, particularly in structure-activity relationship (SAR) studies of peptides and peptidomimetics. As a result, our findings are anticipated to make a significant impact across multiple disciplines, including chemistry, biomedicine, and materials science.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "chirality"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Reports a newly described 'turbo chirality' (di-propeller M,M vs P,P configurations coupled to S/R centers) in amino acid and peptide derivatives, potentially informing how peptide stereochemistry can encode higher-order structure beyond classic central chirality."
+    }
+  },
+  {
+    "title": "Lewis-acid-mediated regioselectivity switching by aromatization-driven rearrangement of 5-amino-1,4-epoxy-1,4-dihydronaphthalenes",
+    "summary": "Selective synthesis of 8- or 5-amino-substituted 1-naphthols through rearrangement is demonstrated using Lewis acids. A variety of tetrasubstituted 1-naphthols were selectively prepared from 2,4-disubstituted 5-amino-1,4-epoxy-1,4-dihydronaphthalenes in a Lewis-acid-dependent manner with AlCl3 or ZnCl2 serving as the activators. A unique reaction mechanism was proposed on the basis of NMR experiments.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2f3ps?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Engineering Cell Permeable Constrained Peptides for Precise Targeted Alpha Radionuclide Therapy of Osteosarcoma",
+    "summary": "Osteosarcoma is an aggressive malignancy that often resists conventional therapies. Targeted \u03b1\u2011radiopharmaceutical therapy (TAT) provides a promising solution, offering potent localized cytotoxicity, reduced recurrence, and minimal acquired resistance. Mouse Double Minute 2 (MDM2), often amplification in osteosarcoma, serving as an ideal TAT target. Here, we present a TAT strategy that leverages the cell nucleus-enrichment capability of a 225Ac-labeled, MDM2-targeting stapled peptide for effective treatment of osteosarcoma. Rapid PET/CT-based screening enables precise identification of an optimized MDM2-targeting stapled peptide ligand (tumor uptake: 8.26 %ID/g; nucleus uptake fraction: 18.9 %). A single micro-dose (17 KBq) markedly suppressed osteosarcoma growth with satisfactory safety, resulting in growth arrest in over 50% of tumors without signs of recurrence. Mechanistically, the 225Ac-labeled stapled peptide rapidly triggers cellular stress programs in osteosarcoma and progressively induces the formation of the senescence-associated secretory phenotype (SASP). Our findings suggest that TAT represents an effective therapeutic strategy for osteosarcoma, with MDM2-targeting stapled peptide serving as an ideal ligand for this approach.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-7hg79?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunctionalization of Vinyl Organoboron Compounds",
+    "summary": "Developing new and sustainable asymmetric methodologies using readily available building blocks remains a central challenge in chemical synthesis. Despite advances in asymmetric multicomponent radical cross-couplings, methods that use earth-abundant iron catalysts and non-phosphine ligand platforms remain rare and poorly understood. We report an iron-catalyzed asymmetric radical dicarbofunctionalization of vinyl boronate esters using inexpensive iron salts with chiral bisoxazoline or amide ligands, affording diverse, enantioenriched alkyl boron compounds with high levels of stereoselectivity (up to 99:1 e.r.). Mechanistic investigations combining 80 K \u2075\u2077Fe M\u00f6ssbauer spectroscopy, single-crystal X-ray analysis, and quantum mechanical calculations reveal a catalytic cycle involving novel chiral bis- and mono-aryl iron (II)(BOX) species responsible for radical capture and C-C bond formation. This work establishes a distinct mechanistic paradigm for asymmetric radical cross-coupling and provides general design principles for enantioselective catalysis with earth-abundant metals.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-q042f?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Lewis-acid-mediated regioselectivity switching by aromatization-driven rearrangement of 5-amino-1,4-epoxy-1,4-dihydronaphthalenes",
+    "summary": "Selective synthesis of 8- or 5-amino-substituted 1-naphthols through rearrangement is demonstrated using Lewis acids. A variety of tetrasubstituted 1-naphthols were selectively prepared from 2,4-disubstituted 5-amino-1,4-epoxy-1,4-dihydronaphthalenes in a Lewis-acid-dependent manner with AlCl3 or ZnCl2 serving as the activators. A unique reaction mechanism was proposed on the basis of NMR experiments.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2f3ps?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunctionalization of Vinyl Organoboron Compounds",
+    "summary": "Developing new and sustainable asymmetric methodologies using readily available building blocks remains a central challenge in chemical synthesis. Despite advances in asymmetric multicomponent radical cross-couplings, methods that use earth-abundant iron catalysts and non-phosphine ligand platforms remain rare and poorly understood. We report an iron-catalyzed asymmetric radical dicarbofunctionalization of vinyl boronate esters using inexpensive iron salts with chiral bisoxazoline or amide ligands, affording diverse, enantioenriched alkyl boron compounds with high levels of stereoselectivity (up to 99:1 e.r.). Mechanistic investigations combining 80 K \u2075\u2077Fe M\u00f6ssbauer spectroscopy, single-crystal X-ray analysis, and quantum mechanical calculations reveal a catalytic cycle involving novel chiral bis- and mono-aryl iron (II)(BOX) species responsible for radical capture and C-C bond formation. This work establishes a distinct mechanistic paradigm for asymmetric radical cross-coupling and provides general design principles for enantioselective catalysis with earth-abundant metals.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-q042f?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dictionary of human intestinal organoid responses to secreted niche factors at single cell resolution",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68247-6\">doi:10.1038/s41467-025-68247-6</a></p>Here they developed an inflamed human intestinal organoid model and used it to build a scRNA-seq perturbation atlas of microenvironmental cues in the context of inflammatory bowel disease.",
+    "url": "https://www.nature.com/articles/s41467-025-68247-6",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Global change factors differ in effect when acting alone and in a multi-factor background",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68155-9\">doi:10.1038/s41467-025-68155-9</a></p>Urban soils are exposed to numerous human-driven stressors that can interact in unpredictable ways. This study concludes that the impact of adding one factor does not correspond to the impact of removing it from a set of interacting stressors.",
+    "url": "https://www.nature.com/articles/s41467-025-68155-9",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Robust minimally-invasive microfabricated stainless steel neural interfaces for high resolution recording",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67681-w\">doi:10.1038/s41467-025-67681-w</a></p>Understanding brain functions in large animals requires long, robust neural probes. Here, the authors present a microfabricated stainless steel probe that enables high-density recordings in deep brain structures in primates",
+    "url": "https://www.nature.com/articles/s41467-025-67681-w",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The impact of hyperbaric therapy on cognitive functions in patients treated for idiopathic sudden hearing loss or hard-to-heal chronic wounds",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-29302-w\">doi:10.1038/s41598-025-29302-w</a></p>The impact of hyperbaric therapy on cognitive functions in patients treated for idiopathic sudden hearing loss or hard-to-heal chronic wounds",
+    "url": "https://www.nature.com/articles/s41598-025-29302-w",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Prevalence and risk factors of CKD-associated osteoporosis in maintenance hemodialysis patients aged over 50 years: a cross-sectional study",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35136-x\">doi:10.1038/s41598-026-35136-x</a></p>Prevalence and risk factors of CKD-associated osteoporosis in maintenance hemodialysis patients aged over 50 years: a cross-sectional study",
+    "url": "https://www.nature.com/articles/s41598-026-35136-x",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Physics-constrained transformer for wind power forecasting",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34348-x\">doi:10.1038/s41598-025-34348-x</a></p>Physics-constrained transformer for wind power forecasting",
+    "url": "https://www.nature.com/articles/s41598-025-34348-x",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemical inhibition of SUMOylation activates the FSHD locus",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33624-0\">doi:10.1038/s41598-025-33624-0</a></p>Chemical inhibition of SUMOylation activates the FSHD locus",
+    "url": "https://www.nature.com/articles/s41598-025-33624-0",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Un \u00e9quipage de l'ISS va \u00eatre \u00e9vacu\u00e9 \u00e0 cause d'un probl\u00e8me m\u00e9dical, une premi\u00e8re",
+    "summary": "Les responsables de la Nasa n'ont pas donn\u00e9 de d\u00e9tails sur la nature de ce probl\u00e8me, mais ont pr\u00e9cis\u00e9 que l'astronaute, qui n'a pas \u00e9t\u00e9 nomm\u00e9, se trouve dans un \u00e9tat stable.",
+    "url": "https://www.sciencesetavenir.fr/espace/un-equipage-de-l-iss-va-etre-evacue-a-cause-d-un-probleme-medical-une-premiere_190335?xtor=RSS-9",
+    "published_date": "2026-01-09T00:12:56Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Certains chiens peuvent apprendre des mots en \u00e9coutant les conversations, selon une \u00e9tude",
+    "summary": "Promenade, jouet, friandise: il suffit de prononcer certains mots pour capter l'attention de la plupart des chiens. Mais une poign\u00e9e d'individus d'exception semblent capables d'apprendre le vocabulaire humain simplement en \u00e9coutant les conversations, comme de tr\u00e8s jeunes enfants.\nC'est ce que r\u00e9v\u00e8le une nouvelle \u00e9tude publi\u00e9e jeudi dans la revue Science, qui montre que certains chiens, d\u00e9j\u00e0 connus pour \u00eatre capables d'apprendre le nom de jouets par l'entra\u00eenement et le jeu, peuvent aussi assimiler des mots simplement en entendant des humains parler entre eux.",
+    "url": "https://www.sciencesetavenir.fr/sciences/certains-chiens-peuvent-apprendre-des-mots-en-ecoutant-les-conversations-selon-une-etude_190341?xtor=RSS-18",
+    "published_date": "2026-01-08T22:19:03Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rare naissance de jumeaux gorilles de montagne dans le parc national des Virunga",
+    "summary": "Les naissances g\u00e9mellaires chez les gorilles et notamment chez les gorilles des montagnes sont consid\u00e9r\u00e9es comme tr\u00e8s rares, les scientifiques recensant moins d'1% de cas en moyenne.",
+    "url": "https://www.sciencesetavenir.fr/animaux/primates/rdc-naissance-rare-de-jumeaux-gorilles-de-montagne-dans-le-parc-national-des-virunga_190333?xtor=RSS-26",
+    "published_date": "2026-01-08T17:33:30Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Association-gated multiphoton activation of inert haloarenes via sequential electron donor\u2013acceptor assembly",
     "summary": "The functionalization of recalcitrant chemical bonds that require extreme reduction potentials is often thwarted by the absence of a defined reaction field to control potent intermediates. Conventional multiphoton photocatalysis generates super-reductants, whose immense energy dissipates through chaotic, diffusion-controlled pathways. Herein, an \"association-gated\" strategy is introduced that constructs sequential electron donor\u2013acceptor (EDA) complexes as programmable reaction microenvironments. This system initially captures a single photon through its sulfide/naphthalene monoimide (NMI) complex. The resulting NMI radical anion serves as a scaffold to pre-organize the haloarene substrate into a second, distinct EDA complex, creating a reaction pocket for the final, energy-storing excitation. Such supramolecular confinement generates an extreme reducing potential at the carbon\u2013halogen bond, suppressing both diffusive side-reactions and parasitic hydrogen atom transfer from amine donors. This unlocks a broad scope of transformations under air-tolerant conditions, providing a versatile tool for late-stage diversification.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2025-1386d-v2?rft_dat=source%3Ddrss",

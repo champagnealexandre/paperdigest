@@ -1,5 +1,23 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [A New Chirality Phenomenon in Amino Acid and Peptide Derivat](https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss) |
+| ai_scored | 50 | [A New Chirality Phenomenon in Amino Acid and Peptide Derivat](https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss) |
+| ai_scored | 55 | [Dynamics of Low-Temperature Water are Driven by Electrostati](https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Rare naissance de jumeaux gorilles de montagne dans le parc ](https://www.sciencesetavenir.fr/animaux/primates/rdc-naissance-rare-de-jumeaux-gorilles-de-montagne-dans-le-parc-national-des-virunga_190333?xtor=RSS-26) |
+| keyword_rejected | - | [Certains chiens peuvent apprendre des mots en écoutant les c](https://www.sciencesetavenir.fr/sciences/certains-chiens-peuvent-apprendre-des-mots-en-ecoutant-les-conversations-selon-une-etude_190341?xtor=RSS-18) |
+| keyword_rejected | - | [Un équipage de l'ISS va être évacué à cause d'un problème mé](https://www.sciencesetavenir.fr/espace/un-equipage-de-l-iss-va-etre-evacue-a-cause-d-un-probleme-medical-une-premiere_190335?xtor=RSS-9) |
+| keyword_rejected | - | [Chemical inhibition of SUMOylation activates the FSHD locus](https://www.nature.com/articles/s41598-025-33624-0) |
+| keyword_rejected | - | [Physics-constrained transformer for wind power forecasting](https://www.nature.com/articles/s41598-025-34348-x) |
+| keyword_rejected | - | [Prevalence and risk factors of CKD-associated osteoporosis i](https://www.nature.com/articles/s41598-026-35136-x) |
+| keyword_rejected | - | [The impact of hyperbaric therapy on cognitive functions in p](https://www.nature.com/articles/s41598-025-29302-w) |
+| keyword_rejected | - | [Robust minimally-invasive microfabricated stainless steel ne](https://www.nature.com/articles/s41467-025-67681-w) |
+| keyword_rejected | - | [Global change factors differ in effect when acting alone and](https://www.nature.com/articles/s41467-025-68155-9) |
+| keyword_rejected | - | [Dictionary of human intestinal organoid responses to secrete](https://www.nature.com/articles/s41467-025-68247-6) |
+| keyword_rejected | - | [Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunc](https://dx.doi.org/10.26434/chemrxiv-2026-q042f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Lewis-acid-mediated regioselectivity switching by aromatizat](https://dx.doi.org/10.26434/chemrxiv-2026-2f3ps?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunc](https://dx.doi.org/10.26434/chemrxiv-2026-q042f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Engineering Cell Permeable Constrained Peptides for Precise ](https://dx.doi.org/10.26434/chemrxiv-2026-7hg79?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Lewis-acid-mediated regioselectivity switching by aromatizat](https://dx.doi.org/10.26434/chemrxiv-2026-2f3ps?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Le kakapo, perroquet en danger, recommence à se reproduire](https://www.sciencesetavenir.fr/animaux/oiseaux/nouvelle-zelande-le-kakapo-perroquet-en-danger-recommence-a-se-reproduire-apres-4-ans_190337?xtor=RSS-26) |
 | keyword_rejected | - | [Les océans ont absorbé une quantité record de chaleur en 202](https://www.sciencesetavenir.fr/nature-environnement/les-oceans-ont-absorbe-une-quantite-record-de-chaleur-en-2025_190340?xtor=RSS-15) |
 | keyword_rejected | - | [Les chasseurs-cueilleurs sud-africains empoisonnaient déjà l](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-chasseurs-cueilleurs-sud-africains-empoisonnaient-deja-leurs-fleches-il-y-a-60-000-ans_190328?xtor=RSS-4) |

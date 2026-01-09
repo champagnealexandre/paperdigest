@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-09T10:19:04.229190+00:00</updated>
+  <updated>2026-01-09T11:16:37.732202+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] ChemRxiv ▶ Dynamics of Low-Temperature Water are Driven by Electrostatics</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Non-Gaussian dynamics in low-temperature liquids are assigned to spatial fluctuations of relax- ation times and linear transport coeﬀicients (dynamic heterogeneity). In contrast, molecular dy- namics </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Molecular dynamics simulations suggest that anomalous low-temperature water dynamics are primarily driven by strengthening electrostatic interactions, a finding broadly relevant to astrobiology via water physics in cold environments but not directly focused on origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Non-Gaussian dynamics in low-temperature liquids are assigned to spatial fluctuations of relax- ation times and linear transport coeﬀicients (dynamic heterogeneity). In contrast, molecular dy- namics simulations of SPC/E water assign non-Gaussian dynamics to electrostatic intermolecular interactions growing in prominence with lowering temperature. Translational non-Gaussian param- eter and rotational/translational relaxation times follow master curves produced by either changing temperature or liquid’s dipole moment. Static and dynamic compensation relations found for bulk water are assigned to the separation of time scales between density and electrostatic fluctuations.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ A New Chirality Phenomenon in Amino Acid and Peptide Derivatives</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored du</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Reports a newly defined &#x27;turbo chirality&#x27; (di-propeller M,M vs P,P configurations coupled to central stereocenters) in amino acid/peptide derivatives, a stereochemical finding broadly relevant to understanding biomolecular chirality but not directly framed in prebiotic or origins-of-life contexts.</p>
+<p><strong>Abstract:</strong> Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored due to their high solubility in aqueous biological systems, ease of structural modification, and the non-toxic nature of their metabolites. For most peptide drugs, the chirality of their higher structures determines both their functionality and biological activities. To date, nearly all amino acid residues in peptide structures exhibit central chirality, although axial chirality has occasionally been observed in peptides. In this study, we report the discovery of a new form of chirality, termed turbo chirality, which consists of two propeller blades and coexists alongside central chirality in amino acids and peptides. Specifically, we found that di-propeller structures in amino acids and peptides can exist in either M,M- or P,P-configurations, depending on the orientation of their chiral centers, which are controlled by (S)- and (R)-configurations, respectively. Computational studies were conducted to explore the relative energies of rotational barriers for conversion between M,M- and P,P-configurations, as well as the transition pathways between the two enantiomers, yielding results that align with our expectations. This discovery is expected to have broad implications for amino acid and peptide research, particularly in structure-activity relationship (SAR) studies of peptides and peptidomimetics. As a result, our findings are anticipated to make a significant impact across multiple disciplines, including chemistry, biomedicine, and materials science.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Organic Chemistry on ChemRxiv ▶ A New Chirality Phenomenon in Amino Acid and Peptide Derivatives</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored du</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Reports a newly described &#x27;turbo chirality&#x27; (di-propeller M,M vs P,P configurations coupled to S/R centers) in amino acid and peptide derivatives, potentially informing how peptide stereochemistry can encode higher-order structure beyond classic central chirality.</p>
+<p><strong>Abstract:</strong> Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored due to their high solubility in aqueous biological systems, ease of structural modification, and the non-toxic nature of their metabolites. For most peptide drugs, the chirality of their higher structures determines both their functionality and biological activities. To date, nearly all amino acid residues in peptide structures exhibit central chirality, although axial chirality has occasionally been observed in peptides. In this study, we report the discovery of a new form of chirality, termed turbo chirality, which consists of two propeller blades and coexists alongside central chirality in amino acids and peptides. Specifically, we found that di-propeller structures in amino acids and peptides can exist in either M,M- or P,P-configurations, depending on the orientation of their chiral centers, which are controlled by (S)- and (R)-configurations, respectively. Computational studies were conducted to explore the relative energies of rotational barriers for conversion between M,M- and P,P-configurations, as well as the transition pathways between the two enantiomers, yielding results that align with our expectations. This discovery is expected to have broad implications for amino acid and peptide research, particularly in structure-activity relationship (SAR) studies of peptides and peptidomimetics. As a result, our findings are anticipated to make a significant impact across multiple disciplines, including chemistry, biomedicine, and materials science.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [10] Nature Communications ▶ Theoretical prediction for monitoring Jahn-Teller vibrational evolution using real-space tip-enhanced Raman imaging</title>
     <link href="https://www.nature.com/articles/s41467-025-67894-z"/>
