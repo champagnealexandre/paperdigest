@@ -1,5 +1,148 @@
 [
   {
+    "title": "Investigating synthetic dolomite mixtures and phase adjustment parameters in electrochemical cement precursor production",
+    "summary": "The precursor material of Portland cement (PC) colloquially referred to as clinker is produced primarily via calcination of limestone (CaCO3). Magnesia-based cements can similarly be formed via calcination of magnesite (MgCO3) among other routes. Dolomitic minerals typically contain a mixture of these carbonate mineral phases. The current study monitors and explores the electrochemical transformation of CaCO3 and MgCO3 synthetic mixtures approximating dolomite and investigates their applicability in forming cementitious phases. The transformation of such mixtures indicates that Mg and Ca-based electrolysis products namely Ca(OH)2 and Mg(OH)2, respectively display different precipitation parameters. Mg(OH)2 precipitates more rapidly in the form of flower-shaped micro-aggregates while Ca(OH)2 forms slower in comparison, precipitating in larger hexagonal prismatic structures. These findings point towards possible mixture separation techniques for PC and Magnesia-based cements.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-lscwl?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Excited-State Polarizabilities: CC3 Reference Values,\nWavefunction and TD-DFT Benchmarks",
+    "summary": "We present a comprehensive benchmark of excited-states polarizabilities for a representative set of 41 singlet states from 27 small organic molecules. Reference data were obtained using the high-level coupled-cluster CC3 model in combination with the aug-cc-pVTZ atomic basis set, providing the first systematic dataset of e0xcited-state polarizabilities at this level of theory. The studied set includes both valence and Rydberg states, the latter  exhibiting significantly larger polarizabilities, reflecting their diffuse character and enhanced sensitivity to external electric fields. The benchmark analysis includes lower-order wavefunction-based methods, namely CCSD and CC2, as well as Time-Dependent Density Functional Theory (TD-DFT) with several common density functional approximations (B3LYP, MN15, M06-2X, CAM-B3LYP, and LC-BLYP). The statistical analysis enables the evaluation of the impact of orbital relaxation and highlights method-dependent differences across the different kind of excited states, as well as according to the different chemical character of molecules. The results indicate that CCSD, both in its relaxed and unrelaxed forms, provides the most accurate description of excited-state polarizabilities, closely followed by CC2, which can therefore be generally employed as a computationally efficient yet reliable alternative. Among the TD-DFT functionals, range-separated hybrids \u2013 particularly LC-BLYP \u2013 perform best, while larger errors are observed for the three evaluated global hybrids.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1z20z?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Novel triazin-5-ones as potential antiseizure medicines",
+    "summary": "Novel triazin-5-ones as potential antiseizure medicines \nAnxiety and related issues are major health and social concerns in developed countries, affecting 10\u201320% of the population. The lowest effective inhibitory concentrations for GABA-AT were observed for two compounds: 3h (30.50\u00b10.61 \u00b5M) and 3r (44.76\u00b10.49 \u00b5M). Their IC50 values were similar to those of lamotrigine. In vitro tests showed that compounds 3h and 3f had the lowest IC50 values for GABA-AT inhibition, at 30.50\u00b10.61 and 44.58\u00b10.54, respectively. The anticonvulsant activity of 6-(4-methoxybenzyl)-3-R-4H-[1,2,4] triazin-5-ones in a corral seizure model depends on modifications to substituents at positions three and six of the heterocyclic 1,2,4-triazine ring. Leading compounds, 3f (3-(4-Chlorophenylamino)-6-(4-methoxybenzyl)-4H-[1,2,4]triazin-5-one) and 3h (3-(2,3-Dimethylphenylamino)-6-(4-methoxybenzyl)-4H-[1,2,4]triazin-5-one), completely inhibit clonic and tonic-clonic seizures. Compound 3r, which contains both tryptamine and triazine fragments, has a clear pharmacophore structure. However, the spatial structure of the pharmacophore in compound 3h, with the lowest binding energy to GABAa and GABA-AT and the best performance in tests, is not yet fully understood.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-4b2m1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reversible Oxygen-Switchable Spin Dynamics in a Purely Organic Bicyclic Expanded Porphyrin",
+    "summary": "The emulation of metalloprotein functions\u2014specifically the reversible oxygen binding and spin-crossover (SCO) capabilities of hemoglobin\u2014in purely organic scaffolds remains a \"holy grail\" in bio-inspired chemistry. This challenge stems from the inherent kinetic and thermodynamic instability of organic diradicals toward molecular oxygen. Herein, we report the synthesis and characterization of a doubly N-fused bicyclic expanded porphyrin (1) that defies this paradigm. Through a unique topological design fusing a bithiophene bridged bicyclic octaphyrin, we engineered a system that exhibits \"inverse\" spin-crossover behavior dependent on protonation state. In its neutral form, 1 exists as a paramagnetic diradical that switches to a diamagnetic singlet upon oxygen binding. Conversely, the di-protonated congener is a diamagnetic Hukel-M\u00f6bius hybrid (anti)aromatic system that switches to a thermally accessible paramagnetic triplet state (\u03942J/kB = 9.6 Kelvin) upon binding O2. Detailed spectroscopic, magnetic (EPR, SQUID), and computational (NICS, ACID, EDDB) analyses reveal that this reversible, room-temperature oxygen gas binding is driven by a synergistic switching between H\u00fcckel/M\u00f6bius aromatic topologies and its spin state.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gggh8?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Non-enantiopure H8-BINOL Metal-Organic Framework for Enantioselective Fluorescence Sensing",
+    "summary": "A major challenge in chiral sensing technologies is the reliance on enantiopure materials to differentiate between enantiomers, as their interactions with a chiral system produce distinct detection signals. However, synthesizing and isolating enantiopure materials is often costly and time-consuming due to the difficulty of separating enantiomers. Here, we demonstrate that racemic materials can also function effectively as chiral sensors when the system exhibits non-inversion enantioselectivity. Fluorescent Cd(II) metal-organic frameworks (MOFs) were synthesised using enantiopure and racemic H8-BINOL-based ligands and their ability to enantioselectively sense aspartic acid dimethyl ester (Asp-diME) evaluated. Remarkably, the MOF synthesized from the racemic ligand retained measurable enantioselectivity, comparable to its enantiopure counterparts, highlighting its potential as a cost-effective and accessible alternative for chiral sensing. We further investigated the crystallization mechanism and found that secondary nucleation templated by the initial crystal plays a significant role in chiral induction during MOF formation, posing a challenge in obtaining a truly racemic MOF. These findings provide a promising strategy for designing chiral sensors based on racemic materials and underscore the importance of chiral induction in chiral MOF synthesis.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-w4k94?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Floquet States of Chemoselective AC Electrosynthesis",
+    "summary": "Alternating currents (ACs) offer precise synthetic control through potential modulation, yet theoretical understanding of the underlying mechanisms remains scarce as the simulated outcomes are generally reproducible by direct currents (DCs). Further computational explorations of the chemical space are also limited by the multiscale nature of the electrochemical dynamics. In this work, we propose to interpret AC-electrolytic outcomes as Floquet states. This narrows the simulation domain to a single AC period, which reduces computational costs, while decomposing the coupled electrochemical kinetics into interpretable subprocesses, providing physical intuition for future synthetic designs. Notably, we explore how non-electrochemical steps may create Floquet AC outcomes with no DC analogues, strengthening the role of AC in electrosynthesis. Experimentally, we demonstrate how AC facilitates mass transport for selective methyl thiophene-2-carboxylate electroreduction via coarse-graining effects captured in the Floquet states. Ultimately, given the success of Floquet engineering in quantum condensed matter systems and photonic architectures, we hope to inspire similar programmes in AC electrochemistry.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-slvtr?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reversible Oxygen-Switchable Spin Dynamics in a Purely Organic Bicyclic Expanded Porphyrin",
+    "summary": "The emulation of metalloprotein functions\u2014specifically the reversible oxygen binding and spin-crossover (SCO) capabilities of hemoglobin\u2014in purely organic scaffolds remains a \"holy grail\" in bio-inspired chemistry. This challenge stems from the inherent kinetic and thermodynamic instability of organic diradicals toward molecular oxygen. Herein, we report the synthesis and characterization of a doubly N-fused bicyclic expanded porphyrin (1) that defies this paradigm. Through a unique topological design fusing a bithiophene bridged bicyclic octaphyrin, we engineered a system that exhibits \"inverse\" spin-crossover behavior dependent on protonation state. In its neutral form, 1 exists as a paramagnetic diradical that switches to a diamagnetic singlet upon oxygen binding. Conversely, the di-protonated congener is a diamagnetic Hukel-M\u00f6bius hybrid (anti)aromatic system that switches to a thermally accessible paramagnetic triplet state (\u03942J/kB = 9.6 Kelvin) upon binding O2. Detailed spectroscopic, magnetic (EPR, SQUID), and computational (NICS, ACID, EDDB) analyses reveal that this reversible, room-temperature oxygen gas binding is driven by a synergistic switching between H\u00fcckel/M\u00f6bius aromatic topologies and its spin state.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gggh8?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Floquet States of Chemoselective AC Electrosynthesis",
+    "summary": "Alternating currents (ACs) offer precise synthetic control through potential modulation, yet theoretical understanding of the underlying mechanisms remains scarce as the simulated outcomes are generally reproducible by direct currents (DCs). Further computational explorations of the chemical space are also limited by the multiscale nature of the electrochemical dynamics. In this work, we propose to interpret AC-electrolytic outcomes as Floquet states. This narrows the simulation domain to a single AC period, which reduces computational costs, while decomposing the coupled electrochemical kinetics into interpretable subprocesses, providing physical intuition for future synthetic designs. Notably, we explore how non-electrochemical steps may create Floquet AC outcomes with no DC analogues, strengthening the role of AC in electrosynthesis. Experimentally, we demonstrate how AC facilitates mass transport for selective methyl thiophene-2-carboxylate electroreduction via coarse-graining effects captured in the Floquet states. Ultimately, given the success of Floquet engineering in quantum condensed matter systems and photonic architectures, we hope to inspire similar programmes in AC electrochemistry.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-slvtr?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A mechanism-based hybrid Transformer-GRU network for bridge pier hysteresis curves prediction: an interpretable research",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35626-y\">doi:10.1038/s41598-026-35626-y</a></p>A mechanism-based hybrid Transformer-GRU network for bridge pier hysteresis curves prediction: an interpretable research",
+    "url": "https://www.nature.com/articles/s41598-026-35626-y",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A preliminary study on oral health status and unmet dental needs in patients with home-based psychiatric services",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35661-9\">doi:10.1038/s41598-026-35661-9</a></p>A preliminary study on oral health status and unmet dental needs in patients with home-based psychiatric services",
+    "url": "https://www.nature.com/articles/s41598-026-35661-9",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Representation in science and trust in scientists in the USA",
+    "summary": "<p><img class=\"aligncenter\" src=\"https://cxdig.files.wordpress.com/2026/01/6d1b0596-e84e-44e3-98fa-f3cd43482930-1.jpg\" style=\"width: 100%;\" /></p>\n<p>James N. Druckman, Katherine Ognyanova, Alauna Safarpour, Jonathan Schulman, Kristin Lunz Trujillo, Ata Aydin Uslu, Jon Green, Matthew A. Baum, Alexi Quintana-Math\u00e9, Hong Qu, Roy H. Perlis &#38; David M. J. Lazer <br />Nature Human Behaviour (2025)</p>\n<p>Scientists provide important information to the public. Whether that information influences decision-making depends on trust. In the USA, gaps in trust in scientists have been stable for 50 years: women, Black people, rural residents, religious people, less educated people and people with lower economic status express less trust than their counterparts (who are more represented among scientists). Here we probe the factors that influence trust. We find that members of the less trusting groups exhibit greater trust in scientists who share their characteristics (for example, women trust women scientists more than men scientists). They view such scientists as having more benevolence and, in most cases, more integrity. In contrast, those from high-trusting groups appear mostly indifferent about scientists\u2019 characteristics. Our results highlight how increasing the presence of underrepresented groups among scientists can increase trust. This means expanding representation across several divides\u2014not just gender and race/ethnicity but also rurality and economic status.</p>\n<p>Read the full article at: <a href=\"https://www.nature.com/articles/s41562-025-02358-4\" rel=\"noopener\" target=\"_blank\">www.nature.com</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/09/representation-in-science-and-trust-in-scientists-in-the-usa/",
+    "published_date": "2026-01-09T16:04:47Z",
+    "source_feed": "Complexity Digest",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pourquoi le binge drinking est-il aussi nocif ?",
+    "summary": "Une \u00e9tude r\u00e9alis\u00e9e par des chercheurs de la Harvard Medical School (Etats-Unis), en collaboration avec des gastroent\u00e9rologues, a explor\u00e9 les m\u00e9canismes affectant l\u2019intestin en cas de consommation rapide et massive d\u2019alcool.",
+    "url": "https://www.sciencesetavenir.fr/sante/comment-le-binge-drinking-provoque-aussi-rapidement-le-syndrome-de-l-intestin-permeable_190345?xtor=RSS-16",
+    "published_date": "2026-01-09T15:59:19Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Using AI, Mathematicians Find Hidden Glitches in Fluid Equations",
+    "summary": "A $1 million prize awaits anyone who can show where the math of fluid flow breaks down. With specially trained AI systems, researchers have found a slew of new candidates in simpler versions of the problem.            <p>The post <a href=\"https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/\" target=\"_blank\">Using AI, Mathematicians Find Hidden Glitches in Fluid Equations</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+    "url": "https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/",
+    "published_date": "2026-01-09T15:45:54Z",
+    "source_feed": "Quanta Magazine",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Can we use bees as a model of intelligent alien life to develop interstellar communication?",
     "summary": "Humans have always been fascinated with space. We frequently question whether we are alone in the universe. If not, what does intelligent life look like? And how would aliens communicate?",
     "url": "https://phys.org/news/2026-01-bees-intelligent-alien-life-interstellar.html",

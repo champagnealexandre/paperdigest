@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Using AI, Mathematicians Find Hidden Glitches in Fluid Equat](https://www.quantamagazine.org/using-ai-mathematicians-find-hidden-glitches-in-fluid-equations-20260109/) |
+| keyword_rejected | - | [Pourquoi le binge drinking est-il aussi nocif ?](https://www.sciencesetavenir.fr/sante/comment-le-binge-drinking-provoque-aussi-rapidement-le-syndrome-de-l-intestin-permeable_190345?xtor=RSS-16) |
+| keyword_rejected | - | [Representation in science and trust in scientists in the USA](https://comdig.unam.mx/2026/01/09/representation-in-science-and-trust-in-scientists-in-the-usa/) |
+| keyword_rejected | - | [A preliminary study on oral health status and unmet dental n](https://www.nature.com/articles/s41598-026-35661-9) |
+| keyword_rejected | - | [A mechanism-based hybrid Transformer-GRU network for bridge ](https://www.nature.com/articles/s41598-026-35626-y) |
+| keyword_rejected | - | [Floquet States of Chemoselective AC Electrosynthesis](https://dx.doi.org/10.26434/chemrxiv-2026-slvtr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Reversible Oxygen-Switchable Spin Dynamics in a Purely Organ](https://dx.doi.org/10.26434/chemrxiv-2026-gggh8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Floquet States of Chemoselective AC Electrosynthesis](https://dx.doi.org/10.26434/chemrxiv-2026-slvtr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Non-enantiopure H8-BINOL Metal-Organic Framework for Enant](https://dx.doi.org/10.26434/chemrxiv-2026-w4k94?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Reversible Oxygen-Switchable Spin Dynamics in a Purely Organ](https://dx.doi.org/10.26434/chemrxiv-2026-gggh8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Novel triazin-5-ones as potential antiseizure medicines](https://dx.doi.org/10.26434/chemrxiv-2026-4b2m1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Excited-State Polarizabilities: CC3 Reference Values,
+Wavefu](https://dx.doi.org/10.26434/chemrxiv-2026-1z20z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Investigating synthetic dolomite mixtures and phase adjustme](https://dx.doi.org/10.26434/chemrxiv-2026-lscwl?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [DNA-Encoded Nanoparticle Interfaces Accelerate Diverse Enzym](https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Targeted Chromosomal Sequencing of Wild Bonobos Identifies a](https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1) |
 | ai_scored | 50 | [Short activation domains control chromatin association of tr](https://elifesciences.org/articles/105776) |
