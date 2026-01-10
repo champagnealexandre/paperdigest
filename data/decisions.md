@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Native Charge Detection Mass Spectrometry of Kilobase-Scale ](https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Wearable textile-based phototherapy platform with customized](https://www.nature.com/articles/s41467-025-68258-3) |
+| keyword_rejected | - | [Chemoenzymatic Synthesis of Well-Defined α(2,8)- and α(2,9)-](https://dx.doi.org/10.26434/chemrxiv-2026-qdf60?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Biosynthetic formation of the 6/7/5-odyverdiene diterpenes v](https://dx.doi.org/10.26434/chemrxiv-2026-001g7?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Chemoenzymatic Synthesis of Well-Defined α(2,8)- and α(2,9)-](https://dx.doi.org/10.26434/chemrxiv-2026-qdf60?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Biosynthetic formation of the 6/7/5-odyverdiene diterpenes v](https://dx.doi.org/10.26434/chemrxiv-2026-001g7?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electrodeposited MnCo and MnNiCo Spinels for Anion Exchange ](https://dx.doi.org/10.26434/chemrxiv-2026-x7fdh?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Bringing Ir(C^C)3 Photocatalysts into the visible: mer-Ir(pm](https://dx.doi.org/10.26434/chemrxiv-2026-gcs65?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Bringing Ir(C^C)3 Photocatalysts into the visible: mer-Ir(pm](https://dx.doi.org/10.26434/chemrxiv-2026-gcs65?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Les premiers âges de la Terre](https://www.sciencesetavenir.fr/fondamental/geologie/les-premiers-ages-de-la-terre_190063?xtor=RSS-10) |

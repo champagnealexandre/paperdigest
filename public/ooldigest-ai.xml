@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-10T06:25:24.875406+00:00</updated>
+  <updated>2026-01-10T07:16:17.059521+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] ChemRxiv ▶ Native Charge Detection Mass Spectrometry of Kilobase-Scale Messenger RNAs</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for lar</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Demonstrates native charge detection mass spectrometry for accurate intact mass/charge profiling of kilobase-scale mRNAs and their impurities, advancing analytical capabilities for large RNA molecules but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for large, heterogeneous biomolecules. Messenger RNAs (mRNAs) represent a particularly challenging analytical target, as transcripts often span thousands of nucleotides, exhibit substantial heterogeneity, and form higher-order oligomers that are difficult to assess using existing workflows. Here, we optimize and evaluate native CDMS for intact analysis of long mRNAs and conduct systematic comparison of positive and negative analysis polarities. Using a panel of commercially available mRNAs ranging from approximately 1,000 to 4,500 nucleotides, we demonstrate that native CDMS enables direct, and accurate mass measurement of intact mRNAs alongside various process-related impurities (truncations, dimers etc.). Collisional activation improves mass accuracy by reducing adduct heterogeneity while preserving the ability to resolve impurity populations. Across all constructs, CDMS provides quantitative access to charge distributions that scale with transcript length and respond predictably to activation, denaturation, and polarity, offering insight into ion charging behavior and charge accommodation for large RNAs. Negative polarity measurements generally access higher charge states than positive polarity, particularly for the largest transcripts, improving sensitivity and relative size discrimination, while intact mass accuracy remains comparable between polarities when appropriate ion transmission strategies are employed. Together, these results establish native CDMS as a versatile and information-rich platform for intact mRNA characterization, providing simultaneous access to mass, charge, and impurity information that complements existing analytical methods and supports emerging needs in RNA biotherapeutic development.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [25] Phys. Rev. Lett. ▶ Predicting Open Quantum Dynamics with Data-Informed Quantum-Classical Dynamics</title>
     <link href="http://link.aps.org/doi/10.1103/7lsx-ssjl"/>

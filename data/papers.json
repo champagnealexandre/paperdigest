@@ -1,5 +1,89 @@
 [
   {
+    "title": "Native Charge Detection Mass Spectrometry of Kilobase-Scale Messenger RNAs",
+    "summary": "Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for large, heterogeneous biomolecules. Messenger RNAs (mRNAs) represent a particularly challenging analytical target, as transcripts often span thousands of nucleotides, exhibit substantial heterogeneity, and form higher-order oligomers that are difficult to assess using existing workflows. Here, we optimize and evaluate native CDMS for intact analysis of long mRNAs and conduct systematic comparison of positive and negative analysis polarities. Using a panel of commercially available mRNAs ranging from approximately 1,000 to 4,500 nucleotides, we demonstrate that native CDMS enables direct, and accurate mass measurement of intact mRNAs alongside various process-related impurities (truncations, dimers etc.). Collisional activation improves mass accuracy by reducing adduct heterogeneity while preserving the ability to resolve impurity populations. Across all constructs, CDMS provides quantitative access to charge distributions that scale with transcript length and respond predictably to activation, denaturation, and polarity, offering insight into ion charging behavior and charge accommodation for large RNAs. Negative polarity measurements generally access higher charge states than positive polarity, particularly for the largest transcripts, improving sensitivity and relative size discrimination, while intact mass accuracy remains comparable between polarities when appropriate ion transmission strategies are employed. Together, these results establish native CDMS as a versatile and information-rich platform for intact mRNA characterization, providing simultaneous access to mass, charge, and impurity information that complements existing analytical methods and supports emerging needs in RNA biotherapeutic development.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 35,
+      "summary": "Demonstrates native charge detection mass spectrometry for accurate intact mass/charge profiling of kilobase-scale mRNAs and their impurities, advancing analytical capabilities for large RNA molecules but with only indirect relevance to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Electrodeposited MnCo and MnNiCo Spinels for Anion Exchange Membrane Direct Ammonia Fuel Cell Cathodes: An Alternative to Platinum",
+    "summary": "Direct ammonia fuel cells (DAFCs) hold great promise as clean energy conversion devices due to their carbon-free exhaust, the high energy density and liquid-phase storability of ammonia, and use of an existing production and distribution infrastructure. When using the state-of-the-art anion exchange membranes, ammonia crossover from the cathode to the anode, can cause rapid decay in DAFC performance as the current density increases. Mixed metal oxides containing manganese-nickel-cobalt have emerged as NH\u2083 tolerant cathode catalysts but their systematic testing under variable loading conditions in DAFC is rarely reported. Here, we examine low-temperature DAFCs with electrodeposited platinum (Pt), manganese-cobalt (MnCo), and manganese-nickel-cobalt (MnNiCo) cathodes on Ni foam. To isolate cathodic effects, all cells use identical Pt on Ni Foam anodes with alkaline ammonia feeds. Structural characterization confirms defect-rich spinel coatings. MnCo achieves oxygen reduction reaction (ORR) performance comparable to Pt, sustaining higher load voltage with lower interfacial resistance and larger capacitance, while MnNiCo shows restricted performance and rapid voltage loss, indicating sluggish charge transfer and fewer active sites. These results identify electrodeposited MnCo on Ni foam as a promising, scalable PGM-free cathode for DAFCs and highlight compositional and mesostructural tuning as key levers to improve catalytic activity and device performance.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-x7fdh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Biosynthetic formation of the 6/7/5-odyverdiene diterpenes via a 6/10-trans-eunicellanyl intermediate",
+    "summary": "Odyverdienes are a unique class of bacterial diterpenes possessing 6/8/4- or 6/7/5-tricyclic skeletons and the cyclization mechanism underlying their formation remains unknown. Based on their skeletons, we hypothesized that their tricyclic skel-etons pass through a neutral or cationic 6/10-eunicellane intermediate. Here, we investigated the mechanism of odyverdiene B2 synthase, SalkS from Streptomyces alkaliterrae, using site-directed mutagenesis, isotopic labeling experiments, and quantum chemical calculations. Two key shunt products, the 10-membered monocyclic 13-deoxolobophytumin A and a trans-eunicellane named alkacellene, isolated from SalkS variants and quantum chemical calculations supported the proposed mechanism to odyverdiene B2 via initial 1,10-cyclization and a cationic eunicellanyl intermediate. Deuterium labeling stud-ies also supported the occurrence of two sequential 1,2-hydride shifts that set distinctive stereocenters during eunicellanyl formation. Alkacellene was also shown to undergo acid-catalyzed cyclization to the 6/6/6/6-tetracyclic isohydropyrene, an isomer of the bacterial diterpene synthase product hydropyrene. This mechanistic study of SalkS highlights the frequent for-mation and use of eunicellanyl intermediates in diversifying bacterial diterpene biosynthesis and provides a model system to address fundamental questions involving 6/10-bicyclic ring systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-001g7?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemoenzymatic Synthesis of Well-Defined \u03b1(2,8)- and \u03b1(2,9)-linked Oligosialosides",
+    "summary": "A chemoenzymatic strategy is described that can readily provide well-defined \u03b1(2,8)- and \u03b1(2,9)-linked oligosialic acids of different length. It employs the recombinant bacterial sialic acid polymerases, NmC-PST and NmB-PST, in combination with cytidine 5\u2019-monophosphate N-acetylneuraminic acid (CMP-Neu5Ac) derivatives that have a benzoyl ester at C-9 or thioethyl ether at the C-5 acetamide of Neu5Ac. It results in products that lack glycosyl accepting properties and hence prevent polymerization. The benzoyl ester can be removed by mild basic hydrolysis and the thioethyl ether by reductive desulfurization to give natural Neu5Ac than can be extended in a next cycle of enzymatic sialylation and unmasking. The resulting oligosialosides are attractive materials for the development of bacterial vaccine and as probes to investigate the roles of oligosialosides in human physiology.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-qdf60?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Biosynthetic formation of the 6/7/5-odyverdiene diterpenes via a 6/10-trans-eunicellanyl intermediate",
+    "summary": "Odyverdienes are a unique class of bacterial diterpenes possessing 6/8/4- or 6/7/5-tricyclic skeletons and the cyclization mechanism underlying their formation remains unknown. Based on their skeletons, we hypothesized that their tricyclic skel-etons pass through a neutral or cationic 6/10-eunicellane intermediate. Here, we investigated the mechanism of odyverdiene B2 synthase, SalkS from Streptomyces alkaliterrae, using site-directed mutagenesis, isotopic labeling experiments, and quantum chemical calculations. Two key shunt products, the 10-membered monocyclic 13-deoxolobophytumin A and a trans-eunicellane named alkacellene, isolated from SalkS variants and quantum chemical calculations supported the proposed mechanism to odyverdiene B2 via initial 1,10-cyclization and a cationic eunicellanyl intermediate. Deuterium labeling stud-ies also supported the occurrence of two sequential 1,2-hydride shifts that set distinctive stereocenters during eunicellanyl formation. Alkacellene was also shown to undergo acid-catalyzed cyclization to the 6/6/6/6-tetracyclic isohydropyrene, an isomer of the bacterial diterpene synthase product hydropyrene. This mechanistic study of SalkS highlights the frequent for-mation and use of eunicellanyl intermediates in diversifying bacterial diterpene biosynthesis and provides a model system to address fundamental questions involving 6/10-bicyclic ring systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-001g7?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemoenzymatic Synthesis of Well-Defined \u03b1(2,8)- and \u03b1(2,9)-linked Oligosialosides",
+    "summary": "A chemoenzymatic strategy is described that can readily provide well-defined \u03b1(2,8)- and \u03b1(2,9)-linked oligosialic acids of different length. It employs the recombinant bacterial sialic acid polymerases, NmC-PST and NmB-PST, in combination with cytidine 5\u2019-monophosphate N-acetylneuraminic acid (CMP-Neu5Ac) derivatives that have a benzoyl ester at C-9 or thioethyl ether at the C-5 acetamide of Neu5Ac. It results in products that lack glycosyl accepting properties and hence prevent polymerization. The benzoyl ester can be removed by mild basic hydrolysis and the thioethyl ether by reductive desulfurization to give natural Neu5Ac than can be extended in a next cycle of enzymatic sialylation and unmasking. The resulting oligosialosides are attractive materials for the development of bacterial vaccine and as probes to investigate the roles of oligosialosides in human physiology.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-qdf60?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Wearable textile-based phototherapy platform with customized NIR OLEDs toward non-invasive hair loss treatment",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68258-3",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Bringing Ir(C^C)3 Photocatalysts into the visible: mer-Ir(pmp)3 as a strongly photoreducing and stable photocatalyst for metallapho-toredox catalysis",
     "summary": "Here we report a new homoleptic Ir(NHC) photocatalyst, mer-Ir(pmp)3 which is the first Ir(C^C)3 photocatalyst to operate under entirely visible light excitation. In line with previously reported Ir(C^C)3 photocatalysts, mer-Ir(pmp)3 is a potent photoreductant, reducing substrates up to Ered = -2.7 V vs. SCE and energy transfer catalyst, sensitizing substrates up to ET = 3.00 eV. Furthermore, mer-Ir(pmp)3 can engage in dual nickel photoredox catalysis on account of its red-shifted absorption spectrum and anodically shifted redox potentials. Compared to the litera-ture-known photocatalysts, [Ir(dF(CF3)ppy)2(dtbbpy)]PF6, 4CzIPN and [Ru(bpy)3](PF6)2, mer-Ir(pmp)3 achieves competitive or improved yields for the amination of aryl bromides and exhibits good photostability across a range of different conditions.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gcs65?rft_dat=source%3Ddrss",
