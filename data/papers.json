@@ -1,5 +1,82 @@
 [
   {
+    "title": "Room-temperature high-efficiency spin injection via van der Waals tunnel contact",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67989-7\">doi:10.1038/s41467-025-67989-7</a></p>Researchers developed a simple, industry-compatible method using an indium buffer layer between cobalt and 2D materials to form vdWs tunnel contacts. This achieved high spin injection efficiency in both graphene and MoS2, enabling future large-scale spintronic devices.",
+    "url": "https://www.nature.com/articles/s41467-025-67989-7",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Elasto-magnetic instabilities for amplified actuation and mechanical memory",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68225-y\">doi:10.1038/s41467-025-68225-y</a></p>Here the authors utilize magnetic attraction and elastic tension to create instabilities that amplify vibrations and induce inertia-driven hysteresis. The design enables efficient mechanical memory with both volatile and non-volatile modes.",
+    "url": "https://www.nature.com/articles/s41467-025-68225-y",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A self-assembled molecule directs ordered \u03b1-FAPbI<sub>3</sub> for n-i-p perovskite solar cells",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68214-1\">doi:10.1038/s41467-025-68214-1</a></p>Formamidinium lead iodide perovskite holds promise for high-efficiency solar cells, but the kinetic instability of its \u03b1-phase crystallization remains an issue. He et al. report a strategy for directing the crystallization process in a n-i-p architecture and champion power conversion efficiency of 26.18%.",
+    "url": "https://www.nature.com/articles/s41467-025-68214-1",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Regular-wrinkling tunable MXene lattice for electromagnetic interference shielding",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68035-2\">doi:10.1038/s41467-025-68035-2</a></p>This study reports self-wrinkling MXene films with lattice structures achieving exceptional electromagnetic interference shielding (81.5\u2009dB at 17 \u03bcm), offering ultra-thin protection for sensitive electronics.",
+    "url": "https://www.nature.com/articles/s41467-025-68035-2",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Selfish chromosomes exploit a germline checkpoint to eliminate competing gametes",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68254-7\">doi:10.1038/s41467-025-68254-7</a></p>A hidden quality-control system to filter out defective sperm during development is exploited by selfish genes to eliminate competing chromosomes.",
+    "url": "https://www.nature.com/articles/s41467-025-68254-7",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Decoupling slab gliding and lattice contraction in Na layered oxides to enable high-voltage Na-ion batteries",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68238-7\">doi:10.1038/s41467-025-68238-7</a></p>Phase transitions in Na layered transition metal oxide materials involving slab gliding and considerable lattice parameter changes limit the battery cycling life, especially at high voltages. Here, authors pre-engineer 15.8% O-type stacking faults to a P-type Na0.7Mn0.8Ni0.2O2, improving stability and enabling an electrode specific energy of 635 Wh kg-1 with 600-cycle life.",
+    "url": "https://www.nature.com/articles/s41467-025-68238-7",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "En Chine, des villages peinent \u00e0 se chauffer, faute d'aide",
+    "summary": "En 2017, la Chine d\u00e9cidait de limiter le chauffage au charbon pour se d\u00e9barrasser de son smog hivernal. Mais aujourd'hui, faute d'aides suffisantes, des habitants du nord-est peinent \u00e0 joindre les deux bouts, accabl\u00e9s de factures exorbitantes.\nDans le district de Xushui, \u00e0 une centaine de kilom\u00e8tres de P\u00e9kin, des villageois disent m\u00eame \u00e0 l'AFP \u00e9viter d'allumer le chauffage, face au gouffre financier qu'il repr\u00e9sente.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/en-chine-des-villages-peinent-a-se-chauffer-faute-d-aide_190353?xtor=RSS-15",
+    "published_date": "2026-01-10T04:54:02Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Pruning random resistive memory for optimizing analog AI",
     "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67960-6\">doi:10.1038/s41467-025-67960-6</a></p>AI models consume growing amounts of energy. Here, the authors introduce a brain-inspired way to prune connections in randomly weighted resistive-memory chips, boosting accuracy while avoiding costly analog tuning to improve general efficiency and reduce power use.",
     "url": "https://www.nature.com/articles/s41467-025-67960-6",

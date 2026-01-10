@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [En Chine, des villages peinent à se chauffer, faute d'aide](https://www.sciencesetavenir.fr/nature-environnement/en-chine-des-villages-peinent-a-se-chauffer-faute-d-aide_190353?xtor=RSS-15) |
+| keyword_rejected | - | [Decoupling slab gliding and lattice contraction in Na layere](https://www.nature.com/articles/s41467-025-68238-7) |
+| keyword_rejected | - | [Selfish chromosomes exploit a germline checkpoint to elimina](https://www.nature.com/articles/s41467-025-68254-7) |
+| keyword_rejected | - | [Regular-wrinkling tunable MXene lattice for electromagnetic ](https://www.nature.com/articles/s41467-025-68035-2) |
+| keyword_rejected | - | [A self-assembled molecule directs ordered α-FAPbI<sub>3</sub](https://www.nature.com/articles/s41467-025-68214-1) |
+| keyword_rejected | - | [Elasto-magnetic instabilities for amplified actuation and me](https://www.nature.com/articles/s41467-025-68225-y) |
+| keyword_rejected | - | [Room-temperature high-efficiency spin injection via van der ](https://www.nature.com/articles/s41467-025-67989-7) |
 | keyword_rejected | - | [Les sculptures en terre cuite, uniques témoins d'une culture](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-sculptures-en-terre-cuite-uniques-temoins-d-une-culture-evanouie_190108?xtor=RSS-4) |
 | keyword_rejected | - | [Bio-inspired unified model for representing geometric relati](https://www.nature.com/articles/s41598-025-30116-z) |
 | keyword_rejected | - | [Status and global population trend of the Magellanic penguin](https://www.nature.com/articles/s41598-025-33756-3) |
