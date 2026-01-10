@@ -1,3 +1,10 @@
 # Paths
 base_url: https://alexandrechampagne.io/ooldigest
 history_file: data/papers.json
+
+# Retention settings
+retention:
+  feed_hours: 24           # How long papers stay in output feed (hours)
+  fetch_hours: 24          # How far back to fetch new papers (hours)
+  stale_feed_days: 30      # Days before a feed is marked as stalled
+  history_max_entries: 100000  # Max papers to keep in history file

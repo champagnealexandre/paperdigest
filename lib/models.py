@@ -5,6 +5,14 @@ from typing import List, Dict, Any, Optional
 from pydantic import BaseModel, Field
 
 
+class RetentionConfig(BaseModel):
+    """Retention settings for various pipeline stages."""
+    feed_hours: int = 24           # How long papers stay in output feed
+    fetch_hours: int = 24          # How far back to fetch new papers
+    stale_feed_days: int = 30      # Days before a feed is marked as stalled
+    history_max_entries: int = 100000  # Max papers to keep in history file
+
+
 class Config(BaseModel):
     """Application configuration loaded from config.yaml."""
     model_prompt: str
@@ -18,6 +26,7 @@ class Config(BaseModel):
     keywords_ool: List[str]
     academic_domains: List[str]
     max_workers: int = 10
+    retention: RetentionConfig = Field(default_factory=RetentionConfig)
 
 
 class Paper(BaseModel):

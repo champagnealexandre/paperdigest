@@ -85,7 +85,7 @@ def find_matching_keywords(entry: feedparser.FeedParserDict, keywords: List[str]
     return matched
 
 
-def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime, category: str) -> dict:
+def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime, category: str, stale_days: int = 30) -> dict:
     """Fetch a single RSS feed. Returns status dict with papers and metadata."""
     url, title = feed_cfg['url'], feed_cfg['title']
     result = {
@@ -166,10 +166,10 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
         
         result['latest_date'] = latest
         
-        # Check if stalled (no posts in 30+ days)
+        # Check if stalled (no posts in stale_days+ days)
         if latest:
             age = datetime.datetime.now(datetime.timezone.utc) - latest
-            if age.days > 30:
+            if age.days > stale_days:
                 result['status'] = 'stalled'
                 
     except Exception as e:
@@ -179,7 +179,7 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
     return result
 
 
-def write_feed_status(feed_results: List[dict], categories: dict):
+def write_feed_status(feed_results: List[dict], categories: dict, stale_days: int = 30):
     """Write feed health report to data/last_feeds-status.md."""
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     
@@ -194,7 +194,7 @@ def write_feed_status(feed_results: List[dict], categories: dict):
     lines = [f"# Feed Status Report", f"Generated: {now}\n"]
     
     # Legend
-    lines.append("**Legend:** ✅ Healthy | ⚠️ Stalled (30+ days) | ❌ Error | ⬜ Empty (no entries)\n")
+    lines.append(f"**Legend:** ✅ Healthy | ⚠️ Stalled ({stale_days}+ days) | ❌ Error | ⬜ Empty (no entries)\n")
     
     # Summary
     errors = [r for r in feed_results if r['status'] == 'error']
@@ -205,7 +205,7 @@ def write_feed_status(feed_results: List[dict], categories: dict):
     lines.append(f"- **Total feeds:** {len(feed_results)}")
     lines.append(f"- **Healthy:** {len(feed_results) - len(errors) - len(stalled) - len(empty)}")
     lines.append(f"- **Errors:** {len(errors)}")
-    lines.append(f"- **Stalled (30+ days):** {len(stalled)}")
+    lines.append(f"- **Stalled ({stale_days}+ days):** {len(stalled)}")
     lines.append(f"- **Empty:** {len(empty)}\n")
     
     # Problem feeds first
@@ -217,7 +217,7 @@ def write_feed_status(feed_results: List[dict], categories: dict):
         lines.append("")
     
     if stalled:
-        lines.append("## ⚠️ Stalled Feeds (no posts in 30+ days)\n")
+        lines.append(f"## ⚠️ Stalled Feeds (no posts in {stale_days}+ days)\n")
         for r in stalled:
             age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
             lines.append(f"- **{r['title']}**: last post {age} days ago")
@@ -293,7 +293,7 @@ def main():
     # Load history
     history = utils.load_history(config.history_file)
     seen = {p.get('url') for p in history}
-    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=config.retention.fetch_hours)
     
     # STAGE 1: Fetch feeds concurrently
     feed_categories = load_feeds()
@@ -302,12 +302,12 @@ def main():
     
     feed_results: List[dict] = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
-        futures = [ex.submit(fetch_feed, f, seen, keywords, cutoff, cat) for f, cat in all_feeds]
+        futures = [ex.submit(fetch_feed, f, seen, keywords, cutoff, cat, config.retention.stale_feed_days) for f, cat in all_feeds]
         for fut in concurrent.futures.as_completed(futures):
             feed_results.append(fut.result())
     
     # Write feed status report
-    write_feed_status(feed_results, feed_categories)
+    write_feed_status(feed_results, feed_categories, config.retention.stale_feed_days)
     
     # Aggregate results
     candidates: List[Paper] = []
@@ -331,7 +331,7 @@ def main():
     if not candidates:
         logging.info("No new keyword matches. Saving rejected papers and regenerating feed.")
         new_history = rejected_dicts + history
-        utils.save_history(new_history, config.history_file)
+        utils.save_history(new_history, config.history_file, config.retention.history_max_entries)
         ai_scored = [p for p in history if p.get('stage') == 'ai_scored']
         feed.generate_feed(ai_scored, config.model_dump(), "ooldigest-ai.xml")
         return
@@ -365,7 +365,7 @@ def main():
     # Update history: AI-scored first, then rejected, then old history
     processed_dicts = [p.model_dump(mode='json') for p in processed]
     new_history = processed_dicts + rejected_dicts + history
-    utils.save_history(new_history, config.history_file)
+    utils.save_history(new_history, config.history_file, config.retention.history_max_entries)
     
     # STAGE 4: Generate feeds (only ai_scored papers)
     ai_scored = [p for p in new_history if p.get('stage') == 'ai_scored']

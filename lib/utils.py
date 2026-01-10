@@ -20,10 +20,10 @@ def load_history(path: str) -> List[Dict[str, Any]]:
     return []
 
 
-def save_history(data: List[Dict[str, Any]], path: str) -> None:
-    """Save paper history, keeping only last 100,000 entries."""
+def save_history(data: List[Dict[str, Any]], path: str, max_entries: int = 100000) -> None:
+    """Save paper history, keeping only last max_entries entries."""
     with open(path, 'w') as f:
-        json.dump(data[:100000], f, indent=2)
+        json.dump(data[:max_entries], f, indent=2)
 
 
 def strip_invalid_xml_chars(text: str) -> str:

@@ -106,7 +106,23 @@ def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename
     """Generate an Atom feed XML file."""
     os.makedirs("public", exist_ok=True)
     
-    entries = "\n".join(e for e in (_build_entry(p) for p in papers) if e)
+    # Filter papers by retention time
+    retention_hours = config.get('retention', {}).get('feed_hours', 24)
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=retention_hours)
+    
+    filtered_papers = []
+    for p in papers:
+        pub_date = p.get('published_date')
+        if pub_date:
+            if isinstance(pub_date, str):
+                try:
+                    pub_date = datetime.datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+                except ValueError:
+                    pub_date = None
+            if pub_date and pub_date >= cutoff:
+                filtered_papers.append(p)
+    
+    entries = "\n".join(e for e in (_build_entry(p) for p in filtered_papers) if e)
     
     feed_xml = FEED_TEMPLATE.format(
         feed_url=f"{config['base_url']}/{filename}",
