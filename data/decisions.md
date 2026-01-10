@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Improved protein binder design using β-pairing targeted RFdi](https://www.nature.com/articles/s41467-025-67866-3) |
+| keyword_rejected | - | [Ultrahigh energy storage density and efficiency in AgNbO<sub](https://www.nature.com/articles/s41467-026-68297-4) |
+| keyword_rejected | - | [Universal modulus-free transfer of scalable laser-induced gr](https://www.nature.com/articles/s41467-025-68131-3) |
 | keyword_rejected | - | [Rad51 determines pathway usage in post-replication repair](https://www.nature.com/articles/s41467-025-68109-1) |
 | keyword_rejected | - | [EPOP restricts PRC2.1 targeting to chromatin by directly mod](https://www.nature.com/articles/s41467-025-68280-5) |
 | keyword_rejected | - | [Arachidonic acid induces pyroptosis via a non-autophagic fun](https://www.nature.com/articles/s41467-025-68267-2) |
