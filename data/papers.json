@@ -1,5 +1,100 @@
 [
   {
+    "title": "Predicting Open Quantum Dynamics with Data-Informed Quantum-Classical Dynamics",
+    "summary": "Author(s): Pinchen Xie, Ke Wang, Anupam Mitra, Yuanran Zhu, Xiantao Li, Wibe Albert de Jong, and Chao Yang<br /><p>We introduce a data-informed quantum-classical dynamics (DIQCD) approach for predicting the evolution of an open quantum system. The equation of motion in DIQCD is a Lindblad equation with a flexible, time-dependent Hamiltonian that can be optimized to fit sparse and noisy data from local observatio\u2026</p><br />[Phys. Rev. Lett. 136, 010402] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/7lsx-ssjl",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/7lsx-ssjl"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Introduces a data-informed quantum-classical dynamics method that fits sparse/noisy measurements to a time-dependent Lindblad model to predict open quantum system evolution, with only indirect potential relevance to modeling prebiotic or biomolecular quantum processes."
+    }
+  },
+  {
+    "title": "A cross-sectional study of screened depression prevalence among Gaza war survivors who fled versus those who remained",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-31757-w\">doi:10.1038/s41598-025-31757-w</a></p>A cross-sectional study of screened depression prevalence among Gaza war survivors who fled versus those who remained",
+    "url": "https://www.nature.com/articles/s41598-025-31757-w",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Real-time wearable biomechanics framework for sports injury prevention and rehabilitation optimization",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34551-w\">doi:10.1038/s41598-025-34551-w</a></p>Real-time wearable biomechanics framework for sports injury prevention and rehabilitation optimization",
+    "url": "https://www.nature.com/articles/s41598-025-34551-w",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-31453-9\">doi:10.1038/s41598-025-31453-9</a></p>Leveraging automated machine learning to benchmark, deconstruct, and compare frailty indices for predicting adverse spinal surgery outcomes",
+    "url": "https://www.nature.com/articles/s41598-025-31453-9",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fermion-Selective Tests of New Physics with the Bound-Electron $g$ Factor",
+    "summary": "Author(s): M. Moretti, C.\u2009H. Keitel, and Z. Harman<br /><p>The use of high-precision measurements of the $g$ factor of single-electron ions is considered as a detailed probe for physics beyond the standard model. The contribution of the exchange of a hypothetical force-carrying scalar boson to the $g$ factor is calculated for the ground state of H-like ions\u2026</p><br />[Phys. Rev. Lett. 136, 011803] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/zyb6-lvy8",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ising Superconductivity in Noncentrosymmetric Bulk ${\\mathrm{NbSe}}_{2}$",
+    "summary": "Author(s): Dominik Volavka, Jozef Ka\u010dmar\u010d\u00edk, Timon Mo\u0161ko, Zuzana Pribulov\u00e1, Branislav Stropkai, Jozef Bednar\u010d\u00edk, Yingzheng Gao, Owen Moulding, Marie-Aude M\u00e9asson, Christophe Marcenat, Thierry Klein, Shunsuke Sasaki, Laurent Cario, Martin Gmitra, Peter Samuely, and Tomas Samuely<br /><p>Ising superconductivity allows in-plane upper critical magnetic fields to vastly surpass Pauli limit by locking the antiparallel electron spins of Cooper pairs in the out-of-plane direction. It was first explicitly demonstrated in fully two-dimensional monolayers of transition metal dichalcogenides \u2026</p><br />[Phys. Rev. Lett. 136, 016002] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/qxb4-sf28",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Smaller Grains Are Not Stronger: Microcrystalline Metals at Ultrahigh Strain Rates",
+    "summary": "Author(s): Laura Wu, Yuan Yao, Luyan Li, Qi Tang, and Mostafa Hassani<br /><p>A textbook rule for the relationship between the structure and strength of a material breaks down for high-speed deformations, like those caused by strong impacts.</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRL/key_images/10.1103/yp9h-sr2m.png\" width=\"200\" /><br />[Phys. Rev. Lett. 136, 016104] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/yp9h-sr2m",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Tunneling of Elastic Waves in a Tapered Waveguide",
+    "summary": "Author(s): Alexandre Yoshitaka Charau, J\u00e9r\u00f4me Laurent, and Tony Valier-Brasier<br /><p>Understanding how evanescent modes mediate energy transfer in tapered elastic waveguides is of paramount interest, as it unlocks new strategies for wave control and manipulation. Evanescent modes play a crucial role in energy localization and in the emergence of thickness resonances. We report the f\u2026</p><br />[Phys. Rev. Lett. 136, 017202] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/18p2-8qtp",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence",
     "summary": "<p>Dr. Jill Tarter, co-founder of the SETI Institute and one of the most influential figures in the scientific search for life beyond Earth, has been named the recipient of the 2026 Green Sands Prize. The Green Sands Inspiration Prize is awarded to trailblazers who have the courage to go first, take on risks and personal [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html\">Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html",

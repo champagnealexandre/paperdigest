@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-10T01:19:30.957639+00:00</updated>
+  <updated>2026-01-10T03:21:42.425166+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [25] Phys. Rev. Lett. ▶ Predicting Open Quantum Dynamics with Data-Informed Quantum-Classical Dynamics</title>
+    <link href="http://link.aps.org/doi/10.1103/7lsx-ssjl"/>
+    <id>http://link.aps.org/doi/10.1103/7lsx-ssjl</id>
+    <updated>2026-01-09T10:00:00Z</updated>
+    <summary>Author(s): Pinchen Xie, Ke Wang, Anupam Mitra, Yuanran Zhu, Xiantao Li, Wibe Albert de Jong, and Chao Yang We introduce a data-informed quantum-classical dynamics (DIQCD) approach for predicting the e</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces a data-informed quantum-classical dynamics method that fits sparse/noisy measurements to a time-dependent Lindblad model to predict open quantum system evolution, with only indirect potential relevance to modeling prebiotic or biomolecular quantum processes.</p>
+<p><strong>Abstract:</strong> Author(s): Pinchen Xie, Ke Wang, Anupam Mitra, Yuanran Zhu, Xiantao Li, Wibe Albert de Jong, and Chao Yang We introduce a data-informed quantum-classical dynamics (DIQCD) approach for predicting the evolution of an open quantum system. The equation of motion in DIQCD is a Lindblad equation with a flexible, time-dependent Hamiltonian that can be optimized to fit sparse and noisy data from local observatio… [Phys. Rev. Lett. 136, 010402] Published Fri Jan 09, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/7lsx-ssjl">http://link.aps.org/doi/10.1103/7lsx-ssjl</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/7lsx-ssjl">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence</title>
     <link href="https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html"/>

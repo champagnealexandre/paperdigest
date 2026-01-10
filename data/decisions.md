@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Predicting Open Quantum Dynamics with Data-Informed Quantum-](http://link.aps.org/doi/10.1103/7lsx-ssjl) |
+| keyword_rejected | - | [Tunneling of Elastic Waves in a Tapered Waveguide](http://link.aps.org/doi/10.1103/18p2-8qtp) |
+| keyword_rejected | - | [Smaller Grains Are Not Stronger: Microcrystalline Metals at ](http://link.aps.org/doi/10.1103/yp9h-sr2m) |
+| keyword_rejected | - | [Ising Superconductivity in Noncentrosymmetric Bulk ${\mathrm](http://link.aps.org/doi/10.1103/qxb4-sf28) |
+| keyword_rejected | - | [Fermion-Selective Tests of New Physics with the Bound-Electr](http://link.aps.org/doi/10.1103/zyb6-lvy8) |
+| keyword_rejected | - | [Leveraging automated machine learning to benchmark, deconstr](https://www.nature.com/articles/s41598-025-31453-9) |
+| keyword_rejected | - | [Real-time wearable biomechanics framework for sports injury ](https://www.nature.com/articles/s41598-025-34551-w) |
+| keyword_rejected | - | [A cross-sectional study of screened depression prevalence am](https://www.nature.com/articles/s41598-025-31757-w) |
 | ai_scored | 30 | [Dale Andersen’s Astrobiology Antarctic Status Report: 9 Janu](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html) |
 | ai_scored | 30 | [Jill Tarter Awarded the Prestigious Green Sands Prize for He](https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html) |
 | keyword_rejected | - | [The A2357T substitution in the kinase domain of yeast Tor1 c](https://www.nature.com/articles/s41598-025-34647-3) |
