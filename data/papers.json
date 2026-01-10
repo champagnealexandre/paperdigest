@@ -1,5 +1,272 @@
 [
   {
+    "title": "Hydrogen-Bonding Primary and Secondary Coordination Sphere Effects on Water Oxidation Catalyzed by Transition Metal Complexes",
+    "summary": "Rising energy needs, the threat of climate change, and the diminishing reserves of non-renewable energy underscore the urgency for advancing alternative, sustainable, clean energy sources. Hydrogen is currently appraised as a logical, sustainable power source, with electrochemical water splitting emerging as a critical method for its production. Water oxidation, a key step in artificial photosynthesis, remains a significant challenge in the development of sustainable energy systems. Transition metal complexes have emerged as promising catalysts for \nthis reaction due to their tunable structures and remarkable catalytic properties. Among the various factors influencing their performance, hydrogen bonding has gained increasing attention as a critical element in shaping catalytic efficiency and reaction pathways. The review explores the multifaceted role of hydrogen bonding in transition metal-based water oxidation catalysts, highlighting its impact on structural stability, proton transfer dynamics, and electronic modulation of active sites. We discuss recent advancements in understanding how hydrogen-bonding \ninteractions influence catalytic activity and selectivity, drawing on both experimental findings and \ncomputational insights. By shedding light on the pivotal role of hydrogen bonding, this review aims to inspire innovative approaches for designing next-generation catalysts for sustainable water-splitting technologies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Review of how hydrogen-bonding networks in transition-metal water-oxidation catalysts tune proton transfer, stability, and electronic structure, offering broadly relevant insights into aqueous redox catalysis but only indirect relevance to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Mechanistic Study of Glycerol Electro-oxidation on Ni(OH)\u2082/NiOOH electrodes",
+    "summary": "Glycerol oxidation reaction (GOR) is a promising valorisation route to upgrade the biodiesel by-product while co-producing green hydrogen at the cathode in electrolysers. However, the working mechanism of transition-metal-based catalysts such as Ni(OH)\u2082 remains poorly understood. Here, we employed a multi-operando spectroelectrochemical approach combining UV\u2013Vis optical spectroscopy, soft X-ray absorption spectroscopy, and time-resolved stepped-potential spectroscopy to investigate the active oxidising species and charge-transfer dynamics under OER and GOR conditions. We identified the NiOOH (Ni3+) as the active species for GOR, whereas the formation of higher valent NiOO (Ni4+) species is completely suppressed in the presence of glycerol. The  accumulation of surface adsorbed glycerol molecules is rate-determining, (\u03c4 ~ 27.9 s at 1.47 VRHE), occuring slower than the intrinsic catalytic step of glycerol reaction ( \u03c4 ~ 3.2 s at 1.47 VRHE), which involves oxidation and bond cleavage. In contrast, OER has significantly slower kinetics (\u03c4 ~167 s at 1.47 VRHE), resulting in the dominance of GOR and suppresion of oxygen evolution in the presence of glycerol. The potential-independent production of formic acid during GOR follows an apparent first-order dependence on NiOOH concentration, suggesting continuous C-C bond cleavage activated by reactive *O species. These findings link oxidising species with charge-transfer dynamics, providing insight for the rational design of Ni-based catalysts for glycerol and other biomass-derived molecule oxidations.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Operando spectroelectrochemistry identifies NiOOH (Ni3+) as the active oxidant for glycerol electro-oxidation and shows glycerol adsorption is rate-limiting while suppressing higher-valent Ni species and competing OER, offering mechanistic insight into Ni-based redox catalysis that is only tangentially relevant to origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Centimeter-Scale Giant-Grain Growth: Radial Expansion of MAPbI3-xClx Precursor Single Crystals from a Single Nucleus on Glass",
+    "summary": "Here I report a novel crystal growth phenomenon termed \u201cradial Giant-Grain Growth\u201d (r-GGG), which transforms spin-coated polycrystalline MAPbI3\u2212xClx thin films into macroscopic single-nucleus domains spanning millimeters to centimeters. Although governed solely by substrate temperature and ambient humidity, r-GGG is characterized by the extreme suppression of secondary nucleation, allowing a single nucleus\u2014either a hydrate or a perovskite phase\u2014to dominate growth over extensive areas. Specifically, a Cl-rich seed layer is prepared by spin-coating a precursor solution (MAI:PbCl2 = 3:1 molar ratio in DMF), followed by brief annealing at 60\u00b0C under an inert atmosphere. Subsequent exposure to air (65\u201370% relative humidity) initiates r-GGG. At room temperature, densely packed, needle-like hydrate single crystals propagate radially from a single nucleus at an isotropic growth rate, resulting in films composed of needle-crystal aggregates with millimeter- to centimeter-scale domains\u2014a morphology unprecedented in conventional perovskite fabrication. Conversely, substrate temperatures exceeding 50\u00b0C induce the direct lateral growth of large-grain MAPbI3\u2212xClx. Notably, thermal annealing of the r-GGG-derived hydrate films at 90\u00b0C yields highly textured MAPbI3\u2212xClx films with pronounced (110) preferred orientation (strong (110) texture), as evidenced by the dominance of the (110)/(220) reflections and a narrowed rocking-curve width relative to conventional thin films. These (110)-textured films exhibit exceptional stability, showing negligible degradation even after one week of ambient exposure. These findings challenge the long-standing dogma that moisture must be strictly excluded during perovskite fabrication, demonstrating instead that controlled humidity can serve as a potent driving force for forming macroscopically coherent crystal domains. Elucidating the physical mechanisms underlying r-GGG could enable the fabrication of giant-grain thin films with long-range, periodically spaced nucleation sites across diverse material systems, offering a new conceptual framework for crystal growth science.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-0dxhw-v3?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cross-metathesis of methyl oleate and cis-2-butene-1,4-diol: a direct route to bifunctional polymer building blocks",
+    "summary": "The cross metathesis (CM) of methyl oleate (1) and cis-2-butene-1,4-diol (2) was investigated as a direct route to bifunctional polymer building blocks. In most previous cross-metathesis approaches, acrylonitrile has been employed as the CM partner olefin. While internal olefins such as cis-2-butene-1,4-diol have been explored in metathesis reactions, their use without protecting groups has remained challenging. In this study, the unprotected diol enables direct access to highly functionalized intermediates, avoids dimer formation associated with terminal olefins, and allows subsequent isomerization in a single step. Efficient CM was acheived at low temperature (0 \u00b0C) using a Stewart-Grubbs catalyst, affording CM product 4 in excellent yield. Compound 4 was readily converted to alcohol 10, aldehyde 13, and olefin 9 in a single step and in >90% yields. These intermediates are useful precursors for specialty chemicals, including 11-aminoundecanoate, the precursor of PA11. A tandem CM/isomerization process from 4 to 13 was also demonstrated for the first time.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2022-5c8x9-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ConforFormer: representation for molecules through understanding of conformers",
+    "summary": "Recent years have seen a growing interest in machine learning approaches for chemical tasks. The best existing methods focus on building base models that combine molecular graphs (\u201c2D structures\u201d) with atomic coordinates in 3D to predict molecular properties, typically through pre-training followed by fine-tuning on benchmark datasets. However, current approaches require updating the weights of the entire model during the fine-tuning procedure for each prediction task. While this enables state-of-the-art performance, it limits practical deployment, as real-world datasets are often too small to support the stable retraining of large models. Importantly, the 3D geometry of a molecule holds crucial information for predicting its properties, but a single molecular graph usually corresponds to several 3D geometries, called conformers, introducing ambiguity into the inference process. Typical solutions rely on molecular graphs, but this approach is not easily generalizable beyond organic molecules. Here, we present ConforFormer, a method that explicitly accounts for the diversity of 3D conformations of a molecule to derive a task-agnostic and conformation-agnostic vector representation. This model serves as a foundational framework, producing embeddings that can be generated once and directly applied to downstream tasks, including property prediction and structural similarity, without extensive fine-tuning.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-x68vd-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Enhancing the Simulation Accuracy of Small Organic Molecules with an Optimized Lennard-Jones Coarse-Grained Model",
+    "summary": "Developing accurate coarse-grained (CG) molecular models is crucial for building databases of complex chemical molecules and conducting related data-driven research. The accuracy of CG models is typically affected by CG bead resolution and non-bonded interaction parameters. In this study, an optimized Lennard-Jones (LJ) CG model (OLJCG) for small organic molecules was developed with parameters derived from the general Amber force field. The performance of the OLJCG model was evaluated by simulating the density of organic molecules, vaporization enthalpy, non-aqueous solvation free energy, and hydration free energy. CG molecular dynamics (CGMD) simulations demonstrate that introducing optimized LJ parameters into the OLJCG model effectively enhances the description of non-bonded interactions between CG particles. The optimization strategy proposed in this paper provides an accurate and systematic method for future development of CG small molecule databases.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-cb49x-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Armstrong\u2019s Exclusion-Zone SASA Formula and Model",
+    "summary": "Solvent-accessible surface area (SASA) is a central quantity in computational biochemistry, structural biology, and molecular modeling, with applications ranging from protein folding to ligand binding. Widely used approaches such as Shrake-Rupley, Lee-Richards, and LCPO estimate SASA through geometric sampling or surface tessellation, introducing discretization error and significant computational overhead. Here, I introduce Armstrong\u2019s Exclusion-Zone SASA model, a closed-form analytical framework that approximates solvent-accessible surface exclusion without explicit surface tessellation, using a physically motivated steric metric derived from atomic radii, bond lengths, and solvent probe size.\nThe model enables direct and effectively instantaneous calculation of sterically adjusted SASA values while preserving the expected physical scaling behavior across molecular sizes. Benchmarking across systems ranging from small molecules to large proteins demonstrates systematic recovery of solvent-accessible microenvironments in compact systems and smooth convergence toward Shrake-Rupley and Lee-Richards values at macromolecular scales, with quantitative agreement emerging within the expected resolution of classical tessellation-based methods. Because the exclusion metric depends explicitly on geometric parameters, the formulation naturally adapts to bond-length variations arising from temperature, pressure, or conformational change, making it well suited for dynamic simulations and high-throughput workflows. By uniting analytical efficiency, physical interpretability, and asymptotic consistency with classical methods, the Exclusion-Zone SASA model provides a computationally efficient, physically interpretable approximation for solvent accessibility estimation in molecular modeling and biomolecular simulation.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-jtx55-v7?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Zeolite X Loaded with Ag+ as a Slow Ethylene-Releasing Nanoporous Material to Suppress Potato Sprouting",
+    "summary": "Nanostructured silver-exchanged zeolites (Ag<sup>+</sup>-exchanged zeolites) have been widely studied for ethylene (C<sub>2</sub>H<sub>4</sub>) removal from space and separation from a mixture. However, the controlled release of C<sub>2</sub>H<sub>4</sub> from Ag<sup>+</sup>-exchanged zeolites has received little attention. In this study, we propose a novel application of Ag<sup>+</sup>-zeolite X as a C<sub>2</sub>H<sub>4</sub>-releasing nanoporous material to suppress potato sprouting. The adsorption and release behavior of C<sub>2</sub>H<sub>4</sub> over a series of Ag<sup>+</sup>-exchanged zeolites with different zeolite framework topology and Ag loadings were systematically investigated. The characteristics of zeolites significantly influenced nature of introduced Ag species, which in turn affected the adsorption and release behavior of C<sub>2</sub>H<sub>4</sub>. In zeolites with high Ag loadings, Ag species tend to aggregate into large Ag clusters or metallic Ag<sup>0</sup> nanoparticles, which do not work as C<sub>2</sub>H<sub>4</sub> binding sites. Among the Ag<sup>+</sup>-exchanged zeolites studied, Ag<sub>36</sub>-X, which is a zeolite X with silver ion-exchange rate of 36%, showed high C<sub>2</sub>H<sub>4</sub> adsorption capacities and sustained C<sub>2</sub>H<sub>4</sub> release characteristics. The application of Ag<sub>36</sub>-X in potato packaging demonstrated superior sprout inhibition performance compared to a commercial C<sub>2</sub>H<sub>4</sub> release agent, highlighting the promise of Ag-loaded zeolites as tunable C<sub>2</sub>H<sub>4</sub> release nanoporous materials for postharvest applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-xl2w3-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reusable standalone carbon photocatalyst for a complete and fast photodegradation of PFOA to fluorine ions under solar-simulated illumination",
+    "summary": "Per- and polyfluoroalkyl substances (PFAS), such as perfluorooctanoic acid (PFOA), pose significant risks to health and the environment due to their chemical resistance. Here, we compare the photocatalytic performance of standalone carbon photocatalysts based on diamond nanomaterials. We demonstrate the complete mineralization of PFOA under solar-simulated illumination using highly crystalline hydrogenated milled nanodiamonds (H-MND). Mechanism investigations reveal two distinct degradation pathways: chain-shortening and defluorination reaction through F/OH substitution which appears specific to H-MND and absent in other types of nanodiamonds. This selectivity is attributed to the unique negative electron affinity of H-MND and their enhanced surface hydrophobicity. Notably, PFOA photodegradation in presence of H-MND arises efficiently under 300\u2013400 nm illumination, deep UV (254 nm) only accelerating the process. Under comparable conditions, H-MND outperforms conventional standalone photocatalysts, even in aerobic environments and under solar-type irradiation. These findings highlight the potential of H-MND to serve as an effective solution for PFAS remediation, whether used as a simple and reusable standalone photocatalyst or integrated into more advanced hybrid systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-zp563-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Adapting Bower\u2019s Intramolecular Aziridination Reaction Allows for a Metal-Free Synthesis of N\u2013H Aziridines",
+    "summary": "Inspired by Bower\u2019s intramolecular aziridination reaction, we have developed an intermolecular protocol for the preparation of N\u2013H aziridines from olefins. Our reaction is operationally simple and involves stirring substrate with commercial N-Boc-O-tosylhydroxylamine and trifluoroacetic acid in 2,2,2-trifluoroethanol. The reaction is stereospecific, scalable, and does not utilize expensive transition metals.\nThe substrate scope is broad, and the functional group tolerance is impressive.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-rjrnl?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Strain-Gated Photochemical Fe\u00b2\u207a Uncaging in Ferrocene-[n]Cycloparaphenylenes: A Photomechanophore Paradigm",
+    "summary": "Ferrocene is a benchmark metallocene known for its robust chemical stability. Yet, mechanical activation of ferrocene or its irradiation when heavily distorted by strain leads to Fe\u2013cyclopentadienyl bond scission. However, a direct link between simultaneous mechanical force transduction and photoactivation has never been established. Here, we show that light can harness stored mechanical energy to induce the metal\u2013ligand bond dissociation. A family of ferrocene\u2013cycloparaphenylene nanohoops (Fc[n]CPP, n = 6\u20138) releases Fe\u00b2\u207a efficiently under visible light, even when the ferrocene unit itself is unstrained. X-ray crystal structure analysis, quantum yield measurements, and excited-state calculations reveal that reactivity scales with strain localized in the aromatic hoop-like ligand, not with distortion at the metal center. This correlation identifies the hoop as an internal stress reservoir that lowers the triplet-state barrier for Fe\u2013cyclopentadienyl cleavage. By coupling mechanical bias to photochemical reactivity, this work establishes a concept of photomechanophores, molecular units in which light and mechanical activation operate in concert. Thereby, we lay foundation of a general framework for designing tunable photocages and new force-responsive materials that can be modulated by light.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-7g2pt?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cross-metathesis of methyl oleate and cis-2-butene-1,4-diol: a direct route to bifunctional polymer building blocks",
+    "summary": "The cross metathesis (CM) of methyl oleate (1) and cis-2-butene-1,4-diol (2) was investigated as a direct route to bifunctional polymer building blocks. In most previous cross-metathesis approaches, acrylonitrile has been employed as the CM partner olefin. While internal olefins such as cis-2-butene-1,4-diol have been explored in metathesis reactions, their use without protecting groups has remained challenging. In this study, the unprotected diol enables direct access to highly functionalized intermediates, avoids dimer formation associated with terminal olefins, and allows subsequent isomerization in a single step. Efficient CM was acheived at low temperature (0 \u00b0C) using a Stewart-Grubbs catalyst, affording CM product 4 in excellent yield. Compound 4 was readily converted to alcohol 10, aldehyde 13, and olefin 9 in a single step and in >90% yields. These intermediates are useful precursors for specialty chemicals, including 11-aminoundecanoate, the precursor of PA11. A tandem CM/isomerization process from 4 to 13 was also demonstrated for the first time.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2022-5c8x9-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ConforFormer: representation for molecules through understanding of conformers",
+    "summary": "Recent years have seen a growing interest in machine learning approaches for chemical tasks. The best existing methods focus on building base models that combine molecular graphs (\u201c2D structures\u201d) with atomic coordinates in 3D to predict molecular properties, typically through pre-training followed by fine-tuning on benchmark datasets. However, current approaches require updating the weights of the entire model during the fine-tuning procedure for each prediction task. While this enables state-of-the-art performance, it limits practical deployment, as real-world datasets are often too small to support the stable retraining of large models. Importantly, the 3D geometry of a molecule holds crucial information for predicting its properties, but a single molecular graph usually corresponds to several 3D geometries, called conformers, introducing ambiguity into the inference process. Typical solutions rely on molecular graphs, but this approach is not easily generalizable beyond organic molecules. Here, we present ConforFormer, a method that explicitly accounts for the diversity of 3D conformations of a molecule to derive a task-agnostic and conformation-agnostic vector representation. This model serves as a foundational framework, producing embeddings that can be generated once and directly applied to downstream tasks, including property prediction and structural similarity, without extensive fine-tuning.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-x68vd-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Adapting Bower\u2019s Intramolecular Aziridination Reaction Allows for a Metal-Free Synthesis of N\u2013H Aziridines",
+    "summary": "Inspired by Bower\u2019s intramolecular aziridination reaction, we have developed an intermolecular protocol for the preparation of N\u2013H aziridines from olefins. Our reaction is operationally simple and involves stirring substrate with commercial N-Boc-O-tosylhydroxylamine and trifluoroacetic acid in 2,2,2-trifluoroethanol. The reaction is stereospecific, scalable, and does not utilize expensive transition metals.\nThe substrate scope is broad, and the functional group tolerance is impressive.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-rjrnl?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Strain-Gated Photochemical Fe\u00b2\u207a Uncaging in Ferrocene-[n]Cycloparaphenylenes: A Photomechanophore Paradigm",
+    "summary": "Ferrocene is a benchmark metallocene known for its robust chemical stability. Yet, mechanical activation of ferrocene or its irradiation when heavily distorted by strain leads to Fe\u2013cyclopentadienyl bond scission. However, a direct link between simultaneous mechanical force transduction and photoactivation has never been established. Here, we show that light can harness stored mechanical energy to induce the metal\u2013ligand bond dissociation. A family of ferrocene\u2013cycloparaphenylene nanohoops (Fc[n]CPP, n = 6\u20138) releases Fe\u00b2\u207a efficiently under visible light, even when the ferrocene unit itself is unstrained. X-ray crystal structure analysis, quantum yield measurements, and excited-state calculations reveal that reactivity scales with strain localized in the aromatic hoop-like ligand, not with distortion at the metal center. This correlation identifies the hoop as an internal stress reservoir that lowers the triplet-state barrier for Fe\u2013cyclopentadienyl cleavage. By coupling mechanical bias to photochemical reactivity, this work establishes a concept of photomechanophores, molecular units in which light and mechanical activation operate in concert. Thereby, we lay foundation of a general framework for designing tunable photocages and new force-responsive materials that can be modulated by light.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-7g2pt?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Effects of cigarette smoking on the oral microbiome in adolescents",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32650-2\">doi:10.1038/s41598-025-32650-2</a></p>Effects of cigarette smoking on the oral microbiome in adolescents",
+    "url": "https://www.nature.com/articles/s41598-025-32650-2",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A drift-aware RS<sup>2</sup>FS pipeline with confidence gating for IDS",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34124-x\">doi:10.1038/s41598-025-34124-x</a></p>A drift-aware RS<sup>2</sup>FS pipeline with confidence gating for IDS",
+    "url": "https://www.nature.com/articles/s41598-025-34124-x",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Incidence and predictors of early mortality among trauma patients visiting emergency departments of referral hospitals in west Amhara region, Ethiopia",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35167-4\">doi:10.1038/s41598-026-35167-4</a></p>Incidence and predictors of early mortality among trauma patients visiting emergency departments of referral hospitals in west Amhara region, Ethiopia",
+    "url": "https://www.nature.com/articles/s41598-026-35167-4",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Resilience assessment and optimization of mountainous county settlements based on society-space network: a case study of the Qinba Mountain area",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41599-025-06487-z",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Complex networks",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pandora, a keen-eyed satellite built to study exoplanets, readies for launch",
+    "summary": "Pandora, the latest in a long portfolio of University of Arizona's space science missions, has cleared its last major milestone on its journey into space. This week, Pandora\u2014a satellite about the size of fridge\u2014was mounted inside the launch vehicle, a SpaceX Falcon 9 rocket. Pandora now awaits blast-off from Space Launch Complex 4E at Vandenberg Space Force Base in California. The launch window opens at 6:19 a.m. Arizona time (8:19 a.m. EST) on Sunday, Jan. 11. SpaceX will provide a livestream of the event.",
+    "url": "https://phys.org/news/2026-01-pandora-keen-eyed-satellite-built.html",
+    "published_date": "2026-01-10T11:30:03Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NASA says targeting ISS medical evacuation for January 14",
+    "summary": "NASA crewmembers aboard the International Space Station (ISS) could return to Earth as soon as Thursday, the US space agency said, after a medical emergency prompted the crew to return from their mission early.",
+    "url": "https://phys.org/news/2026-01-nasa-iss-medical-evacuation-january.html",
+    "published_date": "2026-01-10T11:25:38Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why 2026 Is a Mathematically Special Number",
+    "summary": "<p>Neither a square nor prime number, 2026 is still intriguing</p>",
+    "url": "https://www.scientificamerican.com/article/why-2026-is-a-mathematically-special-number/",
+    "published_date": "2026-01-10T12:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Temp\u00eates en Europe : lente am\u00e9lioration en Allemagne et en France, un mort au Royaume-Uni",
+    "summary": "La situation s'am\u00e9liore l\u00e9g\u00e8rement samedi en Allemagne et en France, apr\u00e8s le passage de violentes temp\u00eates en Europe, tandis qu'un mort a \u00e9t\u00e9 recens\u00e9 au Royaume-Uni o\u00f9 28.000 foyers sont encore priv\u00e9s d'\u00e9lectricit\u00e9.\nLa temp\u00eate Goretti a balay\u00e9 le Royaume-Uni dans la nuit de jeudi \u00e0 vendredi, avec des rafales qui ont fr\u00f4l\u00e9 les 160 km/h dans le sud-ouest de l'Angleterre et du Pays de Galles et de fortes chutes de neige, du verglas et de la pluie vendredi sur l'Ecosse, le Pays de Galles, l'Irlande du Nord et le nord de l'Angleterre, entra\u00eenant de nombreuses perturbations.\nLa police de la r\u00e9gion des Cornouailles et du Devon, dans le sud-ouest de l'Angleterre, a annonc\u00e9 samedi le d\u00e9c\u00e8s d'un homme dans la ville de Helston, retrouv\u00e9 par les services d'urgence dans sa caravane sur laquelle un arbre \u00e9tait tomb\u00e9 jeudi.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/tempetes-en-europe-lente-amelioration-en-allemagne-et-en-france-un-mort-au-royaume-uni_190355?xtor=RSS-15",
+    "published_date": "2026-01-10T09:59:46Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Single-Particle Visualization of Water Uptake of Organic\u2013Inorganic Aerosols with In-Situ Transmission Electron Microscopy",
     "summary": "Atmospheric aerosol water uptake properties influence cloud formation and precipitation, atmospheric chemistry, and global climate. Atmospheric aerosols often contain organic acids and inorganic hygroscopic salts, and their internal mixing influences water uptake properties in complex and non-intuitive ways. The heterogeneous nature of aerosol ensembles necessitates nanoscale visualization of aerosol mixing state and water uptake dynamics to uncover mechanistic details. Here we demonstrate that water uptake in phthalic acid (PTA)/sodium chloride (NaCl) aerosols proceeds by PTA swelling, NaCl deliquescence, and droplet growth, while subsequent drying creates core-shell particles containing newly formed sodium phthalate salts. Lab-made individual PTA/NaCl aerosols consisted of cuboidal crystalline NaCl domains phase separated from amorphous PTA domains. Sodium ions were observed in both NaCl and PTA domains, which were separated by a ~10 nm thick interphase with distinct composition and structure. Humidity controlled in-situ TEM imaging revealed PTA/NaCl aerosols initially uptake water by adsorption and swelling of the PTA. Further increases in humidity cause NaCl deliquescence, hygroscopic droplet growth, and partial dissolution and morphology changes in the PTA. Dehumidification initially causes precipitation of an organic-rich shell followed by a polycrystalline NaCl core, yielding a distinctly different core-shell morphology compared to the as-made particles. Diffraction and elemental mapping confirm crystalline sodium acid phthalate forms following dehumidification. This work solidifies our understanding of water uptake and chemical reactions in mixed organic-inorganic atmospheric aerosols by uncovering multistep water uptake dynamics and new phase formation.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss",

@@ -1,5 +1,28 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Mechanistic Study of Glycerol Electro-oxidation on Ni(OH)₂/N](https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Hydrogen-Bonding Primary and Secondary Coordination Sphere E](https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Tempêtes en Europe : lente amélioration en Allemagne et en F](https://www.sciencesetavenir.fr/nature-environnement/tempetes-en-europe-lente-amelioration-en-allemagne-et-en-france-un-mort-au-royaume-uni_190355?xtor=RSS-15) |
+| keyword_rejected | - | [Why 2026 Is a Mathematically Special Number](https://www.scientificamerican.com/article/why-2026-is-a-mathematically-special-number/) |
+| keyword_rejected | - | [NASA says targeting ISS medical evacuation for January 14](https://phys.org/news/2026-01-nasa-iss-medical-evacuation-january.html) |
+| keyword_rejected | - | [Pandora, a keen-eyed satellite built to study exoplanets, re](https://phys.org/news/2026-01-pandora-keen-eyed-satellite-built.html) |
+| keyword_rejected | - | [Resilience assessment and optimization of mountainous county](https://www.nature.com/articles/s41599-025-06487-z) |
+| keyword_rejected | - | [Incidence and predictors of early mortality among trauma pat](https://www.nature.com/articles/s41598-026-35167-4) |
+| keyword_rejected | - | [A drift-aware RS<sup>2</sup>FS pipeline with confidence gati](https://www.nature.com/articles/s41598-025-34124-x) |
+| keyword_rejected | - | [Effects of cigarette smoking on the oral microbiome in adole](https://www.nature.com/articles/s41598-025-32650-2) |
+| keyword_rejected | - | [Strain-Gated Photochemical Fe²⁺ Uncaging in Ferrocene-[n]Cyc](https://dx.doi.org/10.26434/chemrxiv-2026-7g2pt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Adapting Bower’s Intramolecular Aziridination Reaction Allow](https://dx.doi.org/10.26434/chemrxiv-2026-rjrnl?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [ConforFormer: representation for molecules through understan](https://dx.doi.org/10.26434/chemrxiv-2025-x68vd-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Cross-metathesis of methyl oleate and cis-2-butene-1,4-diol:](https://dx.doi.org/10.26434/chemrxiv-2022-5c8x9-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Strain-Gated Photochemical Fe²⁺ Uncaging in Ferrocene-[n]Cyc](https://dx.doi.org/10.26434/chemrxiv-2026-7g2pt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Adapting Bower’s Intramolecular Aziridination Reaction Allow](https://dx.doi.org/10.26434/chemrxiv-2026-rjrnl?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Reusable standalone carbon photocatalyst for a complete and ](https://dx.doi.org/10.26434/chemrxiv-2025-zp563-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Zeolite X Loaded with Ag+ as a Slow Ethylene-Releasing Nanop](https://dx.doi.org/10.26434/chemrxiv-2025-xl2w3-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Armstrong’s Exclusion-Zone SASA Formula and Model](https://dx.doi.org/10.26434/chemrxiv-2025-jtx55-v7?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Enhancing the Simulation Accuracy of Small Organic Molecules](https://dx.doi.org/10.26434/chemrxiv-2025-cb49x-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [ConforFormer: representation for molecules through understan](https://dx.doi.org/10.26434/chemrxiv-2025-x68vd-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Cross-metathesis of methyl oleate and cis-2-butene-1,4-diol:](https://dx.doi.org/10.26434/chemrxiv-2022-5c8x9-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Centimeter-Scale Giant-Grain Growth: Radial Expansion of MAP](https://dx.doi.org/10.26434/chemrxiv-2025-0dxhw-v3?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Zeolite based thermal energy storage to leverage industrial ](https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [Single-Particle Visualization of Water Uptake of Organic–Ino](https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Turquie: "sécheresse record" à Ankara où des coupures d'eau ](https://www.sciencesetavenir.fr/nature-environnement/turquie-secheresse-record-a-ankara-ou-des-coupures-d-eau-perdurent_190354?xtor=RSS-15) |

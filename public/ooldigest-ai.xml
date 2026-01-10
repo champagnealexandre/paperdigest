@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-10T11:14:12.240085+00:00</updated>
+  <updated>2026-01-10T12:32:56.927257+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Hydrogen-Bonding Primary and Secondary Coordination Sphere Effects on Water Oxidation Catalyzed by Transition Metal Complexes</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Rising energy needs, the threat of climate change, and the diminishing reserves of non-renewable energy underscore the urgency for advancing alternative, sustainable, clean energy sources. Hydrogen is</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Review of how hydrogen-bonding networks in transition-metal water-oxidation catalysts tune proton transfer, stability, and electronic structure, offering broadly relevant insights into aqueous redox catalysis but only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Rising energy needs, the threat of climate change, and the diminishing reserves of non-renewable energy underscore the urgency for advancing alternative, sustainable, clean energy sources. Hydrogen is currently appraised as a logical, sustainable power source, with electrochemical water splitting emerging as a critical method for its production. Water oxidation, a key step in artificial photosynthesis, remains a significant challenge in the development of sustainable energy systems. Transition metal complexes have emerged as promising catalysts for this reaction due to their tunable structures and remarkable catalytic properties. Among the various factors influencing their performance, hydrogen bonding has gained increasing attention as a critical element in shaping catalytic efficiency and reaction pathways. The review explores the multifaceted role of hydrogen bonding in transition metal-based water oxidation catalysts, highlighting its impact on structural stability, proton transfer dynamics, and electronic modulation of active sites. We discuss recent advancements in understanding how hydrogen-bonding interactions influence catalytic activity and selectivity, drawing on both experimental findings and computational insights. By shedding light on the pivotal role of hydrogen bonding, this review aims to inspire innovative approaches for designing next-generation catalysts for sustainable water-splitting technologies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] ChemRxiv ▶ Mechanistic Study of Glycerol Electro-oxidation on Ni(OH)₂/NiOOH electrodes</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Glycerol oxidation reaction (GOR) is a promising valorisation route to upgrade the biodiesel by-product while co-producing green hydrogen at the cathode in electrolysers. However, the working mechanis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Operando spectroelectrochemistry identifies NiOOH (Ni3+) as the active oxidant for glycerol electro-oxidation and shows glycerol adsorption is rate-limiting while suppressing higher-valent Ni species and competing OER, offering mechanistic insight into Ni-based redox catalysis that is only tangentially relevant to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Glycerol oxidation reaction (GOR) is a promising valorisation route to upgrade the biodiesel by-product while co-producing green hydrogen at the cathode in electrolysers. However, the working mechanism of transition-metal-based catalysts such as Ni(OH)₂ remains poorly understood. Here, we employed a multi-operando spectroelectrochemical approach combining UV–Vis optical spectroscopy, soft X-ray absorption spectroscopy, and time-resolved stepped-potential spectroscopy to investigate the active oxidising species and charge-transfer dynamics under OER and GOR conditions. We identified the NiOOH (Ni3+) as the active species for GOR, whereas the formation of higher valent NiOO (Ni4+) species is completely suppressed in the presence of glycerol. The accumulation of surface adsorbed glycerol molecules is rate-determining, (τ ~ 27.9 s at 1.47 VRHE), occuring slower than the intrinsic catalytic step of glycerol reaction ( τ ~ 3.2 s at 1.47 VRHE), which involves oxidation and bond cleavage. In contrast, OER has significantly slower kinetics (τ ~167 s at 1.47 VRHE), resulting in the dominance of GOR and suppresion of oxygen evolution in the presence of glycerol. The potential-independent production of formic acid during GOR follows an apparent first-order dependence on NiOOH concentration, suggesting continuous C-C bond cleavage activated by reactive *O species. These findings link oxidising species with charge-transfer dynamics, providing insight for the rational design of Ni-based catalysts for glycerol and other biomass-derived molecule oxidations.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] ChemRxiv ▶ Single-Particle Visualization of Water Uptake of Organic–Inorganic Aerosols with In-Situ Transmission Electron Microscopy</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss"/>
