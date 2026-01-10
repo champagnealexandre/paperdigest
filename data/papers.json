@@ -1,5 +1,45 @@
 [
   {
+    "title": "A programmable ribozyme for RNA signal transduction",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68175-5",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-68175-5"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 80,
+      "summary": "Nature Communications study engineering a programmable ribozyme-based RNA signal-transduction circuit, strengthening the plausibility of RNA-world-like catalytic networks relevant to origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Rapid wavefront shaping using an optical gradient acquisition",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68259-2\">doi:10.1038/s41467-025-68259-2</a></p>The authors present a rapid wavefront shaping system for fast, high-resolution imaging deep inside scattering tissue. It does this by optically acquiring the focusing score\u2019s gradient, a method orders of magnitude faster than previous techniques.",
+    "url": "https://www.nature.com/articles/s41467-025-68259-2",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Functional movement screen and asymmetries in female volleyball players across playing positions",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35725-w\">doi:10.1038/s41598-026-35725-w</a></p>Functional movement screen and asymmetries in female volleyball players across playing positions",
+    "url": "https://www.nature.com/articles/s41598-026-35725-w",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Single-cell multiplex approaches deeply map ON-target CRISPR-genotoxicity and reveal its mitigation by palbociclib and long-term engraftment",
     "summary": "",
     "url": "https://www.nature.com/articles/s41467-025-68177-3",

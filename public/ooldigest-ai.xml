@@ -3,8 +3,21 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-10T22:16:18.159427+00:00</updated>
+  <updated>2026-01-10T23:16:21.553543+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟢 [80] nature.com - Biological sciences ▶ A programmable ribozyme for RNA signal transduction</title>
+    <link href="https://www.nature.com/articles/s41467-025-68175-5"/>
+    <id>https://www.nature.com/articles/s41467-025-68175-5</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Nature Communications study engineering a programmable ribozyme-based RNA signal-transduction circuit, strengthening the plausibility of RNA-world-like catalytic networks relevant to origins-of-life chemistry.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-68175-5">https://www.nature.com/articles/s41467-025-68175-5</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-68175-5">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟢 [90] bioRxiv Subject Collection: Evolutionary Biology ▶ Simple case of prebiotic evolution: vesicle populations can respond to selection for greater turbidity via emergent cooperative dynamics</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1"/>

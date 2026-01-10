@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 80 | [A programmable ribozyme for RNA signal transduction](https://www.nature.com/articles/s41467-025-68175-5) |
+| keyword_rejected | - | [Functional movement screen and asymmetries in female volleyb](https://www.nature.com/articles/s41598-026-35725-w) |
+| keyword_rejected | - | [Rapid wavefront shaping using an optical gradient acquisitio](https://www.nature.com/articles/s41467-025-68259-2) |
 | keyword_rejected | - | [Single-cell multiplex approaches deeply map ON-target CRISPR](https://www.nature.com/articles/s41467-025-68177-3) |
 | keyword_rejected | - | [RBF partition of unity method for solving nonlinear multi-te](https://www.sciencedirect.com/science/article/pii/S1877750326000013?dgcid=rss_sd_all) |
 | ai_scored | 90 | [Simple case of prebiotic evolution: vesicle populations can ](https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1) |
