@@ -1,5 +1,49 @@
 [
   {
+    "title": "Pruning random resistive memory for optimizing analog AI",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67960-6\">doi:10.1038/s41467-025-67960-6</a></p>AI models consume growing amounts of energy. Here, the authors introduce a brain-inspired way to prune connections in randomly weighted resistive-memory chips, boosting accuracy while avoiding costly analog tuning to improve general efficiency and reduce power use.",
+    "url": "https://www.nature.com/articles/s41467-025-67960-6",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Status and global population trend of the Magellanic penguin <i>Spheniscus magellanicus</i> along the Argentine coast",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33756-3\">doi:10.1038/s41598-025-33756-3</a></p>Status and global population trend of the Magellanic penguin <i>Spheniscus magellanicus</i> along the Argentine coast",
+    "url": "https://www.nature.com/articles/s41598-025-33756-3",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bio-inspired unified model for representing geometric relations in robotic perception",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30116-z\">doi:10.1038/s41598-025-30116-z</a></p>Bio-inspired unified model for representing geometric relations in robotic perception",
+    "url": "https://www.nature.com/articles/s41598-025-30116-z",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Les sculptures en terre cuite, uniques t\u00e9moins d'une culture \u00e9vanouie",
+    "summary": "Les sculptures en terre cuite finement d\u00e9cor\u00e9es sont les pi\u00e8ces embl\u00e9matiques de la culture nok, qui a v\u00e9cu dans l'actuel Nig\u00e9ria.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-sculptures-en-terre-cuite-uniques-temoins-d-une-culture-evanouie_190108?xtor=RSS-4",
+    "published_date": "2026-01-10T09:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Overcoming Sensitivity Barrier in 13C NMR Using Frequency\u2013Time Dual-Domain GANs: Quantitative Reaction Monitoring at Natural Abundance",
     "summary": "Low sensitivity has long limited the use of heteronuclei such as 13C and 15N NMR for quantitative chemical measurements, confining reaction monitoring largely to proton-detected experiments. Although highly sensitive, proton NMR often becomes unreliable due to severe signal overlap. Here we show that machine-learning-enabled heteronuclear NMR overcomes this limitation, enabling accurate, time-resolved reaction monitoring using natural-abundance 13C nuclei without isotopic enrichment or hardware modification. \nWe introduce a frequency\u2013time dual-domain generative adversarial network that enforces physical consistency between the free-induction decay and its frequency-domain spectrum. This dual-domain constraint suppresses noise while preserving peak intensities and lineshapes essential for quantitative analysis. We demonstrate that baseline-based signal-to-noise ratios become unreliable after ML-assisted denoising due to non-uniform noise floors, and therefore adopt a true signal-to-noise ratio based on peak-area variance. Using this metric, our approach achieves a two- to three-fold improvement in quantitative sensitivity, comparable to detection using cryogenically cooled probe-heads. \nApplied to the acid-catalysed inversion of sucrose, the method enables reliable 13C-based kinetic analysis with sub-minute acquisition times per spectrum, establishing a general framework for extending quantitative reaction monitoring beyond proton NMR.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-fl1p6?rft_dat=source%3Ddrss",

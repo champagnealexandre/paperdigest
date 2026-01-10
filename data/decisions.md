@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Les sculptures en terre cuite, uniques témoins d'une culture](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-sculptures-en-terre-cuite-uniques-temoins-d-une-culture-evanouie_190108?xtor=RSS-4) |
+| keyword_rejected | - | [Bio-inspired unified model for representing geometric relati](https://www.nature.com/articles/s41598-025-30116-z) |
+| keyword_rejected | - | [Status and global population trend of the Magellanic penguin](https://www.nature.com/articles/s41598-025-33756-3) |
+| keyword_rejected | - | [Pruning random resistive memory for optimizing analog AI](https://www.nature.com/articles/s41467-025-67960-6) |
 | keyword_rejected | - | [Developmental variations in recurrent spatiotemporal brain p](https://www.nature.com/articles/s41467-025-67754-w) |
 | keyword_rejected | - | [JULGI coordinates vascular development and leaf patterning t](https://www.nature.com/articles/s41467-025-67339-7) |
 | keyword_rejected | - | [A hybrid prediction model for PM<sub>2.5</sub> concentration](https://www.nature.com/articles/s41598-026-35386-9) |
