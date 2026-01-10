@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Etat de catastrophe dans le sud-est de l'Australie, en proie](https://www.sciencesetavenir.fr/nature-environnement/etat-de-catastrophe-dans-le-sud-est-de-l-australie-en-proie-aux-incendies_190351?xtor=RSS-15) |
+| keyword_rejected | - | [Les médecins libéraux appelés à manifester contre une "dériv](https://www.sciencesetavenir.fr/sante/les-medecins-liberaux-appeles-a-manifester-contre-une-derive-autoritaire-du-systeme-de-sante_190352?xtor=RSS-16) |
+| keyword_rejected | - | [A novel hyperbolic tangent-based PID controller tuned by the](https://www.nature.com/articles/s41598-025-34740-7) |
+| keyword_rejected | - | [Nonlinear analysis of hollow reinforced high strength concre](https://www.nature.com/articles/s41598-025-32971-2) |
+| keyword_rejected | - | [Energy consumption forecasting in logistics considering envi](https://www.nature.com/articles/s41598-025-34414-4) |
+| keyword_rejected | - | [Alleviating non-radiative losses in organic solar cells thro](https://www.nature.com/articles/s41467-025-67351-x) |
 | ai_scored | 25 | [Predicting Open Quantum Dynamics with Data-Informed Quantum-](http://link.aps.org/doi/10.1103/7lsx-ssjl) |
 | keyword_rejected | - | [Tunneling of Elastic Waves in a Tapered Waveguide](http://link.aps.org/doi/10.1103/18p2-8qtp) |
 | keyword_rejected | - | [Smaller Grains Are Not Stronger: Microcrystalline Metals at ](http://link.aps.org/doi/10.1103/yp9h-sr2m) |
