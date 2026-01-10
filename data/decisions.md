@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Developmental variations in recurrent spatiotemporal brain p](https://www.nature.com/articles/s41467-025-67754-w) |
+| keyword_rejected | - | [JULGI coordinates vascular development and leaf patterning t](https://www.nature.com/articles/s41467-025-67339-7) |
+| keyword_rejected | - | [A hybrid prediction model for PM<sub>2.5</sub> concentration](https://www.nature.com/articles/s41598-026-35386-9) |
+| keyword_rejected | - | [Face expectancy cues differentially modulate conflict proces](https://www.nature.com/articles/s41598-025-34447-9) |
+| keyword_rejected | - | [Robust averaging of emotional faces and its association with](https://www.nature.com/articles/s41598-026-35374-z) |
+| keyword_rejected | - | [CNN-MLP framework for forest burned areas prediction using P](https://www.nature.com/articles/s41598-026-35836-4) |
+| keyword_rejected | - | [An attention enhanced CNN ensemble for interpretable and acc](https://www.nature.com/articles/s41598-025-34713-w) |
+| keyword_rejected | - | [Disruption of zinc homeostasis reduces histone acetylation l](https://www.nature.com/articles/s41598-026-35270-6) |
+| keyword_rejected | - | [Driving Forces of Amyloid Protofibril Stability](https://dx.doi.org/10.26434/chemrxiv-2026-skt9d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Overcoming Sensitivity Barrier in 13C NMR Using Frequency–Ti](https://dx.doi.org/10.26434/chemrxiv-2026-fl1p6?rft_dat=source%3Ddrss) |
 | ai_scored | 35 | [Native Charge Detection Mass Spectrometry of Kilobase-Scale ](https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Wearable textile-based phototherapy platform with customized](https://www.nature.com/articles/s41467-025-68258-3) |
 | keyword_rejected | - | [Chemoenzymatic Synthesis of Well-Defined α(2,8)- and α(2,9)-](https://dx.doi.org/10.26434/chemrxiv-2026-qdf60?rft_dat=source%3Ddrss) |

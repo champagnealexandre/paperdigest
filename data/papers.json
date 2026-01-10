@@ -1,5 +1,115 @@
 [
   {
+    "title": "Overcoming Sensitivity Barrier in 13C NMR Using Frequency\u2013Time Dual-Domain GANs: Quantitative Reaction Monitoring at Natural Abundance",
+    "summary": "Low sensitivity has long limited the use of heteronuclei such as 13C and 15N NMR for quantitative chemical measurements, confining reaction monitoring largely to proton-detected experiments. Although highly sensitive, proton NMR often becomes unreliable due to severe signal overlap. Here we show that machine-learning-enabled heteronuclear NMR overcomes this limitation, enabling accurate, time-resolved reaction monitoring using natural-abundance 13C nuclei without isotopic enrichment or hardware modification. \nWe introduce a frequency\u2013time dual-domain generative adversarial network that enforces physical consistency between the free-induction decay and its frequency-domain spectrum. This dual-domain constraint suppresses noise while preserving peak intensities and lineshapes essential for quantitative analysis. We demonstrate that baseline-based signal-to-noise ratios become unreliable after ML-assisted denoising due to non-uniform noise floors, and therefore adopt a true signal-to-noise ratio based on peak-area variance. Using this metric, our approach achieves a two- to three-fold improvement in quantitative sensitivity, comparable to detection using cryogenically cooled probe-heads. \nApplied to the acid-catalysed inversion of sucrose, the method enables reliable 13C-based kinetic analysis with sub-minute acquisition times per spectrum, establishing a general framework for extending quantitative reaction monitoring beyond proton NMR.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-fl1p6?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Driving Forces of Amyloid Protofibril Stability",
+    "summary": "Amyloid protofibrils are highly ordered protein assemblies characterized by a high content of \u03b2-sheets and are implicated in a wide range of pathological conditions. Amyloid crystals represent a distinct polymorphic form of amyloid assemblies that arise from the progressive untwisting and lateral association of twisted ribbon fibrils and correspond to the ground state of the protein folding and aggregation energy landscape. However, the driving forces underlying these processes remain difficult to quantify at the molecular level and from a quantum-chemical perspective. Here, we present a computational framework that combines molecular dynamics simulations, the Jarzynski estimator, and symmetry-adapted perturbation theory (SAPT) to evaluate the potential of mean force associated with peptide transfer either from a soluble state to a crystalline protofibril or from the protofibril into the surrounding microenvironment. We apply this approach to the NNQQ peptide, which has been shown by X-ray microcrystallography to form amyloid fibrils composed of parallel \u03b2-strands in the presence of alkali halide salts (Nature 447, 453\u2013457 (2007)). Structural stability increases from Na+ to K+, driven by enhanced ion-peptide electrostatic interactions as revealed by SAPT analysis. Furthermore, quantum-chemical analysis reveals a clear polarity-dependence in the dominant stabilizing forces of amyloid protofibrils. The highly polar NNQQ polymorphs are stabilized mainly by induction (charge transfer and polarization) and dispersion interactions, whereas the highly apolar MVGGVV polymorphs from the amyloid-\u03b2 sequence are determined predominantly by electrostatic and dispersion contributions. Together, this multidimensional framework establishes a quantitative, molecular-level foundation for understanding amyloid stability and its modulation by environmental conditions and protein identity. More broadly, it provides a general and transferable strategy for assessing amyloid stability and for rationally designing inhibitors that disrupt amyloid assemblies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-skt9d?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Disruption of zinc homeostasis reduces histone acetylation levels in normal and tumor cells",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35270-6\">doi:10.1038/s41598-026-35270-6</a></p>Disruption of zinc homeostasis reduces histone acetylation levels in normal and tumor cells",
+    "url": "https://www.nature.com/articles/s41598-026-35270-6",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "An attention enhanced CNN ensemble for interpretable and accurate cotton leaf disease classification",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34713-w\">doi:10.1038/s41598-025-34713-w</a></p>An attention enhanced CNN ensemble for interpretable and accurate cotton leaf disease classification",
+    "url": "https://www.nature.com/articles/s41598-025-34713-w",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "CNN-MLP framework for forest burned areas prediction using PSO-WOA algorithm",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35836-4\">doi:10.1038/s41598-026-35836-4</a></p>CNN-MLP framework for forest burned areas prediction using PSO-WOA algorithm",
+    "url": "https://www.nature.com/articles/s41598-026-35836-4",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Robust averaging of emotional faces and its association with psychotic-like experiences and social connection",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35374-z\">doi:10.1038/s41598-026-35374-z</a></p>Robust averaging of emotional faces and its association with psychotic-like experiences and social connection",
+    "url": "https://www.nature.com/articles/s41598-026-35374-z",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Face expectancy cues differentially modulate conflict processing driven by emotional incongruence: an EEG study",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34447-9\">doi:10.1038/s41598-025-34447-9</a></p>Face expectancy cues differentially modulate conflict processing driven by emotional incongruence: an EEG study",
+    "url": "https://www.nature.com/articles/s41598-025-34447-9",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A hybrid prediction model for PM<sub>2.5</sub> concentration based on high-frequency and low-frequency IMFs with EMD decomposition",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35386-9\">doi:10.1038/s41598-026-35386-9</a></p>A hybrid prediction model for PM<sub>2.5</sub> concentration based on high-frequency and low-frequency IMFs with EMD decomposition",
+    "url": "https://www.nature.com/articles/s41598-026-35386-9",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "JULGI coordinates vascular development and leaf patterning through non-cell-autonomous regulation of miR165/166",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67339-7",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Developmental variations in recurrent spatiotemporal brain propagations from childhood to adulthood",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67754-w",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Native Charge Detection Mass Spectrometry of Kilobase-Scale Messenger RNAs",
     "summary": "Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for large, heterogeneous biomolecules. Messenger RNAs (mRNAs) represent a particularly challenging analytical target, as transcripts often span thousands of nucleotides, exhibit substantial heterogeneity, and form higher-order oligomers that are difficult to assess using existing workflows. Here, we optimize and evaluate native CDMS for intact analysis of long mRNAs and conduct systematic comparison of positive and negative analysis polarities. Using a panel of commercially available mRNAs ranging from approximately 1,000 to 4,500 nucleotides, we demonstrate that native CDMS enables direct, and accurate mass measurement of intact mRNAs alongside various process-related impurities (truncations, dimers etc.). Collisional activation improves mass accuracy by reducing adduct heterogeneity while preserving the ability to resolve impurity populations. Across all constructs, CDMS provides quantitative access to charge distributions that scale with transcript length and respond predictably to activation, denaturation, and polarity, offering insight into ion charging behavior and charge accommodation for large RNAs. Negative polarity measurements generally access higher charge states than positive polarity, particularly for the largest transcripts, improving sensitivity and relative size discrimination, while intact mass accuracy remains comparable between polarities when appropriate ion transmission strategies are employed. Together, these results establish native CDMS as a versatile and information-rich platform for intact mRNA characterization, providing simultaneous access to mass, charge, and impurity information that complements existing analytical methods and supports emerging needs in RNA biotherapeutic development.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss",
