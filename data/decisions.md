@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Bringing Ir(C^C)3 Photocatalysts into the visible: mer-Ir(pm](https://dx.doi.org/10.26434/chemrxiv-2026-gcs65?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Bringing Ir(C^C)3 Photocatalysts into the visible: mer-Ir(pm](https://dx.doi.org/10.26434/chemrxiv-2026-gcs65?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Les premiers âges de la Terre](https://www.sciencesetavenir.fr/fondamental/geologie/les-premiers-ages-de-la-terre_190063?xtor=RSS-10) |
 | keyword_rejected | - | [Etat de catastrophe dans le sud-est de l'Australie, en proie](https://www.sciencesetavenir.fr/nature-environnement/etat-de-catastrophe-dans-le-sud-est-de-l-australie-en-proie-aux-incendies_190351?xtor=RSS-15) |
 | keyword_rejected | - | [Les médecins libéraux appelés à manifester contre une "dériv](https://www.sciencesetavenir.fr/sante/les-medecins-liberaux-appeles-a-manifester-contre-une-derive-autoritaire-du-systeme-de-sante_190352?xtor=RSS-16) |
