@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-10T18:24:04.072653+00:00</updated>
+  <updated>2026-01-10T19:13:21.735025+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟢 [90] bioRxiv Subject Collection: Evolutionary Biology ▶ Simple case of prebiotic evolution: vesicle populations can respond to selection for greater turbidity via emergent cooperative dynamics</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1</id>
+    <updated>2026-01-10T00:00:00Z</updated>
+    <summary>Adaptive evolution has long been hypothesized to be possible in the absence of genetic molecules, but experimental evidence remains lacking. Fatty acid vesicles represent an intriguing model to study </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, prebiotic</p>
+<p><strong>AI Decision:</strong> In replicated selection experiments, fatty-acid vesicle populations show an increased turbidity phenotype consistent with emergent cooperative, inheritance-like dynamics during growth/division—supporting the plausibility of pre-genetic (protocell) evolution in prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> Adaptive evolution has long been hypothesized to be possible in the absence of genetic molecules, but experimental evidence remains lacking. Fatty acid vesicles represent an intriguing model to study the emergence of prebiotic evolution, since they can spontaneously grow and divide and have been hypothesized to be capable of non-genetic inheritance. In this study we conducted multiple experiments to test whether vesicle populations can respond to artificial selection for greater turbidity and, if so, whether that response can be tied to an inheritance-like mechanism. We prepared 96 independent vesicle populations, incubated them for 24 hours and then selected half the populations to propagate into the next generation. The populations to propagate were picked either randomly ,representing drift controls, or were the populations with the greatest turbidity, representing selection. Population propagation involved resuspension, transfer into fresh buffer, feeding with an amphiphile stock, and then incubating for the next 24 hours. In three replicate experiments run for at least 10 generations, we observed consistently greater turbidity in selection lineages compared to drift, as well as a reduction in the heritability (i.e., the correlation between parent and offspring turbidities). We conducted additional experiments to evaluate whether this response to selection is caused by a simple carryover effect or reflects cooperative dynamics, where vesicles from the parental generation affect newly formed vesicles in the offspring generation. The response to selection is much lower if we omitted the resuspension step and/or if we did not feed transfers with amphiphiles but instead mixed them we pre-formed vesicles. Combined with imaging and other analyses of the resuspension and feeding process, these results suggest that cooperative vesicle dynamics occur, where a small number of intact vesicles from a parental generation alters the dynamics of new vesicle formation following food addition. Overall, this study represents the first experimental finding of a response to artificial selection in prebiotic chemistry.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>⚫ [0] Sciences et Avenir ▶ Plusieurs milliers de médecins défilent à Paris et en appellent à Lecornu</title>
     <link href="https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16"/>
@@ -239,17 +253,5 @@
 <li><a href="https://doi.org/10.48550/arXiv.2601.00412">https://doi.org/10.48550/arXiv.2601.00412</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Phys.org: Evolution News ▶ The &#x27;Age of Fishes&#x27; began with mass death, fossil database reveals</title>
-    <link href="https://phys.org/news/2026-01-age-fishes-began-mass-death.html"/>
-    <id>https://phys.org/news/2026-01-age-fishes-began-mass-death.html</id>
-    <updated>2026-01-09T19:00:05Z</updated>
-    <summary>Some 445 million years ago, life on Earth was forever changed. During the geological blink of an eye, glaciers formed over the supercontinent Gondwana, drying out many of the vast, shallow seas like a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> A fossil-database analysis links late Ordovician glaciation and ocean-chemistry shifts to a rapid mass marine extinction (~85%) that reshaped subsequent vertebrate evolution but does not directly address origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Some 445 million years ago, life on Earth was forever changed. During the geological blink of an eye, glaciers formed over the supercontinent Gondwana, drying out many of the vast, shallow seas like a sponge and giving an &quot;icehouse climate&quot; that, together with radically changed ocean chemistry, ultimately caused the extinction of about 85% of all marine species—the majority of life on Earth.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-age-fishes-began-mass-death.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

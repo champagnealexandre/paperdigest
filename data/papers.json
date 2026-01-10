@@ -1,5 +1,24 @@
 [
   {
+    "title": "Simple case of prebiotic evolution: vesicle populations can respond to selection for greater turbidity via emergent cooperative dynamics",
+    "summary": "Adaptive evolution has long been hypothesized to be possible in the absence of genetic molecules, but experimental evidence remains lacking. Fatty acid vesicles represent an intriguing model to study the emergence of prebiotic evolution, since they can spontaneously grow and divide and have been hypothesized to be capable of non-genetic inheritance. In this study we conducted multiple experiments to test whether vesicle populations can respond to artificial selection for greater turbidity and, if so, whether that response can be tied to an inheritance-like mechanism. We prepared 96 independent vesicle populations, incubated them for 24 hours and then selected half the populations to propagate into the next generation. The populations to propagate were picked either randomly ,representing drift controls, or were the populations with the greatest turbidity, representing selection. Population propagation involved resuspension, transfer into fresh buffer, feeding with an amphiphile stock, and then incubating for the next 24 hours. In three replicate experiments run for at least 10 generations, we observed consistently greater turbidity in selection lineages compared to drift, as well as a reduction in the heritability (i.e., the correlation between parent and offspring turbidities). We conducted additional experiments to evaluate whether this response to selection is caused by a simple carryover effect or reflects cooperative dynamics, where vesicles from the parental generation affect newly formed vesicles in the offspring generation. The response to selection is much lower if we omitted the resuspension step and/or if we did not feed transfers with amphiphiles but instead mixed them we pre-formed vesicles. Combined with imaging and other analyses of the resuspension and feeding process, these results suggest that cooperative vesicle dynamics occur, where a small number of intact vesicles from a parental generation alters the dynamics of new vesicle formation following food addition. Overall, this study represents the first experimental finding of a response to artificial selection in prebiotic chemistry.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1"
+    ],
+    "matched_keywords": [
+      "evolution",
+      "prebiotic"
+    ],
+    "analysis_result": {
+      "score": 90,
+      "summary": "In replicated selection experiments, fatty-acid vesicle populations show an increased turbidity phenotype consistent with emergent cooperative, inheritance-like dynamics during growth/division\u2014supporting the plausibility of pre-genetic (protocell) evolution in prebiotic chemistry."
+    }
+  },
+  {
     "title": "X-ray spectra provide sharpest image to date of a rapidly spinning black hole",
     "summary": "The X-Ray Imaging and Spectroscopy Mission (XRISM), a joint mission between the Japanese Aerospace Exploration Agency (JAXA) and NASA, launched on Sept. 7th, 2023. Its advanced imaging filters and spectrometers were designed to study black holes and neutron stars and detect the hot plasma in the intergalactic medium. Alongside the European Space Agency's (ESA) X-ray Multi-Mirror Mission Newton (XMM-Newton) and NASA's Nuclear Spectroscopic Telescope Array (NuSTAR), XRISM has provided the sharpest-ever X-ray spectrum of the iconic MCG\u20136-30-15.",
     "url": "https://phys.org/news/2026-01-ray-spectra-sharpest-image-date.html",
