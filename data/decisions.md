@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111132345&v=2.18.0.post22+67771e2) |
 | ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 11 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-11-january-2026-overland-traverse-to-lake-untersee.html) |
 | ai_scored | 5 | [As puzzling as a platypus: The JWST finds some hard to categ](https://phys.org/news/2026-01-puzzling-platypus-jwst-hard-categorize.html) |
 | ai_scored | 0 | [Early-life supplementation of poultry-derived lactobacilli d](https://www.nature.com/articles/s41598-026-35177-2) |
