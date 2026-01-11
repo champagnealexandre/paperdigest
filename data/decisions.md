@@ -1,5 +1,151 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Reactive oxygen species drove red lineage phytoplankton to d](https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R) |
+| ai_scored | 50 | [Repeated losses of self-fertility shaped heterozygosity and ](https://www.pnas.org/doi/abs/10.1073/pnas.2525679123?af=R) |
+| ai_scored | 30 | [Early life-stage thermal resilience is determined by climate](https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R) |
+| ai_scored | 15 | [Daily briefing: Octopus-inspired synthetic ‘skin’ changes ap](https://www.nature.com/articles/d41586-026-00080-3) |
+| ai_scored | 40 | [Deep evolutionary conservation of a sex-determining locus wi](https://www.pnas.org/doi/abs/10.1073/pnas.2522417123?af=R) |
+| ai_scored | 5 | [Sex-allocation trade-offs and their genetic architecture rev](https://www.pnas.org/doi/abs/10.1073/pnas.2427240123?af=R) |
+| ai_scored | 25 | [3D genome architecture regulates the traffic of transcriptio](https://www.biorxiv.org/content/10.64898/2026.01.06.698019v1?rss=1) |
+| ai_scored | 55 | [Design and self-assembly of cytomotive filaments](https://www.biorxiv.org/content/10.64898/2026.01.07.698144v1?rss=1) |
+| ai_scored | 5 | [The Red Rice Bran Extract (RRBE) Mitigates Photoaging by Tar](https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1) |
+| ai_scored | 10 | [Functional evolution of olfactory indolergic receptors in Di](https://www.biorxiv.org/content/10.64898/2026.01.06.697762v1?rss=1) |
+| ai_scored | 50 | [3D confinement reshapes RNA folding and enhances circularisa](https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1) |
+| ai_scored | 40 | [Sequential evolution of antidote and toxin links genetic inc](https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1) |
+| ai_scored | 50 | [The dynamics of barrier locus accumulation during speciation](https://www.biorxiv.org/content/10.64898/2026.01.07.698084v1?rss=1) |
+| ai_scored | 25 | [Tracing the Neanderthal-Modern Human hybrid zone using paleo](https://www.biorxiv.org/content/10.64898/2026.01.06.697899v1?rss=1) |
+| ai_scored | 25 | [Functional Analyses of Histone Methyltransferases in Sea Lam](https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1) |
+| ai_scored | 30 | [Genomic basis of adaptation to constant and fluctuating envi](https://www.biorxiv.org/content/10.64898/2026.01.08.698337v1?rss=1) |
+| ai_scored | 55 | [Novel genes arise from genomic deletions across the bacteria](https://www.biorxiv.org/content/10.64898/2026.01.05.697752v1?rss=1) |
+| ai_scored | 48 | [High gene flow in Atlantic vent shrimp species with multiple](https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1) |
+| ai_scored | 55 | [In silico prediction of metabolic trait robustness in microb](https://www.biorxiv.org/content/10.64898/2026.01.09.698552v1?rss=1) |
+| ai_scored | 30 | [Compensatory evolution facilitates loss of prfB autoregulati](https://www.biorxiv.org/content/10.64898/2026.01.08.698412v1?rss=1) |
+| ai_scored | 25 | [The cap-independent translational regulation of NbRabGAP1 in](https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1) |
+| ai_scored | 15 | [Telomere length can be estimated from fish scales](https://www.biorxiv.org/content/10.64898/2026.01.07.698083v1?rss=1) |
+| ai_scored | 20 | [DNA end-resection is stimulated by an interaction between BR](https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1) |
+| ai_scored | 30 | [Kinetochore Homeostasis is Maintained by Coordinated Chromat](https://www.biorxiv.org/content/10.64898/2026.01.07.698278v1?rss=1) |
+| ai_scored | 30 | [Novel estimation of memory in molecular dynamics with extend](https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1) |
+| ai_scored | 30 | [Molecular signatures and cellular responses underlying hypox](https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1) |
+| ai_scored | 30 | [PARP1 recruits SPRTN to DNA-protein crosslinks through a con](https://www.biorxiv.org/content/10.64898/2026.01.09.698661v1?rss=1) |
+| ai_scored | 15 | [Chromatin context-dependent deacetylation by the asymmetric ](https://www.biorxiv.org/content/10.64898/2026.01.08.698523v1?rss=1) |
+| ai_scored | 15 | [Crystal structure of the V. parahaemolyticus ToxS dimer sugg](https://www.biorxiv.org/content/10.64898/2026.01.06.697910v1?rss=1) |
+| ai_scored | 45 | [Ploidy-dependent modulation of DNA replication kinetics in X](https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1) |
+| ai_scored | 18 | [Single-nucleotide resolution profiling reveals dynamic and s](https://www.biorxiv.org/content/10.64898/2026.01.09.697937v1?rss=1) |
+| ai_scored | 40 | [A Dynamic Search Mechanism Enables APE1 to Identify AP-Sites](https://www.biorxiv.org/content/10.64898/2026.01.06.697944v1?rss=1) |
+| ai_scored | 25 | [Importins recognize the winged-helix fold of ETS transcripti](https://www.biorxiv.org/content/10.64898/2026.01.06.697953v1?rss=1) |
+| ai_scored | 60 | [Novel Extended Tetraether Lipids Found in a High-CO2 Geyser](https://www.biorxiv.org/content/10.64898/2026.01.06.697877v1?rss=1) |
+| ai_scored | 50 | [PAR-Driven Condensation Maintains Stalled Replication Fork S](https://www.biorxiv.org/content/10.64898/2026.01.07.698279v1?rss=1) |
+| ai_scored | 60 | [Stepwise DNA unwinding gates TnpB genome-editing activity](https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1) |
+| ai_scored | 45 | [A proline-rich-domain-binding single domain antibody selecti](https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1) |
+| ai_scored | 25 | [Chemical composition and antioxidant properties of Thai prop](https://www.biorxiv.org/content/10.64898/2026.01.10.698791v1?rss=1) |
+| ai_scored | 65 | [Rational design of mechanically active RNAs: de novo enginee](https://www.biorxiv.org/content/10.64898/2026.01.08.698366v1?rss=1) |
+| ai_scored | 25 | [Exploring Disordered Regions of Human Spliceosome Proteins](https://www.biorxiv.org/content/10.64898/2026.01.07.698225v1?rss=1) |
+| ai_scored | 15 | [Atlas of lysine acetylation in the mouse](https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1) |
+| ai_scored | 15 | [resolveS: An ultra-fast, memory-efficient and reference-free](https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1) |
+| ai_scored | 30 | [Mitochondrial dsRNA: A Hidden Source of Immunogenic RNA in A](https://www.biorxiv.org/content/10.64898/2026.01.06.698045v1?rss=1) |
+| ai_scored | 37 | [Molecular insights into bulk lipid transport from structural](https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1) |
+| ai_scored | 35 | [Dissecting and steering cell dynamics using spatially-inform](https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1) |
+| ai_scored | 20 | [Topoisomerase I inhibition suppresses nuclear blebbing via R](https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1) |
+| ai_scored | 30 | [The N terminus of Alpha-1 Giardin, a parasitic annexin ortho](https://www.biorxiv.org/content/10.64898/2026.01.09.697555v1?rss=1) |
+| ai_scored | 15 | [Predicting single-cell responses to novel genetic perturbati](https://www.biorxiv.org/content/10.64898/2026.01.08.698172v1?rss=1) |
+| ai_scored | 45 | [Asymmetric Division in a Two-Cell-Like State Rejuvenates Emb](https://www.biorxiv.org/content/10.64898/2026.01.07.697614v1?rss=1) |
+| ai_scored | 5 | [Impact of single-cell RNA reference selection for the deconv](https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1) |
+| ai_scored | 15 | [OKR-Cell: Open World Knowledge Aided Single-Cell Foundation ](https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1) |
+| ai_scored | 30 | [Linkage-aware inference of fitness from short-read time-seri](https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1) |
+| keyword_rejected | - | [These images explore a 'utopic' village built for teaching m](https://www.newscientist.com/article/mg26935770-200-these-images-explore-a-utopic-village-built-for-teaching-maths/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The science-fiction films to look forward to in 2026](https://www.newscientist.com/article/mg26935770-500-the-science-fiction-films-to-look-forward-to-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why my 2026 fitness resolution is all about getting mobile](https://www.newscientist.com/article/mg26935772-200-why-my-2026-fitness-resolution-is-all-about-getting-mobile/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [These images explore a 'utopic' village built for teaching m](https://www.newscientist.com/article/mg26935770-200-these-images-explore-a-utopic-village-built-for-teaching-maths/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The science-fiction films to look forward to in 2026](https://www.newscientist.com/article/mg26935770-500-the-science-fiction-films-to-look-forward-to-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why my 2026 fitness resolution is all about getting mobile](https://www.newscientist.com/article/mg26935772-200-why-my-2026-fitness-resolution-is-all-about-getting-mobile/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [These images explore a 'utopic' village built for teaching m](https://www.newscientist.com/article/mg26935770-200-these-images-explore-a-utopic-village-built-for-teaching-maths/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The science-fiction films to look forward to in 2026](https://www.newscientist.com/article/mg26935770-500-the-science-fiction-films-to-look-forward-to-in-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why my 2026 fitness resolution is all about getting mobile](https://www.newscientist.com/article/mg26935772-200-why-my-2026-fitness-resolution-is-all-about-getting-mobile/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Daily briefing: Animals without brains sleep too — hinting a](https://www.nature.com/articles/d41586-026-00047-4) |
+| keyword_rejected | - | [Daily briefing: How 400-year-old sharks keep their vision sh](https://www.nature.com/articles/d41586-026-00064-3) |
+| keyword_rejected | - | [Linking brain and behavior states in Zebrafish Larvae locomo](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013762) |
+| keyword_rejected | - | [TEPEAK: A novel method for identifying and characterizing po](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013122) |
+| keyword_rejected | - | [Biologically-constrained spiking neural network for neuromod](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013866) |
+| keyword_rejected | - | [Correction: Quantifying microbial interactions based on comp](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013876) |
+| keyword_rejected | - | [Correction: SpaMWGDA: Identifying spatial domains of spatial](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013877) |
+| keyword_rejected | - | [CoFormerSurv: Collaborative transformer for multi-omics surv](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013875) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111072520&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Can paleontologists pinpoint the dawn of the dinosaurs?](https://www.pnas.org/doi/abs/10.1073/pnas.2535891123?af=R) |
+| keyword_rejected | - | [Museum collections provide a temporal record of past genetic](https://www.pnas.org/doi/abs/10.1073/pnas.2530586122?af=R) |
+| keyword_rejected | - | [Mutation rate variability in viral populations: Implications](https://www.pnas.org/doi/abs/10.1073/pnas.2523734123?af=R) |
+| keyword_rejected | - | [Biological causes and impacts of rugged tree landscapes in p](https://www.pnas.org/doi/abs/10.1073/pnas.2510938123?af=R) |
+| keyword_rejected | - | [Primate gut microbiota induce evolutionarily salient changes](https://www.pnas.org/doi/abs/10.1073/pnas.2426232122?af=R) |
+| keyword_rejected | - | [Erratum: Decoding Extracellular Protein Glycosylation in Hum](https://www.annualreviews.org/content/journals/10.1146/annurev-ac-18-010726-200001?TRACK=RSS) |
+| keyword_rejected | - | [MetaNetMap: automatic mapping of metabolomic data onto metab](https://www.biorxiv.org/content/10.64898/2026.01.05.697697v1?rss=1) |
+| keyword_rejected | - | [Complement Factor H (Y402H) polymorphism for age-related mac](https://www.biorxiv.org/content/10.64898/2026.01.06.697989v1?rss=1) |
+| keyword_rejected | - | [All roads lead to Rome: Emergence of Mechanistic Divergence ](https://www.biorxiv.org/content/10.64898/2026.01.05.697796v1?rss=1) |
+| keyword_rejected | - | [Capturing secondary structure in coarse grained intrinsicall](https://www.biorxiv.org/content/10.64898/2026.01.06.697719v1?rss=1) |
+| keyword_rejected | - | [Accelerated sampling of protein dynamics using BioEmu augmen](https://www.biorxiv.org/content/10.64898/2026.01.07.698041v1?rss=1) |
+| keyword_rejected | - | [Valency-driven division of labor balances chromatin compacti](https://www.biorxiv.org/content/10.64898/2026.01.06.698048v1?rss=1) |
+| keyword_rejected | - | [Small molecule stabilization of diverse amyloidogenic immuno](https://www.biorxiv.org/content/10.64898/2026.01.07.698275v1?rss=1) |
+| keyword_rejected | - | [Disulfide engineering reveals unexpected pro- and anti-aggre](https://www.biorxiv.org/content/10.64898/2026.01.07.698305v1?rss=1) |
+| keyword_rejected | - | [Probing the scalability of ultra stable catch bond complexes](https://www.biorxiv.org/content/10.64898/2026.01.08.695900v1?rss=1) |
+| keyword_rejected | - | [Single-molecule identification of full-length proteins with ](https://www.biorxiv.org/content/10.64898/2026.01.08.698148v1?rss=1) |
+| keyword_rejected | - | [Network of Interactions between the Tumor Necrosis Factor Su](https://www.biorxiv.org/content/10.64898/2026.01.08.698460v1?rss=1) |
+| keyword_rejected | - | [CD2AP's structure and oligomerization are compromised by the](https://www.biorxiv.org/content/10.64898/2026.01.08.698362v1?rss=1) |
+| keyword_rejected | - | [AlphaFold3-based modeling uncovers the dynamic structural in](https://www.biorxiv.org/content/10.64898/2026.01.09.698746v1?rss=1) |
+| keyword_rejected | - | [Overcoming steric inhibition of antibody-dependent phagocyto](https://www.biorxiv.org/content/10.64898/2026.01.09.698749v1?rss=1) |
+| keyword_rejected | - | [Drivers of systemic male-female allele frequency divergence ](https://www.biorxiv.org/content/10.64898/2026.01.06.698007v1?rss=1) |
+| keyword_rejected | - | [Lethal epistasis maintains strong linkage disequilibrium bet](https://www.biorxiv.org/content/10.64898/2026.01.08.698410v1?rss=1) |
+| keyword_rejected | - | [ABC_GP_IPM:A Python package for applying GP and ABC to Integ](https://www.biorxiv.org/content/10.64898/2026.01.08.698488v1?rss=1) |
+| keyword_rejected | - | [Understanding the biogeographic processes behind the accumul](https://www.biorxiv.org/content/10.64898/2026.01.09.697399v1?rss=1) |
+| keyword_rejected | - | [Spatial inference of ancestor locations suggests northern re](https://www.biorxiv.org/content/10.64898/2026.01.09.698529v1?rss=1) |
+| keyword_rejected | - | [Inferring the demographic history of coppery titi monkeys (P](https://www.biorxiv.org/content/10.64898/2026.01.09.698678v1?rss=1) |
+| keyword_rejected | - | [A phylogenomic framework for avian feather lice (Phthirapter](https://www.biorxiv.org/content/10.64898/2026.01.09.698582v1?rss=1) |
+| keyword_rejected | - | [Siglec-7 and -15 recognize repeated clustered sulfo-sialo O-](https://www.biorxiv.org/content/10.64898/2026.01.07.698156v1?rss=1) |
+| keyword_rejected | - | [Longitudinal Plasma Proteome Changes Before and After Cathet](https://www.biorxiv.org/content/10.64898/2026.01.07.698107v1?rss=1) |
+| keyword_rejected | - | [Nanobodies against the S2 region of the spike protein potent](https://www.biorxiv.org/content/10.64898/2026.01.08.698330v1?rss=1) |
+| keyword_rejected | - | [Atomic resolution cryo-EM at 200 keV](https://www.biorxiv.org/content/10.64898/2026.01.09.698548v1?rss=1) |
+| keyword_rejected | - | [Dual-mode ClfA-targeting DARPin biologics protect against di](https://www.biorxiv.org/content/10.64898/2026.01.09.698026v1?rss=1) |
+| keyword_rejected | - | [In-Depth Characterization of Stem Cell Potency and Genotoxic](https://www.biorxiv.org/content/10.64898/2026.01.08.698401v1?rss=1) |
+| keyword_rejected | - | [Mechanistic insights into E. coli recovery from growth arres](https://www.biorxiv.org/content/10.64898/2026.01.09.698670v1?rss=1) |
+| keyword_rejected | - | [Heterogeneous causes of acute respiratory distress syndrome ](https://www.biorxiv.org/content/10.64898/2026.01.09.698377v1?rss=1) |
+| keyword_rejected | - | [MOV10 inhibits SADS-CoV replication by enhancing TRIM24-medi](https://www.biorxiv.org/content/10.64898/2026.01.09.698592v1?rss=1) |
+| keyword_rejected | - | [Discovery of a  cluster in the PRRSV Nsp1α leader protease r](https://www.biorxiv.org/content/10.64898/2026.01.06.697956v1?rss=1) |
+| keyword_rejected | - | [AlphaFold3 predictions of novel GLI-SUFU interfaces identify](https://www.biorxiv.org/content/10.64898/2026.01.06.698042v1?rss=1) |
+| keyword_rejected | - | [TBK1 restricts IRGQ-mediated autophagy](https://www.biorxiv.org/content/10.64898/2026.01.07.698103v1?rss=1) |
+| keyword_rejected | - | [Redox hysteresis controls the NADH-dependent reduction of cy](https://www.biorxiv.org/content/10.64898/2026.01.08.698363v1?rss=1) |
+| keyword_rejected | - | [Simultaneous Capillary Electrophoresis - Mass Spectrometry p](https://www.biorxiv.org/content/10.64898/2026.01.08.698462v1?rss=1) |
+| keyword_rejected | - | [Unlocking Ultrasensitive Phosphoproteomics of Nanoscale Samp](https://www.biorxiv.org/content/10.64898/2026.01.08.698355v1?rss=1) |
+| keyword_rejected | - | [Uncompetitive Allosteric Inhibitor of Mitochondrial Creatine](https://www.biorxiv.org/content/10.64898/2026.01.08.696683v1?rss=1) |
+| keyword_rejected | - | [Structural basis for a phosphoinositide-driven mTORC2-AKT po](https://www.biorxiv.org/content/10.64898/2026.01.08.698367v1?rss=1) |
+| keyword_rejected | - | [Proteomics Defines Shared and Divergent Alterations in the R](https://www.biorxiv.org/content/10.64898/2026.01.08.698419v1?rss=1) |
+| keyword_rejected | - | [On-slide Preparation of Caenorhabditis elegans Towards Quant](https://www.biorxiv.org/content/10.64898/2026.01.08.698490v1?rss=1) |
+| keyword_rejected | - | [Investigating Quinclorac Binding to Human Serum Albumin usin](https://www.biorxiv.org/content/10.64898/2026.01.08.698511v1?rss=1) |
+| keyword_rejected | - | [GPCR kinase 3 phosphorylates atypical chemokine receptor 4 i](https://www.biorxiv.org/content/10.64898/2026.01.09.698634v1?rss=1) |
+| keyword_rejected | - | [Structure of HIV-1 Env glycoprotein on virions reveals an al](https://www.biorxiv.org/content/10.64898/2026.01.09.698652v1?rss=1) |
+| keyword_rejected | - | [TSTScope Unifies Single-Cell Multi-Omics to Identify Functio](https://www.biorxiv.org/content/10.64898/2026.01.08.698283v1?rss=1) |
+| keyword_rejected | - | [Context-aware Multi-Property Antibody Predictor: a Novel Fra](https://www.biorxiv.org/content/10.64898/2026.01.07.698270v1?rss=1) |
+| keyword_rejected | - | [msmu: a Python toolkit for modular and traceable LC-MS prote](https://www.biorxiv.org/content/10.64898/2026.01.07.698308v1?rss=1) |
+| keyword_rejected | - | [Deep Learning-Driven Fragment Ion Selection for Improved Qua](https://www.biorxiv.org/content/10.64898/2026.01.08.698341v1?rss=1) |
+| keyword_rejected | - | [De novo protein ligand design including protein flexibility ](https://www.biorxiv.org/content/10.64898/2026.01.08.698398v1?rss=1) |
+| keyword_rejected | - | [Benchmarking Peptide Spectral Library Search](https://www.biorxiv.org/content/10.64898/2026.01.08.698418v1?rss=1) |
+| keyword_rejected | - | [Efficient training of neural networks using natural vectors ](https://www.biorxiv.org/content/10.64898/2026.01.08.693543v1?rss=1) |
+| keyword_rejected | - | [Stitching genomics data to protein structures: Virulence fac](https://www.biorxiv.org/content/10.64898/2026.01.09.698596v1?rss=1) |
+| keyword_rejected | - | [Synthetic data enables human-grade microtubule analysis with](https://www.biorxiv.org/content/10.64898/2026.01.09.698597v1?rss=1) |
+| keyword_rejected | - | [CIPHER: An end-to-end framework for designing optimized aggr](https://www.biorxiv.org/content/10.64898/2026.01.08.698503v1?rss=1) |
+| keyword_rejected | - | [Regulation of gastric cancer progression by immune-related t](https://www.biorxiv.org/content/10.64898/2026.01.08.698361v1?rss=1) |
+| keyword_rejected | - | [The practical impact of numerical variability on structural ](https://www.biorxiv.org/content/10.64898/2026.01.09.698203v1?rss=1) |
+| keyword_rejected | - | [Love-thy-neighbor: Neural networks for tracking and lineage ](https://www.biorxiv.org/content/10.64898/2026.01.09.698579v1?rss=1) |
+| keyword_rejected | - | [Unifying constraints linking protein folding and native dyna](https://www.biorxiv.org/content/10.64898/2026.01.08.698426v1?rss=1) |
+| keyword_rejected | - | [SegJointGene: joint cell segmentation and spatial gene prior](https://www.biorxiv.org/content/10.64898/2026.01.08.698474v1?rss=1) |
+| keyword_rejected | - | [A kinome inhibitor screen implicates adhesion and growth fac](https://www.biorxiv.org/content/10.64898/2026.01.06.697929v1?rss=1) |
+| keyword_rejected | - | [Optimizing Post-Transplantation Detection of Subcutaneously ](https://www.biorxiv.org/content/10.64898/2026.01.06.697969v1?rss=1) |
+| keyword_rejected | - | [Distinct pools of CENP-A and CENP-C support unique phases of](https://www.biorxiv.org/content/10.64898/2026.01.07.698108v1?rss=1) |
+| keyword_rejected | - | [DAPK1-mediated parkin inactivation enhances neurotoxicity vi](https://www.biorxiv.org/content/10.64898/2026.01.07.698295v1?rss=1) |
+| keyword_rejected | - | [PIGBOS-CLCC1 Interaction Shapes Cellular Calcium Dynamics an](https://www.biorxiv.org/content/10.64898/2026.01.08.697870v1?rss=1) |
+| keyword_rejected | - | [HSF1-dependent, long-range directional HSPA1 gene motion to ](https://www.biorxiv.org/content/10.64898/2026.01.07.698255v1?rss=1) |
+| keyword_rejected | - | [Heparan sulfate-function is essential for Integrin-dependent](https://www.biorxiv.org/content/10.64898/2026.01.08.697362v1?rss=1) |
+| keyword_rejected | - | [Restoring Shugoshin 1 reduces chromosome errors in human egg](https://www.biorxiv.org/content/10.64898/2026.01.08.698387v1?rss=1) |
+| keyword_rejected | - | [SMN deficiency disrupts hepatic mitochondrial iron homeostas](https://www.biorxiv.org/content/10.64898/2026.01.08.698518v1?rss=1) |
+| keyword_rejected | - | [Early multi-omic signatures and machine learning models pred](https://www.biorxiv.org/content/10.64898/2026.01.08.698025v1?rss=1) |
+| keyword_rejected | - | [Tubulin autoregulation controls the biosynthesis of γ-tubuli](https://www.biorxiv.org/content/10.64898/2026.01.09.698560v1?rss=1) |
+| keyword_rejected | - | [Cardiomyocyte mechanical activity counteracts intraluminal c](https://www.biorxiv.org/content/10.64898/2026.01.09.698373v1?rss=1) |
 | keyword_rejected | - | [Sepsis-associated skeletal muscle wasting is ameliorated by ](https://www.nature.com/articles/s41598-026-35815-9) |
 | keyword_rejected | - | [Numerical simulation of flow field in single-head broken-too](https://www.nature.com/articles/s41598-026-36029-9) |
 | keyword_rejected | - | [Artificial neural network as a strategy to predict rheologic](https://www.nature.com/articles/s41598-026-35795-w) |
