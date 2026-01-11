@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Launch Of Pandora Satellite And CubeSats To Explore Exoplane](https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html) |
+| keyword_rejected | - | [The transcription factor HHEX maintains glucocorticoid level](https://www.nature.com/articles/s41467-025-68257-4) |
 | ai_scored | 80 | [A programmable ribozyme for RNA signal transduction](https://www.nature.com/articles/s41467-025-68175-5) |
 | keyword_rejected | - | [Functional movement screen and asymmetries in female volleyb](https://www.nature.com/articles/s41598-026-35725-w) |
 | keyword_rejected | - | [Rapid wavefront shaping using an optical gradient acquisitio](https://www.nature.com/articles/s41467-025-68259-2) |

@@ -1,5 +1,33 @@
 [
   {
+    "title": "Launch Of Pandora Satellite And CubeSats To Explore Exoplanets",
+    "summary": "<p>A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. All three missions are set to launch Jan. 11 on a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space Force Base in [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html\">Launch Of Pandora Satellite And CubeSats To Explore Exoplanets</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html",
+    "published_date": "2026-01-11T01:13:12Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "NASA\u2019s upcoming Pandora small satellite mission will characterize exoplanet atmospheres and their host stars, providing improved atmospheric context that can support future habitability and biosignature assessments but is not directly focused on origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "The transcription factor HHEX maintains glucocorticoid levels and protects adrenals from androgen-induced lipid depletion",
+    "summary": "<p>Nature Communications, Published online: 11 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68257-4\">doi:10.1038/s41467-025-68257-4</a></p>In the adrenal cortex, cholesterol used for steroid production is stored in lipid droplets. The authors demonstrate here the importance of the transcription factor HHEX in maintaining glucocorticoid levels and protecting lipid droplets from androgen-induced lipid depletion.",
+    "url": "https://www.nature.com/articles/s41467-025-68257-4",
+    "published_date": "2026-01-11T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "A programmable ribozyme for RNA signal transduction",
     "summary": "",
     "url": "https://www.nature.com/articles/s41467-025-68175-5",
