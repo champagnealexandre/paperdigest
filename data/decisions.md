@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111161512&v=2.18.0.post22+67771e2) |
 | ai_scored | 100 | [Origins of Life: Chemistry and Evolution](https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111151849&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Mathematical analysis of metronomic chemotherapy response in](https://www.nature.com/articles/s41598-025-30446-y) |
