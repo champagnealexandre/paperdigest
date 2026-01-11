@@ -5,6 +5,8 @@ history_file: data/papers.json
 # Retention settings
 retention:
   feed_hours: 24           # How long papers stay in output feed (hours)
-  fetch_hours: 168         # How far back to fetch new papers (hours) - 1 week
+  fetch_hours: 168         # How far back to fetch new papers (1 week). Some feeds only provide
+                           # dates (not times), so papers default to midnight and can age out
+                           # before being captured with shorter windows.
   stale_feed_days: 30      # Days before a feed is marked as stalled
   history_max_entries: 100000  # Max papers to keep in history file
