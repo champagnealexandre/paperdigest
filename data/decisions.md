@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111141324&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Near surface generation, burial recrystallization, and struc](https://www.nature.com/articles/s41598-026-35353-4) |
+| keyword_rejected | - | [Assembly of high-performance van der Waals devices using com](https://www.nature.com/articles/s41598-025-34621-z) |
+| keyword_rejected | - | [B7-H3 and GD2 overexpression as immunotherapeutic targets in](https://www.nature.com/articles/s41598-025-34331-6) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111132345&v=2.18.0.post22+67771e2) |
 | ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 11 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-11-january-2026-overland-traverse-to-lake-untersee.html) |
 | ai_scored | 5 | [As puzzling as a platypus: The JWST finds some hard to categ](https://phys.org/news/2026-01-puzzling-platypus-jwst-hard-categorize.html) |
