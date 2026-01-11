@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 11 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-11-january-2026-overland-traverse-to-lake-untersee.html) |
+| ai_scored | 5 | [As puzzling as a platypus: The JWST finds some hard to categ](https://phys.org/news/2026-01-puzzling-platypus-jwst-hard-categorize.html) |
+| ai_scored | 0 | [Early-life supplementation of poultry-derived lactobacilli d](https://www.nature.com/articles/s41598-026-35177-2) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111121437&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Le sommeil, une fonction profondément enracinée dans l'histo](https://www.sciencesetavenir.fr/sante/sommeil/le-sommeil-une-fonction-profondement-enracinee-dans-l-histoire-evolutive-du-vivant_190072?xtor=RSS-16) |
+| keyword_rejected | - | [Radio telescopes uncover 'invisible' gas around record-shatt](https://phys.org/news/2026-01-radio-telescopes-uncover-invisible-gas.html) |
+| keyword_rejected | - | [Sarcopenia, myosteatosis and systemic immunoinflammatory ind](https://www.nature.com/articles/s41598-025-34513-2) |
+| keyword_rejected | - | [Phytochemical profiling and antioxidant potential of <i>Phlo](https://www.nature.com/articles/s41598-026-35657-5) |
+| keyword_rejected | - | [Chronic ER Stress Disrupts Mitochondrial-Associated ER Membr](https://www.biorxiv.org/content/10.64898/2026.01.09.698664v1?rss=1) |
 | ai_scored | 40 | [Structural insights into the recognition and catalysis of tR](https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1) |
 | ai_scored | 50 | [The creation of information: how evolution generates novel i](https://comdig.unam.mx/2026/01/11/the-creation-of-information-how-evolution-generates-novel-improvisations-in-the-biosphere/) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111111944&v=2.18.0.post22+67771e2) |
