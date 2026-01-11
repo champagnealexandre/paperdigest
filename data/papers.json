@@ -2,6 +2,17 @@
   {
     "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
     "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111101614&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111091548&v=2.18.0.post22+67771e2",
     "published_date": "2026-01-08T11:00:00Z",
     "source_feed": "Evol Comput",
