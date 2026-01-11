@@ -1,5 +1,38 @@
 [
   {
+    "title": "Plusieurs centaines de m\u00e9decins lib\u00e9raux s'exilent symboliquement en Belgique",
+    "summary": "Plusieurs centaines de m\u00e9decins lib\u00e9raux de bloc op\u00e9ratoire (anesth\u00e9sistes, chirurgiens, obst\u00e9trique) sont partis dimanche de Paris pour un exil symbolique de trois jours \u00e0 Bruxelles afin de protester contre la politique de sant\u00e9 du gouvernement.\n\u201cOn souhaite que le gouvernement arr\u00eate de taper sur la m\u00e9decine lib\u00e9rale\u201d, a d\u00e9clar\u00e9 Philippe Cuq pr\u00e9sident de l'organisation Le Bloc, peu de temps avant qu\u2019une vingtaine de bus ne quitte la porte Dauphine \u00e0 Paris pour la capitale belge avec les m\u00e9decins \u00e0 leur bord.\nDes m\u00e9decins lib\u00e9raux partent de Paris pour un exil symbolique de trois jours \u00e0 Bruxelles afin de protester contre la politique de sant\u00e9 du gouvernement, le 11 janvier 2026 (AFP - Kiran RIDLEY, Kiran RIDLEY)\n\u00c0 Bruxelles, \u201cnous allons travailler pour pr\u00e9parer une dizaine de propositions que nous voulons remettre au Premier ministre \u00e0 notre retour\u201d, a-t-il dit devant la presse.",
+    "url": "https://www.sciencesetavenir.fr/sante/plusieurs-centaines-de-medecins-liberaux-s-exilent-symboliquement-en-belgique_190357?xtor=RSS-16",
+    "published_date": "2026-01-11T13:07:21Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le destin tragique des Ta\u00efnos",
+    "summary": "La confrontation avec les Espagnols est un choc humain et sanitaire : en moins de quarante ans, la soci\u00e9t\u00e9 ta\u00efno dispara\u00eet.&nbsp;",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/le-destin-tragique-des-tainos_190111?xtor=RSS-4",
+    "published_date": "2026-01-11T13:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111082722&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
     "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111073919&v=2.18.0.post22+67771e2",

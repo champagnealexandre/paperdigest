@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111082722&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Le destin tragique des Taïnos](https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/le-destin-tragique-des-tainos_190111?xtor=RSS-4) |
+| keyword_rejected | - | [Plusieurs centaines de médecins libéraux s'exilent symboliqu](https://www.sciencesetavenir.fr/sante/plusieurs-centaines-de-medecins-liberaux-s-exilent-symboliquement-en-belgique_190357?xtor=RSS-16) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111073919&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111073351&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Association between triglyceride–glucose index and long-term](https://www.nature.com/articles/s41598-025-34748-z) |
