@@ -3,8 +3,34 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-11T15:16:19.549127+00:00</updated>
+  <updated>2026-01-11T16:19:55.194300+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] Complexity Digest ▶ The creation of information: how evolution generates novel improvisations in the biosphere</title>
+    <link href="https://comdig.unam.mx/2026/01/11/the-creation-of-information-how-evolution-generates-novel-improvisations-in-the-biosphere/"/>
+    <id>https://comdig.unam.mx/2026/01/11/the-creation-of-information-how-evolution-generates-novel-improvisations-in-the-biosphere/</id>
+    <updated>2026-01-11T16:07:16Z</updated>
+    <summary>Andrea Roli, Sudip Patra, Stuart Kauffman Interface Focus (2025) 15 (6): 20250038 We discuss the creation of information in the evolution of the biosphere by elaborating on the interplay between affor</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A conceptual/theoretical discussion of how evolutionary processes generate new information and meaning in the biosphere via affordances and constraints, offering broad context rather than direct origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Andrea Roli, Sudip Patra, Stuart Kauffman Interface Focus (2025) 15 (6): 20250038 We discuss the creation of information in the evolution of the biosphere by elaborating on the interplay between affordances and constraints. We maintain that information is created when affordances are seized and, therefore, at the same time, meaning is generated and a new space of possibilities is created. Read the full article at: royalsocietypublishing.org</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://comdig.unam.mx/2026/01/11/the-creation-of-information-how-evolution-generates-novel-improvisations-in-the-biosphere/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ Structural insights into the recognition and catalysis of tRNA by human NSUN2</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1</id>
+    <updated>2026-01-11T00:00:00Z</updated>
+    <summary>The human RNA m5C methyltransferase NSUN2 catalyzes site-specific cytosine methylation across diverse RNA substrates and thereby regulates a wide range of biological and physiological processes. Howev</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Structural and mechanistic study of the human tRNA m5C methyltransferase NSUN2 showing structure-driven, sequence-tolerant tRNA remodeling for cytosine methylation, with a reported small-molecule inhibitor, but only tangential relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> The human RNA m5C methyltransferase NSUN2 catalyzes site-specific cytosine methylation across diverse RNA substrates and thereby regulates a wide range of biological and physiological processes. However, the molecular basis by which NSUN2 achieves broad substrate recognition while maintaining catalytic specificity has remained unclear. Here we determine structures of human NSUN2 in both substrate-free and substrate-bound states using X-ray crystallography and cryo-electron microscopy. Structures of NSUN2 in complex with multiple tRNA substrates reveal a structure-first, sequence-tolerant strategy in which NSUN2 actively remodels tRNA architecture, exposing the buried target cytosine and positioning it within the catalytic pocket for methyl transfer. This recognition strategy enables NSUN2 to accommodate diverse tRNA substrates through a largely conserved interaction interface. Guided by these structural insights, we identify a small-molecule inhibitor that suppresses NSUN2 activity and cancer cell proliferation. Together, our findings define the molecular principles underlying NSUN2-mediated RNA m5C modification and provide a structural foundation for targeting NSUN2 in cancers.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] bioinformatics - biorXiv Preprints ▶ Linkage-aware inference of fitness from short-read time-series genomic data</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1"/>

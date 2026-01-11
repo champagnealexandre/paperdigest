@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Structural insights into the recognition and catalysis of tR](https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1) |
+| ai_scored | 50 | [The creation of information: how evolution generates novel i](https://comdig.unam.mx/2026/01/11/the-creation-of-information-how-evolution-generates-novel-improvisations-in-the-biosphere/) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111111944&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Physical exercise promotes prosocial behavior in college stu](https://www.nature.com/articles/s41598-025-33533-2) |
+| keyword_rejected | - | [Analysis of chloroplast genomes and SSR classification and i](https://www.nature.com/articles/s41598-025-33570-x) |
+| keyword_rejected | - | [Probiotics regulate the intestinal microbiome to promote gro](https://www.nature.com/articles/s41598-026-35054-y) |
+| keyword_rejected | - | [Multi-feature enhancement fusion network for remote sensing ](https://www.nature.com/articles/s41598-026-35723-y) |
+| keyword_rejected | - | [Isolation and quantification of polyphenolics, exploration o](https://www.nature.com/articles/s41598-025-32257-7) |
+| keyword_rejected | - | [A highly stringent high-throughput screening assay for ident](https://www.biorxiv.org/content/10.64898/2026.01.07.698296v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111101614&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111091548&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111082722&v=2.18.0.post22+67771e2) |
