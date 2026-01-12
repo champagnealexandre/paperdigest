@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111234629&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [A general one-step protocol to generate impermeable fluoresc](https://www.nature.com/articles/s41467-025-68134-0) |
 | ai_scored | 15 | [Lysine acetylation facilitates competitive recruitment of tr](https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1) |
 | ai_scored | 50 | [Evolutionary conservation and innovations of RNA polymerase ](https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1) |
 | ai_scored | 20 | [Single-cell RNA analysis reveals unexpected hemocyte plastic](https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1) |
