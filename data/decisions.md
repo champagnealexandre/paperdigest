@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Genomic study uncovers button mushroom's evolutionary and do](https://phys.org/news/2026-01-genomic-uncovers-button-mushroom-evolutionary.html) |
+| keyword_rejected | - | [Is there an evolutionary reason for same-sex sexual behaviou](https://www.newscientist.com/article/2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our elegant universe: rethinking nature’s deepest principle](https://www.newscientist.com/article/2509985-our-elegant-universe-rethinking-natures-deepest-principle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Is there an evolutionary reason for same-sex sexual behaviou](https://www.newscientist.com/article/2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our elegant universe: rethinking nature’s deepest principle](https://www.newscientist.com/article/2509985-our-elegant-universe-rethinking-natures-deepest-principle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Is there an evolutionary reason for same-sex sexual behaviou](https://www.newscientist.com/article/2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our elegant universe: rethinking nature’s deepest principle](https://www.newscientist.com/article/2509985-our-elegant-universe-rethinking-natures-deepest-principle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [DescriptorMedSAM: language-image fusion with multi-aspect te](https://www.nature.com/articles/s41598-025-33843-5) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112122040&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Desilylative allylation of 3,3-borylsilylpropene under metal](https://www.nature.com/articles/s41467-025-68269-0) |
+| keyword_rejected | - | [Propellane-free access to bicyclo[1.1.1]pentanes](https://www.nature.com/articles/s41467-026-68309-3) |
+| keyword_rejected | - | [STARD3 mediates non-vesicular cholesterol transport in Caeno](https://www.biorxiv.org/content/10.64898/2026.01.09.698688v1?rss=1) |
 | ai_scored | 5 | [Indian rocket hits snag during launch](https://phys.org/news/2026-01-indian-rocket-snag.html) |
 | ai_scored | 5 | [Chez les primates, des comportements homosexuels anciens et ](https://www.sciencesetavenir.fr/sciences/chez-les-primates-des-comportements-homosexuels-anciens-et-lies-a-de-multiples-facteurs_190372?xtor=RSS-18) |
 | keyword_rejected | - | [Publisher Correction: Evidence of mutually exclusive outflow](https://www.nature.com/articles/s41550-026-02780-2) |
