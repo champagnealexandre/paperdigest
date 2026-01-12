@@ -3,8 +3,62 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T21:17:37.944852+00:00</updated>
+  <updated>2026-01-12T22:16:19.856016+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] ChemRxiv ▶ Airflow-Driven Programmable Chirality Control: From Sub-1 nm GdOOH Nanowires to Reversible Macroscopic Helical Assemblies</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>We report the controlled synthesis of fully programmable macroscopic chirality in hierarchical inorganic assemblies through the introduction of directional spiral airflow during evaporation-induced se</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, chirality</p>
+<p><strong>AI Decision:</strong> Demonstrates fully programmable, reversible control of macroscopic helicity in dopant-free inorganic self-assembly via airflow shear, offering a useful physical model for studying how chiral organization could emerge without biological templating.</p>
+<p><strong>Abstract:</strong> We report the controlled synthesis of fully programmable macroscopic chirality in hierarchical inorganic assemblies through the introduction of directional spiral airflow during evaporation-induced self-assembly of sub-1 nm gadolinium oxyhydroxide (GdOOH) nanowires. Extending previous observation of spontaneous centimeter-scale macroscopic helical assemblies (MHAs) without chiral dopants and with random handedness, we demonstrated 100% deterministic control over helicity, with left- or right-handed structures formation depending on the direction of airflow. This effect is independent of gas composition, confirming a purely mechanical shear-driven mechanism. Moreover, the resulting MHAs can be readily dissolved to regenerate the homogenous nanowire dispersion, allowing repeated cycles of assembly with inverted handedness and creating true dynamic programmability in a dopant-free inorganic system. This simple yet strong approach overcomes the random nature of macroscopic inorganic chirality, revealing supramolecular-like reversibility. These findings open new pathways for engineerable chiroptical materials with potential applications in photonics, catalysis, and beyond.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] systems biology - biorXiv Preprints ▶ Proteo-transcriptomics and morphometrics of teleost cardiac cells define regulatory networks and exercise-induced cardiomyocyte hypertrophy and hyperplasia</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Zebrafish and medaka are powerful cardiovascular models, yet cellular and molecular investigations of adult heart cells have been constrained by suboptimal dissociation and characterization methods. T</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Develops a physiological-temperature single-cell isolation and proteo-transcriptomic profiling workflow for adult teleost cardiac cells, revealing exercise- and injury-induced cardiomyocyte remodeling and regulatory networks, but with no direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Zebrafish and medaka are powerful cardiovascular models, yet cellular and molecular investigations of adult heart cells have been constrained by suboptimal dissociation and characterization methods. To overcome these barriers, we developed a physiological-temperature workflow that generates high-yield, viable single-cell suspensions for FACS, imaging, and low-input molecular profiling. Using transgenic fluorescent reporters, we consistently isolate ~6,000 cardiomyocytes per adult zebrafish ventricle and ~12,000 from medaka, preserving cellular, structural, and molecular integrity. Single-cell morphometrics revealed cardiomyocyte heterogeneity and demonstrated that swimming exercise induces both hypertrophy and hyperplasia, while ventricular injury triggers expansion of regenerative gata4 cardiomyocytes. We integrated proteomics and RNA-seq from FACS-purified cells to construct cell-type-specific proteo-transcriptomic atlases. Functional enrichment, transcription factor, and network analyses identified protein hubs and regulatory circuits defining cardiomyocyte and endothelial cell identity. Our platform delivers cell-type-resolved molecular datasets of adult teleost cardiac cells, establishing a systems-level resource for heart regeneration research, cardiovascular disease modeling, and drug discovery.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] Phys.org: Evolution News ▶ Fruit flies&#x27; embryonic stage reveals that climate adaptation begins early</title>
+    <link href="https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html"/>
+    <id>https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html</id>
+    <updated>2026-01-12T21:57:31Z</updated>
+    <summary>As the climate changes, scientists are concerned about how well plants and animals will adapt to rapid warming. A new University of Vermont study has explored the early embryonic life stage of a globa</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
+<p><strong>AI Decision:</strong> Study of temperature-driven genomic responses in early Drosophila embryogenesis informs evolutionary climate adaptation but has only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> As the climate changes, scientists are concerned about how well plants and animals will adapt to rapid warming. A new University of Vermont study has explored the early embryonic life stage of a globally common fruit fly, Drosophila melanogaster, looking at how the eggs responded to temperature variability at the genomic level.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Nitrous oxide cycling and isotopic overprinting in lake basins with contrasting mixing regimes</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Nitrous oxide (N2O) is a potent greenhouse gas and ozone-destroying substance, and lakes contribute variably to its atmospheric budget. We investigated the seasonal variability of N2O cycling in two c</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Seasonal N2O concentration and isotopomer measurements in contrasting lake mixing regimes show that simultaneous N2O production and consumption can isotopically overprint signals, complicating isotope-based interpretation of N2O sources/sinks relevant to assessing N2O as a potential biosignature gas.</p>
+<p><strong>Abstract:</strong> Nitrous oxide (N2O) is a potent greenhouse gas and ozone-destroying substance, and lakes contribute variably to its atmospheric budget. We investigated the seasonal variability of N2O cycling in two contrasting basins of Lake Lugano, Switzerland: the meromictic North Basin (NB) and the holomictic South Basin (SB). Over one full seasonal cycle, we measured N2O concentration and site-specific isotopomer compositions to assess spatio-temporal dynamics. Both basins showed near-neutral N2O exchange with the atmosphere, without clear seasonal patterns of N2O emission versus uptake (average air-water exchange flux of 0.04 ± 0.3 µmol m-2 d-1). Keeling-plot analysis indicated a nitrification-driven N2O source in the oxic water column in both basins, as inferred from its position-specific isotopic nitrogen composition. In the anoxic water column in the North Basin, N2O was persistently depleted, whereas in the deep South Basin N2O consumption was observed only during late-stage stratification. Net N2O consumption in the hypolimnia of both basins was accompanied by isotopic shifts toward lighter δ15Nbulk and δ15Nβ values, contrary to trends observed in pure cultures. These inverse apparent isotope effects suggest concurrent N2O production during net consumption. Using a simplified box-model (i.e., isotope mass balance) approach, we estimated that 5-17% of the consumed N2O needed to be replaced by simultaneous N2O production in order to match the observed in situ δ15Nbulk-N2O data. Our findings highlight the complexity of N2O cycling in lake systems and reveal that isotopic overprinting from simultaneous N2O production and consumption can obscure traditional isotope-based interpretations. At the same time, they underscore the value of stable isotopes in disentangling N2O production and consumption mechanisms.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ Tiny Mars&#x27;s big impact on Earth&#x27;s climate: How the red planet&#x27;s pull shapes ice ages</title>
     <link href="https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html"/>
@@ -5886,17 +5940,5 @@
 <p><strong>Abstract:</strong> NASA announced Monday the selection of industry proposals to advance technologies for the agency’s Habitable Worlds Observatory concept – the first mission that would directly image Earth-like planets around stars like our Sun and study the chemical composition of their atmospheres for signs of life. This flagship space telescope also would enable wide-ranging studies of […] The post NASA Selects Proposals To Advance The Habitable Worlds Observatory Astrobiology Mission Concept appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/nasa-selects-proposals-to-advance-the-habitable-worlds-observatory-astrobiology-mission-concept.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] phys.org - Space News ▶ Thin ice may have protected lake water on frozen Mars</title>
-    <link href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html"/>
-    <id>https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html</id>
-    <updated>2026-01-05T21:57:38Z</updated>
-    <summary>Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, mars, astrobio*</p>
-<p><strong>AI Decision:</strong> Modeling suggests thin ice cover could have insulated small ancient Martian lakes enough to keep liquid water stable for decades despite subfreezing mean air temperatures, increasing localized habitability potential.</p>
-<p><strong>Abstract:</strong> Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

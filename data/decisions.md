@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Nitrous oxide cycling and isotopic overprinting in lake basi](https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [Fruit flies' embryonic stage reveals that climate adaptation](https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html) |
+| ai_scored | 0 | [Proteo-transcriptomics and morphometrics of teleost cardiac ](https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1) |
+| ai_scored | 55 | [Airflow-Driven Programmable Chirality Control: From Sub-1 nm](https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Contre une désinformation en santé "massive", le gouvernemen](https://www.sciencesetavenir.fr/sante/contre-une-desinformation-en-sante-massive-le-gouvernement-devoile-de-premiers-outils-de-riposte_190377?xtor=RSS-16) |
+| keyword_rejected | - | [Pompeii’s public baths were unhygienic until the Romans took](https://www.newscientist.com/article/2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Pompeii’s public baths were unhygienic until the Romans took](https://www.newscientist.com/article/2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112171605&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Pompeii’s public baths were unhygienic until the Romans took](https://www.newscientist.com/article/2511036-pompeiis-public-baths-were-unhygienic-until-the-romans-took-over/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Chiral Rh diene NHC Complexes and their Application in Rh-Ca](https://dx.doi.org/10.26434/chemrxiv-2026-s58zm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [In Situ Li Seed Formation Enables Uniform Plating in Anode-F](https://dx.doi.org/10.26434/chemrxiv-2026-b2t7f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Chiral Rh diene NHC Complexes and their Application in Rh-Ca](https://dx.doi.org/10.26434/chemrxiv-2026-s58zm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Quantitative Real-Time Fluorine NMR Spectroscopy for Enzyme ](https://dx.doi.org/10.26434/chemrxiv-2026-fwc2q?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Tiny Mars's big impact on Earth's climate: How the red plane](https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html) |
 | keyword_rejected | - | [Quantum computers could help sharpen images of exoplanets](https://www.newscientist.com/article/2510781-quantum-computers-could-help-sharpen-images-of-exoplanets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Quantum computers could help sharpen images of exoplanets](https://www.newscientist.com/article/2510781-quantum-computers-could-help-sharpen-images-of-exoplanets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
