@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Generative Design Of Novel Bacteriophages With Genome Langua](https://astrobiology.com/2026/01/generative-design-of-novel-bacteriophages-with-genome-language-models.html) |
+| ai_scored | 55 | [Sub-Neptune Memories I: Implications of Inefficient Mantle C](https://astrobiology.com/2026/01/sub-neptune-memories-i-implications-of-inefficient-mantle-cooling-and-silicate-rain.html) |
+| ai_scored | 45 | [GenCore: Genomic distance estimation using Locally Consisten](https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1) |
+| ai_scored | 60 | [Paving the Road to the Habitable Worlds Observatory with Hig](https://astrobiology.com/2026/01/paving-the-road-to-the-habitable-worlds-observatory-with-high-resolution-imaging-i-new-and-archival-speckle-observations-of-potential-hwo-target-stars.html) |
+| ai_scored | 50 | [Two Temperate Earth- and Neptune-sized Planets Orbiting Full](https://astrobiology.com/2026/01/two-temperate-earth-and-neptune-sized-planets-orbiting-fully-convective-m-dwarfs.html) |
+| ai_scored | 45 | [Organelle biogenesis on a synthetic bead](https://www.biorxiv.org/content/10.64898/2026.01.09.698636v1?rss=1) |
+| ai_scored | 70 | [Mars was once a 'blue planet': Ancient river deltas point to](https://phys.org/news/2026-01-mars-blue-planet-ancient-river.html) |
+| ai_scored | 55 | [Astrochemistry: JWST Finds Early-Universe Analog’s Unexpecte](https://astrobiology.com/2026/01/astrochemistry-jwst-finds-early-universe-analogs-unexpected-talent-for-making-dust.html) |
+| ai_scored | 35 | [A Comprehensive Study Of The Relations Between The Propertie](https://astrobiology.com/2026/01/a-comprehensive-study-of-the-relations-between-the-properties-of-planetary-systems-and-the-chemical-compositions-of-their-host-stars.html) |
+| keyword_rejected | - | [Trump et le Groenland : ambitions minières, de sécurité ou t](https://www.sciencesetavenir.fr/nature-environnement/climat/donald-trump-et-le-groenland-ambitions-minieres-de-securite-ou-tentation-imperiale_190373?xtor=RSS-15) |
+| keyword_rejected | - | [Cross-species evidence for a developmental origin of adult h](https://www.nature.com/articles/s41467-026-68343-1) |
+| keyword_rejected | - | [Small molecule splicing modulators that disrupt O-GlcNAc hom](https://www.nature.com/articles/s41467-025-68271-6) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112132746&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Towards automated gating of clinical flow cytometry data](https://www.biorxiv.org/content/10.64898/2026.01.10.698765v1?rss=1) |
 | ai_scored | 20 | [Genomic study uncovers button mushroom's evolutionary and do](https://phys.org/news/2026-01-genomic-uncovers-button-mushroom-evolutionary.html) |
 | keyword_rejected | - | [Is there an evolutionary reason for same-sex sexual behaviou](https://www.newscientist.com/article/2511053-is-there-an-evolutionary-reason-for-same-sex-sexual-behaviour/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Our elegant universe: rethinking nature’s deepest principle](https://www.newscientist.com/article/2509985-our-elegant-universe-rethinking-natures-deepest-principle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
