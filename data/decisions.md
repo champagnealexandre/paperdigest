@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Recognition in Confinement: The Dynamics of Homologous Gene ](https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112181411&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Pour protéger la santé mentale des adolescents, les réseaux ](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/reseaux-sociaux-pour-preserver-la-sante-mentale-des-adolescents-l-anses-recommande-une-refonte-des-plateformes_190371?xtor=RSS-16) |
+| keyword_rejected | - | [Effect of rotational field on thermo-acoustic and optical wa](https://www.nature.com/articles/s41598-026-35494-6) |
+| keyword_rejected | - | [Metabolic blueprints of monocultures enable prediction and d](https://www.biorxiv.org/content/10.64898/2026.01.11.698878v1?rss=1) |
+| keyword_rejected | - | [Bayesian Inference of Gene Regulatory Networks at Stochastic](https://www.biorxiv.org/content/10.64898/2026.01.10.698684v1?rss=1) |
+| keyword_rejected | - | [First inhibitor of a bacterial two-partner secretion system.](https://www.biorxiv.org/content/10.64898/2026.01.11.698920v1?rss=1) |
 | ai_scored | 50 | [Nitrous oxide cycling and isotopic overprinting in lake basi](https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Fruit flies' embryonic stage reveals that climate adaptation](https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html) |
 | ai_scored | 0 | [Proteo-transcriptomics and morphometrics of teleost cardiac ](https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1) |
