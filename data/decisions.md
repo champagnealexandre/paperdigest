@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Decoding the perfect steak: The hidden DNA behind Wagyu’s le](https://www.sciencedaily.com/releases/2026/01/260112001032.htm) |
+| ai_scored | 55 | [On a theoretical model of microdroplet redox chemistry](https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Feux en Patagonie argentine: plus de 15.000 hectares ravagés](https://www.sciencesetavenir.fr/nature-environnement/feux-en-patagonie-argentine-plus-de-15-000-hectares-ravages-depuis-lundi_190358?xtor=RSS-15) |
+| keyword_rejected | - | [Diabète de type 1: l'Union européenne approuve un premier tr](https://www.sciencesetavenir.fr/sante/diabete-de-type-1-l-union-europeenne-approuve-un-premier-traitement-de-fond_190359?xtor=RSS-16) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112032657&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Changes in platelet count as a marker of myocardial iron upt](https://www.nature.com/articles/s41598-026-35632-0) |
+| keyword_rejected | - | [A quantitative study of cytotoxic compounds using graph base](https://www.nature.com/articles/s41598-026-35728-7) |
+| keyword_rejected | - | [A validation of 3D imaging for non-invasive, tech-assisted d](https://www.nature.com/articles/s41598-026-35718-9) |
+| keyword_rejected | - | [Spin Coupling in Symmetric and Asymmetric Allyl and Phenalen](https://dx.doi.org/10.26434/chemrxiv-2026-d65ps?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Thin-Layer Electrochemistry: Visualizing the Diffusion Layer](https://dx.doi.org/10.26434/chemrxiv-2026-rz027?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Cell cycle-dependent transitions in PCP protein mobility era](https://www.biorxiv.org/content/10.64898/2026.01.11.698900v1?rss=1) |
+| keyword_rejected | - | [Circadian regulators PER1 and PER2 regulate osteoclastogenes](https://www.biorxiv.org/content/10.64898/2026.01.11.698889v1?rss=1) |
+| keyword_rejected | - | [miRNA Sensor HuR Compartmentalizes Ago2-Uncoupled miRNAs to ](https://www.biorxiv.org/content/10.64898/2026.01.10.698809v1?rss=1) |
+| keyword_rejected | - | [p62 protein pleomorphism confers tissue-specific function](https://www.biorxiv.org/content/10.64898/2026.01.10.696886v1?rss=1) |
+| keyword_rejected | - | [Blm10/PA200-activated 20S proteasomes promote α-synuclein de](https://www.biorxiv.org/content/10.64898/2026.01.11.698857v1?rss=1) |
+| keyword_rejected | - | [Interorganelle competition for linoleic acid underlies steat](https://www.biorxiv.org/content/10.64898/2026.01.11.698890v1?rss=1) |
 | ai_scored | 45 | [Copper Ligation and Nuclearity Dictate the Solution Dynamics](https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112022405&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Adsorptive performance of SPE via modified POM biochar for P](https://www.nature.com/articles/s41598-025-33048-w) |

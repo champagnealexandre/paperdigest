@@ -3,8 +3,37 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T07:24:24.118026+00:00</updated>
+  <updated>2026-01-12T08:27:09.260330+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] ChemRxiv ▶ On a theoretical model of microdroplet redox chemistry</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Microdroplet chemistry has emerged as a fascinating field. In particular, a plethora of unexpected oxidation and reduction reactions are observed at air–water interface with wide implications to chemi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> A theoretical Marcus-type model proposes that partially solvated interfacial OH− can undergo concerted electron transfer to diverse acceptors in microdroplets, making redox reactions thermodynamically favorable and near-barrierless at the air–water interface—mechanistically relevant to prebiotic/interface chemistry but not directly focused on abiogenesis.</p>
+<p><strong>Abstract:</strong> Microdroplet chemistry has emerged as a fascinating field. In particular, a plethora of unexpected oxidation and reduction reactions are observed at air–water interface with wide implications to chemical science and beyond. However, the explanation of microdroplet redox chemistry is challenging and controversial. Mechanistically, thermodynamic reversal over the bulk reaction, surprisingly fast kinetics (often less than milliseconds) and generality of a broad scope of substrates defy textbook understanding. Herein, we lay out a theoretical model of concerted interfacial electron transfer of OH- (partially solvated) + A^n → OH· (partially solvated) + A^{n-1}, rather than the conventional stepwise ionization-capture picture. Four different electron acceptors A^n (including a transition metal, an organic molecule, oxygen, ozone) are chosen to cover a wide range of experimental scenarios and chemical diversity. When A^n in the system is reduced upon receiving an electron, the accompanied product of OH· further serves as the oxidizing agent, capturing the intrinsic oxidative capacity of microdroplet. We then introduce a general energetic treatment to account for the partial solvation of OH- at heterogeneous water interface and develop a Marcus-theory-based reaction rate formalism that integrates the energetic distribution. We quantitatively analyze both the thermodynamic and the kinetic consequences of this model. For all four cases analyzed, the otherwise unfavorable thermodynamic penalty (ΔG° &gt; 0) for the bulk reaction is reversed at water interface (ΔG° &lt; 0) after a certain dehydration level. Remarkably, for all these cases, interfacial electron transfer becomes near-barrierless (ΔG° ≈ -λ, ΔG‡ ≤ 3 kcal/mol) for a substantial sub-population of partially solvated OH-. Thus, the water interface can prepare and gate a substantial donor population whose electrons are nearly ready to tunnel into a broad range of acceptors across the interface, which explains the surprisingly fast reaction rate observed in experiments. This model further predicts absolute rate constants that are in agreement with kinetic measurement on microdroplets. Finally, a phase diagram is constructed to depict the vast thermodynamic and kinetic (barrierless reaction) zones that are newly opened by the water interface, thus accounting for reaction generality. Despite its simplicity, this model provides a robust prediction for the rich redox chemistry at water interface.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] ScienceDaily - Evolutionary Biology News ▶ Decoding the perfect steak: The hidden DNA behind Wagyu’s legendary marbling</title>
+    <link href="https://www.sciencedaily.com/releases/2026/01/260112001032.htm"/>
+    <id>https://www.sciencedaily.com/releases/2026/01/260112001032.htm</id>
+    <updated>2026-01-12T07:01:13Z</updated>
+    <summary>A groundbreaking cattle genome has given researchers their clearest look yet at what makes Wagyu beef so special. By uncovering hundreds of new genes and hidden genetic variations, scientists can now </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> A high-quality Wagyu cattle genome assembly reveals previously hidden genes and variants associated with marbling and other production traits, enabling more precise livestock breeding.</p>
+<p><strong>Abstract:</strong> A groundbreaking cattle genome has given researchers their clearest look yet at what makes Wagyu beef so special. By uncovering hundreds of new genes and hidden genetic variations, scientists can now pinpoint traits linked to marbling, health, and productivity with far greater accuracy. The advance could boost profits for beef producers while improving breeding outcomes across many cattle breeds. It also sets the stage for even more comprehensive livestock genomes in the future.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://dx.doi.org/10.1038/s41467-025-65778-w">http://dx.doi.org/10.1038/s41467-025-65778-w</a></li>
+<li><a href="https://doi.org/10.1038/s41467-025-65778-w">https://doi.org/10.1038/s41467-025-65778-w</a></li>
+</ul>
+<p><a href="https://www.sciencedaily.com/releases/2026/01/260112001032.htm">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] ChemRxiv ▶ Copper Ligation and Nuclearity Dictate the Solution Dynamics and Hydrogen Evolution Activity of Discrete Mo–Cu Sulfide Clusters</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss"/>
@@ -1132,34 +1161,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698019v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.698019v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698019v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] PNAS Evolution ▶ Sex-allocation trade-offs and their genetic architecture revealed by experimental evolution</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2427240123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2427240123?af=R</id>
-    <updated>2026-01-05T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceThe theory of sex allocation has successfully predicted the sex ratios of species with separate sexes, b</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Experimental evolution study mapping the genetic architecture of male–female fitness trade-offs underlying sex-allocation theory, with only tangential relevance to origins-of-life questions via general evolutionary principles.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceThe theory of sex allocation has successfully predicted the sex ratios of species with separate sexes, but its assumption of a direct genetic trade-off between investment toward male versus female fitness has resisted empirical demonstration ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2427240123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2427240123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2427240123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] PNAS Evolution ▶ Deep evolutionary conservation of a sex-determining locus without sequence homology</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2522417123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2522417123?af=R</id>
-    <updated>2026-01-05T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceSex determination is fundamental to eukaryotic development, yet its molecular mechanisms are remarkably </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> This PNAS study finds a deeply conserved hymenopteran sex-determining genomic locus that persists over evolution despite lacking sequence homology, informing how essential developmental functions can be maintained through noncanonical genetic turnover.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceSex determination is fundamental to eukaryotic development, yet its molecular mechanisms are remarkably labile, especially in insects. Studying Hymenoptera, the order that includes ants, bees, and wasps, we identified an exception: a primary ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2522417123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2522417123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2522417123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [15] Nature ▶ Daily briefing: Octopus-inspired synthetic ‘skin’ changes appearance on demand</title>
