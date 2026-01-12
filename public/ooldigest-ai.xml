@@ -3,8 +3,88 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T14:22:03.623976+00:00</updated>
+  <updated>2026-01-12T15:22:12.849319+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ SCALPEL: A pipeline for processing large-scale spatial transcriptomics data</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Spatial transcriptomics enables the precise mapping of gene expression patterns within tissue architecture, offering unprecedented insights into cellular interactions, tissue heterogeneity, and diseas</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces SCALPEL, a computational pipeline to improve processing and atlas-scale analysis of spatial transcriptomics datasets (e.g., whole mouse brain) via better segmentation, filtering, registration, and imputation, with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Spatial transcriptomics enables the precise mapping of gene expression patterns within tissue architecture, offering unprecedented insights into cellular interactions, tissue heterogeneity, and disease pathology that are unattainable with traditional transcriptomic approaches. We present a tool for processing spatial transcriptomics data, SCALPEL (Spatial Cell Analysis, Labeling, Processing, and Expression Linking). SCALPEL is specifically designed to support the analysis of large, atlas-level datasets. Our new workflow features advanced 3D segmentation optimized for dense and heterogeneous tissues, refined filtering criteria, and transcriptome-based doublet detection to remove low-quality or artifactual cells. Cell type label transfer from existing taxonomies is further improved through updated filtering thresholds. Spatial domain detection is incorporated to capture local transcriptomic organization, and tissue sections are registered to the Allen Mouse Brain Common Coordinate Framework version 3 (CCFv3) for precise anatomical alignment. Genome-wide expression imputation from single-cell RNA-sequencing (scRNAseq) further enriches the dataset. Crucially, we benchmark the performance of this updated pipeline against a previously published version of our whole-mouse-brain (WMB) dataset (Yao et al., 2023b), demonstrating substantial improvements in cell number, expression profile clarity, and spatial registration. These advances provide a robust foundation for downstream spatial analyses and set a new standard for large-scale spatial transcriptomics studies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] phys.org - Space News ▶ NASA&#x27;s Pandora telescope will study stars in detail to learn about the exoplanets orbiting them</title>
+    <link href="https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html"/>
+    <id>https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html</id>
+    <updated>2026-01-12T14:37:22Z</updated>
+    <summary>On Jan. 11, 2026, I watched anxiously at the tightly controlled Vandenberg Space Force Base in California as an awe-inspiring SpaceX Falcon 9 rocket carried NASA&#x27;s new exoplanet telescope, Pandora, in</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Describes NASA’s Pandora telescope mission to better characterize host stars to improve interpretation of exoplanet observations, a broad-enabling contribution to astrobiology/habitability rather than a direct origins-of-life study.</p>
+<p><strong>Abstract:</strong> On Jan. 11, 2026, I watched anxiously at the tightly controlled Vandenberg Space Force Base in California as an awe-inspiring SpaceX Falcon 9 rocket carried NASA&#x27;s new exoplanet telescope, Pandora, into orbit.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [90] ChemRxiv ▶ Hierarchical Self-Assembly in Minimalistic Diacetylenes: From Coacervates to Fibers</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremend</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, life, origin(s) of life</p>
+<p><strong>AI Decision:</strong> Minimal diacetylene amphiphiles are shown to undergo environment-dependent liquid–liquid phase separation into coacervates and reversibly transition to fibrillar (polymerized) assemblies, linking small-molecule self-assembly, compartmentalization, and morphology switching in a plausible origins-of-life-relevant model system.</p>
+<p><strong>Abstract:</strong> Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremendous efforts have been invested in designing small molecules capable of undergoing LLPS under physiological conditions. LLPS is gaining increasing importance due to its role in the origin of life and as arbiters of chemical reactions. The fundamental chemical logic from molecular structure to LLPS formation is not fully known. Therefore, rational design of short molecules for LLPS formation is at its infancy. This work presents the synthesis of four designer diacetylenes and their unique topochemical reactivity and ability towards environment dependent coacervation. Here, we propose diacetylene scaffold as an excellent spacer for creating diverse morphology as illustrated with molecules that assemble to coacervates and fibers. Diacetylene with an ortho-pyridyl substituent functions as a pH-responsive molecular switch, reversibly transitioning between autofluorescent coacervates and fibrillar assemblies. This presents a rare example of a minimalistic chemical system that correlates morphology, LLPS and polymerization. Additionally, we observed two different mechanisms of fibrillation of diacetylenes. DA1 and DA4 form fibrillar aggregates directly from monomers. DA3 undergoes LLPS to form condensates before transitioning to fibers closely coinciding with the recently proposed condensation mechanism of amyloid assembly.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Host cell potassium ion channels KCNJ2 (KIR2.1), KCNJ13 (KIR7.1) and KCNMA1 (BKCa) mediate escape of Bunyamwera virus from late endosomal compartments</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>The Orthobunyavirus genus within the Peribunyaviridae family of enveloped arthropod-borne negative-sense RNA viruses includes species associated with serious or fatal disease in both animals and human</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> A cell biology/virology study showing specific host potassium ion channels (KCNJ2, KCNJ13, KCNMA1) regulate late-endosomal escape of Bunyamwera virus, with limited direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> The Orthobunyavirus genus within the Peribunyaviridae family of enveloped arthropod-borne negative-sense RNA viruses includes species associated with serious or fatal disease in both animals and humans such as Schmallenberg, La Crosse and Oropouche viruses. Orthobunyaviruses (OBVs) are internalised into cells by endocytosis and release their genomes following fusion with late endosomal (LE) membranes, triggered by low pH of the luminal milieu. There is mounting evidence to suggest OBV endosomal escape is also influenced by potassium ions (K+), which increase in concentration as endosomes mature. Endosomal K+ flux is controlled by cellular K+ channels, and we previously showed that K+ channel blockade using broad spectrum pharmacological inhibition abrogates OBV infection, with virions trapped within the endosomes. However, the K+ channels regulating this process are unknown. Herein, to identify the K+ channels involved, we studied Bunyamwera virus (BUNV), the prototypical OBV, and screened a siRNA library targeting 342 human ion channels. We identified 19 K+ channels whose knockdown inhibited BUNV gene expression by over 50%, with at least seven channels affecting BUNV at the entry stage, suggesting they exert a combinatorial influence. Of these seven channels, we used both pharmacological inhibition and genetic channel manipulation to show that OBV escape from CD63- and Rab7-positive LEs is controlled by KCNJ2 (KIR 2.1), KCNJ13 (KIR7.1) and KCNMA1 (BKCa). These studies add to the understanding of host factors influencing OBV entry, regulation of endosomal ion flux, and could aid in the design or repurposing of therapeutics for the treatment of OBV-associated disease.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [90] Organic Chemistry on ChemRxiv ▶ Hierarchical Self-Assembly in Minimalistic Diacetylenes: From Coacervates to Fibers</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremend</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, life, origin(s) of life</p>
+<p><strong>AI Decision:</strong> This ChemRxiv study demonstrates a minimal diacetylene-based system that undergoes environment-dependent liquid–liquid phase separation into coacervates and reversibly transitions to fibrillar assemblies, offering a chemically tractable model linking LLPS, morphology, and polymerization mechanisms relevant to origins-of-life protocell-like compartmentalization.</p>
+<p><strong>Abstract:</strong> Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremendous efforts have been invested in designing small molecules capable of undergoing LLPS under physiological conditions. LLPS is gaining increasing importance due to its role in the origin of life and as arbiters of chemical reactions. The fundamental chemical logic from molecular structure to LLPS formation is not fully known. Therefore, rational design of short molecules for LLPS formation is at its infancy. This work presents the synthesis of four designer diacetylenes and their unique topochemical reactivity and ability towards environment dependent coacervation. Here, we propose diacetylene scaffold as an excellent spacer for creating diverse morphology as illustrated with molecules that assemble to coacervates and fibers. Diacetylene with an ortho-pyridyl substituent functions as a pH-responsive molecular switch, reversibly transitioning between autofluorescent coacervates and fibrillar assemblies. This presents a rare example of a minimalistic chemical system that correlates morphology, LLPS and polymerization. Additionally, we observed two different mechanisms of fibrillation of diacetylenes. DA1 and DA4 form fibrillar aggregates directly from monomers. DA3 undergoes LLPS to form condensates before transitioning to fibers closely coinciding with the recently proposed condensation mechanism of amyloid assembly.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [75] phys.org - Space News ▶ How astronomers plan to detect the signatures of alien life in the atmospheres of distant planets</title>
+    <link href="https://phys.org/news/2026-01-astronomers-signatures-alien-life-atmospheres.html"/>
+    <id>https://phys.org/news/2026-01-astronomers-signatures-alien-life-atmospheres.html</id>
+    <updated>2026-01-12T15:16:38Z</updated>
+    <summary>We live in a very exciting time: answers to some of the oldest questions humanity has conceived are within our grasp. One of these is whether Earth is the only place that harbors life.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, earth</p>
+<p><strong>AI Decision:</strong> Overview of how upcoming astronomical observations aim to detect atmospheric biosignatures on exoplanets, framing the broader astrobiological search for life beyond Earth rather than origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> We live in a very exciting time: answers to some of the oldest questions humanity has conceived are within our grasp. One of these is whether Earth is the only place that harbors life.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-astronomers-signatures-alien-life-atmospheres.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [25] Scientific American ▶ A Bizarre Exoplanet Breaks Solar System Rules</title>
     <link href="https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/"/>
@@ -5631,94 +5711,5 @@
 <p><strong>Abstract:</strong> This image was captured by Curiosity’s Mars Hand Lens Imager (MAHLI), a camera on the end of its robotic arm, on June 4, 2024, the 4,205th Martian day, or sol, of the mission. This rock was nicknamed “Convict Lake” after a location in California’s Sierra Nevada. Curiosity’s Alpha Particle X-Ray Spectrometer (APXS) found that the […] The post Mars Curiosity Rover Observes Sulfur Crystals appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/mars-curiosity-rover-observes-sulfur-crystals.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Europa’s Ice Thickness And Subsurface Structure Characterized By The Juno Microwave Radiometer</title>
-    <link href="https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html"/>
-    <id>https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html</id>
-    <updated>2026-01-05T15:01:00Z</updated>
-    <summary>Jupiter’s moon Europa is thought to harbour a saltwater ocean beneath a variously disrupted ice shell, and it is, thus, one of the highest priority astrobiology targets in the Solar System. Estimates </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, astrobio*</p>
-<p><strong>AI Decision:</strong> Juno’s microwave radiometer constraints on Europa’s ice-shell thickness and subsurface structure refine estimates of ocean accessibility and potential habitability, informing astrobiology-relevant boundary conditions rather than directly addressing origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Jupiter’s moon Europa is thought to harbour a saltwater ocean beneath a variously disrupted ice shell, and it is, thus, one of the highest priority astrobiology targets in the Solar System. Estimates of the ice-shell thickness range from 3 km to over 30 km, and observations by the Galileo spacecraft indicated widespread regions of ice disruption (chaotic […] The post Europa’s Ice Thickness And Subsurface Structure Characterized By The Juno Microwave Radiometer appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41550-025-02718-0">https://www.nature.com/articles/s41550-025-02718-0</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth’s Terrestrial Biosphere</title>
-    <link href="https://astrobiology.com/2026/01/seafloor-weathering-and-stochastic-outgassing-unlikely-to-significantly-shorten-the-future-lifespan-of-earths-terrestrial-biosphere.html"/>
-    <id>https://astrobiology.com/2026/01/seafloor-weathering-and-stochastic-outgassing-unlikely-to-significantly-shorten-the-future-lifespan-of-earths-terrestrial-biosphere.html</id>
-    <updated>2026-01-05T15:01:00Z</updated>
-    <summary>Current understanding suggests that as the Sun brightens in the far future, Earth’s carbonate-silicate cycle will offset increasing temperatures by drawing CO2 out of the atmosphere, ultimately leadin</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, water, astrobio*</p>
-<p><strong>AI Decision:</strong> Using carbon–silicate cycle modeling with seafloor weathering and stochastic volcanic outgassing, the authors argue these processes are unlikely to substantially shorten Earth’s remaining window for sustaining a terrestrial biosphere as solar luminosity rises.</p>
-<p><strong>Abstract:</strong> Current understanding suggests that as the Sun brightens in the far future, Earth’s carbonate-silicate cycle will offset increasing temperatures by drawing CO2 out of the atmosphere, ultimately leading to the extinction of all terrestrial plant life via either overheating or CO2 starvation. Most previous estimates put the future lifespan of Earth’s terrestrial biosphere at ∼1 […] The post Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth’s Terrestrial Biosphere appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2512.24538">https://arxiv.org/abs/2512.24538</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2512.24538">https://doi.org/10.48550/arXiv.2512.24538</a></li>
-<li><a href="https://doi.org/10.3847/2041-8213/ae2b58">https://doi.org/10.3847/2041-8213/ae2b58</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/seafloor-weathering-and-stochastic-outgassing-unlikely-to-significantly-shorten-the-future-lifespan-of-earths-terrestrial-biosphere.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ How To Build A Genome – Troubleshooting Manual For Synthetic Life Published</title>
-    <link href="https://astrobiology.com/2026/01/how-to-build-a-genome-troubleshooting-manual-for-synthetic-life-published.html"/>
-    <id>https://astrobiology.com/2026/01/how-to-build-a-genome-troubleshooting-manual-for-synthetic-life-published.html</id>
-    <updated>2026-01-05T14:59:00Z</updated>
-    <summary>Leading synthetic biologists have shared hard-won lessons from their decade-long quest to build the world’s first synthetic eukaryotic genome in a Nature Biotechnology paper out today. Their insights </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, DNA, astrobio*</p>
-<p><strong>AI Decision:</strong> Nature Biotechnology report distills practical lessons from building a synthetic eukaryotic genome, offering broad astrobiology-relevant insights into genome architecture and engineering rather than directly addressing abiogenesis or early prebiotic evolution.</p>
-<p><strong>Abstract:</strong> Leading synthetic biologists have shared hard-won lessons from their decade-long quest to build the world’s first synthetic eukaryotic genome in a Nature Biotechnology paper out today. Their insights could accelerate development of the next generation of engineered organisms, from climate-resilient crops to custom-built cell factories. “We’ve assembled a comprehensive overview of the literature on how […] The post How To Build A Genome – Troubleshooting Manual For Synthetic Life Published appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41587-025-02913-4">https://www.nature.com/articles/s41587-025-02913-4</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/how-to-build-a-genome-troubleshooting-manual-for-synthetic-life-published.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Searching For Extraterrestrial Life Advances Terrestrial Sustainability</title>
-    <link href="https://astrobiology.com/2026/01/searching-for-extraterrestrial-life-advances-terrestrial-sustainability.html"/>
-    <id>https://astrobiology.com/2026/01/searching-for-extraterrestrial-life-advances-terrestrial-sustainability.html</id>
-    <updated>2026-01-05T15:02:00Z</updated>
-    <summary>Astrobiology, while traditionally focused on understanding the origin of life on Earth and the potential for life elsewhere, offers powerful tools and insights for addressing urgent challenges on our </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, water, evolution, origin(s) of life, astrobio*</p>
-<p><strong>AI Decision:</strong> A perspective arguing that astrobiology—including origin-of-life framing and life-detection thinking—can be deliberately integrated with applied research to improve terrestrial sustainability outcomes.</p>
-<p><strong>Abstract:</strong> Astrobiology, while traditionally focused on understanding the origin of life on Earth and the potential for life elsewhere, offers powerful tools and insights for addressing urgent challenges on our planet. We call for a deliberate integration of astrobiological research with applied science. Knowledge gained from biological systems and study sites on Earth that guide investigation […] The post Searching For Extraterrestrial Life Advances Terrestrial Sustainability appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67794-2">https://www.nature.com/articles/s41467-025-67794-2</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/searching-for-extraterrestrial-life-advances-terrestrial-sustainability.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ A Roadmap For The Exploration Of Enceladus</title>
-    <link href="https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html"/>
-    <id>https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html</id>
-    <updated>2026-01-05T14:56:00Z</updated>
-    <summary>This paper provides key hypotheses to guide future missions to Enceladus for the current decadal cycle and beyond. Enceladus is a high priority target for the fields of astrobiology and planetary scie</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> biosignature, astrobio*</p>
-<p><strong>AI Decision:</strong> Provides a mission-science roadmap for exploring Enceladus’ ocean world potential—including key hypotheses and measurements aimed at assessing habitability and possible biosignatures in its plume material.</p>
-<p><strong>Abstract:</strong> This paper provides key hypotheses to guide future missions to Enceladus for the current decadal cycle and beyond. Enceladus is a high priority target for the fields of astrobiology and planetary science because it contains the three basic ingredients for life as we understand it: organic materials, a liquid solvent, and an energy source. This […] The post A Roadmap For The Exploration Of Enceladus appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1029/2024JE008907">https://doi.org/10.1029/2024JE008907</a></li>
-<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008907">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008907</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ A Glimpse Into Darkness: Diversity Of Culturable Cyanobacteria, Green Algae And Fungi From Subaerial Cave Biofilms</title>
-    <link href="https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html"/>
-    <id>https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html</id>
-    <updated>2026-01-05T15:00:00Z</updated>
-    <summary>Caves and hypogean environments provide stable microclimates characterized by uniform temperatures, constant humidity, and low light levels. In such sites, extremely low light irradiance can support t</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> Culture-based survey of cyanobacteria, green algae, and fungi in low-light subaerial cave biofilms, offering an astrobiology-relevant analog for microbial persistence and potential biosignature formation in dark, humid environments rather than a direct origins-of-life study.</p>
-<p><strong>Abstract:</strong> Caves and hypogean environments provide stable microclimates characterized by uniform temperatures, constant humidity, and low light levels. In such sites, extremely low light irradiance can support the growth of subaerial biofilms (SABs) dominated by unique photosynthetic communities of cyanobacteria accompanied by chlorophytes, heterotrophic bacteria, and fungi. This study aimed to apply a culture‐dependent approach to […] The post A Glimpse Into Darkness: Diversity Of Culturable Cyanobacteria, Green Algae And Fungi From Subaerial Cave Biofilms appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12718444/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12718444/</a></li>
-<li><a href="https://doi.org/10.1111/jpy.70104">https://doi.org/10.1111/jpy.70104</a></li>
-<li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpy.70104">https://onlinelibrary.wiley.com/doi/10.1111/jpy.70104</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 75 | [How astronomers plan to detect the signatures of alien life ](https://phys.org/news/2026-01-astronomers-signatures-alien-life-atmospheres.html) |
+| ai_scored | 90 | [Hierarchical Self-Assembly in Minimalistic Diacetylenes: Fro](https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Host cell potassium ion channels KCNJ2 (KIR2.1), KCNJ13 (KIR](https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1) |
+| ai_scored | 90 | [Hierarchical Self-Assembly in Minimalistic Diacetylenes: Fro](https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [NASA's Pandora telescope will study stars in detail to learn](https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html) |
+| ai_scored | 5 | [SCALPEL: A pipeline for processing large-scale spatial trans](https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1) |
+| keyword_rejected | - | [Cells Use ‘Bioelectricity’ To Coordinate and Make Group Deci](https://www.quantamagazine.org/cells-use-bioelectricity-to-coordinate-and-make-group-decisions-20260112/) |
+| keyword_rejected | - | [Découverte d’un ancêtre d'Homo sapiens, Léonard de Vinci et ](https://www.sciencesetavenir.fr/ultrabreves/decouverte-d-un-ancetre-d-homo-sapiens-adn-de-leonard-de-vinci-et-essor-des-vertebres-a-machoires-l-actu-des-sciences-en-ultrabreves_190368) |
+| keyword_rejected | - | [Entre Amazon et les gouvernements, Ariane 6 veut doubler ses](https://www.sciencesetavenir.fr/sciences/entre-amazon-et-les-gouvernements-ariane-6-veut-doubler-ses-tirs-et-seduire-l-europe_190369?xtor=RSS-18) |
+| keyword_rejected | - | [Les Etats-Unis fortement frappés par le changement climatiqu](https://www.sciencesetavenir.fr/nature-environnement/climat/les-etats-unis-fortement-frappes-par-le-changement-climatique_190370?xtor=RSS-15) |
+| keyword_rejected | - | [US scientists push back as Trump eyes Greenland](https://www.nature.com/articles/d41586-026-00068-z) |
+| keyword_rejected | - | [SpaceX launches 2nd Space Coast mission of 2026](https://phys.org/news/2026-01-spacex-2nd-space-coast-mission.html) |
+| keyword_rejected | - | [Superheavy-lift rockets like SpaceX's starship could transfo](https://phys.org/news/2026-01-superheavy-rockets-spacex-starship-astronomy.html) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112102157&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Predicting the effect of CRISPR-Cas9-based epigenome editing](https://elifesciences.org/articles/92991) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112092157&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [We're about to simulate a human brain on a supercomputer](https://www.newscientist.com/article/2510892-were-about-to-simulate-a-human-brain-on-a-supercomputer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [We're about to simulate a human brain on a supercomputer](https://www.newscientist.com/article/2510892-were-about-to-simulate-a-human-brain-on-a-supercomputer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
