@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Les océans ont absorbé une quantité record de chaleur en 202](https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/les-oceans-ont-absorbe-une-quantite-record-de-chaleur-en-2025_190340?xtor=RSS-15) |
+| keyword_rejected | - | [The interconnected wirings between medial prefrontal cortex ](https://www.nature.com/articles/s41467-025-68009-4) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112042858&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Chemotherapy resistance due to epithelial-to-mesenchymal tra](https://elifesciences.org/articles/104374) |
+| keyword_rejected | - | [Lipid balance and chemoresistance in cancer cells](https://elifesciences.org/articles/110231) |
+| keyword_rejected | - | [Evaluating the Role of Covalency in Spin Relaxation: An XAS ](https://dx.doi.org/10.26434/chemrxiv-2026-jl6q0?rft_dat=source%3Ddrss) |
 | ai_scored | 5 | [Decoding the perfect steak: The hidden DNA behind Wagyu’s le](https://www.sciencedaily.com/releases/2026/01/260112001032.htm) |
 | ai_scored | 55 | [On a theoretical model of microdroplet redox chemistry](https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Feux en Patagonie argentine: plus de 15.000 hectares ravagés](https://www.sciencesetavenir.fr/nature-environnement/feux-en-patagonie-argentine-plus-de-15-000-hectares-ravages-depuis-lundi_190358?xtor=RSS-15) |
