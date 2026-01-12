@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [A Reversible ATR-FTIR Biosensor with Single Residue Sensitiv](https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss) |
+| ai_scored | 5 | [Protein post-translational modifications in tumor immunity: ](https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112061703&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Making autism into a partisan issue can only be harmful](https://www.newscientist.com/article/mg26935772-300-making-autism-into-a-partisan-issue-can-only-be-harmful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Fresh starts: how to thrive when you leave academia](https://www.nature.com/articles/d41586-026-00085-y) |
+| keyword_rejected | - | [Dassault Aviation investit dans la start-up française Harmat](https://www.sciencesetavenir.fr/dassault-aviation-investit-dans-la-start-up-francaise-harmattan-ai_190361) |
+| keyword_rejected | - | [L'origine de la maladie d'Alzheimer remonterait à la préhist](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/l-origine-de-la-maladie-d-alzheimer-remonterait-a-la-prehistoire_190360?xtor=RSS-16) |
+| keyword_rejected | - | [Making autism into a partisan issue can only be harmful](https://www.newscientist.com/article/mg26935772-300-making-autism-into-a-partisan-issue-can-only-be-harmful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Making autism into a partisan issue can only be harmful](https://www.newscientist.com/article/mg26935772-300-making-autism-into-a-partisan-issue-can-only-be-harmful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Thermal [2+2] cycloaddition as a route to <i>gem</i>-difluor](https://www.nature.com/articles/s41557-025-02047-9) |
+| keyword_rejected | - | [Catalytic acyloin-type heterocoupling of thioesters via a pu](https://www.nature.com/articles/s41557-025-02036-y) |
+| keyword_rejected | - | [Conversion between 3- and 2-dimensional halogen-bonded netwo](https://dx.doi.org/10.26434/chemrxiv-2026-gb57q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Predicting Enantioselectivity via Kinetic Simulations on Gig](https://dx.doi.org/10.26434/chemrxiv-2026-d6slj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [From Depth to Durability: Investigating Gradient Effects in ](https://dx.doi.org/10.26434/chemrxiv-2026-0strn?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Conversion between 3- and 2-dimensional halogen-bonded netwo](https://dx.doi.org/10.26434/chemrxiv-2026-gb57q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Insights to orientation dependence of molecular
+conduction m](https://dx.doi.org/10.26434/chemrxiv-2026-vg0hm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Predicting Enantioselectivity via Kinetic Simulations on Gig](https://dx.doi.org/10.26434/chemrxiv-2026-d6slj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [RobInHood: A Robotic Chemist in a Fume Hood](https://dx.doi.org/10.26434/chemrxiv-2026-s2619?rft_dat=source%3Ddrss) |
 | ai_scored | 60 | [Ancient ‘snowball’ Earth had frigidly briny seas](https://www.nature.com/articles/d41586-025-04081-6) |
 | ai_scored | 18 | [Local Chain Dynamics in Sequence-Controlled Polymers as a Tu](https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss) |
 | ai_scored | 43 | [Probing Molecular Organization in Polar Nematic Phases: A Co](https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss) |

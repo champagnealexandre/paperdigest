@@ -3,8 +3,37 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T10:21:56.377142+00:00</updated>
+  <updated>2026-01-12T11:17:16.383287+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Physics of Life Reviews ▶ Protein post-translational modifications in tumor immunity: a multi-layered regulatory network deserving systematic decoding Comment on “Protein post-translational modifications and tumor immunity: A pan-cancer perspective”</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all</id>
+    <updated>2026-01-12T11:00:00Z</updated>
+    <summary>Publication date: Available online 11 January 2026 Source: Physics of Life Reviews Author(s): Xiuluan Du, Yuansheng Lin</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A commentary on how protein post-translational modifications regulate tumor immunity across cancers, with minimal direct relevance to origins-of-life research aside from general “life sciences” context.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 11 January 2026 Source: Physics of Life Reviews Author(s): Xiuluan Du, Yuansheng Lin</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all">https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all</a></li>
+</ul>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] ChemRxiv ▶ A Reversible ATR-FTIR Biosensor with Single Residue Sensitivity</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Infrared spectroscopy provides label-free access to protein structure information with high sensitivity. Challenges in infrared spectroscopy include artifacts arising from temperature changes, baselin</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Introduces a reusable ATR‑FTIR immuno‑infrared biosensor with reversible protein capture that can detect single‑amino‑acid substitutions, offering broadly relevant analytical capability but little direct connection to origins‑of‑life chemistry or early life processes.</p>
+<p><strong>Abstract:</strong> Infrared spectroscopy provides label-free access to protein structure information with high sensitivity. Challenges in infrared spectroscopy include artifacts arising from temperature changes, baseline drifts and the strong water absorption, especially in difference spectroscopy, where signals are orders of magnitude smaller than the total absorbance. Previously, we introduced an ATR-based immuno-infrared sensor (iRS) based on sophisticated surface chemistry. This provides a stable platform for covalent protein immobilization and allows its application with body fluids such as cerebrospinal fluid or blood without unspecific background. It detects misfolding of small amounts of antigen (Abeta or alpha-synuclein) by binding to an antibody or antibody fragment, which allows for the diagnosis of various neurodegenerative diseases. Here, we extend this platform by introducing reversible binding via the NColE7/Im7 pair. Im7-tagged proteins are captured with sub-picomolar affinity and quantitatively released under mild conditions (high salt or low pH), allowing repeated capture-regeneration cycles with continuous spectral monitoring of the Im7 fusion protein. Using an Im7-antibody Fab fusion protein, we present a reusable immune-IR sensor that enables multiple measurements on the same surface. For example, different antibodies can be used for differential screening. Using alternating Im7 protein attachments to the internal reflection element, we further compare Im7 single point mutants to wild-type Im7 to resolve infrared signatures of specific amino acid substitutions. Difference spectra reveal the distinct tyrosine absorption associated with either the introduction or removal of a single tyrosine residue, providing the first proof-of-concept for difference spectroscopy with single-residue sensitivity based on complete protein exchange.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [8] ChemRxiv ▶ Crystal Growth, Structures and Optical Bandgaps of Cuprous Rare-Earth Molybdates</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss"/>
