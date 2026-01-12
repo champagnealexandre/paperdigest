@@ -3,8 +3,57 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T12:39:17.656214+00:00</updated>
+  <updated>2026-01-12T13:39:41.919810+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [25] Scientific American ▶ A Bizarre Exoplanet Breaks Solar System Rules</title>
+    <link href="https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/"/>
+    <id>https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/</id>
+    <updated>2026-01-12T12:00:00Z</updated>
+    <summary>Discovered by volunteer scientists, this alien planet is out of synch with its siblings</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Popular-science piece about an unusual exoplanet orbital/architectural oddity that offers only indirect, broad context for astrobiology and origins-of-life questions without habitability or biosignature relevance.</p>
+<p><strong>Abstract:</strong> Discovered by volunteer scientists, this alien planet is out of synch with its siblings</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [13] eLife - recent issues ▶ Dilated cardiomyopathy-associated RNA-binding motif protein 20 regulates long pre-mRNAs in neurons</title>
+    <link href="https://elifesciences.org/articles/104808"/>
+    <id>https://elifesciences.org/articles/104808</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Precise coordination of molecular programs and neuronal growth governs the formation, maintenance, and adaptation of neuronal circuits. RNA metabolism has emerged as a key regulatory node of neural de</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study maps how the splicing regulator RBM20 binds long neuronal pre-mRNAs and prevents nonproductive splicing to maintain cytoplasmic mRNA levels, but it is largely unrelated to origins-of-life questions beyond a very general connection to RNA biology.</p>
+<p><strong>Abstract:</strong> Precise coordination of molecular programs and neuronal growth governs the formation, maintenance, and adaptation of neuronal circuits. RNA metabolism has emerged as a key regulatory node of neural development and nervous system pathologies. To uncover cell-type-specific RNA regulators, we systematically investigated expression of RNA recognition motif-containing proteins in the mouse neocortex. Surprisingly, we found RNA-binding motif protein 20 (RBM20), an alternative splicing regulator associated with dilated cardiomyopathy, to be expressed in cortical parvalbumin interneurons and mitral cells of the olfactory bulb. Genome-wide mapping of RBM20 target mRNAs revealed that neuronal RBM20 binds pre-mRNAs in distal intronic regions. Loss of neuronal RBM20 has only modest impact on alternative splice isoforms but results in a significant reduction in an array of mature mRNAs in the neuronal cytoplasm. This phenotype is particularly pronounced for genes with long introns that encode synaptic proteins. We hypothesize that RBM20 ensures fidelity of pre-mRNA splicing by suppressing nonproductive splicing events in long neuronal genes. This work highlights a common requirement for RBM20-dependent transcriptome regulation in cardiomyocytes and neurons and demonstrates that a major genetic risk factor of heart disease impacts neuronal gene expression.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/30078707">https://www.ncbi.nlm.nih.gov/pubmed/30078707</a></li>
+<li><a href="https://doi.org/10.1038/s41593-019-0465-5">https://doi.org/10.1038/s41593-019-0465-5</a></li>
+<li><a href="https://doi.org/10.1016/j.neuron.2013.07.033">https://doi.org/10.1016/j.neuron.2013.07.033</a></li>
+<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.117.031947">https://doi.org/10.1161/CIRCULATIONAHA.117.031947</a></li>
+<li><a href="https://doi.org/10.1016/j.neuron.2022.04.017">https://doi.org/10.1016/j.neuron.2022.04.017</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/19013281">https://www.ncbi.nlm.nih.gov/pubmed/19013281</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/23931993">https://www.ncbi.nlm.nih.gov/pubmed/23931993</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/33420412">https://www.ncbi.nlm.nih.gov/pubmed/33420412</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?title=Dilated%20cardiomyopathy-associated%20RNA-binding%20motif%20protein%2020%20regulates%20long%20pre-mRNAs%20in%20neurons&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.104808.3">https://www.linkedin.com/shareArticle?title=Dilated%20cardiomyopathy-associated%20RNA-binding%20motif%20protein%2020%20regulates%20long%20pre-mRNAs%20in%20neurons&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.104808.3</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/22466703">https://www.ncbi.nlm.nih.gov/pubmed/22466703</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/104808">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Quantitative Deciphering of Mammalian Histamine Receptors through Mathematical Genomics</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Histamine receptors (HRH1--HRH4) are G-protein coupled receptors (GPCRs) that mediate essential physiological functions, including neurotransmission, gastric acid secretion, immune regulation, and pre</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Comparative mathematical genomics of mammalian histamine GPCRs maps conserved motifs and subtype-specific divergence (keyword match: evolution) but has no direct relevance to origins-of-life or astrobiology questions.</p>
+<p><strong>Abstract:</strong> Histamine receptors (HRH1--HRH4) are G-protein coupled receptors (GPCRs) that mediate essential physiological functions, including neurotransmission, gastric acid secretion, immune regulation, and presynaptic autoregulation. Despite their importance, systematic comparative analyses across mammalian histamine receptor sequences remain scarce. In this study, we performed a comprehensive evaluation of HRH1--HRH4 across multiple mammalian species, integrating sequence homology, invariant residue mapping, amino acid substitutions, compositional frequencies, Shannon entropy, polystring distributions, intrinsic disorder profiling, and phylogenetic clustering. HRH2 and HRH1 were highly conserved among primates, HRH3 showed strong cohesion within rodents, while HRH4 exhibited pronounced divergence consistent with immune-related specialization. Invariant residues localized to transmembrane helices and activation motifs (D107, W428/Y431, NPxxY), underscoring strict evolutionary constraints on ligand binding, receptor stability, and G-protein coupling. Substitutions were confined to non-essential lipid-facing and loop regions, predominantly conservative in nature, enabling diversification without disrupting the GPCR fold. Amino acid frequency and entropy analyses revealed hydrophobic dominance with subtype-specific enrichment of polar residues, while disorder profiling identified HRH1 as the most dynamic and HRH2 as the most structurally constrained. Polystring analysis highlighted conserved motifs (WWW, PP) alongside subtype- and species-specific repeats, reflecting evolutionary strategies balancing receptor stability with adaptive flexibility. Phylogenetic clustering confirmed subtype-specific cohesion, with HRH3 and HRH4 forming compact clades, HRH1 showing moderate dispersion, and HRH2 forming the most isolated cluster. Collectively, these findings demonstrate that mammalian histamine receptor evolution is governed by conserved biophysical cores and selective variability, offering insights into structural conservation, functional diversification, and translational relevance for drug design and model selection.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] ChemRxiv ▶ Extending Graph-based Lattice Kinetic Monte Carlo Simulations to Polymer Transformations</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss"/>

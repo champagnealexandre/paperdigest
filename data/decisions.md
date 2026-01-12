@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Quantitative Deciphering of Mammalian Histamine Receptors th](https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1) |
+| ai_scored | 13 | [Dilated cardiomyopathy-associated RNA-binding motif protein ](https://elifesciences.org/articles/104808) |
+| ai_scored | 25 | [A Bizarre Exoplanet Breaks Solar System Rules](https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/) |
+| keyword_rejected | - | [Why it’s easy to be misunderstood when talking about probabi](https://www.newscientist.com/article/2510651-why-its-easy-to-be-misunderstood-when-talking-about-probability/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why it’s easy to be misunderstood when talking about probabi](https://www.newscientist.com/article/2510651-why-its-easy-to-be-misunderstood-when-talking-about-probability/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why it’s easy to be misunderstood when talking about probabi](https://www.newscientist.com/article/2510651-why-its-easy-to-be-misunderstood-when-talking-about-probability/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why 52 Cards Is the Perfect Number for Poker—Mathematically](https://www.scientificamerican.com/article/why-52-cards-is-the-perfect-number-for-poker-mathematically/) |
+| keyword_rejected | - | [‘We’re humans — brilliant and a mess’: Wikipedia founder Jim](https://www.nature.com/articles/d41586-026-00083-0) |
+| keyword_rejected | - | [Modelling behaviour in author networks with graphon mean fie](https://www.nature.com/articles/s41599-025-06482-4) |
+| keyword_rejected | - | [Gut dysbiosis in a murine model of cutaneous lupus erythemat](https://www.nature.com/articles/s41598-025-34741-6) |
+| keyword_rejected | - | [Correction: Tulp3 deficiency results in ciliopathy phenotype](https://www.nature.com/articles/s41598-025-31559-0) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112083924&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Ring-Opening of Aziridines Using Tethered Hemiketals](https://dx.doi.org/10.26434/chemrxiv-2025-bxrvh-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A single residue switch controls isomer selectivity in the m](https://dx.doi.org/10.26434/chemrxiv-2026-zl3rm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Direct Active Template Synthesis of Cyclic Peptide Catenanes](https://dx.doi.org/10.26434/chemrxiv-2026-r2cf8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Quantitative Host Cell Protein Analysis of Antibody-Based Pr](https://dx.doi.org/10.26434/chemrxiv-2025-x55kq-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ring-Opening of Aziridines Using Tethered Hemiketals](https://dx.doi.org/10.26434/chemrxiv-2025-bxrvh-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A single residue switch controls isomer selectivity in the m](https://dx.doi.org/10.26434/chemrxiv-2026-zl3rm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Oxyanion Isotopologue Analysis of Natural Samples by Electro](https://dx.doi.org/10.26434/chemrxiv-2026-80tdd?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Direct Active Template Synthesis of Cyclic Peptide Catenanes](https://dx.doi.org/10.26434/chemrxiv-2026-r2cf8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Autonomous Optimization of Block Copolymer Blend Morphology ](https://dx.doi.org/10.26434/chemrxiv-2026-z7g5t?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Extending Graph-based Lattice Kinetic Monte Carlo Simulation](https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [L’énergie noire varie-t-elle dans le temps ? Les résultats s](https://www.pourlascience.fr/sd/cosmologie/l-energie-noire-varie-t-elle-dans-le-temps-les-resultats-surprenants-du-projet-desi-28661.php) |
 | keyword_rejected | - | [Woodpeckers’ Secret Strength Revealed—Plus, Flu Surge, AI Sl](https://www.scientificamerican.com/podcast/episode/woodpeckers-secret-strength-revealed-plus-flu-surge-ai-sleep-predictions-and/) |
