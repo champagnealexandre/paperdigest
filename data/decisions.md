@@ -1,5 +1,35 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Extending Graph-based Lattice Kinetic Monte Carlo Simulation](https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [L’énergie noire varie-t-elle dans le temps ? Les résultats s](https://www.pourlascience.fr/sd/cosmologie/l-energie-noire-varie-t-elle-dans-le-temps-les-resultats-surprenants-du-projet-desi-28661.php) |
+| keyword_rejected | - | [Woodpeckers’ Secret Strength Revealed—Plus, Flu Surge, AI Sl](https://www.scientificamerican.com/podcast/episode/woodpeckers-secret-strength-revealed-plus-flu-surge-ai-sleep-predictions-and/) |
+| keyword_rejected | - | [Sophie Adenot : mission en orbite anticipée ?](https://www.sciencesetavenir.fr/espace/exploration/l-astronaute-francaise-sophie-adenot-va-t-elle-aller-dans-l-espace-plus-tot-que-prevu_190362?xtor=RSS-9) |
+| keyword_rejected | - | ["Ai", la chimpanzé prodige, est morte à 49 ans](https://www.sciencesetavenir.fr/sciences/ai-la-chimpanze-prodige-est-morte-a-49-ans_190365?xtor=RSS-18) |
+| keyword_rejected | - | [Lancement d'Ariane 6 pour Amazon en février, 7 à 8 vols prév](https://www.sciencesetavenir.fr/sciences/lancement-d-ariane-6-pour-amazon-en-fevrier-7-a-8-vols-prevus-en-2026_190366?xtor=RSS-18) |
+| keyword_rejected | - | [Daily briefing: Fusion reactor pushes plasma past crucial li](https://www.nature.com/articles/d41586-026-00115-9) |
+| keyword_rejected | - | [Student mental health is in crisis — here’s how to help](https://www.nature.com/articles/d41586-026-00084-z) |
+| keyword_rejected | - | [AIs are biased toward some Indian castes — how can researche](https://www.nature.com/articles/d41586-025-04041-0) |
+| keyword_rejected | - | [Chamber-specific chromatin architecture guides functional in](https://www.nature.com/articles/s41467-025-67220-7) |
+| keyword_rejected | - | [Living sensor display implanted on skin for long-term biomar](https://www.nature.com/articles/s41467-025-67384-2) |
+| keyword_rejected | - | [Tucatinib plus trastuzumab for chemotherapy-refractory, HER2](https://www.nature.com/articles/s41467-025-67824-z) |
+| keyword_rejected | - | [RAS/MEK/PI3K pathway inhibition augments response to CD40 ag](https://www.nature.com/articles/s41467-025-67315-1) |
+| keyword_rejected | - | [Targeting SPAK suppresses progression and averts an immune e](https://www.nature.com/articles/s41467-025-68156-8) |
+| keyword_rejected | - | [DOT1L activity limits transcription elongation velocity and ](https://www.nature.com/articles/s41467-026-68332-4) |
+| keyword_rejected | - | [Temporal constraints on enhancer usage shape the regulation ](https://www.nature.com/articles/s41467-025-66055-6) |
+| keyword_rejected | - | [ERECTA genes and their ligands regulate shoot and infloresce](https://www.nature.com/articles/s41467-025-67634-3) |
+| keyword_rejected | - | [Parietal alpha frequency shapes own-body perception by modul](https://www.nature.com/articles/s41467-025-67657-w) |
+| keyword_rejected | - | [Atomically precise ligand engineering of gold nanoparticles ](https://www.nature.com/articles/s41467-026-68345-z) |
+| keyword_rejected | - | [Development of an ultra-efficient prime editing system in to](https://www.nature.com/articles/s41467-025-67874-3) |
+| keyword_rejected | - | [Measurement of the gas consumption history of a massive quie](https://www.nature.com/articles/s41550-025-02751-z) |
+| keyword_rejected | - | [A persistent bow shock in a diskless magnetized accreting wh](https://www.nature.com/articles/s41550-025-02748-8) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112073903&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Quaternary biopesticides and disinfectants derived from quin](https://dx.doi.org/10.26434/chemrxiv-2024-h5hbb-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ionization-Induced Double Charge Transfer in Metallophthaloc](https://dx.doi.org/10.26434/chemrxiv-2026-t0g71?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Binding of the Elastin Peptide VGVAPG and Lactose to the Hum](https://dx.doi.org/10.26434/chemrxiv-2026-gq158?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electrocatalysts for CO2 reduction to multicarbon products b](https://dx.doi.org/10.26434/chemrxiv-2025-b865s-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Light on: Impact of reaction conditions and catalyst synthes](https://dx.doi.org/10.26434/chemrxiv-2025-bdf6c-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Quaternary biopesticides and disinfectants derived from quin](https://dx.doi.org/10.26434/chemrxiv-2024-h5hbb-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [High-resolution modelling of methane plumes: validation and ](https://dx.doi.org/10.26434/chemrxiv-2025-lv32x-v3?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [A Reversible ATR-FTIR Biosensor with Single Residue Sensitiv](https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss) |
 | ai_scored | 5 | [Protein post-translational modifications in tumor immunity: ](https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112061703&v=2.18.0.post22+67771e2) |

@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T11:17:16.383287+00:00</updated>
+  <updated>2026-01-12T12:39:17.656214+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] ChemRxiv ▶ Extending Graph-based Lattice Kinetic Monte Carlo Simulations to Polymer Transformations</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Multiscale simulations offer a way to understand how polymer transformations proceed under realistic conditions, however existing workflows rely on empirically tuned parameters. The MUltiscale SImulat</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces a reproducible multiscale workflow (MUSIK) combining quantum chemistry and graph-based lattice kMC to model polymer (PVC) dehydrochlorination without parameter fitting, useful for materials/recycling but only tangentially relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Multiscale simulations offer a way to understand how polymer transformations proceed under realistic conditions, however existing workflows rely on empirically tuned parameters. The MUltiscale SImulation frameworK (MUSIK) integrates conformer analysis, density functional theory and high-level coupled-cluster energetics, and graph-based lattice kinetic Monte Carlo (kMC) to generate chemically accurate, spatially and temporally resolved kinetic models for polymer transformations without parameter fitting. The present work introduces MUSIK as a reproducible workflow and provides a step-by-step tutorial that shows how to construct, run, and analyze a lattice kMC model for base-assisted dehydrochlorination of polyvinyl chloride (PVC), supported by post-processing scripts that automate kMC trajectory analysis and polymer-structure reconstruction. Tutorial results demonstrate how MUSIK links atomic energetics and local structure to macroscopic kinetics and structural evolution and reproduces key experimental observations for PVC dehydrochlorination. MUSIK is generalizable to arbitrary polymer chemistries and can provide practical recommendations for polymer recycling, upcycling, and materials design to address plastic-waste challenge.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Physics of Life Reviews ▶ Protein post-translational modifications in tumor immunity: a multi-layered regulatory network deserving systematic decoding Comment on “Protein post-translational modifications and tumor immunity: A pan-cancer perspective”</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all"/>
