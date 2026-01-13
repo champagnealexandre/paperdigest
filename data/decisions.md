@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [caRBP-Pred: Deep Learning-based Prediction of Chromatin-Asso](https://www.biorxiv.org/content/10.64898/2026.01.12.698323v1?rss=1) |
+| ai_scored | 20 | [Generative single-cell transcriptomics via large language mo](https://www.biorxiv.org/content/10.64898/2026.01.12.699186v1?rss=1) |
+| ai_scored | 35 | [Wash-Free Multi-Target Super-Resolution Microscopy with Phot](https://www.biorxiv.org/content/10.64898/2026.01.13.699198v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113171840&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Protein-peptide Interaction Representation Learning with Pre](https://www.biorxiv.org/content/10.64898/2026.01.12.699173v1?rss=1) |
 | ai_scored | 5 | [Longevity Bench: Are SotA LLMs ready for aging research?](https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1) |
 | keyword_rejected | - | [The hunt for where the last Neanderthals lived](https://www.newscientist.com/article/2511153-the-hunt-for-where-the-last-neanderthals-lived/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [The hunt for where the last Neanderthals lived](https://www.newscientist.com/article/2511153-the-hunt-for-where-the-last-neanderthals-lived/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
