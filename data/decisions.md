@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113042517&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Historical deforestation drives strong rainfall decline acro](https://www.nature.com/articles/s41467-026-68361-z) |
+| keyword_rejected | - | [Boron Heterocycles via Direct Activation of Nitriles & Carbo](https://dx.doi.org/10.26434/chemrxiv-2026-x44db?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Data-derived conceptual DFT nucleophilicity index](https://dx.doi.org/10.26434/chemrxiv-2026-dx9qc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Regiodivergent Hydrosilylation of Alkenes at Nickel: Tuning ](https://dx.doi.org/10.26434/chemrxiv-2026-1fl3d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Boron Heterocycles via Direct Activation of Nitriles & Carbo](https://dx.doi.org/10.26434/chemrxiv-2026-x44db?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Enhanced Photodisplacement of Perylene Bisimides via Multi-E](https://dx.doi.org/10.26434/chemrxiv-2026-wk8lx?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113032553&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [En France, la réduction des émissions de gaz à effet de serr](https://www.sciencesetavenir.fr/nature-environnement/en-france-la-reduction-des-emissions-de-gaz-a-effet-de-serre-patine_190379?xtor=RSS-15) |
 | keyword_rejected | - | [Hypertension and other comorbidities associated with increas](https://www.nature.com/articles/s41598-025-34518-x) |
