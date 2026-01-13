@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T16:26:46.379148+00:00</updated>
+  <updated>2026-01-13T17:23:34.118947+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [7] cell biology - biorXiv Preprints ▶ Cross-species architecture of the cardiac transverse-axial tubular system in mammals</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Cardiac excitation-contraction coupling relies on a pancellular network of regular cardiomyocyte surface membrane invaginations, termed the transverse-axial tubular system (TATS). The TATS is ubiquito</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Quantifies cross-species scaling of mammalian cardiomyocyte transverse-axial tubular system architecture versus body size, lifespan, and heart rate, with minimal relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Cardiac excitation-contraction coupling relies on a pancellular network of regular cardiomyocyte surface membrane invaginations, termed the transverse-axial tubular system (TATS). The TATS is ubiquitously present in adult mammalian cardiomyocytes, enabling efficient structural and functional coupling of sarcolemma and intracellular Ca2+ stores. However, TATS ultrastructural characteristics across species, and their relation to cardiomyocyte morphology and physiological parameters such as heart rate, remain largely unexplored. Here, we quantified TATS and cardiomyocyte features in a large confocal microscopy dataset (78 3D volumes) obtained from tissue slices across eight species (mouse, rat, rabbit, pig, horse, elephant, whale, and human). We developed and applied a semi-automated image analysis pipeline to quantify mean cytosolic distances to the nearest TATS (Cyto-TATSmin, a measure inversely related to TATS density), transverse-to-axial tubule ratio, and cardiomyocyte dimensions. Cyto-TATSmin and transverse tubule fraction differed substantially between species, with the lowest Cyto-TATSmin in mouse and highest in human. Within species, except mouse, rat, and horse, Cyto-TATSmin was positively correlated with cardiomyocyte cross-sectional area. Across all species, Cyto-TATSmin correlated with species life span and body weight, and was inversely correlated with average resting heart rate. Our findings reveal structural scaling principles within species differences in cardiac cellular ultrastructure and provide a resource for studying TATS organisation in health and disease. As TATS remodelling is a common hallmark of cardiac pathology, awareness of species-differences is needed to guide the design and interpretation of translational research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] phys.org - Space News ▶ Webb delivers unprecedented look into heart of Circinus galaxy</title>
     <link href="https://phys.org/news/2026-01-webb-unprecedented-heart-circinus-galaxy.html"/>

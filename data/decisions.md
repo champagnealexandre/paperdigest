@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 7 | [Cross-species architecture of the cardiac transverse-axial t](https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113122323&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Greenland sharks survive for centuries with diseased hearts](https://www.newscientist.com/article/2511222-greenland-sharks-survive-for-centuries-with-diseased-hearts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Greenland sharks survive for centuries with diseased hearts](https://www.newscientist.com/article/2511222-greenland-sharks-survive-for-centuries-with-diseased-hearts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Greenland sharks survive for centuries with diseased hearts](https://www.newscientist.com/article/2511222-greenland-sharks-survive-for-centuries-with-diseased-hearts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Affiliative behaviours regulate allostasis development and s](https://www.nature.com/articles/s41467-025-66729-1) |
+| keyword_rejected | - | [A centrally positioned cluster of multiple centrioles in ant](https://www.nature.com/articles/s41467-026-68286-7) |
+| keyword_rejected | - | [Structural basis of outer membrane biogenesis by the TamAB t](https://www.nature.com/articles/s41467-025-67115-7) |
+| keyword_rejected | - | [The biomedical landscape of genomic structural variation in ](https://www.nature.com/articles/s41467-025-67763-9) |
+| keyword_rejected | - | [Transformer-augmented dual-branch siamese tracker with confi](https://www.nature.com/articles/s41598-026-35692-2) |
+| keyword_rejected | - | [Machine-Learning Methods for pH-Dependent Aqueous-Solubility](https://dx.doi.org/10.26434/chemrxiv-2026-3zgq4?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113112638&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Après les inondations, l'Albanie croule sous le plastique](https://www.sciencesetavenir.fr/nature-environnement/apres-les-inondations-l-albanie-croule-sous-le-plastique_190390?xtor=RSS-15) |
 | keyword_rejected | - | [Cheveux roux : un pigment au rôle insoupçonné](https://www.sciencesetavenir.fr/sante/dermato/cheveux-roux-un-pigment-au-role-insoupconne_190387?xtor=RSS-16) |
