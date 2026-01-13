@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 65 | [Phages and bacteria accumulate distinctive mutations aboard ](https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html) |
+| ai_scored | 0 | [A tiny mouse hints at why some mammal mothers may benefit fr](https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html) |
+| keyword_rejected | - | [U.S. Greenhouse Gas Emissions Are Rising for the First Time ](https://www.scientificamerican.com/article/u-s-greenhouse-gas-emissions-are-rising-for-the-first-time-in-two-years-they/) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113141755&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [K48-ubiquitin-dependent proteases cut-up post-ER proteins](https://www.nature.com/articles/s41467-026-68367-7) |
+| keyword_rejected | - | [Hubble nets menagerie of young stellar objects](https://phys.org/news/2026-01-hubble-nets-menagerie-young-stellar.html) |
+| keyword_rejected | - | [Enthusiasts used their home computers to search for ET—scien](https://phys.org/news/2026-01-enthusiasts-home-scientists-homing.html) |
+| keyword_rejected | - | [K48-ubiquitin-dependent proteases cut-up post-ER proteins](https://www.nature.com/articles/s41467-026-68367-7) |
 | ai_scored | 75 | [Exoplanet Characterization With NASA’s Habitable Worlds Obse](https://astrobiology.com/2026/01/exoplanet-characterization-with-nasas-habitable-worlds-observatory.html) |
 | ai_scored | 25 | [Asexual yam species employs mimicry to trick birds and sprea](https://phys.org/news/2026-01-asexual-yam-species-employs-mimicry.html) |
 | ai_scored | 55 | [CRANBERRY: An RNA Dynamics Model with Sugar Puckering and No](https://www.biorxiv.org/content/10.64898/2026.01.12.699131v1?rss=1) |

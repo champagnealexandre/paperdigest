@@ -3,8 +3,32 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T18:27:16.732611+00:00</updated>
+  <updated>2026-01-13T19:18:06.711248+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Phys.org: Evolution News ▶ A tiny mouse hints at why some mammal mothers may benefit from choosing more than one father</title>
+    <link href="https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html"/>
+    <id>https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html</id>
+    <updated>2026-01-13T19:15:18Z</updated>
+    <summary>Many animals do something that still surprises researchers: females often mate with more than one male. This behavior—polyandry—has long raised a blunt question. Why divide offspring among multiple fa</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This paper focuses on polyandry and reproductive strategy in mammals, which is not relevant to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><strong>Abstract:</strong> Many animals do something that still surprises researchers: females often mate with more than one male. This behavior—polyandry—has long raised a blunt question. Why divide offspring among multiple fathers, and does it help mothers or young survive?</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] phys.org - Space News ▶ Phages and bacteria accumulate distinctive mutations aboard the International Space Station</title>
+    <link href="https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html"/>
+    <id>https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html</id>
+    <updated>2026-01-13T19:00:01Z</updated>
+    <summary>In a new study, terrestrial bacteria-infecting viruses were still able to infect their E. coli hosts in near-weightless &quot;microgravity&quot; conditions aboard the International Space Station, but the dynami</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, astrobio*</p>
+<p><strong>AI Decision:</strong> Experiments on the ISS show bacteriophages and E. coli remain infective in microgravity but accumulate distinct mutations and altered interaction dynamics, informing how DNA-based evolution and microbial ecology might proceed in space environments relevant to astrobiology (though not directly to abiogenesis).</p>
+<p><strong>Abstract:</strong> In a new study, terrestrial bacteria-infecting viruses were still able to infect their E. coli hosts in near-weightless &quot;microgravity&quot; conditions aboard the International Space Station, but the dynamics of virus-bacteria interactions differed from those observed on Earth. Phil Huss of the University of Wisconsin-Madison and colleagues present the findings in the open-access journal PLOS Biology.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ AI Learns From The Tree Of Life To Support Rare Disease Diagnosis</title>
     <link href="https://astrobiology.com/2026/01/ai-learns-from-the-tree-of-life-to-support-rare-disease-diagnosis.html"/>
