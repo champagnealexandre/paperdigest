@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T05:23:08.543001+00:00</updated>
+  <updated>2026-01-13T06:28:45.894632+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] Nature Communications ▶ Cobamide-producing microbes as a model for understanding general nutritional interdependencies in soil food webs</title>
+    <link href="https://www.nature.com/articles/s41467-025-68255-6"/>
+    <id>https://www.nature.com/articles/s41467-025-68255-6</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 13 January 2026; doi:10.1038/s41467-025-68255-6 Soil life relies on microbial nutrient exchange to maintain ecosystem balance. This study shows that cobamide-p</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This Nature Communications study maps how cobamide (vitamin B12–like) producers act as keystone nutrient suppliers in soil microbial food webs, offering broad-context insights into metabolic interdependencies that could analogize to early ecological networking but is not directly origins-of-life focused.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 13 January 2026; doi:10.1038/s41467-025-68255-6 Soil life relies on microbial nutrient exchange to maintain ecosystem balance. This study shows that cobamide-producing microbes act as essential connectors in soil food webs, supporting host health and highlighting cross-kingdom links central to One Health.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-68255-6">https://www.nature.com/articles/s41467-025-68255-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-68255-6">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] ChemRxiv ▶ Let’s Get Cyclic – Influence of Head-to-Tail Cyclisation of Lanmodulin-inspired peptides on Lanthanide Affinity and Structure</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Over the recent years lanthanide-binding proteins such as lanmodulin, a naturally lanthanide-binding EF-hand protein from Methylorubrum extorquens AM1, as well as protein-inspired lanthanide-binding p</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> This preprint characterizes how head-to-tail cyclization of lanmodulin-inspired peptides alters lanthanide binding affinity and structure in aqueous solution, with limited direct relevance to origins-of-life questions beyond general insights into metal–peptide coordination.</p>
+<p><strong>Abstract:</strong> Over the recent years lanthanide-binding proteins such as lanmodulin, a naturally lanthanide-binding EF-hand protein from Methylorubrum extorquens AM1, as well as protein-inspired lanthanide-binding peptides have become of increasing interest for the development of separation and recycling methods for rare earth elements. For the first time, a set of head-to-tail cyclised lanmodulin-inspired peptides and their complexation behaviour towards lanthanides was comprehensively examined in aqueous media using time-resolved laser induced fluorescence spectroscopy (TRLFS), isothermal titration calorimetry (ITC), nuclear magnetic resonance (NMR) and circular dichroism (CD) spectroscopies, complemented by molecular dynamic (MD) simulations and advanced mass spectrometry methods. Results obtained from this multi-method approach evidence that the head-to-tail cyclisation can indeed increase the lanthanide-affinity in natural sequences and positively impact the pre-organisation of the metal-free peptide while limiting the amount of formed complex species in comparison to linear analogues. Furthermore, the impact of minimal sequence alterations by inserting glycine is shown to be useful in NMR experiments for probing alterations in the local environment of neighbouring amino acids potentially involved in coordination. Lastly, KD values for the peptides with the whole Ln series (except Pm) and the actinide curium are presented.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] cs.IT updates on arXiv.org ▶ Sentiment Analysis on Movie Reviews: A Deep Dive into Modern Techniques and Open Challenges</title>
     <link href="https://arxiv.org/abs/2601.07235"/>

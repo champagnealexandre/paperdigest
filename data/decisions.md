@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Let’s Get Cyclic – Influence of Head-to-Tail Cyclisation of ](https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Cobamide-producing microbes as a model for understanding gen](https://www.nature.com/articles/s41467-025-68255-6) |
+| keyword_rejected | - | [Financement de la recherche : une liberté académique comme u](https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/financement-de-la-recherche-une-liberte-academique-comme-une-autre-28665.php) |
+| keyword_rejected | - | [Evolutionary dynamics of sex determination in Branchiostoma ](https://www.nature.com/articles/s41467-026-68322-6) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113012834&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Microwave-alkali co-activated persulfate enables minute-scal](https://www.nature.com/articles/s41467-026-68295-6) |
+| keyword_rejected | - | [Evolutionary dynamics of sex determination in <i>Branchiosto](https://www.nature.com/articles/s41467-026-68322-6) |
+| keyword_rejected | - | [Spectroscopy and dynamics of the v = 1 levels derived from t](https://dx.doi.org/10.26434/chemrxiv-2026-61x07?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Towards Tailored Metastability: Exploring Oxanorbornene Chem](https://dx.doi.org/10.26434/chemrxiv-2026-jvmlc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Rigorous Statistical Benchmark of the Tsetlin Machine: A N](https://dx.doi.org/10.26434/chemrxiv-2026-dsz7v?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Bayesian Optimized Electrosynthesis of Azobenzenes in a Self](https://dx.doi.org/10.26434/chemrxiv-2026-8rd5c?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Quantum Chemical Insight into Electrochemical Upgrading of B](https://dx.doi.org/10.26434/chemrxiv-2026-02lvv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Enhancing Binder Dispersion and Fibrillation in Lithium-Ion ](https://dx.doi.org/10.26434/chemrxiv-2026-lkcw3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Rotation, Vibration, Torsion Coupling Effects in the Spectru](https://dx.doi.org/10.26434/chemrxiv-2026-74vrs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Towards Tailored Metastability: Exploring Oxanorbornene Chem](https://dx.doi.org/10.26434/chemrxiv-2026-jvmlc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Bayesian Optimized Electrosynthesis of Azobenzenes in a Self](https://dx.doi.org/10.26434/chemrxiv-2026-8rd5c?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Spin polarized enantio-sensitive multipolar photoelectron cu](https://arxiv.org/abs/2505.23460) |
 | ai_scored | 55 | [Synthetic rewriting technologies in mammalian cells](https://www.nature.com/articles/s41467-025-68066-9) |
 | ai_scored | 70 | [Functionalization of Benzene Ices by Atomic Oxygen](https://arxiv.org/abs/2601.07457) |
