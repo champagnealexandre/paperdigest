@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112233651&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Intranasal replicon vaccine establishes mucosal immunity and](https://www.nature.com/articles/s41467-025-64829-6) |
+| keyword_rejected | - | [An innovative chitosan-coated aquatic feed pellets productio](https://www.nature.com/articles/s41598-026-35937-0) |
+| keyword_rejected | - | [Application and characterization of the multiple instance le](https://www.nature.com/articles/s41598-025-32093-9) |
+| keyword_rejected | - | [Associations between edentulism and risk of neurodegenerativ](https://www.nature.com/articles/s41598-025-34017-z) |
+| keyword_rejected | - | [Speed-Dependent Turning Strategies in Quadrupedal Locomotion](https://www.biorxiv.org/content/10.64898/2026.01.12.699101v1?rss=1) |
+| keyword_rejected | - | [Modulation of Cysteine modifications upon short time T-cell ](https://www.biorxiv.org/content/10.64898/2026.01.11.698897v1?rss=1) |
+| keyword_rejected | - | [The mitochondrial cohibitin complex facilitates the biogenes](https://www.biorxiv.org/content/10.64898/2026.01.12.699002v1?rss=1) |
 | ai_scored | 50 | [Cross-species dissection of saline-related genes by genetica](https://www.nature.com/articles/s41467-026-68287-6) |
 | ai_scored | 5 | [Double-Bracket Quantum Algorithms for Quantum Imaginary-Time](http://link.aps.org/doi/10.1103/rw81-k8vk) |
 | ai_scored | 10 | [Designing AAV Capsid Protein with viability-guided Diffusion](https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1) |
