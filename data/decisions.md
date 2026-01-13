@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [A centuries-old debate on how reptiles keep evolving skin bo](https://phys.org/news/2026-01-centuries-debate-reptiles-evolving-skin.html) |
+| ai_scored | 45 | [Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunc](https://dx.doi.org/10.26434/chemrxiv-2026-q042f-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunc](https://dx.doi.org/10.26434/chemrxiv-2026-q042f-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Grippe, intempéries, grève: l'hôpital public "tient bon", af](https://www.sciencesetavenir.fr/sante/grippe-intemperies-greve-l-hopital-public-tient-bon-affirme-la-fhf_190389?xtor=RSS-16) |
+| keyword_rejected | - | [The academic community failed Wikipedia for 25 years — now i](https://www.nature.com/articles/d41586-026-00075-0) |
+| keyword_rejected | - | [New massive hot subdwarf binary discovered](https://phys.org/news/2026-01-massive-hot-subdwarf-binary.html) |
+| keyword_rejected | - | [Spaceflight causes astronauts' brains to shift, stretch and ](https://phys.org/news/2026-01-spaceflight-astronauts-brains-shift-compress.html) |
+| keyword_rejected | - | [Genomics reveal Staphylococcus aureus persists during long-t](https://www.nature.com/articles/s41467-025-68081-w) |
+| keyword_rejected | - | [Glassy adhesion dynamics govern transitions between sub-diff](https://www.nature.com/articles/s41467-025-67709-1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113092144&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [QSAR Modeling of JAK Inhibitors: Progress, Challenges, and F](https://dx.doi.org/10.26434/chemrxiv-2026-mqb2d?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Native Charge Detection Mass Spectrometry of Kilobase-Scale ](https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Vertical Solar Panels—Wind-Resistant Trackers for High Latit](https://www.scientificamerican.com/article/vertical-solar-panels-wind-resistant-trackers-for-high-latitudes-vaja/) |
 | keyword_rejected | - | [70 Percent of Cancer Patients Now Survive at Least Five Year](https://www.scientificamerican.com/article/70-percent-of-cancer-patients-now-survive-at-least-five-years-study-finds/) |
