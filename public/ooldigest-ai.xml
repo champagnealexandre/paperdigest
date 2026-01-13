@@ -3,8 +3,120 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T09:25:20.740940+00:00</updated>
+  <updated>2026-01-13T10:20:20.266460+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] PNAS ▶ Correction to Supporting Information for Li et al., p53 deficiency induces MTHFD2 transcription to promote cell proliferation and restrain DNA damage</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R</id>
+    <updated>2026-01-07T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> A correction notice for supporting information on p53-deficiency–driven MTHFD2 transcription and DNA damage in cell proliferation, with no direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] PNAS ▶ ADAR-GPT: A continually fine-tuned language model for predicting A-to-I RNA editing sites</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R</id>
+    <updated>2026-01-09T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceA-to-I RNA editing by adenosine deaminases acting on RNA (ADAR) enzymes reshapes the transcriptome and h</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> PNAS 2026 presents a continually fine-tuned language-model approach (Adar-GPT) to predict ADAR-mediated A-to-I RNA editing sites in modern transcriptomes, offering indirect relevance to origins-of-life via improved understanding/modeling of RNA sequence–function relationships.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceA-to-I RNA editing by adenosine deaminases acting on RNA (ADAR) enzymes reshapes the transcriptome and holds great promise for therapeutic RNA design, yet identifying which adenosines are edited remains a central challenge. We present Adar-GPT,...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] PNAS ▶ Optimizing mRNA delivery with targeted elastin-like polypeptide–based LENN formulations: Insights into the endocytosis mechanism</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2502486122?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2502486122?af=R</id>
+    <updated>2026-01-07T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceLipid nanoparticle and viral vectors are the most common mRNA delivery vehicles, however, they can face </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
+<p><strong>AI Decision:</strong> This PNAS study optimizes elastin-like polypeptide–based nanoparticles for mRNA delivery and elucidates endocytosis mechanisms, offering modern nucleic-acid packaging insights that are only tangentially relevant to Origins-of-Life questions.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceLipid nanoparticle and viral vectors are the most common mRNA delivery vehicles, however, they can face manufacturing, storage, efficacy, and safety challenges. We introduce layer-by-layer elastin-like polypeptide nucleic acid nanoparticle (...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2502486122?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2502486122?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2502486122?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] PNAS ▶ A pothole-filling strategy for selective targeting of rCUG-repeats associated with myotonic dystrophy type 1</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R</id>
+    <updated>2026-01-09T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceThis work presents a class of triplet nucleic acid ligands that combine the targeting precision of antis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, nucleic acid</p>
+<p><strong>AI Decision:</strong> This PNAS study reports compact triplet nucleic acid ligands that selectively bind expanded rCUG RNA repeats in myotonic dystrophy type 1, a biomedical RNA-targeting advance with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceThis work presents a class of triplet nucleic acid ligands that combine the targeting precision of antisense oligonucleotides with the compactness of small molecules to selectively engage expanded CUG-RNA repeats implicated in Myotonic ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [48] ChemRxiv ▶ Nanopore DNA sequencing with a sub-nm stop-and-go mechanical positioning system and current blockades or fluorescent tags</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>DNA sequencing using nanopores and a mechanical positioning system with 0.1-0.15 nm movement precision and ~1 μs movement times is proposed. A single strand of DNA (ssDNA) is attached to a homonucleot</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Proposes a high-precision mechanical stop-and-go nanopore (or optically read) DNA sequencing scheme that could be relevant as an enabling technology for future astrobiology/life-detection assays but is not directly focused on origins-of-life chemistry or abiogenesis.</p>
+<p><strong>Abstract:</strong> DNA sequencing using nanopores and a mechanical positioning system with 0.1-0.15 nm movement precision and ~1 μs movement times is proposed. A single strand of DNA (ssDNA) is attached to a homonucleotide header immobilized on a glass slide mounted on a platform in the cis chamber of an electrolytic cell (e-cell) with a nanopore. The header-strand is moved into the trans chamber and retracted mechanically one nucleotide at a time. Two approaches to sequencing are described. In the first the blockade current due to the segment of the header-strand in the pore is measured with a low bandwidth (&lt; 1 KHZ); a Markov-like method identifies the next base from earlier blockade current levels. In principle, with a bandwidth of 1 KHz and an array of ~600 pores with a CMOS detector array a human genome (3 × 109 bases) can be sequenced in &lt; 1.5 hours, or ~5 hours start-to-finish (sample preparation, ligation with header, threading, data acquisition, and post-processing, plus machine-learning-based methods for base calling). This theoretical sequencing speed is comparable to the practical speed of the recently reported Sequencing By Expansion (SBX) method; it remains to be seen if this level of performance can be delivered in practice. The second approach is based on replacing the enzyme motor in the Sequencing-by-Synthesis (SBS) method with a mechanical positioning system and using a header-strand with a hybridized primer. Synthesis consists of elongating the latter with a protected dNTP carrying a fluorescently tagged base that complements the next open base in the strand followed by deprotection of the dNTP and cleaving of the tag, the latter is detected optically with a Total Internal Reflection Fluorescence (TIRF) camera in trans. This electromechanical-optical alternative to SBS provides better control over sequencing by shielding earlier added nucleotides and reducing cross-talk in the neighborhood of the terminal nucleotide being extended. In theory, with a 1000 × 1000 array of DNA header-strands each ~200 bases long and a cycle time of ~90 seconds, a human chromosome can be sequenced in ~5 hours. The possibility of using the method for data retrieval from DNA-based storage is discussed.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] PNAS ▶ Domestication drives repeated evolution of sexual–asexual life cycle trade-offs in yeast</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R</id>
+    <updated>2026-01-08T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceHumans have bred animals and crops for millennia by controlling their reproductive life cycles. By contr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
+<p><strong>AI Decision:</strong> This PNAS study shows how domestication repeatedly reshapes sexual–asexual life-cycle trade-offs in eukaryotic yeast, offering indirect evolutionary context but little direct relevance to origin-of-life or prebiotic processes.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceHumans have bred animals and crops for millennia by controlling their reproductive life cycles. By contrast, domestication of microbes often occurred unintentionally, and how variation of the microbial life cycle impacts their domestication ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] PNAS ▶ Origin of class B J-domain proteins involved in amyloid transactions</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R</id>
+    <updated>2026-01-09T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceAcross prokaryotes and eukaryotes, J-domain proteins (JDPs) are key players in Hsp70 chaperone systems t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> This PNAS study traces the evolutionary origin of class B J-domain proteins in Hsp70 chaperone networks (including roles in amyloid handling), offering broad-context insight into cellular proteostasis evolution but only indirect relevance to origin-of-life questions.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceAcross prokaryotes and eukaryotes, J-domain proteins (JDPs) are key players in Hsp70 chaperone systems that maintain cellular protein homeostasis. The abundant class A and B JDPs have structural similarities, yet their origin has remained ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] PNAS ▶ Nonsense-mediated decay controls a negative feedback loop in innate immune sensing</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R</id>
+    <updated>2026-01-09T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceNonsense-mediated decay (NMD) is a translation-dependent mRNA decay pathway that plays an important role</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This PNAS study shows that nonsense-mediated mRNA decay modulates a negative feedback loop in cellular innate immune RNA sensing, a modern molecular immunology mechanism with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceNonsense-mediated decay (NMD) is a translation-dependent mRNA decay pathway that plays an important role in shaping the transcriptome. In this manuscript, we show that sensing of viral RNA or transfected dsRNA, through intracellular receptors ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] ChemRxiv ▶ The Role of Na2CO3 in the Selective Flotation of Ca-activated Spodumene and Quartz</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss"/>
@@ -5609,20 +5721,6 @@
 <li><a href="https://www.nature.com/articles/s41598-025-29446-9">https://www.nature.com/articles/s41598-025-29446-9</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41598-025-29446-9">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] Phys. Rev. Lett. ▶ Deterministic Quantum Trajectory via Imaginary Time Evolution</title>
-    <link href="http://link.aps.org/doi/10.1103/fgkg-n2b9"/>
-    <id>http://link.aps.org/doi/10.1103/fgkg-n2b9</id>
-    <updated>2026-01-06T10:00:00Z</updated>
-    <summary>Author(s): Shivan Mittal and Bin Yan Stochastic quantum trajectories, such as pure state evolutions under unitary dynamics and random measurements, offer a crucial ensemble description of many-body op</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Develops a deterministic framework for quantum trajectories using imaginary time evolution in many-body open quantum systems, with no clear connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> Author(s): Shivan Mittal and Bin Yan Stochastic quantum trajectories, such as pure state evolutions under unitary dynamics and random measurements, offer a crucial ensemble description of many-body open system dynamics. Recent studies have highlighted that individual quantum trajectories also encode essential physical information. Prom… [Phys. Rev. Lett. 136, 010401] Published Tue Jan 06, 2026</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://link.aps.org/doi/10.1103/fgkg-n2b9">http://link.aps.org/doi/10.1103/fgkg-n2b9</a></li>
-</ul>
-<p><a href="http://link.aps.org/doi/10.1103/fgkg-n2b9">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [25] ChemRxiv ▶ Luminescent Zr Complexes with Long-lived Intraligand Charge Transfer Excited States</title>

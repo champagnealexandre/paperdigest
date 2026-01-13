@@ -1,5 +1,75 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Nonsense-mediated decay controls a negative feedback loop in](https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R) |
+| ai_scored | 40 | [Origin of class B J-domain proteins involved in amyloid tran](https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R) |
+| ai_scored | 45 | [Domestication drives repeated evolution of sexual–asexual li](https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R) |
+| ai_scored | 48 | [Nanopore DNA sequencing with a sub-nm stop-and-go mechanical](https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 10 | [A pothole-filling strategy for selective targeting of rCUG-r](https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R) |
+| ai_scored | 25 | [Optimizing mRNA delivery with targeted elastin-like polypept](https://www.pnas.org/doi/abs/10.1073/pnas.2502486122?af=R) |
+| ai_scored | 25 | [ADAR-GPT: A continually fine-tuned language model for predic](https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R) |
+| ai_scored | 5 | [Correction to Supporting Information for Li et al., p53 defi](https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R) |
+| keyword_rejected | - | [Des substances toxiques d'usure de pneus en grande quantité ](https://www.sciencesetavenir.fr/nature-environnement/pollution/des-substances-toxiques-d-usure-de-pneus-en-grande-quantite-dans-le-lac-d-annecy-selon-une-association_190376?xtor=RSS-15) |
+| keyword_rejected | - | [La fourmi électrique, coûteuse à éradiquer, menace de prolif](https://www.sciencesetavenir.fr/nature-environnement/la-fourmi-electrique-couteuse-a-eradiquer-menace-de-proliferer-en-france_190380?xtor=RSS-15) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113052004&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Retraction for Mondal et al., IL-12 p40 monomer is different](https://www.pnas.org/doi/abs/10.1073/pnas.2536022123?af=R) |
+| keyword_rejected | - | [Reply to Sun: Real-world bulk density changes support high c](https://www.pnas.org/doi/abs/10.1073/pnas.2533070123?af=R) |
+| keyword_rejected | - | [Correction for Srivastava et al., Emergent neuronal mechanis](https://www.pnas.org/doi/abs/10.1073/pnas.2536323123?af=R) |
+| keyword_rejected | - | [Correction for Freitas et al., Impact of baleen whales on oc](https://www.pnas.org/doi/abs/10.1073/pnas.2537419123?af=R) |
+| keyword_rejected | - | [Correction for He et al., GATA2 facilitates steroid receptor](https://www.pnas.org/doi/abs/10.1073/pnas.2528643122?af=R) |
+| keyword_rejected | - | [Imputing unjustified bulk density values to soils with bioch](https://www.pnas.org/doi/abs/10.1073/pnas.2528257123?af=R) |
+| keyword_rejected | - | [Unintended consequences of well-intended interventions](https://www.pnas.org/doi/abs/10.1073/pnas.2533905122?af=R) |
+| keyword_rejected | - | [The right environment switches the enzymatic character](https://www.pnas.org/doi/abs/10.1073/pnas.2531791123?af=R) |
+| keyword_rejected | - | [Reframing the axon initial segment: Giant ankyrin-G as a mod](https://www.pnas.org/doi/abs/10.1073/pnas.2530592122?af=R) |
+| keyword_rejected | - | [Multimetallic synergies in tandem plasmonic photocatalysis](https://www.pnas.org/doi/abs/10.1073/pnas.2533097122?af=R) |
+| keyword_rejected | - | [Enhanced episodic specificity and socioemotional content in ](https://www.pnas.org/doi/abs/10.1073/pnas.2513990123?af=R) |
+| keyword_rejected | - | [SARS-CoV-2 peptide fragments selectively dysregulate specifi](https://www.pnas.org/doi/abs/10.1073/pnas.2521841122?af=R) |
+| keyword_rejected | - | [Catalysts and inhibitors of critical transitions in ecologic](https://www.pnas.org/doi/abs/10.1073/pnas.2516856122?af=R) |
+| keyword_rejected | - | [Assessing cerebral capillary function and stalling using sin](https://www.pnas.org/doi/abs/10.1073/pnas.2509564123?af=R) |
+| keyword_rejected | - | [M cell–dependent commensal uptake confers encephalitogenic p](https://www.pnas.org/doi/abs/10.1073/pnas.2506550123?af=R) |
+| keyword_rejected | - | [Neural substrate of conditioned stimulus for associative lea](https://www.pnas.org/doi/abs/10.1073/pnas.2519161123?af=R) |
+| keyword_rejected | - | [Systematic identification of single transcription factor per](https://www.pnas.org/doi/abs/10.1073/pnas.2515183123?af=R) |
+| keyword_rejected | - | [Engineered and decellularized human cartilage graft exhibits](https://www.pnas.org/doi/abs/10.1073/pnas.2507185123?af=R) |
+| keyword_rejected | - | [k5-mediated microglial ferroptosis drives ischemic white mat](https://www.pnas.org/doi/abs/10.1073/pnas.2521757123?af=R) |
+| keyword_rejected | - | [Mesoscale imaging of the human cerebellum reveals converging](https://www.pnas.org/doi/abs/10.1073/pnas.2516608123?af=R) |
+| keyword_rejected | - | [Primate-informed neural network for visual decision-making](https://www.pnas.org/doi/abs/10.1073/pnas.2426883123?af=R) |
+| keyword_rejected | - | [The major ion chemistry of seawater was closely coupled to t](https://www.pnas.org/doi/abs/10.1073/pnas.2511781122?af=R) |
+| keyword_rejected | - | [A self-wrapping, bioresorbable neural interface for wireless](https://www.pnas.org/doi/abs/10.1073/pnas.2521817123?af=R) |
+| keyword_rejected | - | [Blood-borne sphingosine 1-phosphate maintains vascular resis](https://www.pnas.org/doi/abs/10.1073/pnas.2512853123?af=R) |
+| keyword_rejected | - | [Highly sensitive chemiluminescence imaging of misfolded prot](https://www.pnas.org/doi/abs/10.1073/pnas.2513311123?af=R) |
+| keyword_rejected | - | [Mechanisms of the viscosity decrease and increase of aqueous](https://www.pnas.org/doi/abs/10.1073/pnas.2531278123?af=R) |
+| keyword_rejected | - | [Self-healing for the long haul: In situ automation delivers ](https://www.pnas.org/doi/abs/10.1073/pnas.2523447123?af=R) |
+| keyword_rejected | - | [Static and dynamic rough energy landscapes can lead to ident](https://www.pnas.org/doi/abs/10.1073/pnas.2516241123?af=R) |
+| keyword_rejected | - | [Pathogen-inspired engineering of plant protease enhances lat](https://www.pnas.org/doi/abs/10.1073/pnas.2524700123?af=R) |
+| keyword_rejected | - | [ACSS2 upregulation enhances neuronal resilience to aging and](https://www.pnas.org/doi/abs/10.1073/pnas.2503834122?af=R) |
+| keyword_rejected | - | [A chemogenetic approach for temporal and cell-specific activ](https://www.pnas.org/doi/abs/10.1073/pnas.2501228123?af=R) |
+| keyword_rejected | - | [Supersaturation-engineered wafer-scale growth of anisotropic](https://www.pnas.org/doi/abs/10.1073/pnas.2522805123?af=R) |
+| keyword_rejected | - | [Spatially resolved multiomics reveals the self-enforcing pro](https://www.pnas.org/doi/abs/10.1073/pnas.2519474123?af=R) |
+| keyword_rejected | - | [Hyperglycemia promotes SIRT3-mediated deacetylation of SARM1](https://www.pnas.org/doi/abs/10.1073/pnas.2517110123?af=R) |
+| keyword_rejected | - | [Distinct PlzC mechanisms integrate chemotaxis and c-di-GMP s](https://www.pnas.org/doi/abs/10.1073/pnas.2511740123?af=R) |
+| keyword_rejected | - | [Phase-transition-like behaviors of sequence-selective dynami](https://www.pnas.org/doi/abs/10.1073/pnas.2514117123?af=R) |
+| keyword_rejected | - | [Pathogenic role of MIF receptor (CD74) expressing T cells in](https://www.pnas.org/doi/abs/10.1073/pnas.2509156123?af=R) |
+| keyword_rejected | - | [Prevention of ubiquitination at K6 and K9 in mutant huntingt](https://www.pnas.org/doi/abs/10.1073/pnas.2527258122?af=R) |
+| keyword_rejected | - | [Cell numbers contribute to cell fate during Ciona cardiophar](https://www.pnas.org/doi/abs/10.1073/pnas.2530472123?af=R) |
+| keyword_rejected | - | [Elucidating cooperative genetic events in DCIS progression i](https://www.pnas.org/doi/abs/10.1073/pnas.2526544123?af=R) |
+| keyword_rejected | - | [Targeting C1q signaling in fibro-adipogenic progenitors prev](https://www.pnas.org/doi/abs/10.1073/pnas.2423340122?af=R) |
+| keyword_rejected | - | [Unveiling a proton-coupled electron-transfer mechanistic lib](https://www.pnas.org/doi/abs/10.1073/pnas.2518909122?af=R) |
+| keyword_rejected | - | [Gender stereotypes across nations relate to the social posit](https://www.pnas.org/doi/abs/10.1073/pnas.2510180122?af=R) |
+| keyword_rejected | - | [Network structure shapes consensus dynamics through individu](https://www.pnas.org/doi/abs/10.1073/pnas.2520483123?af=R) |
+| keyword_rejected | - | [T-bet-expressing Tr1 cells driven by dietary signals dominat](https://www.pnas.org/doi/abs/10.1073/pnas.2520747122?af=R) |
+| keyword_rejected | - | [O-acyltransferase genes involved in the production of volati](https://www.pnas.org/doi/abs/10.1073/pnas.2524778123?af=R) |
+| keyword_rejected | - | [Cholesterol-containing lipid crystals can directly stiffen t](https://www.pnas.org/doi/abs/10.1073/pnas.2518060123?af=R) |
+| keyword_rejected | - | [Effective chilling temperatures for dormancy release in extr](https://www.pnas.org/doi/abs/10.1073/pnas.2531077123?af=R) |
+| keyword_rejected | - | [Combination antiviral and anti-inflammatory therapy mitigate](https://www.pnas.org/doi/abs/10.1073/pnas.2530209123?af=R) |
+| keyword_rejected | - | [The anticipation of imminent events is time-scale invariant](https://www.pnas.org/doi/abs/10.1073/pnas.2518982123?af=R) |
+| keyword_rejected | - | [USP25 inhibition ameliorates Parkinson’s disease by restorin](https://www.pnas.org/doi/abs/10.1073/pnas.2516471123?af=R) |
+| keyword_rejected | - | [Adult neural stem cells mediate hippocampal synapse eliminat](https://www.pnas.org/doi/abs/10.1073/pnas.2517096123?af=R) |
+| keyword_rejected | - | [Implementing the Kunming-Montreal Biodiversity Targets](https://www.pnas.org/doi/abs/10.1073/pnas.2514761123?af=R) |
+| keyword_rejected | - | [Biallelic variants in CELSR1 cause brain malformations, neur](https://www.nature.com/articles/s41467-025-67576-w) |
+| keyword_rejected | - | [Haldane’s law works through X:Autosome incompatibility in Ca](https://www.nature.com/articles/s41467-026-68383-7) |
+| keyword_rejected | - | [Temporal Coincidence in a Carbodiimide Driven Acid-Anhydride](https://dx.doi.org/10.26434/chemrxiv-2026-f2nl8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Flexible Fe(III)-based spin crossover materials through elec](https://dx.doi.org/10.26434/chemrxiv-2026-v49ff?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [How Well Do Classical and Multiscale QM/MM Molecular Dynamic](https://dx.doi.org/10.26434/chemrxiv-2026-p1k35?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electron transfer from singlet fission dimers: possibilities](https://dx.doi.org/10.26434/chemrxiv-2025-jw8kc-v2?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113042517&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Historical deforestation drives strong rainfall decline acro](https://www.nature.com/articles/s41467-026-68361-z) |
 | keyword_rejected | - | [Boron Heterocycles via Direct Activation of Nitriles & Carbo](https://dx.doi.org/10.26434/chemrxiv-2026-x44db?rft_dat=source%3Ddrss) |
