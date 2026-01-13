@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Finding a role for non-coding DNA in trypanosomes](https://elifesciences.org/articles/110271) |
+| ai_scored | 60 | [A quarter-century in orbit: Science shaping life on Earth an](https://phys.org/news/2026-01-quarter-century-orbit-science-life.html) |
+| ai_scored | 0 | [Webb delivers unprecedented look into heart of Circinus gala](https://phys.org/news/2026-01-webb-unprecedented-heart-circinus-galaxy.html) |
+| keyword_rejected | - | [Minerais du Groenland, mission Epsilon et réseaux sociaux : ](https://www.sciencesetavenir.fr/ultrabreves/minerais-du-groenland-mission-epsilon-et-reseaux-sociaux-l-actu-des-sciences-en-ultrabreves_190381) |
+| keyword_rejected | - | [How to improve vaccine uptake: a huge study offers clues](https://www.nature.com/articles/d41586-026-00092-z) |
+| keyword_rejected | - | [Should the Loch Ness Monster have a scientific name?](https://www.nature.com/articles/d41586-025-03991-9) |
+| keyword_rejected | - | ['Nu' citation index may bridge gap between productivity and ](https://phys.org/news/2026-01-nu-citation-index-bridge-gap.html) |
+| keyword_rejected | - | [Massive supernova from Wolf-Rayet star could be precursor to](https://phys.org/news/2026-01-massive-supernova-wolf-rayet-star.html) |
+| keyword_rejected | - | [The path to solar weather forecasts is paved with drops in c](https://phys.org/news/2026-01-path-solar-weather-paved-cosmic.html) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113102123&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Retraction Note: BRCA1 inhibits AR–mediated proliferation of](https://www.nature.com/articles/s41598-026-35495-5) |
+| keyword_rejected | - | [Retraction Note: Restoring the Taxol biosynthetic machinery ](https://www.nature.com/articles/s41598-026-35501-w) |
+| keyword_rejected | - | [Publisher Correction: Direct enantioselective C(<i>sp</i><su](https://www.nature.com/articles/s41557-026-02067-z) |
+| keyword_rejected | - | [systematic evaluation and benchmarking of text summarization](https://www.biorxiv.org/content/10.64898/2026.01.09.697335v1?rss=1) |
 | ai_scored | 40 | [A centuries-old debate on how reptiles keep evolving skin bo](https://phys.org/news/2026-01-centuries-debate-reptiles-evolving-skin.html) |
 | ai_scored | 45 | [Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunc](https://dx.doi.org/10.26434/chemrxiv-2026-q042f-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Asymmetric Iron-Catalyzed Multicomponent Radical Dicarbofunc](https://dx.doi.org/10.26434/chemrxiv-2026-q042f-v2?rft_dat=source%3Ddrss) |
