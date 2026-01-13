@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 75 | [Exoplanet Characterization With NASA’s Habitable Worlds Obse](https://astrobiology.com/2026/01/exoplanet-characterization-with-nasas-habitable-worlds-observatory.html) |
+| ai_scored | 25 | [Asexual yam species employs mimicry to trick birds and sprea](https://phys.org/news/2026-01-asexual-yam-species-employs-mimicry.html) |
+| ai_scored | 55 | [CRANBERRY: An RNA Dynamics Model with Sugar Puckering and No](https://www.biorxiv.org/content/10.64898/2026.01.12.699131v1?rss=1) |
+| ai_scored | 70 | [Ultraviolet Observations Of Atmospheric Escape In Exoplanets](https://astrobiology.com/2026/01/ultraviolet-observations-of-atmospheric-escape-in-exoplanets-with-the-habitable-worlds-observatory.html) |
+| ai_scored | 55 | [Mars Has A Large Impact On Earth’s Climate](https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html) |
+| ai_scored | 35 | [SETI@Home Enthusiasts Used Home Computers To Search For ET. ](https://astrobiology.com/2026/01/seti-at-home-enthusiasts-used-home-computers-to-search-fr-et-scientists-focus-on-100-signals-they-found.html) |
+| ai_scored | 60 | [Time-dependent Chemical Evolution During Cloud Formation: H2](https://astrobiology.com/2026/01/time-dependent-chemical-evolution-during-cloud-formation-h2-regulated-chemistry-in-diffuse-molecular-cloud.html) |
+| ai_scored | 60 | [Investigating the High-energy Radiation Environment of Plane](https://astrobiology.com/2026/01/investigating-the-high-energy-radiation-environment-of-planets-in-sun-like-binary-systems.html) |
+| ai_scored | 40 | [Electron Temperature Relations And The Direct N, O, Ne, S An](https://astrobiology.com/2026/01/electron-temperature-relations-and-the-direct-n-o-ne-s-and-ar-abundances-of-49959-star-forming-galaxies-in-desi-data-release-2.html) |
+| ai_scored | 65 | [Salt Diapirs As An Architect Of Neoproterozoic Stromatolite ](https://astrobiology.com/2026/01/salt-diapirs-as-an-architect-of-neoproterozoic-stromatolite-platform-reefs.html) |
+| ai_scored | 45 | [JWST Captures Growth of Aromatic Hydrocarbon Dust Particles ](https://astrobiology.com/2026/01/jwst-captures-growth-of-aromatic-hydrocarbon-dust-particles-in-the-extremely-metal-poor-galaxy-sextans-a.html) |
+| ai_scored | 60 | [AI Learns From The Tree Of Life To Support Rare Disease Diag](https://astrobiology.com/2026/01/ai-learns-from-the-tree-of-life-to-support-rare-disease-diagnosis.html) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113132644&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Pentagon Reportedly Testing Radio Wave Device Linked to ‘Hav](https://www.scientificamerican.com/article/pentagon-reportedly-testing-radio-wave-device-linked-to-havana-syndrome/) |
+| keyword_rejected | - | [The Pacific Islanders fighting to save their homes from cata](https://www.newscientist.com/article/2509948-the-pacific-islanders-fighting-to-save-their-homes-from-catastrophe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The Pacific Islanders fighting to save their homes from cata](https://www.newscientist.com/article/2509948-the-pacific-islanders-fighting-to-save-their-homes-from-catastrophe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The Pacific Islanders fighting to save their homes from cata](https://www.newscientist.com/article/2509948-the-pacific-islanders-fighting-to-save-their-homes-from-catastrophe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Fluid gears rotate without teeth, offering new mechanical fl](https://phys.org/news/2026-01-fluid-gears-rotate-teeth-mechanical.html) |
+| keyword_rejected | - | [ATP burst is the dominant driver of antibiotic lethality in ](https://elifesciences.org/articles/99656) |
 | ai_scored | 7 | [Cross-species architecture of the cardiac transverse-axial t](https://www.biorxiv.org/content/10.64898/2026.01.10.698376v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113122323&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Greenland sharks survive for centuries with diseased hearts](https://www.newscientist.com/article/2511222-greenland-sharks-survive-for-centuries-with-diseased-hearts/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
