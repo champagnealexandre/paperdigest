@@ -3,8 +3,106 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T11:17:33.550257+00:00</updated>
+  <updated>2026-01-13T12:39:15.100241+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Nature Communications ▶ Predicting age of respiratory syncytial virus infection from birth timing</title>
+    <link href="https://www.nature.com/articles/s41467-025-67947-3"/>
+    <id>https://www.nature.com/articles/s41467-025-67947-3</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 13 January 2026; doi:10.1038/s41467-025-67947-3 Early life RSV infection contributes to risk of childhood asthma. Here, the authors develop a statistical model</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Develops a statistical model to predict age at first respiratory syncytial virus infection from birth timing and demographics to identify infants at higher risk of later asthma, with minimal relevance to origins-of-life research beyond the generic phrase &quot;early life.&quot;</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 13 January 2026; doi:10.1038/s41467-025-67947-3 Early life RSV infection contributes to risk of childhood asthma. Here, the authors develop a statistical model to predict age at first RSV infection in the United States based on birthdate, demographics, and RSV surveillance data which could be used to identify groups at risk of chronic respiratory sequalae like asthma.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-67947-3">https://www.nature.com/articles/s41467-025-67947-3</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-67947-3">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] ChemRxiv ▶ 4CzIPN Photosensitizes the Cobaloxime-catalyzed Light-Driven Hydrogen Evolution Reaction</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>TADF compounds have found great application as photocatalyst in recent years. Their use as photosensitizers (PS), however, is still limited although they have a huge potential as abundant alternatives</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Demonstrates an organic TADF photosensitizer (4CzIPN) driving cobaloxime-catalyzed light-powered hydrogen evolution with high TONs and mechanistic insight into singlet-state quenching by ammonium ascorbate, offering indirect relevance to potential prebiotic photoredox energy transduction.</p>
+<p><strong>Abstract:</strong> TADF compounds have found great application as photocatalyst in recent years. Their use as photosensitizers (PS), however, is still limited although they have a huge potential as abundant alternatives for traditional noble metal-based PSs, such as [Ru(bpy)3]2+. We herein investigate the TADF compound 4CzIPN as a PS together with the catalyst cobaloxime (Co(dmgH)2(py)Cl) in the photochemical hydrogen-evolution reaction (HER). After optimization using a multi-batch screening photoreactor, we achieved turnover numbers (TONs) of over 5,000 with ammonium ascorbate as an abundant sacrificial electron donor (SED). Stern-Volmer quenching experiments and scalar-relativistic quantum-chemical calculations provided rate constants for the different processes in the photosensitization mechanism, demonstrating that the quenching of the excited singlet state (S1) of 4CzIPN by ammonium ascorbate is by far more dominant than the quenching of its excited triplet state (T1). This work demonstrates that 4CzIPN is capable of sensitizing the cobaloxime-catalyzed light-driven HER with ammonium ascorbate as the SED and gives an excited insight into the quenching mechanism of TADF compounds as PSs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] Organic Chemistry on ChemRxiv ▶ 4CzIPN Photosensitizes the Cobaloxime-catalyzed Light-Driven Hydrogen Evolution Reaction</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>TADF compounds have found great application as photocatalyst in recent years. Their use as photosensitizers (PS), however, is still limited although they have a huge potential as abundant alternatives</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Demonstrates an Earth-abundant organic photosensitizer (4CzIPN) driving cobaloxime-catalyzed light-driven H2 evolution with high TONs, offering broadly relevant insights into photochemical energy transduction that could inform (but does not directly address) origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> TADF compounds have found great application as photocatalyst in recent years. Their use as photosensitizers (PS), however, is still limited although they have a huge potential as abundant alternatives for traditional noble metal-based PSs, such as [Ru(bpy)3]2+. We herein investigate the TADF compound 4CzIPN as a PS together with the catalyst cobaloxime (Co(dmgH)2(py)Cl) in the photochemical hydrogen-evolution reaction (HER). After optimization using a multi-batch screening photoreactor, we achieved turnover numbers (TONs) of over 5,000 with ammonium ascorbate as an abundant sacrificial electron donor (SED). Stern-Volmer quenching experiments and scalar-relativistic quantum-chemical calculations provided rate constants for the different processes in the photosensitization mechanism, demonstrating that the quenching of the excited singlet state (S1) of 4CzIPN by ammonium ascorbate is by far more dominant than the quenching of its excited triplet state (T1). This work demonstrates that 4CzIPN is capable of sensitizing the cobaloxime-catalyzed light-driven HER with ammonium ascorbate as the SED and gives an excited insight into the quenching mechanism of TADF compounds as PSs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] ChemRxiv ▶ Combating drug-resistant Staphylococcus aureus infection with pathogen-specific positron emission tomography and targeted radionuclide therapy</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-phkc6?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-phkc6?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Staphylococcus aureus (S. aureus) is a major bacterial pathogen and a significant biothreat, representing a leading cause of bacterial mortality worldwide. The challenge is compounded by methicillin-r</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Develops an antimicrobial peptide–based PET imaging and targeted radionuclide therapy pair for specifically detecting and treating (methicillin-resistant) S. aureus infections, with limited relevance to origins-of-life research beyond general DNA-targeting biology.</p>
+<p><strong>Abstract:</strong> Staphylococcus aureus (S. aureus) is a major bacterial pathogen and a significant biothreat, representing a leading cause of bacterial mortality worldwide. The challenge is compounded by methicillin-resistant S. aureus (MRSA), a strain resistant to first-line antibiotics, which is associated with a 64% higher mortality rate compared to susceptible strains. Current methods for accurately identifying and localizing occult infections are limited, and there is a critical lack of effective novel treatments for infections that fail to respond to antibiotics. To address this, we pioneered the development of an antimicrobial peptide (AMP)-based radiotheranostic pair for the imaging-guided treatment of S. aureus and MRSA infections. We first screened a library of renowned AMPs for their efficacy against (MR)SA and their suitability for non-invasive, whole-body PET imaging after radiolabeling with Gallium-68. The optimal candidate, [68Ga]QAMP3, demonstrated excellent performance, readily and specifically accumulating in both S. aureus and MRSA infection sites, but not in sterile inflammation or tumors. A pilot first-in-human study confirmed the translatable diagnostic potential and favorable biosafety profile of [68Ga]QAMP3. Furthermore, the corresponding therapeutic agent, [177Lu]QAMP3, effectively reduced bacterial load in rat models of septic arthritis caused by both S. aureus and MRSA following a single systemic administration. Treatment resulted in the complete restoration of joint morphology, comparable to healthy controls. Simultaneously, [68Ga]QAMP3 PET/CT imaging accurately monitored the therapeutic response to both [177Lu]QAMP3 and conventional antibiotic treatment. Finally, molecular dynamics simulations revealed that the stable α-helical conformation of QAMP3 likely confers superior membrane permeability and subsequent internalization into bacterial cells, leading to lethal DNA damage. These findings position [68Ga]/[177Lu]QAMP3 as an innovative theranostic pair for the rapid diagnosis and effective treatment of MRSA infections. This study also paves the way for developing new radio-antibiotics with mechanisms of action that can circumvent conventional antibiotic resistance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-phkc6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-phkc6?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-phkc6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] PNAS Evolution ▶ Earliest perissodactyls reveal large-scale dispersals during the PETM</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R</id>
+    <updated>2026-01-12T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. SignificanceAlthough the evolution of horses is regarded as a remarkable evolutionary sequence, early perissodactyls</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This PNAS study uses early horse relatives to infer large-scale mammal dispersal patterns during the Paleocene–Eocene Thermal Maximum, a macroevolutionary biogeography result with minimal direct relevance to origins-of-life astrobiology.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. SignificanceAlthough the evolution of horses is regarded as a remarkable evolutionary sequence, early perissodactyls likeHyracotheriumhave been considered as a systematic and paleobiogeographic puzzle for more than 150 y. Here, based on a new large-...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary Divergence of mTOR-mediated Transcriptional Regulation Between Drosophila melanogaster and Drosophila simulans is Modulated by Sex and Tissue</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Evolutionary divergence in gene regulation is a major source of phenotypic novelty, yet understanding how deeply conserved, pleiotropic signaling pathways evolve under selective constraint while maint</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, evolution</p>
+<p><strong>AI Decision:</strong> RNA-seq comparison of rapamycin-treated D. melanogaster vs D. simulans shows sex- and tissue-dependent evolutionary divergence in mTOR-mediated transcriptional regulation despite overall conserved tissue expression.</p>
+<p><strong>Abstract:</strong> Evolutionary divergence in gene regulation is a major source of phenotypic novelty, yet understanding how deeply conserved, pleiotropic signaling pathways evolve under selective constraint while maintaining essential cellular functions remains an important challenge. Here, we investigate the evolutionary divergence in transcriptional regulation mediated by the mechanistic target of rapamycin (mTOR) pathway in two related species, Drosophila melanogaster and Drosophila simulans. mTOR is a highly conserved central regulator of cellular growth and metabolism, making it well-suited for the study of regulatory evolution under functional constraint. Using a fully factorial RNA-seq design, we quantified transcriptional responses to mTOR inhibition by rapamycin across three tissues (head, thorax, and abdomen) and both sexes. Despite highly conserved tissue-specific expression - reflecting the close phylogenetic relationship between species - mTOR-mediated transcriptional responses showed clear evidence of evolutionary divergence. Divergence varied across tissues and sexes: heads of both sexes and female thoraces and abdomens showed the most rapid gene-level divergence, suggesting stronger directional selection, whereas male thorax and abdomen exhibited comparatively conserved responses, consistent with stabilizing selection. Gene-level divergence patterns were consistent across multiple metrics and generally mirrored pathway-level divergence, except in the female abdomen, which showed relative pathway-level conservation despite extensive gene-level divergence. Species-by-treatment interaction analyses further revealed divergence in core mTOR-regulated biological processes. Together, our results suggest that regulatory modularity may allow even highly conserved signaling pathways to evolve under context-specific selective pressures while maintaining critical functionality.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Genomic and phenotypic diversification of Pseudomonas aeruginosa during sustained exposure to a ciliate predator</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Opportunistic bacterial pathogens often encounter strong selective pressures outside their hosts, yet the evolutionary consequences of long-term predator exposure remain poorly understood. Here, we us</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, evolution</p>
+<p><strong>AI Decision:</strong> Experimental evolution shows that long-term ciliate predation can steer predictable genomic and phenotypic diversification in Pseudomonas aeruginosa, though abiotic adaptation dominates and virulence changes are modest and context dependent.</p>
+<p><strong>Abstract:</strong> Opportunistic bacterial pathogens often encounter strong selective pressures outside their hosts, yet the evolutionary consequences of long-term predator exposure remain poorly understood. Here, we used experimental evolution to examine how sustained interaction with a eukaryotic predator shapes genomic adaptation, phenotypic diversification, and virulence-associated traits in Pseudomonas aeruginosa. Replicate populations of P. aeruginosa were evolved for 60 days in the presence or absence of the ciliate predator Tetrahymena thermophila, followed by whole-population metagenomic sequencing, isolate-level genome sequencing, and quantitative phenotypic assays. We observed extensive genetic diversification across all populations, with strong signatures of both positive and purifying selection and pervasive parallel evolution at gene and nucleotide levels. Predator-exposed populations accumulated mutations enriched in regulatory, metabolic, and virulence-associated pathways, revealing predictable genomic targets of selection. However, many parallel mutations were shared between predator-exposed and predator-free populations, indicating that adaptation to the abiotic environment represented a dominant selective force. Genotype-phenotype analyses revealed pleiotropic effects and trade-offs linking motility, growth, and virulence-associated traits. Despite pronounced genomic adaptation and coordinated phenotypic shifts, changes in virulence in an in vivo host model were modest and context dependent. Taken together, our results indicate that predator exposure can influence evolutionary trajectories in P. aeruginosa and highlight the value of extending such approaches across multiple ecological and host contexts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] PNAS ▶ Correction to Supporting Information for Li et al., p53 deficiency induces MTHFD2 transcription to promote cell proliferation and restrain DNA damage</title>
     <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2536995123?af=R"/>

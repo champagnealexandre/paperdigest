@@ -1,5 +1,38 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Genomic and phenotypic diversification of Pseudomonas aerugi](https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1) |
+| ai_scored | 20 | [Evolutionary Divergence of mTOR-mediated Transcriptional Reg](https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1) |
+| ai_scored | 10 | [Earliest perissodactyls reveal large-scale dispersals during](https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R) |
+| ai_scored | 15 | [Combating drug-resistant Staphylococcus aureus infection wit](https://dx.doi.org/10.26434/chemrxiv-2026-phkc6?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [4CzIPN Photosensitizes the Cobaloxime-catalyzed Light-Driven](https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [4CzIPN Photosensitizes the Cobaloxime-catalyzed Light-Driven](https://dx.doi.org/10.26434/chemrxiv-2026-fl6jw?rft_dat=source%3Ddrss) |
+| ai_scored | 5 | [Predicting age of respiratory syncytial virus infection from](https://www.nature.com/articles/s41467-025-67947-3) |
+| keyword_rejected | - | [How did birds evolve? The answer is wilder than anyone thoug](https://www.nature.com/articles/d41586-026-00076-z) |
+| keyword_rejected | - | [Berry Batesian mimicry enables bird dispersal of asexual bul](https://www.pnas.org/doi/abs/10.1073/pnas.2528094123?af=R) |
+| keyword_rejected | - | [Contre une désinformation en santé "massive", le gouvernemen](https://www.sciencesetavenir.fr/politique/contre-une-desinformation-en-sante-massive-le-gouvernement-devoile-de-premiers-outils-de-riposte_190377) |
+| keyword_rejected | - | [Pénurie de psychotropes: l'agence du médicament constate une](https://www.sciencesetavenir.fr/sante/penurie-de-psychotropes-l-agence-du-medicament-constate-une-fragile-amelioration_190386?xtor=RSS-16) |
+| keyword_rejected | - | [Sophie Adenot : à l'assaut des sciences dans l'espace](https://www.sciencesetavenir.fr/espace/exploration/l-astronaute-francaise-sophie-adenot-a-l-assaut-des-sciences-sur-terre-et-bientot-dans-l-espace_190384?xtor=RSS-9) |
+| keyword_rejected | - | [JWST interferometric imaging reveals the dusty torus obscuri](https://www.nature.com/articles/s41467-025-66010-5) |
+| keyword_rejected | - | [Unusual objects illuminate new evolutionary paths](https://www.nature.com/articles/s41550-025-02762-w) |
+| keyword_rejected | - | [The astronomical year ahead](https://www.nature.com/articles/s41550-026-02779-9) |
+| keyword_rejected | - | [SpaceX knocks 3rd Space Coast launch of 2026: Readies for Cr](https://phys.org/news/2026-01-spacex-3rd-space-coast-readies.html) |
+| keyword_rejected | - | [Tropical forest carbon sequestration accelerated by nitrogen](https://www.nature.com/articles/s41467-025-66825-2) |
+| keyword_rejected | - | [Intelectin-2 is a broad-spectrum antimicrobial lectin](https://www.nature.com/articles/s41467-025-67099-4) |
+| keyword_rejected | - | [Predicting age of respiratory syncytial virus infection from](https://www.nature.com/articles/s41467-025-67947-3) |
+| keyword_rejected | - | [Global solidarity in genomic surveillance improves early det](https://www.nature.com/articles/s41467-025-67442-9) |
+| keyword_rejected | - | [Mechanism of SARS-CoV-2 resistance to nucleotide analog-base](https://www.nature.com/articles/s41467-026-68304-8) |
+| keyword_rejected | - | [Intranasal unadjuvanted LcrV boosts parental Yersinia OMV pr](https://www.nature.com/articles/s41467-026-68334-2) |
+| keyword_rejected | - | [Energy optimization of PV systems under partial shading cond](https://www.nature.com/articles/s41598-026-36117-w) |
+| keyword_rejected | - | [Identification of a thermogenic target in the dorsal raphe n](https://www.nature.com/articles/s41467-025-68056-x) |
+| keyword_rejected | - | [Global solidarity in genomic surveillance improves early det](https://www.nature.com/articles/s41467-025-67442-9) |
+| keyword_rejected | - | [Intranasal unadjuvanted LcrV boosts parental <i>Yersinia</i>](https://www.nature.com/articles/s41467-026-68334-2) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113073857&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Broad scope direct decarboxylative alkylation of bicycloalky](https://dx.doi.org/10.26434/chemrxiv-2026-zcxdp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Are theoretical advances in distance-based tree learning pra](https://www.biorxiv.org/content/10.64898/2026.01.12.698017v1?rss=1) |
+| keyword_rejected | - | [Identifying Evolutionary Relatedness Effects on Diversificat](https://www.biorxiv.org/content/10.64898/2026.01.12.699140v1?rss=1) |
+| keyword_rejected | - | [Emissive Oxygen Bridged Pyridine Phenolate Boron Complex](https://dx.doi.org/10.26434/chemrxiv-2026-fb019?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Syntheses, Structures and Reactivity of the Complex [(2,9-(t](https://dx.doi.org/10.26434/chemrxiv-2026-4g9tn?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Broad scope direct decarboxylative alkylation of bicycloalky](https://dx.doi.org/10.26434/chemrxiv-2026-zcxdp?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113061729&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Une fusion imminente de trois galaxies abritant chacune un t](https://www.sciencesetavenir.fr/espace/univers/decouverte-d-une-fusion-imminente-de-trois-galaxies-abritant-chacune-un-trou-noir-supermassif_190342?xtor=RSS-9) |
 | keyword_rejected | - | [Daily briefing: The neural circuit that can make it hard to ](https://www.nature.com/articles/d41586-026-00142-6) |
