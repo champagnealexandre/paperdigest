@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [En France, moins d'oiseaux là où plus de pesticides sont ach](https://www.sciencesetavenir.fr/nature-environnement/en-france-moins-d-oiseaux-la-ou-plus-de-pesticides-sont-achetes-selon-une-etude_190394?xtor=RSS-15) |
+| keyword_rejected | - | [Les douanes chinoises bloquent l’entrée des puces Nvidia H20](https://www.sciencesetavenir.fr/les-douanes-chinoises-bloquent-l-entree-des-puces-nvidia-h200-selon-des-sources_190395) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114032503&v=2.18.0.post22+67771e2) |
 | ai_scored | 10 | [Hydrodynamic Spin-Coupling of Rotors](http://link.aps.org/doi/10.1103/m6ft-ll2c) |
 | ai_scored | 40 | [Are Simulated Ocean Deoxygenation Rates Consistent with the ](https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-123111?TRACK=RSS) |
 | ai_scored | 0 | [Advanced Torrential Loss Function for Precipitation Forecast](http://link.aps.org/doi/10.1103/c36m-stxl) |
