@@ -1,5 +1,29 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Hydrogen-Bonding-Directed Diastereoselective [2+2] Photocycl](https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss) |
+| ai_scored | 100 | [Origins of Life: Chemistry and Evolution](https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss) |
+| ai_scored | 30 | [Predicting the fate of tropical forests under intensifying h](https://www.nature.com/articles/d41586-025-04093-2) |
+| ai_scored | 5 | [Differential Water Networks Guide Selectivity Optimization o](https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [RFK, Jr.’s New Kids’ Vaccine Guidelines Will Worsen Flu and ](https://www.scientificamerican.com/article/rfk-jr-s-new-kids-vaccine-guidelines-will-worsen-flu-and-other-winter/) |
+| keyword_rejected | - | [T. rex Never Stopped Growing, Dinosaur Bone Study Suggests](https://www.scientificamerican.com/article/t-rex-never-stopped-growing-dinosaur-bone-study-suggests/) |
+| keyword_rejected | - | [Siwarha's wake gives it away at Betelgeuse](https://phys.org/news/2026-01-siwarha-betelgeuse.html) |
+| keyword_rejected | - | [Beneath acid skies](https://www.nature.com/articles/d41586-025-04030-3) |
+| keyword_rejected | - | [Three tips for scientific writing: a guide for graduate stud](https://www.nature.com/articles/d41586-025-03804-z) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114083738&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Correction: Correlation analysis between RAS gene mutations ](https://www.nature.com/articles/s41598-026-36079-z) |
+| keyword_rejected | - | [Correction: The outcomes of first-generation (visumax 500) a](https://www.nature.com/articles/s41598-026-35875-x) |
+| keyword_rejected | - | [What if We Were to Design Transport in Aqueous Electrolytes ](https://dx.doi.org/10.26434/chemrxiv-2026-t8p83?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Clarifying Stereochemical Outcomes in Radical-Initiated Viny](https://dx.doi.org/10.26434/chemrxiv-2026-94d6n?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Revisiting the Robin–Day Classification through Switchable E](https://dx.doi.org/10.26434/chemrxiv-2026-83vzz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Nephroprotective Effects of Juniperus Sabina L. Essential Oi](https://dx.doi.org/10.26434/chemrxiv-2026-0nqb3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Framework of Copolymer gel Dynamics and Ligand Interaction F](https://dx.doi.org/10.26434/chemrxiv-2026-4kmdq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Deep Learning for Assay Nuisance Compound Detection Using a ](https://dx.doi.org/10.26434/chemrxiv-2026-z8srk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [PervoTransformer: Transformer-Based PCE Prediction
+and Devic](https://dx.doi.org/10.26434/chemrxiv-2026-mdsdz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Molecular property changes from lead to drug: an update for ](https://dx.doi.org/10.26434/chemrxiv-2026-ftdmx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [EvoDiffMol: Evolutionary Diffusion Framework for 3D Molecula](https://dx.doi.org/10.26434/chemrxiv-2026-83634?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Clarifying Stereochemical Outcomes in Radical-Initiated Viny](https://dx.doi.org/10.26434/chemrxiv-2026-94d6n?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Nephroprotective Effects of Juniperus Sabina L. Essential Oi](https://dx.doi.org/10.26434/chemrxiv-2026-0nqb3?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Redox robustness drives LPMO evolution](https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R) |
 | keyword_rejected | - | [Du château fort au laboratoire, une archéologue sonore ressu](https://www.sciencesetavenir.fr/sciences/du-chateau-fort-au-laboratoire-une-archeologue-sonore-ressuscite-le-passe_190402?xtor=RSS-18) |
 | keyword_rejected | - | [En plein Antarctique, une cave d'archives de glaces unique a](https://www.sciencesetavenir.fr/sciences/en-plein-antarctique-une-cave-d-archives-de-glaces-unique-au-monde-ouvre-ses-portes_190399?xtor=RSS-18) |

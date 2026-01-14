@@ -3,8 +3,64 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T12:38:15.906287+00:00</updated>
+  <updated>2026-01-14T13:37:59.972131+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] ChemRxiv ▶ Differential Water Networks Guide Selectivity Optimization of a Cell Active BPTF Inhibitor in Neuroblastoma</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Bromodomain PHD finger Transcription Factor (BPTF) is an epigenetic regulator implicated in cancer progression. However, despite its oncogenic significance, highly selective and potent inhibitors of t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Medicinal chemistry/structural biology study optimizing a selective BPTF bromodomain inhibitor via water-network interactions in cancer cells, with no substantive connection to origins-of-life or astrobiology beyond a generic mention of water.</p>
+<p><strong>Abstract:</strong> Bromodomain PHD finger Transcription Factor (BPTF) is an epigenetic regulator implicated in cancer progression. However, despite its oncogenic significance, highly selective and potent inhibitors of the BPTF bromodomain (BRD) with suitable physicochemical properties are lacking. Previously, we reported BZ1, a submicromolar BPTF inhibitor which has off-target activities. Here, we applied comparative structural biology and molecular modeling to design BZ2, a regioisomer of BZ1 with enhanced selectivity for BPTF over other class I bromodomains and class-IV BRDs such as BRD7 and BRD9. Co-crystal structures and computational analyses reveal that differential engagement of water networks and polar interactions drives this selectivity. Functional studies demonstrate that genetic disruption of the BPTF BRD or treatment with BZ2 suppresses neuroblastoma cell growth. With high potency and improved physicochemical properties, BZ2 provides a valuable tool for probing the biology of BPTF and represents a promising starting point for advancing BPTF-targeted drug development.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] Nature ▶ Predicting the fate of tropical forests under intensifying heat</title>
+    <link href="https://www.nature.com/articles/d41586-025-04093-2"/>
+    <id>https://www.nature.com/articles/d41586-025-04093-2</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Nature, Published online: 14 January 2026; doi:10.1038/d41586-025-04093-2 Intense droughts have caused water stress and elevated mortality for trees in the Amazon, foreshadowing the future of tropical</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> A climate–ecology perspective on how intensifying heat and drought drive water stress and mortality in Amazon trees, informing Earth-system habitability context but not origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 14 January 2026; doi:10.1038/d41586-025-04093-2 Intense droughts have caused water stress and elevated mortality for trees in the Amazon, foreshadowing the future of tropical forests as the climate changes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/d41586-025-04093-2">https://www.nature.com/articles/d41586-025-04093-2</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/d41586-025-04093-2">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] ChemRxiv ▶ Origins of Life: Chemistry and Evolution</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>The origins of biopolymers embody a central question about the origin of life and the nature of chemical sciences. Two conceptually distinct models, direct chemical synthesis and chemical evolution, h</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, nucleic acid, RNA, prebiotic, origin(s) of life, evolution, earth</p>
+<p><strong>AI Decision:</strong> This paper synthesizes competing models for the prebiotic emergence of RNA—direct chemical synthesis versus prolonged chemical evolution in diverse mixtures—highlighting how each framework motivates different predictions, experimental strategies, and implications for early biomolecular co-evolution on Earth.</p>
+<p><strong>Abstract:</strong> The origins of biopolymers embody a central question about the origin of life and the nature of chemical sciences. Two conceptually distinct models, direct chemical synthesis and chemical evolution, have been advanced to explain the prebiotic emergence of RNA and other biopolymers, and they motivate different predictions and experimental approaches. In the direct chemical synthesis model, the inherent reactivities of prebiotic compounds on the ancient Earth led to the formation of RNA, which subsequently enabled Darwinian evolution. This model depends on the prebiotic availability of sugars (and their precursors), nucleic acid bases, amino acids, and other chemical species. In this framework, serial and parallel chemical reactions, governed primarily by the intrinsic properties of small-molecule feedstocks, combine stepwise to yield RNA. In a fundamentally different and more recent model, RNA is assumed to have emerged alongside other biopolymers during a prolonged interval of chemical evolution in which complex, diverse molecular ensembles were subject to dynamic and continually shifting selective pressures. In this evolutionary framework, RNA does not arise directly from simple building blocks in a prebiotic milieu but from iterative cycles of diversity generation, selective retention, and chemical transformation within heterogeneous organic mixtures. This model presages deep biological entanglement among different classes of biomolecules. It remains unknown whether direct chemical synthesis, chemical evolution, or some combination of these processes provides a viable prebiotic path to RNA.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] ChemRxiv ▶ Hydrogen-Bonding-Directed Diastereoselective [2+2] Photocycloaddition by Phosphorescent Carbon Dots</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Light-driven [2+2] cycloaddition offers the most direct route to tetrasubstituted cyclobutanes, but controlling diastereoselectivity remains a fundamental challenge: solution-phase reactions favor HH-</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Phosphorescent carbon dots act as visible-light triplet sensitizers for [2+2] photocycloadditions, using surface hydrogen-bonding to template unusually high HH-syn diastereoselectivity—an interesting model for how surface-mediated photochemistry could, in principle, bias product distributions in prebiotic-like settings, though not directly focused on origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Light-driven [2+2] cycloaddition offers the most direct route to tetrasubstituted cyclobutanes, but controlling diastereoselectivity remains a fundamental challenge: solution-phase reactions favor HH-anti products, while the synthetically valuable HH-syn diastereomers require solid-state preorganization, supramolecular templating, or cadmium-based quantum dot photocatalysts. Here we show that phosphorescent carbon dots serve as visible-light photocatalysts for homo- and hetero-intermolecular [2+2] cycloadditions via triplet–triplet energy transfer, the first demonstration of carbon dots as triplet-energy donors in organic synthesis. Hydrogen-bonding interactions between substrates and the carboxylate-rich catalyst surface enable up to &gt;33:1 diastereoselectivity for HH-syn cyclobutanes. This surface-mediated control extends to multiple hydrogen-bond donors, including carboxylic acids and amides. The reaction tolerates diverse functional groups, scales to gram quantities with sustained catalytic activity over 300 hours, establishing earth-abundant carbon dots as practical photocatalysts for stereoselective synthesis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] PNAS Evolution ▶ Redox robustness drives LPMO evolution</title>
     <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R"/>
