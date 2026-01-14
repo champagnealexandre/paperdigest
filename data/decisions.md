@@ -1,5 +1,52 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [CFAP20 salvages arrested RNAPII from the path of co-directio](https://www.nature.com/articles/s41586-025-09943-7) |
+| ai_scored | 10 | [THE HIV-1 SILENCER BCL11B/CTIP2 REGULATES THE TLR3-MEDIATED ](https://www.biorxiv.org/content/10.64898/2026.01.13.699245v1?rss=1) |
+| ai_scored | 75 | [Genomic clues to the origin of eukaryotic cells](https://www.nature.com/articles/d41586-025-04094-1) |
+| ai_scored | 50 | [A nowhere-to-hide mechanism ensures complete piRNA-directed ](https://www.nature.com/articles/s41586-025-09940-w) |
+| ai_scored | 50 | [Jupiter's hidden depths: Simulation suggests planet holds 1.](https://phys.org/news/2026-01-jupiter-hidden-depths-simulation-planet.html) |
+| ai_scored | 70 | [Dominant contribution of Asgard archaea to eukaryogenesis](https://www.nature.com/articles/s41586-025-09960-6) |
+| ai_scored | 15 | [A 'cosmic clock' in tiny crystals reveals the rise and fall ](https://phys.org/news/2026-01-cosmic-clock-tiny-crystals-reveals.html) |
+| ai_scored | 5 | [Type VI collagen is proportionally lower around airways and ](https://www.biorxiv.org/content/10.64898/2026.01.13.698558v1?rss=1) |
+| ai_scored | 5 | [Ageing rewires the body’s tolerance to infection](https://www.nature.com/articles/d41586-025-04091-4) |
+| ai_scored | 5 | [Predictive coding of reward in the hippocampus](https://www.nature.com/articles/s41586-025-09958-0) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114122434&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Défendre la science, toujours](https://www.sciencesetavenir.fr/decouvrir/agenda/defendre-la-science-toujours_190405?xtor=RSS-27) |
+| keyword_rejected | - | [Dans l'estomac d'un loup, un tissu de rhinocéros laineux liv](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/dans-l-estomac-d-un-loup-un-tissu-de-rhinoceros-laineux-livre-son-adn_190385?xtor=RSS-4) |
+| keyword_rejected | - | [Memories of items and their contexts are encoded by separate](https://www.nature.com/articles/d41586-026-00016-x) |
+| keyword_rejected | - | [Biosensors characterize the routes taken by receptors to dif](https://www.nature.com/articles/d41586-026-00011-2) |
+| keyword_rejected | - | [Credit in research goes hand in hand with responsibility](https://www.nature.com/articles/d41586-026-00006-z) |
+| keyword_rejected | - | [Mysterious ‘little red dots’ could be black holes in disguis](https://www.nature.com/articles/d41586-025-04089-y) |
+| keyword_rejected | - | [Stretchy organic LED devices with an ‘exciplex’ state are hi](https://www.nature.com/articles/d41586-025-04164-4) |
+| keyword_rejected | - | [LLMs behaving badly: mistrained AI models quickly go off the](https://www.nature.com/articles/d41586-025-04090-5) |
+| keyword_rejected | - | [AI tools boost individual scientists but could limit researc](https://www.nature.com/articles/d41586-025-04092-3) |
+| keyword_rejected | - | [Polyamine-dependent metabolic shielding regulates alternativ](https://www.nature.com/articles/s41586-025-09965-1) |
+| keyword_rejected | - | [Sub-zero Celsius elastocaloric cooling via low-transition-te](https://www.nature.com/articles/s41586-025-09946-4) |
+| keyword_rejected | - | [Artificial intelligence tools expand scientists’ impact but ](https://www.nature.com/articles/s41586-025-09922-y) |
+| keyword_rejected | - | [An electrically injected solid-state surface acoustic wave p](https://www.nature.com/articles/s41586-025-09950-8) |
+| keyword_rejected | - | [Language model-guided anticipation and discovery of mammalia](https://www.nature.com/articles/s41586-025-09969-x) |
+| keyword_rejected | - | [Ultra-high-throughput mapping of genetic design space](https://www.nature.com/articles/s41586-025-09933-9) |
+| keyword_rejected | - | [Little red dots as young supermassive black holes in dense i](https://www.nature.com/articles/s41586-025-09900-4) |
+| keyword_rejected | - | [<i>N</i><sup>1</sup>-Methylpseudouridine directly modulates ](https://www.nature.com/articles/s41586-025-09945-5) |
+| keyword_rejected | - | [The ubiquitin ligase KLHL6 drives resistance to CD8<sup>+</s](https://www.nature.com/articles/s41586-025-09926-8) |
+| keyword_rejected | - | [Trapping of single atoms in metasurface optical tweezer arra](https://www.nature.com/articles/s41586-025-09961-5) |
+| keyword_rejected | - | [Enriching African genome representation through the AGenDA p](https://www.nature.com/articles/s41586-025-09935-7) |
+| keyword_rejected | - | [Global subsidence of river deltas](https://www.nature.com/articles/s41586-025-09928-6) |
+| keyword_rejected | - | [Disease tolerance and infection pathogenesis age-related tra](https://www.nature.com/articles/s41586-025-09923-x) |
+| keyword_rejected | - | [Ligand-specific activation trajectories dictate GPCR signall](https://www.nature.com/articles/s41586-025-09963-3) |
+| keyword_rejected | - | [3D-printed low-voltage-driven ciliary hydrogel microactuator](https://www.nature.com/articles/s41586-025-09944-6) |
+| keyword_rejected | - | [A foundation model for continuous glucose monitoring data](https://www.nature.com/articles/s41586-025-09925-9) |
+| keyword_rejected | - | [Coherent nonlinear X-ray four-photon interaction with core-s](https://www.nature.com/articles/s41586-025-09911-1) |
+| keyword_rejected | - | [Training large language models on narrow tasks can lead to b](https://www.nature.com/articles/s41586-025-09937-5) |
+| keyword_rejected | - | [Direct observation of the Migdal effect induced by neutron b](https://www.nature.com/articles/s41586-025-09918-8) |
+| keyword_rejected | - | [Exciplex-enabled high-efficiency, fully stretchable OLEDs](https://www.nature.com/articles/s41586-025-09904-0) |
+| keyword_rejected | - | [Microbiota-induced T cell plasticity enables immune-mediated](https://www.nature.com/articles/s41586-025-09913-z) |
+| keyword_rejected | - | [Mosaic lateral heterostructures in two-dimensional perovskit](https://www.nature.com/articles/s41586-025-09949-1) |
+| keyword_rejected | - | [Retraction Note: Antibodies against endogenous retroviruses ](https://www.nature.com/articles/s41586-026-10104-7) |
+| keyword_rejected | - | [AI can turbocharge scientists’ careers — but limit their sco](https://www.nature.com/articles/d41586-026-00162-2) |
+| keyword_rejected | - | [What the future holds for AI – from the people shaping it](https://www.nature.com/articles/d41586-026-00147-1) |
+| keyword_rejected | - | [Insights from aquaporin structures into drug-resistant sleep](https://elifesciences.org/articles/107460) |
+| keyword_rejected | - | [Publisher Correction: Realization of a Dirac-vortex topologi](https://www.nature.com/articles/s41467-025-68161-x) |
 | ai_scored | 20 | [Long-range PCR amplification and nanopore sequencing of 8-10](https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1) |
 | ai_scored | 30 | [Geographical gradients in leaky sex expression and reproduct](https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1) |
 | ai_scored | 15 | [The RNA-binding protein HuR modulates the expression of the ](https://elifesciences.org/articles/93108) |
