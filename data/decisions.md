@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114042536&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [In This Issue](https://www.pnas.org/doi/abs/10.1073/iti0226123?af=R) |
+| keyword_rejected | - | [En France, moins d'oiseaux là où plus de pesticides sont ach](https://www.sciencesetavenir.fr/animaux/oiseaux/en-france-moins-d-oiseaux-la-ou-plus-de-pesticides-sont-achetes-selon-une-etude_190394?xtor=RSS-26) |
+| keyword_rejected | - | [Etudier les incendies dans l'espace pour sécuriser les vols ](https://www.sciencesetavenir.fr/sciences/etudier-les-incendies-dans-l-espace-pour-securiser-les-vols-habites_190396?xtor=RSS-18) |
+| keyword_rejected | - | [Sequence-based generative AI design of versatile tryptophan ](https://www.nature.com/articles/s41467-026-68384-6) |
+| keyword_rejected | - | [A Lightweight Sequential AI Framework for Real Time Intrusio](https://www.nature.com/articles/s41598-026-36103-2) |
+| keyword_rejected | - | [A method for magnetic resonance splenomegaly image segmentat](https://www.nature.com/articles/s41598-026-35122-3) |
+| keyword_rejected | - | [Reinforcement learning-driven model predictive control for o](https://www.nature.com/articles/s41598-026-36126-9) |
+| keyword_rejected | - | [Sequence-based generative AI design of versatile tryptophan ](https://www.nature.com/articles/s41467-026-68384-6) |
 | keyword_rejected | - | [En France, moins d'oiseaux là où plus de pesticides sont ach](https://www.sciencesetavenir.fr/nature-environnement/en-france-moins-d-oiseaux-la-ou-plus-de-pesticides-sont-achetes-selon-une-etude_190394?xtor=RSS-15) |
 | keyword_rejected | - | [Les douanes chinoises bloquent l’entrée des puces Nvidia H20](https://www.sciencesetavenir.fr/les-douanes-chinoises-bloquent-l-entree-des-puces-nvidia-h200-selon-des-sources_190395) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114032503&v=2.18.0.post22+67771e2) |
