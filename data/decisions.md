@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Outlier Detection in Single-Cell Transcriptomics Reveals Dis](https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1) |
+| ai_scored | 25 | [The Genomic Basis of Electric Signal Diversity](https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1) |
+| ai_scored | 15 | [Nonlinear dynamics of air invasion in one-dimensional compli](http://link.aps.org/doi/10.1103/mngd-9khq) |
+| ai_scored | 20 | [Behavior evolves as a correlated response to selection on cu](https://www.biorxiv.org/content/10.64898/2026.01.13.699118v1?rss=1) |
+| ai_scored | 0 | [Hybrid TF-IDF and SBERT Feature Engineering with SMOTE-Tomek](https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1) |
+| keyword_rejected | - | [Why is flu so bad this year? Highly mutated variant offers a](https://www.nature.com/articles/d41586-026-00061-6) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114181520&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Deep neural nets as Hamiltonians](http://link.aps.org/doi/10.1103/xg33-ksqn) |
+| keyword_rejected | - | [Alternative mechanism to accelerate ions from magnetized thi](http://link.aps.org/doi/10.1103/d5jh-3mks) |
+| keyword_rejected | - | [Interplay of atomic-scale nonlinearity and nonhomogeneity in](http://link.aps.org/doi/10.1103/8k6j-kmlj) |
+| keyword_rejected | - | [Enhancing the efficiency of quantum measurement-based engine](http://link.aps.org/doi/10.1103/bx1f-wjn8) |
+| keyword_rejected | - | [Squeezing light to get nonclassical work in quantum engines](http://link.aps.org/doi/10.1103/3vvj-7hmj) |
+| keyword_rejected | - | [Dipolar modulation of surface states in GaN via molecular io](https://www.nature.com/articles/s41598-026-35475-9) |
+| keyword_rejected | - | [LoopBin, a VaDE-based neural network for chromatin loop clas](https://www.biorxiv.org/content/10.64898/2026.01.13.699359v1?rss=1) |
+| keyword_rejected | - | [Integrated Multi-omics Analysis Identifies Molecular Signatu](https://www.biorxiv.org/content/10.64898/2026.01.13.699221v1?rss=1) |
+| keyword_rejected | - | [Advancing Protein Design via Multi-Agent Reinforcement Learn](https://www.biorxiv.org/content/10.64898/2026.01.13.699365v1?rss=1) |
+| keyword_rejected | - | [System-wide extraction of cis-regulatory rules from sequence](https://www.biorxiv.org/content/10.64898/2026.01.14.699402v1?rss=1) |
+| keyword_rejected | - | [3D reconstruction of spatial transcriptomics with spatial pa](https://www.biorxiv.org/content/10.64898/2026.01.13.699328v1?rss=1) |
+| keyword_rejected | - | [Phylogenomics of Cypriniformes, the most diverse order of fr](https://www.biorxiv.org/content/10.64898/2026.01.14.699467v1?rss=1) |
+| keyword_rejected | - | [A Bear-Specific Coding Exon in TMEM41B Is Associated with Co](https://www.biorxiv.org/content/10.64898/2026.01.13.699376v1?rss=1) |
+| keyword_rejected | - | [Adaptive introgression improves heat-tolerance despite barri](https://www.biorxiv.org/content/10.64898/2026.01.13.699320v1?rss=1) |
 | ai_scored | 20 | [Wolf pup’s stomach yields DNA from one of world’s last survi](https://www.nature.com/articles/d41586-026-00161-3) |
 | ai_scored | 10 | [The landscape of structural variation in coppery titi monkey](https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114171828&v=2.18.0.post22+67771e2) |

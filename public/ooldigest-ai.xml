@@ -3,8 +3,78 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T22:18:39.879676+00:00</updated>
+  <updated>2026-01-14T23:15:32.118201+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] bioinformatics - biorXiv Preprints ▶ Hybrid TF-IDF and SBERT Feature Engineering with SMOTE-Tomek Resampling for Enhanced Software Requirements Classification</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Software requirements classification remains one of the important challenges in requirements engineering. Engineering that affects the smoothness of project success about software development life cyc</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This paper develops a hybrid TF-IDF+SBERT feature engineering and SMOTE-Tomek resampling pipeline for software requirements classification, with no connection to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> Software requirements classification remains one of the important challenges in requirements engineering. Engineering that affects the smoothness of project success about software development life cycles. in this paper, a novel hybrid solution is being presented that beats the benchmarks set by previous approaches using TF-IDF. The vectorization, coupled with SBERT embeddings, has been further reinforced by application of SMOTE-Tomek resampling. The solution addresses typical limitations detected in Ors baseline solution, which achieved 76.16% {+/-} 2.58% accuracy of the model using the conventional SMOTE-Tomek pre-processing with logistic regression. Via comprehensive experimentation on the PROMISE dataset containing 969 categorized requirements accross 12 classes, our hybrid feature engineering approach has shown significant improvements: Random Forest achieves. Thus, the character CNN records an accuracy of 74.40% {+/-} 3.00% versus the baseline 60.37% {+/-} 2.76%, while critically, Naive Bayes shows remarkable improvement from complete failure 0.00% to 53.97% {+/-} 5.08% accuracy. The integration of semantic contextual understanding through SBBERT, with statistical term importances via TF-IDF, forms a robust representation space that captures the synthetic pattern along with semantic relations in the texts of requirements. Our methodology uses stratified 10-fold cross-validation with Matthews Correlation Coefficient (MCC). Evaluation, Ensuring reliable performance assessment across imbalanced classes. The results demonstrate that hybrid feature engineering, when combined with appropriate resampling techniques, provides a more effective solution for automated software requirement classification than traditional pre-processing methods alone.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Behavior evolves as a correlated response to selection on cuticle color in Drosophila melanogaster and D. simulans</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699118v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699118v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Understanding whether traits evolve independently or as integrated units is central to predicting adaptive evolution. Correlated trait evolution can reflect genetic covariation, such that selection on</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Artificial selection on Drosophila cuticle color produces modest, repeatable correlated changes in aggression and basal activity, illustrating genetic covariation among traits but with limited direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Understanding whether traits evolve independently or as integrated units is central to predicting adaptive evolution. Correlated trait evolution can reflect genetic covariation, such that selection on one trait can constrain or redirect evolutionary responses in others. Here, we used artificial selection on cuticle color in Drosophila melanogaster and D. simulans to investigate whether color and behavior evolve in tandem. We selected for light and dark thoracic colors across 16 generations in two populations per species and measured correlated responses in a suite of behavioral traits, including aggression, basal activity, total activity, sleep, and geotaxis. Dark selected individuals generally showed higher aggression and basal activity than light selected or control flies across both species and sexes, pointing to a modest but repeatable correlated response that must be interpreted in light of low and variable aggression in our assay. In contrast, patterns for geotaxis, sleep, and total activity evolved unpredictably, often varying across species and populations, and showed no clear or uniform association with color. Taken together, our results suggest that some behaviors may share a predictable relationship with color, whereas others behave largely independently under the conditions we examined. The persistence of correlated responses in aggression and basal activity in response to selection on color is consistent with a conserved genetic basis, such as pleiotropy or tight linkage, although our data do not, by themselves, distinguish among these mechanisms. Future work that identifies the loci underlying variation in both color and behavior and tests their effects experimentally will be important for clarifying how multivariate genetic covariance shapes the direction and pace of adaptive evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699118v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699118v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699118v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] Phys. Rev. E ▶ Nonlinear dynamics of air invasion in one-dimensional compliant fluid networks</title>
+    <link href="http://link.aps.org/doi/10.1103/mngd-9khq"/>
+    <id>http://link.aps.org/doi/10.1103/mngd-9khq</id>
+    <updated>2026-01-14T10:00:00Z</updated>
+    <summary>Author(s): Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin, and Ludovic Keiser Vascular networks exhibit a remarkable diversity of architectures and transport mechanisms across biolog</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> A physical study of how air invades water-filled, compliant one-dimensional fluid networks (motivated by plant xylem embolism), with limited direct relevance to origins-of-life beyond general transport/flow physics in aqueous systems.</p>
+<p><strong>Abstract:</strong> Author(s): Ludovic Jami, François-Xavier Gauci, Céline Cohen, Xavier Noblin, and Ludovic Keiser Vascular networks exhibit a remarkable diversity of architectures and transport mechanisms across biological systems. Inspired by embolism propagation in plant xylem, where air invades water-filled conduits under negative pressure, we study air penetration in compliant one-dimensional hydrodynamic n… [Phys. Rev. E 113, 015103] Published Wed Jan 14, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/mngd-9khq">http://link.aps.org/doi/10.1103/mngd-9khq</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/mngd-9khq">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ The Genomic Basis of Electric Signal Diversity</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Behavioral diversity is a striking result of species diversity, shaped by intertwined mechanisms, developmental pathways, and evolutionary histories. Yet the genetic underpinnings of behavioral evolut</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study uses population genomics and transcriptomics to show repeated, independent cis-regulatory mutations can generate the same electric communication signal phenotype within a fish species, informing behavioral evolution but only tangentially relevant to Origins of Life.</p>
+<p><strong>Abstract:</strong> Behavioral diversity is a striking result of species diversity, shaped by intertwined mechanisms, developmental pathways, and evolutionary histories. Yet the genetic underpinnings of behavioral evolution remain obscure, even though they are key to understanding how organisms adapt and diversify. Weakly electric African elephantfishes provide a rare opportunity to dissect the genetics of behavior because their electric communication signals are quantifiable, stereotyped, and directly tied to identifiable cellular mechanisms. Among elephantfishes, electric organ discharges (EODs) vary widely across species and populations, shaping mate choice, social interactions, and reproductive isolation. A key axis of this diversity is the presence or absence of an initial phase in the EOD waveform: a discrete, repeated evolutionary transition whose genetic basis has remained unresolved. Here we show, using whole-genome resequencing, population-genomic analyses, transcriptomics, and histology from 306 specimens, that biphasic EODs in Paramormyrops kingsleyae have evolved repeatedly through independent de novo regulatory mutations at distinct genomic loci. These population specific mutations occur exclusively in noncoding regions, show localized signatures of selection, and are associated with differences in gene expression and protein localization in the electric organ, indicating that they act through cis-regulatory mechanisms affecting electrocyte development. These findings challenge the expectation that repeated within-species adaptations primarily draw from standing ancestral variation, revealing instead that the developmental program underlying electric signaling contains multiple points of regulatory sensitivity. Distinct genetic changes can therefore produce the same behavioral phenotype, enabling repeated evolutionary transitions even within a single species. More broadly, our results show how developmental architecture shapes the evolutionary pathways available to behavior, helping explain why communication signals in elephantfishes, and in other radiations, diversify so rapidly.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] bioinformatics - biorXiv Preprints ▶ Outlier Detection in Single-Cell Transcriptomics Reveals Disease-Enriched Cytotoxic Immune Populations</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Single-cell RNA sequencing (scRNA-seq) enables detailed analysis of cellular heterogeneity, but standard clustering approaches can miss rare cell populations with important disease relevance. We prese</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This bioRxiv preprint presents an outlier-detection framework for scRNA-seq that uncovers rare disease-enriched cytotoxic immune cell states in COVID-19 and rheumatoid arthritis, with no direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> Single-cell RNA sequencing (scRNA-seq) enables detailed analysis of cellular heterogeneity, but standard clustering approaches can miss rare cell populations with important disease relevance. We present an outlier-aware framework that complements clustering by identifying statistically unusual cells. Applied to COVID-19 bronchoalveolar lavage fluid (BALF) samples, this approach revealed strong disease-associated enrichment of outliers: 9.62% in moderate disease and 6.16% in severe disease, compared with 1.14% in healthy controls. These cells exhibited elevated cytotoxic marker expression (NKG7, GZMB, PRF1, GNLY; 2.0-2.9x enrichment) consistent with activated effector immune states, with replication across independent datasets. To verify that outliers were not low-quality cells, we confirmed superior QC metrics: outliers showed 68% more genes and 78% higher UMI counts than normal cells. Application to rheumatoid arthritis PBMCs showed modest enrichment (5.40% in RA vs. 4.66% in healthy), consistent with chronic inflammation. Comparison of four outlier detection algorithms identified Isolation Forest as the best-performing method. Subclustering revealed diverse functional states within outliers, including NK cytotoxic cells, activated T cells, and proliferating cells. Overall, outlier detection reveals rare, functionally distinct immune populations overlooked by conventional clustering.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] bioRxiv Subject Collection: Evolutionary Biology ▶ The landscape of structural variation in coppery titi monkeys (Plecturocebus cupreus)</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1"/>
