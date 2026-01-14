@@ -1,5 +1,30 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Integration between radiation shielding performance, structu](https://www.nature.com/articles/s41598-025-33307-w) |
+| ai_scored | 15 | [<i>In situ</i> growth rates of cold-water corals fouling oce](https://www.nature.com/articles/s41598-025-34582-3) |
+| ai_scored | 5 | [These small lifestyle tweaks can add a year to your life](https://www.newscientist.com/article/2511292-these-small-lifestyle-tweaks-can-add-a-year-to-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [These small lifestyle tweaks can add a year to your life](https://www.newscientist.com/article/2511292-these-small-lifestyle-tweaks-can-add-a-year-to-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [These small lifestyle tweaks can add a year to your life](https://www.newscientist.com/article/2511292-these-small-lifestyle-tweaks-can-add-a-year-to-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Aged skin exacerbates experimental osteoarthritis via enhanc](https://www.nature.com/articles/s41467-026-68399-z) |
+| keyword_rejected | - | [Chronically implantable μLED arrays for optogenetic cortical](https://www.nature.com/articles/s41467-025-68191-5) |
+| keyword_rejected | - | [Feedback-induced attitudinal changes in risk preferences](https://www.nature.com/articles/s41467-025-67729-x) |
+| keyword_rejected | - | [The orbiting factories of the future](https://phys.org/news/2026-01-orbiting-factories-future.html) |
+| keyword_rejected | - | [Can philanthropy fast-track a flagship telescope?](https://phys.org/news/2026-01-philanthropy-fast-track-flagship-telescope.html) |
+| keyword_rejected | - | [Taming heat: Novel solution enables unprecedented control of](https://phys.org/news/2026-01-solution-enables-unprecedented.html) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113224402&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Effect of weight-based fertigation on physiology, gas exchan](https://www.nature.com/articles/s41598-025-34858-8) |
+| keyword_rejected | - | [Study on stress response and collapse mechanism induced by s](https://www.nature.com/articles/s41598-025-30500-9) |
+| keyword_rejected | - | [Reduced categorical congruence of cognitive and affective em](https://www.nature.com/articles/s41598-025-34560-9) |
+| keyword_rejected | - | [Impact of the war on forest ecosystem in Ukraine based on Se](https://www.nature.com/articles/s41598-026-35744-7) |
+| keyword_rejected | - | [The associated factors of root cause analysis of incident re](https://www.nature.com/articles/s41598-026-36129-6) |
+| keyword_rejected | - | [Association between hydrogen gas inhalation and cardiac outp](https://www.nature.com/articles/s41598-026-35115-2) |
+| keyword_rejected | - | [Deterministic and highly indistinguishable single photons in](https://www.nature.com/articles/s41467-026-68336-0) |
+| keyword_rejected | - | [Chronically implantable <i>μ</i>LED arrays for optogenetic c](https://www.nature.com/articles/s41467-025-68191-5) |
+| keyword_rejected | - | [Feedback-induced attitudinal changes in risk preferences](https://www.nature.com/articles/s41467-025-67729-x) |
+| keyword_rejected | - | [Aged skin exacerbates experimental osteoarthritis via enhanc](https://www.nature.com/articles/s41467-026-68399-z) |
+| keyword_rejected | - | [Towards high resolution, validated and open global wind powe](https://www.nature.com/articles/s41467-026-68337-z) |
+| keyword_rejected | - | [Domain wall motion-driven magnetic convolutional accelerator](https://www.nature.com/articles/s41467-025-68041-4) |
+| keyword_rejected | - | [GPU acceleration of cell-based simulations in Chaste using F](https://www.biorxiv.org/content/10.64898/2026.01.13.699201v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113202413&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [An optimized approach for Lithium Extraction from ore found ](https://dx.doi.org/10.26434/chemrxiv-2026-2hg8t?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [UniWave: A Waveform-Based Encoding Framework for Nucleic Aci](https://www.biorxiv.org/content/10.64898/2026.01.12.698567v1?rss=1) |
