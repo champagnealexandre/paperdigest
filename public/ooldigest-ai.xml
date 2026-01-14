@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T11:18:22.397282+00:00</updated>
+  <updated>2026-01-14T12:38:15.906287+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] PNAS Evolution ▶ Redox robustness drives LPMO evolution</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R</id>
+    <updated>2026-01-13T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceLytic polysaccharide monooxygenases have evolved to use highly oxidizing copper species for C–H bond act</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This PNAS study uses ancestral sequence reconstruction and mutagenesis to show how lytic polysaccharide monooxygenases evolved redox robustness to harness highly oxidizing copper chemistry without self-damage, informing general principles of enzyme evolution rather than core origin-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceLytic polysaccharide monooxygenases have evolved to use highly oxidizing copper species for C–H bond activation while avoiding damage from autooxidation. Using ancestral sequence reconstruction and site-directed mutagenesis of resurrected ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [60] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene function predicts divergence across molecular levels</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1"/>
@@ -6102,20 +6116,5 @@
 <p><strong>Abstract:</strong> Australian researchers have uncovered how a particular strain of a diarrhea-causing parasite managed to infect more animal species, offering new insights into how parasitic infections emerge and spread to people.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] ScienceDaily - Evolutionary Biology News ▶ Ancient skeletons reveal viruses embedded in human DNA</title>
-    <link href="https://www.sciencedaily.com/releases/2026/01/260106224628.htm"/>
-    <id>https://www.sciencedaily.com/releases/2026/01/260106224628.htm</id>
-    <updated>2026-01-07T12:07:41Z</updated>
-    <summary>Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years. Some people inherited the viru</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Ancient genomes show HHV-6 has infected humans for ~2,500 years and that inherited chromosomal integration occurred across generations, illuminating long-term virus–host DNA evolution rather than core abiogenesis.</p>
-<p><strong>Abstract:</strong> Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years. Some people inherited the virus directly in their DNA, passing it down across generations. The study shows that these viruses evolved alongside humans—and that one strain eventually lost its ability to integrate into our chromosomes. It’s the first time this long, intimate relationship has been proven with ancient genetic evidence.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1126/sciadv.adx5460">https://doi.org/10.1126/sciadv.adx5460</a></li>
-<li><a href="http://dx.doi.org/10.1126/sciadv.adx5460">http://dx.doi.org/10.1126/sciadv.adx5460</a></li>
-</ul>
-<p><a href="https://www.sciencedaily.com/releases/2026/01/260106224628.htm">Read source article</a></p>]]></content>
   </entry>
 </feed>

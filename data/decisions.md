@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Redox robustness drives LPMO evolution](https://www.pnas.org/doi/abs/10.1073/pnas.2521617123?af=R) |
+| keyword_rejected | - | [Du château fort au laboratoire, une archéologue sonore ressu](https://www.sciencesetavenir.fr/sciences/du-chateau-fort-au-laboratoire-une-archeologue-sonore-ressuscite-le-passe_190402?xtor=RSS-18) |
+| keyword_rejected | - | [En plein Antarctique, une cave d'archives de glaces unique a](https://www.sciencesetavenir.fr/sciences/en-plein-antarctique-une-cave-d-archives-de-glaces-unique-au-monde-ouvre-ses-portes_190399?xtor=RSS-18) |
+| keyword_rejected | - | [L’eau des thermes publics de Pompéi était-elle vraiment sain](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/pourquoi-la-frequentation-des-bains-publics-de-pompei-n-etait-pas-sans-risque_190392?xtor=RSS-4) |
+| keyword_rejected | - | [Prise en charge de l'obésité: le gouvernement dévoile sa feu](https://www.sciencesetavenir.fr/sante/prise-en-charge-de-l-obesite-le-gouvernement-devoile-sa-feuille-de-route-2026-2030_190401?xtor=RSS-16) |
+| keyword_rejected | - | [3I/Atlas est-il un vaisseau extraterrestre ? Une étude tranc](https://www.sciencesetavenir.fr/espace/vie-extraterrestre/l-objet-interstellaire-3i-atlas-est-il-un-vaisseau-extraterrestre-une-etude-tranche_190398?xtor=RSS-9) |
+| keyword_rejected | - | [We must completely change the way we build homes to stay bel](https://www.newscientist.com/article/2511350-we-must-completely-change-the-way-we-build-homes-to-stay-below-2c/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Are Seed Oils Bad for You? Debunking a Viral Social Media My](https://www.scientificamerican.com/podcast/episode/are-seed-oils-bad-for-you-debunking-a-viral-social-media-myth/) |
+| keyword_rejected | - | [We must completely change the way we build homes to stay bel](https://www.newscientist.com/article/2511350-we-must-completely-change-the-way-we-build-homes-to-stay-below-2c/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We must completely change the way we build homes to stay bel](https://www.newscientist.com/article/2511350-we-must-completely-change-the-way-we-build-homes-to-stay-below-2c/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Daily briefing: Same-sex sex is a normal part of some primat](https://www.nature.com/articles/d41586-026-00149-z) |
+| keyword_rejected | - | [Six steps to protect researchers’ digital security](https://www.nature.com/articles/d41586-026-00086-x) |
+| keyword_rejected | - | [Correction: Multomic analysis reveals the potential of LAG3 ](https://www.nature.com/articles/s41598-026-36146-5) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114073805&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Decoding the gradient-distributed colour centers in electroc](https://www.nature.com/articles/s41467-025-68046-z) |
+| keyword_rejected | - | [Efficient and stable catalytic hydrolysis of perfluorocarbon](https://www.nature.com/articles/s41467-026-68386-4) |
+| keyword_rejected | - | [Secreted exosomes induce filopodia formation](https://elifesciences.org/articles/101673) |
 | ai_scored | 60 | [Gene function predicts divergence across molecular levels](https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1) |
 | keyword_rejected | - | [Antoine Triller : « L’un des travaux récents les plus import](https://www.pourlascience.fr/sr/entretien/antoine-triller-l-un-des-travaux-recents-les-plus-importants-resulte-de-l-alliance-de-l-ia-et-de-la-biologie-moleculaire-28669.php) |
 | keyword_rejected | - | [Plus de 30000 manuscrits médiévaux retranscrits par l'IA !](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/plus-de-30000-manuscrits-medievaux-restranscrits-par-l-intelligence-artificielle_190397?xtor=RSS-12) |
