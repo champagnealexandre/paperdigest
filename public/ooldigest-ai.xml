@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T09:25:58.103052+00:00</updated>
+  <updated>2026-01-15T10:20:36.868976+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] Nature Communications ▶ HEXIM1 inter-monomer autoinhibition governs 7SK RNA binding specificity and P-TEFb inactivation</title>
+    <link href="https://www.nature.com/articles/s41467-026-68285-8"/>
+    <id>https://www.nature.com/articles/s41467-026-68285-8</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-026-68285-8 Hexim regulates transcription by sequestering kinase P-TEFb in the 7SK RNP. Here, the authors show that Hexim a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Mechanistic study of eukaryotic transcription regulation showing HEXIM1 autoinhibition controls specific 7SK RNA binding and prevents premature P-TEFb inactivation, with only indirect relevance to origins-of-life questions via RNA–protein RNP assembly principles.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-026-68285-8 Hexim regulates transcription by sequestering kinase P-TEFb in the 7SK RNP. Here, the authors show that Hexim autoinhibition dictates its specificity for 7SK RNA and safeguards against premature P-TEFb inactivation, coupling transcriptional control to RNP assembly.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68285-8">https://www.nature.com/articles/s41467-026-68285-8</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68285-8">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Different modes of engagement with the nucleosome acidic patch yield distinct functional outcomes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>The nucleosome acidic patch is a hub of coordinated engagement by proteins that regulate genomic function. Here we report that S. cerevisiae Dot5 contains an arginine-rich HMGN-like motif that mediate</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study dissects how different proteins bind the nucleosome acidic patch to alter yeast growth, DNA repair, and heterochromatin regulation, but it has minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> The nucleosome acidic patch is a hub of coordinated engagement by proteins that regulate genomic function. Here we report that S. cerevisiae Dot5 contains an arginine-rich HMGN-like motif that mediates nucleosome acidic patch binding and is required for the cell growth, DNA repair and heterochromatin defects exhibited when the protein is overexpressed. The heterologous expression of camelid single chain antibodies to the nucleosome acidic patch confers a similar range of phenotypes, with the most severe observed when an &#x27;arginine-anchor&#x27; mode of binding analogous to many endogenous factors is employed. This highlights a delicate balance between nucleosome acidic patch interactors critical for normal cellular functions and dysregulated in disease.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] phys.org - Space News ▶ ISS astronauts splash down on Earth after first-ever medical evacuation</title>
     <link href="https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html"/>
@@ -6440,20 +6468,6 @@
 <p><a href="https://www.nature.com/articles/s41598-025-34688-8">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [0] Phys. Rev. Lett. ▶ Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered Materials</title>
-    <link href="http://link.aps.org/doi/10.1103/28hd-pwhv"/>
-    <id>http://link.aps.org/doi/10.1103/28hd-pwhv</id>
-    <updated>2026-01-08T10:00:00Z</updated>
-    <summary>Author(s): Luis M. Canonico, Stephan Roche, and Aron W. Cummings We report a linear-scaling numerical method for exploring nonequilibrium electron dynamics in systems of arbitrary complexity. Based on</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Develops a linear-scaling Chebyshev-based method to simulate nonequilibrium quantum electron dynamics in disordered materials, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology topics.</p>
-<p><strong>Abstract:</strong> Author(s): Luis M. Canonico, Stephan Roche, and Aron W. Cummings We report a linear-scaling numerical method for exploring nonequilibrium electron dynamics in systems of arbitrary complexity. Based on the Chebyshev expansion of the time evolution of the single-particle density matrix, the method gives access to nonperturbative excitation and relaxation phenomena … [Phys. Rev. Lett. 136, 016903] Published Thu Jan 08, 2026</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://link.aps.org/doi/10.1103/28hd-pwhv">http://link.aps.org/doi/10.1103/28hd-pwhv</a></li>
-</ul>
-<p><a href="http://link.aps.org/doi/10.1103/28hd-pwhv">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] phys.org - Space News ▶ The electrifying science behind Martian dust</title>
     <link href="https://phys.org/news/2026-01-electrifying-science-martian.html"/>
     <id>https://phys.org/news/2026-01-electrifying-science-martian.html</id>
@@ -6655,19 +6669,5 @@
 <p><strong>Abstract:</strong> Microbes often display cooperative behavior in which individual cells put in work and sacrifice resources to collectively benefit the group. But sometimes, &quot;cheater&quot; cells in the group may reap the benefits of this cooperation without incurring any cost themselves. Scientists have suggested that in such cases, population bottlenecks—reduction in the total number of individuals—can help stabilize cooperative behavior in the group.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Complexity Digest ▶ The Physics of Causation</title>
-    <link href="https://comdig.unam.mx/2026/01/08/the-physics-of-causation/"/>
-    <id>https://comdig.unam.mx/2026/01/08/the-physics-of-causation/</id>
-    <updated>2026-01-08T09:52:16Z</updated>
-    <summary>Leroy Cronin, Sara I. Walker Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Cronin and Walker extend assembly theory to quantify “material causation” via an assembly index and copy number, proposing a selection threshold in assembly space that operationally demarcates life and open-ended evolution as persistent, high-assembly structures.</p>
-<p><strong>Abstract:</strong> Leroy Cronin, Sara I. Walker Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is quantified with the assembly index, defined as the minimum number of steps necessary for a distinguishable object to exist, where steps are assembled recursively. Observing countable copies of high assembly index objects indicates that a mechanism to produce them is persistent, such that the object&#x27;s environment builds a memory that traps causation within a contingent chain. Copy number and assembly index underlie the standardized metrology for detecting causation (assembly index), and evidence of contingency (copy number). Together, these allow the precise definition of a selective threshold in assembly space, understood as the set of all causal possibilities. This threshold demarcates life (and its derivative agential, intelligent and technological forms) as structures with persistent copies beyond the threshold. In introducing a fundamental concept of material causation to explain and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT&#x27;s concept of causation provides the foundation for a theory of physics where novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent along assembled lineages. Read the full article at: arxiv.org</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.00515">https://arxiv.org/abs/2601.00515</a></li>
-</ul>
-<p><a href="https://comdig.unam.mx/2026/01/08/the-physics-of-causation/">Read source article</a></p>]]></content>
   </entry>
 </feed>

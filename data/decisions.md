@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Different modes of engagement with the nucleosome acidic pat](https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1) |
+| ai_scored | 20 | [HEXIM1 inter-monomer autoinhibition governs 7SK RNA binding ](https://www.nature.com/articles/s41467-026-68285-8) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115051957&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [La fourmi électrique, coûteuse à éradiquer, menace de prolif](https://www.sciencesetavenir.fr/animaux/arthropodes/la-fourmi-electrique-couteuse-a-eradiquer-menace-de-proliferer-en-france_190380?xtor=RSS-26) |
+| keyword_rejected | - | [Comment le ministre vaccinosceptique de Trump a refaçonné en](https://www.sciencesetavenir.fr/sante/comment-le-ministre-vaccinosceptique-de-trump-a-refaconne-en-un-an-les-agences-sanitaires-a-son-image_190416?xtor=RSS-16) |
+| keyword_rejected | - | ["Compter sur les survivants": un chercheur raconte comment l](https://www.sciencesetavenir.fr/nature-environnement/compter-sur-les-survivants-un-chercheur-raconte-comment-le-chene-s-adapte-au-climat_190417?xtor=RSS-15) |
 | ai_scored | 5 | [OCT4 enhances the firing efficiency of late DNA replication ](https://www.nature.com/articles/s41467-026-68389-1) |
 | ai_scored | 25 | [OCT4 enhances the firing efficiency of late DNA replication ](https://www.nature.com/articles/s41467-026-68389-1) |
 | ai_scored | 5 | [ISS astronauts splash down on Earth after first-ever medical](https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html) |
