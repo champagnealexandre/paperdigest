@@ -1,5 +1,44 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Mechanically Interlocked Indigo Photoswitches: Topologically](https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Ift43 Controls the Ciliary Levels of Gli2 and Gli3](https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1) |
+| ai_scored | 20 | [The CO Puzzle is Resolvable Using Self-Consistent DFT+U Calc](https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [Tmem110 regulates the conformation of TRPML1 to maintain end](https://www.nature.com/articles/s41467-026-68382-8) |
+| ai_scored | 45 | [Laser shocking a shock wave for nonlinear summation of GPa p](http://link.aps.org/doi/10.1103/r5wy-znw4) |
+| ai_scored | 60 | [Hidden magma oceans could shield rocky exoplanets from harmf](https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html) |
+| ai_scored | 43 | [Emergence of periodic chimneys during fluidization at a coar](http://link.aps.org/doi/10.1103/2m8d-7h3j) |
+| ai_scored | 48 | [Hidden stop codons orchestrate mRNA fate by ambushing riboso](https://www.biorxiv.org/content/10.64898/2026.01.14.699446v1?rss=1) |
+| ai_scored | 15 | [Mechanically Interlocked Indigo Photoswitches: Topologically](https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115161801&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Genetic insights and mechanistic parallels in gestational di](https://www.nature.com/articles/s41467-025-67385-1) |
+| keyword_rejected | - | [Genomic and physiological signatures of adaptation in pathog](https://www.nature.com/articles/s41467-026-68330-6) |
+| keyword_rejected | - | [JWST’s ‘Little Red Dots’ May Be ‘Black Hole Stars’](https://www.scientificamerican.com/article/jwsts-little-red-dots-may-be-black-hole-stars/) |
+| keyword_rejected | - | [Incredible Cheetah Mummies Show Big Cats Once Roamed the Ara](https://www.scientificamerican.com/article/incredible-cheetah-mummies-show-big-cats-once-roamed-the-arabian-peninsula/) |
+| keyword_rejected | - | [A Controversial U.S. Study of Hepatitis B Vaccines Will Cont](https://www.scientificamerican.com/article/a-controversial-u-s-study-of-hepatitis-b-vaccines-will-continue-in-africa/) |
+| keyword_rejected | - | [Wormholes may not exist—we've found they reveal something de](https://phys.org/news/2026-01-wormholes-weve-reveal-deeper-universe.html) |
+| keyword_rejected | - | [Cheaper access to universal fluctuations in integrable spin ](http://link.aps.org/doi/10.1103/tw1y-wvvh) |
+| keyword_rejected | - | [Universality, robustness, and limits of the eigenstate therm](http://link.aps.org/doi/10.1103/qy19-nc4r) |
+| keyword_rejected | - | [Phase-dependent intermolecular interactions of nematic liqui](http://link.aps.org/doi/10.1103/17pr-b3wv) |
+| keyword_rejected | - | [Froude scaling of rotating intrusion drag in microgravity re](http://link.aps.org/doi/10.1103/32wm-94y1) |
+| keyword_rejected | - | [Stability and wave dynamics in polytropic Eddington-inspired](http://link.aps.org/doi/10.1103/2djh-d4qh) |
+| keyword_rejected | - | [Phase-locking and finite collisions in discrete-time Kuramot](http://link.aps.org/doi/10.1103/fb46-ffzq) |
+| keyword_rejected | - | [Dynamically emergent correlations in Brownian particles subj](http://link.aps.org/doi/10.1103/vmhz-6h5s) |
+| keyword_rejected | - | [Pedestrian's approach to large deviations in semi-Markov pro](http://link.aps.org/doi/10.1103/44r5-fjdm) |
+| keyword_rejected | - | [DermNet: integrative CNN-ViT architecture for bias mitigatio](https://www.nature.com/articles/s41598-026-35697-x) |
+| keyword_rejected | - | [Correction: Fabricating high-purity graphite disk electrodes](https://www.nature.com/articles/s41598-026-36170-5) |
+| keyword_rejected | - | [Correction: Comparative performance of bagging and boosting ](https://www.nature.com/articles/s41598-026-36175-0) |
+| keyword_rejected | - | [Correction: Sero-surveillance of SARS-CoV-2 specific antibod](https://www.nature.com/articles/s41598-026-36176-z) |
+| keyword_rejected | - | [Correction: Genome-wide identification, characterization, an](https://www.nature.com/articles/s41598-026-36169-y) |
+| keyword_rejected | - | [Rational Design of a μ-Opioid Receptor Agonist with Integrat](https://dx.doi.org/10.26434/chemrxiv-2025-vzb51-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Design of a Novel Tricyclic Opioid Scaffold Inspired by Amit](https://dx.doi.org/10.26434/chemrxiv-2026-r2r33-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Decisive role of pore edge termination in determining the CO](https://dx.doi.org/10.26434/chemrxiv-2026-trxcq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A synthetic toolbox for sustainable methods in porphyrin che](https://dx.doi.org/10.26434/chemrxiv-2026-dkdk2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Insights into the Structure and Adsorption Properties of a N](https://dx.doi.org/10.26434/chemrxiv-2026-lgd8x?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The effect of 1,4-di-(4-pyridyl)benzene) for the nickel-medi](https://dx.doi.org/10.26434/chemrxiv-2026-2cswd?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A synthetic toolbox for sustainable methods in porphyrin che](https://dx.doi.org/10.26434/chemrxiv-2026-dkdk2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The effect of 1,4-di-(4-pyridyl)benzene) for the nickel-medi](https://dx.doi.org/10.26434/chemrxiv-2026-2cswd?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Region-specific generation and retention of acetylated cohes](https://www.biorxiv.org/content/10.64898/2026.01.14.699591v1?rss=1) |
+| keyword_rejected | - | [Analysis of 3D epithelial tissue packing reveals correlated ](https://www.biorxiv.org/content/10.64898/2026.01.14.699560v1?rss=1) |
 | ai_scored | 45 | [A ‘time capsule for cells’ stores the secret experiences of ](https://www.nature.com/articles/d41586-026-00116-8) |
 | ai_scored | 20 | [Chronic low-dose exposure to chlorpyrifos reduces life span ](https://www.science.org/doi/abs/10.1126/science.ady4727?af=R) |
 | ai_scored | 5 | [RasGRP1 agonists stimulate P-TEFb biogenesis via MEK-ERK-mTO](https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1) |
