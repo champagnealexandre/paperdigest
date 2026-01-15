@@ -1,5 +1,29 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Rtf1-dependent transcriptional pausing regulates cardiogenes](https://elifesciences.org/articles/94524) |
+| ai_scored | 20 | [Embryonic environment impacts adult traits and phenotypic in](https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1) |
+| keyword_rejected | - | [Why non-human culture should change how we see nature](https://www.newscientist.com/article/mg26935783-900-why-non-human-culture-should-change-how-we-see-nature/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [All major AI models risk encouraging dangerous science exper](https://www.newscientist.com/article/2511098-all-major-ai-models-risk-encouraging-dangerous-science-experiments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why non-human culture should change how we see nature](https://www.newscientist.com/article/mg26935783-900-why-non-human-culture-should-change-how-we-see-nature/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [All major AI models risk encouraging dangerous science exper](https://www.newscientist.com/article/2511098-all-major-ai-models-risk-encouraging-dangerous-science-experiments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why non-human culture should change how we see nature](https://www.newscientist.com/article/mg26935783-900-why-non-human-culture-should-change-how-we-see-nature/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [All major AI models risk encouraging dangerous science exper](https://www.newscientist.com/article/2511098-all-major-ai-models-risk-encouraging-dangerous-science-experiments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Comment le ministre vaccinosceptique de Trump a refaçonné en](https://www.sciencesetavenir.fr/politique/comment-le-ministre-vaccinosceptique-de-trump-a-refaconne-en-un-an-les-agences-sanitaires-a-son-image_190416) |
+| keyword_rejected | - | [Retour sur Terre de l'équipage de la Station spatiale intern](https://www.sciencesetavenir.fr/espace/exploration/quatre-astronautes-attendus-sur-terre-apres-une-evacuation-medicale-depuis-l-espace_190410?xtor=RSS-9) |
+| keyword_rejected | - | [Affaire Le Scouarnec: plaintes déontologiques contre trois m](https://www.sciencesetavenir.fr/sante/affaire-le-scouarnec-plaintes-deontologiques-contre-trois-medecins-de-l-ordre-du-finistere_190421?xtor=RSS-16) |
+| keyword_rejected | - | [Un équipage de l'ISS est rentré sur Terre après une évacuati](https://www.sciencesetavenir.fr/espace/exploration/un-equipage-de-l-iss-est-rentre-sur-terre-apres-une-evacuation-medicale-une-premiere_190420?xtor=RSS-9) |
+| keyword_rejected | - | [Selective epimerization of GlcNAc to GalNAc through steady-s](https://www.nature.com/articles/s41557-025-02053-x) |
+| keyword_rejected | - | [A practical Bayesian method for gravitational-wave ringdown ](https://www.nature.com/articles/s41550-025-02766-6) |
+| keyword_rejected | - | [Cryo-EM structure of the human COP1-DET1 ubiquitin ligase co](https://www.nature.com/articles/s41467-026-68375-7) |
+| keyword_rejected | - | [Structure of a Brochothrix thermosphacta bacteriophage revea](https://www.nature.com/articles/s41467-026-68477-2) |
+| keyword_rejected | - | [Experimental and numerical study on interfacial impact load ](https://www.nature.com/articles/s41598-026-36273-z) |
+| keyword_rejected | - | [Data-driven optimization of machining parameters for Hastell](https://www.nature.com/articles/s41598-026-36275-x) |
+| keyword_rejected | - | [Distribution of device-measured 24-h movement behaviors in o](https://www.nature.com/articles/s41598-026-36355-y) |
+| keyword_rejected | - | [Correction: Maternal origins and genetic diversity of Sabaha](https://www.nature.com/articles/s41598-026-36191-0) |
+| keyword_rejected | - | [Correction: Benchmarking genome assemblers for four bacteria](https://www.nature.com/articles/s41598-026-36195-w) |
+| keyword_rejected | - | [Functionally coupled ion channels begin co-assembling at the](https://elifesciences.org/articles/106791) |
+| keyword_rejected | - | [Association between continuous glucose monitoring-derived me](https://elifesciences.org/articles/102860) |
+| keyword_rejected | - | [Selective electrosynthesis of urea from nitrate and carbon d](https://www.nature.com/articles/s41467-026-68497-y) |
 | ai_scored | 10 | [Different modes of engagement with the nucleosome acidic pat](https://www.biorxiv.org/content/10.64898/2026.01.14.699602v1?rss=1) |
 | ai_scored | 20 | [HEXIM1 inter-monomer autoinhibition governs 7SK RNA binding ](https://www.nature.com/articles/s41467-026-68285-8) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115051957&v=2.18.0.post22+67771e2) |

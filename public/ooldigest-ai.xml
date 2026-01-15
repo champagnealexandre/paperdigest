@@ -3,8 +3,45 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T10:20:36.868976+00:00</updated>
+  <updated>2026-01-15T11:17:22.573742+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Embryonic environment impacts adult traits and phenotypic integration in the pea aphid</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Understanding how the embryonic environment affects adult phenotype is critical in the context of both human health and the increasing variance of environmental conditions due to climate change. Here </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Study shows that maternal crowding during embryonic development alters adult pea aphid morphology, fecundity, and gene-expression correlation structure in a morph-dependent way, illustrating strong environmental modulation of phenotypic integration within a single genotype.</p>
+<p><strong>Abstract:</strong> Understanding how the embryonic environment affects adult phenotype is critical in the context of both human health and the increasing variance of environmental conditions due to climate change. Here we consider this topic within the framework of phenotypic integration, i.e., the pattern of correlations among elements of functionally robust trait suites. We investigated the life-long consequences of alternative embryonic environments on phenotypic integration in the pea aphid (Acyrthosiphon pisum). We exposed live-bearing pea aphid mothers to an adverse, high-density environment or a benign, low-density environment and measured morphological traits, fecundity, and transcriptional profiles in the resulting winged and wingless adult offspring. We observe that morphological integration decreases in both morphs in response to the adverse maternal environment. Transcriptional integration, on the other hand, shows a morph-specific response: integration increases in wingless offspring but decreases in winged offspring in response to the adverse maternal environment. Our results show the remarkable phenotypic diversity that a single genotype can express in response to environmental variation; that maternal environmental conditions can have strong effects on offspring trait variation and trait integration; and that these effects differ at the morphological and transcriptional levels.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] eLife - recent issues ▶ Rtf1-dependent transcriptional pausing regulates cardiogenesis</title>
+    <link href="https://elifesciences.org/articles/94524"/>
+    <id>https://elifesciences.org/articles/94524</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Transcriptional pause-release critically regulates cellular RNA biogenesis, yet how dysregulation of this process impacts embryonic development is not fully understood. Rtf1 is a multifunctional trans</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Using zebrafish and mouse, the study shows that Rtf1—via its Plus3 domain interaction with Spt5—maintains promoter-proximal RNA Pol II pausing needed for cardiac lineage differentiation, and that inhibiting CDK9-mediated pause release can partially rescue cardiomyocyte formation in Rtf1-deficient embryos.</p>
+<p><strong>Abstract:</strong> Transcriptional pause-release critically regulates cellular RNA biogenesis, yet how dysregulation of this process impacts embryonic development is not fully understood. Rtf1 is a multifunctional transcription regulatory protein involved in modulating promoter-proximal pausing of RNA Polymerase II (RNA Pol II). Using zebrafish and mouse as model systems, we show that Rtf1 activity is essential for the differentiation of the myocardial lineage from mesoderm. Ablation of rtf1 impairs the formation of nkx2.5+ / tbx5a+ cardiac progenitor cells, resulting in the development of embryos without cardiomyocytes. Structure-function analysis demonstrates that Rtf1’s cardiogenic activity requires its Plus3 domain, which confers interaction with the pausing/elongation factor Spt5. In Rtf1-deficient embryos, the occupancy of RNA Pol II at transcription start sites was reduced relative to downstream occupancy, suggesting a reduction in transcriptional pausing. Intriguingly, attenuating pause release by pharmacological inhibition or morpholino targeting of CDK9 improved RNA Pol II occupancy at the transcription start sites of key cardiac genes and restored cardiomyocytes in Rtf1-deficient embryos. Thus, our findings demonstrate the crucial role that Rtf1-mediated transcriptional pausing plays in controlling the precise spatiotemporal transcription programs that govern early heart development.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1101/gad.1643208">https://doi.org/10.1101/gad.1643208</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/9012502">https://www.ncbi.nlm.nih.gov/pubmed/9012502</a></li>
+<li><a href="https://twitter.com/intent/tweet/?text=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524">https://twitter.com/intent/tweet/?text=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/10393122">https://www.ncbi.nlm.nih.gov/pubmed/10393122</a></li>
+<li><a href="https://www.linkedin.com/shareArticle?title=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524.3">https://www.linkedin.com/shareArticle?title=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524.3</a></li>
+<li><a href="https://doi.org/10.1016/j.molcel.2022.12.006">https://doi.org/10.1016/j.molcel.2022.12.006</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/18184592">https://www.ncbi.nlm.nih.gov/pubmed/18184592</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/35275720">https://www.ncbi.nlm.nih.gov/pubmed/35275720</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/32831172">https://www.ncbi.nlm.nih.gov/pubmed/32831172</a></li>
+<li><a href="https://doi.org/10.1093/nar/gkv1191">https://doi.org/10.1093/nar/gkv1191</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/94524">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] Nature Communications ▶ HEXIM1 inter-monomer autoinhibition governs 7SK RNA binding specificity and P-TEFb inactivation</title>
     <link href="https://www.nature.com/articles/s41467-026-68285-8"/>
