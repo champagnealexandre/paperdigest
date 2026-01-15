@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T15:21:22.740071+00:00</updated>
+  <updated>2026-01-15T16:30:38.800807+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene genealogies in diploid populations evolving according to sweepstakes reproduction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Recruitment dynamics, or the distribution of the number of offspring among individuals, is central for understanding ecology and evolution. Sweepstakes reproduction (heavy right-tailed offspring numbe</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This theoretical population-genetics study derives Beta/Poisson–Dirichlet coalescent genealogies under neutral sweepstakes reproduction in diploid populations, informing how extreme reproductive skew shapes evolutionary ancestry but offering only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Recruitment dynamics, or the distribution of the number of offspring among individuals, is central for understanding ecology and evolution. Sweepstakes reproduction (heavy right-tailed offspring number distribution) is central for understanding the ecology and evolution of highly fecund natural populations. Sweepstakes reproduction can induce jumps in type frequencies and multiple mergers in gene genealogies of sampled gene copies. We take sweepstakes reproduction to be skewed offspring number distribution due to mechanisms not involving natural selection, such as in chance matching of broadcast spawning with favourable environmental conditions. Here, we consider population genetic models of sweepstakes reproduction in a diploid panmictic populations absent selfing and evolving in a random environment. Our main results are (i) continuous-time Beta and Poisson-Dirichlet coalescents, when combining the results the skewness parameter of the Beta-coalescent ranges from 0 to 2, and the Beta-coalescents may be incomplete due to an upper bound on the number of potential offspring produced by any pair of parents; (ii) in large populations time is measured in units proportional to either N/ log N or N generations (where 2N is the population size when constant); (iii) it follows that incorporating population size changes leads to time-changed coalescents with the time-change independent of (iv) using simulations we show that the ancestral process is not well approximated by the corresponding coalescent (as measured through certain functionals of the processes); (v) whenever the skewness of the offspring number distribution is increased the conditional (conditioned on the population ancestry) and the unconditional ancestral processes are not in good agreement.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Practical integration of machine learning into ab initio calculations and workflows: Accelerating the SCF cycle via density matrix predictions</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Data-driven approaches offer great potential for accelerating ab initio electronic structure calculations of molecules and materials but their transferability is often limited due to the vast amount o</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> ChemRxiv preprint showing a machine-learning “stitching” approach to predict density matrices and speed up SCF ab initio workflows (demonstrated on water clusters and a methane clathrate cage), offering indirect value for higher-throughput simulations of astrochemical and prebiotic-relevant systems.</p>
+<p><strong>Abstract:</strong> Data-driven approaches offer great potential for accelerating ab initio electronic structure calculations of molecules and materials but their transferability is often limited due to the vast amount of data needed for training, including when addressing the need to fine-tune universal models for each specific system to be studied. Here, we demonstrate how contributions from system-specific electronic structure machine learning (ESML) models may be combined (“stitched”) to deliver density matrices of entire systems of interest, improving the initial guess for the self-consistent field cycle and delivering gains in computational efficiency. The “stitching” of density matrices is demonstrated for sequential calculations, such as geometry optimization and molecular dynamics, and we show that the synergistic use of ESML models and density matrix extrapolation algorithms can accelerate standard computational calculations. The algorithms are demonstrated for test cases relating to water clusters and a methane clathrate cage, with the benefits discussed. The future opportunities for hybrid quantum mechanical and ML (QM/ML), and also ML/ML paradigms, are broad-ranging with significant computational speed-up attainable.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] bioRxiv Subject Collection: Evolutionary Biology ▶ The origin and evolution of amphibious hearing in pinnipeds</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Seals (pinnipeds) are the only mammals that can hear in both air and water. How and when they achieved the ability to negotiate such contrasting auditory media remains unknown. Here, we apply 3D shape</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, evolution</p>
+<p><strong>AI Decision:</strong> This preprint uses 3D morphological and phylogenetic analyses to infer how pinnipeds evolved amphibious hearing via middle-ear adaptations and cavernous tissue facilitating pressure and impedance matching during dives.</p>
+<p><strong>Abstract:</strong> Seals (pinnipeds) are the only mammals that can hear in both air and water. How and when they achieved the ability to negotiate such contrasting auditory media remains unknown. Here, we apply 3D shape and phylogenetic comparative analyses to a large dataset of caniform carnivorans (119 species, 217 specimens) to study the emergence of amphibious hearing in pinnipeds despite significant evolutionary constraints. We find support for the cavernous tissue as a functional and evolutionary mechanism for amphibious hearing. This tissue, which fills with blood during diving to equalise air pressure in the ear, enables a shift from in-air to underwater hearing by matching the acoustic impedance of the ear to that of the surrounding water. Early diverging freshwater pinnipeds had impaired hearing underwater. The first marine pinnipeds could hear amphibiously but were limited by a functional tradeoff between hearing abilities and the need to prevent damage from loud underwater sounds. Subsequently, otariids (eared seals) and phocids (true seals) independently acquired middle ear adaptations that expanded their underwater hearing range. This iterative evolution likely facilitated the exploration of novel auditory adaptive zones by crown pinnipeds, resulting in rare acoustic abilities like ultrasonic singing, vocal learning, and keeping rhythm.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ Two new exoplanets and the need for new habitable zone definitions</title>
     <link href="https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html"/>

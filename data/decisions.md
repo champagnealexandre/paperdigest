@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [The origin and evolution of amphibious hearing in pinnipeds](https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1) |
+| ai_scored | 45 | [Practical integration of machine learning into ab initio cal](https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss) |
+| ai_scored | 30 | [Gene genealogies in diploid populations evolving according t](https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1) |
+| keyword_rejected | - | [Un "navire géant" du Moyen Âge refait surface après 600 ans ](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/un-navire-geant-du-moyen-age-refait-surface-apres-600-ans-dans-les-eaux-danoises_190423?xtor=RSS-4) |
+| keyword_rejected | - | [Americans Overwhelmingly Support Science, but Some Think the](https://www.scientificamerican.com/article/americans-overwhelmingly-support-science-but-some-think-the-u-s-is-lagging/) |
+| keyword_rejected | - | [How gender bias influences math education](https://phys.org/news/2026-01-gender-bias-math.html) |
+| keyword_rejected | - | [Distance-decay reveals contrasting effects of land-use types](https://www.nature.com/articles/s41467-025-67612-9) |
+| keyword_rejected | - | [Genetic and non-genetic factors distinctly shape the variati](https://www.nature.com/articles/s41467-025-68234-x) |
+| keyword_rejected | - | [Control of telomerase recruitment and end protection by inde](https://www.nature.com/articles/s41467-026-68433-0) |
+| keyword_rejected | - | [Anti-PD-1 immune checkpoint inhibitor-induced cardiotoxicity](https://www.nature.com/articles/s41598-025-34379-4) |
+| keyword_rejected | - | [Scaling Azapeptide with N-Fmoc-Aza-tripeptide from Resonant ](https://dx.doi.org/10.26434/chemrxiv-2026-twvgv-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Uncertainty Quantification for In Silico Chemistry](https://dx.doi.org/10.26434/chemrxiv-2025-67ck9-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Scaling Azapeptide with N-Fmoc-Aza-tripeptide from Resonant ](https://dx.doi.org/10.26434/chemrxiv-2026-twvgv-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Constitutive sporulation in wild fission yeast enhances inse](https://www.biorxiv.org/content/10.64898/2026.01.14.699589v1?rss=1) |
 | keyword_rejected | - | [6 ways to help your children have a healthy relationship wit](https://www.newscientist.com/article/2510972-6-ways-to-help-your-children-have-a-healthy-relationship-with-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [En Suisse, une nouvelle peau fabriquée pour les grands brûlé](https://www.sciencesetavenir.fr/sante/dermato/en-suisse-une-nouvelle-peau-fabriquee-pour-les-grands-brules-de-crans-montana_190412?xtor=RSS-16) |
 | keyword_rejected | - | [6 ways to help your children have a healthy relationship wit](https://www.newscientist.com/article/2510972-6-ways-to-help-your-children-have-a-healthy-relationship-with-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
