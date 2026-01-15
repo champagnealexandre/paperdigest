@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Le retour d’échantillons martiens annulé par le Congrès amér](https://www.sciencesetavenir.fr/espace/exploration/c-est-une-decision-tres-dure-le-retour-d-echantillons-martiens-annule-par-le-congres-americain_190419?xtor=RSS-9) |
+| ai_scored | 5 | [Evacuated ISS Astronauts Return to Earth as NASA Prepares fo](https://www.scientificamerican.com/article/evacuated-iss-astronauts-return-to-earth-as-nasa-prepares-for-artemis-moon/) |
+| keyword_rejected | - | [During the course of my PhD, I’ve been relearning how to res](https://www.nature.com/articles/d41586-025-03342-8) |
+| keyword_rejected | - | [Reducibility of higher-order networks from dynamics](https://www.nature.com/articles/s41467-025-68273-4) |
+| keyword_rejected | - | [Emergent electric field induced by dissipative sliding dynam](https://www.nature.com/articles/s41567-025-03124-z) |
+| keyword_rejected | - | [Microbial activation of the GLP-2R mitigates gastrointestina](https://www.nature.com/articles/s41467-026-68551-9) |
+| keyword_rejected | - | [Bioadaptive Ni single atoms unlock high rate microbial elect](https://www.nature.com/articles/s41467-026-68358-8) |
+| keyword_rejected | - | [Going beyond compliance to build on the Researcher Developme](https://elifesciences.org/articles/110126) |
+| keyword_rejected | - | [Trained immunity in acute and chronic neurological diseases](https://elifesciences.org/articles/106037) |
 | ai_scored | 30 | [Rtf1-dependent transcriptional pausing regulates cardiogenes](https://elifesciences.org/articles/94524) |
 | ai_scored | 20 | [Embryonic environment impacts adult traits and phenotypic in](https://www.biorxiv.org/content/10.64898/2026.01.14.699474v1?rss=1) |
 | keyword_rejected | - | [Why non-human culture should change how we see nature](https://www.newscientist.com/article/mg26935783-900-why-non-human-culture-should-change-how-we-see-nature/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
