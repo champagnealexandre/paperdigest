@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Two new exoplanets and the need for new habitable zone defin](https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html) |
+| keyword_rejected | - | [Bains publics de Pompéi, vaisseau extraterrestre et manuscri](https://www.sciencesetavenir.fr/ultrabreves/bains-publics-de-pompei-vaisseau-extraterrestre-et-manuscrits-retranscrits-par-ia-l-actu-des-sciences-en-ultrabreves_190418) |
+| keyword_rejected | - | [Structural mechanisms for inhibition and activation of human](https://www.nature.com/articles/s41467-026-68475-4) |
+| keyword_rejected | - | [A joint graph neural network model incorporating rhetorical ](https://www.sciencedirect.com/science/article/pii/S1877750326000025?dgcid=rss_sd_all) |
 | keyword_rejected | - | [Burn-out: une prise en charge complexe et souvent "artisanal](https://www.sciencesetavenir.fr/sante/burn-out-une-prise-en-charge-complexe-et-souvent-artisanale_190424?xtor=RSS-16) |
 | keyword_rejected | - | [Development of a split-toxin CRISPR screening platform to sy](https://www.nature.com/articles/s41467-025-67583-x) |
 | keyword_rejected | - | [CHAMP1 is an essential regulator for human myoblast fusion a](https://www.nature.com/articles/s41467-025-67584-w) |
