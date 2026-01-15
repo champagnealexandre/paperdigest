@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Au Sénégal: étudier les chimpanzés, loin du danger des mines](https://www.sciencesetavenir.fr/nature-environnement/au-senegal-etudier-les-chimpanzes-loin-du-danger-des-mines-d-or_190411?xtor=RSS-15) |
+| keyword_rejected | - | [En Suisse, une nouvelle peau fabriquée pour les grands brûlé](https://www.sciencesetavenir.fr/sante/en-suisse-une-nouvelle-peau-fabriquee-pour-les-grands-brules-de-crans-montana_190412?xtor=RSS-16) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115032636&v=2.18.0.post22+67771e2) |
 | ai_scored | 5 | [Real-paired single-cell/bulk RNA-seq benchmark and a practic](https://www.biorxiv.org/content/10.64898/2026.01.14.699304v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115022229&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Vitronectin defines a differentiation-restraining extracellu](https://www.biorxiv.org/content/10.64898/2026.01.14.699461v1?rss=1) |

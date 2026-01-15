@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T07:22:40.628752+00:00</updated>
+  <updated>2026-01-15T08:26:40.494155+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Real-paired single-cell/bulk RNA-seq benchmark and a practical protocol for accurate cell-type deconvolution in human BAL samples</title>
@@ -2919,20 +2919,6 @@
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] PNAS ▶ Domestication drives repeated evolution of sexual–asexual life cycle trade-offs in yeast</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R</id>
-    <updated>2026-01-08T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceHumans have bred animals and crops for millennia by controlling their reproductive life cycles. By contr</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
-<p><strong>AI Decision:</strong> This PNAS study shows how domestication repeatedly reshapes sexual–asexual life-cycle trade-offs in eukaryotic yeast, offering indirect evolutionary context but little direct relevance to origin-of-life or prebiotic processes.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceHumans have bred animals and crops for millennia by controlling their reproductive life cycles. By contrast, domestication of microbes often occurred unintentionally, and how variation of the microbial life cycle impacts their domestication ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [40] PNAS ▶ Origin of class B J-domain proteins involved in amyloid transactions</title>
     <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R"/>
     <id>https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R</id>
@@ -5273,20 +5259,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] PNAS Evolution ▶ Early life-stage thermal resilience is determined by climate-linked regulatory variation</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R</id>
-    <updated>2026-01-08T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceBy comparing populations from distinct environments, we can determine the factors important for response</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> This PNAS study links climate-associated regulatory genomic variation to embryonic heat tolerance via laboratory selection and whole-genome sequencing, offering only indirect astrobiology relevance through general principles of thermal resilience and adaptation.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceBy comparing populations from distinct environments, we can determine the factors important for responses to environmental change. We used laboratory-based selection and whole-genome sequencing to uncover the genomic basis of embryonic heat ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] PNAS Evolution ▶ Reactive oxygen species drove red lineage phytoplankton to displace green lineage phytoplankton during the Mesozoic</title>
