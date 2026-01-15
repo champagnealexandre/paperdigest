@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 80 | [Signs Of Ancient Life Turn Up In An Unexpected Place](https://astrobiology.com/2026/01/signs-of-ancient-life-turn-up-in-an-unexpected-place.html) |
+| ai_scored | 75 | [Mars Was Half Covered By An Ocean](https://astrobiology.com/2026/01/mars-was-half-covered-by-an-ocean.html) |
+| ai_scored | 45 | [Cosmogenic Krypton Enables Reconstruction Of Landscapes Mill](https://astrobiology.com/2026/01/cosmogenic-krypton-enables-reconstruction-of-landscapes-millions-of-years-old.html) |
+| ai_scored | 35 | [NASA DARES AGU Community Update Recording Now Available](https://astrobiology.com/2026/01/nasa-dares-agu-community-update-recording-now-available.html) |
+| ai_scored | 75 | [Direct Detection Of Hydrogen Reveals A New Macroscopic Crust](https://astrobiology.com/2026/01/direct-detection-of-hydrogen-reveals-a-new-macroscopic-crustal-water-reservoir-on-early-mars.html) |
+| ai_scored | 45 | [Organisms In The Atacama Desert Soil Are Remarkably Diverse](https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html) |
+| ai_scored | 38 | [Dust Properties of the Interstellar Object 3I/ATLAS Revealed](https://astrobiology.com/2026/01/dust-properties-of-the-interstellar-object-3i-atlas-revealed-by-optical-and-near-infrared-polarimetry.html) |
+| ai_scored | 45 | [A Youthful Titan Implied By Improved Impact Simulations](https://astrobiology.com/2026/01/a-youthful-titan-implied-by-improved-impact-simulations.html) |
+| ai_scored | 95 | [Frozen Hydrogen Cyanide ‘Cobwebs’ Offer Clues To Origin Of L](https://astrobiology.com/2026/01/frozen-hydrogen-cyanide-cobwebs-offer-clues-to-origin-of-life.html) |
+| keyword_rejected | - | [Fossil may solve mystery of what one of the weirdest-ever an](https://www.newscientist.com/article/2511711-fossil-may-solve-mystery-of-what-one-of-the-weirdest-ever-animals-ate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Distant 'little red dot' galaxies may contain baby black hol](https://www.newscientist.com/article/2511576-distant-little-red-dot-galaxies-may-contain-baby-black-holes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Grève des médecins: le gouvernement lâche du lest aux syndic](https://www.sciencesetavenir.fr/sante/greve-des-medecins-le-gouvernement-lache-du-lest-aux-syndicats-sur-les-arrets-maladie_190429?xtor=RSS-16) |
+| keyword_rejected | - | [Fossil may solve mystery of what one of the weirdest-ever an](https://www.newscientist.com/article/2511711-fossil-may-solve-mystery-of-what-one-of-the-weirdest-ever-animals-ate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Distant 'little red dot' galaxies may contain baby black hol](https://www.newscientist.com/article/2511576-distant-little-red-dot-galaxies-may-contain-baby-black-holes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Fossil may solve mystery of what one of the weirdest-ever an](https://www.newscientist.com/article/2511711-fossil-may-solve-mystery-of-what-one-of-the-weirdest-ever-animals-ate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Distant 'little red dot' galaxies may contain baby black hol](https://www.newscientist.com/article/2511576-distant-little-red-dot-galaxies-may-contain-baby-black-holes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Correction: Competition and cooperation: The plasticity of b](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013809) |
 | ai_scored | 10 | [How small mammals shrink their brains to survive the cold](https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html) |
 | ai_scored | 40 | [When CycloneSEQ meets Oxford Nanopore Technologies: a perfor](https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1) |
 | ai_scored | 80 | [Habitable Worlds Observatory Living Worlds Working Group: Su](https://astrobiology.com/2026/01/habitable-worlds-observatory-living-worlds-working-group-surface-biosignatures-on-potentially-habitable-exoplanets.html) |
