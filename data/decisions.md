@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [How small mammals shrink their brains to survive the cold](https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html) |
+| ai_scored | 40 | [When CycloneSEQ meets Oxford Nanopore Technologies: a perfor](https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1) |
+| ai_scored | 80 | [Habitable Worlds Observatory Living Worlds Working Group: Su](https://astrobiology.com/2026/01/habitable-worlds-observatory-living-worlds-working-group-surface-biosignatures-on-potentially-habitable-exoplanets.html) |
+| ai_scored | 5 | [Sentinel-2 explores night vision](https://phys.org/news/2026-01-sentinel-explores-night-vision.html) |
+| ai_scored | 10 | [DNA from wolf pup's last meal reveals new facts about woolly](https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html) |
+| ai_scored | 0 | [Radiation-induced interferon-I response impairs thyroid orga](https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1) |
+| ai_scored | 10 | [Spatial Regression of Morphology-Protein Coupling in Tumour ](https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1) |
+| keyword_rejected | - | [Campus protests and civil disobedience: does academia have a](https://www.nature.com/articles/d41586-026-00152-4) |
+| keyword_rejected | - | [Antarctic submillimeter telescope enables more complete view](https://phys.org/news/2026-01-antarctic-submillimeter-telescope-enables-view.html) |
+| keyword_rejected | - | [Constructing the ensemble of representative structures for a](https://www.biorxiv.org/content/10.64898/2026.01.14.699462v1?rss=1) |
+| keyword_rejected | - | [Empirical-Bayes and Bayesian Hierarchical Modelling forMissi](https://www.biorxiv.org/content/10.64898/2026.01.15.699650v1?rss=1) |
+| keyword_rejected | - | [Predicting Clinical Phenotypes by Growth Curve Modeling of T](https://www.biorxiv.org/content/10.64898/2026.01.13.699292v1?rss=1) |
+| keyword_rejected | - | [Contrasted dissemination patterns of Old-World cottons Gossy](https://www.biorxiv.org/content/10.64898/2026.01.14.699536v1?rss=1) |
 | ai_scored | 20 | [Genomic footprints of historical introgression between ancie](https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1) |
 | ai_scored | 15 | [Assembling unregulated DNA segments bypasses synthesis scree](https://www.nature.com/articles/s41467-025-67955-3) |
 | ai_scored | 25 | [Evolutionary rescue from antagonistic invaders: Birth-limiti](https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1) |

@@ -3,8 +3,101 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T17:28:41.352352+00:00</updated>
+  <updated>2026-01-15T18:31:34.428702+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ Spatial Regression of Morphology-Protein Coupling in Tumour Proteomics</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Protein expression within oncogenic or suppresive pathways is hallmark indicator of oncogenesis. While traditional AI models in digital pathology attempt to predict singular proteins, there is a need </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> Uses vision transformers on breast cancer histopathology and RPPA proteomics to regress apoptosis-pathway protein expression, finding cell-level models outperform patch-level models but with no direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Protein expression within oncogenic or suppresive pathways is hallmark indicator of oncogenesis. While traditional AI models in digital pathology attempt to predict singular proteins, there is a need to predict the downstream expression of proteins to indicate the propagation of signals. RNA-expression provides novel information, but does not provide information about the propagation of protein signals downstream and whether those signals are functional. Using Reverse Phase Protein Array (RPPA) data with Whole Slide Images (WSIs) from the publicly available Cancer Genome Atlas&#x27; Breast Adenocarcinoma dataset (TCGA-BRCA), we predict the expression of five key proteins identified from the Apoptosis cascade using DNA Damage and Repair Cascades (DDR) as a biological control. Furthermore, we examine the performance of patch level Vision Transformers (ViT) on the regression task, which was tested against the designed Cellular-Level ViT CellRPPA. Our results demonstrate that patch-level vision transformers were unable to obtain statistically significant predictive results, obtaining R squared &lt; 0.1 for all folds. In addition, the CellViT obtained an R squared &gt; .1 in all 5 test folds. We also show that morphologically indicative cascades such as the apoptosis cascade provide signficantly higher performance over the DDR cascade.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] cell biology - biorXiv Preprints ▶ Radiation-induced interferon-I response impairs thyroid organoid function</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Background and Aim: Radiotherapy is a standard cancer treatment, but radiation exposure to surrounding healthy tissues may lead to adverse side effects that compromise patient quality of life. In pati</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, RNA</p>
+<p><strong>AI Decision:</strong> This study uses transcriptomics of gamma-irradiated thyroid organoids to show IFN-β signaling modulates apoptosis and reduces stem/progenitor regenerative capacity after radiation damage, but it is not directly relevant to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> Background and Aim: Radiotherapy is a standard cancer treatment, but radiation exposure to surrounding healthy tissues may lead to adverse side effects that compromise patient quality of life. In patients with head and neck cancer treated with radiotherapy, thyroid damage is a frequent complication, resulting in hypothyroidism or secondary thyroid malignancies. Although clinically recognized, the molecular mechanisms underlying these side effects remain mostly unexplored. This study aims to characterize the radiation-induced molecular alterations in thyroid organoids. Methods: Bulk RNA sequencing was performed to investigate transcriptomic changes in tissue-derived thyroid organoids following gamma-irradiation. Observed changes were further validated and explored using qPCRs, western blotting, immunofluorescence, caspase 3/7 activity and organoid forming efficiency. Results: Our findings identify interferon-{beta} (IFN-{beta}) signaling as a key mediator of radiation-induced inflammation in the thyroid. Additionally, the intrinsic apoptotic pathway was found to be the predominant mechanism of radiation-induced thyroid cell death. Notably, while IFN-{beta} exhibited a protective effect against apoptosis, it concurrently reduced thyroid stem progenitor cell potential. Conclusions: These results highlight the dual role of IFN-{beta} signaling in modulating thyroid cell fate after irradiation, potentially promoting survival upon injury at the expense of regenerative potential.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] Phys.org: Evolution News ▶ DNA from wolf pup&#x27;s last meal reveals new facts about woolly rhino&#x27;s extinction</title>
+    <link href="https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html"/>
+    <id>https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html</id>
+    <updated>2026-01-15T18:30:01Z</updated>
+    <summary>The woolly rhino, Coelodonta antiquitatis, would have been an impressive sight to the ancient people who painted images of them on cave walls and carved figurines of them out of bone, antler, ivory an</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
+<p><strong>AI Decision:</strong> Ancient DNA from a preserved wolf pup’s gut contents sheds light on Late Pleistocene ecology and woolly rhino extinction, but has minimal relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> The woolly rhino, Coelodonta antiquitatis, would have been an impressive sight to the ancient people who painted images of them on cave walls and carved figurines of them out of bone, antler, ivory and wood.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] phys.org - Space News ▶ Sentinel-2 explores night vision</title>
+    <link href="https://phys.org/news/2026-01-sentinel-explores-night-vision.html"/>
+    <id>https://phys.org/news/2026-01-sentinel-explores-night-vision.html</id>
+    <updated>2026-01-15T18:12:12Z</updated>
+    <summary>After more than 10 years in orbit, the first Copernicus Sentinel-2 satellite, Sentinel-2A, is still finding new ways to contribute to Earth observation. With its younger siblings, Sentinel-2B and Sent</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> ESA is extending the Sentinel-2A Earth-observation satellite beyond its original mission into new nighttime imaging applications, with no direct connection to origins-of-life or astrobiology research.</p>
+<p><strong>Abstract:</strong> After more than 10 years in orbit, the first Copernicus Sentinel-2 satellite, Sentinel-2A, is still finding new ways to contribute to Earth observation. With its younger siblings, Sentinel-2B and Sentinel-2C, now leading the mission&#x27;s core task of delivering high-resolution, &#x27;camera-like&#x27; images of Earth&#x27;s surface, the European Space Agency is pushing Sentinel-2A beyond its original remit.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-sentinel-explores-night-vision.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [80] Astrobiology (astrobiology.com) ▶ Habitable Worlds Observatory Living Worlds Working Group: Surface Biosignatures on Potentially Habitable Exoplanets</title>
+    <link href="https://astrobiology.com/2026/01/habitable-worlds-observatory-living-worlds-working-group-surface-biosignatures-on-potentially-habitable-exoplanets.html"/>
+    <id>https://astrobiology.com/2026/01/habitable-worlds-observatory-living-worlds-working-group-surface-biosignatures-on-potentially-habitable-exoplanets.html</id>
+    <updated>2026-01-15T18:14:34Z</updated>
+    <summary>The Habitable Worlds Observatory (HWO) is the first NASA Astrophysics flagship mission with a key science goal of searching for signs of life on rocky habitable exoplanets beyond our solar system. The</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, habitab*, exoplanet, astrobio*</p>
+<p><strong>AI Decision:</strong> This HWO Living Worlds Working Group report outlines how next-generation direct-imaging observations could detect and interpret surface biosignatures on potentially habitable rocky exoplanets in the nearby solar neighborhood.</p>
+<p><strong>Abstract:</strong> The Habitable Worlds Observatory (HWO) is the first NASA Astrophysics flagship mission with a key science goal of searching for signs of life on rocky habitable exoplanets beyond our solar system. The Living Worlds Community Working Group was charged with investigating how HWO could characterize planets orbiting stars in the solar neighborhood, search for signs […] The post Habitable Worlds Observatory Living Worlds Working Group: Surface Biosignatures on Potentially Habitable Exoplanets appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.08883">https://doi.org/10.48550/arXiv.2601.08883</a></li>
+<li><a href="https://arxiv.org/abs/2601.08883">https://arxiv.org/abs/2601.08883</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/habitable-worlds-observatory-living-worlds-working-group-surface-biosignatures-on-potentially-habitable-exoplanets.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] bioinformatics - biorXiv Preprints ▶ When CycloneSEQ meets Oxford Nanopore Technologies: a performance comparison of contemporary nanopore DNA sequencing platforms</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Nanopore sequencing underpins bacterial genomics and epigenomics, with Oxford Nanopore Technologies (ONT) leading. We benchmarked BGI&#x27;s CycloneSEQ against ONT using matched whole-genome shotgun (WGS) </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Benchmarks BGI CycloneSEQ versus ONT nanopore sequencing for bacterial WGS and methylation detection, showing near-R10.4.1 read accuracy, improved homopolymer performance, and cross-platform-compatible workflows for accurate assemblies and methylome inference.</p>
+<p><strong>Abstract:</strong> Nanopore sequencing underpins bacterial genomics and epigenomics, with Oxford Nanopore Technologies (ONT) leading. We benchmarked BGI&#x27;s CycloneSEQ against ONT using matched whole-genome shotgun (WGS) and methylation-free whole-genome amplification (WGA) libraries across six bacteria. With the updated CycloneSEQ kit/basecaller, reads reached 96.0% accuracy (mode 97.7%), within 0.8% of ONT R10.4.1; homopolymer performance surpassed R9.4.1 and approached R10.4.1. Error spectra were shared across platforms and dominated by A and G substitutions, WGA controls implicated methylation as a major contributor. At 50-fold coverage plus short-read polishing, CycloneSEQ assemblies achieved around 100% completeness with ~1 indel per 100 Kbp. For epigenomics, strand-specific basecalling errors enabled de novo discovery of 12 methylation motifs, and we introduce two CycloneSEQ-compatible signal-to-reference alignment strategies that permit signal comparison-based methylation detection. Beyond a single instrument, these results argue for a unified, cross-platform nanopore toolchain in which models, formats, and workflows interoperate from raw signal to accurate assemblies and methylomes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] Phys.org: Evolution News ▶ How small mammals shrink their brains to survive the cold</title>
+    <link href="https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html"/>
+    <id>https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html</id>
+    <updated>2026-01-15T18:10:01Z</updated>
+    <summary>An international team of researchers, with the involvement of the UAB, has conducted a study that explains the evolutionary origins of the Dehnel phenomenon, a unique seasonal adaptation in small mamm</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Study on the Dehnel phenomenon in small mammals (seasonal reversible brain shrinkage) that is primarily evolutionary physiology and has minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> An international team of researchers, with the involvement of the UAB, has conducted a study that explains the evolutionary origins of the Dehnel phenomenon, a unique seasonal adaptation in small mammals that involves the ability to reduce and recover brain volume and function. The study is published in Molecular Biology and Evolution.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] Nature Communications ▶ Mechanistically guided residual learning for battery state monitoring throughout life</title>
     <link href="https://www.nature.com/articles/s41467-025-67565-z"/>
@@ -6685,119 +6778,5 @@
 <p><strong>Abstract:</strong> The conservation of genome regulatory elements over long periods of evolution is not limited to vertebrates, as previously thought, but also in echinoderms (invertebrates). This is one of the most notable conclusions of a study published in the journal Nature Ecology &amp; Evolution, which expands our knowledge of the mechanisms governing genomic regulation and biological evolution.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Naturally Occurring Network Structures At Vastly Different Scales</title>
-    <link href="https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html"/>
-    <id>https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html</id>
-    <updated>2026-01-08T18:26:21Z</updated>
-    <summary>Editor’s note: Astrobiology has links to and from everything NASA does. I wish NASA would think outside the box when highlighting this topic – and use the word for this agency program i.e. “astrobiolo</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> A non-technical Astrobiology.com editorial comparing brain and cosmic web network structures, with only indirect relevance to origins-of-life questions and no linked primary literature.</p>
-<p><strong>Abstract:</strong> Editor’s note: Astrobiology has links to and from everything NASA does. I wish NASA would think outside the box when highlighting this topic – and use the word for this agency program i.e. “astrobiology” in so doing. Compare the structure of these two natural networks: A Cubic Millimeter of Mouse Brain Formation of the cosmic […] The post Naturally Occurring Network Structures At Vastly Different Scales appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Methanogens Through Geological Time And Space: Impact On Planetary Evolution and Significance For Life Beyond Earth</title>
-    <link href="https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html"/>
-    <id>https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html</id>
-    <updated>2026-01-08T17:40:08Z</updated>
-    <summary>Methanogens, also known as methanogenic archaea, are among the most ancient and widespread microorganisms, despite their particular requirements for growth. These oxygen-sensitive microorganisms have </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, origin(s) of life, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> Review of methanogenic archaea across Earth history and planetary settings, emphasizing their early evolution and potential relevance to methane-based biosignatures beyond Earth.</p>
-<p><strong>Abstract:</strong> Methanogens, also known as methanogenic archaea, are among the most ancient and widespread microorganisms, despite their particular requirements for growth. These oxygen-sensitive microorganisms have impacted climate and biogeochemical cycles throughout Earth’s history, although their specific roles in the long-term carbon cycle remain little explored. Methanogens evolved early during Earth’s history, likely during the Archaean Eon, […] The post Methanogens Through Geological Time And Space: Impact On Planetary Evolution and Significance For Life Beyond Earth appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ The Uncertainty In Water Mass Fraction Of Wet Planets</title>
-    <link href="https://astrobiology.com/2026/01/the-uncertainty-in-water-mass-fraction-of-wet-planets.html"/>
-    <id>https://astrobiology.com/2026/01/the-uncertainty-in-water-mass-fraction-of-wet-planets.html</id>
-    <updated>2026-01-08T17:46:42Z</updated>
-    <summary>Planets with masses between Earth and Neptune often have radii that imply the presence of volatiles, suggesting that water may be abundant in their interiors. However, directly observing the precise w</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, habitab*, astrochemistry, water</p>
-<p><strong>AI Decision:</strong> Models how uncertain water mass fractions and interior water distributions are for Earth–to–Neptune-mass exoplanets, informing constraints on planetary habitability but not directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Planets with masses between Earth and Neptune often have radii that imply the presence of volatiles, suggesting that water may be abundant in their interiors. However, directly observing the precise water mass fraction and water distribution remains unfeasible. In our study, we employ an internal structure code MAGRATHEA to model planets with high water content […] The post The Uncertainty In Water Mass Fraction Of Wet Planets appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.03932">https://doi.org/10.48550/arXiv.2601.03932</a></li>
-<li><a href="https://arxiv.org/abs/2601.03932">https://arxiv.org/abs/2601.03932</a></li>
-<li><a href="https://doi.org/10.3847/1538-4357/ae2c56">https://doi.org/10.3847/1538-4357/ae2c56</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/the-uncertainty-in-water-mass-fraction-of-wet-planets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Two-source Terrestrial Planet Formation With A Sweeping Secular Resonance</title>
-    <link href="https://astrobiology.com/2026/01/two-source-terrestrial-planet-formation-with-a-sweeping-secular-resonance.html"/>
-    <id>https://astrobiology.com/2026/01/two-source-terrestrial-planet-formation-with-a-sweeping-secular-resonance.html</id>
-    <updated>2026-01-08T17:50:11Z</updated>
-    <summary>The models that most successfully reproduce the orbital architecture of the Solar System terrestrial planets start from a narrow annulus of material that grows into embryos and then planets. However, </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, planetesimal, habitab*</p>
-<p><strong>AI Decision:</strong> Dynamical model for forming terrestrial planets from two distinct source regions via a sweeping secular resonance, potentially informing how inner Solar System compositional gradients relevant to later habitability arose but not directly addressing origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> The models that most successfully reproduce the orbital architecture of the Solar System terrestrial planets start from a narrow annulus of material that grows into embryos and then planets. However, it is not clear how this ring model can be made consistent with the chemical structure of the inner Solar System, which shows a reduced-to-oxidized […] The post Two-source Terrestrial Planet Formation With A Sweeping Secular Resonance appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.04032">https://doi.org/10.48550/arXiv.2601.04032</a></li>
-<li><a href="https://arxiv.org/abs/2601.04032">https://arxiv.org/abs/2601.04032</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/two-source-terrestrial-planet-formation-with-a-sweeping-secular-resonance.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Naturally Occurring “Space Weather Station” Elucidates New Way To Study Habitability Of Planets Orbiting M Dwarf Stars</title>
-    <link href="https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html"/>
-    <id>https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html</id>
-    <updated>2026-01-08T18:09:47Z</updated>
-    <summary>How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie’s Luke Bouma is exploring a new way to probe this critical question—using nat</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> Uses naturally occurring close-in companions around young M dwarfs as “space weather stations” to characterize stellar activity and particle environments that shape exoplanet atmospheres and long-term habitability.</p>
-<p><strong>Abstract:</strong> How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie’s Luke Bouma is exploring a new way to probe this critical question—using naturally occurring space weather stations that orbit at least 10 percent of M dwarf stars during their early lives. He is […] The post Naturally Occurring “Space Weather Station” Elucidates New Way To Study Habitability Of Planets Orbiting M Dwarf Stars appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://iopscience.iop.org/article/10.3847/2041-8213/ade39a">https://iopscience.iop.org/article/10.3847/2041-8213/ade39a</a></li>
-<li><a href="https://doi.org/10.3847/2041-8213/ade39a">https://doi.org/10.3847/2041-8213/ade39a</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Astronomers Find Missing Link To Our Galaxy’s Most Common Planets</title>
-    <link href="https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html"/>
-    <id>https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html</id>
-    <updated>2026-01-08T18:06:01Z</updated>
-    <summary>One of the biggest recent surprises in astronomy is the discovery that most stars like the Sun harbor a planet between the size of Earth and Neptune within the orbit of Mercury — sizes and orbits abse</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, water</p>
-<p><strong>AI Decision:</strong> Nature study constrains how super-Earths/sub-Neptunes—the Galaxy’s most common close-in planets—form, improving planetary context for potential habitability but not directly addressing origins-of-life chemistry or biosignatures.</p>
-<p><strong>Abstract:</strong> One of the biggest recent surprises in astronomy is the discovery that most stars like the Sun harbor a planet between the size of Earth and Neptune within the orbit of Mercury — sizes and orbits absent from our solar system. These ‘super-Earths and sub-Neptunes’ are the galaxy’s most common planets, but their formation has […] The post Astronomers Find Missing Link To Our Galaxy’s Most Common Planets appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41586-025-09840-z">https://www.nature.com/articles/s41586-025-09840-z</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. Influence Of The Internal Structure</title>
-    <link href="https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html"/>
-    <id>https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html</id>
-    <updated>2026-01-08T17:44:01Z</updated>
-    <summary>With the arrival of JWST observations of the TRAPPIST-1 planets, it is timely to reassess the contribution of tidal heating to their heat budget. JWST thermal phase curves could reveal endogenic heati</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> Reassesses how tidal heating—strongly dependent on internal structure—could shape the thermal budgets and potential habitability of the TRAPPIST-1 planets, with JWST phase curves offering a way to detect endogenic heating.</p>
-<p><strong>Abstract:</strong> With the arrival of JWST observations of the TRAPPIST-1 planets, it is timely to reassess the contribution of tidal heating to their heat budget. JWST thermal phase curves could reveal endogenic heating through an anomalously high nightside temperature, providing an opportunity to estimate tidal heating. In this study, we revisit the tidal heating of these […] The post Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. Influence Of The Internal Structure appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.03408">https://arxiv.org/abs/2601.03408</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.03408">https://doi.org/10.48550/arXiv.2601.03408</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Taxonomic Description Of Uncultured Cyanobacteria From Extreme Habitats Through Genome-Based Classification</title>
-    <link href="https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html"/>
-    <id>https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html</id>
-    <updated>2026-01-08T18:01:47Z</updated>
-    <summary>Cyanobacteria form a morphologically and phylogenetically diverse group of oxygenic phototrophic bacteria inhabiting a wide range of environments, including extreme habitats such as hot springs and vo</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> This preprint uses genome-based taxonomy to formally classify uncultured cyanobacterial lineages from extreme environments, improving our understanding of phototrophic evolution and potential biosignature-producing microbes in habitability analog settings.</p>
-<p><strong>Abstract:</strong> Cyanobacteria form a morphologically and phylogenetically diverse group of oxygenic phototrophic bacteria inhabiting a wide range of environments, including extreme habitats such as hot springs and volcanic steam vents. Many lineages, particularly those from these extreme environments, remain uncultured and are known only from metagenome-assembled genomes (MAGs), limiting their integration into formal taxonomy. Analysis of […] The post Taxonomic Description Of Uncultured Cyanobacteria From Extreme Habitats Through Genome-Based Classification appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.02.697360v1">https://www.biorxiv.org/content/10.64898/2026.01.02.697360v1</a></li>
-<li><a href="https://doi.org/10.64898/2026.01.02.697360v1">https://doi.org/10.64898/2026.01.02.697360v1</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
