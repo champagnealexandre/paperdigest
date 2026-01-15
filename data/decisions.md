@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Burn-out: une prise en charge complexe et souvent "artisanal](https://www.sciencesetavenir.fr/sante/burn-out-une-prise-en-charge-complexe-et-souvent-artisanale_190424?xtor=RSS-16) |
+| keyword_rejected | - | [Development of a split-toxin CRISPR screening platform to sy](https://www.nature.com/articles/s41467-025-67583-x) |
+| keyword_rejected | - | [CHAMP1 is an essential regulator for human myoblast fusion a](https://www.nature.com/articles/s41467-025-67584-w) |
+| keyword_rejected | - | [Asynchrony and functional diversity couple herbivore communi](https://www.nature.com/articles/s41467-025-67990-0) |
+| keyword_rejected | - | [Improved in vivo gene knockout with high specificity using m](https://www.nature.com/articles/s41467-026-68434-z) |
+| keyword_rejected | - | [Temporal anti-parity–time symmetry offers new way to steer e](https://phys.org/news/2026-01-temporal-anti-paritytime-symmetry-energy.html) |
+| keyword_rejected | - | [Yttrium-90 radioembolization for primary and metastatic live](https://www.nature.com/articles/s41598-025-34619-7) |
+| keyword_rejected | - | [Interpreting artificial neural network-based modeling of 4&#](https://www.nature.com/articles/s41598-026-35179-0) |
+| keyword_rejected | - | [Thiazole-conjugated covalent organic framework membranes ena](https://www.nature.com/articles/s41467-025-68171-9) |
+| keyword_rejected | - | [Light-driven restructuring generates nanoisland NiIr alloy f](https://www.nature.com/articles/s41467-026-68429-w) |
+| keyword_rejected | - | [Electrochemical inference of reduced thermodynamic descripto](https://dx.doi.org/10.26434/chemrxiv-2026-0qqgh?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Le retour d’échantillons martiens annulé par le Congrès amér](https://www.sciencesetavenir.fr/espace/exploration/c-est-une-decision-tres-dure-le-retour-d-echantillons-martiens-annule-par-le-congres-americain_190419?xtor=RSS-9) |
 | ai_scored | 5 | [Evacuated ISS Astronauts Return to Earth as NASA Prepares fo](https://www.scientificamerican.com/article/evacuated-iss-astronauts-return-to-earth-as-nasa-prepares-for-artemis-moon/) |
 | keyword_rejected | - | [During the course of my PhD, I’ve been relearning how to res](https://www.nature.com/articles/d41586-025-03342-8) |
