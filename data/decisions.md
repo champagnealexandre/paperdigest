@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Real-paired single-cell/bulk RNA-seq benchmark and a practic](https://www.biorxiv.org/content/10.64898/2026.01.14.699304v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115022229&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Vitronectin defines a differentiation-restraining extracellu](https://www.biorxiv.org/content/10.64898/2026.01.14.699461v1?rss=1) |
 | ai_scored | 52 | [Ancestors of Arylmalonate Decarboxylase show increased Activ](https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1) |
 | keyword_rejected | - | [Spatial correlation network and driving factors of inter-pro](https://www.nature.com/articles/s41599-025-06430-2) |
 | keyword_rejected | - | [A high-throughput, flow cytometry approach to measure phase ](https://www.nature.com/articles/s41467-025-68093-6) |
