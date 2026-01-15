@@ -1,5 +1,47 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [A ‘time capsule for cells’ stores the secret experiences of ](https://www.nature.com/articles/d41586-026-00116-8) |
+| ai_scored | 20 | [Chronic low-dose exposure to chlorpyrifos reduces life span ](https://www.science.org/doi/abs/10.1126/science.ady4727?af=R) |
+| ai_scored | 5 | [RasGRP1 agonists stimulate P-TEFb biogenesis via MEK-ERK-mTO](https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1) |
+| ai_scored | 50 | [SETI Institute Opens Call For Nominations For The 2026 Tarte](https://astrobiology.com/2026/01/seti-institute-opens-call-for-nominations-for-the-2026-tarter-award.html) |
+| keyword_rejected | - | [At 25, Wikipedia Now Faces Its Most Existential Threat—Gener](https://www.scientificamerican.com/article/at-25-wikipedia-now-faces-its-most-existential-threat-generative-a-i/) |
+| keyword_rejected | - | [In Science Journals](https://www.science.org/doi/abs/10.1126/science.aef4210?af=R) |
+| keyword_rejected | - | [A theory of change approach to enhance the post-2030 sustain](https://www.science.org/doi/abs/10.1126/science.adz5704?af=R) |
+| keyword_rejected | - | [The High Seas Treaty, at last](https://www.science.org/doi/abs/10.1126/science.aef3177?af=R) |
+| keyword_rejected | - | [The mirage of AI deregulation](https://www.science.org/doi/abs/10.1126/science.aee4900?af=R) |
+| keyword_rejected | - | [Ex–Google CEO funds private space telescope bigger than Hubb](https://www.science.org/doi/abs/10.1126/science.aef4618?af=R) |
+| keyword_rejected | - | [Arctic’s ‘last ice area’ is on thin ice](https://www.science.org/doi/abs/10.1126/science.aef4617?af=R) |
+| keyword_rejected | - | [Low doses of insecticide speed fish aging and death](https://www.science.org/doi/abs/10.1126/science.aef4616?af=R) |
+| keyword_rejected | - | [Cellular ‘vaults’ deployed to spy on gene activity](https://www.science.org/doi/abs/10.1126/science.aef4615?af=R) |
+| keyword_rejected | - | [Scientists reject call to retest childhood vaccines](https://www.science.org/doi/abs/10.1126/science.aef4614?af=R) |
+| keyword_rejected | - | [A difficult rebirth](https://www.science.org/doi/abs/10.1126/science.aef4208?af=R) |
+| keyword_rejected | - | [Misusing research to trap songbirds in Spain](https://www.science.org/doi/abs/10.1126/science.aee3825?af=R) |
+| keyword_rejected | - | [Climate-change extremes threaten Iraq](https://www.science.org/doi/abs/10.1126/science.aee9226?af=R) |
+| keyword_rejected | - | [Canada’s dismantled safeguards threaten salmon](https://www.science.org/doi/abs/10.1126/science.aee3537?af=R) |
+| keyword_rejected | - | [Uncovering Antarctica’s ice-draped landscape](https://www.science.org/doi/abs/10.1126/science.aee4245?af=R) |
+| keyword_rejected | - | [Not a big baby](https://www.science.org/doi/abs/10.1126/science.aed8356?af=R) |
+| keyword_rejected | - | [Robust perovskite nanocrystal emitters](https://www.science.org/doi/abs/10.1126/science.aee0989?af=R) |
+| keyword_rejected | - | [A new cell type drove human brain complexity](https://www.science.org/doi/abs/10.1126/science.aee0974?af=R) |
+| keyword_rejected | - | [Blood vessels under pressure](https://www.science.org/doi/abs/10.1126/science.aed9277?af=R) |
+| keyword_rejected | - | [In Other Journals](https://www.science.org/doi/abs/10.1126/science.aef4211?af=R) |
+| keyword_rejected | - | [Growing pains](https://www.science.org/doi/abs/10.1126/science.aef3527?af=R) |
+| keyword_rejected | - | [Transforming mental health research and care through artific](https://www.science.org/doi/abs/10.1126/science.adz9193?af=R) |
+| keyword_rejected | - | [Complex mesoscale landscapes beneath Antarctica mapped from ](https://www.science.org/doi/abs/10.1126/science.ady2532?af=R) |
+| keyword_rejected | - | [Paleogeography modulates marine extinction risk throughout t](https://www.science.org/doi/abs/10.1126/science.adv2627?af=R) |
+| keyword_rejected | - | [The photohydrolysis of furans](https://www.science.org/doi/abs/10.1126/science.aec6532?af=R) |
+| keyword_rejected | - | [Low-frequency earthquakes track the motion of a captured sla](https://www.science.org/doi/abs/10.1126/science.aeb2407?af=R) |
+| keyword_rejected | - | [Ablation of Prdm16 and beige fat identity causes vascular re](https://www.science.org/doi/abs/10.1126/science.ady8644?af=R) |
+| keyword_rejected | - | [Deep-learning analysis of 3D microarchitectural remodeling i](https://www.science.org/doi/abs/10.1126/science.ady6443?af=R) |
+| keyword_rejected | - | [A hierarchical shell locks and stabilizes perovskite nanocry](https://www.science.org/doi/abs/10.1126/science.ady1370?af=R) |
+| keyword_rejected | - | [Subventricular zone radial glial cells maintain inhibitory n](https://www.science.org/doi/abs/10.1126/science.adw1803?af=R) |
+| keyword_rejected | - | [Macrophage MR1 antigen presentation promotes MAIT cell immun](https://www.science.org/doi/abs/10.1126/science.adr6322?af=R) |
+| keyword_rejected | - | [Nucleotide metabolic rewiring enables NLRP3 inflammasome hyp](https://www.science.org/doi/abs/10.1126/science.adq9006?af=R) |
+| keyword_rejected | - | [A sudden change and recovery in the magnetic environment aro](https://www.science.org/doi/abs/10.1126/science.adq3225?af=R) |
+| keyword_rejected | - | [Careful science is valuable, regardless of results](https://www.science.org/doi/abs/10.1126/science.aeb7010?af=R) |
+| keyword_rejected | - | [The branching legacies of America’s past](https://www.science.org/doi/abs/10.1126/science.aec7931?af=R) |
+| keyword_rejected | - | [How dark asteroids die](https://phys.org/news/2026-01-dark-asteroids-die.html) |
+| keyword_rejected | - | [Proteomic Profiling of Human Omental and Subcutaneous Adipos](https://www.biorxiv.org/content/10.64898/2026.01.14.699533v1?rss=1) |
+| keyword_rejected | - | [Metabolites Shift Equilibria of Biomolecular Condensates](https://www.biorxiv.org/content/10.64898/2026.01.14.699531v1?rss=1) |
 | ai_scored | 80 | [Signs Of Ancient Life Turn Up In An Unexpected Place](https://astrobiology.com/2026/01/signs-of-ancient-life-turn-up-in-an-unexpected-place.html) |
 | ai_scored | 75 | [Mars Was Half Covered By An Ocean](https://astrobiology.com/2026/01/mars-was-half-covered-by-an-ocean.html) |
 | ai_scored | 45 | [Cosmogenic Krypton Enables Reconstruction Of Landscapes Mill](https://astrobiology.com/2026/01/cosmogenic-krypton-enables-reconstruction-of-landscapes-millions-of-years-old.html) |
