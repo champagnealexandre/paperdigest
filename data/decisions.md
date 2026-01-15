@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114233650&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Quatre astronautes attendus sur Terre après une évacuation m](https://www.sciencesetavenir.fr/sciences/quatre-astronautes-attendus-sur-terre-apres-une-evacuation-medicale-depuis-l-espace_190410?xtor=RSS-18) |
+| keyword_rejected | - | [Enhancing Lipid Detection and Spatial Accuracy in Carotid Pl](https://www.biorxiv.org/content/10.64898/2026.01.14.699204v1?rss=1) |
+| keyword_rejected | - | [Automating the Construction of Contextualized Biomedical Kno](https://www.biorxiv.org/content/10.64898/2026.01.14.699420v1?rss=1) |
+| keyword_rejected | - | [Ketosis rescues frataxin deficiency and corrects disease phe](https://www.biorxiv.org/content/10.64898/2026.01.14.699352v1?rss=1) |
 | ai_scored | 35 | [Discovery of a Dual-Target DNAzyme for Clostridioides diffic](https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Functionality Driven Dimensionality Modulation for Charge Tr](https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss) |
 | ai_scored | 47 | [Geometric origin of hierarchical patterns through history-de](https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss) |
