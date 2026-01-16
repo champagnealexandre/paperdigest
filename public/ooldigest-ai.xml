@@ -3,8 +3,78 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T01:22:23.760779+00:00</updated>
+  <updated>2026-01-16T03:27:03.439133+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟢 [90] ChemRxiv ▶ A Gene-Free Minimal System for Synthetic Quorum Sensing in Protocell Communities</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Synthetic communication networks are key to engineering life-like behaviors in artificial cells. Inspired by natural quorum sensing, we developed a coacervate-based system that exhibits quorum-sensing</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> autocataly*, life, protocell</p>
+<p><strong>AI Decision:</strong> ChemRxiv study demonstrating a gene-free, coacervate protocell community that achieves quorum-sensing-like, population-density–dependent collective activation via an autocatalytic trypsin–trypsinogen feedback loop, offering a minimal synthetic route toward life-like collective dynamics relevant to origins-of-life models.</p>
+<p><strong>Abstract:</strong> Synthetic communication networks are key to engineering life-like behaviors in artificial cells. Inspired by natural quorum sensing, we developed a coacervate-based system that exhibits quorum-sensing-like communication, driven by an autocatalytic trypsin–trypsinogen feedback loop. These membraneless compartments enable diffusion and amplification of signaling molecules, resulting in population density–dependent collective activation analogous to natural quorum responses. At high population density, signal accumulation triggers a system-wide fluorescent response, whereas at low population density, signaling remains off. By varying trypsin, trypsinogen, and population density, the activation threshold shifted over nearly an order of magnitude, with a fourfold acceleration in signal amplification at high population density. This gene-free platform establishes a minimal route to programmable, collective dynamics in synthetic protocell community.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Structures of muscle-type nicotinic acetylcholine receptor with α-conotoxins reveal determinants of receptor-subtype specificity</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>-Conotoxins (-CTX) are disulfide-rich peptide antagonists with exceptional potency and subtype selectivity across nicotinic acetylcholine receptors (nAChRs), making them promising leads for therapeuti</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Cryo-EM structures of muscle-type nicotinic acetylcholine receptors bound to α-conotoxins elucidate water-mediated and subunit-specific determinants of ligand potency and subtype selectivity, with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> -Conotoxins (-CTX) are disulfide-rich peptide antagonists with exceptional potency and subtype selectivity across nicotinic acetylcholine receptors (nAChRs), making them promising leads for therapeutic development. The molecular basis of their specificity has remained unresolved for decades, limiting rational drug design. Here, we present the first high-resolution cryo-EM structures of full-length muscle-type nAChR bound to three distinct -CTXs, revealing their precise binding modes at both acetylcholine binding sites. Our integrated approach, combining structural biology, pharmacological profiling, and computational hydration mapping, uncovers conserved pharmacophore features, water-mediated interactions, and subunit-specific determinants that govern potency and selectivity. These findings provide a long-sought molecular framework for -conotoxin recognition and inhibition, addressing a critical gap required to realise the full potential of conotoxins as lead compounds in drug discovery.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Moulting in Pancrustacea is characterised by both deeplyconserved and recently evolved gene modules</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Arthropods such as insects and crustaceans, which together form the monophyletic group Pancrustacea, possess a rigid chitinous exoskeleton that must be periodically shed through moulting to allow grow</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Comparative transcriptomics across pancrustaceans shows moulting is governed by a mix of deeply conserved and lineage-specific gene-expression modules, with the mid-moult phase being most lineage-specific (an inverse hourglass pattern).</p>
+<p><strong>Abstract:</strong> Arthropods such as insects and crustaceans, which together form the monophyletic group Pancrustacea, possess a rigid chitinous exoskeleton that must be periodically shed through moulting to allow growth and morphological change. Although moulting is a deeply conserved developmental process across Arthropoda, our understanding of its molecular mechanisms is still largely derived from insect model species. Lineage-specific innovations and losses of moulting related genes raise fundamental questions on the extent of its conservation outside non-insect arthropods. Here, we investigate the evolutionary conservation of moulting gene expression across five representative pancrustacean species. Changes in gene expression during moulting are characterized by both deeply conserved and lineage-specific gene modules. Time-series gene expression analyses reveal that these lineage-specific signatures are not uniformly distributed across the moulting process: the middle transitional phase is more lineage-specific, thereby exhibiting an inverse hourglass pattern. This is likely due to life-history specific processes, development of the cuticle and specialized structures of the exoskeleton. Overall, this study provides evidence for both the evolutionary conservation and divergence of this key post-embryonic developmental process and highlights the modular architecture of the moulting programme.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Actin-dependent mechanotransduction controls nucleocytoplasmic partitioning of DNMT3a through ERK1/2 signaling during cutaneous wound healing</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Cutaneous wound healing is a multifaceted physiological process that requires a cell state transition from homeostasis to tissue repair. An important contributor to this reprogramming is the wound-ind</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This preprint dissects how actin remodeling during wound healing downregulates ERK1/2 to unmask DNMT3a’s NLS and drive its nuclear import, linking mechanotransduction to epigenetic reprogramming in differentiated keratinocytes.</p>
+<p><strong>Abstract:</strong> Cutaneous wound healing is a multifaceted physiological process that requires a cell state transition from homeostasis to tissue repair. An important contributor to this reprogramming is the wound-induced mechanical cues that are perceived by epidermal keratinocytes. Previously we identified that the nuclear translocation of the de novo DNA methyltransferase 3A (DNMT3a), upon wounding as an important regulator of this cell-state transition. However, the molecular mechanisms linking mechanotransduction to epigenetic regulation remain incompletely understood. Here we show that under homeostasis, active ERK1/2 phosphorylates DNMT3a, intramolecularly masking its nuclear localization signal (NLS), resulting in its cytoplasmic sequestration. Upon wounding actin cytoskeleton remodeling leads to the downregulation of the Extracellular Signal-Related Kinase 1/2 (ERK 1/2) pathway. Wound-induced ERK1/2 inactivation unmasks the NLS, enabling DNMT3a nuclear translocation. Collectively, these findings define a mechanotransduction-driven signaling axis linking cytoskeletal dynamics to epigenetic regulation and confirms an active role for differentiated keratinocytes in initiating early wound repair programs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Novel Protoporphyrinogen oxidase 1 mutations endow resistance to PPO-inhibiting herbicides in Bassia scoparia</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>PPO inhibiting herbicides are widely used to manage weeds in different cropping systems, yet resistance evolution threatens their long term efficacy. Here, we investigated the molecular basis of resis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study identifies PPO1 F454 substitutions (F454I/L/V) in the weed Bassia scoparia that confer resistance to certain PPO-inhibiting herbicides via reduced target-site sensitivity, while fomesafen remains effective due to maintained binding to the mutated enzyme.</p>
+<p><strong>Abstract:</strong> PPO inhibiting herbicides are widely used to manage weeds in different cropping systems, yet resistance evolution threatens their long term efficacy. Here, we investigated the molecular basis of resistance to PPO inhibiting herbicides in Bassia scoparia biotypes collected from four locations in North Dakota, USA. Greenhouse dose response assays revealed high levels of resistance to saflufenacil and carfentrazone-ethyl, while fomesafen retained full efficacy across all biotypes. Resistant plants did not show increased copy number or elevated expression of PPO1 or PPO2. Sequencing of survivor plants revealed conserved PPO2 sequences, but consistent target-site substitutions at position F454 in PPO1, including F454I, F454L, and F454V. In vitro enzyme assays demonstrated that these substitutions impair PPO1 sensitivity to saflufenacil and carfentrazone ethyl, but not to fomesafen. Ectopic expression of B. scoparia PPO1 F454 mutant variants in Arabidopsis thaliana conferred tolerance to saflufenacil and carfentrazone ethyl, but not to fomesafen, supporting greenhouse and in vitro results. Molecular modeling indicated that the conformational flexibility and interaction profile of fomesafen enables it to maintain binding to mutated PPO1 variants, in contrast to the more rigid structures of saflufenacil and carfentrazone ethyl. A yeast-based complementation system further confirmed that F454 substitutions decrease herbicide sensitivity. In addition, developmental profiling showed distinct expression patterns of PPO1 and PPO2 during early growth stages in B. scoparia and Amaranthus spp., highlighting isoform-specific roles. Together, these findings represent the first reported PPO1 target-site mutations in a broadleaf weed species as a key mechanism of resistance and highlight that fomesafen is effective to control resistant B. scoparia populations.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] systems biology - biorXiv Preprints ▶ Synthetic Data to Explore Transcriptional Regulation of Differentially Expressed Genes in Ovarian Cancer</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1"/>
@@ -6212,21 +6282,6 @@
 <p><strong>Abstract:</strong> A large genetic study shows that many people carry DNA sequences that slowly expand as they get older. Common genetic variants can dramatically alter how fast this expansion happens, sometimes multiplying the pace by four. Researchers also identified specific DNA expansions linked to severe kidney and liver disease. The findings suggest that age-related DNA instability is far more common than previously realized.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencedaily.com/releases/2026/01/260109080214.htm">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] ScienceDaily - Evolutionary Biology News ▶ A hidden world inside DNA is finally revealed</title>
-    <link href="https://www.sciencedaily.com/releases/2026/01/260107225541.htm"/>
-    <id>https://www.sciencedaily.com/releases/2026/01/260107225541.htm</id>
-    <updated>2026-01-09T02:16:11Z</updated>
-    <summary>DNA doesn’t just sit still inside our cells — it folds, loops, and rearranges in ways that shape how genes behave. Researchers have now mapped this hidden architecture in unprecedented detail, showing</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> A Nature study maps dynamic 3D genome folding and cell-to-cell structural variation in eukaryotic DNA, clarifying how noncoding mutations can alter gene regulation—high-impact genetics but only tangential to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> DNA doesn’t just sit still inside our cells — it folds, loops, and rearranges in ways that shape how genes behave. Researchers have now mapped this hidden architecture in unprecedented detail, showing how genome structure changes from cell to cell and over time. These insights reveal why many disease-linked mutations outside genes can still cause harm. The findings could speed up the discovery of genetic risks and inspire new ways to target diseases.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1038/s41586-025-09890-3">https://doi.org/10.1038/s41586-025-09890-3</a></li>
-<li><a href="http://dx.doi.org/10.1038/s41586-025-09890-3">http://dx.doi.org/10.1038/s41586-025-09890-3</a></li>
-</ul>
-<p><a href="https://www.sciencedaily.com/releases/2026/01/260107225541.htm">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [0] cs.NE updates on arXiv.org ▶ Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions</title>

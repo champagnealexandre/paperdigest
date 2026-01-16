@@ -1,5 +1,32 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Novel Protoporphyrinogen oxidase 1 mutations endow resistanc](https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1) |
+| ai_scored | 15 | [Actin-dependent mechanotransduction controls nucleocytoplasm](https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1) |
+| ai_scored | 40 | [Moulting in Pancrustacea is characterised by both deeplycons](https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1) |
+| ai_scored | 10 | [Structures of muscle-type nicotinic acetylcholine receptor w](https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1) |
+| ai_scored | 90 | [A Gene-Free Minimal System for Synthetic Quorum Sensing in P](https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115222647&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [An Open Data Approach for Comparing CO2 Capture Materials](https://dx.doi.org/10.26434/chemrxiv-2026-g3zqr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [CO2 electrosorption: electric field effect on the metal–CO2 ](https://dx.doi.org/10.26434/chemrxiv-2026-1w0qb?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Asymmetric Multi-Site Ion Exchange in Porous Carbon Electrod](https://dx.doi.org/10.26434/chemrxiv-2026-jvqt4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Auditing Domain Alignment in Latent Representations for Cros](https://dx.doi.org/10.26434/chemrxiv-2026-d4qw9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Structure-guided engineering of membrane-binding regions for](https://dx.doi.org/10.26434/chemrxiv-2026-1xcj3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Understanding the aggregation properties of polydopamine wit](https://dx.doi.org/10.26434/chemrxiv-2026-2dvpc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Polymerization mechanism of dopamine resolved: A story of st](https://dx.doi.org/10.26434/chemrxiv-2026-fq6z7?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Turbulent Mixing Mechanism of Neutralization Reaction in a S](https://dx.doi.org/10.26434/chemrxiv-2026-3x7hs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Assignment Promoting Use of Generative AI as an Active Learn](https://dx.doi.org/10.26434/chemrxiv-2026-7wwr0?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A protein language model unveils the E. coli pangenome funct](https://www.biorxiv.org/content/10.64898/2026.01.15.699719v1?rss=1) |
+| keyword_rejected | - | [X-ray fluorescence microscopy exposure estimates using a sin](https://www.biorxiv.org/content/10.64898/2026.01.15.699668v1?rss=1) |
+| keyword_rejected | - | [Spindle biochemistry responds to compressive force from then](https://www.biorxiv.org/content/10.64898/2026.01.15.699759v1?rss=1) |
+| keyword_rejected | - | [Electrical Readout Strategies of GFET Biosensors for Real-Wo](https://www.biorxiv.org/content/10.64898/2026.01.08.698482v1?rss=1) |
+| keyword_rejected | - | [Elucidating Odorant Masking Effects in Food Matrices Through](https://www.biorxiv.org/content/10.64898/2026.01.13.699200v1?rss=1) |
+| keyword_rejected | - | [Human iPSC-derived CNS and retinal microvasculature-on-a-chi](https://www.biorxiv.org/content/10.64898/2026.01.15.699708v1?rss=1) |
+| keyword_rejected | - | [Endothelial Cell Secretome Alterations Induced by Inflammato](https://www.biorxiv.org/content/10.64898/2026.01.15.695726v1?rss=1) |
+| keyword_rejected | - | [Cysteine Glutathionylation as a Global Dynamic Regulator of ](https://www.biorxiv.org/content/10.64898/2026.01.15.699703v1?rss=1) |
+| keyword_rejected | - | [Mapping the GCK-GKRP interaction landscape using deep mutati](https://www.biorxiv.org/content/10.64898/2026.01.15.699699v1?rss=1) |
+| keyword_rejected | - | [Substrate specificity in a designed RAS-targeting protease i](https://www.biorxiv.org/content/10.64898/2026.01.15.699477v1?rss=1) |
+| keyword_rejected | - | [Extending Conformational Ensemble Prediction to Multidomain ](https://www.biorxiv.org/content/10.64898/2026.01.14.699584v1?rss=1) |
+| keyword_rejected | - | [DeepSpaceDB 2.0: an interactive spatial transcriptomics data](https://www.biorxiv.org/content/10.64898/2026.01.15.699623v1?rss=1) |
 | ai_scored | 10 | [Synthetic Data to Explore Transcriptional Regulation of Diff](https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115202206&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Supersymmetric Isophase Acoustic Potentials](http://link.aps.org/doi/10.1103/7dqk-h2pg) |
