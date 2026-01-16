@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T06:28:53.743867+00:00</updated>
+  <updated>2026-01-16T07:21:57.360492+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [60] ChemRxiv ▶ Repurposing Dna-Binding Proteins as Molecular Actuators in Synthetic Systems Through Proximity-Driven DNA Reactions</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>DNA-binding proteins (DBPs) play central roles in gene regulation by recognizing specific DNA sequences, yet their function in synthetic molecular systems is typically limited to transcriptional contr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA, RNA</p>
+<p><strong>AI Decision:</strong> ChemRxiv preprint presenting a proximity-driven design that turns native DNA-binding proteins (e.g., EGR1, YY1, p53) into programmable triggers for DNA strand-displacement and CRISPR/RNA aptamer outputs, offering broadly relevant nucleic-acid reaction engineering but only indirect ties to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> DNA-binding proteins (DBPs) play central roles in gene regulation by recognizing specific DNA sequences, yet their function in synthetic molecular systems is typically limited to transcriptional control or sequence-specific binding. Here we describe a proximity-driven molecular framework that couples DBP–DNA recognition to DNA strand displacement reactions, enabling DNA-binding proteins to act as sequence-selective inputs for synthetic nucleic acid reaction pathways without modification of the protein scaffold. In our design, protein binding induces spatial colocalization of DNA components, triggering conditional generation of functional nucleic acid outputs through proximity-mediated strand displacement. Using representative DBPs, including EGR1, YY1, and p53, we connect protein recognition to DNA strand displacement, activation of a fluorogenic RNA aptamer, regulation of CRISPR–Cas12a and Cas13 activity, and coordination of multistep CRISPR cascades. A defining feature of this strategy is the decoupling of molecular recognition from downstream function, which avoids structural and thermodynamic constraints associated with switch-based designs. These results demonstrate a general proximity-based approach for integrating DNA-binding proteins into programmable molecular architectures.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] ChemRxiv ▶ N2O as reactant rather than pollutant at wastewater treatment plants: Life Cycle Assessment and Techno-Economic Analysis of N2O-to-phenol</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-m4vwz?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-m4vwz?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>N2O emissions-reducing technologies are essential to reduce wastewater treatment plant (WWTP) greenhouse gas (GHG) emissions. In this study, we perform a life cycle assessment (LCA) and techno-economi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This paper evaluates (via LCA/TEA) an engineered wastewater-plant pathway that converts intentionally produced N2O into phenol with N2 co-production, offering limited direct relevance to origins-of-life aside from tangential implications for reactive nitrogen/redox chemistry in aqueous environments.</p>
+<p><strong>Abstract:</strong> N2O emissions-reducing technologies are essential to reduce wastewater treatment plant (WWTP) greenhouse gas (GHG) emissions. In this study, we perform a life cycle assessment (LCA) and techno-economic analysis (TEA) of a technology that intentionally produces N2O from WWTP N and uses this gas as an oxidant in the production of phenol and co-product N2. We compare the cost and sustainability of producing phenol and N2 with this technology and via conventional routes (cumene-to-phenol, cryogenic distillation, and pressure swing absorption to N2). Depending on the co-product allocation method, the median cumulative energy demand of the phenol produced from WWTP nitrogen is 30% to 50% higher than phenol from the cumene process, while the global warming potential of phenol produced via this pathway ranges from 10% lower to 40% higher than conventional routes to this chemical. However, depending on WWTP size, level of N2O recovery, and the market price of feedstocks and products, producing phenol at WWTP with this technology can produce a positive internal rate of return. We conclude that this technology could be applicable for large-scale WWTPs, but technological advancements are needed.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-m4vwz?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-m4vwz?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-m4vwz?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] ChemRxiv ▶ Nanopore sequencing with proteins: synchronization and dischronization of molecular dynamics simulations with laboratory and industrial developments</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss"/>
