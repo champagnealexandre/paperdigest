@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [BaCas12a3 represents a new subtype of type V CRISPR effector](https://www.biorxiv.org/content/10.64898/2026.01.16.699850v1?rss=1) |
+| keyword_rejected | - | [Qui a tué la galaxie "James Dean" ?](https://www.sciencesetavenir.fr/espace/univers/qui-a-tue-la-galaxie-james-dean_190445?xtor=RSS-9) |
+| keyword_rejected | - | [Systems acclimation to osmotic stress in zygnematophyte cell](https://www.nature.com/articles/s41467-026-68329-z) |
+| keyword_rejected | - | [Adipocytic sclerostin loop3-LRP4 interaction required by scl](https://www.nature.com/articles/s41467-026-68526-w) |
+| keyword_rejected | - | [Robust and interpretable prediction of gene markers and cell](https://www.nature.com/articles/s41467-026-68487-0) |
+| keyword_rejected | - | [Mechanism of trans-envelope bacterial polysaccharide secreti](https://www.nature.com/articles/s41467-025-67321-3) |
+| keyword_rejected | - | [How do vaccine cutbacks affect public health? Ask Japan](https://www.nature.com/articles/d41586-026-00146-2) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116112324&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Correction: A hybrid approach for regionalization of precipi](https://www.nature.com/articles/s41598-025-33156-7) |
+| keyword_rejected | - | [Glial <i>betaPix</i> is essential for blood vessel developme](https://elifesciences.org/articles/106665) |
+| keyword_rejected | - | [A Multiomic Analysis of Cachectic Mice Reveals Cancer Driven](https://www.biorxiv.org/content/10.64898/2026.01.12.699072v1?rss=1) |
 | ai_scored | 50 | [A leading use for quantum computers might not need them afte](https://www.newscientist.com/article/2511643-a-leading-use-for-quantum-computers-might-not-need-them-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 55 | [A leading use for quantum computers might not need them afte](https://www.newscientist.com/article/2511643-a-leading-use-for-quantum-computers-might-not-need-them-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 45 | [Briefing Chat: Can NASA return rocks from Mars? And why dogs](https://www.nature.com/articles/d41586-026-00194-8) |
