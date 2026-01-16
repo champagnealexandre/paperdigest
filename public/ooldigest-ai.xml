@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T05:22:24.206757+00:00</updated>
+  <updated>2026-01-16T06:28:53.743867+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Nanopore sequencing with proteins: synchronization and dischronization of molecular dynamics simulations with laboratory and industrial developments</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Protein nanopores have revolutionized DNA sequencing by enabling long-read, real-time, and portable genomic analysis. This review traces the experimental evolution of three key protein nanopores—α-hem</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, DNA</p>
+<p><strong>AI Decision:</strong> Review of engineered protein nanopores (α-hemolysin, MspA, CsgG) and accompanying MD simulations, arguing simulations lag experiments and proposing AI-enabled multiscale modeling to proactively design next-generation nanopore sequencing systems.</p>
+<p><strong>Abstract:</strong> Protein nanopores have revolutionized DNA sequencing by enabling long-read, real-time, and portable genomic analysis. This review traces the experimental evolution of three key protein nanopores—α-hemolysin, MspA, and CsgG—highlighting how iterative engineering overcame challenges such as translocation control and homopolymer resolution. Concurrently, molecular dynamics (MD) simulations have elucidated DNA–pore interactions, ion current modulation, free-energy landscapes, and so forth, providing mechanistic insights and guiding rational design. However, MD studies consistently lag behind experimental and industrial advances, resulting in a reactive “simulate-after-validate” paradigm. We identify critical gaps in simulating motor–pore complexes, experimental timescales, and emerging designs like dual-constriction pores. To bridge these, we propose leveraging deep learning-based structure prediction, de novo protein design, and advanced multiscale simulations to foster proactive, integrated development of next-generation nanopore technologies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] nlin.AO updates on arXiv.org ▶ Macroscopic dynamics of quadratic integrate-and-fire neurons subject to correlated noise</title>
     <link href="https://arxiv.org/abs/2601.10032"/>

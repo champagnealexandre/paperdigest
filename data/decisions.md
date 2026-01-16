@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Nanopore sequencing with proteins: synchronization and disch](https://dx.doi.org/10.26434/chemrxiv-2026-0lzw1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116012838&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [An epidemiological analysis of cranio-vertebral morphometric](https://www.nature.com/articles/s41598-026-36412-6) |
+| keyword_rejected | - | [Association of choroid plexus volume with brain atrophy and ](https://www.nature.com/articles/s41598-026-35850-6) |
+| keyword_rejected | - | [Emerging heat stress patterns across India under future clim](https://www.nature.com/articles/s41598-026-36299-3) |
+| keyword_rejected | - | [QPSODRL: an improved quantum particle swarm optimization and](https://www.nature.com/articles/s41598-026-35365-0) |
+| keyword_rejected | - | [Environmental enrichment and physical exercise prevent stres](https://www.nature.com/articles/s41467-025-68058-9) |
+| keyword_rejected | - | [Molecular basis of antagonism of the dimeric human arginine ](https://www.nature.com/articles/s41467-026-68331-5) |
+| keyword_rejected | - | [Optimal murine CD4<sup>+</sup> T cell priming by mRNA-lipid ](https://www.nature.com/articles/s41467-025-68080-x) |
+| keyword_rejected | - | [Regiodivergent N1- and C3- Carboxylation of Indoles](https://dx.doi.org/10.26434/chemrxiv-2026-023mg?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Switchable N–H vs C3–H Carboxylation of Indoles using Dual-F](https://dx.doi.org/10.26434/chemrxiv-2026-6f3m5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Surface Segregation in Compositionally Complex Ag-Au-Pd-Pt S](https://dx.doi.org/10.26434/chemrxiv-2026-xbjnn?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Regiodivergent N1- and C3- Carboxylation of Indoles](https://dx.doi.org/10.26434/chemrxiv-2026-023mg?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Switchable N–H vs C3–H Carboxylation of Indoles using Dual-F](https://dx.doi.org/10.26434/chemrxiv-2026-6f3m5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Metabolic glycoengineering enables fluorine-18 radiolabeling](https://dx.doi.org/10.26434/chemrxiv-2026-vkzjp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [K5Ir: Reduced Iridium Stabilized in a High-Pressure Semimeta](https://dx.doi.org/10.26434/chemrxiv-2026-xfdj1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [YBi<sub>2</sub>O<sub>3.5+δ</sub>Se<sub>1-x</sub>Cl<sub>x</su](https://dx.doi.org/10.26434/chemrxiv-2026-m3qv9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Cellular Target Engagement and Dissociation Kinetics of Clas](https://dx.doi.org/10.26434/chemrxiv-2026-3q28h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [TSC1 phosphorylation by lysosomal mTORC1 establishes a minim](https://www.biorxiv.org/content/10.64898/2026.01.15.699678v1?rss=1) |
 | ai_scored | 30 | [Gene genealogies in diploid populations evolving according t](https://arxiv.org/abs/2601.10364) |
 | ai_scored | 45 | [Predicting the suitability of photocatalysts for water split](https://arxiv.org/abs/2412.17488) |
 | ai_scored | 35 | [Predicting the suitability of photocatalysts for water split](https://arxiv.org/abs/2412.17488) |
