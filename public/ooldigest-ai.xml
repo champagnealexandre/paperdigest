@@ -3,8 +3,78 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T03:27:03.439133+00:00</updated>
+  <updated>2026-01-16T04:37:26.142872+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [25] cell biology - biorXiv Preprints ▶ Distinct p21 dynamics drive alternative routes to whole-genome duplication through a common CDK4/6-dependent polyploid G0 state</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Whole-genome duplication (WGD) fuels tumor evolution and therapy resistance, yet the molecular mechanisms governing the switch from the canonical mitotic cell cycle to the endoreplication cycle remain</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
+<p><strong>AI Decision:</strong> Preprint dissects how genotoxic stress in breast cancer cells triggers alternative p21-dependent routes to whole-genome duplication and a shared CDK4/6-dependent polyploid G0 state, suggesting a therapeutic strategy to block WGD-driven tumor evolution.</p>
+<p><strong>Abstract:</strong> Whole-genome duplication (WGD) fuels tumor evolution and therapy resistance, yet the molecular mechanisms governing the switch from the canonical mitotic cell cycle to the endoreplication cycle remain unclear. Here, we combine single-cell proteomics, manifold learning, and live-cell imaging to map the intersection of the mitotic and endoreplication cycles in breast cancer cells exposed to genotoxic agents. We identify two distinct routes to WGD driven by distinct p21 dynamics. High p21 induction induces G2 exit and endocycling, whereas insufficient p21 permits mitotic entry followed by slippage and endomitosis. This therapy-induced switch acts as a facultative stress response, generating drug-resistant polyploid populations that propagate genomic instability through replication stress and the generation of replication-competent micronuclei. Both paths to WGD converge on a common polyploid G0 state dependent on cyclin D1:CDK4/6 activity to complete the transition to the endoreplication cycle, revealing a shared vulnerability. Sequential treatment with genotoxic agents followed by CDK4/6 inhibitors preserves the cytotoxic efficacy of DNA-damaging drugs while simultaneously blocking entry into the endoreplication cycle and WGD-driven evolutionary rescue. These findings reveal the molecular rules governing the switch from the mitotic to endoreplication cycle and highlight the potential of WGD-blocking drugs as adjuvant therapies to inhibit drug resistance and suppress tumor evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] biochemistry - biorXiv Preprints ▶ Structural Basis of Glycolytic Control in Trypanosoma cruzi: Insights from Enolase and PGI</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Trypanosoma cruzi, the causative agent of Chagas disease, relies heavily on glycolysis for ATP production, making glycolytic enzymes attractive targets for therapeutic intervention. In this study, we </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> High-resolution structures of two Trypanosoma cruzi glycolytic enzymes (PGI and enolase) reveal parasite-specific features and support structure-guided antiparasitic inhibitor design, with minimal relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Trypanosoma cruzi, the causative agent of Chagas disease, relies heavily on glycolysis for ATP production, making glycolytic enzymes attractive targets for therapeutic intervention. In this study, we report high-resolution crystal structures of two essential glycolytic enzymes, glucose-6-phosphate isomerase (Tc PGI; 1.8 A) and enolase (Tc enolase; 2.4 A), and integrate structural, biophysical, and computational analyses to evaluate their drug-target potential. Tc PGI adopts a dimeric alpha-beta-alpha sandwich fold and contains a parasite-specific 53-residue N-terminal extension and a distinctive C-terminal hook region that are absent in the human ortholog. Tc enolase displays the conserved (alpha/beta)8 TIM-barrel architecture but exhibits localized structural differences, including an extended alpha17 helix and a structured alpha1 region, relative to human isoforms. Both enzymes exhibit high thermal stability, consistent with adaptation to the parasite&#x27;s complex life cycle. Structure-based virtual screening using a scaffold previously associated with multi-target inhibition identified candidate ligands with favorable docking scores for each enzyme. Subsequent molecular dynamics simulations and binding free-energy analyses supported stable enzyme-ligand interactions and favorable energetic profiles. Together, these results define parasite-specific structural features of two key glycolytic enzymes and provide a structural framework for future experimental validation and structure-guided development of selective antiparasitic inhibitors.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] cell biology - biorXiv Preprints ▶ LONP-1 deficiency causes dysregulated protein synthesis within mitochondria that is restored by mitoribosomal mutations</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Mitochondrial homeostasis is maintained by multiple molecular chaperones and proteases located within the organelle. The mitochondrial matrix-localized protease LONP-1 degrades oxidatively damaged or </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> In C. elegans, loss of the mitochondrial protease LONP-1 disrupts mtDNA replication/transcription and dysregulates mitochondrial translation, and specific mitoribosomal protein mutations (e.g., MRPS-38) suppress these defects by slowing translation to improve oxidative phosphorylation complex assembly.</p>
+<p><strong>Abstract:</strong> Mitochondrial homeostasis is maintained by multiple molecular chaperones and proteases located within the organelle. The mitochondrial matrix-localized protease LONP-1 degrades oxidatively damaged or misfolded proteins. Importantly, LONP-1 also regulates mitochondrial DNA replication. Here, we show that mutations in C. elegans that impair LONP-1 function cause dysregulation of mitochondrial DNA replication, mitochondrial RNA transcription and protein synthesis within the mitochondrial matrix. LONP-1 deficient worms had reduced levels of oxidative phosphorylation proteins despite increased mtDNA-encoded protein synthesis. Via a forward genetic screen, we identified three mutations that restored mitochondrial function and the rate of development in lonp-1 mutants to levels comparable to those in wildtype worms. Interestingly, all three suppressor mutations were found in genes encoding mitochondrial ribosome proteins. A point mutation in the mitochondrial ribosome protein MRPS-38 restored oxidative phosphorylation in lonp-1 mutant worms. Combined, our results suggest that LONP-1 regulates mitochondrial protein synthesis and that the suppressor mutations within MRPS-38 or MRPS-15 enhance oxidative phosphorylation complex assembly by slowing translation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] bioRxiv Subject Collection: Evolutionary Biology ▶ Characterizing the rates and patterns of de novo germline mutations in coppery titi monkeys (Plecturocebus cupreus)</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Although recent advances in genomics have enabled the high-resolution study of whole genomes, our understanding of one of the key evolutionary processes, mutation, still remains limited. In primates s</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Population-scale whole-genome sequencing in coppery titi monkey trios quantifies de novo germline mutation rates and a strong paternal age effect, informing primate evolutionary mutation dynamics but only indirectly relevant to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Although recent advances in genomics have enabled the high-resolution study of whole genomes, our understanding of one of the key evolutionary processes, mutation, still remains limited. In primates specifically, studies have largely focused on humans and their closest evolutionary relatives, the great apes, as well as a handful of species of biomedical or conservation interest. Yet, as biological variation in mutation rates has been shown to vary across genomic regions, individuals, and species, a greater understanding of the underlying evolutionary dynamics at play will ultimately be illuminated by not only additional sampling across the Order, but also by a greater depth of sampling within-species. To address these needs, we here present the first population-scale genomic resources for a platyrrhine of considerable biomedical interest for both social behavior and neurobiology, the coppery titi monkey (Plecturocebus cupreus). Deep whole-genome sequencing of 15 parent-offspring trios, together with a computational de novo mutation detection pipeline based on pan-genome graphs, has provided a detailed picture of the sex-averaged mutation rate -- 0.63 x 10-8 (95% CI: 0.43 x 10-8 - 0.90 x 10-8) per site per generation -- as well as the effects of both sex and parental age on underlying rates, demonstrating a significant paternal age effect. Coppery titi monkey males exhibit long reproductive lifespans, afforded by long-term pair bonding in the species&#x27; monogamous mating system, and our results have demonstrated that individuals reproducing later in life exhibit one of the strongest male mutation biases observed in any non-human primate studied to date. Taken together, this study thus provides an important piece of the puzzle for better comprehending the mutational landscape across primates.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Phylogeny and morphology of novel Labyrinthulomycetes in Nova Scotia, Canada</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Labyrinthulomycetes are ubiquitous marine decomposers and include the thraustochytrids, a lineage known for their extensive production of polyunsaturated fatty acids and biotechnology applications. De</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Reports new 18S rDNA phylogenies and microscopy for 17 novel marine Labyrinthulomycetes isolates from Nova Scotia, expanding eukaryotic decomposer diversity with limited direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Labyrinthulomycetes are ubiquitous marine decomposers and include the thraustochytrids, a lineage known for their extensive production of polyunsaturated fatty acids and biotechnology applications. Despite historical taxonomic confusion, environmental surveys have begun to expand the known diversity within labyrinthulomycetes. Here we present 18S ribosomal DNA (rDNA) sequences from 17 novel labyrinthulomycetes strains established as axenic cultures from natural samples taken from three locations in Nova Scotia, Canada. We also present light and transmission electron microscopic analysis for three of these isolates. The combination of phylogenetic and morphological analysis suggests that these isolates belong to three different genera, Thraustochytrium, Ulkenia and Oblongichytrium. Our results expand the known genetic diversity of labyrinthulomycetes in Atlantic Canadian waters, contributing new strains to understudied genera for future comparative genomic investigations, including Ulkenia and Oblongichytrium for which very few genomic resources are available.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟢 [90] ChemRxiv ▶ A Gene-Free Minimal System for Synthetic Quorum Sensing in Protocell Communities</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss"/>

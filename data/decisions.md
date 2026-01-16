@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Phylogeny and morphology of novel Labyrinthulomycetes in Nov](https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1) |
+| ai_scored | 35 | [Characterizing the rates and patterns of de novo germline mu](https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1) |
+| ai_scored | 55 | [LONP-1 deficiency causes dysregulated protein synthesis with](https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1) |
+| ai_scored | 5 | [Structural Basis of Glycolytic Control in Trypanosoma cruzi:](https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1) |
+| ai_scored | 25 | [Distinct p21 dynamics drive alternative routes to whole-geno](https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115233703&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [AI and AR based digital reconstruction of Liangshan Yi lacqu](https://www.nature.com/articles/s41598-026-35772-3) |
+| keyword_rejected | - | [The experience of recurring ambivalence and its relation to ](https://www.nature.com/articles/s41598-026-35032-4) |
+| keyword_rejected | - | [A numerical assignment on local pressure capacity of the con](https://www.nature.com/articles/s41598-025-33348-1) |
+| keyword_rejected | - | [A time-series clustering analysis of postinduction blood pre](https://www.nature.com/articles/s41598-025-33740-x) |
+| keyword_rejected | - | [Chemical synthesis, bioinformatics and antiproliferative stu](https://www.nature.com/articles/s41598-025-26292-7) |
+| keyword_rejected | - | [A secure group-based authentication protocol for IoVT in 5G-](https://www.nature.com/articles/s41598-025-31123-w) |
+| keyword_rejected | - | [Asymmetric loneliness response to social connectedness aroun](https://www.nature.com/articles/s41598-025-31650-6) |
+| keyword_rejected | - | [Host-microbe-immune interactions in an air-liquid interface ](https://www.biorxiv.org/content/10.64898/2026.01.15.699662v1?rss=1) |
+| keyword_rejected | - | [MorphoLearn: A morphology-driven workflow to decipher 3D ele](https://www.biorxiv.org/content/10.64898/2026.01.15.699631v1?rss=1) |
 | ai_scored | 15 | [Novel Protoporphyrinogen oxidase 1 mutations endow resistanc](https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1) |
 | ai_scored | 15 | [Actin-dependent mechanotransduction controls nucleocytoplasm](https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1) |
 | ai_scored | 40 | [Moulting in Pancrustacea is characterised by both deeplycons](https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1) |
