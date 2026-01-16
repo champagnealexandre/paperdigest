@@ -1,5 +1,30 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 65 | [Photoactive Elemental Sulfur Allotropes Promote Extensive Am](https://astrobiology.com/2026/01/photoactive-elemental-sulfur-allotropes-promote-extensive-ammonia-synthesis-in-venus-like-atmosphere.html) |
+| ai_scored | 55 | [HST Observations of HD 166620 and Tau Ceti: First UV Spectra](https://astrobiology.com/2026/01/hst-observations-of-hd-166620-and-tau-ceti-first-uv-spectra-of-a-magnetic-grand-minimum-star-and-the-extent-of-tau-cetis-astrosphere.html) |
+| ai_scored | 55 | [Aboard The International Space Station, Viruses And Bacteria](https://astrobiology.com/2026/01/aboard-the-international-space-station-viruses-and-bacteria-show-atypical-interplay.html) |
+| ai_scored | 60 | [Anatomy Of Empirical Transit Spectra Of Mars Based On TGO/NO](https://astrobiology.com/2026/01/anatomy-of-empirical-transit-spectra-of-mars-based-on-tgo-nomad.html) |
+| ai_scored | 65 | [Identification Of Solid N2O In Interstellar Ices Using Open ](https://astrobiology.com/2026/01/identification-of-solid-n2o-in-interstellar-ices-using-open-jwst-data.html) |
+| ai_scored | 75 | [Habitable Worlds Observatory (HWO): Living Worlds Community ](https://astrobiology.com/2026/01/habitable-worlds-observatory-hwo-living-worlds-community-working-group-the-search-for-life-on-potentially-habitable-exoplanets.html) |
+| ai_scored | 50 | [A Young Progenitor For The Most Common Planetary Systems In ](https://astrobiology.com/2026/01/a-young-progenitor-for-the-most-common-planetary-systems-in-the-galaxy.html) |
+| ai_scored | 65 | [HOPS-288: A Laboratory For Complex Organics In Proto-multipl](https://astrobiology.com/2026/01/hops-288-a-laboratory-for-complex-organics-in-proto-multiple-systems.html) |
+| keyword_rejected | - | [How to finally get a grasp on quantum computing](https://www.newscientist.com/article/2511893-how-to-finally-get-a-grasp-on-quantum-computing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Amateur mathematicians solve long-standing maths problems wi](https://www.newscientist.com/article/2511954-amateur-mathematicians-solve-long-standing-maths-problems-with-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Meat may play an unexpected role in helping people reach 100](https://www.newscientist.com/article/2511228-meat-may-play-an-unexpected-role-in-helping-people-reach-100/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [How to finally get a grasp on quantum computing](https://www.newscientist.com/article/2511893-how-to-finally-get-a-grasp-on-quantum-computing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Amateur mathematicians solve long-standing maths problems wi](https://www.newscientist.com/article/2511954-amateur-mathematicians-solve-long-standing-maths-problems-with-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Meat may play an unexpected role in helping people reach 100](https://www.newscientist.com/article/2511228-meat-may-play-an-unexpected-role-in-helping-people-reach-100/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [How to finally get a grasp on quantum computing](https://www.newscientist.com/article/2511893-how-to-finally-get-a-grasp-on-quantum-computing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Amateur mathematicians solve long-standing maths problems wi](https://www.newscientist.com/article/2511954-amateur-mathematicians-solve-long-standing-maths-problems-with-ai/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Meat may play an unexpected role in helping people reach 100](https://www.newscientist.com/article/2511228-meat-may-play-an-unexpected-role-in-helping-people-reach-100/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [La haute mer a enfin son cadre juridique](https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/la-haute-mer-a-enfin-son-cadre-juridique_189645?xtor=RSS-15) |
+| keyword_rejected | - | [Gifted dogs learn new words by overhearing humans](https://www.nature.com/articles/d41586-026-00112-y) |
+| keyword_rejected | - | [Climate trends influence transatlantic flight times](https://www.nature.com/articles/d41586-026-00129-3) |
+| keyword_rejected | - | [Reduction of RAD23A extends lifespan and mitigates pathology](https://www.nature.com/articles/s41467-025-65104-4) |
+| keyword_rejected | - | [Spatiotemporally controlled drug release via a click-release](https://www.nature.com/articles/s41467-026-68502-4) |
+| keyword_rejected | - | [Multiscale imaging on proton pump-driven acidity for assessi](https://www.nature.com/articles/s41467-026-68491-4) |
+| keyword_rejected | - | [Imaging technique captures ultrafast electron and atom dynam](https://phys.org/news/2026-01-imaging-technique-captures-ultrafast-electron.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116132703&v=2.18.0.post22+67771e2) |
 | ai_scored | 20 | [Breaking the oxo-wall for Co(IV)-oxo species and their nanoc](https://www.nature.com/articles/s41467-026-68471-8) |
 | keyword_rejected | - | [My PI is not offering any support or guidance on my PhD proj](https://www.nature.com/articles/d41586-025-04125-x) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116122107&v=2.18.0.post22+67771e2) |
