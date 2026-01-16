@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [NucleoPhi: A Transferable Force Field for Modified Nucleic A](https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss) |
+| ai_scored | 3 | [From Cation Order to Disorder: Unlocking Ion Transport Pathw](https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116032458&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Tissue-specific and sex-biased glycoproteomic landscape of S](https://www.nature.com/articles/s41467-026-68400-9) |
+| keyword_rejected | - | [Application of the augmented reality tool VSI holomedicine f](https://www.nature.com/articles/s41598-025-21449-w) |
+| keyword_rejected | - | [Novel carbonate, oxide, and hydroxide nanohybrids based on M](https://www.nature.com/articles/s41598-026-36376-7) |
+| keyword_rejected | - | [Reentrant melting of scarred odd crystals by self-shear](https://www.nature.com/articles/s41467-026-68510-4) |
+| keyword_rejected | - | [Real-time visualization of sub-particle reaction anisotropy ](https://www.nature.com/articles/s41467-025-67721-5) |
+| keyword_rejected | - | [Reticulating node-linker-modulator chemical spaces for modul](https://www.nature.com/articles/s41467-026-68591-1) |
+| keyword_rejected | - | [The nodal structure of π-orbitals is mapped in the interacti](https://dx.doi.org/10.26434/chemrxiv-2026-ftf87?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Multifaceted Lewis Acidity of a High-Valent Cu(III) complex](https://dx.doi.org/10.26434/chemrxiv-2026-34318?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Tuning supported Fe-Ag catalysts for selective acetylene hyd](https://dx.doi.org/10.26434/chemrxiv-2026-v13ww?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [N2O as reactant rather than pollutant at wastewater treatmen](https://dx.doi.org/10.26434/chemrxiv-2026-m4vwz?rft_dat=source%3Ddrss) |
 | ai_scored | 60 | [Repurposing Dna-Binding Proteins as Molecular Actuators in S](https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116022140&v=2.18.0.post22+67771e2) |

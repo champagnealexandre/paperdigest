@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T07:21:57.360492+00:00</updated>
+  <updated>2026-01-16T08:25:12.093685+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [3] ChemRxiv ▶ From Cation Order to Disorder: Unlocking Ion Transport Pathways in Li-Zn-Zr-Cl Halospinels</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Lithium metal chloride halospinels of the general formula Li2MCl4 are a promising class of earth-abundant ion conductors for all-solid-state batteries. However, poor room-temperature ionic conductivit</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Materials chemistry study showing that Zr4+ substitution induces cation disorder and vacancies in Li-Zn-Zr-Cl halospinels, boosting Li+ ionic conductivity by ~5 orders of magnitude via new hopping pathways, but with minimal direct relevance to origins-of-life astrobiology.</p>
+<p><strong>Abstract:</strong> Lithium metal chloride halospinels of the general formula Li2MCl4 are a promising class of earth-abundant ion conductors for all-solid-state batteries. However, poor room-temperature ionic conductivity has historically limited their use in practical applications. Here, we substitute Zr4+ into Li2ZnCl4 along the series Li2−2x/3Zn1−xZr2x/3Cl4 (x = 0, 0.1, 0.3, 0.6, 0.9, and 1.0) to understand how cation disorder and vacancy tuning impacts ion transport in “normal” halospinels. Aliovalent Zr4+ substitution increases ionic conductivity by nearly five orders of magnitude, from 1.320(3) × 10−9 S cm−1 in Li2ZnCl4 to 6.74(1) × 10−5 S cm−1 for x = 0.6. Average and local structure characterization through synchrotron X-ray diffraction (SXRD) and neutron pair distribution function (nPDF) analysis reveal that Zr4+ redistributes the Zn2+ and Li+ sublattices into previously unoccupied interstitial sites that form new low-energy hopping pathways that facilitate ion transport. We rationalize the dramatic rearrangement of the cation local structure by considering the coordination preferences of the cations and the potential electrostatic penalties incurred by the higher-valent Zr4+ cations. This work delivers an atomistic understanding of substitution-induced cation disorder and ion transport properties in a new family of earth-abundant halospinels.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] ChemRxiv ▶ NucleoPhi: A Transferable Force Field for Modified Nucleic Acids Enabling Atomistic Simulation–Driven Oligonucleotide Design</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Accurate and transferable force fields are essential for reliably simulating both natural and chemically modified nucleic acids at atomistic resolution. However, there is no unified framework to consi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
+<p><strong>AI Decision:</strong> Introduces a generalizable, validated atomistic force-field pipeline (NucleoPhi) for simulating chemically modified nucleic acids—including 2′-fluoro/2′-O-methyl/2′FANA sugars and pseudouridine—supporting predictive modeling of alternative genetic polymers relevant to early-life and XNA-style scenarios.</p>
+<p><strong>Abstract:</strong> Accurate and transferable force fields are essential for reliably simulating both natural and chemically modified nucleic acids at atomistic resolution. However, there is no unified framework to consistently parameterize force fields across the wide range of sugar, base, and backbone or linker modifications commonly used in therapeutic oligonucleotides. Building on a generalized protocol, we develop force field parameters for the 2&#x27;-fluoro, 2&#x27;-O-methyl, and 2&#x27;FANA ribose modifications, as well as the pseudo-uridine nucleobase modification. These models were validated against a diverse set of experimentally determined structures and show good agreement with the observed conformational ensembles. We further demonstrate their utility in elucidating how chemical modifications modulate local structure, flexibility, and interaction energetics in nucleic acid hybrid duplexes, siRNA–Ago2 complexes, and the evasion of MC1 ribonuclease by pseudo-uridine. Overall, this work establishes a robust, generalizable pipeline for developing force fields for modified nucleic acids, enabling predictive atomistic simulations reliably.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [60] ChemRxiv ▶ Repurposing Dna-Binding Proteins as Molecular Actuators in Synthetic Systems Through Proximity-Driven DNA Reactions</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-nszs1?rft_dat=source%3Ddrss"/>
@@ -4351,34 +4379,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] PNAS ▶ ADAR-GPT: A continually fine-tuned language model for predicting A-to-I RNA editing sites</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R</id>
-    <updated>2026-01-09T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceA-to-I RNA editing by adenosine deaminases acting on RNA (ADAR) enzymes reshapes the transcriptome and h</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> PNAS 2026 presents a continually fine-tuned language-model approach (Adar-GPT) to predict ADAR-mediated A-to-I RNA editing sites in modern transcriptomes, offering indirect relevance to origins-of-life via improved understanding/modeling of RNA sequence–function relationships.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceA-to-I RNA editing by adenosine deaminases acting on RNA (ADAR) enzymes reshapes the transcriptome and holds great promise for therapeutic RNA design, yet identifying which adenosines are edited remains a central challenge. We present Adar-GPT,...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2529073123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] PNAS ▶ A pothole-filling strategy for selective targeting of rCUG-repeats associated with myotonic dystrophy type 1</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R</id>
-    <updated>2026-01-09T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceThis work presents a class of triplet nucleic acid ligands that combine the targeting precision of antis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, nucleic acid</p>
-<p><strong>AI Decision:</strong> This PNAS study reports compact triplet nucleic acid ligands that selectively bind expanded rCUG RNA repeats in myotonic dystrophy type 1, a biomedical RNA-targeting advance with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceThis work presents a class of triplet nucleic acid ligands that combine the targeting precision of antisense oligonucleotides with the compactness of small molecules to selectively engage expanded CUG-RNA repeats implicated in Myotonic ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507065123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [48] ChemRxiv ▶ Nanopore DNA sequencing with a sub-nm stop-and-go mechanical positioning system and current blockades or fluorescent tags</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss"/>
     <id>https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss</id>
@@ -4391,34 +4391,6 @@
 <li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss</a></li>
 </ul>
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-hp6x1-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] PNAS ▶ Origin of class B J-domain proteins involved in amyloid transactions</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R</id>
-    <updated>2026-01-09T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceAcross prokaryotes and eukaryotes, J-domain proteins (JDPs) are key players in Hsp70 chaperone systems t</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> This PNAS study traces the evolutionary origin of class B J-domain proteins in Hsp70 chaperone networks (including roles in amyloid handling), offering broad-context insight into cellular proteostasis evolution but only indirect relevance to origin-of-life questions.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceAcross prokaryotes and eukaryotes, J-domain proteins (JDPs) are key players in Hsp70 chaperone systems that maintain cellular protein homeostasis. The abundant class A and B JDPs have structural similarities, yet their origin has remained ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] PNAS ▶ Nonsense-mediated decay controls a negative feedback loop in innate immune sensing</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R</id>
-    <updated>2026-01-09T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceNonsense-mediated decay (NMD) is a translation-dependent mRNA decay pathway that plays an important role</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This PNAS study shows that nonsense-mediated mRNA decay modulates a negative feedback loop in cellular innate immune RNA sensing, a modern molecular immunology mechanism with minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceNonsense-mediated decay (NMD) is a translation-dependent mRNA decay pathway that plays an important role in shaping the transcriptome. In this manuscript, we show that sensing of viral RNA or transfected dsRNA, through intracellular receptors ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [20] ChemRxiv ▶ The Role of Na2CO3 in the Selective Flotation of Ca-activated Spodumene and Quartz</title>
@@ -6551,20 +6523,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] PNAS Evolution ▶ Reactive oxygen species drove red lineage phytoplankton to displace green lineage phytoplankton during the Mesozoic</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R</id>
-    <updated>2026-01-09T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceOur research reveals that reactive oxygen species (ROS), reactive molecules produced during stress, play</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> This study argues that reactive oxygen species (ROS) stress during the early Mesozoic favored red-lineage phytoplankton over green-lineage competitors, reshaping marine eukaryote evolution and Earth’s biosphere rather than directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. SignificanceOur research reveals that reactive oxygen species (ROS), reactive molecules produced during stress, played a key role in one of Earth’s major evolutionary transitions: the rise of red lineage phytoplankton in the early Mesozoic. These ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [30] Sciences et Avenir ▶ Sortie de l&#x27;eau : le grand boom de la biodiversité</title>
