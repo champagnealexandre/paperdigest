@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Breaking the oxo-wall for Co(IV)-oxo species and their nanoc](https://www.nature.com/articles/s41467-026-68471-8) |
+| keyword_rejected | - | [My PI is not offering any support or guidance on my PhD proj](https://www.nature.com/articles/d41586-025-04125-x) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116122107&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Serial enrichment based quantitative proteomics enables deep](https://www.biorxiv.org/content/10.64898/2026.01.15.697874v1?rss=1) |
 | ai_scored | 50 | [BaCas12a3 represents a new subtype of type V CRISPR effector](https://www.biorxiv.org/content/10.64898/2026.01.16.699850v1?rss=1) |
 | keyword_rejected | - | [Qui a tué la galaxie "James Dean" ?](https://www.sciencesetavenir.fr/espace/univers/qui-a-tue-la-galaxie-james-dean_190445?xtor=RSS-9) |
 | keyword_rejected | - | [Systems acclimation to osmotic stress in zygnematophyte cell](https://www.nature.com/articles/s41467-026-68329-z) |
