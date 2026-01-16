@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T20:18:44.083650+00:00</updated>
+  <updated>2026-01-16T21:17:32.992441+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🔴 [20] nature.com - Biological sciences ▶ DNA end configurations dictate synaptic complex formation during NHEJ-mediated end bridging</title>
@@ -7213,65 +7213,5 @@
 <li><a href="https://pubmed.ncbi.nlm.nih.gov/41443528">https://pubmed.ncbi.nlm.nih.gov/41443528</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1181-31-december-2025-space-life-science-research-results.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Self-assembled Versus Biological Pattern Formation In Geology</title>
-    <link href="https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html"/>
-    <id>https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html</id>
-    <updated>2026-01-09T20:31:55Z</updated>
-    <summary>Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to comprehend the formation mechanisms of such structur</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, astrobio*, biosignature</p>
-<p><strong>AI Decision:</strong> Reviews how abiotic self-organization can generate geological patterns that may mimic biological structures, improving criteria for distinguishing true biosignatures from non-biological lookalikes in the rock record.</p>
-<p><strong>Abstract:</strong> Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to comprehend the formation mechanisms of such structures both to understand geological self-organization and in order to differentiate them from biological patterns — fossils and bio-influenced structures — seen in geological systems. Being […] The post Self-assembled Versus Biological Pattern Formation In Geology appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.00323">https://doi.org/10.48550/arXiv.2601.00323</a></li>
-<li><a href="https://arxiv.org/abs/2601.00323">https://arxiv.org/abs/2601.00323</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Exo-Geoscience Perspectives Beyond Habitability</title>
-    <link href="https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html"/>
-    <id>https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html</id>
-    <updated>2026-01-09T20:24:28Z</updated>
-    <summary>This article reviews the emerging field of exo-geoscience, focusing on the geological and geophysical processes thought to influence the evolution and (eu)habitability of rocky exoplanets. We examine </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, habitab*, astrobio*, exoplanet</p>
-<p><strong>AI Decision:</strong> A review of exo-geoscience outlining how interiors, tectonics, volatile cycling, magnetic fields, and atmospheric evolution shape rocky exoplanet climate stability and long-term biospheric potential beyond simple habitability metrics.</p>
-<p><strong>Abstract:</strong> This article reviews the emerging field of exo-geoscience, focusing on the geological and geophysical processes thought to influence the evolution and (eu)habitability of rocky exoplanets. We examine the possible roles of planetary interiors, tectonic regimes, continental coverage, volatile cycling, magnetic fields, and atmospheric composition and evolution in shaping long-term climate stability and biospheric potential. Comparisons […] The post Exo-Geoscience Perspectives Beyond Habitability appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.01177">https://arxiv.org/abs/2601.01177</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.01177">https://doi.org/10.48550/arXiv.2601.01177</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions For 20 Exoplanet Host Stars That JWST Observed in Cycle 1</title>
-    <link href="https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html"/>
-    <id>https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html</id>
-    <updated>2026-01-09T20:28:28Z</updated>
-    <summary>Correctly interpreting JWST spectra of close-in exoplanets requires a measurement of the X-ray and ultraviolet light that the planets receive from their host stars. Here we provide spectral energy dis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, astrobio*, exoplanet</p>
-<p><strong>AI Decision:</strong> Provides X-ray–UV–to–IR stellar spectral energy distributions for 20 JWST Cycle 1 transiting exoplanet host stars, improving interpretation of transmission spectra and (indirectly) atmospheric habitability/biosignature inferences by better constraining stellar irradiation.</p>
-<p><strong>Abstract:</strong> Correctly interpreting JWST spectra of close-in exoplanets requires a measurement of the X-ray and ultraviolet light that the planets receive from their host stars. Here we provide spectral energy distributions (SEDs) covering the range ≈5−1×107A for 20 transiting exoplanet host stars observed in JWST Cycle 1. The SEDs are constructed out of new and archival […] The post The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions For 20 Exoplanet Host Stars That JWST Observed in Cycle 1 appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.01628">https://arxiv.org/abs/2601.01628</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.01628">https://doi.org/10.48550/arXiv.2601.01628</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Hunting for “Oddballs” With Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders</title>
-    <link href="https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html"/>
-    <id>https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html</id>
-    <updated>2026-01-09T20:35:45Z</updated>
-    <summary>This study explores the application of autoencoder-based machine learning techniques for anomaly detection to identify exoplanet atmospheres with unconventional chemical signatures using a low-dimensi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, exoplanet</p>
-<p><strong>AI Decision:</strong> Uses autoencoders to flag anomalous exoplanet transit spectra (e.g., CO2-rich cases) as a potential tool for prioritizing unusual atmospheres for follow-up, indirectly relevant to biosignature/habitability searches but not core origins-of-life research.</p>
-<p><strong>Abstract:</strong> This study explores the application of autoencoder-based machine learning techniques for anomaly detection to identify exoplanet atmospheres with unconventional chemical signatures using a low-dimensional data representation. We use the Atmospheric Big Challenge (ABC) database, a publicly available dataset with over 100,000 simulated exoplanet spectra, to construct an anomaly detection scenario by defining CO2-rich atmospheres as […] The post Hunting for “Oddballs” With Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02324">https://arxiv.org/abs/2601.02324</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.02324">https://doi.org/10.48550/arXiv.2601.02324</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

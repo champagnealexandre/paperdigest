@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [RFK, Jr., shifts focus to questioning whether cell phones ar](https://www.scientificamerican.com/article/rfk-jr-shifts-focus-to-questioning-whether-cell-phones-are-safe-heres-what/) |
+| keyword_rejected | - | [Endothelial FUNDC1 regulates metabolic reprogramming and the](https://www.nature.com/articles/s41467-026-68548-4) |
+| keyword_rejected | - | [Estimating COVID-19 incidence and prevalence using lateral f](https://www.nature.com/articles/s41467-025-67272-9) |
+| keyword_rejected | - | [Polymerase mutations underlie early adaptation of H5N1 influ](https://www.nature.com/articles/s41467-026-68306-6) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116161728&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Polymerase mutations underlie early adaptation of H5N1 influ](https://www.nature.com/articles/s41467-026-68306-6) |
+| keyword_rejected | - | [Addressing diagnostic gaps in thyroid pathology: a multiplex](https://www.biorxiv.org/content/10.64898/2026.01.15.699717v1?rss=1) |
 | ai_scored | 45 | [DNA end configurations dictate synaptic complex formation du](https://www.nature.com/articles/s41467-026-68417-0) |
 | ai_scored | 20 | [Structural analysis of antigenic variation and adaptive evol](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903) |
 | ai_scored | 20 | [DNA end configurations dictate synaptic complex formation du](https://www.nature.com/articles/s41467-026-68417-0) |
