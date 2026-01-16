@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T22:18:00.734504+00:00</updated>
+  <updated>2026-01-16T23:17:01.920975+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] bioinformatics - biorXiv Preprints ▶ mtDNA-Network: a web tool to explore mitochondrial variant profiles in complex diseases</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>The mitochondrial genome (mtDNA) provides valuable insights into human evolution, population diversity, and disease etiology. Here, we present the mtDNA-network (https://apps.lghm.ufpa.br/mtdna/), an </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Presents an updated web tool/database for analyzing human mitochondrial DNA variant profiles in admixed Brazilian cohorts to support population genetics and complex disease studies, with only indirect relevance to origins-of-life via evolutionary genomics.</p>
+<p><strong>Abstract:</strong> The mitochondrial genome (mtDNA) provides valuable insights into human evolution, population diversity, and disease etiology. Here, we present the mtDNA-network (https://apps.lghm.ufpa.br/mtdna/), an integrative bioinformatics database and tool for the visualization and analysis of mitochondrial variants (single-nucleotide variants and insertions/deletions). The mtDNA-network was upgraded to enable investigation of mtDNA in admixed Brazilian individuals with substantial contributions from uniparental Indigenous and African ancestries. We implement a bioinformatics pipeline to harmonize variant calling across 339 mtDNA samples. The dataset supports general genetic population analysis and variant mapping for complex diseases, including Parkinson&#x27;s disease (104 cases and 75 controls), leprosy (33 cases and 37 controls), and somatic gastric cancer (40 cases and 50 controls). The mtDNA-network tool features an intuitive interface and analytical dashboards for transitions, transversions, heteroplasmy, and variant-disease networks, and serves as a strategic resource for advancing research in population genetics and precision medicine in underrepresented populations. We reinforce the critical need to expand non-European genomic representation in global databases to promote more equitable genomic diversity studies and clinically relevant discoveries.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Origins and metabolic evolution of multifunctionality in Metarhizium robertsii: linking phenotypic diversity to ecological niche plasticity</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>This study investigates the evolution of fungi with complex multifunctional ecological roles using early and recently diverged lineages of Metarhizium robertsii as a model. The early diverged strains </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Preprint on metabolic evolution and ecological niche plasticity in the fungus Metarhizium robertsii, illustrating how nutritional versatility and host interactions drive diversification but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> This study investigates the evolution of fungi with complex multifunctional ecological roles using early and recently diverged lineages of Metarhizium robertsii as a model. The early diverged strains are characterized by slower insect killing, extensive pre-mortem fungal proliferation within hosts, and prolific sporulation, whereas recently diverged strains show rapid growth, a &quot;kill and consume&quot; strategy linked to destruxin toxin production, and enhanced plant root colonization. Metabolic assays demonstrated that recently diverged strains utilize a broader range of carbon sources, supporting their ecological versatility as pathogens, endophytes, and saprophytes. Germination rates on insect cuticles and plant roots strongly correlate with each other, and with virulence to Drosophila and beetles (Tenebrio molitor, Popillia japonica), highlighting nutritional flexibility as a key driver of ecological adaptation. Immune response assays in Drosophila revealed that virulence differences among strains are also partly mediated by host immune activation. These findings suggest that nutritional mode shifts underpin the evolutionary trajectory from specialist insect pathogen to plant associations and enhanced insect virulence within M. robertsii, providing a valuable model for studying fungal ecological plasticity and informing the development of fungal biofertilizers and biopesticides.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [93] biochemistry - biorXiv Preprints ▶ Emergence of diverse ligase reactivities from a single RNA evolution experiment</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>RNA-catalyzed assembly of RNA strands was one of the most essential enzymatic functions in a primordial RNA-based biology. To explore the scope of RNA-catalyzed RNA assembly, we used directed evolutio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, life, RNA</p>
+<p><strong>AI Decision:</strong> Directed evolution of an RNA ligase unexpectedly yields multiple distinct ligase/branching ribozyme chemistries (including a single-mutation reactivity switch), reinforcing the catalytic versatility and evolvability expected in RNA World–style origins-of-life scenarios.</p>
+<p><strong>Abstract:</strong> RNA-catalyzed assembly of RNA strands was one of the most essential enzymatic functions in a primordial RNA-based biology. To explore the scope of RNA-catalyzed RNA assembly, we used directed evolution to re-engineer a ligase ribozyme that originally used 5&#x27;-phosphorimidazolide RNA substrates into a ribozyme that ligates RNA substrates carrying the biologically relevant 5&#x27;-triphosphate group. Unexpectedly, analysis of the low-abundance regime of the selected RNA population, representing ~0.1% of the population, revealed four distinct types of ligase ribozymes, indicating that multiple ribozymes had emerged from a single experiment, despite the stringent selection for the desired &#x27;triphosphate ligase&#x27;. The first ligase type exhibits strict specificity for 5&#x27;-phosphorimidazolide substrates, even though these substrates were never presented during selection. The second and third ligase types catalyze two different branching reactions, each involving the 5&#x27;-triphosphate groups on the ribozyme and a different internal hydroxyl group on the substrate. These reactions resemble &#x27;branching&#x27; reactions catalyzed by naturally occurring ribozymes, including the spliceosome, even though these ribozymes emerged from a synthetic RNA library with no relation to biological RNA catalysts. The fourth ligase type mediates a reaction between its 5&#x27;-triphosphate and the substrate&#x27;s terminal 2&#x27;-OH, but only when the substrate carries a 3&#x27;-phosphate. Remarkably, a single point mutation toggles this ribozyme between linear ligation and branching, functioning as a unique reactivity switch. Such a switch provides a mechanism for RNA catalysts to acquire new reactivities with minimal mutational perturbation, and therefore, has interesting evolutionary implications for primordial biocatalysis. More generally, the emergence of such catalytic diversity from a single evolution experiment under highly constrained selection pressures highlights the catalytic flexibility and evolutionary potential of RNA. These findings strengthen the plausibility that an RNA World could have supported a wide range of chemistries essential for the emergence of life.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Climate drives plasticity and genetic adaptation in apple trees</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.698562v1?rss=1"/>

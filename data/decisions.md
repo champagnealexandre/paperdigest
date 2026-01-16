@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 93 | [Emergence of diverse ligase reactivities from a single RNA e](https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1) |
+| ai_scored | 20 | [Origins and metabolic evolution of multifunctionality in Met](https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1) |
+| ai_scored | 40 | [mtDNA-Network: a web tool to explore mitochondrial variant p](https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116181647&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Leveraging Unified Sequence-Structure Representations for En](https://www.biorxiv.org/content/10.64898/2026.01.15.699740v1?rss=1) |
+| keyword_rejected | - | [TomoSegNet: Augmented membrane segmentation for cryo-electro](https://www.biorxiv.org/content/10.64898/2026.01.15.699326v1?rss=1) |
 | ai_scored | 25 | [Climate drives plasticity and genetic adaptation in apple tr](https://www.biorxiv.org/content/10.64898/2026.01.15.698562v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116171747&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Quality control of blood plasma for mass-spectrometry proteo](https://www.biorxiv.org/content/10.64898/2026.01.15.699696v1?rss=1) |
