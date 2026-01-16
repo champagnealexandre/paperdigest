@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Synthetic Data to Explore Transcriptional Regulation of Diff](https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115202206&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Supersymmetric Isophase Acoustic Potentials](http://link.aps.org/doi/10.1103/7dqk-h2pg) |
+| keyword_rejected | - | [Shapiro Resonances in Mechanically Modulated Exciton-Polarit](http://link.aps.org/doi/10.1103/kgz6-g8x3) |
+| keyword_rejected | - | [Supersymmetric Landau Levels in Subwavelength Type-I Dirac M](http://link.aps.org/doi/10.1103/k8br-gsfg) |
+| keyword_rejected | - | [Sub-Doppler Cooling of a Trapped Ion in a Phase-Stable Polar](http://link.aps.org/doi/10.1103/fy3t-f1hz) |
+| keyword_rejected | - | [Spinning Black Holes in Modified Gravity via Spectral Method](http://link.aps.org/doi/10.1103/6z43-xdv7) |
+| keyword_rejected | - | [Optical Tweezer-Controlled Entanglement Gates with Trapped-I](http://link.aps.org/doi/10.1103/h4c6-463f) |
+| keyword_rejected | - | [Improving erectile function in diabetic male mice by rescuin](https://www.nature.com/articles/s41467-026-68443-y) |
+| keyword_rejected | - | [Beyond native sequence recovery: Improved modeling of theseq](https://www.biorxiv.org/content/10.64898/2026.01.14.699067v1?rss=1) |
 | ai_scored | 0 | [Lithium-ion batteries could last longer with chemical tweak](https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 30 | [The role of the nuclear pore complex in the stability of dis](https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1) |
 | ai_scored | 0 | [Lithium-ion batteries could last longer with chemical tweak](https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

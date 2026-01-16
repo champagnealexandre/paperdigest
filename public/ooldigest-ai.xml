@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T23:17:38.588628+00:00</updated>
+  <updated>2026-01-16T01:22:23.760779+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] systems biology - biorXiv Preprints ▶ Synthetic Data to Explore Transcriptional Regulation of Differentially Expressed Genes in Ovarian Cancer</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>In major diseases like cancer, many genes are dysregulated. While differential expression (DE) analyses help identify these genes, they do not reveal the transcriptional regulatory landscape between c</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Uses a stochastic transcriptional regulation model and synthetic RNA-seq profiles to infer mechanistic differences (e.g., quantal transcription and RNA degradation rates) in top differentially expressed genes in ovarian cancer, with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> In major diseases like cancer, many genes are dysregulated. While differential expression (DE) analyses help identify these genes, they do not reveal the transcriptional regulatory landscape between control and disease states. Here, we developed a process-driven model based on generalized stochastic transcriptional regulation (TR) to study DE genes in ovarian cancer. We generated over 39,000 synthetic gene expression profiles based on RNA-seq dataset of 11 samples (5 control FTE and 6 ovarian cancer), and fitted the model parameters to real data achieving between 82% and 99% transcriptome-wide similarity through various data analytics. Through the model we investigated the top 100 DE genes transcriptional regulation. Notably, GSTA3, SNTN, DNAI2 and KIF19, which have been associated with cancer, possess significantly larger transcriptional quantal and RNA degradation rates, leading to their greater variability in cancer. This mechanistic understanding could potentially guide gene-targeted interventions for cancer or other diseases in the future.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] New Scientist - Physics & Math ▶ Lithium-ion batteries could last longer with chemical tweak</title>
     <link href="https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
@@ -5685,48 +5699,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ OKR-Cell: Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Recent advancements in single-cell multi-omics, particularly RNA-seq, have provided profound insights into cellular heterogeneity and gene regulation. While pre-trained language model (PLM) paradigm b</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Introduces OKR-CELL, a large-scale cross-modal single-cell RNA-seq foundation model that uses LLM/RAG-enriched cell descriptions and a robust alignment objective to improve performance across multi-omics and cell-text retrieval tasks.</p>
-<p><strong>Abstract:</strong> Recent advancements in single-cell multi-omics, particularly RNA-seq, have provided profound insights into cellular heterogeneity and gene regulation. While pre-trained language model (PLM) paradigm based single-cell foundation models have shown promise, they remain constrained by insufficient integration of in-depth individual profiles and neglecting the influence of noise within multi-modal data. To address both issues, we propose an Open-world Language Knowledge-Aided Robust Single-Cell Foundation Model (OKR-CELL). It is built based on a cross-modal Cell-Language pre-training framework, which comprises two key innovations: (1) leveraging Large Language Models (LLMs) based workflow with retrieval-augmented generation (RAG) enriches cell textual descriptions using open-world knowledge; (2) devising a Cross-modal Robust Alignment (CRA) objective that incorporates sample reliability assessment, curriculum learning, and coupled momentum contrastive learning to strengthen the model&#x27;s resistance to noisy data. After pretraining on 32M cell-text pairs, OKR-CELL obtains cutting-edge results across 6 evaluation tasks. Beyond standard benchmarks such as cell clustering, cell-type annotation, batch-effect correction, and few-shot annotation, the model also demonstrates superior performance in broader multi-modal applications, including zero-shot cell-type annotation and bidirectional cell-text retrieval.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Impact of single-cell RNA reference selection for the deconvolution of breast cancer spatial transcriptomics datasets</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Background Spot-based Spatial transcriptomics (ST) allows for unbiased gene expression analysis within tissue architecture, overcoming the limitations of single-cell RNA sequencing (scRNA-seq) by pres</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Methodological study on how single-cell RNA-seq reference choice affects deconvolution accuracy in breast cancer spatial transcriptomics, with no direct relevance to origins-of-life questions beyond incidental RNA mention.</p>
-<p><strong>Abstract:</strong> Background Spot-based Spatial transcriptomics (ST) allows for unbiased gene expression analysis within tissue architecture, overcoming the limitations of single-cell RNA sequencing (scRNA-seq) by preserving spatial context. However, the high spatial resolution in ST leads to cellular heterogeneity within spots, requiring computational deconvolution to infer cellular compositions. While scRNA-seq serves as a key reference for deconvolution, the impact of reference composition on its accuracy is still unclear. In this study, we systematically evaluate the impact of reference selection for cellular deconvolution and give helpful guide-lines to researchers to address this task. Methods We systematically evaluate the impact of single-cell reference selection for global and cell type-specific deconvolution performances in primary and metastatic breast cancer ST datasets. Focusing on state-of-the-art deconvolution tools Cell2location and Robust Cell Type Decomposition (RCTD), we assess the influence of varying reference sizes, cell-type distributions, reference-ST pairings,as well as the usage of large breast cancer and cross-cancer atlases. Results Our findings demonstrate that even small reference datasets can yield accurate deconvolution results, with RCTD and Cell2location exhibiting similar performances across cell-types. Heterogeneous entities, such as myeloids, presented greater challenges for accurate deconvolution compared to more distinct ones, such as epithelial cells. Spatial domains associated with prominent cell types like cancer and stromal cells were detected, although their contributions were systematically under- or over-estimated Additionally, we found that perfect reference-ST matching enhances deconvolution accuracy compared to the usage of cross-patient references. Finally, large breast cancer single-cell atlases composed of a diverse set of patients were also able to provide reliable deconvolution results. Conclusion This study provides important insights into optimizing reference selection for ST deconvolution, highlighting the strengths and limitations of current computational tools in addressing cellular heterogeneity within spatial transcriptomics datasets.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] cell biology - biorXiv Preprints ▶ The N terminus of Alpha-1 Giardin, a parasitic annexin orthologue, is essential for oligomerization and lipid-binding activity</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.697555v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.697555v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Annexins are Ca2+ and membrane-binding proteins conserved across eukaryotes and involved in diverse membrane-associated processes, including unconventional protein secretion (UPS). In the intestinal p</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> This study dissects how the short N-terminus of Giardia’s annexin orthologue alpha-1 giardin controls oligomerization and lipid binding, clarifying a mechanism for unconventional protein secretion in a parasitic eukaryote.</p>
-<p><strong>Abstract:</strong> Annexins are Ca2+ and membrane-binding proteins conserved across eukaryotes and involved in diverse membrane-associated processes, including unconventional protein secretion (UPS). In the intestinal parasite Giardia lamblia, annexins are represented by a family of 21 proteins termed alpha-giardins, all of which lack classical signal peptides yet are detected at the parasite surface and in the secretome. Here, we present a comprehensive functional analysis of alphaGs, with a particular focus on alpha 1-giardin, a leading vaccine candidate against giardiasis and a putative virulence-associated UPS substrate. We show that alphaGs localize to peripheral endocytic compartments (PECs), specialized endo-lysosomal organelles implicated in protein release, and engage in multiprotein complexes enriched in UPS substrates. Using lipid-binding assays, cross-linking mass spectrometry, and structural modelling, we define conserved and divergent features of G membrane interactions. Focusing on 1G, we combine site-directed mutagenesis, confocal microscopy, and mass photometry to demonstrate a critical role for its short N-terminal region in oligomerization and membrane association. Integration of these data with molecular dynamics simulations reveals how alpha1G&#x27;s oligomeric state and membrane occupancy are regulated at PEC membranes. Together, our findings establish a mechanistic framework for annexin-mediated UPS in Giardia and provide structural insights relevant to parasite virulence and vaccine development.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.697555v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.697555v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.697555v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [20] cell biology - biorXiv Preprints ▶ Topoisomerase I inhibition suppresses nuclear blebbing via RNA Pol II stalling and nuclear stiffening</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1</id>
@@ -5739,20 +5711,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] bioinformatics - biorXiv Preprints ▶ Dissecting and steering cell dynamics using spatially-informed RNA velocity with veloAgent</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>RNA velocity enables inference of cell state transitions from single-cell transcriptomics by modeling transcriptional dynamics from spliced and unspliced mRNA. However, existing methods overlook spati</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> veloAgent is a scalable deep generative, spatially informed RNA-velocity framework for modeling and perturbing cell fate dynamics in tissues, which is only tangentially relevant to Origins of Life via nucleic-acid (RNA) transcriptional kinetics rather than prebiotic or early-life processes.</p>
-<p><strong>Abstract:</strong> RNA velocity enables inference of cell state transitions from single-cell transcriptomics by modeling transcriptional dynamics from spliced and unspliced mRNA. However, existing methods overlook spatial context and struggle to scale to large datasets, limiting insights into tissue organization and dynamic processes. We introduce veloAgent, a deep generative and agent-based framework that estimates gene- and cell-specific transcriptional kinetics while integrating spatial information through agent-based simulations of local microenvironments. By leveraging both molecular and spatial cues, veloAgent improves velocity accuracy and achieves sublinear memory scaling, enabling efficient analysis of large and multi-batch spatial datasets. A distinctive feature of veloAgent is its in silico perturbation module, which allows targeted manipulation of spatial velocity vectors to simulate regulatory interventions and predict their impact on cell fate dynamics. These capabilities position veloAgent as a scalable and versatile framework for dissecting spatially resolved cellular dynamics and guiding cell fate manipulation across diverse biological processes.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Atlas of lysine acetylation in the mouse</title>
@@ -5797,34 +5755,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [60] biochemistry - biorXiv Preprints ▶ Stepwise DNA unwinding gates TnpB genome-editing activity</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>TnpB is a compact RNA-guided endonuclease and evolutionary ancestor of CRISPR-Cas12 that offers a promising platform for genome engineering. However, the genome-editing activity of TnpBs remains limit</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
-<p><strong>AI Decision:</strong> Single-molecule and biochemical assays show that the ancestral CRISPR-related nuclease TnpB edits DNA inefficiently because it rarely stabilizes fully unwound target DNA, and an engineered variant enhances cleavage by stabilizing intermediate/open unwinding states.</p>
-<p><strong>Abstract:</strong> TnpB is a compact RNA-guided endonuclease and evolutionary ancestor of CRISPR-Cas12 that offers a promising platform for genome engineering. However, the genome-editing activity of TnpBs remains limited and its underlying determinants are poorly understood. Here, we used biochemical and single-molecule assays to examine the DNA-unwinding mechanism of Youngiibacter multivorans TnpB (Ymu1 TnpB). DNA unwinding proceeds through formation of a partially unwound intermediate state to a fully unwound open state. The open state forms inefficiently and collapses readily in the absence of negative supercoiling. An optimized variant, Ymu1-WFR, stabilizes formation of both the intermediate and open states, resulting in enhanced DNA cleavage in vitro and increased genome editing in vivo. These findings identify the physical basis for the observed minimal activities of natural TnpBs, revealing how stabilizing specific unwinding states enables efficient DNA targeting.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [18] molecular biology - biorXiv Preprints ▶ Single-nucleotide resolution profiling reveals dynamic and site-specific m⁶A regulation during human myogenesis</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.697937v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.697937v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Background Myogenic differentiation of muscle stem cells required for skeletal muscle growth and regeneration relies on the precise spatiotemporal coordination of multiple gene-expression programs. Ov</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This preprint maps single-nucleotide m⁶A RNA methylation dynamics and stoichiometry during human myoblast differentiation, providing a detailed epitranscriptomic resource but with only indirect relevance to origins-of-life questions (via general RNA/nucleic-acid chemistry).</p>
-<p><strong>Abstract:</strong> Background Myogenic differentiation of muscle stem cells required for skeletal muscle growth and regeneration relies on the precise spatiotemporal coordination of multiple gene-expression programs. Over the past decades, considerable progress has been made in defining the transcriptional networks that govern myogenesis. In particular, myogenic transcription factors integrate extrinsic and intrinsic cues to drive skeletal muscle development and regeneration. In contrast, post-transcriptional layers of regulation have remained comparatively underexplored. Among these, the epitranscriptome -- comprising more than 170 chemical RNA modifications -- has recently emerged as a major regulatory axis in cellular differentiation. N-methyladenosine (mA), the most abundant internal modification of mRNA, is now recognized as a key regulator of stem-cell fate decisions across multiple biological systems. By dynamically modulating RNA stability, translation, and other processing steps, mA enables precise fine-tuning of gene-expression programs in response to physiological cues. These effects are mediated through mA-binding RNA-binding proteins (RBPs), also referred to as readers, which selectively recognize methylated transcripts and translate the modification into functional cellular outcomes. Despite its central role in other tissue contexts, the contribution of mA to skeletal muscle physiology -- and particularly to human muscle stem cell biology -- remains poorly characterized. This gap represents a critical and largely unexplored frontier in muscle biology. Methods To define the epitranscriptome landscape during the myogenic differentiation of human skeletal muscle cells, we performed GLORI on proliferating and differentiated human primary myoblasts. This recently developed approach enables detection of mA at single-nucleotide resolution together with quantitative measurement of methylation stoichiometry at individual sites. mA-modified positions were mapped across the transcriptome in both cellular states and integrated with matched RNA-seq datasets data to contextualise mA features relative to transcript abundance. To place these findings in a broader context, we compared our human mA maps with previously published mouse muscle cell datasets and overlaid them with available CLIP-seq datasets of mA RNA-binding proteins. Results We identified tens of thousands of high-confidence mA sites in proliferating and differentiated human myogenic cells. While many sites were shared between states, myogenic differentiation was accompanied by epitranscriptomic remodeling, affecting both the distribution and stoichiometry of mA marks. Transcripts exhibiting differential mA regulation were enriched for pathways related to myogenic development, cytoskeletal remodeling, signalling, nucleic-acid-associated processes and energy metabolism. Joint analysis of mA site number, methylation stoichiometry, and expression levels indicated the presence of distinct mA regulatory frameworks at the transcript level. Genes associated with myogenesis and regulatory pathways were distributed across these categories, consistent with the coexistence of multiple regulatory programs during myogenic differentiation. In addition, cross-species comparisons revealed the presence of human-specific methylation patterns. Integration with published mA RNA-binding protein datasets uncovered distinct subsets of mA sites with varying binding profiles, suggesting state-dependent interpretation of mA marks. Together, these data constitute, to our knowledge, the first single-nucleotide-resolution atlas of mA methylation in human skeletal muscle, revealing a previously uncharacterized epitranscriptomic landscape and providing a foundational resource for studies of human myogenesis.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.697937v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.697937v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.697937v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] molecular biology - biorXiv Preprints ▶ Ploidy-dependent modulation of DNA replication kinetics in Xenopus</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1</id>
@@ -5839,34 +5769,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Chromatin context-dependent deacetylation by the asymmetric Rpd3L</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698523v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698523v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>The regulation of gene expression requires precise control of chromatin-associated complexes that respond to diverse structural and epigenetic cues. The Rpd3 Large (Rpd3L) complex is a Sin3 histone de</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Cryo-EM and biochemical analyses reveal a dual-nucleosome, chromatin-context allosteric activation mechanism for the asymmetric eukaryotic Rpd3L histone deacetylase complex, informing transcriptional repression but with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> The regulation of gene expression requires precise control of chromatin-associated complexes that respond to diverse structural and epigenetic cues. The Rpd3 Large (Rpd3L) complex is a Sin3 histone deacetylase (HDAC) complex that dynamically adapt to chromatin states to reinforce transcriptional silencing, yet the mechanisms governing the catalytic activation in chromatin context-dependent manner remain unclear. Here we present the cryo-EM structure of Rpd3L bound to both mono- and di-nucleosome substrate at near-atomic resolution, uncovering a substrate-guided allosteric activation mechanism. Rpd3L adopts an asymmetric architecture, in which the proximal catalytic module anchors the first nucleosome, while the Sin3 PAH domains engage linker DNA to reposition a second nucleosome. This spatial configuration brings the distal catalytic module into proximity with chromatin and unlocks its latent deacetylase activity. Biochemical and mass spectrometry analyses confirm that dual nucleosome engagement selectively enhances Rpd3L activity and broadens substrate specificity. Together, these findings establish a hierarchical mechanism by which Rpd3L interprets histone modifications and nucleosome organization to modulate its enzymatic output at promoter regions. Our study provides a framework for understanding higher-order chromatin repression mechanisms by chromatin-regulation complexes and co-repressors.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698523v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698523v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698523v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ PARP1 recruits SPRTN to DNA-protein crosslinks through a conserved poly-ADP-ribose binding domain.</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698661v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698661v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>DNA-protein crosslinks (DPCs) are toxic DNA lesions formed by the covalent attachment of proteins to DNA. Failure to resolve DPCs leads to genomic instability, premature aging, and cancer predispositi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study identifies PARP1/2-mediated PARylation as an early signal that recruits the SPRTN protease to DNA–protein crosslinks for proteolytic repair, illuminating a conserved eukaryotic genome-maintenance pathway rather than a direct origins-of-life mechanism.</p>
-<p><strong>Abstract:</strong> DNA-protein crosslinks (DPCs) are toxic DNA lesions formed by the covalent attachment of proteins to DNA. Failure to resolve DPCs leads to genomic instability, premature aging, and cancer predisposition. Although multiple proteases and the 26S proteasome degrade DPCs, how these lesions are detected and marked for proteolysis remains unclear. Here, we show that poly-(ADP-ribose) polymerases (PARP1/2) sense DPCs and modify them with poly(ADP-ribose) (PAR) to promote repair via a SPRTN-Tdp1 axis. We discovered a Nudix homology domain (NHD) in SPRTN that mediates direct non-covalent PAR binding and is important for DPC repair. Loss of PARP1/2 activity or mutation of the SPRTN NHD leads to sustained DPCs. Single-molecule analysis revealed that SPRTN does not bind efficiently to the DPC, however after the addition of PARP1 in the presence of NAD+, SPRTN binding to the DPC was significantly increased. Our findings establish PARP1/2 enzymes as immediate DPC sensors, reveal PARylation as a signal marking DPCs for SPRTN-dependent degradation, and identify SPRTN as the first PARP-directed protease.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698661v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698661v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698661v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [30] molecular biology - biorXiv Preprints ▶ Molecular signatures and cellular responses underlying hypoxic adaptation in sea turtles</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1</id>
@@ -5879,76 +5781,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ Novel estimation of memory in molecular dynamics with extended and comprehensive single-molecule tracking software: FreeTrace</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Single-molecule tracking (SMT) in live cells reveals how biomolecules explore crowded intracellular environments, yet most tracking software assumes Brownian motion, an approximation that fails when a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> FreeTrace is a single-molecule tracking framework that models anomalous (fractional Brownian) diffusion in live-cell trajectories, improving short-trajectory reconstruction and estimating Hurst exponent–based motion subpopulations in eukaryotic chromatin/DNA-associated proteins.</p>
-<p><strong>Abstract:</strong> Single-molecule tracking (SMT) in live cells reveals how biomolecules explore crowded intracellular environments, yet most tracking software assumes Brownian motion, an approximation that fails when anomalous diffusion dominates. This leads to biased trajectory reconstruction and loss of biophysical information, particularly for the short trajectories typical of intracellular experiments. We present FreeTrace, an SMT framework that reconstructs trajectories under fractional Brownian motion (fBm), incorporating temporal correlations directly into linking with minimal input parameters. A deep neural network estimates diffusion properties (Hurst exponent H and generalised diffusion coefficient K) for individual trajectories, while an analytical ensemble estimator accurately recovers H from trajectories as short as three frames, conditions where mean-squared displacement methods fail. Benchmarking on simulated data demonstrates superior performance across motion types and densities. Applications to chromatin-bound histones, DNA repair proteins in S.c. yeast and human cells reveal biologically meaningful diffusion subpopulations, with H values consistent with polymer models and confined motion. FreeTrace bridges theoretical anomalous diffusion models and routine biological experiments.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ DNA end-resection is stimulated by an interaction between BRCA1 exon 11 and TOPBP1</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Approximately 60% of the tumour suppressor protein BRCA1 is encoded by a single exon. Many tumours carry mutations in this exon, often resulting in exon skipping and thus a protein of a severely reduc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study identifies a DNA damage- and phosphorylation-dependent interaction between BRCA1 exon 11 and TOPBP1 that promotes DNA end-resection during homologous recombination, refining mechanisms of eukaryotic genome maintenance but offering limited direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Approximately 60% of the tumour suppressor protein BRCA1 is encoded by a single exon. Many tumours carry mutations in this exon, often resulting in exon skipping and thus a protein of a severely reduced size. Although none of the well-described protein domains of BRCA1 are encoded by this exon 11, the isoform lacking this part shows a hypomorphic activity in homologous recombination. To better understand the function of this large exon, we performed proteomic analyses to identify interaction partners via this part of the protein. Here, we report a DNA damage- and phospho-dependent interaction of TOPBP1 to the protein region of BRCA1 encoded by exon 11. Mechanistically, this interaction is required for the role of BRCA1 in end-resection during homologous recombination. In contrast, the interaction is not required for the role of TOPBP1 in ATR activation. Our data provide novel mechanistic insight into the function of this poorly characterized part of the BRCA1 protein.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] bioRxiv Subject Collection: Evolutionary Biology ▶ In silico prediction of metabolic trait robustness in microbial cells</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698552v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698552v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>In industrial applications, microbial strains undergo notable biomass expansion subjecting them to Darwinian selection. The consequent adaptive evolution may threaten the often tediously developed des</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Computational framework (TRAEV) predicts how microbial metabolic traits erode or persist under adaptive evolution in specific environments, validated in engineered yeast and applied to wine-aroma traits.</p>
-<p><strong>Abstract:</strong> In industrial applications, microbial strains undergo notable biomass expansion subjecting them to Darwinian selection. The consequent adaptive evolution may threaten the often tediously developed desired traits of the strains, such as flavor or platform chemical production. Yet, it remains unresolved how to predict the evolutionary trait robustness. Here, we propose TRAEV (Trait Robustness Against EVolution), a computational framework for in silico prediction of evolutionary trajectories and robustness of desired metabolic traits in application environments. TRAEV uses constraint-based metabolic model simulations to predict environment-dependent trait-fitness dependencies and Monte Carlo-based perturbation analysis to account for the stochasticity of adaptive evolution. First, TRAEV predicts the immediate phenotypic adaptation to the new environment, and then, the evolutionary trajectories of fitness and desired trait by sampling enzyme usage changes. From the predicted trajectories, trait robustness is quantified as two scores: Robustness Score (RS) and Trade-off Score (TS). RS and TS are the mean of a normalized desired trait and the mean of the product of normalized changes in the desired trait and in fitness, respectively, over intermediate metabolic states along the evolutionary trajectory. We validated TRAEV by demonstrating that it predicted the relative robustness of heterologous pigmentation of genetically engineered Saccharomyces cerevisiae strains in synthetic defined chemical environments aligned with experimental observations. We then further applied TRAEV to predictively assess the robustness of desired aroma generation trait in a wine must environment by multiple S. cerevisiae strains if they were developed via a laboratory selection process. Thus, we showed how TRAEV predictions could guide such strain development. TRAEV can be integrated into computational strain design workflows across microbial strains, metabolic traits, and application environments. Ultimately, model-predicted evolutionary robustness of desired traits can guide both strain and process development and help avoiding production losses and enhancing the economic attractiveness of industrial applications using microbial cells.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698552v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698552v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698552v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [48] bioRxiv Subject Collection: Evolutionary Biology ▶ High gene flow in Atlantic vent shrimp species with multiple ridge colonizations by ecotypic lineages with contrasting symbioses</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Conservation concerns regarding potential mineral extraction near deep-sea hydrothermal vents have emphasised the need for a better understanding of the contemporary connectivity of various vent-endem</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Population genomics of Atlantic hydrothermal-vent Rimicaris shrimp reveals high ridge-wide gene flow and recent divergence/secondary contact among ecotypes with contrasting symbioses, informing vent ecosystem connectivity rather than directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Conservation concerns regarding potential mineral extraction near deep-sea hydrothermal vents have emphasised the need for a better understanding of the contemporary connectivity of various vent-endemic species, accounting for the specifics of their life-history traits and habitat requirements. Rimicaris shrimps are a major component of vent communities in the Atlantic Ocean, both along the Mid-Atlantic Ridge (MAR) and at the Mid-Cayman Spreading Center (MCSC). Using ddRAD sequencing, we examined the genetic differentiation of three Atlantic Rimicaris species to better understand their past and present migration pathways and the possible demographic history that led to their current distribution and ecology. Rimicaris exoculata and R. chacei inhabit the MAR and exhibit widespread gene flow along the ridge with no areas of restricted connectivity. R. hybisae occurs at the MCSC and exhibits almost no genetic difference with its congeneric from the MAR, R. chacei, despite the geographic distance between them and their contrasting ecologies and morphologies. Demographic inferences support a scenario of a very recent (less than 2000 generations) separation between MCSC and MAR shrimp populations, followed by a rapid expansion in both regions, possibly triggered by symbiotic development. Analyses further suggest recent or ongoing secondary contacts involving two-way migration, which is more pronounced from the MCSC towards the MAR. All together these results suggest that R. chacei and R. hybisae represent distinct forms of the same species, which we hereby synonymise as R. chacei, highlighting their morphological plasticity in relation to symbiosis.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Functional Analyses of Histone Methyltransferases in Sea Lamprey Embryos Undergoing Programmed DNA Elimination</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>During early embryogenesis, the sea lamprey (Petromyzon marinus) undergoes a dramatic form of genome reprogramming wherein specific chromosomes are selectively eliminated from somatic progenitor cells</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
-<p><strong>AI Decision:</strong> Uses CRISPR, imaging, and transcriptomics to show histone methyltransferases deposit repressive marks on lamprey eliminated chromatin but are not required for programmed DNA elimination, mainly informing eukaryotic genome regulation rather than origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> During early embryogenesis, the sea lamprey (Petromyzon marinus) undergoes a dramatic form of genome reprogramming wherein specific chromosomes are selectively eliminated from somatic progenitor cells. These programmatic elimination events effectively silence all genes on these chromosomes in all somatic cells. Previous studies in lamprey and other eliminating species have shown that epigenetic silencing marks are enriched on germline-specific chromosomes during programmed elimination. These silencing marks include the histone marks H3K9me3 and H4K20me3, which are respectively deposited by KMT1A/SUV39 and KMT5/SUV420 methyltransferases. To test whether lamprey homologs of these methyltransferases contribute to deposition of silencing marks on eliminated (micronucleated) chromatin and whether these marks contribute to the highly coordinated process of DNA elimination in sea lamprey, we used Cas9 gene editing, lightsheet imaging and RNA sequencing to investigate their potential roles in DNA elimination and more generally during early development. Analysis of knockout embryos for four histone methyltransferases show that these genes contribute to the deposition of repressive histone marks on elimination micronuclei, but are not essential for programmed DNA elimination per se. Analysis of later embryogenic stages suggests that these marks may contribute to interim silencing of germline-specific chromosomes, and reveals major impacts on post-blastula survival and development.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] biophysics - biorXiv Preprints ▶ 3D confinement reshapes RNA folding and enhances circularisation in the Zika virus</title>
@@ -6150,160 +5982,6 @@
 <p><a href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [60] cell biology - biorXiv Preprints ▶ LOTUS-domain proteins activate Vasa to drive germ granule assembly</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Germline development relies on perinuclear membraneless germ granules, yet the mechanisms underlying their assembly remain poorly understood. Here we uncover a conserved and central role for LOTUS-dom</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study shows that conserved LOTUS-domain proteins catalytically activate the Vasa RNA helicase to drive RNA-rich, phase-separated germ granule assembly in worms and humans, offering broad-context insights into RNA-centered self-organization relevant to origins-of-life thinking.</p>
-<p><strong>Abstract:</strong> Germline development relies on perinuclear membraneless germ granules, yet the mechanisms underlying their assembly remain poorly understood. Here we uncover a conserved and central role for LOTUS-domain proteins in driving germ granule assembly. In C. elegans, the LOTUS-domain protein EGGD-1/MIP-1 at sub-stoichiometric levels recruits Vasa protein GLH-1 to the nuclear periphery. Acting as a catalyst, EGGD-1 modulates the ATPase cycle of GLH-1 by preferentially binding to its open conformation, enhancing its RNA binding activities, and facilitating its transition to the closed conformation. In this closed state, GLH-1 enriches mRNAs at the nuclear periphery, which enables the accumulation of RNA-binding proteins including PGL-1 and PGL-3. Using human cells, we demonstrate the LOTUS-domain protein TDRD5 similarly recruits DDX4, the human Vasa homolog, and stimulates the formation of intermitochondrial cement. Collectively, our findings reveal an evolutionarily conserved role of LOTUS-domain proteins in enhancing Vasa activity and provide a unified model for germ granule assembly across species.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ circDiscoverer: A resource for curated and predicted circRNA-Protein interactions with experimental support tools</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Circular RNA (circRNA) interacts with miRNAs and proteins and can regulate various cellular processes. Compared to circRNA-miRNA interaction, circRNA-protein interaction (CPI) has been relatively less</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Presents a human-focused web database for curated and predicted circular RNA–protein interactions, which is largely outside origins-of-life research aside from general RNA biology relevance.</p>
-<p><strong>Abstract:</strong> Circular RNA (circRNA) interacts with miRNAs and proteins and can regulate various cellular processes. Compared to circRNA-miRNA interaction, circRNA-protein interaction (CPI) has been relatively less explored, following which we developed a comprehensive user-friendly web resource, circDiscoverer, which provides an open-access knowledge base empowering characterization of circRNA-protein interactions in Homo sapiens. circDiscoverer contains manually curated circRNA-protein interactions from published articles and predicted circRNA-protein interactions. Furthermore, the resource offers comprehensive insights into protein binding profiles and presents detailed information on interacting circRNAs, including qRT-PCR primer sequences, guide RNAs, and potential RNA modifications, thereby providing an integrated platform for researchers. circDiscoverer is available at https://aclab.iiserb.ac.in.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Apparent stabilizing selection explains micro and macroevolution of Drosophila wings</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Evolution over deep time is often slow relative to neutral or directional expectations. A striking example is provided by Drosophila wing shape, which shows substantial genetic variance yet comparativ</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Large-scale fitness assays in Drosophila suggest pervasive stabilizing selection on wing shape that, when parameterized in an OU macroevolution model, can explain long-term evolutionary stasis despite substantial standing genetic variation.</p>
-<p><strong>Abstract:</strong> Evolution over deep time is often slow relative to neutral or directional expectations. A striking example is provided by Drosophila wing shape, which shows substantial genetic variance yet comparatively little macroevolutionary change. Using a large-scale fitness assay, we find pervasive stabilizing selection across dimensions of D. melanogaster wing shape that is proportional to standing variation, driven by variance in male fitness, and likely generated by pleiotropy. Parameterizing a macroevolutionary Ornstein-Uhlenbeck model using our selection estimate recapitulates observed among species variance under reasonable effective population sizes, suggesting a role for apparent stabilizing selection in constraining wing shape evolution over deep time.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] ChemRxiv ▶ ReactionForge: Temporal Graph Networks with Cross-Attention and Evidential Learning Surpass State-of-the-Art in Suzuki-Miyaura Yield Prediction</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-lrn7z?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-lrn7z?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Accurate prediction of chemical reaction yields remains essential for accelerating synthesis optimization, yet current machine learning models face critical limitations in capturing temporal dynamics,</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Machine-learning architecture for predicting Suzuki–Miyaura cross-coupling reaction yields with uncertainty calibration and attention-based interpretability, but it has no direct connection to origins-of-life chemistry or astrobiology.</p>
-<p><strong>Abstract:</strong> Accurate prediction of chemical reaction yields remains essential for accelerating synthesis optimization, yet current machine learning models face critical limitations in capturing temporal dynamics, providing calibrated uncertainty estimates, and explicitly modeling reactant-to-product transformations. Here we introduce ReactionForge, a novel Temporal Graph Network architecture specifically designed for Suzuki-Miyaura cross-coupling yield prediction that addresses these challenges through five key innovations. First, we implement persistent temporal memory mechanisms using Gated Recurrent Units to track catalyst evolution and reagent dynamics across reaction sequences. Second, we develop cross-attention layers that explicitly compare reactant and product molecular graphs, learning which structural changes most influence reaction outcomes. Third, we incorporate hierarchical graph pooling via Self-Attention Graph Pooling to automatically discover functional group patterns. Fourth, we employ evidential deep learning to provide calibrated epistemic and aleatoric uncertainty in a single forward pass. Fifth, we use multi-task learning with yield, selectivity, and reaction time as joint objectives to improve generalization. Evaluated on 5,760 Suzuki-Miyaura reactions spanning five metal catalysts and diverse substrates, ReactionForge achieves R² = 0.968 ± 0.004 (RMSE = 5.12 ± 0.18%, MAE = 3.89 ± 0.12%), representing statistically significant improvements over YieldGNN (R² = 0.957 ± 0.005, paired t-test p = 0.002) and YieldBERT (R² = 0.810 ± 0.010, p &lt; 0.001). The model provides well-calibrated uncertainty estimates (Expected Calibration Error = 0.031) that enable uncertainty-guided active learning, achieving 37% improved data efficiency over random sampling. Systematic ablation studies reveal that each architectural component contributes measurably to performance, with cross-attention and temporal memory each adding approximately ΔR² = 0.005. Interpretability analysis shows that learned attention weights successfully recover known structure-reactivity relationships, including chloride activation challenges and ligand-substrate compatibility patterns. Despite architectural complexity, ReactionForge trains 28% faster than YieldGNN. This work demonstrates that chemically motivated architectural innovations in graph neural networks can meaningfully advance reaction prediction when properly grounded in mechanistic understanding.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-lrn7z?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-lrn7z?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-lrn7z?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Metal-free hydrogen generation from seawater and silicon waste: a circular approach</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-0l76l?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-0l76l?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Hydrogen is a primordial energy carrier and industrial raw material that will play a crucial role in future energy transition and de-fossilization ambitions. Silane hydrolysis represents an underexplo</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Reports a highly active metal-free base/DMSO system that generates H2 rapidly from (sea)water using hydrosilanes (including PMHS silicon-industry waste), offering a potentially relevant analogue for abiotic hydrogen production in aqueous planetary settings but not directly addressing origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Hydrogen is a primordial energy carrier and industrial raw material that will play a crucial role in future energy transition and de-fossilization ambitions. Silane hydrolysis represents an underexplored approach to hydrogen generation, yet most known systems have thus far focused on noble-metal catalysis. Herein we report a highly active transition metal-free method for the production of hydrogen from (sea)water and hydrosilanes, relying on the unique combination of simple bases as catalyst, and dimethyl sulfoxide as promoting solvent, assisted by mechanistic and computational studies. Remarkably, the hydrolysis of phenylsilane achieved a turnover frequency (TOF) of 5116 min–1, far superior to existing metal-free systems (TOF ≤ 8 min–1), and even surpassing noble-metal catalysts (TOF ≤ 170 min–1). The developed method rapidly generates hydrogen directly from seawater, applying polymethylhydrosilane (PMHS), a silicon industry waste, with rates up to 70.2 molH2/gcat/h. Notably, we have demonstrated the recyclability of the solvent, and re-use of the by-products formed during PMHS hydrolysis. Thus, the polysiloxane by-products were efficiently depolymerized into functional chlorosilane monomers, which are suitable for the design of new high-value silicon polymers. These findings highlight the broader applicability and circularity of our integrated approach.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0l76l?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-0l76l?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0l76l?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] ChemRxiv ▶ Tunable Cell Surface Proximity Labeling via Photocatalytic and Enzymatic Activation of Fast Bioorthogonal Chemistry</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Described is the use of photocatalytic and enzymatic activation of rapid bioorthogonal chemistry for cell surface proximity labeling. Current approaches to proximity labeling rely on the activation of</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Introduces a tunable bioorthogonal proximity-labeling method on live cell surfaces via photocatalytic/enzatic tetrazine activation and s-TCO quenching control, primarily advancing chemical biology rather than origins-of-life research.</p>
-<p><strong>Abstract:</strong> Described is the use of photocatalytic and enzymatic activation of rapid bioorthogonal chemistry for cell surface proximity labeling. Current approaches to proximity labeling rely on the activation of reactive intermediates (e.g. carbenes, nitrenes, radicals, electrophiles) whose half-life is regulated by uncontrollable quenching by water and native biomolecules in the cell or media. Here, we describe an alternative proximity labeling approach based on the fastest variant of the bioorthogonal tetrazine ligation (k2 107 M–1s–1), where reaction half-life can be tuned by simply controlling the concentration of a strained trans-cyclooctene (s-TCO) quencher. An electrophilic s-TCO-NHS ester is initially used to pan-label the proteome prior to activation, providing a bioorthogonal handle for tagging proteins. Subsequently, antibody-photocatalyst or antibody-enzyme conjugates are targeted to CD45 on the surface of live cells and used to locally catalyze the conversion of dihydrotetrazine molecules to reactive tetrazines. Photocatalysis is achieved through brief, 20-second irradiation at 470 nm with a commercially available antibody-fluorescein conjugate, and enzymatic catalysis is achieved using a commercially available HRP-antibody conjugate. Freely diffusing s-TCO-CO2H serves as a quencher during the proximity labeling reaction, and adjusting the quencher concentration can attenuate labeling as demonstrated in vitro on a model protein. Tuning the half-life of the proximity labeling reaction was also studied in live cells and found to produce proteomic data sets with high overlap. Labeling reactions with shorter half-lives enriched fewer total proteins but maintained enrichment of known interactors. We anticipate that the use of bioorthogonal reactions to facilitate protein proximity labeling will find broad use for studying protein-protein interactions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] ChemRxiv ▶ RNA topology: from simple loops to complex circuits</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-zgmgw?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-zgmgw?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>RNA molecules fold into complex three-dimensional structures that determine their function. A wide range of mathematical frameworks, such as chord diagrams, fatgraphs, and context-free grammars, have </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Perspective review reframing RNA secondary-structure representations (including pseudoknots) using circuit topology to connect mathematical models with physical folding organization and kinetics, offering tools potentially useful for understanding RNA-world functional folding.</p>
-<p><strong>Abstract:</strong> RNA molecules fold into complex three-dimensional structures that determine their function. A wide range of mathematical frameworks, such as chord diagrams, fatgraphs, and context-free grammars, have been used to represent these structures; however, these models have largely been developed from mathematical motivations rather than from considerations of the physical principles that govern the folding, organization, and interactions of RNA molecules. In this perspective review, we reinterpret these mathematical models through the lens of circuit topology (CT), a physics-inspired approach originally developed to characterize interaction patterns in linear polymers, relate them to folding kinetics, and enable molecular design and engineering. Using CT, RNA secondary structures, including pseudoknots, can be represented compactly, revealing direct mapping between traditional RNA models and the underlying topological arrangement of interactions. This unified view highlights shared structural principles between RNA and other polymer systems and provides a common basis for exchanging methods across different areas of molecular science. Finally, we outline how the CT framework can be extended to analyze higher-order motifs such as RNA-RNA interactions, base triples, and aspects of folding kinetics. By providing a common language for analyzing the organization and function of folded biomolecular chains, CT bridges mathematical abstraction and molecular reality.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-zgmgw?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-zgmgw?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-zgmgw?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] Organic Chemistry on ChemRxiv ▶ Synthesis-Driven Structural Revision of C5-hydroxy-cyclo (L-Pro-L-Leu) Using Electrochemical Oxidation</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Although our synthetic efforts were directed toward cordysinin A, the reported natural product, the route ultimately delivered its diastereomer, (5S)-hydroxy-cyclo (L-Pro-L-Leu), whose total synthesis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Reports an electrochemical oxidation route to a hydroxylated cyclic dipeptide (diketopiperazine) that enables structural revision of the natural product cordysinin A, with only limited direct relevance to origins-of-life questions beyond general peptide/aqueous chemistry context.</p>
-<p><strong>Abstract:</strong> Although our synthetic efforts were directed toward cordysinin A, the reported natural product, the route ultimately delivered its diastereomer, (5S)-hydroxy-cyclo (L-Pro-L-Leu), whose total synthesis is described herein. The cyclo (L-proline-L-leucine) 2,5-diketopiperazine scaffold was prepared through standard solution-phase peptide coupling, followed by deprotection and intramolecular cyclization. Electrochemical oxidation at the proline C5 position generated an N-acyl iminium intermediate that was efficiently trapped by water to afford the corresponding 5-hydroxyproline derivative. However, detailed spectroscopic characterization of the synthetic product, together with comparison to the reported data for the natural isolate, revealed notable discrepancies, suggesting that the structure originally assigned to cordysinin A was likely incorrect. Our findings instead support a structural revision of cordysinin A to a regioisomer featuring hydroxylation at the proline C4 position rather than C5.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] ChemRxiv ▶ Optical Fiber Chemical Catalysis</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-tqklf?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-tqklf?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>This paper introduces Optical Fiber Chemistry (OFC) as a fourth-generation catalytic paradigm, distinguished not by incremental improvements in catalyst materials but by a fundamental reconfiguration </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Introduces a photonic–electro–ionic “optical fiber membrane electrode” catalytic platform that co-localizes photons, electrons, and ions to boost multi-field catalysis (including water-splitting), with potential indirect relevance for prebiotic/Origins-of-Life reaction engineering but no direct OoL focus.</p>
-<p><strong>Abstract:</strong> This paper introduces Optical Fiber Chemistry (OFC) as a fourth-generation catalytic paradigm, distinguished not by incremental improvements in catalyst materials but by a fundamental reconfiguration of the catalytic reaction platform. By employing optical fibers as active photonic control elements, OFC achieves gen- uine coplanar coupling of photons, electrons, and ions within a single membrane electrode, thereby overcoming the intrinsic spatial separation that limits conven- tional thermal catalysis, photocatalysis, electrocatalysis, and photoelectrochemical systems. This architecture establishes an essential physical foundation for pro- grammable chemistry and artificial intelligence–driven chemical systems. Optical Fiber Chemical Catalysis (OFC) represents the most substantial ad- vance in photo–electro and multi-field synergistic catalysis since the seminal demon- stration of photoelectrochemical water splitting by Fujishima and Honda in 1972. Here, we define the concepts of optical fiber chemistry and optical fiber chemi- cal catalysis, delineate their fundamental elements, and formulate the underlying catalytic laws. The OFC framework enables economical, safe, efficient, and high– energy-density scale-up or distributed deployment of optical fiber chemical reaction units, forming modular optical fiber chemical stacks. Moreover, the OFC platform allows chemical reaction processes to be programmably regulated and serves as a core chemical platform for artificial intelligence laboratories and intelligent chemical manufacturing. Catalytic principle: The central feature of OFC is a sandwich-structured optical-fiber membrane electrode, in which rational structural design enables the synergistic coupling of optical fields, electric fields, and proton/ion transport path- ways at a single reaction interface. Within this architecture, photons, electrons, protons, ions, catalysts, reactants, and products coexist at the same interface, allowing photonic excitation and charge separation to occur synchronously and thereby markedly enhancing catalytic efficiency. On the basis of these principles, optical fiber chemical catalysis is expected to enable key reactions—including am- monia synthesis, noble-metal-free fuel cells, organic synthesis, and pharmaceutical manufacturing—under ambient temperature and pressure. Over the next decade, OFC is anticipated to emerge as a major technological route in chemical engineering and catalysis.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-tqklf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-tqklf?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-tqklf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] ChemRxiv ▶ Synthesis-Driven Structural Revision of C5-hydroxy-cyclo (L-Pro-L-Leu) Using Electrochemical Oxidation</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Although our synthetic efforts were directed toward cordysinin A, the reported natural product, the route ultimately delivered its diastereomer, (5S)-hydroxy-cyclo (L-Pro-L-Leu), whose total synthesis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> This synthetic/electrochemical study revises the structure of a cyclic dipeptide natural product (cordysinin A), with only indirect Origins-of-Life relevance via stereochemistry (chirality) and aqueous (water) chemistry of small peptide-like scaffolds.</p>
-<p><strong>Abstract:</strong> Although our synthetic efforts were directed toward cordysinin A, the reported natural product, the route ultimately delivered its diastereomer, (5S)-hydroxy-cyclo (L-Pro-L-Leu), whose total synthesis is described herein. The cyclo (L-proline-L-leucine) 2,5-diketopiperazine scaffold was prepared through standard solution-phase peptide coupling, followed by deprotection and intramolecular cyclization. Electrochemical oxidation at the proline C5 position generated an N-acyl iminium intermediate that was efficiently trapped by water to afford the corresponding 5-hydroxyproline derivative. However, detailed spectroscopic characterization of the synthetic product, together with comparison to the reported data for the natural isolate, revealed notable discrepancies, suggesting that the structure originally assigned to cordysinin A was likely incorrect. Our findings instead support a structural revision of cordysinin A to a regioisomer featuring hydroxylation at the proline C4 position rather than C5.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Uncovering the Role of Intrinsic Magnetic Order in Oxygen Evolution Reaction Activity with Operando Spectroscopy</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-d2frv?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-d2frv?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Understanding the role of intrinsic magnetic order on the oxygen evolution reaction (OER) requires careful consideration of the magnetic properties of both the catalytic surface and bulk under operati</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Operando FMR/XMCD/XAS on La0.67Sr0.33MnO3 thin films shows oxygen-evolution activity tracks temperature-driven changes in ferromagnetic order near the Curie point, implying spin-exchange–mediated effects can modulate surface catalysis (broadly relevant to energy/redox catalysis contexts but not core origins-of-life).</p>
-<p><strong>Abstract:</strong> Understanding the role of intrinsic magnetic order on the oxygen evolution reaction (OER) requires careful consideration of the magnetic properties of both the catalytic surface and bulk under operating conditions. Because these often diverge from those of the pristine material, operando characterization that directly links magnetic behaviour to catalytic activity is essential. Here, we investigate the magnetic properties of La0.67Sr0.33MnO3 thin‐film OER catalysts using a combination of temperature‐dependent operando ferromagnetic resonance spectroscopy (FMR), ambient‐pressure X‐ray magnetic circular dichroism (XMCD), and operando X‐ray absorption spectroscopy (XAS). A direct correlation between changes in long‐range magnetic order and OER activity, with minimal changes in the catalyst’s electronic state was observed. Non‐interacting ferromagnetic regions were found to enhance activity at temperatures just above the Curie temperature. The enhancement is further amplified when the thin film undergoes the bulk paramagnetic‐to‐ferromagnetic transition below the Curie temperature. Our results indicate that interatomic spin‐exchange interactions, occurring within ferromagnetic regions and across the ferromagnetic bulk, and between these atoms and adsorbates, dominate the observed OER enhancements, potentially augmented by short‐range spin‐polarized conduction effects. These findings highlight that local ferromagnetic order, governed by exchange interactions over a few unit cells, plays a crucial role in modulating surface reaction dynamics, offering mechanistic insight into spin‐dependent catalysis.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-d2frv?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-d2frv?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-d2frv?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] Astrobiology (astrobiology.com) ▶ NASA Spaceline Current Awareness List #1,181 31 December 2025 (Space Life Science Research Results)</title>
     <link href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1181-31-december-2025-space-life-science-research-results.html"/>
     <id>https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1181-31-december-2025-space-life-science-research-results.html</id>
@@ -6325,47 +6003,6 @@
 <li><a href="https://pubmed.ncbi.nlm.nih.gov/41443528">https://pubmed.ncbi.nlm.nih.gov/41443528</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1181-31-december-2025-space-life-science-research-results.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] Organic Chemistry on ChemRxiv ▶ Tunable Cell Surface Proximity Labeling via Photocatalytic and Enzymatic Activation of Fast Bioorthogonal Chemistry</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Described is the use of photocatalytic and enzymatic activation of rapid bioorthogonal chemistry for cell surface proximity labeling. Current approaches to proximity labeling rely on the activation of</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Presents a tunable cell-surface proximity labeling method using photocatalytic or enzymatic activation of fast tetrazine bioorthogonal ligation with an s-TCO quencher to control reaction half-life, enabling targeted proteomic mapping of protein interactions on live cells.</p>
-<p><strong>Abstract:</strong> Described is the use of photocatalytic and enzymatic activation of rapid bioorthogonal chemistry for cell surface proximity labeling. Current approaches to proximity labeling rely on the activation of reactive intermediates (e.g. carbenes, nitrenes, radicals, electrophiles) whose half-life is regulated by uncontrollable quenching by water and native biomolecules in the cell or media. Here, we describe an alternative proximity labeling approach based on the fastest variant of the bioorthogonal tetrazine ligation (k2 107 M–1s–1), where reaction half-life can be tuned by simply controlling the concentration of a strained trans-cyclooctene (s-TCO) quencher. An electrophilic s-TCO-NHS ester is initially used to pan-label the proteome prior to activation, providing a bioorthogonal handle for tagging proteins. Subsequently, antibody-photocatalyst or antibody-enzyme conjugates are targeted to CD45 on the surface of live cells and used to locally catalyze the conversion of dihydrotetrazine molecules to reactive tetrazines. Photocatalysis is achieved through brief, 20-second irradiation at 470 nm with a commercially available antibody-fluorescein conjugate, and enzymatic catalysis is achieved using a commercially available HRP-antibody conjugate. Freely diffusing s-TCO-CO2H serves as a quencher during the proximity labeling reaction, and adjusting the quencher concentration can attenuate labeling as demonstrated in vitro on a model protein. Tuning the half-life of the proximity labeling reaction was also studied in live cells and found to produce proteomic data sets with high overlap. Labeling reactions with shorter half-lives enriched fewer total proteins but maintained enrichment of known interactors. We anticipate that the use of bioorthogonal reactions to facilitate protein proximity labeling will find broad use for studying protein-protein interactions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [75] nature.com - Astronomy and astrophysics ▶ NASA won’t bring Mars samples back to Earth: this is the science that will be lost</title>
-    <link href="https://www.nature.com/articles/d41586-026-00060-7"/>
-    <id>https://www.nature.com/articles/d41586-026-00060-7</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
-<p><strong>AI Decision:</strong> A Nature news analysis argues that cancelling or drastically altering Mars Sample Return would forfeit key astrobiology gains—especially definitive biosignature testing and high-precision geochemical context needed to assess past habitability and potential prebiotic processes on Mars.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/d41586-026-00060-7">https://www.nature.com/articles/d41586-026-00060-7</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/d41586-026-00060-7">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Nature ▶ NASA won’t bring Mars samples back to Earth: this is the science that will be lost</title>
-    <link href="https://www.nature.com/articles/d41586-026-00060-7"/>
-    <id>https://www.nature.com/articles/d41586-026-00060-7</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Nature, Published online: 09 January 2026; doi:10.1038/d41586-026-00060-7 A Congressional bill restores funding for most NASA space science missions, but there is no money for returning samples alread</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
-<p><strong>AI Decision:</strong> A Nature news feature argues that cancelling Mars Sample Return will forfeit high-value laboratory tests on already-collected Martian rocks—critical for constraining past habitability and potential biosignatures relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 09 January 2026; doi:10.1038/d41586-026-00060-7 A Congressional bill restores funding for most NASA space science missions, but there is no money for returning samples already collected on the red planet.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/d41586-026-00060-7">https://www.nature.com/articles/d41586-026-00060-7</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/d41586-026-00060-7">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Self-assembled Versus Biological Pattern Formation In Geology</title>
@@ -6395,20 +6032,6 @@
 <li><a href="http://link.aps.org/doi/10.1103/2kx3-hfsn">http://link.aps.org/doi/10.1103/2kx3-hfsn</a></li>
 </ul>
 <p><a href="http://link.aps.org/doi/10.1103/2kx3-hfsn">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary Stability of High Virulence in Vector-Borne Forest Pathogens: Evidence from Pine Wilt Disease and Management Thresholds</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Pathogen virulence is a central trait shaping disease dynamics and management outcomes. Classical evolutionary theory predicts that virulence should be constrained by trade-offs between transmission a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Develops an individual-based evolutionary model showing how vector-mediated transmission and forest management thresholds can maintain or suppress high virulence in pine wilt disease, but it is not directly related to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Pathogen virulence is a central trait shaping disease dynamics and management outcomes. Classical evolutionary theory predicts that virulence should be constrained by trade-offs between transmission and host survival, often favoring intermediate optima. However, many vector-borne forest diseases exhibit persistently high virulence despite severe host mortality, challenging this expectation. Increasing evidence suggests that ecological context, particularly transmission mode, vector abundance, and spatial structure, can fundamentally reshape virulence-transmission trade-offs, biasing selection toward elevated virulence rather than attenuation. Pine wilt disease, caused by the pine wood nematode Bursaphelenchus xylophilus and transmitted by Monochamus beetles, exemplifies this paradox. Infection leads to rapid host death, yet highly virulent nematode lineages persist and spread across forest landscapes. In this system, host death directly facilitates vector reproduction by creating suitable breeding substrates, potentially reversing the classical trade-off in which host mortality constrains transmission. Why such systems remain evolutionarily trapped in high-virulence states, despite widespread host depletion, remains unresolved. Using pine wilt disease as a motivating and representative vector-borne forest pathosystem, we develop an individual-based evolutionary framework to investigate how transmission conditions and management interventions shape long-term virulence evolution. By integrating stochastic population dynamics with selection-gradient analysis, we identify the mechanisms sustaining high virulence and determine quantitative management thresholds capable of reversing selection pressures and driving durable virulence suppression.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Exo-Geoscience Perspectives Beyond Habitability</title>
@@ -6579,57 +6202,6 @@
 <p><a href="https://phys.org/news/2026-01-hybrid-parasites-threaten-world-widespread.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [50] eLife - recent issues ▶ Short activation domains control chromatin association of transcription factors</title>
-    <link href="https://elifesciences.org/articles/105776"/>
-    <id>https://elifesciences.org/articles/105776</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Transcription factors regulate gene expression with DNA-binding domains (DBDs) and activation domains. Despite evidence to the contrary, DBDs are often assumed to be the primary mediators of transcrip</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Single-molecule tracking in living cells shows that short transcription-factor activation domains (not just DNA-binding domains) largely determine chromatin-bound fraction and residence time via coactivator interactions (e.g., p300), informing how eukaryotic gene-regulatory machinery can evolve modular control over DNA occupancy.</p>
-<p><strong>Abstract:</strong> Transcription factors regulate gene expression with DNA-binding domains (DBDs) and activation domains. Despite evidence to the contrary, DBDs are often assumed to be the primary mediators of transcription factor (TF) interactions with DNA and chromatin. Here, we used fast single-molecule tracking of transcription factors in living cells to show that short activation domains can control the fraction of molecules bound to chromatin. Stronger activation domains have higher bound fractions and longer residence times on chromatin. Furthermore, mutations that increase activation domain strength also increase chromatin binding. This trend was consistent in four different activation domains and their mutants. This effect further held for activation domains appended to three different structural classes of DBDs. Stronger activation domains with high chromatin-bound fractions also exhibited increased binding to the p300 coactivator in proximity-assisted photoactivation experiments. Genome-wide measurements indicate these activation domains primarily control the occupancy of binding rather than the genomic location. Taken together, these results demonstrate that very short activation domains play a major role in tethering transcription factors to chromatin.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1101/gad.991402">https://doi.org/10.1101/gad.991402</a></li>
-<li><a href="https://doi.org/10.1007/978-1-4939-1242-1_16">https://doi.org/10.1007/978-1-4939-1242-1_16</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/2882858">https://www.ncbi.nlm.nih.gov/pubmed/2882858</a></li>
-<li><a href="https://doi.org/10.7554/eLife.92979">https://doi.org/10.7554/eLife.92979</a></li>
-<li><a href="https://doi.org/10.1371/journal.pgen.1002266">https://doi.org/10.1371/journal.pgen.1002266</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/25537195">https://www.ncbi.nlm.nih.gov/pubmed/25537195</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/39187372">https://www.ncbi.nlm.nih.gov/pubmed/39187372</a></li>
-<li><a href="https://doi.org/10.1016/j.cell.2013.01.052">https://doi.org/10.1016/j.cell.2013.01.052</a></li>
-<li><a href="https://doi.org/10.5281/zenodo.8222875">https://doi.org/10.5281/zenodo.8222875</a></li>
-<li><a href="https://www.linkedin.com/shareArticle?title=Short%20activation%20domains%20control%20chromatin%20association%20of%20transcription%20factors&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.105776">https://www.linkedin.com/shareArticle?title=Short%20activation%20domains%20control%20chromatin%20association%20of%20transcription%20factors&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.105776</a></li>
-</ul>
-<p><a href="https://elifesciences.org/articles/105776">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] bioinformatics - biorXiv Preprints ▶ Targeted Chromosomal Sequencing of Wild Bonobos Identifies a Genetically Distinct Subpopulation East of the Lomami River</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Bonobos (Pan paniscus), an endangered species, have for decades been genetically understudied, partly due to difficulties in obtaining high-quality samples. The study of their genome is important not </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Chromosome 21 targeted sequencing from non-invasive fecal samples reveals three genetically structured wild bonobo subpopulations separated by river barriers, improving understanding of recent primate evolution and enabling conservation-relevant geolocation of unknown-origin individuals.</p>
-<p><strong>Abstract:</strong> Bonobos (Pan paniscus), an endangered species, have for decades been genetically understudied, partly due to difficulties in obtaining high-quality samples. The study of their genome is important not only for understanding their evolution, but also for improving conservation efforts, including population management, diversity and inbreeding assessment, and tracking rescued individuals to combat illegal wildlife trafficking. Here, we use chromosome 21 target capture data from 156 non-invasively collected faecal samples from wild bonobos to perform a comprehensive analysis of their population structure. We confirm the existence of three previously suggested subpopulations identified here as Western, Central and Eastern bonobos which are defined by natural barriers of gene flow such as the Lomami River. By estimating levels of inbreeding, diversity and differentiation, we find support for isolation of mainly Western and Eastern populations and add information on the dispersal routes of their ancestors. We infer split times and separation of these populations and apply a genetic framework to geolocalize samples of unknown origin, showing that locations of their potential origin can be estimated with a precision of up to a median of ~50 km. Our study provides valuable insight into the evolution and population structure of bonobos and reveals how rivers act as strong barriers between populations. It also offers resources for conservation efforts and highlights the need to monitor bonobo populations more closely, in particular isolated ones.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ DNA-Encoded Nanoparticle Interfaces Accelerate Diverse Enzymes Through Noncovalent Association</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Enhancing enzyme performance without protein engineering remains a central challenge in biocatalysis. Here, we report the unusual discovery that nanoparticles densely functionalized with DNA can bind </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> DNA-functionalized nanoparticles noncovalently recruit diverse enzymes and boost activity in a sequence-dependent, programmable manner, offering a nucleic-acid–based interface conceptually relevant to how biopolymer surfaces can modulate catalysis but not directly addressing prebiotic origins.</p>
-<p><strong>Abstract:</strong> Enhancing enzyme performance without protein engineering remains a central challenge in biocatalysis. Here, we report the unusual discovery that nanoparticles densely functionalized with DNA can bind enzymes without chemical conjugation, affinity tags, or engineered recognition motifs, and substantially increase catalytic activity. This effect generalizes across multiple enzyme classes: cytochrome c and catalase exhibit ~9.4-fold and ~3.0-fold higher peroxidase activity, while carbonic anhydrase shows a ~1.6-fold increased esterase activity, underscoring the versatility of this system. Mechanistic studies indicate that enhancement is an emergent property of the three-dimensional, high-density DNA shell, with the core functioning primarily as a scaffold. Activity modulation is governed not only by DNA density and length, but also, critically, by DNA sequence, establishing sequence design as a programmable handle for tuning enzyme output. All-atom molecular dynamics simulations reveal that base-specific interactions reshape enzyme conformational flexibility and increase active-site accessibility. We further show sequence-encoded control in multienzyme systems through a DNA-programmed cascade where DNA-functionalized glucose oxidase recruits cytochrome c at the DNA interface, yielding &gt;4.8-fold higher cascade efficiency than free-enzyme mixtures. Together, these findings position DNA-functionalized nanoparticles as adaptable, sequence-programmable platforms for improving and coordinating biocatalysis, opening new routes for enzyme control in synthesis, diagnostics, and therapeutic design.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [15] ScienceDaily - Evolutionary Biology News ▶ The 4x rule: Why some people’s DNA is more unstable than others</title>
     <link href="https://www.sciencedaily.com/releases/2026/01/260109080214.htm"/>
     <id>https://www.sciencedaily.com/releases/2026/01/260109080214.htm</id>
@@ -6655,90 +6227,6 @@
 <li><a href="http://dx.doi.org/10.1038/s41586-025-09890-3">http://dx.doi.org/10.1038/s41586-025-09890-3</a></li>
 </ul>
 <p><a href="https://www.sciencedaily.com/releases/2026/01/260107225541.htm">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] ChemRxiv ▶ Dynamics of Low-Temperature Water are Driven by Electrostatics</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Non-Gaussian dynamics in low-temperature liquids are assigned to spatial fluctuations of relax- ation times and linear transport coeﬀicients (dynamic heterogeneity). In contrast, molecular dy- namics </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Molecular dynamics simulations suggest that anomalous low-temperature water dynamics are primarily driven by strengthening electrostatic interactions, a finding broadly relevant to astrobiology via water physics in cold environments but not directly focused on origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Non-Gaussian dynamics in low-temperature liquids are assigned to spatial fluctuations of relax- ation times and linear transport coeﬀicients (dynamic heterogeneity). In contrast, molecular dy- namics simulations of SPC/E water assign non-Gaussian dynamics to electrostatic intermolecular interactions growing in prominence with lowering temperature. Translational non-Gaussian param- eter and rotational/translational relaxation times follow master curves produced by either changing temperature or liquid’s dipole moment. Static and dynamic compensation relations found for bulk water are assigned to the separation of time scales between density and electrostatic fluctuations.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] ChemRxiv ▶ A New Chirality Phenomenon in Amino Acid and Peptide Derivatives</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored du</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
-<p><strong>AI Decision:</strong> Reports a newly defined &#x27;turbo chirality&#x27; (di-propeller M,M vs P,P configurations coupled to central stereocenters) in amino acid/peptide derivatives, a stereochemical finding broadly relevant to understanding biomolecular chirality but not directly framed in prebiotic or origins-of-life contexts.</p>
-<p><strong>Abstract:</strong> Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored due to their high solubility in aqueous biological systems, ease of structural modification, and the non-toxic nature of their metabolites. For most peptide drugs, the chirality of their higher structures determines both their functionality and biological activities. To date, nearly all amino acid residues in peptide structures exhibit central chirality, although axial chirality has occasionally been observed in peptides. In this study, we report the discovery of a new form of chirality, termed turbo chirality, which consists of two propeller blades and coexists alongside central chirality in amino acids and peptides. Specifically, we found that di-propeller structures in amino acids and peptides can exist in either M,M- or P,P-configurations, depending on the orientation of their chiral centers, which are controlled by (S)- and (R)-configurations, respectively. Computational studies were conducted to explore the relative energies of rotational barriers for conversion between M,M- and P,P-configurations, as well as the transition pathways between the two enantiomers, yielding results that align with our expectations. This discovery is expected to have broad implications for amino acid and peptide research, particularly in structure-activity relationship (SAR) studies of peptides and peptidomimetics. As a result, our findings are anticipated to make a significant impact across multiple disciplines, including chemistry, biomedicine, and materials science.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Organic Chemistry on ChemRxiv ▶ A New Chirality Phenomenon in Amino Acid and Peptide Derivatives</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored du</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
-<p><strong>AI Decision:</strong> Reports a newly described &#x27;turbo chirality&#x27; (di-propeller M,M vs P,P configurations coupled to S/R centers) in amino acid and peptide derivatives, potentially informing how peptide stereochemistry can encode higher-order structure beyond classic central chirality.</p>
-<p><strong>Abstract:</strong> Amino acids and peptides are essential molecules that play pivotal roles in biology, medicine, and chemistry, particularly in drug design and discovery. Peptide-based drugs are increasingly favored due to their high solubility in aqueous biological systems, ease of structural modification, and the non-toxic nature of their metabolites. For most peptide drugs, the chirality of their higher structures determines both their functionality and biological activities. To date, nearly all amino acid residues in peptide structures exhibit central chirality, although axial chirality has occasionally been observed in peptides. In this study, we report the discovery of a new form of chirality, termed turbo chirality, which consists of two propeller blades and coexists alongside central chirality in amino acids and peptides. Specifically, we found that di-propeller structures in amino acids and peptides can exist in either M,M- or P,P-configurations, depending on the orientation of their chiral centers, which are controlled by (S)- and (R)-configurations, respectively. Computational studies were conducted to explore the relative energies of rotational barriers for conversion between M,M- and P,P-configurations, as well as the transition pathways between the two enantiomers, yielding results that align with our expectations. This discovery is expected to have broad implications for amino acid and peptide research, particularly in structure-activity relationship (SAR) studies of peptides and peptidomimetics. As a result, our findings are anticipated to make a significant impact across multiple disciplines, including chemistry, biomedicine, and materials science.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] Nature Communications ▶ Theoretical prediction for monitoring Jahn-Teller vibrational evolution using real-space tip-enhanced Raman imaging</title>
-    <link href="https://www.nature.com/articles/s41467-025-67894-z"/>
-    <id>https://www.nature.com/articles/s41467-025-67894-z</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 09 January 2026; doi:10.1038/s41467-025-67894-z Jahn-Teller distortions alter molecular structures, but are usually only probed on the basis of electronic sign</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Demonstrates real-space tip-enhanced Raman imaging to map Jahn–Teller–driven vibrational changes in a single molecule, an enabling spectroscopy advance but not directly focused on origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 09 January 2026; doi:10.1038/s41467-025-67894-z Jahn-Teller distortions alter molecular structures, but are usually only probed on the basis of electronic signatures. Here, the authors demonstrate that tip-enhanced Raman imaging in real space can map the associated vibrational changes in a single molecule.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67894-z">https://www.nature.com/articles/s41467-025-67894-z</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-67894-z">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] ChemRxiv ▶ Efficient Simulation of Optical Spectra via Machine Learning and Physical Decomposition of Environmental Effects</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Simulations of optical spectra can provide key insights to aid experimental interpretation of electronic excitation phenomena. For chromophores in the condensed phase, these spectra, which incorporate</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Introduces a machine-learning/physics hybrid method to efficiently simulate environment-influenced optical spectra of solvated chromophores (demonstrated in water and methanol), with limited direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Simulations of optical spectra can provide key insights to aid experimental interpretation of electronic excitation phenomena. For chromophores in the condensed phase, these spectra, which incorporate the coupling between electronic excitation and molecular and solvent nuclear motions, can be simulated using excitation energies obtained from molecular dynamics simulations of the chromophore and solvent. Here, we present a hybrid scheme that exploits machine learning and physically informed spectral densities to show that as few as 25 ground and excited state energetic gradient calculations can be used to construct models that accurately predict environment-influenced vibronic coupling in optical spectra. We demonstrate our approach for the green fluorescent protein chromophore in water and the cresyl violet chromophore in methanol. We show that our hybrid approach, employing a machine learning model for the high-frequency spectral density and an ab initio parameterized Debye spectral density for the low-frequency, results in systematic improvement of the optical absorption lineshape, leading to a simple machine learning scheme that can be used for simulation of spectral densities and optical spectra.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] ChemRxiv ▶ Decoding the Catalytic Strategy for DNA Alkylation Repair by AlkA: Insights from MD Simulations and QM/MM Calculations</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>DNA is under constant attack by exogenous and endogenous agents that result in alkylation damage, which can lead to mutagenesis and cell death. 3-methyladenine DNA glycosylase II (AlkA) initiates the </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, DNA</p>
-<p><strong>AI Decision:</strong> MD and QM/MM simulations suggest bacterial AlkA excises 3-methyladenine via direct hydrolysis with D238 activating a water nucleophile, clarifying active-site dynamics and substrate promiscuity relevant to DNA stability in living systems rather than core origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> DNA is under constant attack by exogenous and endogenous agents that result in alkylation damage, which can lead to mutagenesis and cell death. 3-methyladenine DNA glycosylase II (AlkA) initiates the repair of many alkylated nucleotides in bacterial cells by cleaving the glycosidic bond connecting the damaged nucleobase to deoxyribose. However, due to the lack of a crystal structure for the enzyme with a substrate nucleotide bound in the active site, it is poorly understood how AlkA accommodates such a wide variety of substrates and there is controversy regarding the AlkA catalytic mechanism. The present study uses MD simulations to investigate AlkA interactions with DNA containing a major substrate, 3-methyladenine (3mA), and QM/MM calculations to map multiple potential pathways for 3mA excision. MD simulations reveal eight residues comprise the AlkA active site, binding the substrate through several non-specific, hydrophobic contacts. Substrate promiscuity is uncovered as likely to be further promoted by Y273, which can change conformation to modulate the binding pocket size. Despite a previous proposal that AlkA actvitity involves DNA−protein crosslink formation, QM/MM calculations suggest that catalysis proceeds through a direct hydrolysis mechanism in which D238 activates a water nucleophile that attacks at C1′ of the damaged nucleotide. Our combined MD and QM/MM approach highlights that proper D238 positioning with respect to the substrate is supported by a network of D238 interactions with the substrate, W218, and W272. The proposed mechanism is consistent with experimental kinetic, mutagenic, and structural data for AlkA, and aligns with the preferred pathway of many other monofunctional glycosylases. The insights into AlkA substrate binding and catalysis gained from this study can push forward the design of small molecule inhibitors as antibacterial agents and broaden our general understanding of DNA repair pathways, which can aid in the development of cancer therapeutics.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [0] cs.NE updates on arXiv.org ▶ Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions</title>
@@ -7089,19 +6577,5 @@
 <li><a href="https://arxiv.org/abs/2501.18620">https://arxiv.org/abs/2501.18620</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2501.18620">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] Scientific Reports ▶ Molecular characterization of directly reprogrammed neurons from human fibroblasts using single cell RNA sequencing</title>
-    <link href="https://www.nature.com/articles/s41598-025-34688-8"/>
-    <id>https://www.nature.com/articles/s41598-025-34688-8</id>
-    <updated>2026-01-09T00:00:00Z</updated>
-    <summary>Scientific Reports, Published online: 09 January 2026; doi:10.1038/s41598-025-34688-8 Molecular characterization of directly reprogrammed neurons from human fibroblasts using single cell RNA sequencin</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study uses single-cell RNA sequencing to characterize directly reprogrammed human neurons from fibroblasts, which is biomedical cell reprogramming and not relevant to origins-of-life or astrobiology themes.</p>
-<p><strong>Abstract:</strong> Scientific Reports, Published online: 09 January 2026; doi:10.1038/s41598-025-34688-8 Molecular characterization of directly reprogrammed neurons from human fibroblasts using single cell RNA sequencing</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41598-025-34688-8">https://www.nature.com/articles/s41598-025-34688-8</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41598-025-34688-8">Read source article</a></p>]]></content>
   </entry>
 </feed>
