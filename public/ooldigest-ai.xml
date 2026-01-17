@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T18:23:34.667329+00:00</updated>
+  <updated>2026-01-17T19:13:23.743358+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] systems biology - biorXiv Preprints ▶ Scaling perturbations: beyond genome-scale CRISPR screens</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>CRISPR screens have become essential tools for systematically probing gene function from basic biology to drug discovery, yet important frontiers remain beyond genome scale. Probing regulatory element</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces PORTAL and CAP cloning to enable ultrahigh-complexity CRISPR perturbation libraries and large-scale genetic interaction mapping in human cells using quantitative RNA readouts, with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> CRISPR screens have become essential tools for systematically probing gene function from basic biology to drug discovery, yet important frontiers remain beyond genome scale. Probing regulatory elements, interpreting genetic variants, and mapping genetic interactions all challenge the sensitivity and scalability of existing approaches. Here we introduce two synergistic technologies to address these limitations. PORTAL (Perturbation Output via Reporter Transcriptional Activity in Lineages) shifts pooled genetics toward quantitative RNA phenotypes, encoding perturbation effects in expressed transcripts to enable single-molecule measurements with lineage or single-cell resolution. CAP cloning (Covalently closed Assembly Products) bypasses bacterial transformation to enable construction of ultrahigh-complexity lentiviral libraries. Combining these advances, we construct a genetic interaction map spanning 665,856 pairwise perturbations across 46 million clonal lineages - the largest exhaustive map in human cells and the first at this scale using a non-fitness phenotype. More broadly, this work charts a path toward comprehensive genetic interaction mapping in human cells.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] Biosystems ▶ Ohmic–polarization transition in hydrated DNA</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0303264726000183?dgcid=rss_sd_all"/>
