@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T04:29:38.285256+00:00</updated>
+  <updated>2026-01-17T05:17:58.173764+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Understanding the evolution and clade diversity of Mayorella (Amoebozoa): Description of Novel Species from freshwater near Cape coast, Ghana</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Mayorella species are globally distributed amoeboid protists, yet their diversity remains poorly resolved due to pronounced morphological plasticity and limited molecular data. Freshwater ecosystems o</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, evolution</p>
+<p><strong>AI Decision:</strong> Describes and phylogenetically places novel freshwater Mayorella (Amoebozoa) lineages from Ghana, expanding knowledge of cryptic eukaryotic diversity and evolutionary clade structure but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Mayorella species are globally distributed amoeboid protists, yet their diversity remains poorly resolved due to pronounced morphological plasticity and limited molecular data. Freshwater ecosystems of West Africa are particularly underexplored, with virtually no taxonomic or molecular studies addressing Mayorella and most microbial eukaryotes diversity in the region. Here, we describe a new species of Mayorella isolated from Budamu Stream, Ghana, using an integrative morphological and molecular approach. Mayorella budamensis sp. nov. exhibits marked morphological plasticity in size, shape, locomotion, and floating forms. Phylogenetic analyses based on SSU rDNA place the new species within a well-supported Mayorella clade, clustering with geographically diverse but largely unnamed and uncultured lineages. Comparative sequence analyses confirm that M. budamensis sp. nov. is genetically distinct from all sequenced congeners recognized to date. In addition, a second Mayorella isolate recovered from the same locality forms a genetically distinct lineage associated primarily with environmental sequences, indicating a novel evolutionary group. Based on available SSU rDNA data, we recognize up to seven major clades within Mayorella, representing distinct evolutionary lineages with the potential to include additional undescribed species. Together, these findings reveal substantial cryptic diversity and expand the known distribution of Mayorella in understudied African freshwater ecosystems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Blood-brain barrier disrupting stimuli induce production of extracellular vesicles with distinct protein cargoes and functionality</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1"/>

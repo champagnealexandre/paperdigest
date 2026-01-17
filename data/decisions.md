@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Understanding the evolution and clade diversity of Mayorella](https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1) |
+| keyword_rejected | - | [Caral, la plus ancienne civilisation des Amériques](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/caral-la-plus-ancienne-civilisation-des-ameriques_190109?xtor=RSS-4) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117001746&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Prognostic impact of spatial niches in prostate cancer](https://www.nature.com/articles/s41598-026-35720-1) |
+| keyword_rejected | - | [Shotgun metagenomic and physicochemical profiling of municip](https://www.nature.com/articles/s41598-026-35157-6) |
+| keyword_rejected | - | [Prediction of left ventricular systolic dysfunction in left ](https://www.nature.com/articles/s41598-025-34911-6) |
+| keyword_rejected | - | [Exposure of western United States bird communities to predic](https://www.nature.com/articles/s41467-026-68480-7) |
+| keyword_rejected | - | [Regulated RIAM-Talin Engagement Controls Adhesion Stability ](https://www.biorxiv.org/content/10.64898/2026.01.15.699718v1?rss=1) |
 | ai_scored | 10 | [Blood-brain barrier disrupting stimuli induce production of ](https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1) |
 | keyword_rejected | - | [First treaty to protect the high seas comes into force](https://www.newscientist.com/article/2512101-first-treaty-to-protect-the-high-seas-comes-into-force/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [First treaty to protect the high seas comes into force](https://www.newscientist.com/article/2512101-first-treaty-to-protect-the-high-seas-comes-into-force/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
