@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117073216&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [This gene may determine if dogs have long, floppy ears or sh](https://www.scientificamerican.com/article/this-gene-may-determine-if-dogs-have-long-floppy-ears-or-short-study-ones/) |
+| keyword_rejected | - | [QAL333’s antitumor activity and predictive modeling: integra](https://www.nature.com/articles/s41598-026-36430-4) |
 | ai_scored | 30 | [ATM-dependent RHEB phosphorylation couples DNA damage to lys](https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1) |
 | ai_scored | 30 | [Structural heterogeneity in mRNA-LNP subpopulations revealed](https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1) |
 | ai_scored | 25 | [Primed-to-naive conversion of pluripotent stem cells can be ](https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1) |
