@@ -3,8 +3,20 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T15:16:35.648559+00:00</updated>
+  <updated>2026-01-17T16:19:08.051151+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] Phys.org: Evolution News ▶ Decoded rules of microRNA strand selection reveal conserved, programmable features</title>
+    <link href="https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html"/>
+    <id>https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html</id>
+    <updated>2026-01-17T15:50:01Z</updated>
+    <summary>MicroRNAs, whose discovery was recognized with the 2025 Nobel Prize in Physiology or Medicine, are central regulators of gene expression, yet a fundamental question has remained unanswered: how cells </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study decodes conserved rules governing microRNA strand selection in eukaryotes, advancing our understanding of RNA-based gene regulation and its evolution but only indirectly informing origins-of-life questions.</p>
+<p><strong>Abstract:</strong> MicroRNAs, whose discovery was recognized with the 2025 Nobel Prize in Physiology or Medicine, are central regulators of gene expression, yet a fundamental question has remained unanswered: how cells choose between the two strands produced from each microRNA precursor.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] PNAS Evolution ▶ “Excluded phenotypes” restrict genetic paths toward adaptation in declining populations</title>
     <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R"/>

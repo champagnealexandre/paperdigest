@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Decoded rules of microRNA strand selection reveal conserved,](https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117111858&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [World models could unlock the next revolution in artificial ](https://www.scientificamerican.com/article/world-models-could-unlock-the-next-revolution-in-artificial-intelligence/) |
+| keyword_rejected | - | [NASA’s Artemis II mission to the moon is inching toward the ](https://www.scientificamerican.com/article/nasas-artemis-ii-mission-to-the-moon-is-inching-toward-the-launch-pad/) |
+| keyword_rejected | - | [Research on design strategy of one-piece ski suit driven by ](https://www.nature.com/articles/s41598-026-35593-4) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117101631&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Valence-free open nanoparticle superlattices](https://www.nature.com/articles/s41467-026-68316-4) |
 | keyword_rejected | - | [Weight-independent effects of dietary carbohydrate-to-fat ra](https://www.nature.com/articles/s41467-026-68353-z) |
