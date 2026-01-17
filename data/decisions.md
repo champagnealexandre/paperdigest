@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Living together with differences: Mathematical model shows h](https://phys.org/news/2026-01-differences-mathematical-social-friction-consensus.html) |
+| keyword_rejected | - | [Mysterious iron 'bar' discovered in famous nebula](https://phys.org/news/2026-01-mysterious-iron-bar-famous-nebula.html) |
+| keyword_rejected | - | [Correction: EgoVision: a YOLO-ViT hybrid for robust egocentr](https://www.nature.com/articles/s41598-026-36489-z) |
+| keyword_rejected | - | [Author Correction: Experimental and numerical study on flexu](https://www.nature.com/articles/s41598-026-36481-7) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117181604&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117171613&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117161450&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Membrane-free CO<sub>2</sub> hydrogenation electrolyzer for ](https://www.nature.com/articles/s41467-026-68600-3) |
