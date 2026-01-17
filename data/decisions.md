@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Circumplanetary Disk Candidate In The Disk of HD 163296 Trac](https://astrobiology.com/2026/01/circumplanetary-disk-candidate-in-the-disk-of-hd-163296-traced-by-localized-emission-from-simple-organics.html) |
+| ai_scored | 50 | [JAXA Astronaut Kimiya Yui Conducts A Microbiology Research E](https://astrobiology.com/2026/01/jaxa-astronaut-kimiya-yui-conducts-a-microbiology-research-experiment.html) |
+| ai_scored | 65 | [Expanding the C3H6O2 Isomeric Interstellar Inventory: Discov](https://astrobiology.com/2026/01/expanding-the-c3h6o2-isomeric-interstellar-inventory-discovery-of-lactaldehyde-and-methoxyacetaldehyde-in-g0-693-0-027.html) |
+| ai_scored | 35 | [Human PMS1-dependent non-canonical mismatch repair converges](https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1) |
+| ai_scored | 50 | [Transiting Exoplanets As The Immediate Future For Population](https://astrobiology.com/2026/01/transiting-exoplanets-as-the-immediate-future-for-population-level-atmospheric-science.html) |
+| ai_scored | 35 | [WISE/CatWISE Constraints On Dysonian Waste-Heat Technosignat](https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117151812&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Sortie de la fusée lunaire de la Nasa en amont du lancement ](https://www.sciencesetavenir.fr/sciences/sortie-de-la-fusee-lunaire-de-la-nasa-en-amont-du-lancement-d-artemis-2_190450?xtor=RSS-18) |
+| keyword_rejected | - | [Engineering energy-efficient Saccharomyces cerevisiae for me](https://www.nature.com/articles/s41467-026-68516-y) |
 | ai_scored | 5 | [Scaling perturbations: beyond genome-scale CRISPR screens](https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117141312&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Discovery of a Human Metabolite that Mimics the Bacterial Qu](https://www.biorxiv.org/content/10.64898/2026.01.16.699917v1?rss=1) |

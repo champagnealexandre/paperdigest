@@ -3,8 +3,95 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T19:13:23.743358+00:00</updated>
+  <updated>2026-01-17T20:18:28.846834+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] Astrobiology (astrobiology.com) ▶ WISE/CatWISE Constraints On Dysonian Waste-Heat Technosignatures In Nearby Galaxies</title>
+    <link href="https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html"/>
+    <id>https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html</id>
+    <updated>2026-01-17T19:54:58Z</updated>
+    <summary>We search for galaxy-scale (Dysonian) waste heat in the mid-infrared using WISE. Starting from the 2MASS Redshift Survey (2MRS), we cross-match to CatWISE2020 and AllWISE, apply standard MIR AGN/starb</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> Uses WISE/CatWISE mid-infrared data to place upper limits on galaxy-scale Dysonian waste-heat (technosignature) scenarios in nearby galaxies, relevant to astrobiology via SETI but not to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> We search for galaxy-scale (Dysonian) waste heat in the mid-infrared using WISE. Starting from the 2MASS Redshift Survey (2MRS), we cross-match to CatWISE2020 and AllWISE, apply standard MIR AGN/starburst vetoes (Stern, Assef R90, Jarrett), and treat W1 and W2 as stellar baselines and W3 and W4 as constraining bands. For each galaxy and for blackbody […] The post WISE/CatWISE Constraints On Dysonian Waste-Heat Technosignatures In Nearby Galaxies appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.07297">https://doi.org/10.48550/arXiv.2601.07297</a></li>
+<li><a href="https://arxiv.org/abs/2601.07297">https://arxiv.org/abs/2601.07297</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Transiting Exoplanets As The Immediate Future For Population-level Atmospheric Science</title>
+    <link href="https://astrobiology.com/2026/01/transiting-exoplanets-as-the-immediate-future-for-population-level-atmospheric-science.html"/>
+    <id>https://astrobiology.com/2026/01/transiting-exoplanets-as-the-immediate-future-for-population-level-atmospheric-science.html</id>
+    <updated>2026-01-17T19:35:00Z</updated>
+    <summary>The transit method, during which a planet’s presence is inferred by measuring the reduction in flux as it passes in front of its parent star, is a highly successful exoplanet detection and characteriz</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*</p>
+<p><strong>AI Decision:</strong> Reviews how transit spectroscopy of exoplanets can enable population-level atmospheric characterization that may ultimately support habitability and biosignature-focused comparative studies, though it is not directly about origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> The transit method, during which a planet’s presence is inferred by measuring the reduction in flux as it passes in front of its parent star, is a highly successful exoplanet detection and characterization technique. During transit, the small fraction of starlight that passes through a planet’s atmosphere emerges with the fingerprints of atmospheric gases, aerosols […] The post Transiting Exoplanets As The Immediate Future For Population-level Atmospheric Science appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.06236">https://doi.org/10.48550/arXiv.2601.06236</a></li>
+<li><a href="https://arxiv.org/abs/2601.06236">https://arxiv.org/abs/2601.06236</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/transiting-exoplanets-as-the-immediate-future-for-population-level-atmospheric-science.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] molecular biology - biorXiv Preprints ▶ Human PMS1-dependent non-canonical mismatch repair converges with MBD4 to repair 5-methylcytosine deamination</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>CpG dinucleotides are hotspots for mutagenesis by spontaneous deamination of 5-methylcytosine (5mC) into thymine, resulting in T:G mismatches that can lead to C&gt;T transitions. These mutations are a ha</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
+<p><strong>AI Decision:</strong> Using targeted cytosine base-editing in native chromatin, the study shows that human MBD4 base-excision repair cooperates with a replication-independent, PMS1/MLH1-dependent non-canonical mismatch repair pathway to fix 5mC deamination (T:G) lesions, shaping CpG mutational patterns relevant to genome evolution and cancer.</p>
+<p><strong>Abstract:</strong> CpG dinucleotides are hotspots for mutagenesis by spontaneous deamination of 5-methylcytosine (5mC) into thymine, resulting in T:G mismatches that can lead to C&gt;T transitions. These mutations are a hallmark of aging and cancer and a major force shaping the evolution of vertebrate genomes. We have previously uncovered MBD4 as the primary base excision repair (BER) glycosylase responsible for 5mC deamination repair. In this study, we employ a cytosine base-editing system, comprising an APOBEC1 deaminase fused to a catalytically dead Cas9, to induce targeted cytosine deamination in native chromatin and track its repair. This approach reveals that MBD4 cooperates with a non-canonical branch of mismatch repair (MMR) to elicit 5mC deamination repair. We demonstrate that MBD4 activity depends on MMR complexes MutS (MSH2-MSH6) and MutL{beta} (MLH1-PMS1), but not on post-replicative MMR elicited by the MutL (MLH1-PMS2) complex. We find that PMS1 loss phenocopies the genome-wide CpG&gt;TpG hypermutated profile associated with MBD4 deficiency, uncovering that 5mC deamination repair may represent one of the primary functions of the MutL{beta} complex. The mutational landscape of MMR-deficient tumors aligns with our experimental results, showing that replication-independent CpG&gt;TpG mutagenesis partly contributes to the mutational burden of tumors inactivated for MLH1, MSH2 and MSH6. Finally, using structural predictions alongside biochemical validation, we show that MBD4 physically interacts with MutL{beta} in an MLH1-dependent manner, illuminating the structural basis for the convergence of the BER and MMR pathways. Altogether, we uncover a novel function of non-canonical MMR that underscores its interplay with BER in safeguarding genomic integrity against damage to methylated DNA.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Expanding the C3H6O2 Isomeric Interstellar Inventory: Discovery of Lactaldehyde and Methoxyacetaldehyde in G+0.693-0.027</title>
+    <link href="https://astrobiology.com/2026/01/expanding-the-c3h6o2-isomeric-interstellar-inventory-discovery-of-lactaldehyde-and-methoxyacetaldehyde-in-g0-693-0-027.html"/>
+    <id>https://astrobiology.com/2026/01/expanding-the-c3h6o2-isomeric-interstellar-inventory-discovery-of-lactaldehyde-and-methoxyacetaldehyde-in-g0-693-0-027.html</id>
+    <updated>2026-01-17T19:13:00Z</updated>
+    <summary>The tentative detection of 3-hydroxypropanal (HO(CH2)2C(O)H) toward the Galactic center molecular cloud G+0.693-0.027 prompts a systematic survey in this source aimed at detecting all C3H6O2 isomers w</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> biosignature, astrochemistry, astrobio*</p>
+<p><strong>AI Decision:</strong> Ultra-deep radio spectroscopy of the Galactic-center cloud G+0.693-0.027 reports tentative detections of new C3H6O2 isomers (including lactaldehyde and methoxyacetaldehyde), expanding the interstellar complex-organic inventory relevant to prebiotic chemical feedstocks.</p>
+<p><strong>Abstract:</strong> The tentative detection of 3-hydroxypropanal (HO(CH2)2C(O)H) toward the Galactic center molecular cloud G+0.693-0.027 prompts a systematic survey in this source aimed at detecting all C3H6O2 isomers with available spectroscopy. We use an ultra-deep broadband spectral survey of G+0.693-0.027, carried out with the Yebes 40 m and IRAM 30 m telescopes, to conduct the astronomical search. […] The post Expanding the C3H6O2 Isomeric Interstellar Inventory: Discovery of Lactaldehyde and Methoxyacetaldehyde in G+0.693-0.027 appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.07365">https://doi.org/10.48550/arXiv.2601.07365</a></li>
+<li><a href="https://arxiv.org/abs/2601.07365">https://arxiv.org/abs/2601.07365</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/expanding-the-c3h6o2-isomeric-interstellar-inventory-discovery-of-lactaldehyde-and-methoxyacetaldehyde-in-g0-693-0-027.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ JAXA Astronaut Kimiya Yui Conducts A Microbiology Research Experiment</title>
+    <link href="https://astrobiology.com/2026/01/jaxa-astronaut-kimiya-yui-conducts-a-microbiology-research-experiment.html"/>
+    <id>https://astrobiology.com/2026/01/jaxa-astronaut-kimiya-yui-conducts-a-microbiology-research-experiment.html</id>
+    <updated>2026-01-17T19:27:00Z</updated>
+    <summary>Japan Aerospace Exploration Agency astronaut and Expedition 74 Flight Engineer Kimiya Yui conducts a microbiology research experiment inside the Kibo laboratory module’s Life Science Glovebox. Yui was</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, astrobio*</p>
+<p><strong>AI Decision:</strong> ISS microbiology work tests UV disinfection to control surface biofilms and protect crew/hardware—relevant to spaceflight microbial management and planetary-protection-adjacent astrobiology, but not a direct origins-of-life study.</p>
+<p><strong>Abstract:</strong> Japan Aerospace Exploration Agency astronaut and Expedition 74 Flight Engineer Kimiya Yui conducts a microbiology research experiment inside the Kibo laboratory module’s Life Science Glovebox. Yui was inoculating bacterial samples to study the use of ultraviolet light to disinfect spacecraft surfaces and protect crew health and hardware from biofilms—clusters of microbes that adhere to surfaces […] The post JAXA Astronaut Kimiya Yui Conducts A Microbiology Research Experiment appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/jaxa-astronaut-kimiya-yui-conducts-a-microbiology-research-experiment.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Circumplanetary Disk Candidate In The Disk of HD 163296 Traced By Localized Emission From Simple Organics</title>
+    <link href="https://astrobiology.com/2026/01/circumplanetary-disk-candidate-in-the-disk-of-hd-163296-traced-by-localized-emission-from-simple-organics.html"/>
+    <id>https://astrobiology.com/2026/01/circumplanetary-disk-candidate-in-the-disk-of-hd-163296-traced-by-localized-emission-from-simple-organics.html</id>
+    <updated>2026-01-17T18:10:00Z</updated>
+    <summary>Atacama Large Millimeter/submillimeter Array observations suggest that the disc of HD 163296 is being actively shaped by embedded, yet unseen protoplanets, as indicated by numerous gas and dust substr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry, exoplanet, astrobio*</p>
+<p><strong>AI Decision:</strong> ALMA observations of HD 163296 reveal localized HCN and C2H emission consistent with a candidate circumplanetary disk, informing how simple organics are concentrated in planet-forming environments relevant to prebiotic chemical inventories.</p>
+<p><strong>Abstract:</strong> Atacama Large Millimeter/submillimeter Array observations suggest that the disc of HD 163296 is being actively shaped by embedded, yet unseen protoplanets, as indicated by numerous gas and dust substructures consistent with planet-disc interaction models. We report the first detection of simple organic molecules, HCN and C2H, tracing a candidate circumplanetary disc (CPD) in the HD […] The post Circumplanetary Disk Candidate In The Disk of HD 163296 Traced By Localized Emission From Simple Organics appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10631">https://arxiv.org/abs/2601.10631</a></li>
+<li><a href="https://doi.org/10.3847/2041-8213/ae2f59">https://doi.org/10.3847/2041-8213/ae2f59</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.10631">https://doi.org/10.48550/arXiv.2601.10631</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/circumplanetary-disk-candidate-in-the-disk-of-hd-163296-traced-by-localized-emission-from-simple-organics.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] systems biology - biorXiv Preprints ▶ Scaling perturbations: beyond genome-scale CRISPR screens</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1"/>
