@@ -3,8 +3,106 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T23:17:01.920975+00:00</updated>
+  <updated>2026-01-17T01:18:42.507978+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [60] biochemistry - biorXiv Preprints ▶ Mechanistically Defined Epoxide- and Aziridine-2-carboxamide Electrophiles Enable Stereoselective Covalent RNA Modulation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699758v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699758v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>RNA remains a largely untapped target for covalent small-molecule intervention due to the lack of electrophiles with predictable reactivity and stability in biological settings. Here, a mechanisticall</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Defines tunable epoxide/aziridine electrophiles that selectively and stereoselectively covalently modify RNA (guanine N7), advancing mechanistic nucleic-acid chemistry with potential relevance to understanding RNA reactivity even though the work is primarily biomedical rather than prebiotic origins-focused.</p>
+<p><strong>Abstract:</strong> RNA remains a largely untapped target for covalent small-molecule intervention due to the lack of electrophiles with predictable reactivity and stability in biological settings. Here, a mechanistically defined and tunable class of epoxide- and aziridine-2-carboxamide electrophiles that enable structure-guided covalent targeting of RNA is described. These warheads arise from an unexpected hydrolytic rearrangement of 3-chloropivalamide precursors under physiological conditions and selectively react with guanine N7, with reactivity and stability controlled by substitution pattern, linkage chemistry, and stereochemistry. Application to two distinct RNA targets demonstrates generality: epoxide- and aziridine-based ligands covalently modify pathogenic r(CUG)exp repeat RNA and disrupt RNA-protein interactions in vitro and in cells, while structure-guided placement on a flavin scaffold yields stereoselective covalent modulators of the flavin mononucleotide (FMN) riboswitch with validated reaction site and cellular activity.Together, this work establishes epoxide- and aziridine-2-carboxamides as a versatile platform for covalent RNA targeting and provides a general framework for the rational design of stereochemically controlled RNA-reactive small molecules</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699758v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699758v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699758v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] cell biology - biorXiv Preprints ▶ Functionally Mature Bioengineered Human Skeletal Muscle Tissues Capture Essential Aspects of Glucose Metabolism</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.698404v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.698404v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Human skeletal muscle is a major regulator of whole-body metabolic homeostasis, yet mechanistic insight into human muscle plasticity is limited by the lack of in vitro models with adult-like metabolic</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Describes an in vitro workflow to generate metabolically and functionally mature bioengineered human skeletal muscle tissues for studying glucose metabolism, exercise-like adaptation, and pharmacological responses, with no direct relevance to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> Human skeletal muscle is a major regulator of whole-body metabolic homeostasis, yet mechanistic insight into human muscle plasticity is limited by the lack of in vitro models with adult-like metabolic and functional maturity. Here, we develop a workflow for generating bioengineered human skeletal muscle tissues that undergo coordinated structural, molecular, and functional maturation and stabilize in an adult-like state by day 21. Time-resolved RNA-seq and protein profiling reveal consolidation of contractile programs alongside progressive metabolic maturation, including increased mitochondrial electron transport chain content, mature mitochondrial network organization, and upregulation of glucose- and glycogen-handling proteins as well as muscle-enriched AMPK isoforms. Functionally, the tissues develop physiological force-frequency behavior, post-tetanic potentiation, and reproducible fatigue responses that are exacerbated by hypoxia and glucose withdrawal. Exercise-like chronic stimulation increases force and endurance with hypertrophy-like remodeling, and these adaptations reverse with detraining. The model also captures pharmacological responsiveness. Beta-adrenergic stimulation activates canonical signaling, increases force, limits disuse-related decline, and improves endurance in a glucose-dependent manner. Under physiological insulin and IGF-1 conditions, tissues show robust insulin-stimulated glucose uptake and glycogen synthesis, with punctate glucose transporter 4 (GLUT4) localization. Finally, knockdown of muscle glycogen synthase (GYS1) preserves peak tetanic force but impairs endurance and force recovery under fuel stress, indicating that glycogen metabolism is a key determinant of human muscle resilience.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.698404v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.698404v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.698404v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] biochemistry - biorXiv Preprints ▶ A Sustainable Approach to Natural Food Coloring: Alginate-Based Encapsulation and Stabilization of Beetroot Betalain</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699826v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699826v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Betalains are natural, water-soluble pigments that are chiefly extracted from Beta vulgaris(beetroot) and have been widely researched as natural food colorants attributed to their natural coloring abi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Food-science study showing alginate (and alginate+ascorbic acid) encapsulation improves the stability and controlled release of beetroot betalain pigments, with only tangential relevance to origins-of-life via general encapsulation chemistry in aqueous environments.</p>
+<p><strong>Abstract:</strong> Betalains are natural, water-soluble pigments that are chiefly extracted from Beta vulgaris(beetroot) and have been widely researched as natural food colorants attributed to their natural coloring ability and antioxidant properties. On the other hand, their use is restricted by their poor stability response against exposure to natural elements like light, temperature fluctuations, oxygen, and changes in pH, which causes rapid decomposition of pigments and loss of coloration. The scope of this research is to improve the stability response of beetroot extracted betalain against natural element exposure by employing alginate encapsulation and co-encapsulation techniques with food-grade components. Betalain extracts for this research are conducted through a method of methanolic extraction, and the concentration of the pigment is measured by UV-Visible Spectrophotometry at a wavelength of 535 nm. The encapsulation method is performed through the ionotropic gelation method of sodium alginate and calcium chloride, while the co-encapsulation method is performed by embedding L-ascorbic acid, which is naturally recognized as a non-toxic natural antioxidant agent, within the sodium alginate matrix. The above systems were assessed for color retention upon storage, pH stability at an acidic pH of 3 and basic pH of 9, and controlled release properties, in an aqueous environment. The results showed that alginate encapsulation of the betalains increased the retention of color stability and pH stability significantly when compared to the free pigment. Alginate co-encapsulation of the betalains performed better in color stability and controlled release properties because of the reduced diffusion caused by the addition of ascorbic acid. Generally, alginate co-encapsulation of the betalains offers a sustainable and food-friendly approach for the stabilization of the betalains for application in food colorants and controlled release systems</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699826v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699826v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699826v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] bioinformatics - biorXiv Preprints ▶ PathDiffusion: modeling protein folding pathway using evolution-guided diffusion</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699856v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699856v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Despite remarkable advances in protein structure prediction, a fundamental question remains unresolved: how do proteins fold from unfolded conformations into their native states? Here, we introduce Pa</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> PathDiffusion uses evolution-guided diffusion modeling trained on AlphaFold-scale data to generate temporally ordered protein folding pathways that match experimentally validated folding event sequences.</p>
+<p><strong>Abstract:</strong> Despite remarkable advances in protein structure prediction, a fundamental question remains unresolved: how do proteins fold from unfolded conformations into their native states? Here, we introduce PathDiffusion, a novel generative framework that simulates protein folding pathways using evolution-guided diffusion models. PathDiffusion first extracts structure-aware evolutionary information from 52 million predicted structures the AlphaFold database. Then an evolution-guided diffusion model with a dual-score fusion strategy is trained to generate high-fidelity folding pathways. Unlike existing deep learning methods, which primarily sample equilibrium ensembles, PathDiffusion explicitly models the temporal evolution of folding. On a benchmark of 52 proteins with experimentally validated folding pathways, PathDiffusion accurately reconstructs the order of folding events. We further demonstrate its versatility across four challenging applications: (1) recapitulating Anton&#x27;s molecular dynamics trajectory for 12 fast-folding proteins, (2) reproducing functionally important local folding-unfolding transitions in 20 proteins, (3) characterizing conformational ensembles of 50 intrinsically disordered proteins, and (4) resolving distinct folding mechanisms among 3 TIM-barrel proteins. We anticipate that PathDiffusion will be a valuable tool for probing protein folding mechanisms and dynamics at scale.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699856v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699856v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699856v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ The modular evolution of chitinases is governed by coevolution of auxiliary and catalytic domains</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>The modular architecture of multi-domain enzymes is a key source of functional diversity. GH18 chitinases exemplify this, possessing a variety of auxiliary domains that have been postulated to underpi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A large-scale phylogenetic and domain-architecture analysis of ~40,000 bacterial GH18 chitinases shows how coevolution between catalytic cores and auxiliary domains drives divergent evolutionary trajectories (high modular plasticity for environmental scavenging vs fixed architectures for lineage-specific developmental functions).</p>
+<p><strong>Abstract:</strong> The modular architecture of multi-domain enzymes is a key source of functional diversity. GH18 chitinases exemplify this, possessing a variety of auxiliary domains that have been postulated to underpin their role as essential global nutrient cyclers. However, there is no evolutionary framework that accounts for vast the assortment of domain compositions observed across the protein family. Here, we map the sequence space of nearly 40,000 bacterial chitinases, integrating phylogenetics with a quantitative analysis of domain promiscuity to decode their evolutionary history. We reveal that diversification follows distinct trajectories: enzymes necessary for environmental chitin scavenging evolve via high modular plasticity and structural elaboration of the catalytic core, whereas sequences required for specialized, essential developmental roles fix their domain architecture to fulfill lineage-specific physiological roles. By resolving how domain accretion co-evolves with catalytic scaffolds, this work provides a framework for understanding how multi-domain enzymes adapt to complex environments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] bioRxiv Subject Collection: Evolutionary Biology ▶ Adaptive evolution to thermal stress underpins climate resilience in a cosmopolitan arthropod</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Adaptive evolution enables species to survive and thrive under changing environmental conditions. In the face of accelerating global climate change, thermal stress represents a major challenge to the </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, DNA</p>
+<p><strong>AI Decision:</strong> Experimental evolution and multi-omics in a eukaryotic insect reveal genetic and metabolic mechanisms (including DNA methylation and an SOD allele) that enhance thermal-stress tolerance, offering only indirect astrobiology relevance via general principles of adaptation to changing environments.</p>
+<p><strong>Abstract:</strong> Adaptive evolution enables species to survive and thrive under changing environmental conditions. In the face of accelerating global climate change, thermal stress represents a major challenge to the persistence of terrestrial ectotherms. Understanding the genetic mechanisms underlying thermal adaptation is therefore critical for predicting species evolutionary potential and future success. Here, we combine experimental evolution, phenotypic assays, and multi-omics analyses to investigate the adaptive responses of the diamondback moth (Plutella xylostella), a globally destructive pest of cruciferous crops, to contrasting thermal environments. Populations evolved under hot (32{degrees}C/27{degrees}C) and cold (15{degrees}C/10{degrees}C) regimes exhibited distinct demographic and fitness traits relative to those maintained under favorable conditions (26{degrees}C). Integrated transcriptomic and metabolomic analyses revealed extensive transcriptional reprogramming and metabolic adjustments associated with temperature adaptation. Key pathways involved in lipid metabolism and DNA methylation were enriched, while functional validation using CRISPR-Cas9 confirmed that a mutant allele of PxSODC enhances superoxide dismutase activity and improves tolerance to thermal extremes. Together, these findings provides critical insights into this arthropod&#x27;s capacity for global dispersal and likely persistence under climate change, establishing a framework for understanding equivalent effects in other species.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ Neural microexons contain lengthened sequence and extended RNA structure between the branchpoint and splice site motif</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Microexons are extremely short exons that are highly conserved in vertebrates and are essential for normal brain development. Their small size poses a challenge for canonical exon-definition splice si</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Comparative analysis of human and chicken neural microexon splicing shows extended polypyrimidine tracts and unusually accessible branchpoint-to-3′ splice-site RNA regions, implicating structural accessibility (not conserved secondary structure) in developmental microexon regulation.</p>
+<p><strong>Abstract:</strong> Microexons are extremely short exons that are highly conserved in vertebrates and are essential for normal brain development. Their small size poses a challenge for canonical exon-definition splice site recognition, which typically relies on spliceosomal interactions across standard length exons. Here, we determine the sequence and RNA structural features of neural microexons in humans in comparison with chickens. We find that both human and chicken neural microexons share intronic features that extend the functional distance between the branchpoint and the 3&#x27; splice site, including distal positioning and lengthening of polypyrimidine tracts. Using experimental RNA structure-probing on a subset of neural microexons, we show that the human branchpoint-to-splice site region is unusually accessible and relatively unpaired compared to other exon classes. However, we find little support for shared RNA secondary structures between orthologous human and chicken precursor RNAs despite high sequence conservation. Using the chick embryo as a developmental model, we demonstrate that a subset of neural microexons undergo dynamic, stage-specific regulation during brain development that correlates with expression of known microexon regulators, SRRM4 and NOVA1. Our data suggest that neural microexon splicing fluctuates during brain development and may rely on an extended polypyrimidine tract and structural accessibility for splicing efficiency, rather than conserved secondary structures.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] bioinformatics - biorXiv Preprints ▶ mtDNA-Network: a web tool to explore mitochondrial variant profiles in complex diseases</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1"/>
@@ -6993,104 +7091,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [20] cell biology - biorXiv Preprints ▶ Topoisomerase I inhibition suppresses nuclear blebbing via RNA Pol II stalling and nuclear stiffening</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Abnormal nuclear blebbing occurs in many human diseases and causes nuclear rupture and dysfunction. Nuclear blebbing is caused by chromatin motion via RNA Pol II transcriptional activity and nuclear m</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This preprint shows that topoisomerase I inhibition (camptothecin) suppresses nuclear blebbing by stalling RNA Pol II and increasing chromatin-based nuclear stiffness, a eukaryotic cell-mechanics finding with only indirect relevance to origins-of-life questions about nucleic acid dynamics.</p>
-<p><strong>Abstract:</strong> Abnormal nuclear blebbing occurs in many human diseases and causes nuclear rupture and dysfunction. Nuclear blebbing is caused by chromatin motion via RNA Pol II transcriptional activity and nuclear mechanical weakening. Camptothecin, a topoisomerase I inhibitor, rapidly suppresses nuclear blebbing within hours. We find that camptothecin does not decrease RNA Pol II phosphorylation, but does decrease newly synthesized RNA, likely by stalling RNA Pol II. However, camptothecin treatment suppresses nuclear blebbing more drastically than inhibition of transcription activity by alpha amanitin, suggesting a second mechanism of nuclear blebbing suppression. Dual micromanipulation nuclear force measures revealed camptothecin treatment increased chromatin-based nuclear stiffness but not lamin-based strain stiffening. Thus, inhibition of topoisomerase I via camptothecin drastically suppresses nuclear blebbing by both stalling RNA Pol II and increasing chromatin-based nuclear stiffness.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698681v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Atlas of lysine acetylation in the mouse</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Lysine acetylation has widespread ramifications from genetic regulatory effects to modulation of enzymatic function. With improved acetyl-lysine enrichment technologies and advances in mass spectromet</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> A large-scale mass-spectrometry atlas mapping ~18k lysine acetylation sites across 15 mouse tissues, highlighting tissue-shared acetylation and functional examples (ribosome stability and Crat active-site acetylation) mainly relevant to mammalian metabolism/disease rather than origins-of-life research.</p>
-<p><strong>Abstract:</strong> Lysine acetylation has widespread ramifications from genetic regulatory effects to modulation of enzymatic function. With improved acetyl-lysine enrichment technologies and advances in mass spectrometer speed and sensitivity, we present a comprehensive atlas of the mouse acetylome comprising 17,952 unique lysine acetylation sites across 4,340 proteins and 15 tissues. This resource, which nearly doubles the known mouse acetyl-lysine catalog, shows at least 14% of the acetylome is shared across tissues. We focus our investigation on several acetylated proteins, including ribosomal acetylation and its potential to extend ribosomal half-life in the liver and pancreas. Additionally, we identify a novel acetylation event in the active site of carnitine O-acetyltransferase (Crat) that also mirrors tissue-specific Crat activity. By integrating these data with human pathogenic variants, we identify acetyl-lysine residues on cardiac troponin and homogentisate dioxygenase that likely mimic disease-causing mutations. This resource provides a foundational framework for investigating protein acetylation in metabolic health and disease.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] biochemistry - biorXiv Preprints ▶ Chemical composition and antioxidant properties of Thai propolis: Role of caffeic acid phenethyl ester (CAPE)</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698791v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698791v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Propolis, a resinous substance produced by Apis mellifera, is rich in polyphenols and flavonoids and exhibits diverse biological activities, including antioxidant and antimicrobial effects. This study</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Analyzes Thai propolis extracts and identifies CAPE as a key antioxidant that scavenges radicals and protects plasmid DNA from oxidative damage, with limited direct relevance to origins-of-life beyond nucleic acid stability under oxidative stress.</p>
-<p><strong>Abstract:</strong> Propolis, a resinous substance produced by Apis mellifera, is rich in polyphenols and flavonoids and exhibits diverse biological activities, including antioxidant and antimicrobial effects. This study aimed to characterize the chemical composition of Thai propolis and evaluate its free radical scavenging activity. Ethanolic (EEP) and aqueous (WEP) extracts were prepared and analyzed. Gas chromatography-mass spectrometry (GC-MS) identified major constituents of EEP, including phenolic acids, flavonoids, and sugars. Antioxidant activities were assessed using DPPH and hydrogen peroxide scavenging assays. EEP exhibited significantly higher radical scavenging activity than WEP, with maximum DPPH inhibition of 87.46% at 5 mg/mL. CAPE effectively scavenged superoxide and hydroxyl radicals and protected plasmid DNA from oxidative damage. These results highlight CAPE as bioactive compound contributing to the antioxidant properties of Thai propolis. Thai propolis, particularly its ethanolic extract, represents a promising natural source of antioxidants for potential applications in nutraceuticals, functional foods, and oxidative stress-related disease prevention.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698791v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698791v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698791v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] biochemistry - biorXiv Preprints ▶ A proline-rich-domain-binding single domain antibody selectively inhibits RNA-induced liquid-liquid phase separation of tau</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Liquid-liquid phase separation (LLPS) mediates the formation of biomolecular condensates, which organize cellular processes such as synaptic plasticity and stress response. The neuronal microtubule-as</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study dissects how RNA-driven complex coacervation (LLPS) of the protein tau depends on a specific proline-rich domain and shows that a single-domain antibody can selectively block RNA-induced droplet formation, offering mechanistic insight into RNA-mediated condensate assembly relevant to compartmentalization concepts (though not directly prebiotic).</p>
-<p><strong>Abstract:</strong> Liquid-liquid phase separation (LLPS) mediates the formation of biomolecular condensates, which organize cellular processes such as synaptic plasticity and stress response. The neuronal microtubule-associated protein tau undergoes LLPS under specific conditions, regulating synaptic vesicle clustering and microtubule dynamics. In vitro, tau LLPS is induced by cofactors such as polyethylene glycol (PEG) or RNA, mainly via weak multivalent electrostatic interactions. However, the molecular mechanisms governing the formation of tau LLPS, including domain specific contribution, remain unclear. In this study, we used eight single-domain antibodies (VHHs), targeting six distinct short sequences of tau, to explore the mechanisms of tau LLPS in vitro. By combining several biophysical methods, we evaluated the effect of each anti-tau VHH on tau LLPS with two main LLPS inducers, PEG (molecular crowding) and RNA (complex coacervation). With PEG as an inducer, all VHHs targeting tau enhanced tau LLPS formation, regardless of their affinity for tau. With RNA as an inducer, the effect of the VHHs was mixed: VHHs targeting the C-terminal domain promoted condensation, while VHH B1-1, which binds the proline-rich domain (PRD; including residues (221REPKKVAVVRTP232), abolished droplet formation. NMR and surface plasmon resonance confirmed 1 to 1 binding of VHH B1-1 to the PRD, and competition assays with a PRD peptide restored LLPS, demonstrating mechanistic specificity. This result underscores the importance of this region in tau LLPS formation. Our findings provide domain-resolved insights into the regulation of tau LLPS and demonstrate the potential of VHHs as tools to selectively modulate biomolecular condensates in physiological and pathological contexts.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698559v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] molecular biology - biorXiv Preprints ▶ Ploidy-dependent modulation of DNA replication kinetics in Xenopus</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>DNA replication in multicellular organisms follows a tightly regulated spatio-temporal program. Although the mechanisms underlying this replication program remain only partially understood, studies in</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Using Xenopus egg-extract replication assays across diploid to dodecaploid species, the study shows ploidy can tune fork density/speed and S-phase duration, informing how eukaryotic DNA replication programs adapt after genome duplication (indirectly relevant to life’s evolutionary mechanisms rather than prebiotic origins).</p>
-<p><strong>Abstract:</strong> DNA replication in multicellular organisms follows a tightly regulated spatio-temporal program. Although the mechanisms underlying this replication program remain only partially understood, studies in model systems such as Xenopus laevis have highlighted the importance of titrating low-abundance replication factors. Whole-genome duplications as a consequence of polyploidization introduce additional layers of complexity, yet comparative analyses of replication programs across closely related polyploid species are scarce. Here, we developed an interspecies in vitro replication system using X. laevis egg extracts and sperm nuclei from three Xenopus species with varying ploidy: diploid (X. tropicalis), tetraploid (X. laevis), and dodecaploid (X. eysoole). Replication in diploid X. tropicalis was faster than in tetraploid X. laevis nuclei, due to higher fork density and speed. Surprisingly, dodecaploid X. eysoole replication was also accelerated compared to tetraploid nuclei, suggesting that higher ploidy does not necessarily extend S phase. Since replication genes are highly conserved between these species, these results imply dynamic tuning of replication programs across polyploid species and shed light on the evolutionary adaptability of DNA replication in response to genome duplication.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698760v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ Molecular signatures and cellular responses underlying hypoxic adaptation in sea turtles</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Hypoxia-inducible factors (HIFs) are transcriptional regulators that orchestrate the canonical response to low-oxygen tension in animal cells. Vertebrates possess three HIF-a isoforms, which arose fro</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study compares reptile hypoxia responses and finds turtle-specific selection on HIF-3α and a distinctive E2F1-linked transcriptional program, informing how eukaryotic cells can adapt to low-oxygen environments but with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Hypoxia-inducible factors (HIFs) are transcriptional regulators that orchestrate the canonical response to low-oxygen tension in animal cells. Vertebrates possess three HIF-a isoforms, which arose from two gene duplication events of the ancestral HIF-1a gene. Here, we examined whether the HIF gene family (HIF-1a, HIF-2a, HIF-3a, and HIF-1aN inhibitor) shows evidence of positive selection in hypoxia-tolerant reptiles (Testudines), compared evolutionary patterns within the family, and assessed the transcriptional response to hypoxia in primary cells derived from a hypoxia-tolerant (Caretta caretta) and a non-tolerant (Sceloporus occidentalis) reptile. We found that HIF-1a, HIF-2a, and HIF-1aN are highly conserved across reptiles, whereas HIF-3a is under positive selection in Testudines. We also identified multiple novel regulatory motifs unique to Testudines. Transcriptional signatures of hypoxia exposure indicated stark differences between lizards and turtles. Whereas lizard cells exhibited a canonical response to hypoxia, characterized by enriched cell-survival pathways, sea turtle cells exhibit a robust, distinctive transcriptional response involving enriched pathways related to protein synthesis, quality maintenance, and mitochondrial integrity. Surprisingly, cis-regulatory element analysis did not show HIFs as key regulators of the transcriptional response in either species. Instead, TFDP1 in lizard cells and E2F1 in sea turtle cells emerged as potential key regulators. TFDP1 regulates the cell cycle, specifically DNA synthesis and cell cycle progression, while E2F regulates DNA-damage response, apoptosis, metabolism, and fatty acid biosynthesis. These results suggest that the reptilian response to hypoxia is shaped by transcriptional plasticity, while highlighting key regulatory mechanisms driving hypoxic adaptation in sea turtle cells. However, positive selection of HIF-3a and novel HIF motifs suggest a combined, but yet to be uncovered, contribution of regulatory and coding sequence evolutionary mechanisms shaping hypoxia tolerance in Testudines.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698755v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] biophysics - biorXiv Preprints ▶ 3D confinement reshapes RNA folding and enhances circularisation in the Zika virus</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Many RNA molecules function within confined environments, but the effect of confinement on RNA folding remains poorly understood. Proximity ligation experiments reveal altered long-range contacts in c</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Combining proximity-ligation data with coarse-grained simulations, the authors show that 3D confinement (as in virions) reshapes long-range RNA contacts and increases Zika genome circularization, highlighting how spatial constraints can bias RNA structural ensembles.</p>
-<p><strong>Abstract:</strong> Many RNA molecules function within confined environments, but the effect of confinement on RNA folding remains poorly understood. Proximity ligation experiments reveal altered long-range contacts in confined versus unconfined states, yet they do not explain how spatial constraints give rise to these differences. Here, we develop a physical modeling approach that incorporates proximity ligation data into coarse-grained molecular dynamics simulations to reconstruct RNA 3D structures under confinement. We test our model on the ~11 kb genome of the Zika virus, comparing the folding in virions (confined) and in cells (unconfined). We observe that the probability of contact between two regions of the genome vs. linear distance follows different scaling laws in the confined and unconfined cases, in agreement with proximity ligation experiments. We find that genome circularization -- an interaction that regulates replication in Zika -- occurs more frequently under confinement in both experiments and simulations. Our model reveals that the formation of long double-stranded stems through stacking confers local nematic liquid crystalline order to the RNA, and predicts pseudoknot topologies consistent with those seen in crystallographic structures of shorter RNAs. These results provide insight into the mechanism through which confinement alters the ensemble of 3D structures accessible to a long RNA molecule.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [30] Sciences et Avenir ▶ Sortie de l&#x27;eau : le grand boom de la biodiversité</title>
     <link href="https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4"/>
     <id>https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4</id>
@@ -7115,33 +7115,6 @@
 <p><a href="https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟢 [80] nature.com - Biological sciences ▶ A programmable ribozyme for RNA signal transduction</title>
-    <link href="https://www.nature.com/articles/s41467-025-68175-5"/>
-    <id>https://www.nature.com/articles/s41467-025-68175-5</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Nature Communications study engineering a programmable ribozyme-based RNA signal-transduction circuit, strengthening the plausibility of RNA-world-like catalytic networks relevant to origins-of-life chemistry.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-68175-5">https://www.nature.com/articles/s41467-025-68175-5</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-68175-5">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [90] bioRxiv Subject Collection: Evolutionary Biology ▶ Simple case of prebiotic evolution: vesicle populations can respond to selection for greater turbidity via emergent cooperative dynamics</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Adaptive evolution has long been hypothesized to be possible in the absence of genetic molecules, but experimental evidence remains lacking. Fatty acid vesicles represent an intriguing model to study </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, prebiotic</p>
-<p><strong>AI Decision:</strong> In replicated selection experiments, fatty-acid vesicle populations show an increased turbidity phenotype consistent with emergent cooperative, inheritance-like dynamics during growth/division—supporting the plausibility of pre-genetic (protocell) evolution in prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Adaptive evolution has long been hypothesized to be possible in the absence of genetic molecules, but experimental evidence remains lacking. Fatty acid vesicles represent an intriguing model to study the emergence of prebiotic evolution, since they can spontaneously grow and divide and have been hypothesized to be capable of non-genetic inheritance. In this study we conducted multiple experiments to test whether vesicle populations can respond to artificial selection for greater turbidity and, if so, whether that response can be tied to an inheritance-like mechanism. We prepared 96 independent vesicle populations, incubated them for 24 hours and then selected half the populations to propagate into the next generation. The populations to propagate were picked either randomly ,representing drift controls, or were the populations with the greatest turbidity, representing selection. Population propagation involved resuspension, transfer into fresh buffer, feeding with an amphiphile stock, and then incubating for the next 24 hours. In three replicate experiments run for at least 10 generations, we observed consistently greater turbidity in selection lineages compared to drift, as well as a reduction in the heritability (i.e., the correlation between parent and offspring turbidities). We conducted additional experiments to evaluate whether this response to selection is caused by a simple carryover effect or reflects cooperative dynamics, where vesicles from the parental generation affect newly formed vesicles in the offspring generation. The response to selection is much lower if we omitted the resuspension step and/or if we did not feed transfers with amphiphiles but instead mixed them we pre-formed vesicles. Combined with imaging and other analyses of the resuspension and feeding process, these results suggest that cooperative vesicle dynamics occur, where a small number of intact vesicles from a parental generation alters the dynamics of new vesicle formation following food addition. Overall, this study represents the first experimental finding of a response to artificial selection in prebiotic chemistry.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698687v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [0] Sciences et Avenir ▶ Plusieurs milliers de médecins défilent à Paris et en appellent à Lecornu</title>
     <link href="https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16"/>
     <id>https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16</id>
@@ -7152,99 +7125,5 @@
 <p><strong>Abstract:</strong> Plusieurs milliers de médecins libéraux en grève depuis lundi défilent samedi à Paris contre une &quot;dérive autoritaire&quot; qui menace selon eux leur &quot;liberté d&#x27;exercice&quot;, appelant le Premier ministre Sébastien Lecornu à leur &quot;faire des propositions&quot;. &quot;Maltraiter les soignants, c&#x27;est maltraiter les patients&quot;, proclame la banderole de tête portée par les syndicats représentatifs des professionnels. Parmi les slogans des manifestants, venus nombreux en blouse blanche, &quot;on veut des soignants pas des sanctions&quot;, &quot;la Sécu parle chiffres, nous parlons patients&quot; ou encore, à l&#x27;intention du gouvernement, &quot;nous ne sommes pas des pions de vos échecs&quot;.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Hydrogen-Bonding Primary and Secondary Coordination Sphere Effects on Water Oxidation Catalyzed by Transition Metal Complexes</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Rising energy needs, the threat of climate change, and the diminishing reserves of non-renewable energy underscore the urgency for advancing alternative, sustainable, clean energy sources. Hydrogen is</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Review of how hydrogen-bonding networks in transition-metal water-oxidation catalysts tune proton transfer, stability, and electronic structure, offering broadly relevant insights into aqueous redox catalysis but only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Rising energy needs, the threat of climate change, and the diminishing reserves of non-renewable energy underscore the urgency for advancing alternative, sustainable, clean energy sources. Hydrogen is currently appraised as a logical, sustainable power source, with electrochemical water splitting emerging as a critical method for its production. Water oxidation, a key step in artificial photosynthesis, remains a significant challenge in the development of sustainable energy systems. Transition metal complexes have emerged as promising catalysts for this reaction due to their tunable structures and remarkable catalytic properties. Among the various factors influencing their performance, hydrogen bonding has gained increasing attention as a critical element in shaping catalytic efficiency and reaction pathways. The review explores the multifaceted role of hydrogen bonding in transition metal-based water oxidation catalysts, highlighting its impact on structural stability, proton transfer dynamics, and electronic modulation of active sites. We discuss recent advancements in understanding how hydrogen-bonding interactions influence catalytic activity and selectivity, drawing on both experimental findings and computational insights. By shedding light on the pivotal role of hydrogen bonding, this review aims to inspire innovative approaches for designing next-generation catalysts for sustainable water-splitting technologies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] ChemRxiv ▶ Mechanistic Study of Glycerol Electro-oxidation on Ni(OH)₂/NiOOH electrodes</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Glycerol oxidation reaction (GOR) is a promising valorisation route to upgrade the biodiesel by-product while co-producing green hydrogen at the cathode in electrolysers. However, the working mechanis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Operando spectroelectrochemistry identifies NiOOH (Ni3+) as the active oxidant for glycerol electro-oxidation and shows glycerol adsorption is rate-limiting while suppressing higher-valent Ni species and competing OER, offering mechanistic insight into Ni-based redox catalysis that is only tangentially relevant to origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Glycerol oxidation reaction (GOR) is a promising valorisation route to upgrade the biodiesel by-product while co-producing green hydrogen at the cathode in electrolysers. However, the working mechanism of transition-metal-based catalysts such as Ni(OH)₂ remains poorly understood. Here, we employed a multi-operando spectroelectrochemical approach combining UV–Vis optical spectroscopy, soft X-ray absorption spectroscopy, and time-resolved stepped-potential spectroscopy to investigate the active oxidising species and charge-transfer dynamics under OER and GOR conditions. We identified the NiOOH (Ni3+) as the active species for GOR, whereas the formation of higher valent NiOO (Ni4+) species is completely suppressed in the presence of glycerol. The accumulation of surface adsorbed glycerol molecules is rate-determining, (τ ~ 27.9 s at 1.47 VRHE), occuring slower than the intrinsic catalytic step of glycerol reaction ( τ ~ 3.2 s at 1.47 VRHE), which involves oxidation and bond cleavage. In contrast, OER has significantly slower kinetics (τ ~167 s at 1.47 VRHE), resulting in the dominance of GOR and suppresion of oxygen evolution in the presence of glycerol. The potential-independent production of formic acid during GOR follows an apparent first-order dependence on NiOOH concentration, suggesting continuous C-C bond cleavage activated by reactive *O species. These findings link oxidising species with charge-transfer dynamics, providing insight for the rational design of Ni-based catalysts for glycerol and other biomass-derived molecule oxidations.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] ChemRxiv ▶ Single-Particle Visualization of Water Uptake of Organic–Inorganic Aerosols with In-Situ Transmission Electron Microscopy</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Atmospheric aerosol water uptake properties influence cloud formation and precipitation, atmospheric chemistry, and global climate. Atmospheric aerosols often contain organic acids and inorganic hygro</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> In-situ TEM reveals multistep humidity-driven swelling, deliquescence, and drying-induced salt formation in mixed phthalic acid/NaCl aerosols, improving mechanistic understanding of aerosol water uptake with only indirect relevance to origins-of-life via planetary climate/chemistry.</p>
-<p><strong>Abstract:</strong> Atmospheric aerosol water uptake properties influence cloud formation and precipitation, atmospheric chemistry, and global climate. Atmospheric aerosols often contain organic acids and inorganic hygroscopic salts, and their internal mixing influences water uptake properties in complex and non-intuitive ways. The heterogeneous nature of aerosol ensembles necessitates nanoscale visualization of aerosol mixing state and water uptake dynamics to uncover mechanistic details. Here we demonstrate that water uptake in phthalic acid (PTA)/sodium chloride (NaCl) aerosols proceeds by PTA swelling, NaCl deliquescence, and droplet growth, while subsequent drying creates core-shell particles containing newly formed sodium phthalate salts. Lab-made individual PTA/NaCl aerosols consisted of cuboidal crystalline NaCl domains phase separated from amorphous PTA domains. Sodium ions were observed in both NaCl and PTA domains, which were separated by a ~10 nm thick interphase with distinct composition and structure. Humidity controlled in-situ TEM imaging revealed PTA/NaCl aerosols initially uptake water by adsorption and swelling of the PTA. Further increases in humidity cause NaCl deliquescence, hygroscopic droplet growth, and partial dissolution and morphology changes in the PTA. Dehumidification initially causes precipitation of an organic-rich shell followed by a polycrystalline NaCl core, yielding a distinctly different core-shell morphology compared to the as-made particles. Diffraction and elemental mapping confirm crystalline sodium acid phthalate forms following dehumidification. This work solidifies our understanding of water uptake and chemical reactions in mixed organic-inorganic atmospheric aerosols by uncovering multistep water uptake dynamics and new phase formation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] ChemRxiv ▶ Zeolite based thermal energy storage to leverage industrial waste heat for data center cooling</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Data centers (DCs) represent a rapidly growing segment of electricity demand, with a substantial share of their consumption attributed to cooling needs. We propose a zeolite-based thermal energy stora</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Engineering study proposing a zeolite adsorption/desorption thermal energy storage system to convert industrial low-grade waste heat into data center cooling, reducing electricity use substantially while modestly increasing net water consumption.</p>
-<p><strong>Abstract:</strong> Data centers (DCs) represent a rapidly growing segment of electricity demand, with a substantial share of their consumption attributed to cooling needs. We propose a zeolite-based thermal energy storage (TES) system that harnesses low-grade waste heat (&lt;200 °C) from nearby industrial facilities to provide cooling for DCs. The system operates through spatially and temporally decoupled adsorption (discharging) and desorption (charging) steps: (a) industrial waste heat drives zeolite desorption, and (b) DC heat rejection facilitates water evaporation, enabling zeolite adsorption. Computational modeling of the thermodynamic cycle quantifies the electricity and water implications of the concept, showing (a) electricity savings exceeding 75% for the combined DC + industrial facility (~86% for the DC alone) relative to a benchmark configuration using a compression chiller and cooling tower, and (b) a modest increase in water consumption for the combined facility (14.8 – 23.9%), despite a reduction of 76.5 – 90.1% % in the industrial facility’s standalone water use. Geospatial analysis of existing DC and industrial facility locations shows that the two are typically in close proximity (median distance of 57 km). As a result, even when transportation energy requirements are considered, via an electrified truck, system-wide electricity savings could be notable in many scenarios (as high +45%). We discuss engineering design considerations, alternative deployment configurations, as well as geographic and coordination requirements for their widespread adoption.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] ChemRxiv ▶ Native Charge Detection Mass Spectrometry of Kilobase-Scale Messenger RNAs</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-10T00:00:00Z</updated>
-    <summary>Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for lar</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Demonstrates native charge detection mass spectrometry for accurate intact mass/charge profiling of kilobase-scale mRNAs and their impurities, advancing analytical capabilities for large RNA molecules but with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for large, heterogeneous biomolecules. Messenger RNAs (mRNAs) represent a particularly challenging analytical target, as transcripts often span thousands of nucleotides, exhibit substantial heterogeneity, and form higher-order oligomers that are difficult to assess using existing workflows. Here, we optimize and evaluate native CDMS for intact analysis of long mRNAs and conduct systematic comparison of positive and negative analysis polarities. Using a panel of commercially available mRNAs ranging from approximately 1,000 to 4,500 nucleotides, we demonstrate that native CDMS enables direct, and accurate mass measurement of intact mRNAs alongside various process-related impurities (truncations, dimers etc.). Collisional activation improves mass accuracy by reducing adduct heterogeneity while preserving the ability to resolve impurity populations. Across all constructs, CDMS provides quantitative access to charge distributions that scale with transcript length and respond predictably to activation, denaturation, and polarity, offering insight into ion charging behavior and charge accommodation for large RNAs. Negative polarity measurements generally access higher charge states than positive polarity, particularly for the largest transcripts, improving sensitivity and relative size discrimination, while intact mass accuracy remains comparable between polarities when appropriate ion transmission strategies are employed. Together, these results establish native CDMS as a versatile and information-rich platform for intact mRNA characterization, providing simultaneous access to mass, charge, and impurity information that complements existing analytical methods and supports emerging needs in RNA biotherapeutic development.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence</title>
-    <link href="https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html"/>
-    <id>https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html</id>
-    <updated>2026-01-10T00:49:07Z</updated>
-    <summary>Dr. Jill Tarter, co-founder of the SETI Institute and one of the most influential figures in the scientific search for life beyond Earth, has been named the recipient of the 2026 Green Sands Prize. Th</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> A news-style award announcement highlighting Jill Tarter’s leadership in SETI, relevant to astrobiology broadly but not directly to origins-of-life mechanisms or prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Dr. Jill Tarter, co-founder of the SETI Institute and one of the most influential figures in the scientific search for life beyond Earth, has been named the recipient of the 2026 Green Sands Prize. The Green Sands Inspiration Prize is awarded to trailblazers who have the courage to go first, take on risks and personal […] The post Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Dale Andersen’s Astrobiology Antarctic Status Report: 9 January 2026: Building Our New Storage Facility At Novolazarevskaya Station</title>
-    <link href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html"/>
-    <id>https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html</id>
-    <updated>2026-01-10T00:42:01Z</updated>
-    <summary>Hi Keith, we had another busy day moving and sorting gear. We hope to wrap that up tomorrow, and if everything comes together, we will head out on the traverse to Lake Untersee Sunday morning. The wea</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, water, evolution</p>
-<p><strong>AI Decision:</strong> Field status update from an astrobiology team in Antarctica focused on logistics (building/moving gear and preparing for a traverse), with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Hi Keith, we had another busy day moving and sorting gear. We hope to wrap that up tomorrow, and if everything comes together, we will head out on the traverse to Lake Untersee Sunday morning. The weather has been pleasant—maybe a little too warm during the day—but sunny, with little wind for most of it, […] The post Dale Andersen’s Astrobiology Antarctic Status Report: 9 January 2026: Building Our New Storage Facility At Novolazarevskaya Station appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

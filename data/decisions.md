@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Neural microexons contain lengthened sequence and extended R](https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1) |
+| ai_scored | 35 | [Adaptive evolution to thermal stress underpins climate resil](https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1) |
+| ai_scored | 45 | [The modular evolution of chitinases is governed by coevoluti](https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1) |
+| ai_scored | 40 | [PathDiffusion: modeling protein folding pathway using evolut](https://www.biorxiv.org/content/10.64898/2026.01.16.699856v1?rss=1) |
+| ai_scored | 10 | [A Sustainable Approach to Natural Food Coloring: Alginate-Ba](https://www.biorxiv.org/content/10.64898/2026.01.15.699826v1?rss=1) |
+| ai_scored | 0 | [Functionally Mature Bioengineered Human Skeletal Muscle Tiss](https://www.biorxiv.org/content/10.64898/2026.01.16.698404v1?rss=1) |
+| ai_scored | 60 | [Mechanistically Defined Epoxide- and Aziridine-2-carboxamide](https://www.biorxiv.org/content/10.64898/2026.01.15.699758v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116201828&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [4D multimodal wound healing atlas reveals organ-level contro](https://www.biorxiv.org/content/10.64898/2026.01.15.699736v1?rss=1) |
+| keyword_rejected | - | [A comparative investigation of the mannose binding interface](https://www.biorxiv.org/content/10.64898/2026.01.16.699853v1?rss=1) |
+| keyword_rejected | - | [Reconstructing a Missing Link of HIV-1 Assembly: HIV-1 Envel](https://www.biorxiv.org/content/10.64898/2026.01.15.699503v1?rss=1) |
+| keyword_rejected | - | [Illuminating spatial dynamics of glutamine metabolism with a](https://www.biorxiv.org/content/10.64898/2026.01.15.699810v1?rss=1) |
+| keyword_rejected | - | [Discovery of the Phosphonate Flavophos Produced by Burkholde](https://www.biorxiv.org/content/10.64898/2026.01.15.699783v1?rss=1) |
+| keyword_rejected | - | [Microhomology-mediated end joining acts directly on replicat](https://www.biorxiv.org/content/10.64898/2026.01.15.699632v1?rss=1) |
+| keyword_rejected | - | [Structural and mechanistic basis of ubiquitous bacterial kin](https://www.biorxiv.org/content/10.64898/2026.01.15.699779v1?rss=1) |
+| keyword_rejected | - | [GARD: Genomic Data based Drug Repurposing in Head and Neck C](https://www.biorxiv.org/content/10.64898/2026.01.15.699561v1?rss=1) |
+| keyword_rejected | - | [TcrDesign: De novo design of epitope specific full-length T ](https://www.biorxiv.org/content/10.64898/2026.01.15.699824v1?rss=1) |
+| keyword_rejected | - | [Mitigating Bias in Spatial Transcriptomic Pipelines via Huma](https://www.biorxiv.org/content/10.64898/2026.01.15.699786v1?rss=1) |
+| keyword_rejected | - | [NetCrafter: Ontology-derived gene network modeling and inter](https://www.biorxiv.org/content/10.64898/2026.01.16.699831v1?rss=1) |
+| keyword_rejected | - | [Eg5 activity and density-driven bundling organize the human ](https://www.biorxiv.org/content/10.64898/2026.01.16.699769v1?rss=1) |
+| keyword_rejected | - | [Cooperative Regulation of Membrane Domain Registration by Li](https://www.biorxiv.org/content/10.64898/2026.01.16.699701v1?rss=1) |
 | ai_scored | 93 | [Emergence of diverse ligase reactivities from a single RNA e](https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1?rss=1) |
 | ai_scored | 20 | [Origins and metabolic evolution of multifunctionality in Met](https://www.biorxiv.org/content/10.64898/2026.01.15.699721v1?rss=1) |
 | ai_scored | 40 | [mtDNA-Network: a web tool to explore mitochondrial variant p](https://www.biorxiv.org/content/10.64898/2026.01.15.699732v1?rss=1) |
