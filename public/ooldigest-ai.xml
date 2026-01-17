@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T10:16:33.846383+00:00</updated>
+  <updated>2026-01-17T11:14:12.479758+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [25] cell biology - biorXiv Preprints ▶ Primed-to-naive conversion of pluripotent stem cells can be tracked by specific DNA methylation changes for optimized culture conditions</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>During early embryonic development, cells transition from naive to primed pluripotent state. Various culture conditions have been established to revert primed cells back to naive state, to increase di</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study refines culture conditions for converting primed to naive pluripotent stem cells and introduces a DNA methylation–based two-site biomarker to quantitatively track pluripotent state transitions, with only indirect relevance to origins-of-life questions via epigenetic regulation of cellular states.</p>
+<p><strong>Abstract:</strong> During early embryonic development, cells transition from naive to primed pluripotent state. Various culture conditions have been established to revert primed cells back to naive state, to increase differentiation potential and to reset epigenetic abnormalities. In this study, we modified culture conditions to allow primed-to-naive conversion under feeder-independent and normoxic conditions (FINO medium), which exemplified the need for a quantitative measure of pluripotent states. DNA methylation (DNAm) profiling revealed extensive hypomethylation at naive state, but also significant gains of methylation at specific sites in the genome. We demonstrate that DNAm patterns can be used to benchmark culture protocols. Furthermore, we developed a naive-score based on DNAm at two genomic sites, which can be analyzed by digital PCR to monitor transition between pluripotent states. Our study describes a simplified culture protocol for primed-to-naive conversion, offers insights into the specific DNAm changes, and introduces a robust DNAm-based biomarker to track this process effectively.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] biophysics - biorXiv Preprints ▶ Structural heterogeneity in mRNA-LNP subpopulations revealed by AF4-SAXS: implications for cargo loading and cell transfection</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>Lipid nanoparticles are the leading platform for the delivery of nucleic acid therapeutics, yet their structural complexity remains a significant barrier to achieve rational design and predictable fun</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
+<p><strong>AI Decision:</strong> This preprint uses AF4-SAXS, cryo-EM, and single-particle analyses to show that mRNA-loaded lipid nanoparticles form heterogeneous structural subpopulations whose internal organization and cargo uniformity correlate with transfection efficiency, offering indirect insights into nucleic-acid compartmentalization/self-organization rather than core origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Lipid nanoparticles are the leading platform for the delivery of nucleic acid therapeutics, yet their structural complexity remains a significant barrier to achieve rational design and predictable function. Part of this complexity arises from the non-equilibrium assemblies that are difficult to identify using ensemble average techniques given the substantial heterogeneity in all properties. Aiming to overcome the limitations of traditional characterization methods, we combined asymmetric flow field-flow fractionation with in-line small-angle X-ray scattering and spectroscopic analyses, nanoflow cytometry, and cryo-EM to construct detailed structural models of mRNA-loaded nanoparticles formulated with different amounts of mRNA loading (N/P ratios of 3 and 6). This combination of techniques revealed that microfluidic formulation produces structurally diverse nanoparticle subpopulations differing in size, anisotropy, and cargo loading. Notably, these variations extend to the particle internal organization: spheroidal geometries display densely loaded mRNA cores, whereas bleb-like morphologies exhibit reduced mRNA content relative to the lipid amount within segregated domains at the core. NanoFCM further shows that the N/P ratio modulates cargo distribution across individual nanoparticles, with N/P=6 yielding a more uniform mRNA copy number per particle across subpopulations than N/P=3. These differences resulted in higher transfection efficacies for the N/P=6 formulation, highlighting core organization and loading homogeneity as key parameters for efficacious delivery. Together, these results establish a direct link between LNP architecture, internal organization, cargo distribution, and transfection efficiency, underscoring the importance of accounting for heterogeneity in the rational design of nucleic acid delivery systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] cell biology - biorXiv Preprints ▶ ATM-dependent RHEB phosphorylation couples DNA damage to lysosomal mTORC1 signaling to orchestrate the cellular response to genotoxic stress</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>Cells dynamically adapt to environmental stressors by rewiring signaling networks that coordinate growth, metabolism and genome maintenance. The DNA damage response (DDR) and mTORC1 signaling pathways</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study reveals an ATM–RHEB–mTORC1–TFEB signaling axis linking DNA damage to lysosomal adaptation and recovery after genotoxic stress, offering cell-biology context but limited direct relevance to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Cells dynamically adapt to environmental stressors by rewiring signaling networks that coordinate growth, metabolism and genome maintenance. The DNA damage response (DDR) and mTORC1 signaling pathways govern DNA repair and cell growth, respectively, but how these pathways intersect remains incompletely understood. Here, we identify RHEB, the most direct mTORC1 activator, as a substrate of the DDR kinase ATM. Strikingly, we find that, although genotoxic stress differentially regulates mTORC1 activity, reducing the phosphorylation of its lysosomal target TFEB, while enhancing phosphorylation of its cytoplasmic target S6K, the DDR-induced phosphorylation of RHEB specifically controls the lysosomal mTORC1 signaling branch. Preventing RHEB phosphorylation impairs TFEB nuclear translocation and lysosome biogenesis upon DNA damage. Functionally, the RHEB phosphorylation-dependent TFEB response is required for proliferative recovery following genotoxic stress. These findings uncover an ATM-RHEB-mTORC1-TFEB signaling axis that links DNA damage to selective mTORC1 outputs, revealing a mechanism which enables cells to adapt to genotoxic cues.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] nature.com - Biological sciences ▶ A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation</title>
     <link href="https://www.nature.com/articles/s41467-026-68416-1"/>

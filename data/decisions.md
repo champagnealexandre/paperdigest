@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [ATM-dependent RHEB phosphorylation couples DNA damage to lys](https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1) |
+| ai_scored | 30 | [Structural heterogeneity in mRNA-LNP subpopulations revealed](https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1) |
+| ai_scored | 25 | [Primed-to-naive conversion of pluripotent stem cells can be ](https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1) |
+| keyword_rejected | - | [A new book provides a toolkit to tackle anxiety. Can it real](https://www.newscientist.com/article/mg26935780-600-a-new-book-provides-a-toolkit-to-tackle-anxiety-can-it-really-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [A new book provides a toolkit to tackle anxiety. Can it real](https://www.newscientist.com/article/mg26935780-600-a-new-book-provides-a-toolkit-to-tackle-anxiety-can-it-really-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [A new book provides a toolkit to tackle anxiety. Can it real](https://www.newscientist.com/article/mg26935780-600-a-new-book-provides-a-toolkit-to-tackle-anxiety-can-it-really-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Molecular heterogeneity of the non-human primate cochlea](https://www.nature.com/articles/s41467-026-68350-2) |
+| keyword_rejected | - | [Aperiodic 1/f noise drives ripple activity in humans](https://www.nature.com/articles/s41467-026-68404-5) |
+| keyword_rejected | - | [Coiled-coil heterodimer-mediated split base editing systems ](https://www.nature.com/articles/s41467-026-68469-2) |
+| keyword_rejected | - | [Aperiodic 1/f noise drives ripple activity in humans](https://www.nature.com/articles/s41467-026-68404-5) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117061400&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Mathematical modeling of tumor-immune interactions in breast](https://www.sciencedirect.com/science/article/pii/S0022519326000019?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Regulatory T cells modulate bone marrow stromal cell osteoge](https://www.biorxiv.org/content/10.64898/2026.01.16.699899v1?rss=1) |
+| keyword_rejected | - | [Phosphorylation of KIN-G motor domain by Polo-like kinase ne](https://www.biorxiv.org/content/10.64898/2026.01.16.699953v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117051629&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117041650&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Comprendre les effets de l'alimentation sur la santé](https://www.sciencesetavenir.fr/nutrition/comprendre-les-effets-de-l-alimentation-sur-la-sante_190076?xtor=RSS-28) |
