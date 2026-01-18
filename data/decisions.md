@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Incendies au Chili : au moins 15 morts et 50.000 personnes é](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-au-moins-15-morts-et-50-000-personnes-evacuees_190452?xtor=RSS-15) |
+| keyword_rejected | - | [D'île en île, les Lapita à la conquête du Pacifique](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/d-ile-en-ile-les-lapita-a-la-conquete-du-pacifique_190128?xtor=RSS-4) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118121448&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118111955&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Enhanced YOLOv11n for small object detection in UAV imagery:](https://www.nature.com/articles/s41598-026-35301-2) |
 | keyword_rejected | - | [Elevated cerebral oxygen extraction fraction in Parkinson’s ](https://www.nature.com/articles/s41598-026-36435-z) |
