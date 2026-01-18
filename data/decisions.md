@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118091523&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [NASA moves moon rocket to launch pad ahead of Artemis 2 miss](https://phys.org/news/2026-01-nasa-moon-rocket-pad-artemis.html) |
 | keyword_rejected | - | ["Nos ancêtres du paléolithique exerçaient un art de l'attent](https://www.sciencesetavenir.fr/decouvrir/livres/nos-ancetres-du-paleolithique-exercaient-un-art-de-l-attention_190079?xtor=RSS-27) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118082614&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Intelligent recognition of students’ behavior for smart lear](https://www.nature.com/articles/s41598-026-36633-9) |
