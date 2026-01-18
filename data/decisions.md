@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117233838&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Localisation of corticosteroids in male mouse kidney by mass](https://www.biorxiv.org/content/10.64898/2026.01.16.699839v1?rss=1) |
 | ai_scored | 55 | [Drying parameters and aging modulate protective properties o](https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117224239&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Chemical genomics screening reveals novel functions for unan](https://www.biorxiv.org/content/10.64898/2026.01.16.699870v1?rss=1) |
