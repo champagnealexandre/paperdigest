@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Inositol hexakisphosphate Functions as a Cofactor and Modula](https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1) |
+| ai_scored | 20 | [Characterization of novel cytoplasmic roles for the N-termin](https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1) |
+| ai_scored | 45 | [The E. coli clamp loader sharply bends DNA to load β-clamp o](https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1) |
+| ai_scored | 15 | [Amino acid variants at the P94 position in Staphylococcus au](https://www.biorxiv.org/content/10.64898/2026.01.18.700168v1?rss=1) |
+| ai_scored | 50 | [STRUCT2SEQ: RNA INVERSE FOLDING WITH DEEP Q-LEARNING](https://www.biorxiv.org/content/10.64898/2026.01.16.700031v1?rss=1) |
+| ai_scored | 50 | [Controlled hierarchical self-assembly of hyperbolic parabolo](https://www.nature.com/articles/s41467-026-68567-1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118224645&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Fuzzy logic based nonlinear blending hybrid control of a kes](https://www.nature.com/articles/s41598-025-31360-z) |
+| keyword_rejected | - | [Hint recognition in Chinese and Russian diplomatic discourse](https://www.nature.com/articles/s41598-026-36338-z) |
+| keyword_rejected | - | [Resonant laser excitation for nanoscale photocatalytic gold ](https://www.nature.com/articles/s41598-026-36556-5) |
+| keyword_rejected | - | [Hydrogel with cell-cell adhesion cues enhances neural regene](https://www.nature.com/articles/s41467-026-68632-9) |
+| keyword_rejected | - | [Hydrogel with cell-cell adhesion cues enhances neural regene](https://www.nature.com/articles/s41467-026-68632-9) |
+| keyword_rejected | - | [Covalent Leader Peptide Probes Enable Proteome-Level Mapping](https://www.biorxiv.org/content/10.64898/2026.01.17.700038v1?rss=1) |
+| keyword_rejected | - | [MIC13-linked cristae disruption causes metabolic failure and](https://www.biorxiv.org/content/10.64898/2026.01.16.699229v1?rss=1) |
+| keyword_rejected | - | [Structural characterization of a minimal KLC2/Nup358/BicD2 c](https://www.biorxiv.org/content/10.64898/2026.01.17.700114v1?rss=1) |
+| keyword_rejected | - | [SSNA1 mechanically reinforces the damaged microtubule lattic](https://www.biorxiv.org/content/10.64898/2026.01.16.699973v1?rss=1) |
+| keyword_rejected | - | [SE3Bind: SE(3)-equivariant model for antibody-antigen bindin](https://www.biorxiv.org/content/10.64898/2026.01.17.700115v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118202550&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Multi-objective optimization identifies cultivation strategi](https://www.nature.com/articles/s41598-026-36171-4) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118181634&v=2.18.0.post22+67771e2) |
