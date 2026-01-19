@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Volcanoes had lower greenhouse gas emissions in Earth's past](https://www.newscientist.com/article/2511960-volcanoes-had-lower-greenhouse-gas-emissions-in-earths-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 50 | [Volcanoes had lower greenhouse gas emissions in Earth's past](https://www.newscientist.com/article/2511960-volcanoes-had-lower-greenhouse-gas-emissions-in-earths-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 50 | [Volcanoes had lower greenhouse gas emissions in Earth's past](https://www.newscientist.com/article/2511960-volcanoes-had-lower-greenhouse-gas-emissions-in-earths-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [AI is promising to revolutionise how we diagnose mental illn](https://www.newscientist.com/article/mg26935782-300-ai-is-promising-to-revolutionise-how-we-diagnose-mental-illness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [EPA rule sparks air quality concerns, cancer survival hits r](https://www.scientificamerican.com/podcast/episode/epa-rule-sparks-air-quality-concerns-cancer-survival-hits-record-high-and/) |
+| keyword_rejected | - | [Spiders build giant decoys to scare predators from webs](https://www.scientificamerican.com/article/spiders-build-giant-decoys-to-scare-predators-from-webs/) |
+| keyword_rejected | - | [Meet ‘Baseodiscus the Eldest,’ a record-setting ribbon worm ](https://www.scientificamerican.com/article/meet-baseodiscus-the-eldest-a-record-setting-ribbon-worm-more-than-27-years/) |
+| keyword_rejected | - | [AI is promising to revolutionise how we diagnose mental illn](https://www.newscientist.com/article/mg26935782-300-ai-is-promising-to-revolutionise-how-we-diagnose-mental-illness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [AI is promising to revolutionise how we diagnose mental illn](https://www.newscientist.com/article/mg26935782-300-ai-is-promising-to-revolutionise-how-we-diagnose-mental-illness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119074055&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Daily briefing: Symbols on ancient pottery could be earliest](https://www.nature.com/articles/d41586-026-00201-y) |
+| keyword_rejected | - | [I’m going to halve my publication output. You should conside](https://www.nature.com/articles/d41586-025-04061-w) |
+| keyword_rejected | - | [Forget formalism: mathematics was built on infighting and em](https://www.nature.com/articles/d41586-026-00187-7) |
+| keyword_rejected | - | [‘Greed is the iron cage of our times’ — why nationalism is h](https://www.nature.com/articles/d41586-026-00186-8) |
+| keyword_rejected | - | [Retraction Note: Newcastle disease virus enhances the growth](https://www.nature.com/articles/s41598-026-36521-2) |
+| keyword_rejected | - | [Retraction Note: A novel chalcone derivative S17 induces apo](https://www.nature.com/articles/s41598-026-35488-4) |
+| keyword_rejected | - | [Driving Floquet physics with excitonic fields](https://www.nature.com/articles/s41567-025-03132-z) |
 | ai_scored | 45 | [Hierarchical mechanisms control the clearance of DNA lesion–](https://www.nature.com/articles/s41467-026-68413-4) |
 | ai_scored | 35 | [Hierarchical mechanisms control the clearance of DNA lesion–](https://www.nature.com/articles/s41467-026-68413-4) |
 | ai_scored | 75 | [Mission « Mars Sample Return » : les échantillons ne reviend](https://www.pourlascience.fr/sd/planetologie/mission-mars-sample-return-les-echantillons-ne-reviendront-sans-doute-jamais-sur-terre-28676.php) |
