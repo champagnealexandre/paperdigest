@@ -3,8 +3,470 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-19T04:48:45.200111+00:00</updated>
+  <updated>2026-01-19T05:29:05.393819+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] cs.NE updates on arXiv.org ▶ A Quantum-Driven Evolutionary Framework for Solving High-Dimensional Sharpe Ratio Portfolio Optimization</title>
+    <link href="https://arxiv.org/abs/2601.11029"/>
+    <id>https://arxiv.org/abs/2601.11029</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11029v1 Announce Type: new Abstract: High-dimensional portfolio optimization faces significant computational challenges under complex constraints, with traditional optimization methods stru</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Quantum-inspired differential evolution algorithm for high-dimensional Sharpe ratio portfolio optimization, with no substantive connection to origins-of-life or astrobiology beyond generic use of the term “evolution.”</p>
+<p><strong>Abstract:</strong> arXiv:2601.11029v1 Announce Type: new Abstract: High-dimensional portfolio optimization faces significant computational challenges under complex constraints, with traditional optimization methods struggling to balance convergence speed and global exploration capability. To address this, firstly, we introduce an enhanced Sharpe ratio-based model that incorporates all constraints into the objective function using adaptive penalty terms, transforming the original constrained problem into an unconstrained single-objective formulation. This approach preserves financial interpretability while simplifying algorithmic implementation. To efficiently solve the resulting high-dimensional optimization problem, we propose a Quantum Hybrid Differential Evolution (QHDE) algorithm, which integrates Quantum-inspired probabilistic behavior into the standard DE framework. QHDE employs a Schrodinger-inspired probabilistic mechanism for population evolution, enabling more flexible and diversified solution updates. To further enhance performance, a good point set-chaos reverse learning strategy is adopted to generate a well-dispersed initial population, and a dynamic elite pool combined with Cauchy-Gaussian hybrid perturbations strengthens global exploration and mitigates premature convergence. Experimental validation on CEC benchmarks and real-world portfolios involving 20 to 80 assets demonstrates that QHDE&#x27;s performance improves by up to 73.4%. It attains faster convergence, higher solution precision, and greater robustness than seven state-of-the-art counterparts, thereby confirming its suitability for complex, high-dimensional portfolio optimization and advancing quantum-inspired evolutionary research in computational finance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11029">https://arxiv.org/abs/2601.11029</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11029">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] cs.IT updates on arXiv.org ▶ Empirical Coordination over Markov Channel with Independent Source</title>
+    <link href="https://arxiv.org/abs/2601.11520"/>
+    <id>https://arxiv.org/abs/2601.11520</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11520v1 Announce Type: new Abstract: We study joint source-channel coding over Markov channels through the empirical coordination framework. More specifically, we aim at determining the emp</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Information-theoretic study of empirical coordination and joint source–channel coding over Markov channels, with no direct connection to origins-of-life, prebiotic chemistry, habitability, or biosignatures.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11520v1 Announce Type: new Abstract: We study joint source-channel coding over Markov channels through the empirical coordination framework. More specifically, we aim at determining the empirical distributions of source and channel symbols that can be induced by a coding scheme. We consider strictly causal encoders that generate channel inputs, without access to the past channel states, henceforth driving the current Markov state evolution. Our main result is the single-letter inner and outer bounds of the set of achievable joint distributions, coordinating all the symbols in the network. To establish the inner bound, we introduce a new notion of typicality, the input-driven Markov typicality, and develop its fundamental properties. Contrary to the classical block-Markov coding schemes that rely on blockwise independence for discrete memoryless channels, our analysis directly exploits the Markov channel structure and improves beyond the independence-based arguments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11520">https://arxiv.org/abs/2601.11520</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11520">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] math-ph updates on arXiv.org ▶ Hyperbolic mean curvature flow computed by physics-informed neural networks</title>
+    <link href="https://arxiv.org/abs/2601.11081"/>
+    <id>https://arxiv.org/abs/2601.11081</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11081v1 Announce Type: new Abstract: In this paper, we explore the evolution of plane curves and surfaces governed by the hyperbolic mean curvature flow. We propose a mesh-free approach bas</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a physics-informed neural network method to numerically solve hyperbolic mean curvature flow for evolving curves and surfaces, with no direct connection to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11081v1 Announce Type: new Abstract: In this paper, we explore the evolution of plane curves and surfaces governed by the hyperbolic mean curvature flow. We propose a mesh-free approach based on the physics-informed neural networks (PINNs), which eliminates the need for discretization and meshing of computational domains, and is efficient in solving partial differential equations involving high dimensions. To the best of our knowledge, this is the first result on the numerical analysis by employing the PINNs for the hyperbolic geometric evolution equations in the literature. The effectiveness of this method is demonstrated through several numerical simulations by selecting diverse initial curves and surfaces, as well as both constant and non-constant initial velocities.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11081">https://arxiv.org/abs/2601.11081</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11081">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [98] nlin.AO updates on arXiv.org ▶ De novo emergence of metabolically active protocells</title>
+    <link href="https://arxiv.org/abs/2601.11013"/>
+    <id>https://arxiv.org/abs/2601.11013</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propag</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> protocell, life</p>
+<p><strong>AI Decision:</strong> Reports spontaneous formation of metabolically active, self-growing and self-perpetuating protocell-like compartments from simple aqueous feedstocks, offering a highly testable route to de novo protocell emergence relevant to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propagates -- remains elusive. Here, we show that a homogeneous aqueous chemical mixture containing phosphorus, iron, molybdenum salts and formaldehyde spontaneously self-organizes into compartments that couple robust non-equilibrium chemical dynamics to their own growth. These structures mature to a sustained, dissipative steady state and support an organic synthetic engine, producing diverse molecular species including many core biomolecular classes. Internal spherules that are themselves growth-competent are produced within the protocells, establishing a rudimentary mode of self-perpetuation. The chemical dynamics we observe in controlled laboratory conditions also occur in reaction mixtures exposed to natural day-night cycles. Strikingly, the morphology and chemical composition of the protocells in our experiments closely resemble molybdenum-rich microspheres recently discovered in current oceanic environments. Our work establishes a robust, testable route to de novo protocell formation. The emergence of life-like spatiotemporal organization and chemical dynamics from minimal initial conditions is more facile than previously thought and could be a recurring natural phenomenon.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11013">https://arxiv.org/abs/2601.11013</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11013">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] cs.IT updates on arXiv.org ▶ PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks</title>
+    <link href="https://arxiv.org/abs/2601.11025"/>
+    <id>https://arxiv.org/abs/2601.11025</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11025v1 Announce Type: new Abstract: With 5G deployment and the evolution toward 6G, mobile networks must make decisions in highly dynamic environments under strict latency, energy, and spe</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This paper proposes a perception embedding map for environment-aware 5G/6G mobile network optimization, which is unrelated to origins-of-life research aside from a superficial &#x27;evolution&#x27; keyword match.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11025v1 Announce Type: new Abstract: With 5G deployment and the evolution toward 6G, mobile networks must make decisions in highly dynamic environments under strict latency, energy, and spectrum constraints. Achieving this goal, however, depends on prior knowledge of spatial-temporal variations in wireless channels and traffic demands. This motivates a joint, site-specific representation of radio propagation and user demand that is queryable at low online overhead. In this work, we propose the perception embedding map (PEM), a localized framework that embeds fine-grained channel statistics together with grid-level spatial-temporal traffic patterns over a base station&#x27;s coverage. PEM is built from standard-compliant measurements -- such as measurement report and scheduling/quality-of-service logs -- so it can be deployed and maintained at scale with low cost. Integrated into PEM, this joint knowledge supports enhanced environment-aware optimization across PHY, MAC, and network layers while substantially reducing training overhead and signaling. Compared with existing site-specific channel maps and digital-twin replicas, PEM distinctively emphasizes (i) joint channel-traffic embedding, which is essential for network optimization, and (ii) practical construction using standard measurements, enabling network autonomy while striking a favorable fidelity-cost balance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11025">https://arxiv.org/abs/2601.11025</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11025">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] math-ph updates on arXiv.org ▶ A model order reduction based adaptive parareal method for time-dependent partial differential equations</title>
+    <link href="https://arxiv.org/abs/2601.10981"/>
+    <id>https://arxiv.org/abs/2601.10981</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10981v1 Announce Type: cross Abstract: In this paper, we propose a model order reduction based adaptive parareal method for time-dependent partial differential equations. By using the data </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Presents a numerical model-reduction adaptive parareal algorithm for time-dependent PDEs (advection–diffusion test cases) with no direct connection to origins-of-life, prebiotic chemistry, habitability, or biosignatures.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10981v1 Announce Type: cross Abstract: In this paper, we propose a model order reduction based adaptive parareal method for time-dependent partial differential equations. By using the data obtained by the fine propagator in each iteration of the plain parareal method together with some model order reduction technique, we construct the coarse propagator adaptively in each parareal iteration, and then obtain our adaptive parareal method. We apply this new method to solve some 3D time-dependent advection-diffusion equations with the Kolmogorov flow and the ABC flow. Numerical results show the good performance of our method in simulating long-term evolution problems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10981">https://arxiv.org/abs/2601.10981</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10981">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] math-ph updates on arXiv.org ▶ Fractional cross-diffusion in a bounded domain: existence, weak-strong uniqueness, and long-time asymptotics</title>
+    <link href="https://arxiv.org/abs/2407.19824"/>
+    <id>https://arxiv.org/abs/2407.19824</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2407.19824v2 Announce Type: replace-cross Abstract: We study a fractional cross-diffusion system that describes the evolution of multi-species populations in the regime of large-distance interac</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Mathematical analysis of a fractional cross-diffusion PDE system for multi-species population dynamics (existence/uniqueness/asymptotics) with no direct connection to origins-of-life, aside from a generic use of the term “evolution.”}</p>
+<p><strong>Abstract:</strong> arXiv:2407.19824v2 Announce Type: replace-cross Abstract: We study a fractional cross-diffusion system that describes the evolution of multi-species populations in the regime of large-distance interactions in a bounded domain. We prove existence and weak-strong uniqueness results for the initial-boundary value problem and analyze the convergence of the solutions to equilibrium via relative entropy methods.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2407.19824">https://arxiv.org/abs/2407.19824</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2407.19824">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] cs.NE updates on arXiv.org ▶ On the Probability of First Success in Differential Evolution: Hazard Identities and Tail Bounds</title>
+    <link href="https://arxiv.org/abs/2601.11499"/>
+    <id>https://arxiv.org/abs/2601.11499</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11499v1 Announce Type: new Abstract: We study first-hitting times in Differential Evolution (DE) through a conditional hazard frame work. Instead of analyzing convergence via Markov-chain t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This paper develops hazard-based identities and tail bounds for first-hitting times in the Differential Evolution optimization algorithm (L-SHADE), with empirical survival-analysis validation, and has no direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11499v1 Announce Type: new Abstract: We study first-hitting times in Differential Evolution (DE) through a conditional hazard frame work. Instead of analyzing convergence via Markov-chain transition kernels or drift arguments, we ex press the survival probability of a measurable target set $A$ as a product of conditional first-hit probabilities (hazards) $p_t=\Prob(E_t\mid\mathcal F_{t-1})$. This yields distribution-free identities for survival and explicit tail bounds whenever deterministic lower bounds on the hazard hold on the survival event. For the L-SHADE algorithm with current-to-$p$best/1 mutation, we construct a checkable algorithmic witness event $\mathcal L_t$ under which the conditional hazard admits an explicit lower bound depending only on sampling rules, population size, and crossover statistics. This separates theoretical constants from empirical event frequencies and explains why worst-case constant-hazard bounds are typically conservative. We complement the theory with a Kaplan--Meier survival analysis on the CEC2017 benchmark suite . Across functions and budgets, we identify three distinct empirical regimes: (i) strongly clustered success, where hitting times concentrate in short bursts; (ii) approximately geometric tails, where a constant-hazard model is accurate; and (iii) intractable cases with no observed hits within the evaluation horizon. The results show that while constant-hazard bounds provide valid tail envelopes, the practical behavior of L-SHADE is governed by burst-like transitions rather than homogeneous per-generati on success probabilities.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11499">https://arxiv.org/abs/2601.11499</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11499">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] cs.NE updates on arXiv.org ▶ Pruning as Evolution: Emergent Sparsity Through Selection Dynamics in Neural Networks</title>
+    <link href="https://arxiv.org/abs/2601.10765"/>
+    <id>https://arxiv.org/abs/2601.10765</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10765v1 Announce Type: new Abstract: Neural networks are commonly trained in highly overparameterized regimes, yet empirical evidence consistently shows that many parameters become redundan</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Proposes an evolutionary-selection formalism for neural-network pruning (component “extinction” dynamics) and demonstrates accuracy–sparsity tradeoffs on MNIST, but it is largely unrelated to origins-of-life science beyond metaphorical use of evolutionary language.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10765v1 Announce Type: new Abstract: Neural networks are commonly trained in highly overparameterized regimes, yet empirical evidence consistently shows that many parameters become redundant during learning. Most existing pruning approaches impose sparsity through explicit intervention, such as importance-based thresholding or regularization penalties, implicitly treating pruning as a centralized decision applied to a trained model. This assumption is misaligned with the decentralized, stochastic, and path-dependent character of gradient-based training. We propose an evolutionary perspective on pruning: parameter groups (neurons, filters, heads) are modeled as populations whose influence evolves continuously under selection pressure. Under this view, pruning corresponds to population extinction: components with persistently low fitness gradually lose influence and can be removed without discrete pruning schedules and without requiring equilibrium computation. We formalize neural pruning as an evolutionary process over population masses, derive selection dynamics governing mass evolution, and connect fitness to local learning signals. We validate the framework on MNIST using a population-scaled MLP (784--512--256--10) with 768 prunable neuron populations. All dynamics reach dense baselines near 98\% test accuracy. We benchmark post-training hard pruning at target sparsity levels (35--50\%): pruning 35\% yields $\approx$95.5\% test accuracy, while pruning 50\% yields $\approx$88.3--88.6\%, depending on the dynamic. These results demonstrate that evolutionary selection produces a measurable accuracy--sparsity tradeoff without explicit pruning schedules during training.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10765">https://arxiv.org/abs/2601.10765</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10765">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] cs.IT updates on arXiv.org ▶ Coding Schemes for the Noisy Torn Paper Channel</title>
+    <link href="https://arxiv.org/abs/2601.11501"/>
+    <id>https://arxiv.org/abs/2601.11501</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11501v1 Announce Type: new Abstract: To make DNA a suitable medium for archival data storage, it is essential to consider the decay process of the strands observed in DNA storage systems. T</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Develops marker-based error-correcting coding schemes for DNA-based archival data storage modeled as a noisy torn paper channel, improving reconstruction under strand decay and substitutions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11501v1 Announce Type: new Abstract: To make DNA a suitable medium for archival data storage, it is essential to consider the decay process of the strands observed in DNA storage systems. This paper studies the decay process as a probabilistic noisy torn paper channel (TPC), which first corrupts the bits of the transmitted sequence in a probabilistic manner by substitutions, then breaks the sequence into a set of noisy unordered substrings. The present work devises coding schemes for the noisy TPC by embedding markers in the transmitted sequence. We investigate the use of static markers and markers connected to the data in the form of hash functions. These two tools have also been recently exploited to tackle the noiseless TPC. Simulations show that static markers excel at higher substitution probabilities, while data-dependent markers are superior at lower noise levels. Both approaches achieve reconstruction rates exceeding $99\%$ with no false decodings observed, primarily limited by computational resources.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11501">https://arxiv.org/abs/2601.11501</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11501">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ The impact of disc photoevaporation on the long-term evolution of giant planets in mean motion resonances</title>
+    <link href="https://arxiv.org/abs/2601.10811"/>
+    <id>https://arxiv.org/abs/2601.10811</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10811v1 Announce Type: new Abstract: We investigate the long-term impact of disc photoevaporation on the dynamical stability and evolution of giant planet pairs in mean motion resonances. U</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Hydrodynamical simulations show that disc photoevaporation can either stabilise or destabilise mean-motion resonances between giant planets and often increases eccentricities, implying system-dependent pathways to final exoplanet architectures relevant to long-term habitability context but not directly to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10811v1 Announce Type: new Abstract: We investigate the long-term impact of disc photoevaporation on the dynamical stability and evolution of giant planet pairs in mean motion resonances. Using two-dimensional hydrodynamical simulations with FARGO3D, in which we have included mass-loss due to photoevaporation, we explore a parameter space covering disc mass, viscosity, planet mass, and resonance type. We find that strong photoevaporation depletes gas in the common gap between the planets, slowing migration and suppressing planet-disc interactions that typically lead to resonance breaking and eccentricity damping. This stabilising effect is most significant for 3:2 resonances, which are more prone to disruption due to the reduced planet spacing. In contrast, 2:1 resonances are generally more robust but can still be destabilised at high disc mass and moderate-to-strong photoevaporation due to asymmetric torques. Photoevaporation can therefore stabilise resonances that would otherwise break, or conversely disrupt resonances that are natively more stable. Even in cases where photoevaporation does not directly affect resonance stability, it typically results in increased planetary eccentricities. These results highlight the complex, system-dependent nature of resonance evolution, with implications for the final orbital architectures of giant planet systems and their detectability via astrometry from missions such as Gaia.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10811">https://arxiv.org/abs/2601.10811</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10811">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] astro-ph.EP updates on arXiv.org ▶ Metal Pipe: A Broadly-Applicable Stellar Abundance Pipeline Using Isochronal Parameters</title>
+    <link href="https://arxiv.org/abs/2601.10794"/>
+    <id>https://arxiv.org/abs/2601.10794</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10794v1 Announce Type: cross Abstract: Characterizing exoplanet host stars at a population level requires a method of homogeneously characterizing stellar properties across all spectral typ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Introduces and validates a homogenized stellar-parameter/abundance pipeline for exoplanet host stars, enabling improved population-level constraints on host composition (and thus indirectly on exoplanet formation and potential habitability), but it is not directly focused on origins-of-life processes.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10794v1 Announce Type: cross Abstract: Characterizing exoplanet host stars at a population level requires a method of homogeneously characterizing stellar properties across all spectral types. To this end, we have developed Metal Pipe, a new code for determining stellar parameters and abundances, which is designed for use across a wider range of spectral types than many commonly used codes. It combines the widely-used package MOOG with photometric stellar parameters, a user-supplied high-resolution spectrum, and a newly curated list of spectral lines. Metal Pipe outputs values for $T_{\rm{eff}}$, $\log{(g)}$, $M_*$, $R_*$, and $L_*$ from isochrones, and abundances of C, O, Na, Mg, Al, Si, S, Ca, Ti, and Fe from MOOG. In this paper, we describe the Metal Pipe algorithm and tests of Metal Pipe against previous abundance measurements on archival HIRES spectra of 503 F, G, and K type stars. We find RMS scatters of ~100 K in $T_{\rm{eff}}$, ~0.10 dex in $\log{(g)}$, and ~0.10 dex for all measured abundances. These values are comparable to estimated measurement uncertainties, verifying Metal Pipe for continued use in building a detailed abundance catalog. Future papers in this series will test Metal Pipe&#x27;s applicability to late K and M dwarf stars, and provide other improvements.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10794">https://arxiv.org/abs/2601.10794</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10794">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] astro-ph.EP updates on arXiv.org ▶ Discovery of a dwarf planet candidate in an extremely wide orbit: 2017 OF201</title>
+    <link href="https://arxiv.org/abs/2505.15806"/>
+    <id>https://arxiv.org/abs/2505.15806</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2505.15806v2 Announce Type: replace Abstract: We report the discovery of a dwarf planet candidate, 2017 OF201, currently located at a distance of 90 au. Its orbit is extremely wide and extends t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Reports discovery and orbital characterization of a ~700 km dwarf-planet candidate (2017 OF201) on an extremely wide, high-eccentricity orbit reaching the inner Oort cloud, with implications for distant small-body populations and Planet Nine evidence but little direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2505.15806v2 Announce Type: replace Abstract: We report the discovery of a dwarf planet candidate, 2017 OF201, currently located at a distance of 90 au. Its orbit is extremely wide and extends to the inner Oort cloud, with a semi-major axis of 830 au and a perihelion of 45 au, precisely determined from 24 observations over 20 years. Assuming a typical albedo of 0.13, we estimate a diameter about 700 km, making it the second-largest known object in this dynamical population and a dwarf planet candidate with the widest orbit. Its high eccentricity suggests that an unseen population of similar objects would total about 1% of Earth&#x27;s mass. Notably, the longitude of perihelion of 2017 OF201 lies outside the clustering observed in extreme trans-Neptunian objects, posing a challenge to the proposed dynamical evidence for the hypothetical Planet Nine.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2505.15806">https://arxiv.org/abs/2505.15806</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2505.15806">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ Detection of four cold Jupiters through combined analyses of radial velocity and astrometry data</title>
+    <link href="https://arxiv.org/abs/2601.11280"/>
+    <id>https://arxiv.org/abs/2601.11280</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11280v1 Announce Type: new Abstract: Cold Jupiters play a crucial role in planet formation and dynamical evolution. Since their initial discovery around 47 UMa, they have attracted signific</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, exoplanet</p>
+<p><strong>AI Decision:</strong> Combining radial-velocity data with Hipparcos–Gaia astrometry, the authors derive dynamical masses and 3D orbital architectures for four newly confirmed cold Jupiters, improving constraints on long-period giant-planet populations relevant to planetary system evolution.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11280v1 Announce Type: new Abstract: Cold Jupiters play a crucial role in planet formation and dynamical evolution. Since their initial discovery around 47 UMa, they have attracted significant interest, yet their formation mechanisms remain uncertain, underscoring the need to expand the known population. In this work, we combine RV data with Gaia astrometry using Hipparcos-Gaia proper-motion anomalies over a 25-year baseline. By jointly modeling both datasets with the MCMC framework, we constrain planetary masses, orbital inclinations, and three-dimensional orbital architectures. This reduces RV degeneracies and improves mass determinations. Four cold Jupiters are reported: HD 68475 b and HD 100508 b are each the first confirmed planet in their systems, with orbital periods $7832_{-323}^{+463}$ d and $5681\pm42$ d and dynamical masses of $5.16_{-0.47}^{+0.53} M_{\text{Jup}}$ and $1.2_{-0.18}^{+0.30} M_{\text{Jup}}$, respectively. In multi-planet systems, HD 48265 c has a period of $10418_{-1400}^{+2400}$ d and a mass of $3.71_{-0.43}^{+0.68} M_{\text{Jup}}$, while HD 114386 c orbits at $444.00_{-0.88}^{+0.93}$ d with a minimum mass of $0.37 \pm 0.03 M_{\text{Jup}}$. The two planets in the HD 48265 system may exhibit a significant mutual inclination, making it a target for testing the von-Zeipel-Kozai-Lidov mechanism. HD 68475 b is a promising candidate for future direct imaging with ELT/METIS. We identified a Jupiter analog with the longest known orbital period among planets with masses between 0.5 and 2 $M_{\text{Jup}}$, implying that a substantial population of cold Jupiters likely awaits discovery by Gaia. This study expands the sample of cold Jupiters with constrained orbits and dynamical masses, demonstrating the value of combining radial velocity and astrometry in exoplanet research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11280">https://arxiv.org/abs/2601.11280</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11280">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] astro-ph.EP updates on arXiv.org ▶ Leveraging Photometry for Deconfusion of Directly Imaged Multi-Planet Systems</title>
+    <link href="https://arxiv.org/abs/2510.09841"/>
+    <id>https://arxiv.org/abs/2510.09841</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2510.09841v2 Announce Type: replace Abstract: Planned and future missions, including the Habitable Worlds Observatory, will aim to image Earth-like exoplanets around Sun-like stars in reflected </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, earth, exoplanet</p>
+<p><strong>AI Decision:</strong> Develops a photometry-informed orbit-ranking method to reduce planet-identification confusion in multi-planet direct-imaging datasets, improving the ability of future missions (e.g., HWO) to correctly place Earth-like exoplanets in the habitable zone.</p>
+<p><strong>Abstract:</strong> arXiv:2510.09841v2 Announce Type: replace Abstract: Planned and future missions, including the Habitable Worlds Observatory, will aim to image Earth-like exoplanets around Sun-like stars in reflected light. Determining whether an exoplanet is in the habitable zone of its star may be difficult in multi-planet systems when the observer does not know in advance which detection corresponds to which planet. This &quot;confusion&quot; problem will be a concern for future missions due to the high occurrence rate of multi-planet systems, and will be exacerbated by lack of prior knowledge about planets&#x27; orbital parameters or characteristics. We address the planet-detection confusion problem by developing a photometry model and new orbit ranking scheme to augment a &quot;deconfuser&quot; tool and account for phase variation exhibited by planets throughout their orbits. We demonstrate the new ranking scheme as a proof-of-concept on a subset of highly confused simulated multi-planet systems among three inclination groupings (low, medium, and high). We find that incorporating photometry improves differentiation of previously confused orbits in more than half of these particularly challenging cases. These results emphasize that photometry is useful for orbit discrimination and deconfusion of directly imaged multi-planet systems, and should be considered when fitting orbits to detections.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2510.09841">https://arxiv.org/abs/2510.09841</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2510.09841">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ The ExoGRAVITY survey: A K-band spectral library of giant exoplanet and brown dwarf companions</title>
+    <link href="https://arxiv.org/abs/2510.08691"/>
+    <id>https://arxiv.org/abs/2510.08691</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2510.08691v3 Announce Type: replace Abstract: Direct observations of exoplanet and brown dwarf companions with near-infrared interferometry, first enabled by the dual-field mode of VLTI/GRAVITY,</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Compiles a homogeneous VLTI/GRAVITY K-band spectral library for 39 directly imaged giant exoplanet and brown dwarf companions, enabling comparative constraints on carbon chemistry, cloudiness, luminosities, and inferred masses but with limited direct relevance to habitability or biosignature detection.</p>
+<p><strong>Abstract:</strong> arXiv:2510.08691v3 Announce Type: replace Abstract: Direct observations of exoplanet and brown dwarf companions with near-infrared interferometry, first enabled by the dual-field mode of VLTI/GRAVITY, provide unique measurements of the objects&#x27; orbital motions and atmospheric compositions. Here, we compile a homogeneous library of all exoplanet and brown dwarf K-band spectra observed by GRAVITY thus far. We re-reduced all the available GRAVITY dual-field high-contrast data and, where companions are detected, extract their ~2.0-2.4 $\mu$m K-band contrast spectra. We then derived stellar model atmospheres for all employed flux references, which we used to convert the companion contrast into companion flux spectra. Solely from the resulting GRAVITY spectra, we extracted spectral types, spectral indices, and bulk physical properties for all companions. Finally, and with the help of age constraints from the literature, we also derived isochronal masses for most companions using evolutionary models. The resulting library contains R ~ 500 GRAVITY spectra of 39 substellar companions from late M to late T spectral types, including the entire L-T transition. Throughout this transition, a shift from CO-dominated late M- and L-type dwarfs to CH4-dominated T-type dwarfs can be observed in the K-band. The GRAVITY spectra alone constrain the objects&#x27; bolometric luminosity to typically within $\pm$0.15 dex. The derived isochronal masses agree with dynamical masses from the literature where available, except for HD 4113 c for which we confirm its previously reported potential underluminosity. Medium-resolution spectroscopy of substellar companions with GRAVITY provides insight into the carbon chemistry and the cloudiness of these objects&#x27; atmospheres. It also constrains these objects&#x27; bolometric luminosities which can yield measurements of their formation entropy if combined with dynamical masses, for instance from Gaia and GRAVITY astrometry.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2510.08691">https://arxiv.org/abs/2510.08691</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2510.08691">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] physics.bio-ph updates on arXiv.org ▶ Unraveling the Allosteric Mechanism and Mechanical Stability of Partial and Complete Loss-of-Function Mutations in p53 DNA-Binding Domain</title>
+    <link href="https://arxiv.org/abs/2601.11069"/>
+    <id>https://arxiv.org/abs/2601.11069</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11069v1 Announce Type: new Abstract: TP53 is the most frequently mutated tumor suppressor gene in human cancers, with mutations primarily in its DNA-binding domain (p53-DBD). Mutations in p</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Molecular dynamics study of cancer-associated p53 DNA-binding domain mutations affecting dimer stability and DNA binding, with no direct relevance to origins-of-life research beyond involving DNA.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11069v1 Announce Type: new Abstract: TP53 is the most frequently mutated tumor suppressor gene in human cancers, with mutations primarily in its DNA-binding domain (p53-DBD). Mutations in p53-DBD are categorized into hotspot mutations (resulting in complete loss-of-function) and non-hotspot mutations (inducing partial loss-of-function). However, the allosteric mechanisms underlying non-hotspot mutations remain elusive. Using p53 dimer as models, we constructed p53-WT, non-hotspot p53-E180R, and hotspot p53-R248W dimer-DNA complexes to compare the structural and functional impacts of these two mutation types. Our results reveal that both mutations weaken intramolecular interactions in p53-DBD and enhance structural flexibility. Specifically, E180R perturbs dimer interface interactions, impairing dimer stability and cooperative DNA binding; R248W disrupts interactions between the L3/L1 loops and DNA, leading to the loss of DNA-binding capacity. Steered molecular dynamics (SMD) simulations further confirm that both mutations accelerate p53 dimer dissociation, with E180R exerting the most prominent disruptive effect on the mechanical stability of the dimer interface.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11069">https://arxiv.org/abs/2601.11069</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11069">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] astro-ph.EP updates on arXiv.org ▶ Central flashes during stellar occultations. Effects of diffraction, interferences, and stellar diameter</title>
+    <link href="https://arxiv.org/abs/2601.11380"/>
+    <id>https://arxiv.org/abs/2601.11380</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11380v1 Announce Type: new Abstract: Central flashes occur during stellar occultations by solar system objects. We catalog diffraction effects on the flash with point-like stars, monochroma</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Develops a detailed diffraction/interference framework for central flashes in stellar occultations to better interpret remote-sensing constraints on Solar System atmospheres (e.g., Pluto/Triton), but with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11380v1 Announce Type: new Abstract: Central flashes occur during stellar occultations by solar system objects. We catalog diffraction effects on the flash with point-like stars, monochromatic waves and spherical transparent atmosphere. Diffraction involves the Huygens principle, the Sommerfeld lemma and the stationary phase method, while finite stellar diameter cases involve Clausius&#x27; theorem. For point-like stars, the central flash shape is that of the classical Poisson spot, but with larger height. For tenuous atmospheres that cannot focus the stellar rays at shadow center, the flash is amplified by the factor (R_0/r_0)^2 compared to the Poisson spot, where R0 and r0 are the object and the shadow radii, respectively. For denser atmospheres that can focus the rays at shadow center, the flash peaks at 2[(pi*R/lambda_F})^2]*phi0, where R is the central flash layer radius, lambda_F is the Fresnel scale and phi0 is the flux that would be observed at shadow center without focusing. For isothermal atmospheres with scale height H, the height is 2(R*H)(pi/lambda_F)^2. Fringes surrounding the central flash are separated by lambda_P=lambda_F^2/R, related to the separation between the primary and secondary stellar images. For a projected stellar diameter D*&gt;lambda_P, the flash is described by complete elliptic integrals, and has full width at half maximum of 1.14D* and peak value 8H/D*. For Earth-based occultations by Pluto and Triton observed in the visible with point-like stars, diffraction causes flashes with very large heights ~10e4-10e5, spread over a very small meter-sized region in the shadow plane. In practice, the flash is usually smoothed by the stellar diameter, but still reaches high values of ~50 and ~200 during Pluto and Triton occultations, respectively. Diffraction dominates when using millimeter wavelengths or longer. Effects of departure from sphericity, atmospheric waves and stellar limb darkening are discussed.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11380">https://arxiv.org/abs/2601.11380</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11380">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ Water Production of Interstellar Comet 3I/ATLAS from SOHO/SWAN Observations after Perihelion</title>
+    <link href="https://arxiv.org/abs/2512.22354"/>
+    <id>https://arxiv.org/abs/2512.22354</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2512.22354v2 Announce Type: replace Abstract: The Solar Wind ANisotropies (SWAN) all-sky hydrogen Lyman-alpha camera on the Solar and Heliosphere Observatory (SOHO) observed the hydrogen coma of</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> SOHO/SWAN Lyman-alpha observations of interstellar comet 3I/ATLAS quantify post-perihelion water production (∼3.2×10^29 s^-1 at 1.40 au declining to ∼1–2×10^28 s^-1 by ~40 days), informing cometary water inventories relevant to volatile delivery scenarios in early planetary systems.</p>
+<p><strong>Abstract:</strong> arXiv:2512.22354v2 Announce Type: replace Abstract: The Solar Wind ANisotropies (SWAN) all-sky hydrogen Lyman-alpha camera on the Solar and Heliosphere Observatory (SOHO) observed the hydrogen coma of interstellar comet 3I/ATLAS, also called C/2025 N1 (ATLAS), beginning on November 6, 2025, 9 days after perihelion. Water production rates were calculated from each image of 3I/ATLAS using the methodology of Makinen &amp; Combi (2005, Icarus 177, 217) and fluorescence rates, g-factors, calculated using the daily solar Lyman-alpha fluxes from the LASP database (https://lasp.colorado.edu/lisird/data) corrected for solar rotation and for the comet heliocentric velocity. The method has been used for over 90 comet apparitions (Combi 2022; Combi et al. 2019). A water production rate of 3.17 x 10^29 s^-1 was found on November 6 when the comet was at a heliocentric distance of 1.40 au and at a sufficient solar elongation angle. It decreased over time after that, down to 1-2 x 10^28 s^-1 around 40 days post-perihelion (December 9).</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.22354">https://arxiv.org/abs/2512.22354</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.22354">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] physics.bio-ph updates on arXiv.org ▶ MERGE-RNA: a physics-based model to predict RNA secondary structure ensembles with chemical probing</title>
+    <link href="https://arxiv.org/abs/2512.20581"/>
+    <id>https://arxiv.org/abs/2512.20581</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2512.20581v1 Announce Type: cross Abstract: The function of RNA molecules is deeply related to their secondary structure, which determines which nucleobases are accessible for pairing. Most RNA </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> MERGE-RNA is a physics-based framework that integrates chemical probing data across conditions to infer RNA secondary-structure ensembles and transient suboptimal states, offering a potentially useful tool for studying dynamic functional RNAs relevant to RNA-world scenarios.</p>
+<p><strong>Abstract:</strong> arXiv:2512.20581v1 Announce Type: cross Abstract: The function of RNA molecules is deeply related to their secondary structure, which determines which nucleobases are accessible for pairing. Most RNA molecules however function through dynamic and heterogeneous structural ensembles. Chemical probing methods (e.g., DMS probing) rely on selective chemical modification of accessible RNA nucleotides to infer base-pairing status, yet the resulting nucleotide-resolution data represent ensemble averages over dynamic RNA conformations. We present MERGE-RNA, a unified, physics-based framework that explicitly models the full experimental pipeline, from the thermodynamics of probe binding to the mutational profiling readout. By integrating measurements across probe concentrations and replicates, our model learns a small set of transferable and interpretable parameters together with minimal sequence-specific soft constraints. This enables the prediction of secondary structure ensembles that best explain the data and the detection of suboptmal structures involved in dynamic processes. We validate MERGE-RNA on diverse RNAs, showing that it achieves strong structural accuracy while preserving essential conformational heterogeneity. In a designed RNA for which we report new DMS data, MERGE-RNA detects transient intermediate states associated with strand displacement, dynamics that remain invisible to traditional methods.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.20581">https://arxiv.org/abs/2512.20581</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.20581">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] physics.bio-ph updates on arXiv.org ▶ De novo emergence of metabolically active protocells</title>
+    <link href="https://arxiv.org/abs/2601.11013"/>
+    <id>https://arxiv.org/abs/2601.11013</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propag</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> protocell, life</p>
+<p><strong>AI Decision:</strong> Reports spontaneous formation of metabolically active, self-growing and self-propagating protocell-like compartments from a simple aqueous prebiotic mixture, offering a potentially robust route to de novo protocell emergence relevant to origins-of-life scenarios.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propagates -- remains elusive. Here, we show that a homogeneous aqueous chemical mixture containing phosphorus, iron, molybdenum salts and formaldehyde spontaneously self-organizes into compartments that couple robust non-equilibrium chemical dynamics to their own growth. These structures mature to a sustained, dissipative steady state and support an organic synthetic engine, producing diverse molecular species including many core biomolecular classes. Internal spherules that are themselves growth-competent are produced within the protocells, establishing a rudimentary mode of self-perpetuation. The chemical dynamics we observe in controlled laboratory conditions also occur in reaction mixtures exposed to natural day-night cycles. Strikingly, the morphology and chemical composition of the protocells in our experiments closely resemble molybdenum-rich microspheres recently discovered in current oceanic environments. Our work establishes a robust, testable route to de novo protocell formation. The emergence of life-like spatiotemporal organization and chemical dynamics from minimal initial conditions is more facile than previously thought and could be a recurring natural phenomenon.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11013">https://arxiv.org/abs/2601.11013</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11013">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ KMT-2025-BLG-1616Lb: First Microlensing Bound Planet From DREAMS</title>
+    <link href="https://arxiv.org/abs/2601.11469"/>
+    <id>https://arxiv.org/abs/2601.11469</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11469v1 Announce Type: new Abstract: We present observations and analysis of the bound planetary microlensing event KMT-2025-BLG-1616. The planetary signal was captured by the Korea Microle</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
+<p><strong>AI Decision:</strong> Microlensing observations of KMT-2025-BLG-1616 reveal a ~40 Earth-mass planet around a ~0.3 solar-mass host and demonstrate DREAMS minute-cadence sensitivity that could detect Mars-mass (bulge) to Moon-mass (disk) free-floating planets, informing small-planet demographics relevant to astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11469v1 Announce Type: new Abstract: We present observations and analysis of the bound planetary microlensing event KMT-2025-BLG-1616. The planetary signal was captured by the Korea Microlensing Telescope Network (KMTNet) and the DECam Rogue Earths and Mars Survey (DREAMS). DREAMS&#x27;s minute-cadence observations break the central/resonant degeneracy in the binary-lens models. The color of the faint source star ($I=22$) is measured from the DREAMS&#x27;s $r - z$ color. The planetary system has a planet-host mass ratio of $q \sim 5 \times 10^{-4}$. A Bayesian analysis yields a host-star mass of $\sim 0.3\,M_\odot$, a planetary mass of $\sim 40\,M_{\oplus}$, a projected planet-host separation of $\sim 1.6~\mathrm{au}$, and a lens distance of $\sim 7.5~\mathrm{kpc}$. Based on the photometric precision achieved by DREAMS for this event, we simulate free-floating planet (FFP) detections and find that DREAMS is sensitive to Mars-mass FFPs in the Galactic bulge and Moon-mass FFPs in the Galactic disk.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11469">https://arxiv.org/abs/2601.11469</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11469">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] cond-mat.stat-mech updates on arXiv.org ▶ Time Evolution of Multi-Party Entanglement Signals</title>
+    <link href="https://arxiv.org/abs/2511.16729"/>
+    <id>https://arxiv.org/abs/2511.16729</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2511.16729v2 Announce Type: replace-cross Abstract: We study the real-time dynamics of multi-party entanglement signals in chaotic quantum many-body systems including but not necessarily restric</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A theoretical quantum many-body physics study of multipartite entanglement dynamics and scrambling, with no direct connection to abiogenesis, prebiotic chemistry, habitability, or life-detection astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2511.16729v2 Announce Type: replace-cross Abstract: We study the real-time dynamics of multi-party entanglement signals in chaotic quantum many-body systems including but not necessarily restricted to holographic conformal field theories. We find that scrambling dynamics generates multiparty entanglement with rich structure including: (a) qualitatively different dynamical behaviours for different signals, likely reflecting different dynamics for different kinds of entanglement patterns, (b) discontinuities indicating dynamical phase transitions in the entanglement structure, (c) transient and non-monotonic multiparty entanglement, and (d) periods during which the extensive entanglement of some regions is entirely multipartite. Our main technical tool is the membrane theory of entanglement dynamics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2511.16729">https://arxiv.org/abs/2511.16729</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2511.16729">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] cond-mat.stat-mech updates on arXiv.org ▶ Irreversible Kinetics Emerges from Bayesian Inference over Admissible Histories</title>
+    <link href="https://arxiv.org/abs/2601.10763"/>
+    <id>https://arxiv.org/abs/2601.10763</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10763v1 Announce Type: new Abstract: A probabilistic formulation of irreversible kinetics is introduced in which incrementally admissible histories are weighted by a Gibbs-type measure buil</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a Bayesian/posterior framework showing how deterministic irreversible kinetics can emerge as a zero-uncertainty (MAP) limit of weighted admissible histories, offering a general nonequilibrium inference tool potentially applicable to complex prebiotic reaction networks but not directly focused on origins-of-life.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10763v1 Announce Type: new Abstract: A probabilistic formulation of irreversible kinetics is introduced in which incrementally admissible histories are weighted by a Gibbs-type measure built from an energy-dissipation action and observation constraints, with Theta controlling epistemic uncertainty. This measure can be interpreted as a Bayesian posterior over histories. In the zero-uncertainty limit, it concentrates on maximum-a-posteriori (MAP) histories, recovering classical deterministic evolution by incremental minimization in the convex generalized-standard-material setting, while allowing multiple competing MAP histories for non-convex energies or temporally coupled constraints. This emergence is demonstrated across seven distinct forward-in-time examples and an inverse inference problem of unknown histories from sparse observations via a global constrained minimum-action principle.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10763">https://arxiv.org/abs/2601.10763</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10763">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] q-bio.BM updates on arXiv.org ▶ De novo emergence of metabolically active protocells</title>
+    <link href="https://arxiv.org/abs/2601.11013"/>
+    <id>https://arxiv.org/abs/2601.11013</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propag</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> protocell, life</p>
+<p><strong>AI Decision:</strong> Demonstrates spontaneous formation of metabolically active, growth-coupled protocell compartments from simple aqueous feedstocks, offering a potentially robust de novo route toward origin-of-life-like organization under lab and day–night cycling conditions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propagates -- remains elusive. Here, we show that a homogeneous aqueous chemical mixture containing phosphorus, iron, molybdenum salts and formaldehyde spontaneously self-organizes into compartments that couple robust non-equilibrium chemical dynamics to their own growth. These structures mature to a sustained, dissipative steady state and support an organic synthetic engine, producing diverse molecular species including many core biomolecular classes. Internal spherules that are themselves growth-competent are produced within the protocells, establishing a rudimentary mode of self-perpetuation. The chemical dynamics we observe in controlled laboratory conditions also occur in reaction mixtures exposed to natural day-night cycles. Strikingly, the morphology and chemical composition of the protocells in our experiments closely resemble molybdenum-rich microspheres recently discovered in current oceanic environments. Our work establishes a robust, testable route to de novo protocell formation. The emergence of life-like spatiotemporal organization and chemical dynamics from minimal initial conditions is more facile than previously thought and could be a recurring natural phenomenon.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11013">https://arxiv.org/abs/2601.11013</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11013">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] physics.chem-ph updates on arXiv.org ▶ Femtosecond spin-state switching dynamics of spin-crossover molecules condensed in thin films</title>
+    <link href="https://arxiv.org/abs/2312.01483"/>
+    <id>https://arxiv.org/abs/2312.01483</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2312.01483v2 Announce Type: replace-cross Abstract: The photoinduced switching of Fe(II)-based spin-crossover complexes from singlet to quintet takes place at ultrafast time scales. This a prior</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Ultrafast x-ray spectroscopy reveals a triplet intermediate in photoinduced Fe(II) spin-crossover switching in thin molecular films, with high-spin yield limited by intermolecular interactions—primarily a condensed-matter photophysics result with minimal direct Origins-of-Life relevance.</p>
+<p><strong>Abstract:</strong> arXiv:2312.01483v2 Announce Type: replace-cross Abstract: The photoinduced switching of Fe(II)-based spin-crossover complexes from singlet to quintet takes place at ultrafast time scales. This a priori spin-forbidden transition triggered numerous time-resolved experiments of solvated samples to elucidate the mechanism at play. The involved intermediate states remain uncertain. We apply ultrafast x-ray spectroscopy in molecular films as a method sensitive to spin, electronic, and nuclear degrees of freedom. Combining the progress in molecule synthesis and film growth with the opportunities at x-ray free-electron lasers, we analyze the transient evolution of the Fe L3 fine structure at room temperature. Our measurements and calculations indicate the involvement of an Fe triplet intermediate state. The high-spin state saturates at half of the available molecules, limited by molecule-molecule interaction within the film.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2312.01483">https://arxiv.org/abs/2312.01483</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2312.01483">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] physics.chem-ph updates on arXiv.org ▶ In situ and operando laboratory X-ray absorption spectroscopy at high temperature and controlled gas atmosphere with a plug-flow fixed-bed cell</title>
+    <link href="https://arxiv.org/abs/2601.11298"/>
+    <id>https://arxiv.org/abs/2601.11298</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11298v1 Announce Type: cross Abstract: The capabilities of a plug-flow fixed-bed cell for operando studies of heterogeneous catalysts are demonstrated using laboratory-based X-ray absorptio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Describes a high-temperature, controlled-atmosphere plug-flow cell enabling operando lab X-ray absorption spectroscopy of heterogeneous catalysts (demonstrated on Mn oxidation and Ni evolution during CO2 methanation), offering broadly relevant analytical capability but limited direct origins-of-life connection.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11298v1 Announce Type: cross Abstract: The capabilities of a plug-flow fixed-bed cell for operando studies of heterogeneous catalysts are demonstrated using laboratory-based X-ray absorption spectroscopy (XAS) with a von Hamos spectrometer. The cell operates at temperatures up to 1000 deg C and pressures up to 10 bar, equipped with three mass flow controllers and two infrared lamps for rapid heating under inert/reactive gas atmospheres. Proof-of-principle studies include in situ MnO oxidation in 5% Ni/MnO and operando Ni nanoparticle evolution in 20-NiO/COK-12 (20.2% NiO on SiO2) during CO2 methanation before/after activation. Within 5-15 min per spectrum, oxidation state changes are resolved while catalytic activity is simultaneously quantified by online GC. Extended datasets and methods are available in the ancillary file SI.pdf (Supplementary Information file). A shortened version is submitted to Journal of Analytical Atomic Spectrometry as a Technical Note.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11298">https://arxiv.org/abs/2601.11298</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11298">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] cond-mat.stat-mech updates on arXiv.org ▶ Exact and Approximate Constants of Motion in Stochastic Contact Processes</title>
+    <link href="https://arxiv.org/abs/2601.10776"/>
+    <id>https://arxiv.org/abs/2601.10776</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10776v1 Announce Type: new Abstract: We study a variety of stochastic contact processes -- directly related to models of rumor and disease spreading -- from the viewpoint of their constants</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops exact and approximate constants of motion for stochastic contact (rumor/SIR) processes, a mathematical advance in analyzing spreading dynamics but only tangentially relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10776v1 Announce Type: new Abstract: We study a variety of stochastic contact processes -- directly related to models of rumor and disease spreading -- from the viewpoint of their constants of motion, either exact or approximated. Much as in deterministic systems, constants of motion in stochastic dynamics make it possible to reduce the number of relevant variables, confining the set of accessible states, and thus facilitating their analytical treatment. For processes of rumor propagation based on the Maki-Thompson model, we show how to construct exact constants of motion as linear combinations of conserved quantities in each elementary contact event, and how they relate to the constants of motion of the corresponding mean-field equations, which are obtained as the continuous-time, large-size limit of the stochastic process. For SIR epidemic models, both in homogeneous systems and on heterogeneous networks, we find that a similar procedure produces approximate constants of motion, whose average value is preserved along the evolution. We also give examples of exact and approximate constants of motion built as nonlinear combinations of the relevant variables, whose expressions are suggested by their mean-field counterparts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10776">https://arxiv.org/abs/2601.10776</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10776">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] physics.comp-ph updates on arXiv.org ▶ Achieving angular-momentum conservation with physics-informed neural networks in computational relativistic spin hydrodynamics</title>
+    <link href="https://arxiv.org/abs/2512.17971"/>
+    <id>https://arxiv.org/abs/2512.17971</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2512.17971v2 Announce Type: replace-cross Abstract: We propose physics-informed neural networks (PINNs) as a numerical solver for relativistic spin hydrodynamics and demonstrate that the total a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces physics-informed neural networks for conserving total angular momentum in relativistic spin hydrodynamics simulations, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2512.17971v2 Announce Type: replace-cross Abstract: We propose physics-informed neural networks (PINNs) as a numerical solver for relativistic spin hydrodynamics and demonstrate that the total angular momentum, i.e., the sum of orbital and spin angular momentum, is accurately conserved throughout the fluid evolution by imposing the conservation law directly in the loss function as a training target. This enables controlled numerical studies of the mutual conversion between spin and orbital angular momentum, a central feature of relativistic spin hydrodynamics driven by the rotational viscous effect. We present two physical scenarios with a rotating fluid confined in a cylindrical container: one case in which initial orbital angular momentum is converted into spin angular momentum in analogy with the Barnett effect, and the opposite case in which initial spin angular momentum is converted into orbital angular momentum in analogy with the Einstein-de Haas effect. We investigate these conversion processes governed by the rotational viscous effect by analyzing the spacetime profiles of thermal vorticity and spin potential. Our PINNs-based framework provides the first numerical evidence for spin-orbit angular momentum conversion with fully nonlinear computational relativistic spin hydrodynamics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.17971">https://arxiv.org/abs/2512.17971</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.17971">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] q-bio.BM updates on arXiv.org ▶ ProteinGuide: On-the-fly property guidance for protein sequence generative models</title>
+    <link href="https://arxiv.org/abs/2505.04823"/>
+    <id>https://arxiv.org/abs/2505.04823</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2505.04823v4 Announce Type: replace-cross Abstract: Sequence generative models are transforming protein engineering. However, no principled framework exists for conditioning these models on auxi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces an AI method to condition pretrained protein sequence generative models on experimental/property data without retraining, demonstrated in silico and by improving a base editor via a single round of guided design versus multiple rounds of directed evolution.</p>
+<p><strong>Abstract:</strong> arXiv:2505.04823v4 Announce Type: replace-cross Abstract: Sequence generative models are transforming protein engineering. However, no principled framework exists for conditioning these models on auxiliary information, such as experimental data, without additional training of a generative model. Herein, we present ProteinGuide, a method for such &quot;on-the-fly&quot; conditioning, amenable to a broad class of protein generative models including Masked Language Models (e.g. ESM3), any-order auto-regressive models (e.g. ProteinMPNN) as well as diffusion and flow matching models (e.g. MultiFlow). ProteinGuide stems from our unifying view of these model classes under a single statistical framework. As proof of principle, we perform several in silico experiments. We first guide pre-trained generative models to design proteins with user-specified properties, such as higher stability or activity. Next, we design for optimizing two desired properties that are in tension with each other. Finally, we apply our method in the wet lab, using ProteinGuide to increase the editing activity of an adenine base editor in vivo with data from only a single pooled library of 2,000 variants. We find that a single round of ProteinGuide achieves a higher editing efficiency than was previously achieved using seven rounds of directed evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2505.04823">https://arxiv.org/abs/2505.04823</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2505.04823">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] physics.chem-ph updates on arXiv.org ▶ De novo emergence of metabolically active protocells</title>
+    <link href="https://arxiv.org/abs/2601.11013"/>
+    <id>https://arxiv.org/abs/2601.11013</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propag</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> protocell, life</p>
+<p><strong>AI Decision:</strong> An aqueous mixture of simple feedstocks (P/Fe/Mo salts and formaldehyde) spontaneously forms metabolically active, growing protocell-like compartments that reach a dissipative steady state, synthesize diverse organics, and generate internal growth-competent spherules, suggesting a robust laboratory route to de novo protocell formation under day–night cycling conditions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11013v1 Announce Type: cross Abstract: A continuous route from a disordered soup of simple chemical feedstocks to a functional protocell -- a compartment that metabolizes, grows, and propagates -- remains elusive. Here, we show that a homogeneous aqueous chemical mixture containing phosphorus, iron, molybdenum salts and formaldehyde spontaneously self-organizes into compartments that couple robust non-equilibrium chemical dynamics to their own growth. These structures mature to a sustained, dissipative steady state and support an organic synthetic engine, producing diverse molecular species including many core biomolecular classes. Internal spherules that are themselves growth-competent are produced within the protocells, establishing a rudimentary mode of self-perpetuation. The chemical dynamics we observe in controlled laboratory conditions also occur in reaction mixtures exposed to natural day-night cycles. Strikingly, the morphology and chemical composition of the protocells in our experiments closely resemble molybdenum-rich microspheres recently discovered in current oceanic environments. Our work establishes a robust, testable route to de novo protocell formation. The emergence of life-like spatiotemporal organization and chemical dynamics from minimal initial conditions is more facile than previously thought and could be a recurring natural phenomenon.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11013">https://arxiv.org/abs/2601.11013</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11013">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] physics.comp-ph updates on arXiv.org ▶ NAVIS: A LAMMPS-Python framework for efficient computation of nanochannel velocity and thermal interfacial slip</title>
+    <link href="https://arxiv.org/abs/2601.11391"/>
+    <id>https://arxiv.org/abs/2601.11391</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.11391v1 Announce Type: cross Abstract: We present NAVIS (NAnochannel Velocity and thermal Interfacial Slip), a LAMMPS-Python scripted toolkit for computing the Navier (hydrodynamic) frictio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Introduces NAVIS, a LAMMPS-Python equilibrium MD toolkit to compute hydrodynamic friction and thermal (Kapitza) resistance at solid–water interfaces (e.g., graphene and CNTs), broadly relevant to nanoscale aqueous transport but only indirectly connected to Origins-of-Life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.11391v1 Announce Type: cross Abstract: We present NAVIS (NAnochannel Velocity and thermal Interfacial Slip), a LAMMPS-Python scripted toolkit for computing the Navier (hydrodynamic) friction coefficient and Kapitza (thermal) resistance at arbitrary solid-fluid interfaces. NAVIS is based on equilibrium molecular dynamics (EMD) methods for calculating the linear response friction and thermal resistance at the interface, as well as the corresponding velocity and temperature slips. The methodology is based on our previous studies (Hansen, et al., Phys. Rev. E 84, 016313 (2011); Varghese et al., J. Chem. Phys. 154, 184707 (2021); Alosious, et al., J. Chem. Phys. 151, 194502 (2019); Alosious, et al., Langmuir 37, 2355-2361 (2021)), and in this work we provide a pedagogical framework for the implementation of this toolkit on two systems: (i) a water-graphene system (for hydrodynamic slip) and (ii) a water-CNT system (for thermal slip). We provide detailed instructions for performing the EMD simulations using the LAMMPS package and processing the simulation outputs using Python modules to obtain the desired quantities of interest. We expect the toolkit to be useful for computational researchers studying interfacial friction and thermal transport, key factors for efficient and practical applications of nanofluidic systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.11391">https://arxiv.org/abs/2601.11391</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.11391">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] q-bio.PE updates on arXiv.org ▶ The genetic and developmental enigma of rhizomes: crucial traits with limited understanding</title>
+    <link href="https://arxiv.org/abs/2601.10847"/>
+    <id>https://arxiv.org/abs/2601.10847</id>
+    <updated>2026-01-19T05:00:00Z</updated>
+    <summary>arXiv:2601.10847v1 Announce Type: new Abstract: Rhizomes play fundamental roles in plant evolution, persistence, and environmental adaptation by enabling clonal propagation, resource storage, and stre</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A plant developmental genetics review on rhizome regulation and evolution, with minimal relevance to origins-of-life or astrobiology beyond a general evolutionary context.</p>
+<p><strong>Abstract:</strong> arXiv:2601.10847v1 Announce Type: new Abstract: Rhizomes play fundamental roles in plant evolution, persistence, and environmental adaptation by enabling clonal propagation, resource storage, and stress resilience. Despite their ecological and agronomic importance across diverse plant lineages, the genetic and developmental regulation of rhizomes remains poorly characterized. Here, we synthesize findings from in vitro induction studies, in vivo physiological and developmental analyses, quantitative trait loci (QTL) mapping, comparative transcriptomics, and limited functional studies to evaluate current knowledge and highlight outstanding questions in rhizome biology. Results show that phytohormones are central regulators of rhizome initiation and growth, with effects mediated in a context-dependent manner through interactions with environmental and developmental cues. Across rhizomatous species, traits such as rhizome initiation, branching, and elongation are typically under polygenic control, although comparatively simpler genetic architectures have been documented in emerging model systems like Mimulus. Transcriptomic analyses further highlight hormone signaling, stress-response, and carbohydrate metabolism pathways as key regulatory components. However, few genes have been functionally validated, underscoring the need for experimentally tractable systems for genetic dissection. Perennial Mimulus species are proposed as promising models for rhizome research due to their experimental accessibility, ecological relevance, and established genomic resources. Integrated approaches leveraging fine-mapping, near-isogenic lines, multi-omics network reconstruction, and genome editing are poised to accelerate the discovery of causal loci and regulatory networks underlying rhizome development, thereby illuminating key processes involved in plant adaptation and perenniality, with direct implications for evolutionary biology and crop improvement.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.10847">https://arxiv.org/abs/2601.10847</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.10847">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] Nature Communications ▶ Longitudinal analysis of body weight reveals homeostatic and adaptive traits linked to lifespan in diversity outbred mice</title>
     <link href="https://www.nature.com/articles/s41467-026-68392-6"/>
@@ -6694,285 +7156,5 @@
 <li><a href="https://doi.org/10.1038/s41467-025-65778-w">https://doi.org/10.1038/s41467-025-65778-w</a></li>
 </ul>
 <p><a href="https://www.sciencedaily.com/releases/2026/01/260112001032.htm">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] cond-mat.stat-mech updates on arXiv.org ▶ Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire</title>
-    <link href="https://arxiv.org/abs/2601.05514"/>
-    <id>https://arxiv.org/abs/2601.05514</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05514v1 Announce Type: cross Abstract: As remarked by Boltzmann, the Second Law of Thermodynamics is notable for the fact that it is readily proved using elementary statistical arguments, b</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> An exactly solvable quantum-wire model shows that Joule-heating entropy production emerges only in the limit of many local measurements (decoherence/inelastic processes), offering broad conceptual context on how the Second Law can arise from microscopic quantum dynamics but with no direct origins-of-life content.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05514v1 Announce Type: cross Abstract: As remarked by Boltzmann, the Second Law of Thermodynamics is notable for the fact that it is readily proved using elementary statistical arguments, but becomes harder and harder to verify the more precise the microscopic description of a system. In this article, we investigate one particular realization of the 2nd Law, namely Joule heating in a wire under electrical bias. We analyze the production of entropy in an exactly solvable model of a quantum wire wherein the conserved flow of entropy under unitary quantum evolution is taken into account using an exact formula for the entropy current of a system of independent quantum particles. In this exact microscopic description of the quantum dynamics, the entropy production due to Joule heating does not arise automatically. Instead, we show that the expected entropy production is realized in the limit of a large number of local measurements by a series of floating thermoelectric probes along the length of the wire, which inject entropy into the system as a result of the information obtained via their continuous measurements of the system. The decoherence resulting from inelastic processes introduced by the local measurements is essential to the phenomenon of entropy production due to Joule heating, and would be expected to arise due to inelastic scattering in real systems of interacting particles.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05514">https://arxiv.org/abs/2601.05514</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05514">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] cond-mat.dis-nn updates on arXiv.org ▶ Dynamical entanglement percolation with spatially correlated disorder</title>
-    <link href="https://arxiv.org/abs/2601.05925"/>
-    <id>https://arxiv.org/abs/2601.05925</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05925v1 Announce Type: cross Abstract: The distribution of entanglement between the nodes of a quantum network plays a fundamental role in quantum information applications. In this work, we</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Studies entanglement percolation dynamics in disordered quantum qubit networks, with no clear connection to prebiotic chemistry, abiogenesis, habitability, or biosignature detection.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05925v1 Announce Type: cross Abstract: The distribution of entanglement between the nodes of a quantum network plays a fundamental role in quantum information applications. In this work, we investigate the dynamics of a network of qubits where each edge corresponds to an independent two-qubit interaction. By applying tools from percolation theory, we study how entanglement dynamically spreads across the network. We show that the interplay between unitary evolution and spatially correlated disorder leads to a non-standard percolation phenomenology, significantly richer than uniform bond percolation and featuring hysteresis. A two-colour correlated bond percolation model, whose phase diagram is determined via numerical simulations and a mean-field theory, fully elucidates the physics behind this phenomenon.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05925">https://arxiv.org/abs/2601.05925</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05925">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] cs.NE updates on arXiv.org ▶ Evolving Cognitive Architectures</title>
-    <link href="https://arxiv.org/abs/2601.05277"/>
-    <id>https://arxiv.org/abs/2601.05277</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05277v1 Announce Type: cross Abstract: This article proposes a research and development direction that would lead to the creation of next-generation intelligent technical systems. A distinc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Proposes an evolutionary framework for developing AI cognitive architectures using semiotics and constructivist ontogenesis concepts, with only tangential relevance to origins-of-life via the general notion of evolution.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05277v1 Announce Type: cross Abstract: This article proposes a research and development direction that would lead to the creation of next-generation intelligent technical systems. A distinctive feature of these systems is their ability to undergo evolutionary change. Cognitive architectures are now one of the most promising ways to create Artificial General Intelligence systems. One of the main problems of modern cognitive architectures is an excessively schematic approach to modeling the processes of cognitive activity. It does not allow the creation of a universal architecture that would be capable of reproducing higher nervous functions without using a predetermined set of perception patterns. Our paper proposes an evolutionary approach to creating a cognitive architecture. The basis of this approach is the use of a functional core, which consistently generates the intellectual functions of an autonomous agent. We are considering a cognitive architecture that includes components, the interaction of which ensures the evolution of the agent. The discussion of the development of intelligence is carried out using the conceptual apparatus of semiotics. This allows us to consider the task of developing cognitive functions as a problem of establishing a connection between the Merkwelt and the Werkwelt through the creation of the Innenwelt. The problem of early postnatal ontogenesis is investigated on the basis of the theory of constructivism: we discuss the requirements for the functional core and its composition, as well as the mechanism that initiates the process of cognition.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05277">https://arxiv.org/abs/2601.05277</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05277">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ Setting up the physical principles of resilience in a model of the Earth System</title>
-    <link href="https://arxiv.org/abs/2601.05994"/>
-    <id>https://arxiv.org/abs/2601.05994</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05994v1 Announce Type: new Abstract: Resilience is a property of social, ecological, social-ecological and biophysical systems. It describes the capacity of a system to cope with, adapt to </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, earth</p>
-<p><strong>AI Decision:</strong> Proposes a physics-informed Earth System resilience framework based on metastable equilibria and dissipative “friction” among planetary-boundary variables to help prevent climate runaway and sustain planetary habitability under Anthropocene forcing.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05994v1 Announce Type: new Abstract: Resilience is a property of social, ecological, social-ecological and biophysical systems. It describes the capacity of a system to cope with, adapt to and innovate in response to a changing surrounding. Given the current climate change crisis, ensuring conditions for a sustainable future for the habitability on the planet is fundamentally dependent on Earth System (ES) resilience. It is thus particularly relevant to establish a model that captures and frames resilience of the ES, most particularly in physical terms that can be influenced by human policy\footnote{See page 4 for examples of strategies}. In this work we propose that resilience can serve as a theoretical foundation when unpacking and describing metastable states of equilibrium and energy dissipation in any dynamic description of the variables that characterise the ES. Since the impact of the human activities can be suitably gauged by the planetary boundaries (PBs) and the planet&#x27;s temperature is the net result of the multiple PB variables, such as $\text{CO}_2$ concentration and radiative forcing, atmospheric aerosol loading, atmospheric ozone depletion, etc, then resilience features arise once conditions to avoid an ES runaway to a state where the average temperature is much higher than the current one. Our model shows that this runaway can be prevented by the presence of metastable states and dynamic friction built out of the interaction among the PB variables once suitable conditions are satisfied. In this work these conditions are specified. As humanity moves away from Holocene conditions, we argue that resilience features arising from metastable states might be crucial for the ES to follow sustainable trajectories in the Anthropocene that prevent it run into a much hotter potential equilibrium state.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05994">https://arxiv.org/abs/2601.05994</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05994">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] astro-ph.EP updates on arXiv.org ▶ Paving the Road to the Habitable Worlds Observatory with High-Resolution Imaging I: New and Archival Speckle Observations of Potential HWO Target Stars</title>
-    <link href="https://arxiv.org/abs/2601.05387"/>
-    <id>https://arxiv.org/abs/2601.05387</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05387v1 Announce Type: cross Abstract: One of the key goals of the Habitable Worlds Observatory (HWO) is to directly image about 25 potentially habitable exoplanets and determine their prop</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, habitab*</p>
-<p><strong>AI Decision:</strong> Speckle imaging survey characterizes close stellar companions among provisional Habitable Worlds Observatory target stars to de-risk future direct-imaging searches for potentially habitable exoplanets and biosignature measurements.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05387v1 Announce Type: cross Abstract: One of the key goals of the Habitable Worlds Observatory (HWO) is to directly image about 25 potentially habitable exoplanets and determine their properties. This challenge will require a large survey of nearby, bright stars -- ~100 according to the Astro2020 Decadel Survey. To ensure the success of the mission and to help guide design decisions, the stellar multiplicity of the target stars must be well-understood. To this end, we present optical speckle imaging of stars in the NASA Exoplanet Exploration Program (ExEP) provisional HWO star list, which is currently the Tier 1 target list for the HWO Target Stars and Systems Sub-Working Group. We obtained new observations using `Alopeke and Zorro at Gemini Observatory and queried the Exoplanet Follow-up Observing Program Archive for archival observations, resulting in speckle imaging data for 80 of the 164 stars. We confirmed one candidate companion detected previously by Gaia (HD 90089) and obtained an ambiguous detection of a known companion (HD 212330). To examine our sensitivity to companions, we simulated stellar companions down to ~0.1 $M_{\odot}$ for each target and found that 75%-85% would be detected in our speckle images; the remaining simulated companions are either too faint or too close-in, and will require follow-up using other methods such as long-term spectroscopic measurements and space-based techniques. This work represents a first step towards surveying potential HWO targets for close-in stellar companions and helping to inform the target selection process for the HWO direct-imaging survey, bringing us closer towards the discovery of potential habitable worlds.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05387">https://arxiv.org/abs/2601.05387</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05387">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [85] astro-ph.EP updates on arXiv.org ▶ Stellar control on atmospheric carbon chemistry, CO runaway, and organic synthesis on lifeless Earth-like planets</title>
-    <link href="https://arxiv.org/abs/2601.05480"/>
-    <id>https://arxiv.org/abs/2601.05480</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05480v1 Announce Type: new Abstract: The abundances of atmospheric carbon species--carbon dioxide (CO2), carbon monoxide (CO), and methane (CH4)--exert fundamental controls on the climate, </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> prebiotic, exoplanet, habitab*, earth</p>
-<p><strong>AI Decision:</strong> Coupled climate–photochemistry–carbon-cycle modeling predicts that lifeless Earth-like planets can undergo CO runaway (especially around cooler stars) and that prebiotic formaldehyde production is maximized just interior to the runaway threshold around more UV-luminous stars, directly informing habitability and prebiotic chemistry expectations for future exoplanet spectra.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05480v1 Announce Type: new Abstract: The abundances of atmospheric carbon species--carbon dioxide (CO2), carbon monoxide (CO), and methane (CH4)--exert fundamental controls on the climate, redox state, and prebiotic environment of terrestrial planets. As exoplanet atmospheric characterization advances, it is essential to understand how these species are regulated on habitable terrestrial planets across a wide range of stellar and planetary conditions. Here, we develop an integrated numerical model that couples atmospheric chemistry, climate, and the long-term carbon cycle to investigate the atmospheric compositions of lifeless, Earth-like planets orbiting Sun-like (F-, G-, and K-type) stars. Our simulations demonstrate that CO2, CO, and CH4 generally increase with orbital distance, and that planets near the outer edge of the habitable zone may undergo CO runaway--a photochemical instability driven by severe depletion of OH radicals. The threshold for CO runaway depends strongly on stellar spectral type and is most easily triggered around cooler, lower-mass stars. In contrast, the atmospheric production of formaldehyde (H2CO)--a key precursor for prebiotic organic chemistry--peaks around planets orbiting more massive, UV-luminous stars and is maximized at orbital distances just interior to the CO-runaway threshold. These results establish a quantitative framework linking observable system properties--stellar type and orbital distance--and the atmospheric carbon chemistry of lifeless Earth-like planets, providing new context for interpreting future spectroscopic observations and for evaluating the potential of such planets to sustain prebiotic chemistry.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05480">https://arxiv.org/abs/2601.05480</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05480">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] astro-ph.EP updates on arXiv.org ▶ Two temperate Earth- and Neptune-sized planets orbiting fully convective M dwarfs</title>
-    <link href="https://arxiv.org/abs/2601.05799"/>
-    <id>https://arxiv.org/abs/2601.05799</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05799v1 Announce Type: new Abstract: As the diversity of exoplanets continues to grow, it is important to revisit assumptions about habitability and classical HZ definitions. In this work, </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, earth</p>
-<p><strong>AI Decision:</strong> Reports discovery/validation of an Earth-sized and a Neptune-sized temperate-zone planet around fully convective M dwarfs, framing an expanded &#x27;temperate&#x27; instellation regime and highlighting TOI-6716 b as a potentially JWST-accessible rocky-world habitability target if it retained an atmosphere.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05799v1 Announce Type: new Abstract: As the diversity of exoplanets continues to grow, it is important to revisit assumptions about habitability and classical HZ definitions. In this work, we introduce an expanded &#x27;temperate&#x27; zone, defined by instellation fluxes between $0.1</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05799">https://arxiv.org/abs/2601.05799</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05799">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] astro-ph.EP updates on arXiv.org ▶ Overestimated Pressure Broadening Misleads Model Spectra in Cool M Dwarf Stars</title>
-    <link href="https://arxiv.org/abs/2601.05313"/>
-    <id>https://arxiv.org/abs/2601.05313</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05313v1 Announce Type: cross Abstract: Available one-dimensional stellar models fail to reproduce the observed spectrum of the ultracool M dwarf TRAPPIST-1. In particular, current models pr</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Shows that standard pressure-broadening assumptions overpredict FeH and distort near-IR continua in TRAPPIST-1–like M dwarfs, implying improved stellar spectral models are needed for reliable characterization of TRAPPIST-1 planets’ atmospheres and potential biosignature inferences.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05313v1 Announce Type: cross Abstract: Available one-dimensional stellar models fail to reproduce the observed spectrum of the ultracool M dwarf TRAPPIST-1. In particular, current models predict strong iron hydride (FeH) absorption due to the Wing-Ford bands at 0.99$\mu$m, yet this spectral feature is only weakly present in TRAPPIST-1 and other mid-to-late M dwarf stars. Additionally, the shape of the continuum between the water bands in the near-infrared does not match between models and observations. Here, we show that assumptions about pressure broadening, specifically van der Waals broadening, have a dramatic effect on modeled broadband spectral features. We use Merged Parallelized Simplified-ATLAS to generate synthetic spectra over a range of van der Waals broadening strengths, adopting 1D PHOENIX temperature-pressure structures. We find that minimal broadening best matches the observed FeH profile at 0.99$\mu$m and in the pseudocontinuum between the large water bands. These results suggest that broadening prescriptions derived for Sun-like stars are not valid for lower-mass stars and that pressure broadening for molecular lines in cool stellar atmospheres must be reevaluated. Refining pressure broadening treatments will improve the accuracy of M dwarf spectral models, enabling more reliable determinations of stellar properties and atmospheric compositions of planets orbiting M dwarfs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05313">https://arxiv.org/abs/2601.05313</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05313">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] astro-ph.EP updates on arXiv.org ▶ High-energy astrochemistry in the molecular interstellar medium</title>
-    <link href="https://arxiv.org/abs/2512.10060"/>
-    <id>https://arxiv.org/abs/2512.10060</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2512.10060v3 Announce Type: replace-cross Abstract: In the past decade, there has been a significant shift in astrochemistry with a renewed focus on the role of non-thermal processes on the mole</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry</p>
-<p><strong>AI Decision:</strong> Review synthesizing how cosmic rays, fast electrons, and X-rays drive non-thermal chemistry in interstellar gas and ices, potentially enabling formation of complex organic molecules in cold or energetically harsh environments relevant to prebiotic chemical inventories.</p>
-<p><strong>Abstract:</strong> arXiv:2512.10060v3 Announce Type: replace-cross Abstract: In the past decade, there has been a significant shift in astrochemistry with a renewed focus on the role of non-thermal processes on the molecular interstellar medium, in particular energetic particles (such as cosmic ray particles and fast electrons) and X-ray radiation. This has been brought about in large part due to new observations of interstellar complex organic molecules (iCOMS) in environments that would inhibit their formation, such as cold, dense gas in prestellar cores or in the highly energetic environments in galactic centers. In parallel, there has been a plethora of new laboratory investigations on the role of high-energy radiation and electrons on the chemistry of astrophysical ices, demonstrating the ability of this radiation to induce complex chemistry. In recent years, theoretical models have also begun to include newer cosmic-ray-driven processes in both the gas and ice phases. In this review, we unify aspects of the chemistry driven by X-ray radiation and energetic particles into a ``high-energy astrochemistry&#x27;&#x27;, defining this term and reviewing the underlying chemical processes. We conclude by examining various laboratories where high-energy astrochemistry is at play and identify future issues to be tackled.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2512.10060">https://arxiv.org/abs/2512.10060</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2512.10060">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] nlin.CD updates on arXiv.org ▶ Thermodynamics of driven systems via the Kuramoto-Sivashinsky equation</title>
-    <link href="https://arxiv.org/abs/2601.05389"/>
-    <id>https://arxiv.org/abs/2601.05389</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05389v1 Announce Type: new Abstract: We examine the differences between the driven turbulence described by the Kuramoto-Sivashinsky (KS) equation and the second law of thermodynamics. A gen</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> A theoretical study of entropy production and instability spectra in driven Kuramoto–Sivashinsky turbulence using metriplectic dynamics, with only indirect relevance to origins-of-life via general non-equilibrium thermodynamics.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05389v1 Announce Type: new Abstract: We examine the differences between the driven turbulence described by the Kuramoto-Sivashinsky (KS) equation and the second law of thermodynamics. A general velocity and entropy density system is analyzed with the unified thermodynamic algorithm of metriplectic dynamics, and we show that the positive spectra of the KS equation due to an external energy source prevent its metriplectic description. A variant of the KS equation is produced that monotonically generates an entropy, but the only equilibria of this variant system are spatially constant. Numerical experiments are performed comparing the evolution of the KS equation and its thermodynamic variant. The entropy of this thermodynamic system is increased further by the driving effects of the KS equation, reconciling the generation of entropy with the energy source of the KS equation. Further numerical experiments restrict the positive spectra in the KS equation to determine the effect on the system time evolution. While rescaling the growth rates of instabilities reproduces similar behavior on a slower time scale, introduction of individual positive spectra reproduces the formation of equilibria, relative equilibria, and a transition to chaos.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05389">https://arxiv.org/abs/2601.05389</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05389">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ On the orbital evolution of binaries with polar circumbinary disks</title>
-    <link href="https://arxiv.org/abs/2601.05932"/>
-    <id>https://arxiv.org/abs/2601.05932</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05932v1 Announce Type: new Abstract: Binaries occur in many astrophysical systems, from young protostellar binaries in star forming regions to supermassive black hole binaries in galaxy cen</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> SPH simulations show eccentric binaries with polar-aligned circumbinary disks undergo enhanced orbital shrinkage and can sustain long-lived circumprimary disks, with implications for planet formation pathways in misaligned young systems.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05932v1 Announce Type: new Abstract: Binaries occur in many astrophysical systems, from young protostellar binaries in star forming regions to supermassive black hole binaries in galaxy centers. In many cases, a circumbinary disk of gas forms around the binary with an orbit that may be misaligned to the binary plane. Misaligned disks around nearly circular binaries evolve into disks that are either aligned or counteraligned with the binary orbit. However, if the binary is sufficiently eccentric, then it can be more likely that the disk ends up in a polar-aligned configuration in which the disk angular momentum vector aligns with the binary eccentricity vector. We use Smoothed Particle Hydrodynamics simulations, evolved to an approximate steady state under mass injection, to determine the orbital evolution of a binary with a polar-aligned disk for a range of binary-disk parameters. We find that, in all of the cases we have simulated, the binary shrinks with time. The decay rate is larger than for binaries surrounded by aligned or retrograde disks with matched disk parameters. The rate of shrinkage is largely unaltered by the size of the sink radii employed for the binary stars, but for small enough sink radii some of the models exhibit long-lived polar circumprimary disks, which are continually fed mass from the circumbinary disk. We discuss our results in the contexts of planet formation in young polar-aligned disks and merging supermassive black holes in galaxy centers.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05932">https://arxiv.org/abs/2601.05932</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05932">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] math-ph updates on arXiv.org ▶ A Unified Spectral Framework for Aging, Heterogeneous, and Distributed Order Systems via Weighted Weyl-Sonine Operators</title>
-    <link href="https://arxiv.org/abs/2601.05423"/>
-    <id>https://arxiv.org/abs/2601.05423</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05423v1 Announce Type: cross Abstract: Standard fractional calculus has successfully modeled systems with power-law memory. However, complex phenomena in heterogeneous media often exhibit m</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Purely mathematical work on generalized fractional-calculus operators for multi-scale memory and aging in heterogeneous systems, with no direct connection to origins-of-life, prebiotic chemistry, biosignatures, or habitability.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05423v1 Announce Type: cross Abstract: Standard fractional calculus has successfully modeled systems with power-law memory. However, complex phenomena in heterogeneous media often exhibit multi-scale memory effects and aging properties that classical operators cannot capture. In this work, we construct a unified framework by defining the \textit{Weighted Weyl-Sonine Operators}. This formalism offers a fundamental generalization of fractional calculus, freeing the theory from the constraints of power-law memory (via Sonine kernels), time-translation invariance (via scale and weight functions), and artificial history truncation (via Weyl integration). The main result is a Generalized Spectral Mapping Theorem, proving that the Weighted Fourier Transform acts as a universal diagonalization map for these operators. We rigorously characterize the admissible memory kernels through the class of \textit{Complete Bernstein Functions}, ensuring that the resulting operators preserve the fundamental properties of positivity and monotonicity. Furthermore, we establish a theoretical bridge between the algebraic Sonine definition and the analytical Marchaud representation involving L\&#x27;evy measures. Finally, we apply this theory to solve generalized relaxation equations and \textit{Weighted Distributed Order} evolution problems, demonstrating that phenomena of ultra-slow diffusion and retarded aging can be treated explicitly within this unified spectral framework.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05423">https://arxiv.org/abs/2601.05423</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05423">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] nlin.PS updates on arXiv.org ▶ Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory</title>
-    <link href="https://arxiv.org/abs/2601.05938"/>
-    <id>https://arxiv.org/abs/2601.05938</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05938v1 Announce Type: new Abstract: In this work, we develop, in the Gurevich-Pitaevskii framework, an analytic theory for the evolution of localized pulses in the defocusing modified Kort</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Analytic and numerical study of dispersive shock-wave pulse evolution in the defocusing modified KdV equation, with no direct connection to prebiotic chemistry, biosignatures, or origins-of-life research.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05938v1 Announce Type: new Abstract: In this work, we develop, in the Gurevich-Pitaevskii framework, an analytic theory for the evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory for situations when a dispersive shock does not eventually transform into a sequence of well-separated solitons. We found solutions to the Whitham modulation equations for the corresponding so-called &quot;quasi-simple&quot; dispersive shock waves and illustrated this solution with concrete examples of an initial pulse. Comparison of the analytical solution with direct numerical simulations showed that the modulation theory provides a very accurate description of the wave pattern even at one wavelength scale.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05938">https://arxiv.org/abs/2601.05938</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05938">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ Distinct Rotational Evolution of Giant Planets and Brown Dwarf Companions</title>
-    <link href="https://arxiv.org/abs/2601.05976"/>
-    <id>https://arxiv.org/abs/2601.05976</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05976v1 Announce Type: new Abstract: We present a rotational velocity (vsini) survey of 32 stellar/substellar objects and giant planets using Keck/KPIC high-resolution spectroscopy, includi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> High-resolution Keck/KPIC spin measurements suggest giant planets rotate faster (as a fraction of breakup speed) than low-mass brown-dwarf companions, implying different angular-momentum loss histories during formation (e.g., circumplanetary disk braking), with indirect relevance to planet formation context rather than origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05976v1 Announce Type: new Abstract: We present a rotational velocity (vsini) survey of 32 stellar/substellar objects and giant planets using Keck/KPIC high-resolution spectroscopy, including 6 giant planets (2-7 M$_\mathrm{Jup}$) and 25 substellar/stellar companions (12-88 M$_\mathrm{Jup}$). Adding companions with spin measurements from the literature, we construct a curated spin sample for 43 benchmark stellar/substellar companions and giant planets and 54 free-floating brown dwarfs and planetary mass objects. We compare their spins, parameterized as fractional breakup velocities at 10 Myr, assuming constant angular momentum evolution. We find the first clear evidence that giant planets exhibit distinct spins versus low-mass brown dwarf companions (10 to 40 M$_\mathrm{Jup}$) at 4-4.5 $\sigma$ significance assuming inclinations aligned with their orbits, while under randomly oriented inclinations the significance is at 1.6-2.1 $\sigma$. Our findings hold when considering various assumptions about planets, and the mass ratio below 0.8% gives a clean cut for rotation between giant planets and brown dwarf companions. The higher fractional breakup velocities of planets can be interpreted as less angular momentum loss through circumplanetary disk braking during the planet formation phase. Brown dwarf companions exhibit evidence of slower rotation compared to isolated brown dwarfs, while planets and planetary mass objects show similar spins. Finally, our analysis of specific angular momentum versus age of 221 stellar/substellar objects below 0.1 MSun with spin measurements in the literature indicates that the substellar objects of 5-40 M$_\mathrm{Jup}$ retain much higher angular momenta compared to stellar and substellar objects of 40-100 M$_\mathrm{Jup}$ after 10 Myr, when their initial angular momenta were set.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05976">https://arxiv.org/abs/2601.05976</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05976">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] astro-ph.EP updates on arXiv.org ▶ Modeling the Solar System I: Characterization Limits from Analytic Timing Variations</title>
-    <link href="https://arxiv.org/abs/2407.13154"/>
-    <id>https://arxiv.org/abs/2407.13154</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2407.13154v4 Announce Type: replace Abstract: Planetary systems with multiple transiting planets are beneficial for understanding planet occurrence rates and system architectures. Although we ha</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> venus, mars, earth</p>
-<p><strong>AI Decision:</strong> Simulations of Solar System-like transit timing variations show when Venus/Earth-mass planets and even Jupiter/Mars analogues could be dynamically detected and characterized, highlighting how unseen terrestrial planets can bias multi-planet system inference relevant to identifying potentially habitable architectures.</p>
-<p><strong>Abstract:</strong> arXiv:2407.13154v4 Announce Type: replace Abstract: Planetary systems with multiple transiting planets are beneficial for understanding planet occurrence rates and system architectures. Although we have yet to find a solar system analogue, future surveys may detect multiple terrestrial planets transiting a Sun-like star. In this work, we simulate transit timing observations of our system based on the actual orbital motions of Venus and the Earth+Moon (EM) -- influenced by the other solar system objects -- and retrieve the system&#x27;s dynamical parameters for varying noise levels and observing durations. Using an approximate coplanar N-body model for transit-time variations, we consider test configurations with 2, 3, and 4 planets. For various observing baselines, we can robustly retrieve the masses and orbits of Venus and EM; detect Jupiter at high significance (for &lt; 90-second timing error and baseline $\leq$ 15 yrs); and detect Mars at 5 $\sigma$ confidence (with &lt; 20-second timing error and baseline $\geq$ 27 yrs) using TTVFaster. We also find that the 3-planet model is generally preferred, and provide equations to estimate the mass precision of Venus/Earth/Jupiter-analogues. The addition of Mars -- which is near a 2:1 mean-motion resonance with Earth -- improves our retrieval of Jupiter&#x27;s parameters, suggesting that unseen terrestrials could interfere in the characterization of multi-planetary systems. Our findings are comparable to theoretical limits based upon stellar variability and may eventually be possible.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2407.13154">https://arxiv.org/abs/2407.13154</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2407.13154">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] physics.chem-ph updates on arXiv.org ▶ Heterogeneous ice nucleation on model substrates</title>
-    <link href="https://arxiv.org/abs/2601.05758"/>
-    <id>https://arxiv.org/abs/2601.05758</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05758v1 Announce Type: cross Abstract: Ice nucleation is greatly important in areas as diverse as climate change, cryobiology, geology or food industry. Predicting the ability of a substrat</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Molecular simulations quantify how crystal lattice type/orientation controls heterogeneous ice nucleation rates and extract CNT parameters (contact angle, barrier, critical cluster size), offering broadly relevant physical insights for icy/cryogenic settings but limited direct origins-of-life chemistry linkage.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05758v1 Announce Type: cross Abstract: Ice nucleation is greatly important in areas as diverse as climate change, cryobiology, geology or food industry. Predicting the ability of a substrate to induce the nucleation of ice from supercooled water is a difficult problem. Here, we use molecular simulations to analyse how the ice nucleating ability is affected by the substrate lattice structure and orientation. We focus on different model lattices: simple cubic, body centred cubic and face centred cubic, and assess their ability to induce ice nucleation by calculating nucleation rates. Several orientations are studied for the case of the face centred cubic lattice. Curiously, a hexagonal symmetry does not guarantee a better ice nucleating ability. By comparing the body centred cubic and the cubic lattices we determined that there is a significant role of the underlying crystal plane(s) on ice nucleation. The structure of the liquid layer adjacent to the substrate reveals that more efficient nucleants induce a more structured liquid. The most efficient substrates present a strong sensitivity of their ice nucleating ability to the lattice parameters. Introducing a novel methodological approach, we use Classical Nucleation Theory to estimate the contact angle of the ice nucleus on the studied substrates from the calculated nucleation rates. The method also provides the nucleation free energy barrier height, the kinetic pre-factor and the critical cluster size. The latter is in agreement with the nucleus size obtained through a microscopic analysis of the nucleation trajectories, which supports the validity of Classical Nucleation Theory down to small critical clusters.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05758">https://arxiv.org/abs/2601.05758</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05758">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [2] physics.chem-ph updates on arXiv.org ▶ Diverse polymorphism in Ruddlesden-Popper chalcogenides</title>
-    <link href="https://arxiv.org/abs/2507.11300"/>
-    <id>https://arxiv.org/abs/2507.11300</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2507.11300v2 Announce Type: replace-cross Abstract: Ruddlesden-Popper (RP) chalcogenides are stable, non-toxic candidates for optoelectronic or thermoelectric applications. The structural divers</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Machine-learned molecular dynamics predicts new polymorphs and phase behaviors in Ba–Zr–S Ruddlesden-Popper chalcogenides, but with no direct connection to origins-of-life chemistry, habitability, or biosignatures.</p>
-<p><strong>Abstract:</strong> arXiv:2507.11300v2 Announce Type: replace-cross Abstract: Ruddlesden-Popper (RP) chalcogenides are stable, non-toxic candidates for optoelectronic or thermoelectric applications. The structural diversity of RP oxides is already exploited to tune properties or achieve more advanced functionalities like multiferroicity, however, little is known about the structural evolution of RP chalcogenides. In this work, we develop a high-accuracy machine-learned interatomic potential to run large-scale molecular dynamics simulations on $Ba_{n+1}Zr_nS_{3n+1}$ for $n=1$ to $n=6$. We predict new polymorphs for each $n$-value, calculate their corresponding phase transition temperatures, and validate our approach through comparison to published experimental results. We find that the $n=1$ phase exhibits negative thermal expansion, that $n=1$ and $n=3$ undergo unusual ascending symmetry breaking, and that phases with $n\geq4$ form layer-dependent tilt patterns previously unreported for inorganic RP materials. This unique behaviour results from competition between octahedral rotations and rumpling at the rocksalt interface, and suggests new strategies for accessing advanced functionalities.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2507.11300">https://arxiv.org/abs/2507.11300</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2507.11300">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] physics.comp-ph updates on arXiv.org ▶ Adaptive Online Emulation for Accelerating Complex Physical Simulations</title>
-    <link href="https://arxiv.org/abs/2508.08012"/>
-    <id>https://arxiv.org/abs/2508.08012</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2508.08012v2 Announce Type: replace Abstract: Complex physical simulations often require trade-offs between model fidelity and computational feasibility. We introduce Adaptive Online Emulation (</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
-<p><strong>AI Decision:</strong> Proposes an adaptive online neural surrogate approach (AOE) that speeds up expensive components of physical simulations and demonstrates an 11× acceleration on a 1D exoplanet (GJ1214b) atmospheric time-stepping model, potentially enabling faster atmospheric/habitability modeling but with limited direct origins-of-life content.</p>
-<p><strong>Abstract:</strong> arXiv:2508.08012v2 Announce Type: replace Abstract: Complex physical simulations often require trade-offs between model fidelity and computational feasibility. We introduce Adaptive Online Emulation (AOE), which dynamically learns neural network surrogates during simulation execution to accelerate expensive components. Unlike existing methods requiring extensive offline training, AOE uses Online Sequential Extreme Learning Machines (OS-ELMs) to continuously adapt emulators along the actual simulation trajectory. We employ a numerically stable variant of the OS-ELM using cumulative sufficient statistics to avoid matrix inversion instabilities. AOE integrates with time-stepping frameworks through a three-phase strategy balancing data collection, updates, and surrogate usage, while requiring orders of magnitude less training data than conventional surrogate approaches. Demonstrated on a 1D atmospheric model of exoplanet GJ1214b, AOE achieves 11.1 times speedup (91% time reduction) across 200,000 timesteps while maintaining accuracy, potentially making previously intractable high-fidelity time-stepping simulations computationally feasible.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2508.08012">https://arxiv.org/abs/2508.08012</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2508.08012">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] q-bio.BM updates on arXiv.org ▶ Tensor-DTI: Enhancing Biomolecular Interaction Prediction with Contrastive Embedding Learning</title>
-    <link href="https://arxiv.org/abs/2601.05792"/>
-    <id>https://arxiv.org/abs/2601.05792</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05792v1 Announce Type: cross Abstract: Accurate drug-target interaction (DTI) prediction is essential for computational drug discovery, yet existing models often rely on single-modality pre</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Introduces a contrastive multimodal deep-learning framework (Tensor-DTI) for predicting biomolecular interactions in drug discovery, with limited direct relevance to origins-of-life research aside from general RNA/protein interaction modeling applicability.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05792v1 Announce Type: cross Abstract: Accurate drug-target interaction (DTI) prediction is essential for computational drug discovery, yet existing models often rely on single-modality predefined molecular descriptors or sequence-based embeddings with limited representativeness. We propose Tensor-DTI, a contrastive learning framework that integrates multimodal embeddings from molecular graphs, protein language models, and binding-site predictions to improve interaction modeling. Tensor-DTI employs a siamese dual-encoder architecture, enabling it to capture both chemical and structural interaction features while distinguishing interacting from non-interacting pairs. Evaluations on multiple DTI benchmarks demonstrate that Tensor-DTI outperforms existing sequence-based and graph-based models. We also conduct large-scale inference experiments on CDK2 across billion-scale chemical libraries, where Tensor-DTI produces chemically plausible hit distributions even when CDK2 is withheld from training. In enrichment studies against Glide docking and Boltz-2 co-folder, Tensor-DTI remains competitive on CDK2 and improves the screening budget required to recover moderate fractions of high-affinity ligands on out-of-family targets under strict family-holdout splits. Additionally, we explore its applicability to protein-RNA and peptide-protein interactions. Our findings highlight the benefits of integrating multimodal information with contrastive objectives to enhance interaction-prediction accuracy and to provide more interpretable and reliability-aware models for virtual screening.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05792">https://arxiv.org/abs/2601.05792</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05792">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] physics.chem-ph updates on arXiv.org ▶ Topological origin of peak splitting in the structure factor of liquid water</title>
-    <link href="https://arxiv.org/abs/2601.05891"/>
-    <id>https://arxiv.org/abs/2601.05891</id>
-    <updated>2026-01-12T05:00:00Z</updated>
-    <summary>arXiv:2601.05891v1 Announce Type: cross Abstract: The splitting of the principal peak in the structure factor of liquid water is commonly interpreted as evidence of a competition between two distinct </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Atomistic simulations link the split principal peak in liquid water’s structure factor to medium-range hydrogen-bond network topology (5–8 membered rings), refining our physical understanding of water’s anomalous structure that underpins many prebiotic and habitability-relevant processes.</p>
-<p><strong>Abstract:</strong> arXiv:2601.05891v1 Announce Type: cross Abstract: The splitting of the principal peak in the structure factor of liquid water is commonly interpreted as evidence of a competition between two distinct local environments. Here, we show that this peak splitting arises from medium-range topological features of the hydrogen-bond network. Using atomistic simulations, we systematically decompose the structure factor into contributions from hydrogen-bonded rings of different sizes. We find that 5-8-membered rings, which dominate the network topology of liquid water at low temperatures, can directly explain the experimentally observed bimodal scattering signal. Among these, 5-membered rings are particularly persistent, maintaining distinct structural signatures even above room temperature. Our findings establish a direct link between the network topology of liquid water and experimentally accessible diffraction features, clarifying the microscopic basis of water&#x27;s behaviour and suggesting a broader conceptual framework for interpreting the anomalies in tetrahedral network liquids and glasses.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.05891">https://arxiv.org/abs/2601.05891</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.05891">Read source article</a></p>]]></content>
   </entry>
 </feed>
