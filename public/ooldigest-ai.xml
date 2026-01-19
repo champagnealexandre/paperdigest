@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-19T03:51:57.139915+00:00</updated>
+  <updated>2026-01-19T04:48:45.200111+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] Nature Communications ▶ Longitudinal analysis of body weight reveals homeostatic and adaptive traits linked to lifespan in diversity outbred mice</title>
+    <link href="https://www.nature.com/articles/s41467-026-68392-6"/>
+    <id>https://www.nature.com/articles/s41467-026-68392-6</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 19 January 2026; doi:10.1038/s41467-026-68392-6 This study reveals that the ability to maintain a stable body weight predicts longevity in mice. By tracking we</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A mouse genetics study showing that lifelong body-weight stability predicts longevity, identifying loci tied to energy homeostasis and healthy aging (relevant to biology of lifespan but not origins-of-life mechanisms).</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 19 January 2026; doi:10.1038/s41467-026-68392-6 This study reveals that the ability to maintain a stable body weight predicts longevity in mice. By tracking weight dynamics throughout life, the authors identify genetic loci linked to body weight, energy homeostasis and healthy aging.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68392-6">https://www.nature.com/articles/s41467-026-68392-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68392-6">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biophysics - biorXiv Preprints ▶ An Adenine-Based Molecular Rotor as a Universal Fluorescent Nucleobase with High Brightness</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1</id>
+    <updated>2026-01-18T00:00:00Z</updated>
+    <summary>Chemically modified nucleic acids have become a powerful platform for basic research and applied technologies. Universal nucleobases are used in PCR,sequencing, and the design of nanodevices and aptam</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
+<p><strong>AI Decision:</strong> Reports a very bright adenine-derived fluorescent “universal” nucleobase that perturbs pairing by base-flipping and hydrophobic stacking—useful for nucleic-acid probing but only indirectly relevant to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Chemically modified nucleic acids have become a powerful platform for basic research and applied technologies. Universal nucleobases are used in PCR,sequencing, and the design of nanodevices and aptamers. Fluorescent universal nucleobases have an even wider range of applications, including the development of nucleic acid-based sensors, switches, and relay logic gates. However, few such nucleobases have been proposed to date, and most of them have suboptimal optical properties. Here, we propose an adenine-based molecular rotor, 7,8-dihydro-8-oxo-6-(3-methylbenzo[d]thiazol-2(3H)-ylidene)adenine (oxo-AdeBZT), as a new, remarkably bright and potent fluorescent universal nucleobase. Its brightness in both oligodeoxyribonucleotides (ODNs) and DNA duplexes (4200 - 10000 M-1 * cm-1) originates from a high molar extinction coefficient (averaged 37000 M-1 * cm-1), provided by the appended 3-methylbenzo[d]thiazolyl moiety, and a relatively high quantum yield (0.11 - 0.27). Melting temperature variations observed upon the incorporation of oxo-AdeBZT opposite native nucleobases in a duplex context did not exceed 10%. The basis of these universal hybridizing properties was unveiled using computational methods. According to molecular dynamics simulations, oxo-AdeBZT pushes the opposite nucleobase out of the DNA double helix and forms multiple hydrophobic contacts with the flanking base pairs. At the same time, the rotational mobility of the bonds between the oxo-AdeBZT-constituting heterobicycles decreases, and oxo-AdeBZT adopts a planar conformation in both ODNs and their duplexes, resulting in the light-up effect. These properties make oxo-AdeBZT a promising molecular tool for analytical, biophysical and biochemical studies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] Nature Communications ▶ Controlled hierarchical self-assembly of hyperbolic paraboloid molecules into two-dimensional superstructures with second-harmonic generation characteristic</title>
     <link href="https://www.nature.com/articles/s41467-026-68567-1"/>

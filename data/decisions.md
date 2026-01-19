@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [An Adenine-Based Molecular Rotor as a Universal Fluorescent ](https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1) |
+| ai_scored | 10 | [Longitudinal analysis of body weight reveals homeostatic and](https://www.nature.com/articles/s41467-026-68392-6) |
+| keyword_rejected | - | [Modeling tissue-specific Drosophila metabolism identifies hi](https://www.nature.com/articles/s41467-026-68395-3) |
+| keyword_rejected | - | [OTX2 inhibits human pluripotent stem cell reprogramming towa](https://www.nature.com/articles/s41467-026-68388-2) |
+| keyword_rejected | - | [Longitudinal analysis of body weight reveals homeostatic and](https://www.nature.com/articles/s41467-026-68392-6) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118234833&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Clinical characteristics and survival outcomes of adult infl](https://www.nature.com/articles/s41598-026-36899-z) |
+| keyword_rejected | - | [Evaluation of salivary interleukin 6 interleukin 1 beta and ](https://www.nature.com/articles/s41598-026-36506-1) |
+| keyword_rejected | - | [Modeling tissue-specific <i>Drosophila</i> metabolism identi](https://www.nature.com/articles/s41467-026-68395-3) |
+| keyword_rejected | - | [OTX2 inhibits human pluripotent stem cell reprogramming towa](https://www.nature.com/articles/s41467-026-68388-2) |
+| keyword_rejected | - | [Genomic signatures of reproductive isolation are decoupled f](https://www.biorxiv.org/content/10.64898/2026.01.17.700129v1?rss=1) |
+| keyword_rejected | - | [Snapshots of Internal Protein Crystal Architecture at the Na](https://www.biorxiv.org/content/10.64898/2026.01.16.700027v1?rss=1) |
 | ai_scored | 0 | [Inositol hexakisphosphate Functions as a Cofactor and Modula](https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1) |
 | ai_scored | 20 | [Characterization of novel cytoplasmic roles for the N-termin](https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1) |
 | ai_scored | 45 | [The E. coli clamp loader sharply bends DNA to load β-clamp o](https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1) |
