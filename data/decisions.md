@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119013302&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Experimental study on the failure risk of existing metro sta](https://www.nature.com/articles/s41598-026-36698-6) |
+| keyword_rejected | - | [Egg disinfection improves larval survival and shapes the mic](https://www.nature.com/articles/s41598-026-35646-8) |
+| keyword_rejected | - | [Determinants of late HIV diagnosis among patients attending ](https://www.nature.com/articles/s41598-026-36766-x) |
+| keyword_rejected | - | [Association between thyroid hormone sensitivity indices and ](https://www.nature.com/articles/s41598-026-36476-4) |
+| keyword_rejected | - | [Metabolic profiles of amino acids in patients with crohn’s d](https://www.nature.com/articles/s41598-025-33334-7) |
+| keyword_rejected | - | [Central amygdala single-nucleus atlas reveals chromatin and ](https://www.nature.com/articles/s41467-026-68351-1) |
+| keyword_rejected | - | [Enhanced proton conductivity in azole-functionalized three-d](https://www.nature.com/articles/s41467-025-67873-4) |
 | ai_scored | 5 | [The genetic and developmental enigma of rhizomes: crucial tr](https://arxiv.org/abs/2601.10847) |
 | ai_scored | 30 | [NAVIS: A LAMMPS-Python framework for efficient computation o](https://arxiv.org/abs/2601.11391) |
 | ai_scored | 100 | [De novo emergence of metabolically active protocells](https://arxiv.org/abs/2601.11013) |
