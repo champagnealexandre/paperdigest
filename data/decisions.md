@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119032742&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Zinc-based metal halide electrolytes for all-solid-state zin](https://www.nature.com/articles/s41467-026-68394-4) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119022544&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Voici le robot autonome le plus petit du monde](https://www.sciencesetavenir.fr/high-tech/robot/voici-le-robot-autonome-le-plus-petit-du-monde_190444?xtor=RSS-12) |
 | keyword_rejected | - | [Integrative epigenetics and transcriptomics identify aging g](https://www.nature.com/articles/s41467-025-67369-1) |
