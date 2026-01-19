@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119092352&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | ["Vagues sombres marines" : quand l'océan est plongé dans l'o](https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/vagues-sombres-marines-quand-l-ocean-est-plonge-dans-l-obscurite_190436?xtor=RSS-15) |
+| keyword_rejected | - | [A nanosystem targeting tissue inhibitor of metalloproteinase](https://www.nature.com/articles/s41467-026-68398-0) |
+| keyword_rejected | - | [Site-saturation functional screens identify PALB2 missense v](https://www.nature.com/articles/s41467-025-67252-z) |
+| keyword_rejected | - | [X-ray observations reveal hidden disturbances in galaxy clus](https://phys.org/news/2026-01-ray-reveal-hidden-disturbances-galaxy.html) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119084216&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Santé mentale : "Un chatbot ne doit pas faire semblant d’êtr](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/chatgpt-et-sante-mentale-un-chatbot-ne-doit-pas-faire-semblant-d-etre-un-humain-qui-tient-a-vous_190458?xtor=RSS-12) |
 | keyword_rejected | - | [Floating science stations: my month on a research vessel loo](https://www.nature.com/articles/d41586-026-00189-5) |
