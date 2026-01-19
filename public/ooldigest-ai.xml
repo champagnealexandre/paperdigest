@@ -3,8 +3,33 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-19T20:20:43.800964+00:00</updated>
+  <updated>2026-01-19T21:16:54.536914+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [30] nature.com - Biological sciences ▶ Genomic language model mitigates chimera artifacts in nanopore direct RNA sequencing</title>
+    <link href="https://www.nature.com/articles/s41467-026-68571-5"/>
+    <id>https://www.nature.com/articles/s41467-026-68571-5</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces a genomic language-model approach to reduce chimera artifacts in nanopore direct RNA sequencing, improving RNA data quality but with only indirect relevance to origins-of-life research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68571-5">https://www.nature.com/articles/s41467-026-68571-5</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68571-5">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] phys.org - Space News ▶ Improving astronaut fitness for deep space missions</title>
+    <link href="https://phys.org/news/2026-01-astronaut-deep-space-missions.html"/>
+    <id>https://phys.org/news/2026-01-astronaut-deep-space-missions.html</id>
+    <updated>2026-01-19T20:30:13Z</updated>
+    <summary>As we prepare for missions beyond Earth orbit, one crucial challenge remains: keeping astronauts healthy in microgravity. Without daily exercise, their muscles, bones and cardiovascular systems weaken</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, mars</p>
+<p><strong>AI Decision:</strong> Discusses maintaining astronaut musculoskeletal and cardiovascular fitness in microgravity for Moon/Mars missions, which is only tangentially related to astrobiology and not to origins-of-life research.</p>
+<p><strong>Abstract:</strong> As we prepare for missions beyond Earth orbit, one crucial challenge remains: keeping astronauts healthy in microgravity. Without daily exercise, their muscles, bones and cardiovascular systems weaken, which could impact mission success and astronaut safety, especially in destinations such as the moon or Mars, where crew will have to operate autonomously immediately after landing.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-astronaut-deep-space-missions.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Origins Center 2026 Conference</title>
     <link href="https://astrobiology.com/2026/01/origins-center-2026-conference.html"/>
@@ -7157,17 +7182,5 @@
 <p><strong>Abstract:</strong> As the climate changes, scientists are concerned about how well plants and animals will adapt to rapid warming. A new University of Vermont study has explored the early embryonic life stage of a globally common fruit fly, Drosophila melanogaster, looking at how the eggs responded to temperature variability at the genomic level.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] phys.org - Space News ▶ Tiny Mars&#x27;s big impact on Earth&#x27;s climate: How the red planet&#x27;s pull shapes ice ages</title>
-    <link href="https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html"/>
-    <id>https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html</id>
-    <updated>2026-01-12T20:31:21Z</updated>
-    <summary>At half the size of Earth and one-tenth its mass, Mars is a featherweight as far as planets go. Yet new research reveals the extent to which Mars is quietly tugging on Earth&#x27;s orbit and shaping the cy</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, mars</p>
-<p><strong>AI Decision:</strong> The article discusses how Mars’ gravitational perturbations may modulate Earth’s orbital cycles and long-term climate (including ice ages), a broad habitability-context topic but not directly related to origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> At half the size of Earth and one-tenth its mass, Mars is a featherweight as far as planets go. Yet new research reveals the extent to which Mars is quietly tugging on Earth&#x27;s orbit and shaping the cycles that drive long-term climate patterns here, including ice ages.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
