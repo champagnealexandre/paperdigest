@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-20T13:43:21.631747+00:00</updated>
+  <updated>2026-01-20T14:27:29.156177+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🔴 [30] Nature Communications ▶ Low temperature and rapid photothermal oxidation of liquid gallium for circular hydrogen production</title>
@@ -6057,29 +6057,6 @@
 <p><a href="https://www.nature.com/articles/s41598-025-33307-w">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [50] PLOS Computational Biology ▶ Novel artificial selection method improves function of simulated microbial communities</title>
-    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863"/>
-    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863</id>
-    <updated>2026-01-13T14:00:00Z</updated>
-    <summary>by Björn Vessman, Pablo Guridi-Fernández, Flor Inés Arias-Sánchez, Sara Mitri There is increasing interest in artificially selecting or breeding microbial communities, but experiments have reported mo</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Computational simulations show a new “disassembly” artificial-selection protocol can more effectively discover high-function microbial community compositions (e.g., toxin degradation) by maintaining between-community diversity, while highlighting limits from within-community ecology and individual-level evolution.</p>
-<p><strong>Abstract:</strong> by Björn Vessman, Pablo Guridi-Fernández, Flor Inés Arias-Sánchez, Sara Mitri There is increasing interest in artificially selecting or breeding microbial communities, but experiments have reported modest success. Here, we develop computational models to simulate two previously known selection methods and compare them to a new “disassembly” method. We evaluate all three methods in their ability to find a community that could efficiently degrade toxins, whereby investment into degradation results in slower growth. Our disassembly method relies on repeatedly competing different communities of known species combinations against one another, while regularly shuffling around their species combinations. This approach allows many species combinations to be explored, thereby maintaining enough between-community diversity for selection to act on, and resulting in communities with high performance. Nevertheless, selection at the community level in our simulations did not counteract selection at the individual level, nor the communities’ ecological dynamics. Species in our model evolved to invest less into community function and more into growth, but increased growth compensated for reduced investment, such that overall community performance was barely affected by within-species evolution. Within-community ecological dynamics were more of a challenge, as we could control them during the selection process, but community composition and function dropped in the longer term. Our work shows that the strength of disassembly lies mainly in its ability to explore different species combinations, and helps to propose alternative designs for community selection experiments.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e075">https://doi.org/10.1371/journal.pcbi.1013863.e075</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7763976">http://www.ncbi.nlm.nih.gov/pubmed/7763976</a></li>
-<li><a href="https://doi.org/10.1111/j.1558-5646.1977.tb00991.x">https://doi.org/10.1111/j.1558-5646.1977.tb00991.x</a></li>
-<li><a href="https://doi.org/10.3389/fmicb.2023.1257935">https://doi.org/10.3389/fmicb.2023.1257935</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e052">https://doi.org/10.1371/journal.pcbi.1013863.e052</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e040">https://doi.org/10.1371/journal.pcbi.1013863.e040</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e061">https://doi.org/10.1371/journal.pcbi.1013863.e061</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/33646814">http://www.ncbi.nlm.nih.gov/pubmed/33646814</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e044">https://doi.org/10.1371/journal.pcbi.1013863.e044</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/32888315">http://www.ncbi.nlm.nih.gov/pubmed/32888315</a></li>
-</ul>
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [0] Phys.org: Evolution News ▶ A tiny mouse hints at why some mammal mothers may benefit from choosing more than one father</title>
     <link href="https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html"/>
     <id>https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html</id>
@@ -6290,17 +6267,5 @@
 <p><strong>Abstract:</strong> For more than 25 years, humans have lived and worked continuously aboard the International Space Station, conducting research that is transforming life on Earth and shaping the future of exploration. From growing food and sequencing DNA to studying disease and simulating Mars missions, every experiment aboard the orbiting laboratory expands our understanding of how humans can thrive beyond Earth while advancing science and technology that benefit people around the world.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-quarter-century-orbit-science-life.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Phys.org: Evolution News ▶ A centuries-old debate on how reptiles keep evolving skin bones is finally settled</title>
-    <link href="https://phys.org/news/2026-01-centuries-debate-reptiles-evolving-skin.html"/>
-    <id>https://phys.org/news/2026-01-centuries-debate-reptiles-evolving-skin.html</id>
-    <updated>2026-01-13T14:20:02Z</updated>
-    <summary>Our bones did not begin deep inside the body. They started in the skin, not long after the first complex animals took shape.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Reviews evidence that early vertebrate bones originated as dermal (skin) structures and clarifies how reptiles continue evolving skin bones, offering only indirect context for major evolutionary transitions rather than origins-of-life research.</p>
-<p><strong>Abstract:</strong> Our bones did not begin deep inside the body. They started in the skin, not long after the first complex animals took shape.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-centuries-debate-reptiles-evolving-skin.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

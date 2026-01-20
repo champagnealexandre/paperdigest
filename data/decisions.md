@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120092725&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [La déforestation pousse les moustiques à nous piquer davanta](https://www.sciencesetavenir.fr/animaux/biodiversite/la-deforestation-pousse-les-moustiques-vers-le-sang-humain_190482?xtor=RSS-26) |
+| keyword_rejected | - | [Modeling and simulation of neocortical micro- and mesocircui](https://elifesciences.org/articles/99688) |
+| keyword_rejected | - | [Modeling and simulation of neocortical micro- and mesocircui](https://elifesciences.org/articles/99693) |
 | ai_scored | 45 | [The overlooked survival strategy that made us human](https://www.sciencedaily.com/releases/2026/01/260118233601.htm) |
 | ai_scored | 20 | [Is AI really conscious—or are we bringing it to life?](https://www.scientificamerican.com/article/is-ai-really-conscious-or-are-we-bringing-it-to-life/) |
 | ai_scored | 30 | [Low temperature and rapid photothermal oxidation of liquid g](https://www.nature.com/articles/s41467-026-68664-1) |
