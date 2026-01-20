@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Chromatin assembly at replication forks enables differentiat](https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1) |
+| keyword_rejected | - | [Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle](https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/) |
+| keyword_rejected | - | [Le volcan du Piton de la Fournaise entre en éruption](https://www.sciencesetavenir.fr/fondamental/geologie/la-reunion-le-volcan-du-piton-de-la-fournaise-entre-en-eruption_190453?xtor=RSS-10) |
+| keyword_rejected | - | [Incendies au Chili : la météo offre un répit aux secours](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-la-meteo-offre-un-repit-aux-secours_190496?xtor=RSS-15) |
+| keyword_rejected | - | [Cybermenace politique, vache maniant des outils et voix de H](https://www.sciencesetavenir.fr/ultrabreves/cybermenace-politique-vache-maniant-des-outils-et-voix-de-henri-iv-l-actu-des-sciences-en-ultrabreves_190492) |
+| keyword_rejected | - | [Bridging theories across physics helps reconcile controversy](https://phys.org/news/2026-01-bridging-theories-physics-controversy-thin.html) |
+| keyword_rejected | - | [Surgical resection versus non-surgical treatments for hepato](https://www.nature.com/articles/s41598-026-36937-w) |
+| keyword_rejected | - | [NCOA1 is a gatekeeper of the sexually dimorphic thermogenic ](https://www.nature.com/articles/s41467-025-65229-6) |
+| keyword_rejected | - | [Functional and structural insights into interactions between](https://www.nature.com/articles/s41467-026-68690-z) |
+| keyword_rejected | - | [Simple cellular Potts model of scratch assays on healthy and](https://www.sciencedirect.com/science/article/pii/S0022519325003492?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120113015&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Dysregulated TGFb-ERK Signaling Drives Aberrant Extracellula](https://www.biorxiv.org/content/10.64898/2026.01.16.700032v1?rss=1) |
+| keyword_rejected | - | [Ribosome Quality Control Mitigates Proteotoxic Stress in Ane](https://www.biorxiv.org/content/10.64898/2026.01.19.700285v1?rss=1) |
+| keyword_rejected | - | [Light Microscopy-Based Organelle Quantification: A Comprehen](https://www.biorxiv.org/content/10.64898/2026.01.19.700276v1?rss=1) |
 | ai_scored | 70 | [Sinking salty ice suggests pathway for life-sustaining condi](https://phys.org/news/2026-01-salty-ice-pathway-life-sustaining.html) |
 | ai_scored | 25 | [Dual genomic localizations and gene regulatory functions of ](https://www.nature.com/articles/s41467-026-68592-0) |
 | ai_scored | 50 | [Presence of primordial Mg can explain the seismic low-veloci](https://www.nature.com/articles/s41467-026-68572-4) |

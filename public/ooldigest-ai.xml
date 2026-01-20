@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-20T15:27:17.585331+00:00</updated>
+  <updated>2026-01-20T16:30:29.251750+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [30] cell biology - biorXiv Preprints ▶ Chromatin assembly at replication forks enables differentiation of human iPSCs</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>DNA replication is both productive and disruptive, synthesising new DNA while dismantling chromatin to allow fork progression. Because of its disruptive nature, DNA replication has been suggested to e</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study shows that DNA replication-coupled chromatin assembly recruits and reorganizes numerous chromatin factors (including ERH and SETDB1) during human iPSC differentiation, illuminating eukaryotic epigenetic regulation but only indirectly informing origins-of-life questions.</p>
+<p><strong>Abstract:</strong> DNA replication is both productive and disruptive, synthesising new DNA while dismantling chromatin to allow fork progression. Because of its disruptive nature, DNA replication has been suggested to enable chromatin changes facilitating cell fate transitions. However, the role of DNA replication in cell fate transitions remains incompletely understood. Here we show that upon differentiation of human induced Pluripotent Stem Cells (iPSCs) into presomitic mesoderm, DNA replication allows hundreds of proteins, including transcription factors, histone chaperones, and histone methyltransferases, to access chromatin. Moreover, H3K9 methylation is enhanced upon differentiation through a DNA replication-coupled process. Most of the proteins recruited to (or evicted from) nascent chromatin during differentiation are already present in iPSCs, suggesting they may play a role in the early response to differentiation. Among these, we identified ERH and SETDB1 as essential for mesoderm differentiation. Our work reveals a new paradigm to explore: how differentiation signals exploit the replisome interactome to enable rapid chromatin changes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] Nature Communications ▶ Presence of primordial Mg can explain the seismic low-velocity layer in the Earth’s outermost outer core</title>
     <link href="https://www.nature.com/articles/s41467-026-68572-4"/>
@@ -6162,21 +6176,6 @@
 <li><a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/doi/10.1130/B38459.1/662050/Salt-diapirs-as-an-architect-of-Neoproterozoic?redirectedFrom=fulltext">https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/doi/10.1130/B38459.1/662050/Salt-diapirs-as-an-architect-of-Neoproterozoic?redirectedFrom=fulltext</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/salt-diapirs-as-an-architect-of-neoproterozoic-stromatolite-platform-reefs.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Astrobiology (astrobiology.com) ▶ Electron Temperature Relations And The Direct N, O, Ne, S And Ar abundances Of 49959 Star-forming Galaxies In DESI Data Release 2</title>
-    <link href="https://astrobiology.com/2026/01/electron-temperature-relations-and-the-direct-n-o-ne-s-and-ar-abundances-of-49959-star-forming-galaxies-in-desi-data-release-2.html"/>
-    <id>https://astrobiology.com/2026/01/electron-temperature-relations-and-the-direct-n-o-ne-s-and-ar-abundances-of-49959-star-forming-galaxies-in-desi-data-release-2.html</id>
-    <updated>2026-01-13T16:05:00Z</updated>
-    <summary>We present the largest direct-method abundance catalogue of galaxies to date, containing measurements of 49959 star-forming galaxies at z&lt;0.96 from DESI Data Release 2. By directly measuring electron </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
-<p><strong>AI Decision:</strong> Large DESI catalogue of direct-method elemental abundances in ~50,000 star-forming galaxies, providing broad-context constraints on cosmic chemical environments relevant to long-term habitability but not directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> We present the largest direct-method abundance catalogue of galaxies to date, containing measurements of 49959 star-forming galaxies at z&lt;0.96 from DESI Data Release 2. By directly measuring electron temperatures across multiple ionization zones, we provide constraints on a number of electron temperature relations finding good consistency with previous literature relations. Using these temperature measurements, we […] The post Electron Temperature Relations And The Direct N, O, Ne, S And Ar abundances Of 49959 Star-forming Galaxies In DESI Data Release 2 appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.02463">https://doi.org/10.48550/arXiv.2601.02463</a></li>
-<li><a href="https://arxiv.org/abs/2601.02463">https://arxiv.org/abs/2601.02463</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/electron-temperature-relations-and-the-direct-n-o-ne-s-and-ar-abundances-of-49959-star-forming-galaxies-in-desi-data-release-2.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Investigating the High-energy Radiation Environment of Planets in Sun-like Binary Systems</title>
