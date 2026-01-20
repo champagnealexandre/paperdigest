@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Operando nuclear magnetic resonance decodes alkali-tuned pro](https://www.nature.com/articles/s41467-026-68604-z) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119234118&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Loi fin de vie: très réservé, le Sénat se penche sur l'aide ](https://www.sciencesetavenir.fr/sante/loi-fin-de-vie-tres-reserve-le-senat-se-penche-sur-l-aide-a-mourir_190474?xtor=RSS-16) |
+| keyword_rejected | - | [Expanding the payload scope in antibody-drug conjugates by d](https://www.nature.com/articles/s41467-026-68605-y) |
+| keyword_rejected | - | [Expanding the payload scope in antibody-drug conjugates by d](https://www.nature.com/articles/s41467-026-68605-y) |
+| keyword_rejected | - | [Ribosomal Protein bL27 Protects Translating Ribosomes from t](https://www.biorxiv.org/content/10.64898/2026.01.19.700400v1?rss=1) |
 | ai_scored | 25 | [5'Untranslated regions provide a versatile toolkit for tunab](https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1) |
 | ai_scored | 20 | [Vibrio aquamarinus sp. nov., a luminous marine bacteria isol](https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1) |
 | ai_scored | 25 | [From SCUBA to spectra: Broadly applicable methods for coral ](https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1) |
