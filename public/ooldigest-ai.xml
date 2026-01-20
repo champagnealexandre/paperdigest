@@ -3,8 +3,117 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-20T18:30:17.722261+00:00</updated>
+  <updated>2026-01-20T20:10:05.697570+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] Scientific American ▶ World has entered an era of ‘global water bankruptcy,’ U.N. warns</title>
+    <link href="https://www.scientificamerican.com/article/world-has-entered-an-era-of-global-water-bankruptcy-un-warns/"/>
+    <id>https://www.scientificamerican.com/article/world-has-entered-an-era-of-global-water-bankruptcy-un-warns/</id>
+    <updated>2026-01-20T18:20:00Z</updated>
+    <summary>Humans are using more water than Earth can support, with many water sources already damaged beyond repair, a report from the United Nations found</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, earth</p>
+<p><strong>AI Decision:</strong> A U.N. report warns that accelerating human overuse is pushing Earth toward “global water bankruptcy,” highlighting freshwater availability as a critical constraint on planetary habitability even though it is not directly about origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Humans are using more water than Earth can support, with many water sources already damaged beyond repair, a report from the United Nations found</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.scientificamerican.com/article/world-has-entered-an-era-of-global-water-bankruptcy-un-warns/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] PLOS Computational Biology ▶ Compaction of chromatin domains regulates target search times of proteins</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013843"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013843</id>
+    <updated>2026-01-20T14:00:00Z</updated>
+    <summary>by Shuvadip Dutta, Adarshkrishnan Rajakumar, Ranjith Padinhateeri, Mithun K. Mitra Protein molecules must efficiently locate specific DNA sequences within the densely packed chromatin of the cell nucl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Analytical and simulation work suggests there is an optimal chromatin (TAD) compaction/connectivity that speeds DNA-binding protein target search via intersegmental jumps, with human TAD connectivity clustering near the predicted optimum.</p>
+<p><strong>Abstract:</strong> by Shuvadip Dutta, Adarshkrishnan Rajakumar, Ranjith Padinhateeri, Mithun K. Mitra Protein molecules must efficiently locate specific DNA sequences within the densely packed chromatin of the cell nucleus. We investigate how the spatial organisation of chromatin, specifically into Topologically Associating Domains (TADs), fundamentally affects this search process. Using exact analytical theory and simulations of different models of chromatin, we show that target search within compact, highly connected chromatin domains can leverage intersegmental jumps to significantly decrease search times. Further, we show that there exists an optimal degree of polymer compaction that minimizes the search time for proteins to find their targets. We show that for highly folded domains, rather than bulk diffusion, intersegmental transfers – jumping between chromatin segments that are close together in space – drive the optimal search process. Remarkably, when we analyse 8,355 TAD structures across the human genome, we find that their natural connectivity matches with the theoretical optimum predicted by our model. The structural organisation within TADs significantly reduces protein search times far beyond what is achievable through classical facilitated diffusion. In essence, our work suggests that packaging of chromatin inside the nucleus has implications beyond spatial organisation, and is also intricately linked to dynamics of proteins inside the nuclear environment.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/18544605">http://www.ncbi.nlm.nih.gov/pubmed/18544605</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e022">https://doi.org/10.1371/journal.pcbi.1013843.e022</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e192">https://doi.org/10.1371/journal.pcbi.1013843.e192</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/11259307">http://www.ncbi.nlm.nih.gov/pubmed/11259307</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e120">https://doi.org/10.1371/journal.pcbi.1013843.e120</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e019">https://doi.org/10.1371/journal.pcbi.1013843.e019</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e077">https://doi.org/10.1371/journal.pcbi.1013843.e077</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e127">https://doi.org/10.1371/journal.pcbi.1013843.e127</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e034">https://doi.org/10.1371/journal.pcbi.1013843.e034</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013843.e114">https://doi.org/10.1371/journal.pcbi.1013843.e114</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013843">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] biochemistry - biorXiv Preprints ▶ Phosphorylation of serines 287/288 in DEK regulates cell-type-specific chromatin occupancy and compaction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700267v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700267v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>The conserved multifunctional chromatin modulator and oncogene DEK exhibits context-dependent genomic binding and function, but how these activities are regulated in cancer remains poorly understood. </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study maps how CK2-mediated phosphorylation of DEK at serines 287/288 controls its chromatin binding and compaction effects in melanoma subtypes, a cancer epigenetics result with minimal direct relevance to origins-of-life beyond a general DNA/chromatin connection.</p>
+<p><strong>Abstract:</strong> The conserved multifunctional chromatin modulator and oncogene DEK exhibits context-dependent genomic binding and function, but how these activities are regulated in cancer remains poorly understood. Using multi-omics and biochemical approaches, we find that while DEK predominantly occupies promoter-proximal regions in HeLa cells and primary melanocytes, its chromatin binding is dramatically reduced in melanoma cell lines despite DEK overexpression. We attributed this to CK2-mediated phosphorylation, which governs DEK chromatin association and transcriptional output in a cell-type-specific manner. Phosphoproteomics identified 34 phosphorylation sites, including S287 and S288 within the DEK C-terminal DNA-binding domain. Strikingly, CK2 inhibition and concomitant loss of phosphorylation at S287/S288 triggered DEK redistribution to promoter regions, coinciding with transcriptional repression of oncogenic pathways and global chromatin compaction. Melanoma subtypes showed divergent responses: NRAS mutant cells displayed dynamic, phosphorylation-dependent DEK redistribution, whereas BRAF mutant cells lacked detectable DEK binding. Our work establishes DEK as a phosphorylation-sensitive regulator of chromatin states, with CK2-mediated modification orchestrating its tumor-specific regulatory functions. These findings nominate phospho DEK as a potential biomarker and therapeutic target in melanoma and possibly other cancers.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700267v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700267v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700267v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] biochemistry - biorXiv Preprints ▶ Revisiting p53:Sirt1 interaction in the light of controlling p53 acetylation levels</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700258v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700258v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>The NAD+-dependent deacetylase sirtuin 1 (Sirt1) is known to regulate the tumor suppressor p53 via deacetylation, but the structural basis of the protein-protein interaction between full-length p53 an</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study uses XL-MS and docking to model a 1:1 interaction between human p53 and Sirt1 that selectively deacetylates p53 (notably at K582), but it is largely unrelated to origins-of-life research beyond general protein–DNA regulation biochemistry.</p>
+<p><strong>Abstract:</strong> The NAD+-dependent deacetylase sirtuin 1 (Sirt1) is known to regulate the tumor suppressor p53 via deacetylation, but the structural basis of the protein-protein interaction between full-length p53 and Sirt1 has so far remained elusive. We apply an integrated approach, combining structural mass spectrometry (MS) with data-driven molecular docking, to study the interaction between human p53 and Sirt1. Sirt1 was found to bind exclusively to acetylated p53 forming complexes with a 1:1 stoichiometry, irrespectively of p53&#x27;s oligomeric state. The lysine residue at position 582 (K582) in p53 was identified as predominant acetylation site showing a selective Sirt1-dependent deacetylation at this position. Cross-linking mass spectrometry (XL-MS) provided valuable distance constraints between p53 and Sirt1. Specifically, cross-links created between p53-K382 / Sirt1-K427 and p53-K120 / Sirt1-K622 give hints on a highly flexible interface. Molecular docking was conducted based on the distance constraints imposed by the cross-links, positioning Sirt1 at the DNA-binding and tetramerization domains of p53. This gives a rationale for a steric exclusion of additional Sirt1 molecules binding to p53. We present the first structural model of the full-length p53:Sirt1 (1:1) complex, establishing a mechanistic framework that links p53 activity to its Sirt1-controlled acetylation status.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700258v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700258v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700258v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] PLOS Computational Biology ▶ Linking spatial drug heterogeneity to microbial growth dynamics in theory and experiment</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013896"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013896</id>
+    <updated>2026-01-20T14:00:00Z</updated>
+    <summary>by Zhijian Hu, Yuzhen Wu, Tomas Freire, Erida Gjini, Kevin Wood Drugs play a central role in limiting bacterial population spread, yet laboratory studies typically assume well-mixed environments when </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using a robot-automated spatial assay plus theory, the authors show that for E. faecalis the spatial arrangement of antibiotic heterogeneity (not just total dose) can determine persistence versus collapse of a population in finite, structured environments.</p>
+<p><strong>Abstract:</strong> by Zhijian Hu, Yuzhen Wu, Tomas Freire, Erida Gjini, Kevin Wood Drugs play a central role in limiting bacterial population spread, yet laboratory studies typically assume well-mixed environments when assessing microbial drug responses. In contrast, bacteria in the human body often occupy spatially structured habitats where drug concentrations vary. Understanding how this heterogeneity shapes growth and decline is therefore essential for controlling infections and mitigating resistance evolution. Here, we developed a minimal robot-automated system to study how spatial drug heterogeneity affects short-term population dynamics in E. faecalis , a Gram-positive opportunistic pathogen. This system was combined with a theoretical framework to interpret and explain the observed outcomes. We first recapitulated the classic critical-patch-size model result: in a spatially homogeneous environment, a population persists in a finite domain only when growth outpaces diffusive losses at the boundaries. In heterogeneous environments, we found certain conditions that population persistence can depend critically on the spatial arrangement of the drug, even when its total amount is fixed. Using theoretical and experimental approaches, we identified the arrangements that produce the strongest growth and the fastest decline, revealing the range of possible outcomes under drug heterogeneity. We further tested this framework in more complex environments, including ring-shaped communities, and observed consistent arrangement-dependent behavior. Overall, our results extend the classical growth-condition framework to general heterogeneous environments and demonstrate that spatial drug arrangement - not only total dose - can strongly influence bacterial population dynamics. These findings highlight the importance of spatially structured dosing strategies and motivate further theoretical and experimental investigation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/30283671">http://www.ncbi.nlm.nih.gov/pubmed/30283671</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013896.e095">https://doi.org/10.1371/journal.pcbi.1013896.e095</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28035742">http://www.ncbi.nlm.nih.gov/pubmed/28035742</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013896.e083">https://doi.org/10.1371/journal.pcbi.1013896.e083</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013896.e016">https://doi.org/10.1371/journal.pcbi.1013896.e016</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013896.e097">https://doi.org/10.1371/journal.pcbi.1013896.e097</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013896.e008">https://doi.org/10.1371/journal.pcbi.1013896.e008</a></li>
+<li><a href="https://doi.org/10.1371/journal.pbio.3000515">https://doi.org/10.1371/journal.pbio.3000515</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31269400">http://www.ncbi.nlm.nih.gov/pubmed/31269400</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31715181">http://www.ncbi.nlm.nih.gov/pubmed/31715181</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013896">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] PLOS Computational Biology ▶ A wavelet-based approach generates quantitative, scale-free and hierarchical descriptions of 3D genome structures and new biological insights</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013887"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013887</id>
+    <updated>2026-01-20T14:00:00Z</updated>
+    <summary>by Ryan Pellow, Josep M. Comeron Eukaryotes’ genomes are organized within nuclei in three-dimensional space, forming structures such as loops, topologically associating domains (TADs), and chromosome </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> WaveTAD applies wavelet transforms to Hi-C data to deliver a resolution-free, probabilistic and hierarchical quantification of eukaryotic 3D genome organization (TAD/loop strengths), improving sensitivity over existing methods and enabling new insights into early embryonic chromatin architecture and condition-linked gene regulation.</p>
+<p><strong>Abstract:</strong> by Ryan Pellow, Josep M. Comeron Eukaryotes’ genomes are organized within nuclei in three-dimensional space, forming structures such as loops, topologically associating domains (TADs), and chromosome territories. This 3D architecture impacts gene regulation and development, stress responses, and disease. However, current methods to infer these 3D structures from genomic data have multiple drawbacks, including varying outcomes depending on the resolution of the analysis and sequencing depth, qualitative outputs that limit statistical comparisons, and insufficient insight into structure frequency within samples. These challenges hinder rigorous comparisons of 3D properties across genomes, conditions, or species. To overcome these issues, we developed WaveTAD, a wavelet transform-based method that provides a resolution-free, probabilistic, and hierarchical description of 3D organization. WaveTAD generates TAD strengths, capturing variable frequency of intrachromosomal interactions within samples, and shows increased accuracy and sensitivity over existing methods. We applied WaveTAD to multiple datasets from Drosophila , mouse, and humans to illustrate new biological insights that our more sensitive and quantitative approach provides, such as the widespread presence of embryonic 3D organization before zygotic genome activation, the effect of multiple CTCF units on the stability of loops and TADs, and the association between gene expression and TAD structures in COVID-19 patients or sex-specific transcription in Drosophila .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27210764">http://www.ncbi.nlm.nih.gov/pubmed/27210764</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013887.g001">https://doi.org/10.1371/journal.pcbi.1013887.g001</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/19563753">http://www.ncbi.nlm.nih.gov/pubmed/19563753</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/33494803">http://www.ncbi.nlm.nih.gov/pubmed/33494803</a></li>
+<li><a href="https://doi.org/10.1242/dev.179523">https://doi.org/10.1242/dev.179523</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013887.e007">https://doi.org/10.1371/journal.pcbi.1013887.e007</a></li>
+<li><a href="https://doi.org/10.1016/j.molcel.2015.09.023">https://doi.org/10.1016/j.molcel.2015.09.023</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/27919068">http://www.ncbi.nlm.nih.gov/pubmed/27919068</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/24407303">http://www.ncbi.nlm.nih.gov/pubmed/24407303</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28682332">http://www.ncbi.nlm.nih.gov/pubmed/28682332</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013887">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [15] Astrobiology (astrobiology.com) ▶ Artemis II AVATAR (A Virtual Astronaut Tissue Analog Response)</title>
     <link href="https://astrobiology.com/2026/01/artemis-ii-avatar-a-virtual-astronaut-tissue-analog-response.html"/>
@@ -6369,29 +6478,5 @@
 <li><a href="https://www.nature.com/articles/s41598-025-33307-w">https://www.nature.com/articles/s41598-025-33307-w</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41598-025-33307-w">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] Phys.org: Evolution News ▶ A tiny mouse hints at why some mammal mothers may benefit from choosing more than one father</title>
-    <link href="https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html"/>
-    <id>https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html</id>
-    <updated>2026-01-13T19:15:18Z</updated>
-    <summary>Many animals do something that still surprises researchers: females often mate with more than one male. This behavior—polyandry—has long raised a blunt question. Why divide offspring among multiple fa</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This paper focuses on polyandry and reproductive strategy in mammals, which is not relevant to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> Many animals do something that still surprises researchers: females often mate with more than one male. This behavior—polyandry—has long raised a blunt question. Why divide offspring among multiple fathers, and does it help mothers or young survive?</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] phys.org - Space News ▶ Phages and bacteria accumulate distinctive mutations aboard the International Space Station</title>
-    <link href="https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html"/>
-    <id>https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html</id>
-    <updated>2026-01-13T19:00:01Z</updated>
-    <summary>In a new study, terrestrial bacteria-infecting viruses were still able to infect their E. coli hosts in near-weightless &quot;microgravity&quot; conditions aboard the International Space Station, but the dynami</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, astrobio*</p>
-<p><strong>AI Decision:</strong> Experiments on the ISS show bacteriophages and E. coli remain infective in microgravity but accumulate distinct mutations and altered interaction dynamics, informing how DNA-based evolution and microbial ecology might proceed in space environments relevant to astrobiology (though not directly to abiogenesis).</p>
-<p><strong>Abstract:</strong> In a new study, terrestrial bacteria-infecting viruses were still able to infect their E. coli hosts in near-weightless &quot;microgravity&quot; conditions aboard the International Space Station, but the dynamics of virus-bacteria interactions differed from those observed on Earth. Phil Huss of the University of Wisconsin-Madison and colleagues present the findings in the open-access journal PLOS Biology.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

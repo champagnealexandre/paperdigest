@@ -1,5 +1,23 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [A wavelet-based approach generates quantitative, scale-free ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013887) |
+| ai_scored | 45 | [Linking spatial drug heterogeneity to microbial growth dynam](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013896) |
+| ai_scored | 10 | [Revisiting p53:Sirt1 interaction in the light of controlling](https://www.biorxiv.org/content/10.64898/2026.01.19.700258v1?rss=1) |
+| ai_scored | 5 | [Phosphorylation of serines 287/288 in DEK regulates cell-typ](https://www.biorxiv.org/content/10.64898/2026.01.19.700267v1?rss=1) |
+| ai_scored | 35 | [Compaction of chromatin domains regulates target search time](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013843) |
+| ai_scored | 40 | [World has entered an era of ‘global water bankruptcy,’ U.N. ](https://www.scientificamerican.com/article/world-has-entered-an-era-of-global-water-bankruptcy-un-warns/) |
+| keyword_rejected | - | [Higher-level spatial prediction in natural vision across mou](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013136) |
+| keyword_rejected | - | [MMP release following cartilage injury leads to collagen los](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013209) |
+| keyword_rejected | - | [Therapeutic targeting of oligodendrocytes in an agent-based ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013273) |
+| keyword_rejected | - | [Anatomically aware simulation of patient-specific glioblasto](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013831) |
+| keyword_rejected | - | [Correction: Simulation insights on the compound action poten](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013902) |
+| keyword_rejected | - | [RSV is surging, but antibody shots and vaccines can protect ](https://www.scientificamerican.com/article/rsv-is-surging-but-antibody-shots-and-vaccines-can-protect-babies/) |
+| keyword_rejected | - | [South Pole Telescope detects energetic stellar flares near c](https://phys.org/news/2026-01-south-pole-telescope-energetic-stellar.html) |
+| keyword_rejected | - | [A twitch in time? Quantum collapse models hint at tiny time ](https://phys.org/news/2026-01-twitch-quantum-collapse-hint-tiny.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120150948&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Acetyl-CoA availability regulates neuronal metabolism, growt](https://www.biorxiv.org/content/10.64898/2026.01.20.700435v1?rss=1) |
+| keyword_rejected | - | [Excess Met1-ubiquitination leads to solid aggregate formatio](https://www.biorxiv.org/content/10.64898/2026.01.20.700516v1?rss=1) |
+| keyword_rejected | - | [SF3B1 Phosphorylation Prompts U2AF2 Dissociation for Widespr](https://www.biorxiv.org/content/10.64898/2026.01.19.700466v1?rss=1) |
 | ai_scored | 70 | [Functionalization Of Benzene Ices by Atomic Oxygen](https://astrobiology.com/2026/01/functionalization-of-benzene-ices-by-atomic-oxygen.html) |
 | ai_scored | 25 | [Human mascRNA interacts with SUMO E1 and reshapes nuclear SU](https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1) |
 | ai_scored | 30 | [Characterization Of Two New Transiting Sub-Neptunes And A Te](https://astrobiology.com/2026/01/characterization-of-two-new-transiting-sub-neptunes-and-a-terrestrial-planet-around-m-dwarf-hosts.html) |
