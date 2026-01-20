@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Geomagnetic storm to bring northern lights to central US](https://phys.org/news/2026-01-geomagnetic-storm-northern-central.html) |
+| keyword_rejected | - | [Loi fin de vie : très réservé, le Sénat se penche sur l'aide](https://www.sciencesetavenir.fr/politique/loi-fin-de-vie-tres-reserve-le-senat-se-penche-sur-l-aide-a-mourir_190474) |
+| keyword_rejected | - | [Assessment of hydrological drought vulnerability using SPI a](https://www.nature.com/articles/s41598-026-36100-5) |
+| keyword_rejected | - | [Bowel incision closure with a semi-mutomated Robot-assisted ](https://www.nature.com/articles/s41598-025-32266-6) |
+| keyword_rejected | - | [Cover Image](https://onlinelibrary.wiley.com/doi/10.1002/pro.70476?af=R) |
+| keyword_rejected | - | [Issue information](https://onlinelibrary.wiley.com/doi/10.1002/pro.70477?af=R) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120042940&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120032651&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Les deux seuls pandas du Japon repartiront pour la Chine le ](https://www.sciencesetavenir.fr/nature-environnement/les-deux-seuls-pandas-du-japon-repartiront-pour-la-chine-le-27-janvier_190477?xtor=RSS-15) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120022441&v=2.18.0.post22+67771e2) |
