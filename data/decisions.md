@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [The overlooked survival strategy that made us human](https://www.sciencedaily.com/releases/2026/01/260118233601.htm) |
+| ai_scored | 20 | [Is AI really conscious—or are we bringing it to life?](https://www.scientificamerican.com/article/is-ai-really-conscious-or-are-we-bringing-it-to-life/) |
+| ai_scored | 30 | [Low temperature and rapid photothermal oxidation of liquid g](https://www.nature.com/articles/s41467-026-68664-1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120084307&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Can a ‘brain in a vat’ be conscious?](https://www.scientificamerican.com/article/can-a-brain-in-a-vat-be-conscious/) |
+| keyword_rejected | - | [As the U.S. marks a year of measles outbreaks, is the diseas](https://www.scientificamerican.com/article/as-the-u-s-marks-a-year-of-measles-outbreaks-is-the-disease-back-for-good/) |
+| keyword_rejected | - | ["Totalement inattendu" : une onde de choc près d'une étoile ](https://www.sciencesetavenir.fr/espace/voie-lactee/nous-avons-trouve-quelque-chose-de-totalement-inattendu-les-astronomes-surpris-par-une-mysterieuse-onde-de-choc_190433?xtor=RSS-9) |
+| keyword_rejected | - | [Au 3e siècle, l’armée romaine a bien mené des campagnes mili](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/au-3e-siecle-l-armee-romaine-a-bien-mene-des-campagnes-militaires-en-germanie-libre_190488?xtor=RSS-4) |
+| keyword_rejected | - | [Gaia data release reveals four substructures in open cluster](https://phys.org/news/2026-01-gaia-reveals-substructures-cluster-ngc.html) |
+| keyword_rejected | - | [Correction: A drug-drug co-amorphous system for highly impro](https://www.nature.com/articles/s41598-026-36294-8) |
+| keyword_rejected | - | [Correction: Enhancing breast cancer classification using a d](https://www.nature.com/articles/s41598-026-36697-7) |
+| keyword_rejected | - | [Near-100% site utilization of single atoms for efficient ele](https://www.nature.com/articles/s41467-025-67756-8) |
+| keyword_rejected | - | [A 250-million-year-old fossil reveals the origins of mammal ](https://www.sciencedaily.com/releases/2026/01/260118233557.htm) |
 | ai_scored | 30 | [Successful strategies in the voluntarily repeated Prisoner's](https://www.biorxiv.org/content/10.64898/2026.01.16.699891v1?rss=1) |
 | ai_scored | 70 | [Mars once had a vast sea the size of the Arctic Ocean](https://www.newscientist.com/article/2512150-mars-once-had-a-vast-sea-the-size-of-the-arctic-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 75 | [Mars once had a vast sea the size of the Arctic Ocean](https://www.newscientist.com/article/2512150-mars-once-had-a-vast-sea-the-size-of-the-arctic-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
