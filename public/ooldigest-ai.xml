@@ -3,8 +3,143 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-20T16:30:29.251750+00:00</updated>
+  <updated>2026-01-20T17:26:25.960735+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Astrochemistry: The SPHEREx Satellite Mission</title>
+    <link href="https://astrobiology.com/2026/01/astrochemistry-the-spherex-satellite-mission.html"/>
+    <id>https://astrobiology.com/2026/01/astrochemistry-the-spherex-satellite-mission.html</id>
+    <updated>2026-01-20T16:11:00Z</updated>
+    <summary>SPHEREx, a NASA explorer satellite launched on 11 March 2025, is carrying out the first all-sky near-infrared spectral survey. The satellite observes in 102 spectral bands from 0.75 to 5.0 um with a r</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
+<p><strong>AI Decision:</strong> Describes the SPHEREx all-sky near-IR spectroscopic mission, which will map widespread interstellar and circumstellar ice/organic absorption features to constrain astrochemical inventories relevant to prebiotic chemistry (indirectly supporting origins-of-life studies).</p>
+<p><strong>Abstract:</strong> SPHEREx, a NASA explorer satellite launched on 11 March 2025, is carrying out the first all-sky near-infrared spectral survey. The satellite observes in 102 spectral bands from 0.75 to 5.0 um with a resolving power ranging from 35 to 130 in 6.2 arcsecond pixels. The observatory obtains a 5-sigma depth of 19.5 – 19.9 AB […] The post Astrochemistry: The SPHEREx Satellite Mission appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2511.02985">https://arxiv.org/abs/2511.02985</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2511.02985">https://doi.org/10.48550/arXiv.2511.02985</a></li>
+<li><a href="https://doi.org/10.3847/1538-4357/ae2be2">https://doi.org/10.3847/1538-4357/ae2be2</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/astrochemistry-the-spherex-satellite-mission.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] Astrobiology (astrobiology.com) ▶ ESA CAVES 2025 Away Team Training: Downloading Data Underground</title>
+    <link href="https://astrobiology.com/2026/01/esa-caves-2025-away-team-training-downloading-data-underground.html"/>
+    <id>https://astrobiology.com/2026/01/esa-caves-2025-away-team-training-downloading-data-underground.html</id>
+    <updated>2026-01-20T17:00:00Z</updated>
+    <summary>ESA astronaut Marco Sieber and JAXA astronaut Makoto Suwa are downloading data from environmental instruments placed at the underground base camp in Abel Cave. Astrobiology, Astrogeology, The post ESA</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> Brief news-style update on ESA CAVES astronaut training in an underground cave environment, relevant mainly as a terrestrial analog operations note rather than a study advancing origins-of-life science.</p>
+<p><strong>Abstract:</strong> ESA astronaut Marco Sieber and JAXA astronaut Makoto Suwa are downloading data from environmental instruments placed at the underground base camp in Abel Cave. Astrobiology, Astrogeology, The post ESA CAVES 2025 Away Team Training: Downloading Data Underground appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/esa-caves-2025-away-team-training-downloading-data-underground.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Mitochondrial Double-Stranded RNA Triggers Ferroptosis via PKR-ISR Signaling in Renal Ischemia-Reperfusion Injury</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700463v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700463v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Renal ischemia-reperfusion (IR) injury remains a leading cause of acute kidney injury, although the precise molecular pathways responsible for tissue injury are not fully understood. In this study, we</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> A biomedical study showing that mitochondrial double-stranded RNA released during renal ischemia-reperfusion activates PKR–ISR signaling to drive ferroptosis, with limited direct relevance to origins-of-life questions beyond general RNA-mediated stress signaling.</p>
+<p><strong>Abstract:</strong> Renal ischemia-reperfusion (IR) injury remains a leading cause of acute kidney injury, although the precise molecular pathways responsible for tissue injury are not fully understood. In this study, we demonstrate that IR initiates ferroptosis through activation of the PKR-dependent integrated stress response (ISR), which is driven by the accumulation of mitochondrial double-stranded RNA (dsRNA). Our mechanistic investigations reveal that IR perturbs mitochondrial homeostasis, leading to the accumulation of mitochondrial dsRNA and its subsequent release into the cytosol, thereby activating the dsRNA-dependent kinase PKR. Activation of PKR results in eIF2 phosphorylation and maladaptive ISR signaling, which facilitates ferroptosis and impairs renal function. Notably, genetic ablation of PKR or pharmacological intervention to inhibit ISR significantly reduced ferroptosis and preserved renal function. Collectively, these results identify the mitochondrial dsRNA-PKR-ISR axis as a critical mediator of ferroptotic renal injury and highlight its potential as a therapeutic target in ischemic acute kidney injury.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700463v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700463v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700463v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] bioRxiv Subject Collection: Evolutionary Biology ▶ Rapid evolution and comparative analysis of piRNA clusters in D.simulans</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700409v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700409v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Eukaryotic genomes are ubiquitously occupied by mobile genetic elements termed transposons, which are silenced via a specialized class of small RNA called piRNA. The small RNA is produced from the tra</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, RNA, evolution</p>
+<p><strong>AI Decision:</strong> Comparative population-genomic analysis of piRNA cluster and transposon dynamics in D. simulans reveals rapid birth–death evolution of small piRNA clusters and species-specific TE drivers, informing eukaryotic RNA-based genome defense rather than core origins-of-life processes.</p>
+<p><strong>Abstract:</strong> Eukaryotic genomes are ubiquitously occupied by mobile genetic elements termed transposons, which are silenced via a specialized class of small RNA called piRNA. The small RNA is produced from the transposons themselves when they occupy specialized regions of the genome termed piRNA clusters. The formation of these specialized regions, or their evolution over time, is not well understood. Recent work has suggested that they are extremely variable even within a single species such as Drosophila melanogaster. We were interested in taking a comparative approach to piRNA cluster evolution to ask the question - what processes are unique to D.melanogaster and which are shared? Shared phenomena are more likely to be fundamental aspects of piRNA formation and evolution compared to those that are more labile. Using five high-quality long-read genome assemblies and five genotype-specific piRNA libraries, we approach this question from a population genetics standpoint. We annotate piRNA clusters, transposons, and structural variants in each of these five genomes. We found extensive variation in piRNA clusters across strains, with smaller piRNA clusters more likely to be limited to a single genotype. By and large, our results are consistent with a model of piRNA cluster evolution in which piRNA clusters are rapidly formed and lost, with a small subset increasing in frequency and length over time. However, we find that the TEs which nucleate the formation of small piRNA clusters are entirely distinct in D.simulans compared to D.melanogaster, and likely reflect its invasion history rather than any inherent property of the transposon to nucleate clusters. Therefore, while large common clusters can act as &#x27;traps&#x27; as has been posited for piRNA clusters, there are also numerous small clusters that are born and lost rapidly within a species.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700409v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700409v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700409v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Astrochemistry: Webb Reveals The Helix Nebula In Glistening Detail</title>
+    <link href="https://astrobiology.com/2026/01/astrochemistry-webb-reveals-the-helix-nebula-in-glistening-detail.html"/>
+    <id>https://astrobiology.com/2026/01/astrochemistry-webb-reveals-the-helix-nebula-in-glistening-detail.html</id>
+    <updated>2026-01-20T17:00:59Z</updated>
+    <summary>One of the closest planetary nebulas to Earth, the Helix Nebula has become a favorite among astronomers using ground- and space-based telescopes to study the final moments of a dying star in detail. T</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry, earth</p>
+<p><strong>AI Decision:</strong> JWST’s infrared imaging of the Helix Nebula highlights astrochemical structure and dust/molecular environments around an evolved star, offering broad context for chemical inventories in space but limited direct relevance to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> One of the closest planetary nebulas to Earth, the Helix Nebula has become a favorite among astronomers using ground- and space-based telescopes to study the final moments of a dying star in detail. The NASA/ESA/CSA James Webb Space Telescope has now zoomed in this familiar object, offering the clearest infrared look yet. This gives us […] The post Astrochemistry: Webb Reveals The Helix Nebula In Glistening Detail appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/astrochemistry-webb-reveals-the-helix-nebula-in-glistening-detail.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] bioRxiv Subject Collection: Evolutionary Biology ▶ An activity-resistance tradeoff constrains enzyme evolution</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700455v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700455v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>The presence of self-resistance genes in antibiotic-producing organisms poses a paradox: how can resistance evolve before the antibiotic exists, and how can an antibiotic producer arise without first </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using extant and resurrected ancestral fungal IMPDH enzymes, the study shows that mycophenolic acid resistance arose alongside a durable catalytic-efficiency loss, implying long-term evolutionary design constraints (and possible pre-existing inhibitor resistance) that can shape the emergence of new metabolic capabilities.</p>
+<p><strong>Abstract:</strong> The presence of self-resistance genes in antibiotic-producing organisms poses a paradox: how can resistance evolve before the antibiotic exists, and how can an antibiotic producer arise without first evolving resistance? Here we examine the evolutionary origins of self-resistance to mycophenolic acid (MPA), an inhibitor of inosine monophosphate dehydrogenase (IMPDH). The MPA biosynthetic gene cluster (BGC) includes a resistant IMPDH-B. Homologs of IMPDH-B occur not only in MPA producers but also in many non-producing fungi, where remnants of the MPA BGC remain detectable. The phylogeny of IMPDH-B is incongruent with the fungal species tree, consistent with multiple horizontal gene transfer events between Aspergillus and Sordariomycetes. We characterized eleven extant IMPDH-Bs, five from MPA producers and six from nonproducers, along with seven resurrected ancestral enzymes (Anc1-Anc7). MPA resistance appeared between Anc2 and Anc3 and coincided with a loss of catalytic efficiency. Across both ancestral and extant enzymes, MPA resistance correlated strongly with reduced activity, revealing a robust activity-resistance trade-off that has persisted for millions of years. Unexpectedly, both the IMPDH-Bs and ancestral enzymes Anc3-Anc7 were also resistant to ribavirin monophosphate (RVP), an IMP-competitive inhibitor. Because MPA and RVP bind to similar enzyme conformations, the activity-resistance trade-off likely reflects a design constraint imposed by the need to maintain resistance to multiple inhibitors. Intriguingly, although Anc1 and Anc2 are equally sensitive to MPA, Anc2 shows reduced susceptibility to RVP. This pattern suggests that pre-existing resistance to another IMPDH inhibitor may have created a permissive background for the later evolution of MPA biosynthesis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700455v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700455v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700455v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] biophysics - biorXiv Preprints ▶ Coacervate Droplets as a Liquefier for the Solid-to-Liquid Transition of RNA Aggregates</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.18.700211v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.18.700211v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Biomolecular condensates are functionally gated by their material properties. While RNA is a primary structural scaffold, its sequence-specific interactions can aberrantly drive condensates into dysfu</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Shows that engineered complex coacervate droplets can infiltrate and fluidize solid RNA–peptide aggregates back into liquid condensates, offering mechanistic insights relevant to coacervate-based protocell and RNA-world scenarios.</p>
+<p><strong>Abstract:</strong> Biomolecular condensates are functionally gated by their material properties. While RNA is a primary structural scaffold, its sequence-specific interactions can aberrantly drive condensates into dysfunctional solid aggregates. Yet, actively reversing this solidification to restore function remains a fundamental challenge, impeding progress in synthetic biology and therapeutics interventions. Here, we establish that complex coacervates can be engineered as liquefiers to actively remodel solid RNA-peptide aggregates into functional liquid droplets. Integrating systematic experiments with all-atom simulations, we decode a multiscale mechanism: coacervate infiltration at the micrometer scale mediates molecular buffering at the nanometer scale, which fluidizes the crosslinked network to drive macroscopic liquefaction. This capability is governed by a design rule, where coacervates formed by small-molecular anions exhibit optimal efficacy. We deploy this principle to functionally rescue silenced RNA within a model of pathologically solidified ribonucleoprotein assemblies. Our work provides a general framework for the active, compositional control of biomolecular phase behavior, with direct implications for managing pathological aggregation and engineering functional condensates in synthetic and living systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700211v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.18.700211v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700211v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ The Water Makeup Of Jupiter’s Galilean Moons Was Set At Birth</title>
+    <link href="https://astrobiology.com/2026/01/the-water-makeup-of-jupiters-galilean-moons-was-set-at-birth.html"/>
+    <id>https://astrobiology.com/2026/01/the-water-makeup-of-jupiters-galilean-moons-was-set-at-birth.html</id>
+    <updated>2026-01-20T16:58:00Z</updated>
+    <summary>While Io, the most volcanically active moon in the solar system, appears completely dry and devoid of water ice, its neighbor Europa is thought to harbor a vast global ocean of liquid water beneath it</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*, astrochemistry</p>
+<p><strong>AI Decision:</strong> Modeling suggests the Galilean moons’ contrasting water inventories (dry Io vs. water-rich Europa) were largely determined by conditions during their formation, informing where long-lived subsurface oceans—and thus potential habitats—could arise.</p>
+<p><strong>Abstract:</strong> While Io, the most volcanically active moon in the solar system, appears completely dry and devoid of water ice, its neighbor Europa is thought to harbor a vast global ocean of liquid water beneath its icy crust. A new international study co-led by Aix-Marseille University and Southwest Research Institute (SwRI) reveals that this striking contrast […] The post The Water Makeup Of Jupiter’s Galilean Moons Was Set At Birth appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae2ebd/pdf">https://iopscience.iop.org/article/10.3847/1538-4357/ae2ebd/pdf</a></li>
+<li><a href="https://doi.org/10.3847/1538-4357/ae2ebd/pdf">https://doi.org/10.3847/1538-4357/ae2ebd/pdf</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/the-water-makeup-of-jupiters-galilean-moons-was-set-at-birth.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] phys.org - Space News ▶ The alien hunter&#x27;s shopping list</title>
+    <link href="https://phys.org/news/2026-01-alien-hunter.html"/>
+    <id>https://phys.org/news/2026-01-alien-hunter.html</id>
+    <updated>2026-01-20T17:21:31Z</updated>
+    <summary>We recently discussed the different types of worlds that the Habitable Worlds Observatory (HWO) is expected to find that might have noticeable biosignatures. However, no matter how good the instrument</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, habitab*</p>
+<p><strong>AI Decision:</strong> An astrobiology-focused methods paper outlining what contextual measurements are needed to correctly interpret Habitable Worlds Observatory exoplanet spectra when searching for atmospheric biosignatures.</p>
+<p><strong>Abstract:</strong> We recently discussed the different types of worlds that the Habitable Worlds Observatory (HWO) is expected to find that might have noticeable biosignatures. However, no matter how good the instrumentation on board the observatory is, the data it collects will be useless if scientists don&#x27;t know how to interpret it. A paper explaining what data they need to collect before analyzing HWO data was authored by Niki Parenteau, a research biologist at NASA, and her co-authors, and is now available on the arXiv preprint server.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-alien-hunter.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ SPHEREx Wins 2026 Sylvia A. Earle Award For Exploration Excellence From The Explorers Club</title>
+    <link href="https://astrobiology.com/2026/01/spherex-wins-2026-sylvia-a-earle-award-for-exploration-excellence-from-the-explorers-club.html"/>
+    <id>https://astrobiology.com/2026/01/spherex-wins-2026-sylvia-a-earle-award-for-exploration-excellence-from-the-explorers-club.html</id>
+    <updated>2026-01-20T16:09:00Z</updated>
+    <summary>Award: The Sylvia A. Earle Award for Exploration Excellence, previously known as the Citation of Merit, is an annual award given by the Explorers Club to an individual or team in recognition of outsta</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
+<p><strong>AI Decision:</strong> News item announcing the SPHEREx mission team receiving an Explorers Club award, with only indirect relevance to origins-of-life research via general astrobiology/exploration context and no primary scientific results or academic links.</p>
+<p><strong>Abstract:</strong> Award: The Sylvia A. Earle Award for Exploration Excellence, previously known as the Citation of Merit, is an annual award given by the Explorers Club to an individual or team in recognition of outstanding feats of exploration or contributions to the welfare and objectives of the Explorers Club. Awarded to: The SPHEREx mission team, including […] The post SPHEREx Wins 2026 Sylvia A. Earle Award For Exploration Excellence From The Explorers Club appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/spherex-wins-2026-sylvia-a-earle-award-for-exploration-excellence-from-the-explorers-club.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] cell biology - biorXiv Preprints ▶ Chromatin assembly at replication forks enables differentiation of human iPSCs</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1"/>
@@ -6134,97 +6269,6 @@
 <p><a href="https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ AI Learns From The Tree Of Life To Support Rare Disease Diagnosis</title>
-    <link href="https://astrobiology.com/2026/01/ai-learns-from-the-tree-of-life-to-support-rare-disease-diagnosis.html"/>
-    <id>https://astrobiology.com/2026/01/ai-learns-from-the-tree-of-life-to-support-rare-disease-diagnosis.html</id>
-    <updated>2026-01-13T16:39:00Z</updated>
-    <summary>Editor’s note: If we aspire to mount expeditions to new worlds and then embrace the task of characterizing and quantifying whatever life forms we find, the ability to map and understand whatever metab</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, life, astrobio*</p>
-<p><strong>AI Decision:</strong> Uses AI trained on evolutionary relationships across the tree of life to improve rare disease gene/variant interpretation, offering broadly relevant methods for comparative genomics rather than a direct origins-of-life study.</p>
-<p><strong>Abstract:</strong> Editor’s note: If we aspire to mount expeditions to new worlds and then embrace the task of characterizing and quantifying whatever life forms we find, the ability to map and understand whatever metabolic and genomic systems are in operation is important. Not only do we need to know how alien biota function, but also how […] The post AI Learns From The Tree Of Life To Support Rare Disease Diagnosis appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41588-025-02400-1">https://www.nature.com/articles/s41588-025-02400-1</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/ai-learns-from-the-tree-of-life-to-support-rare-disease-diagnosis.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ JWST Captures Growth of Aromatic Hydrocarbon Dust Particles in the Extremely Metal-poor Galaxy Sextans A</title>
-    <link href="https://astrobiology.com/2026/01/jwst-captures-growth-of-aromatic-hydrocarbon-dust-particles-in-the-extremely-metal-poor-galaxy-sextans-a.html"/>
-    <id>https://astrobiology.com/2026/01/jwst-captures-growth-of-aromatic-hydrocarbon-dust-particles-in-the-extremely-metal-poor-galaxy-sextans-a.html</id>
-    <updated>2026-01-13T16:49:00Z</updated>
-    <summary>The mid-infrared spectrum of star-forming, high metallicity galaxies is dominated by emission features from aromatic and aliphatic bonds in small carbonaceous dust grains, often referred to as polycyc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> biosignature, astrobio*, astrochemistry</p>
-<p><strong>AI Decision:</strong> JWST mid-IR spectroscopy of the extremely metal-poor galaxy Sextans A tracks how aromatic hydrocarbon (PAH-like) dust grows or is suppressed in low-metallicity environments, informing carbon chemistry pathways relevant to prebiotic feedstock availability but not directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> The mid-infrared spectrum of star-forming, high metallicity galaxies is dominated by emission features from aromatic and aliphatic bonds in small carbonaceous dust grains, often referred to as polycyclic aromatic hydrocarbons (PAHs). In metal-poor galaxies, the abundance of PAHs relative to the total dust sharply declines, but the origin of this deficit is unknown. We present […] The post JWST Captures Growth of Aromatic Hydrocarbon Dust Particles in the Extremely Metal-poor Galaxy Sextans A appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2512.04060">https://arxiv.org/abs/2512.04060</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2512.04060">https://doi.org/10.48550/arXiv.2512.04060</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/jwst-captures-growth-of-aromatic-hydrocarbon-dust-particles-in-the-extremely-metal-poor-galaxy-sextans-a.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Salt Diapirs As An Architect Of Neoproterozoic Stromatolite Platform Reefs</title>
-    <link href="https://astrobiology.com/2026/01/salt-diapirs-as-an-architect-of-neoproterozoic-stromatolite-platform-reefs.html"/>
-    <id>https://astrobiology.com/2026/01/salt-diapirs-as-an-architect-of-neoproterozoic-stromatolite-platform-reefs.html</id>
-    <updated>2026-01-13T16:44:00Z</updated>
-    <summary>During the Precambrian, stromatolite reefs played an essential role in the evolution of Earth’s climate and life systems. Many Precambrian basins contain salt-influenced stratigraphy, yet the potentia</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, evolution, biosignature, life, astrobio*</p>
-<p><strong>AI Decision:</strong> Geologic evidence suggests Neoproterozoic salt diapirism created localized depositional settings that promoted stromatolite reef/platform development, informing how Earth’s evolving environments supported early microbial ecosystems.</p>
-<p><strong>Abstract:</strong> During the Precambrian, stromatolite reefs played an essential role in the evolution of Earth’s climate and life systems. Many Precambrian basins contain salt-influenced stratigraphy, yet the potential for salt diapirism to create depositional environments that allow carbonate reefs and platforms to develop has not previously been described. Our study presents outcrop evidence that Neoproterozoic diapirism […] The post Salt Diapirs As An Architect Of Neoproterozoic Stromatolite Platform Reefs appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1130/B38459.1/662050/Salt-diapirs-as-an-architect-of-Neoproterozoic">https://doi.org/10.1130/B38459.1/662050/Salt-diapirs-as-an-architect-of-Neoproterozoic</a></li>
-<li><a href="https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/doi/10.1130/B38459.1/662050/Salt-diapirs-as-an-architect-of-Neoproterozoic?redirectedFrom=fulltext">https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/doi/10.1130/B38459.1/662050/Salt-diapirs-as-an-architect-of-Neoproterozoic?redirectedFrom=fulltext</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/salt-diapirs-as-an-architect-of-neoproterozoic-stromatolite-platform-reefs.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Investigating the High-energy Radiation Environment of Planets in Sun-like Binary Systems</title>
-    <link href="https://astrobiology.com/2026/01/investigating-the-high-energy-radiation-environment-of-planets-in-sun-like-binary-systems.html"/>
-    <id>https://astrobiology.com/2026/01/investigating-the-high-energy-radiation-environment-of-planets-in-sun-like-binary-systems.html</id>
-    <updated>2026-01-13T16:53:00Z</updated>
-    <summary>Far-ultraviolet (FUV) radiation is a driving source of photochemistry in planetary atmospheres. Proper interpretation of atmospheric observations requires a full understanding of the radiation environ</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> SISTINE FUV observations of the Sun-like binary α Centauri constrain the high-energy radiation environment that drives atmospheric photochemistry on nearby planets, informing habitability and interpretation of potential biosignature observations.</p>
-<p><strong>Abstract:</strong> Far-ultraviolet (FUV) radiation is a driving source of photochemistry in planetary atmospheres. Proper interpretation of atmospheric observations requires a full understanding of the radiation environment that a planet is exposed to. Using the Suborbital Imaging Spectrograph for Transition-region Irradiance from Nearby Exoplanet host stars (SISTINE) rocket-borne spectrograph, we observed the Sun-like binary system α Centauri […] The post Investigating the High-energy Radiation Environment of Planets in Sun-like Binary Systems appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.04593">https://doi.org/10.48550/arXiv.2601.04593</a></li>
-<li><a href="https://arxiv.org/abs/2601.04593">https://arxiv.org/abs/2601.04593</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/investigating-the-high-energy-radiation-environment-of-planets-in-sun-like-binary-systems.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Time-dependent Chemical Evolution During Cloud Formation: H2-regulated Chemistry In Diffuse Molecular Cloud</title>
-    <link href="https://astrobiology.com/2026/01/time-dependent-chemical-evolution-during-cloud-formation-h2-regulated-chemistry-in-diffuse-molecular-cloud.html"/>
-    <id>https://astrobiology.com/2026/01/time-dependent-chemical-evolution-during-cloud-formation-h2-regulated-chemistry-in-diffuse-molecular-cloud.html</id>
-    <updated>2026-01-13T16:49:00Z</updated>
-    <summary>We investigate the chemical evolution of a forming molecular cloud behind an interstellar shock wave. We conduct three-dimensional magnetohydrodynamics simulations of the converging flow of atomic gas</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, astrobio*, astrochemistry</p>
-<p><strong>AI Decision:</strong> Uses 3D MHD cloud-formation simulations plus tracer-particle chemistry to track time-dependent, H2-regulated chemical evolution in diffuse molecular clouds, informing how prebiotic-relevant molecular inventories may develop before star/planet formation.</p>
-<p><strong>Abstract:</strong> We investigate the chemical evolution of a forming molecular cloud behind an interstellar shock wave. We conduct three-dimensional magnetohydrodynamics simulations of the converging flow of atomic gas, including a simple chemical network and tracer particles that move along the local velocity field. Then we perform detailed chemical network calculations along the trajectory of each tracer […] The post Time-dependent Chemical Evolution During Cloud Formation: H2-regulated Chemistry In Diffuse Molecular Cloud appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.03441">https://arxiv.org/abs/2601.03441</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.03441">https://doi.org/10.48550/arXiv.2601.03441</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/time-dependent-chemical-evolution-during-cloud-formation-h2-regulated-chemistry-in-diffuse-molecular-cloud.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] Astrobiology (astrobiology.com) ▶ SETI@Home Enthusiasts Used Home Computers To Search For ET. Scientists Focus On 100 signals They Found</title>
-    <link href="https://astrobiology.com/2026/01/seti-at-home-enthusiasts-used-home-computers-to-search-fr-et-scientists-focus-on-100-signals-they-found.html"/>
-    <id>https://astrobiology.com/2026/01/seti-at-home-enthusiasts-used-home-computers-to-search-fr-et-scientists-focus-on-100-signals-they-found.html</id>
-    <updated>2026-01-13T17:10:00Z</updated>
-    <summary>For 21 years, between 1999 and 2020, millions of people worldwide loaned UC Berkeley scientists their computers to search for signs of advanced civilizations in our galaxy. The project — called SETI@h</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> biosignature, astrobio*</p>
-<p><strong>AI Decision:</strong> SETI@home’s crowdsourced radio search highlights candidate technosignature signals but does not directly address origins-of-life mechanisms or prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> For 21 years, between 1999 and 2020, millions of people worldwide loaned UC Berkeley scientists their computers to search for signs of advanced civilizations in our galaxy. The project — called SETI@home, after the Search for Extraterrestrial Intelligence (SETI) — generated a loyal following eager to participate in one of the most popular crowd-sourced projects […] The post SETI@Home Enthusiasts Used Home Computers To Search For ET. Scientists Focus On 100 signals They Found appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.3847/1538-3881/ade5a7">https://doi.org/10.3847/1538-3881/ade5a7</a></li>
-<li><a href="https://doi.org/10.3847/1538-3881/ade5ab">https://doi.org/10.3847/1538-3881/ade5ab</a></li>
-<li><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ade5ab">https://iopscience.iop.org/article/10.3847/1538-3881/ade5ab</a></li>
-<li><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7">https://iopscience.iop.org/article/10.3847/1538-3881/ade5a7</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/seti-at-home-enthusiasts-used-home-computers-to-search-fr-et-scientists-focus-on-100-signals-they-found.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Mars Has A Large Impact On Earth’s Climate</title>
     <link href="https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html"/>
     <id>https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html</id>
@@ -6238,22 +6282,6 @@
 <li><a href="https://doi.org/10.1088/1538-3873/ae2800">https://doi.org/10.1088/1538-3873/ae2800</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Ultraviolet Observations Of Atmospheric Escape In Exoplanets With The Habitable Worlds Observatory</title>
-    <link href="https://astrobiology.com/2026/01/ultraviolet-observations-of-atmospheric-escape-in-exoplanets-with-the-habitable-worlds-observatory.html"/>
-    <id>https://astrobiology.com/2026/01/ultraviolet-observations-of-atmospheric-escape-in-exoplanets-with-the-habitable-worlds-observatory.html</id>
-    <updated>2026-01-13T17:17:00Z</updated>
-    <summary>Among the many recommendations of the Decadal Survey on Astronomy and Astrophysics 2020, we found that a priority area of research is to pave the pathways towards finding and characterizing habitable </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, exoplanet, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> Describes how ultraviolet measurements with the future Habitable Worlds Observatory can constrain exoplanet atmospheric escape histories, informing long-term habitability and interpretation of potentially Earth-like worlds.</p>
-<p><strong>Abstract:</strong> Among the many recommendations of the Decadal Survey on Astronomy and Astrophysics 2020, we found that a priority area of research is to pave the pathways towards finding and characterizing habitable worlds. In this context, we aim to understand how planetary systems evolve through atmospheric escape, and develop techniques to identify potentially Earth-like worlds. Using […] The post Ultraviolet Observations Of Atmospheric Escape In Exoplanets With The Habitable Worlds Observatory appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1117/1.JATIS.11.4.042236">https://doi.org/10.1117/1.JATIS.11.4.042236</a></li>
-<li><a href="https://arxiv.org/abs/2601.06263">https://arxiv.org/abs/2601.06263</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.06263">https://doi.org/10.48550/arXiv.2601.06263</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/ultraviolet-observations-of-atmospheric-escape-in-exoplanets-with-the-habitable-worlds-observatory.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [25] Phys.org: Evolution News ▶ Asexual yam species employs mimicry to trick birds and spread farther</title>

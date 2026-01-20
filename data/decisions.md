@@ -1,5 +1,32 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [SPHEREx Wins 2026 Sylvia A. Earle Award For Exploration Exce](https://astrobiology.com/2026/01/spherex-wins-2026-sylvia-a-earle-award-for-exploration-excellence-from-the-explorers-club.html) |
+| ai_scored | 65 | [The alien hunter's shopping list](https://phys.org/news/2026-01-alien-hunter.html) |
+| ai_scored | 50 | [The Water Makeup Of Jupiter’s Galilean Moons Was Set At Birt](https://astrobiology.com/2026/01/the-water-makeup-of-jupiters-galilean-moons-was-set-at-birth.html) |
+| ai_scored | 70 | [Coacervate Droplets as a Liquefier for the Solid-to-Liquid T](https://www.biorxiv.org/content/10.64898/2026.01.18.700211v1?rss=1) |
+| ai_scored | 50 | [An activity-resistance tradeoff constrains enzyme evolution](https://www.biorxiv.org/content/10.64898/2026.01.19.700455v1?rss=1) |
+| ai_scored | 50 | [Astrochemistry: Webb Reveals The Helix Nebula In Glistening ](https://astrobiology.com/2026/01/astrochemistry-webb-reveals-the-helix-nebula-in-glistening-detail.html) |
+| ai_scored | 35 | [Rapid evolution and comparative analysis of piRNA clusters i](https://www.biorxiv.org/content/10.64898/2026.01.19.700409v1?rss=1) |
+| ai_scored | 15 | [Mitochondrial Double-Stranded RNA Triggers Ferroptosis via P](https://www.biorxiv.org/content/10.64898/2026.01.19.700463v1?rss=1) |
+| ai_scored | 25 | [ESA CAVES 2025 Away Team Training: Downloading Data Undergro](https://astrobiology.com/2026/01/esa-caves-2025-away-team-training-downloading-data-underground.html) |
+| ai_scored | 60 | [Astrochemistry: The SPHEREx Satellite Mission](https://astrobiology.com/2026/01/astrochemistry-the-spherex-satellite-mission.html) |
+| keyword_rejected | - | [How much protein do you actually need?](https://www.nature.com/articles/d41586-026-00151-5) |
+| keyword_rejected | - | [Author Correction: Anthropogenic influences on major tropica](https://www.nature.com/articles/s41586-026-10109-2) |
+| keyword_rejected | - | [Why did Jeffrey Epstein cultivate famous scientists?](https://www.scientificamerican.com/article/why-did-jeffrey-epstein-cultivate-famous-scientists/) |
+| keyword_rejected | - | [The 3 best ways to tackle anxiety, according to a leading ex](https://www.newscientist.com/article/2512121-the-3-best-ways-to-tackle-anxiety-according-to-a-leading-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The 3 best ways to tackle anxiety, according to a leading ex](https://www.newscientist.com/article/2512121-the-3-best-ways-to-tackle-anxiety-according-to-a-leading-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The 3 best ways to tackle anxiety, according to a leading ex](https://www.newscientist.com/article/2512121-the-3-best-ways-to-tackle-anxiety-according-to-a-leading-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Vast cluster of ancient galaxies could rewrite the history o](https://phys.org/news/2026-01-vast-cluster-ancient-galaxies-rewrite.html) |
+| keyword_rejected | - | [Unbiased clustering of acute-on-chronic liver failure patien](https://www.nature.com/articles/s41467-026-68368-6) |
+| keyword_rejected | - | [TET1 as a master regulator controlling GPX4-dependent and -i](https://www.nature.com/articles/s41467-026-68509-x) |
+| keyword_rejected | - | [Biochemical principles of miRNA targeting in flies](https://www.nature.com/articles/s41467-026-68360-0) |
+| keyword_rejected | - | [Identification of a novel real-time PCR reference gene panel](https://www.nature.com/articles/s41598-025-27383-1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120122610&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [ATAD2 mediates chromatin-bound histone chaperone turnover](https://elifesciences.org/articles/107582) |
+| keyword_rejected | - | [Biochemical principles of miRNA targeting in flies](https://www.nature.com/articles/s41467-026-68360-0) |
+| keyword_rejected | - | [4-Phenylbutyric Acid Activates an NF-κB - Egr-1 Axis to Cont](https://www.biorxiv.org/content/10.64898/2026.01.18.700214v1?rss=1) |
+| keyword_rejected | - | [Reported estimates of human airway dimensions are inconsiste](https://www.biorxiv.org/content/10.64898/2026.01.19.699966v1?rss=1) |
+| keyword_rejected | - | [Heparan sulfate promotes autoactivation of pro-Cathepsin K b](https://www.biorxiv.org/content/10.64898/2026.01.18.700217v1?rss=1) |
 | ai_scored | 30 | [Chromatin assembly at replication forks enables differentiat](https://www.biorxiv.org/content/10.64898/2026.01.20.700317v1?rss=1) |
 | keyword_rejected | - | [Two Twisty Shapes Resolve a Centuries-Old Topology Puzzle](https://www.quantamagazine.org/two-twisty-shapes-resolve-a-centuries-old-topology-puzzle-20260120/) |
 | keyword_rejected | - | [Le volcan du Piton de la Fournaise entre en éruption](https://www.sciencesetavenir.fr/fondamental/geologie/la-reunion-le-volcan-du-piton-de-la-fournaise-entre-en-eruption_190453?xtor=RSS-10) |
