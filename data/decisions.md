@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [5'Untranslated regions provide a versatile toolkit for tunab](https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1) |
+| ai_scored | 20 | [Vibrio aquamarinus sp. nov., a luminous marine bacteria isol](https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1) |
+| ai_scored | 25 | [From SCUBA to spectra: Broadly applicable methods for coral ](https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1) |
+| ai_scored | 5 | [Fibrin Selective Alteplase with Improved Thrombolysis and In](https://www.biorxiv.org/content/10.64898/2026.01.19.700241v1?rss=1) |
+| ai_scored | 50 | [La protein binding to telomerase RNA supports an evolutionar](https://www.biorxiv.org/content/10.64898/2026.01.19.700320v1?rss=1) |
+| ai_scored | 20 | [Dynamic Supercoiling Sponsors Transcription Amplification by](https://www.biorxiv.org/content/10.64898/2026.01.19.700398v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119224038&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Spatiotemporal assessment of multi hazard risk using graph b](https://www.nature.com/articles/s41598-026-35925-4) |
+| keyword_rejected | - | [Evaluating the potential to predict chemotherapy-induced nau](https://www.nature.com/articles/s41598-026-36488-0) |
+| keyword_rejected | - | [The impact of agricultural green development on common prosp](https://www.nature.com/articles/s41598-026-35978-5) |
+| keyword_rejected | - | [α-Amylase in <i>Aspergillus oryzae</i>-fermented rice promot](https://www.nature.com/articles/s41598-026-36928-x) |
+| keyword_rejected | - | [Cholangiocarcinoma derived exosomes attenuate the anti-tumor](https://www.nature.com/articles/s41598-026-36706-9) |
+| keyword_rejected | - | [Sex differences in foraging ecology of the chick rearing Brü](https://www.nature.com/articles/s41598-026-36586-z) |
+| keyword_rejected | - | [Molecular basis of mitogen-activated protein kinase ERK2 act](https://www.biorxiv.org/content/10.64898/2026.01.19.700303v1?rss=1) |
+| keyword_rejected | - | [Gradient based refinement of CryoET tilt series alignment im](https://www.biorxiv.org/content/10.64898/2026.01.16.699989v1?rss=1) |
+| keyword_rejected | - | [In vivo kinetics of protein degradation by individual protea](https://www.biorxiv.org/content/10.64898/2026.01.19.700426v1?rss=1) |
+| keyword_rejected | - | [Exploring differential interactional preferences of enzyme-b](https://www.biorxiv.org/content/10.64898/2026.01.19.700288v1?rss=1) |
 | keyword_rejected | - | [C1q-dependent clearance of alpha-synuclein allows macrophage](https://www.nature.com/articles/s41467-026-68641-8) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119202102&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Identification of sensorineural hearing loss subtypes using ](https://www.nature.com/articles/s41598-025-33815-9) |

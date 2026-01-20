@@ -3,8 +3,92 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-20T01:21:06.684477+00:00</updated>
+  <updated>2026-01-20T03:40:51.311200+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ Dynamic Supercoiling Sponsors Transcription Amplification by MYC</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700398v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700398v1?rss=1</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>MYC dysregulation occurs in most cancers provoking, profound changes in gene expression. Although sometimes considered to be an E-box-dependent transcription factor, an alternate model posits MYC to b</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Preprint dissects how MYC-driven transcription amplification is modulated by DNA supercoiling and TOP1 activity via stabilization/mobilization of pre-initiation complexes, offering mechanistic insight into eukaryotic gene regulation but with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> MYC dysregulation occurs in most cancers provoking, profound changes in gene expression. Although sometimes considered to be an E-box-dependent transcription factor, an alternate model posits MYC to be a universal amplifier of active genes. Although MYC is associated with accelerated pause release, the full extent of its participation in the transcription cycle remains poorly illuminated. MYC also stimulates topoisomerases to resolve topological issues that complicate DNA transactions; whether and how this stimulation is coordinated with or independent of its transcriptional role has not been examined. We have developed a genetic tool that discriminates between MYC&#x27;s ability to activate versus amplify reporter gene expression in any cell. This system enables the interrogation of genes, cofactors, and compounds that execute or modulate MYC activity. Using a combination of biochemical and cellular assays, we reveal the dynamic interplay between MYC-driven transcription amplification and DNA supercoiling. The early stages of transcription are highly sensitive to the level of DNA supercoiling. Reducing the activity of TOP1 either through genetic knockdown or low-dose inhibition potentiates transcription amplification by MYC. This enhancement is associated with pre-initiation complex (PIC) stabilization by DNA supercoiling. MYC helps to mobilize these stabilized PICs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700398v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700398v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700398v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biophysics - biorXiv Preprints ▶ La protein binding to telomerase RNA supports an evolutionary relationship between plant and ciliate telomerase pathways</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700320v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700320v1?rss=1</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>The Arabidopsis thaliana La1 (AtLa1) protein is a member of the genuine La family of RNA biogenesis proteins, which are structurally similar to the La-resembling protein 7 (LARP7) family. LARP7 protei</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study shows Arabidopsis La1 binds telomerase RNA and promotes telomerase RNP assembly in a way analogous to ciliate LARP7 pathways, suggesting a conserved evolutionary relationship in eukaryotic RNA biogenesis despite differing protein components.</p>
+<p><strong>Abstract:</strong> The Arabidopsis thaliana La1 (AtLa1) protein is a member of the genuine La family of RNA biogenesis proteins, which are structurally similar to the La-resembling protein 7 (LARP7) family. LARP7 proteins participate in the biogenesis of the telomerase ribonucleoprotein complex in model systems, but are absent in plants. We show that AtLa1 binds to telomerase RNA in a manner reminiscent of the Tetrahymena LARP7 protein p65. Classical in vitro methods and microscale thermophoresis (MST) were used to specify the molecular structures involved in this multi-surface interaction. AtLa1 also enhances the binding of TR to the telomerase reverse transcriptase RNA binding domain. We therefore propose that biogenesis of telomerase RNA in plants and ciliates is achieved by a similar pathway, differing in the employment of genuine La or LARP7-like proteins, respectively. We also report that the domain of unknown function (DUF3223, DeCL) found in the AtLa1 protein binding partner, Domino, is an RNA binding domain with modest TR-binding capacity. This domain is also found in plant and ciliate proteins, including plant polymerases IV/V and the Tetrahymena La protein Mlp1. Together, these suggest that RNA biogenesis pathways in plants and ciliates have a conserved evolutionary relationship, with parallels between their La proteins.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700320v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700320v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700320v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] biochemistry - biorXiv Preprints ▶ Fibrin Selective Alteplase with Improved Thrombolysis and Inhibition Resistance Engineered by Rational Design</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700241v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700241v1?rss=1</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>AIMS: Thrombolytic enzymes represent an accessible and streamlined treatment for acute ischemic stroke, yet current FDA-approved agents, alteplase and tenecteplase, are limited by incomplete recanaliz</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This bioRxiv preprint reports rational engineering of an alteplase-derived thrombolytic (Brnoteplase) with improved fibrin selectivity, inhibitor resistance, clot penetration, and in vivo safety/efficacy in rat stroke models, but it is not relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> AIMS: Thrombolytic enzymes represent an accessible and streamlined treatment for acute ischemic stroke, yet current FDA-approved agents, alteplase and tenecteplase, are limited by incomplete recanalization, hemorrhagic risk, and neurotoxicity. We aimed to develop a multidisciplinary workflow for rational design and multi-level testing of thrombolytic proteins to generate a next-generation thrombolytic with improved potency and safety. METHODS AND RESULTS: Our pipeline integrated in silico design, biochemical characterization, in vitro thrombolysis, and in vivo validation. Computational screening included rational mutagenesis to reduce side effects, reconstructed ancestral sequences, and database-mined homologs. Selected candidates were biochemically assessed for enzymatic activity, fibrin stimulation, selectivity and affinity, inhibition resistance, and clot penetrability. The most promising variants underwent in vitro clot thrombolysis and in vivo efficacy and safety studies in rats. Brnoteplase emerged as the lead candidate, exhibiting 80-fold enhanced fibrin selectivity, 4-fold higher inhibition resistance, and superior clot penetrability compared to alteplase. In vitro, Brnoteplase demonstrated deeper intrathrombus penetration and a progressive dose-response profile, unlike alteplase, which declined at higher concentrations. In vivo, Brnoteplase achieved higher thrombolysis rates and recanalization frequency across all doses, with extended biological half-life enabling bolus administration. Safety assessments revealed the lowest incidence of severe hemorrhagic transformation and minimal hemispheric asymmetry. CONCLUSIONS: We established a robust pipeline for efficient generation and selection of novel thrombolytics and identified Brnoteplase as a promising candidate combining improved fibrin selectivity, inhibition resistance, biological half-life, and clot penetration. These features translate into higher thrombolytic efficacy and a promising safety profile in vivo, warranting further preclinical evaluation to confirm its potential as a next-generation thrombolytic for acute ischemic stroke.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700241v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700241v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700241v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] biochemistry - biorXiv Preprints ▶ From SCUBA to spectra: Broadly applicable methods for coral metabolomics research</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>Corals represent a complex assemblage consisting of a host cnidarian, symbiotic dinoflagellate microalgae, and associated microbiomes and viromes, collectively called the coral holobiont. Corals are f</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Preprint presents a field-adaptable workflow for untargeted coral holobiont metabolomics (including fixation/storage-delay effects and lipid spectral libraries) with multi-omics compatibility, offering limited direct relevance to origins-of-life beyond general methodological ties to biomolecule profiling (DNA mentioned).</p>
+<p><strong>Abstract:</strong> Corals represent a complex assemblage consisting of a host cnidarian, symbiotic dinoflagellate microalgae, and associated microbiomes and viromes, collectively called the coral holobiont. Corals are foundational to tropical reefs, yet their global decline due to climate change and other stressors creates an uncertain future for this valuable ecosystem. Metabolomics is a powerful means to unravel biochemical interactions within the holobiont that underpin coral resilience and adaptation. However, the remote nature of reefs and the analytical demands of this technique often limit its application. Untargeted metabolomics presents analytical challenges that are amplified in complex samples like corals, such as identifying the biological source of metabolites. Here, we evaluate how different sample fixation methods and time delays before storage, unavoidable in field contexts, affect coral metabolome profiles. We further present a framework for mapping metabolites in holobiont samples to their coral host and algal symbiont origins and introduce a spectral library to improve and automate annotation of coral lipids. Additionally, we demonstrate how single samples can be used concurrently for metabolomics, DNA amplification, and proteomics. Together, our study provides a streamlined, field-adaptable workflow for coral metabolomics that enables larger-scale studies and broader adoption of metabolomics in coral reef research and conservation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700417v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ Vibrio aquamarinus sp. nov., a luminous marine bacteria isolated from the Black Sea Vibrio aquamarinus sp. nov., a luminous marine bacteria isolated from the Black Sea</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>Three novel bioluminescent bacterial strains, VNB-15T, VNB-16 and SChm4, were isolated from water of the Black Sea and intestines of the Black Sea horse mackerel. Cells of the isolated strains are mot</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Describes the isolation, phenotypic traits, and multi-gene/genomic phylogeny supporting a new bioluminescent marine Vibrio species (Vibrio aquamarinus) from Black Sea water and fish intestines, with limited direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Three novel bioluminescent bacterial strains, VNB-15T, VNB-16 and SChm4, were isolated from water of the Black Sea and intestines of the Black Sea horse mackerel. Cells of the isolated strains are motile Gram negative slightly curved rods with single polar flagellum. The temperature range for growth was 10-35{degrees}C, the optimum being 20-25{degrees}C. The pH range for growth was 6.0-9.0, the optimum being 7.0-8.0. The bacteria were able to grow in the presence of 0.5 to 5.0% NaCl (w/v), the optimum being 1.0-4.0% (w/v). Phylogenetic analysis based on comparison of 16S rRNA sequences shows these strains to have kinship with the species Vibrio jasicida, Vibrio hyugaensis, Vibrio alginolyticus, Vibrio campbelli, Vibrio rotiferianus, Vibrio harveyi and Vibrio owensii with sequence similarity from 99.6 to 98.0%. Phylogenetic analysis based on comparison of the sequences of genes gyrB, recA, pyrH, gapA, rpoA, mreB, ftsZ, topA shows that the strains VNB-15T, VNB-16 and SChm4 to form a cluster within the V. harveyi clade and belong to a new species of the Vibrio genus. Comparison of the complete genomic sequence of VNB-15T with typical strains of nearby species also indicates that VNB-15T belongs to a separate species (maximum similarity 98% with V. hyugaensis and 96% with V. jasicida). VNB-15T differs from closely related species by its ability to utilize glucose, mannitol, inositol, sorbitol, rhamnose and sucrose, and to form lysine decarboxylase, ornithine decarboxylase, lipase, acid phosphatase, -glucosidase, {beta}-glucosidase and N-acetyl-{beta}-D-glucosaminidase enzymes. Based on phylogenetic analysis and phenotypic characteristics, Vibrio aquamarinus sp. nov. is proposed.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699947v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] biochemistry - biorXiv Preprints ▶ 5&#x27;Untranslated regions provide a versatile toolkit for tunable exogenous protein expression</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1</id>
+    <updated>2026-01-19T00:00:00Z</updated>
+    <summary>Transient transfection is widely used for protein expression in heterologous systems, yet uncontrolled overexpression frequently introduces artifacts that confound functional analyses. Although stable</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study develops a modular panel of human 5&#x27;UTRs to fine-tune protein expression in transiently transfected cells, a useful molecular biology tool but only tangentially relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Transient transfection is widely used for protein expression in heterologous systems, yet uncontrolled overexpression frequently introduces artifacts that confound functional analyses. Although stable cell lines can mitigate these issues, generating lines for multiple constructs or variants is often impractical. Common alternatives, such as DNA titration, altered transfection conditions, or promoter swapping, provide only coarse and inconsistent control of protein abundance. Here, we establish a panel of ten human 5&#x27; untranslated regions (5&#x27;UTRs) as a modular strategy to tune protein expression during transient transfection. Across three soluble proteins and three membrane proteins, these 5&#x27;UTRs produce a reproducible dynamic range of expression, including fine-grained control of eYFP and the large sensory ion channel TRPA1. Notably, one 5&#x27;UTR consistently suppresses expression across all proteins tested and alleviates overexpression-associated artifacts, improving functional analysis of a hyperactive channel variant, substantially reducing background in proximity biotinylation assays, and enhancing the specificity of a stress granule marker. In contrast, most 5&#x27;UTRs enhance expression of the TRPV1 and TRPM8 sensory receptors, improving protein yield in heterologous systems. Together, this work identifies 5&#x27;UTRs as a compact, versatile, and broadly applicable tool to fine-tune protein abundance, enabling more physiologically relevant and assay-optimized expression in transient transfection experiments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700389v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [22] molecular biology - biorXiv Preprints ▶ High-quality proteins and RNAs extracted from exact same samples for proteomics and RNA-Seq analyses</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699903v1?rss=1"/>
