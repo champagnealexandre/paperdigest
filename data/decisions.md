@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 70 | [Sinking salty ice suggests pathway for life-sustaining condi](https://phys.org/news/2026-01-salty-ice-pathway-life-sustaining.html) |
+| ai_scored | 25 | [Dual genomic localizations and gene regulatory functions of ](https://www.nature.com/articles/s41467-026-68592-0) |
+| ai_scored | 50 | [Presence of primordial Mg can explain the seismic low-veloci](https://www.nature.com/articles/s41467-026-68572-4) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120102705&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [US science after a year of Trump: what has been lost and wha](https://www.nature.com/articles/d41586-026-00088-9) |
+| keyword_rejected | - | [Mistaken identity and the psychology of human recognition](https://www.nature.com/articles/d41586-026-00190-y) |
+| keyword_rejected | - | [Achat du Groenland : un vieux rêve militaire américain](https://www.sciencesetavenir.fr/politique/achat-du-groenland-un-vieux-reve-militaire-americain_190489) |
+| keyword_rejected | - | [Aurores boréales en France : pourquoi sont-elles de plus en ](https://www.sciencesetavenir.fr/espace/systeme-solaire/aurores-boreales-en-france-pourquoi-sont-elles-de-plus-en-plus-frequentes_190483?xtor=RSS-9) |
+| keyword_rejected | - | [Tailoring Australian carbon farming can realise greater co-b](https://www.nature.com/articles/s41467-026-68628-5) |
+| keyword_rejected | - | [Cryo-electron tomography reveals coupled flavivirus replicat](https://www.nature.com/articles/s41467-026-68483-4) |
+| keyword_rejected | - | [Ependymoglial cells are critical for cortex regeneration in ](https://www.nature.com/articles/s41467-026-68538-6) |
+| keyword_rejected | - | [Dynamical modulation of hippocampal replay through firing ra](https://www.nature.com/articles/s41467-025-68042-3) |
+| keyword_rejected | - | [Intermittent fasting inhibits Tp53-driven glioma through gut](https://www.nature.com/articles/s41467-026-68512-2) |
+| keyword_rejected | - | [Knock, knock... mapping comedic timing with a computational ](https://phys.org/news/2026-01-comedic-framework.html) |
+| keyword_rejected | - | [A zero-shot learning framework for chilli leaf disease detec](https://www.nature.com/articles/s41598-025-32959-y) |
+| keyword_rejected | - | [Coordinated chromosome motion emerges from mechanical coupli](https://www.biorxiv.org/content/10.64898/2026.01.17.700110v1?rss=1) |
+| keyword_rejected | - | [Chemotherapy-induced transfer of apoptotic machinery in extr](https://www.biorxiv.org/content/10.64898/2026.01.17.699063v1?rss=1) |
+| keyword_rejected | - | [Quantitative Expansion Microscopy for In Situ Estimation of ](https://www.biorxiv.org/content/10.64898/2026.01.18.700178v1?rss=1) |
+| keyword_rejected | - | [cloneXplorer: A high-throughput clone discovery platform bas](https://www.biorxiv.org/content/10.64898/2026.01.16.699323v1?rss=1) |
+| keyword_rejected | - | [Repurposing the HMG-CoA Reductase Inhibitor Atorvastatin for](https://www.biorxiv.org/content/10.64898/2026.01.18.699766v1?rss=1) |
+| keyword_rejected | - | [Inefficient autophagosome formation limits the temporal dyna](https://www.biorxiv.org/content/10.64898/2026.01.16.700014v1?rss=1) |
+| keyword_rejected | - | [Likelihood-Based Identification of Cell Division Mechanisms](https://www.biorxiv.org/content/10.64898/2026.01.16.700002v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120092725&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [La déforestation pousse les moustiques à nous piquer davanta](https://www.sciencesetavenir.fr/animaux/biodiversite/la-deforestation-pousse-les-moustiques-vers-le-sang-humain_190482?xtor=RSS-26) |
 | keyword_rejected | - | [Modeling and simulation of neocortical micro- and mesocircui](https://elifesciences.org/articles/99688) |
