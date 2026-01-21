@@ -1,0 +1,6 @@
+05:25:50 Fetching 93 RSS feeds...
+05:25:56 Fetched 542 papers from 93 feeds (4 errors), 84 match keywords, 458 rejected
+05:25:57 Processing 84 papers...
+05:55:49 LLM Error: Expecting ',' delimiter: line 1 column 65659 (char 65658)
+05:55:49 Processed 84 papers (avg score: 24, errors: 0)
+05:55:50 Done. History has 7415 papers (1229 AI-scored).
