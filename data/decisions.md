@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [The Nematostella synaptonemal complex mediates divergent and](https://www.biorxiv.org/content/10.64898/2026.01.18.699972v1?rss=1) |
+| ai_scored | 25 | [Legs made for a Mars landing](https://phys.org/news/2026-01-legs-mars.html) |
+| ai_scored | 15 | [2.6-million-year-old Paranthropus fossil expands early homin](https://phys.org/news/2026-01-million-year-paranthropus-fossil-early.html) |
+| ai_scored | 50 | [How European city life is continually rewriting insect DNA](https://phys.org/news/2026-01-european-city-life-rewriting-insect.html) |
+| keyword_rejected | - | [Découverte majeure sur les paranthropes, disparus il y a 1,2](https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/une-decouverte-majeure-reecrit-l-histoire-des-paranthropes-ces-hominines-disparus-il-y-a-1-2-million-d-annees_190511?xtor=RSS-4) |
+| keyword_rejected | - | [Le Groenland, un véritable intérêt géologique](https://www.sciencesetavenir.fr/nature-environnement/pourquoi-le-groenland-interesse-les-scientifiques-et-les-prospecteurs-miniers_190513?xtor=RSS-15) |
+| keyword_rejected | - | [Versican expression from lung fibroblasts suppresses pulmona](https://www.nature.com/articles/s41467-026-68377-5) |
+| keyword_rejected | - | [Bird retinas function without oxygen—solving a centuries-old](https://phys.org/news/2026-01-bird-retinas-function-oxygen-centuries.html) |
+| keyword_rejected | - | [Correction: Comparative study of advanced hydrogen liquefact](https://www.nature.com/articles/s41598-026-36689-7) |
+| keyword_rejected | - | [Correction: Somatic mutations in the <i>TG</i> and <i>RELA</](https://www.nature.com/articles/s41598-026-36851-1) |
+| keyword_rejected | - | [Correction: The efficacy of adjuvant chemotherapy after tota](https://www.nature.com/articles/s41598-026-36683-z) |
+| keyword_rejected | - | [Correction: Bioproduction, characterization, anticancer and ](https://www.nature.com/articles/s41598-025-34495-1) |
+| keyword_rejected | - | [Velocity gradients prove key to explaining large-scale magne](https://phys.org/news/2026-01-velocity-gradients-key-large-scale.html) |
+| keyword_rejected | - | [Observation of strong spin-orbit couplings in plasmonic spin](https://www.nature.com/articles/s41467-026-68629-4) |
+| keyword_rejected | - | [Triglyceride/Cholesterol Ester Ratio Encodes Lipid Droplet S](https://www.biorxiv.org/content/10.64898/2026.01.21.700800v1?rss=1) |
 | ai_scored | 5 | [Six highlights from ADHD research](https://www.nature.com/articles/d41586-026-00099-6) |
 | keyword_rejected | - | [How Animals Build a Sense of Direction](https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/) |
 | keyword_rejected | - | [NASA quietly ends financial support for planetary science gr](https://www.scientificamerican.com/article/nasa-quietly-ends-financial-support-for-planetary-science-groups/) |
