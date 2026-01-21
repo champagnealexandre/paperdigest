@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 80 | [Study Suggests A Pathway For Life-sustaining Conditions In E](https://astrobiology.com/2026/01/study-suggests-a-pathway-for-life-sustaining-conditions-in-europas-ocean.html) |
+| ai_scored | 70 | [New Research Reveals That Complex Building Blocks Of Life Fo](https://astrobiology.com/2026/01/new-research-reveals-that-complex-building-blocks-of-life-form-spontaneously-in-space.html) |
+| ai_scored | 25 | [Learning collective multicellular dynamics with an interacti](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013916) |
+| ai_scored | 75 | [Habitable Worlds Observatory’s Concept and Technology Matura](https://astrobiology.com/2026/01/habitable-worlds-observatorys-concept-and-technology-maturation-initial-feasibility-and-trade-space-exploration.html) |
+| ai_scored | 20 | [Molecular Crowding-Driven Nucleosome Interactions Revealed T](https://www.biorxiv.org/content/10.64898/2026.01.20.700467v1?rss=1) |
+| ai_scored | 60 | [Astrobiology Mentioned In OSTP Report On Science & Technolog](https://astrobiology.com/2026/01/astrobiology-mentioned-in-ostp-report-on-science-technology-highlights.html) |
+| ai_scored | 5 | [NASA ROSES-2026 To Be Released July 2026](https://astrobiology.com/2026/01/nasa-roses-2026-to-be-released-july-2026.html) |
+| ai_scored | 75 | [Hidden Magma Oceans Could Shield Rocky Exoplanets From Harmf](https://astrobiology.com/2026/01/hidden-magma-oceans-could-shield-rocky-exoplanets-from-harmful-radiation.html) |
+| ai_scored | 35 | [Exoplanet Atmospheres And Demographics In The 2040s](https://astrobiology.com/2026/01/exoplanet-atmospheres-and-demographics-in-the-2040s.html) |
+| ai_scored | 20 | [From TDP-43/RNA complex formation to disease-linked TDP-43 a](https://www.nature.com/articles/s41467-026-68346-y) |
+| keyword_rejected | - | [Recrudescence de la grippe chez les enfants, peut-être chez ](https://www.sciencesetavenir.fr/sante/recrudescence-de-la-grippe-chez-les-enfants-peut-etre-chez-les-adultes-ensuite_190518?xtor=RSS-16) |
+| keyword_rejected | - | [WDR5 remodels NANOG condensates to drive transcriptional pro](https://www.nature.com/articles/s41467-026-68623-w) |
+| keyword_rejected | - | [Divergent aging of nulliparous and parous mammary glands rev](https://www.nature.com/articles/s41467-026-68611-0) |
+| keyword_rejected | - | [Measuring real-time disease transmissibility with temperatur](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013820) |
+| keyword_rejected | - | [Histo-Miner: Deep learning based tissue features extraction ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013907) |
+| keyword_rejected | - | [MANTIS: Analytics toolkit for spatial metabolomics with matc](https://www.biorxiv.org/content/10.64898/2026.01.20.700581v1?rss=1) |
+| keyword_rejected | - | [MoDPA: Inferring Modification-dependent Protein Associations](https://www.biorxiv.org/content/10.64898/2026.01.20.700550v1?rss=1) |
 | ai_scored | 20 | [Endothelial RRM2B-dependent mitochondrial DNA signalling dri](https://www.biorxiv.org/content/10.64898/2026.01.19.700350v1?rss=1) |
 | ai_scored | 5 | [General Integration Theory of Cognitive Emergent: Comment on](https://www.sciencedirect.com/science/article/pii/S1571064526000060?dgcid=rss_sd_all) |
 | ai_scored | 10 | [Sirtuins as Modulators of Infection Outcomes in Host-Pathoge](https://www.sciencedirect.com/science/article/pii/S1571064526000059?dgcid=rss_sd_all) |
