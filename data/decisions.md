@@ -1,5 +1,30 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Endothelial RRM2B-dependent mitochondrial DNA signalling dri](https://www.biorxiv.org/content/10.64898/2026.01.19.700350v1?rss=1) |
+| ai_scored | 5 | [General Integration Theory of Cognitive Emergent: Comment on](https://www.sciencedirect.com/science/article/pii/S1571064526000060?dgcid=rss_sd_all) |
+| ai_scored | 10 | [Sirtuins as Modulators of Infection Outcomes in Host-Pathoge](https://www.sciencedirect.com/science/article/pii/S1571064526000059?dgcid=rss_sd_all) |
+| ai_scored | 20 | [New JWST images show Helix Nebula in astonishing clarity](https://www.scientificamerican.com/article/new-jwst-images-show-helix-nebula-in-astonishing-clarity/) |
+| ai_scored | 40 | [Structures of nucleotide-bound human telomerase at several s](https://www.nature.com/articles/s41467-026-68560-8) |
+| keyword_rejected | - | [Oldest cave art ever found discovered in Indonesia](https://www.scientificamerican.com/article/oldest-cave-art-ever-found-discovered-in-indonesia/) |
+| keyword_rejected | - | [Bird retinas work without oxygen, and now scientists know ho](https://www.newscientist.com/article/2512692-bird-retinas-work-without-oxygen-and-now-scientists-know-how/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Ape-like hominin Paranthropus was more adaptable than we tho](https://www.newscientist.com/article/2512373-ape-like-hominin-paranthropus-was-more-adaptable-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Oldest known rock art is a 68,000-year-old hand stencil with](https://www.newscientist.com/article/2512357-oldest-known-rock-art-is-a-68000-year-old-hand-stencil-with-claws/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our earliest vertebrate ancestors may have had four eyes](https://www.newscientist.com/article/2512668-our-earliest-vertebrate-ancestors-may-have-had-four-eyes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bird retinas work without oxygen, and now scientists know ho](https://www.newscientist.com/article/2512692-bird-retinas-work-without-oxygen-and-now-scientists-know-how/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Ape-like hominin Paranthropus was more adaptable than we tho](https://www.newscientist.com/article/2512373-ape-like-hominin-paranthropus-was-more-adaptable-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Oldest known rock art is a 68,000-year-old hand stencil with](https://www.newscientist.com/article/2512357-oldest-known-rock-art-is-a-68000-year-old-hand-stencil-with-claws/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our earliest vertebrate ancestors may have had four eyes](https://www.newscientist.com/article/2512668-our-earliest-vertebrate-ancestors-may-have-had-four-eyes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bird retinas work without oxygen, and now scientists know ho](https://www.newscientist.com/article/2512692-bird-retinas-work-without-oxygen-and-now-scientists-know-how/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Ape-like hominin Paranthropus was more adaptable than we tho](https://www.newscientist.com/article/2512373-ape-like-hominin-paranthropus-was-more-adaptable-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Oldest known rock art is a 68,000-year-old hand stencil with](https://www.newscientist.com/article/2512357-oldest-known-rock-art-is-a-68000-year-old-hand-stencil-with-claws/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our earliest vertebrate ancestors may have had four eyes](https://www.newscientist.com/article/2512668-our-earliest-vertebrate-ancestors-may-have-had-four-eyes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [La plus ancienne peinture pariétale au monde découverte en I](https://www.sciencesetavenir.fr/sciences/la-plus-ancienne-peinture-parietale-au-monde-decouverte-en-indonesie_190517?xtor=RSS-18) |
+| keyword_rejected | - | [Unified framework sorts spacetime fluctuations for quantum-g](https://phys.org/news/2026-01-framework-spacetime-fluctuations-quantum-gravity.html) |
+| keyword_rejected | - | [Studying massive and mysterious young protostars with Hubble](https://phys.org/news/2026-01-massive-mysterious-young-protostars-hubble.html) |
+| keyword_rejected | - | [Massive black hole mystery unlocked by researchers](https://phys.org/news/2026-01-massive-black-hole-mystery.html) |
+| keyword_rejected | - | [Radio telescopes on the moon could let us observe dozens of ](https://phys.org/news/2026-01-radio-telescopes-moon-dozens-black.html) |
+| keyword_rejected | - | [Loss of T73T75 phosphorylation on PP2A-B56Par1 advances mito](https://www.biorxiv.org/content/10.64898/2026.01.19.700315v1?rss=1) |
+| keyword_rejected | - | [Septins and cytokinesis in the polymorphic fungus Aureobasid](https://www.biorxiv.org/content/10.64898/2026.01.20.700616v1?rss=1) |
 | ai_scored | 55 | [Molecular structure of the ESCRT-III-based archaeal CdvAB ce](https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R) |
 | ai_scored | 60 | [Construction of complex and diverse DNA sequences using DNA ](https://www.nature.com/articles/s41586-025-10006-0) |
 | ai_scored | 35 | [Convergent evolution of scavenger cell development at brain ](https://www.nature.com/articles/s41586-025-10003-3) |
