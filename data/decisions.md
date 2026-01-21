@@ -1,5 +1,38 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Structural and functional characterization of Staphylococcus](https://onlinelibrary.wiley.com/doi/10.1002/pro.70484?af=R) |
+| keyword_rejected | - | [Le T.rex grandissait plus lentement que ce que l'on pensait](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/le-t-rex-le-roi-des-dinosaures-poursuivait-sa-croissance-jusqu-a-un-age-tres-avance_190480?xtor=RSS-4) |
+| keyword_rejected | - | [Sommeil : une IA prédit le risque de développer plus de 100 ](https://www.sciencesetavenir.fr/sante/sommeil/pendant-que-vous-dormez-cette-ia-evalue-votre-risque-de-developper-plus-de-100-maladies_190486?xtor=RSS-16) |
+| keyword_rejected | - | [INCENP and CDCA8 predict neoadjuvant chemotherapy response a](https://www.nature.com/articles/s41467-026-68371-x) |
+| keyword_rejected | - | [Decidualization-empowered ECM hydrogel integrating sustained](https://www.nature.com/articles/s41467-026-68677-w) |
+| keyword_rejected | - | [Heat shock protein 10 as a chaperone modulating α‐synuclein ](https://onlinelibrary.wiley.com/doi/10.1002/pro.70452?af=R) |
+| keyword_rejected | - | [Conformational state of myosin's disordered loop 2 structure](https://onlinelibrary.wiley.com/doi/10.1002/pro.70437?af=R) |
+| keyword_rejected | - | [The many dimeric faces of Lys49 PLA2‐like proteins: Conforma](https://onlinelibrary.wiley.com/doi/10.1002/pro.70449?af=R) |
+| keyword_rejected | - | [Ferritin‐based nanocarrier delivery of KRAS G12D inhibitor i](https://onlinelibrary.wiley.com/doi/10.1002/pro.70444?af=R) |
+| keyword_rejected | - | [HSPA8 regulates microtubule detyrosination through direct in](https://onlinelibrary.wiley.com/doi/10.1002/pro.70454?af=R) |
+| keyword_rejected | - | [The effect of osmolytes on peptide helicity: Experiments and](https://onlinelibrary.wiley.com/doi/10.1002/pro.70424?af=R) |
+| keyword_rejected | - | [Structural adaptations of heptosyltransferase I enzymes in p](https://onlinelibrary.wiley.com/doi/10.1002/pro.70458?af=R) |
+| keyword_rejected | - | [An improved nerve agent bioscavenger based on the fast self‐](https://onlinelibrary.wiley.com/doi/10.1002/pro.70467?af=R) |
+| keyword_rejected | - | [Investigating operational stability and causes of cofactor r](https://onlinelibrary.wiley.com/doi/10.1002/pro.70447?af=R) |
+| keyword_rejected | - | [Modulation of succinyl‐CoA:3‐ketoacid CoA transferase activi](https://onlinelibrary.wiley.com/doi/10.1002/pro.70463?af=R) |
+| keyword_rejected | - | [Recognition of small Tim chaperones by the mitochondrial Yme](https://onlinelibrary.wiley.com/doi/10.1002/pro.70445?af=R) |
+| keyword_rejected | - | [Conformational dynamics in insulin receptor kinase reveal a ](https://onlinelibrary.wiley.com/doi/10.1002/pro.70455?af=R) |
+| keyword_rejected | - | [Structural and dynamic similarities of nanofibrils and micro](https://onlinelibrary.wiley.com/doi/10.1002/pro.70460?af=R) |
+| keyword_rejected | - | [Calpain–MMP3 activation restricts nuclear uptake during prot](https://onlinelibrary.wiley.com/doi/10.1002/pro.70466?af=R) |
+| keyword_rejected | - | [Structure‐based design and biophysical characterization of t](https://onlinelibrary.wiley.com/doi/10.1002/pro.70450?af=R) |
+| keyword_rejected | - | [Detergent‐mediated cryoprotection: Optimizing freezing and s](https://onlinelibrary.wiley.com/doi/10.1002/pro.70465?af=R) |
+| keyword_rejected | - | [Elements and roadmap for interactive molecular graphics and ](https://onlinelibrary.wiley.com/doi/10.1002/pro.70457?af=R) |
+| keyword_rejected | - | [Beyond contacts: The important role of the support region in](https://onlinelibrary.wiley.com/doi/10.1002/pro.70470?af=R) |
+| keyword_rejected | - | [Unveiling the unfolded proteome: Evaluation and comparison o](https://onlinelibrary.wiley.com/doi/10.1002/pro.70446?af=R) |
+| keyword_rejected | - | [Evaluating zero‐shot prediction of monomeric protein design ](https://onlinelibrary.wiley.com/doi/10.1002/pro.70453?af=R) |
+| keyword_rejected | - | [Protease‐mediated maturation of M‐PMV reverse transcriptase ](https://onlinelibrary.wiley.com/doi/10.1002/pro.70469?af=R) |
+| keyword_rejected | - | [Tetravalent antibodies are more potent and efficacious eryth](https://onlinelibrary.wiley.com/doi/10.1002/pro.70462?af=R) |
+| keyword_rejected | - | [Molecular basis and biological relevance of bacterial and pl](https://onlinelibrary.wiley.com/doi/10.1002/pro.70436?af=R) |
+| keyword_rejected | - | [Concentration‐dependent mutational scanning probes the cellu](https://onlinelibrary.wiley.com/doi/10.1002/pro.70456?af=R) |
+| keyword_rejected | - | [Integrating evidence from protein domains to identify cancer](https://onlinelibrary.wiley.com/doi/10.1002/pro.70422?af=R) |
+| keyword_rejected | - | [Decidualization-empowered ECM hydrogel integrating sustained](https://www.nature.com/articles/s41467-026-68677-w) |
+| keyword_rejected | - | [Multiomics insights into eating time patterns and cardiovasc](https://www.nature.com/articles/s41467-026-68617-8) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121042925&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121032653&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Solar flares triggered by cascading magnetic avalanches, new](https://phys.org/news/2026-01-solar-flares-triggered-cascading-magnetic.html) |
 | keyword_rejected | - | [Bridging the performance gap: systematic optimization of loc](https://www.nature.com/articles/s41598-026-36904-5) |
