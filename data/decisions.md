@@ -1,5 +1,99 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Molecular structure of the ESCRT-III-based archaeal CdvAB ce](https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R) |
+| ai_scored | 60 | [Construction of complex and diverse DNA sequences using DNA ](https://www.nature.com/articles/s41586-025-10006-0) |
+| ai_scored | 35 | [Convergent evolution of scavenger cell development at brain ](https://www.nature.com/articles/s41586-025-10003-3) |
+| ai_scored | 45 | [Relatively warm deep-water formation persisted in the Last G](https://www.nature.com/articles/s41586-025-10012-2) |
+| ai_scored | 15 | [Chemical tuning reveals a cation–π gating bridge between the](https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R) |
+| ai_scored | 15 | [Predatory aggression evolved through adaptations to noradren](https://www.nature.com/articles/s41586-025-10009-x) |
+| ai_scored | 45 | [A bacterial translation activator with an intrinsically diso](https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R) |
+| ai_scored | 15 | [Septins buffer actomyosin forces to protect the nucleus from](https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1) |
+| ai_scored | 5 | [An accurate cellular assay to determine pathogenicity of cod](https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R) |
+| ai_scored | 20 | [Afar fossil shows broad distribution and versatility of <i>P](https://www.nature.com/articles/s41586-025-09826-x) |
+| ai_scored | 60 | [Toward Accurate RNA Folding Thermodynamics: Evaluation of En](https://www.biorxiv.org/content/10.64898/2026.01.19.700441v1?rss=1) |
+| ai_scored | 10 | [Rice Annotation Project Database (RAP-DB): literature-curate](https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1) |
+| ai_scored | 55 | [Towards CRISPR-based editing of the mitochondrial genome in ](https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R) |
+| ai_scored | 15 | [Ligand Binding Kinetics, Thermodynamics, and Gating of Insec](https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1) |
+| keyword_rejected | - | [Alex Garland’s The Bone Temple is brutal, brilliant - and mi](https://www.newscientist.com/article/2512653-alex-garlands-the-bone-temple-is-brutal-brilliant-and-mind-blowing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Alex Garland’s The Bone Temple is brutal, brilliant - and mi](https://www.newscientist.com/article/2512653-alex-garlands-the-bone-temple-is-brutal-brilliant-and-mind-blowing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Alex Garland’s The Bone Temple is brutal, brilliant - and mi](https://www.newscientist.com/article/2512653-alex-garlands-the-bone-temple-is-brutal-brilliant-and-mind-blowing/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Dauphins: un nouveau mois sans pêche, mais peut-être pas le ](https://www.sciencesetavenir.fr/nature-environnement/dauphins-un-nouveau-mois-sans-peche-mais-peut-etre-pas-le-dernier_190516?xtor=RSS-15) |
+| keyword_rejected | - | [Décès de l'astrophysicien français Roger-Maurice Bonnet](https://www.sciencesetavenir.fr/sciences/deces-de-l-astrophysicien-francais-roger-maurice-bonnet_190515?xtor=RSS-18) |
+| keyword_rejected | - | [La rétine des oiseaux peut fonctionner sans oxygène, voici c](https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/un-paradoxe-biologique-resolu-comment-la-retine-des-oiseaux-peut-fonctionner-sans-oxygene_190491?xtor=RSS-10) |
+| keyword_rejected | - | [‘Remote controlled’ proteins illuminate living cells](https://www.nature.com/articles/d41586-026-00204-9) |
+| keyword_rejected | - | [Hand stencils in Indonesian cave are world’s oldest known ar](https://www.nature.com/articles/d41586-026-00018-9) |
+| keyword_rejected | - | [An eye-popping discovery: early vertebrates had four eyes ra](https://www.nature.com/articles/d41586-025-04096-z) |
+| keyword_rejected | - | [Sending babies to nursery completely reshapes their microbio](https://www.nature.com/articles/d41586-026-00178-8) |
+| keyword_rejected | - | [A variety of early hominin species shared the Afar region of](https://www.nature.com/articles/d41586-025-03727-9) |
+| keyword_rejected | - | [Schrödinger’s cat just got bigger: quantum physicists create](https://www.nature.com/articles/d41586-026-00177-9) |
+| keyword_rejected | - | [Illuminating how the bird inner retina works without oxygen ](https://www.nature.com/articles/d41586-025-04095-0) |
+| keyword_rejected | - | [More than half of authors of leading research say funding is](https://www.nature.com/articles/d41586-026-00054-5) |
+| keyword_rejected | - | [Quantum effect observed for biggest objects yet](https://www.nature.com/articles/d41586-025-04097-y) |
+| keyword_rejected | - | [<b>The transition from monocyte to tissue-resident macrophag](https://www.nature.com/articles/s41586-025-09972-2) |
+| keyword_rejected | - | [Atmospheric microplastic emissions from land and ocean](https://www.nature.com/articles/s41586-025-09998-6) |
+| keyword_rejected | - | [Accretion bursts&#xa0;crystallize silicates in a planet-form](https://www.nature.com/articles/s41586-025-09939-3) |
+| keyword_rejected | - | [Biological insights into schizophrenia from ancestrally dive](https://www.nature.com/articles/s41586-025-10000-6) |
+| keyword_rejected | - | [Fibroblastic reticular cells direct the&#xa0;initiation of T](https://www.nature.com/articles/s41586-025-09988-8) |
+| keyword_rejected | - | [Fibre integrated circuits by a multilayered spiral architect](https://www.nature.com/articles/s41586-025-09974-0) |
+| keyword_rejected | - | [Baby-to-baby strain transmission shapes the developing gut m](https://www.nature.com/articles/s41586-025-09983-z) |
+| keyword_rejected | - | [Probing quantum mechanics with nanoparticle matter-wave inte](https://www.nature.com/articles/s41586-025-09917-9) |
+| keyword_rejected | - | [LetA defines a structurally distinct transporter family](https://www.nature.com/articles/s41586-025-09990-0) |
+| keyword_rejected | - | [Quantum spin resonance in engineered proteins for multimodal](https://www.nature.com/articles/s41586-025-09971-3) |
+| keyword_rejected | - | [Dissecting gene regulatory networks governing human cortical](https://www.nature.com/articles/s41586-025-09997-7) |
+| keyword_rejected | - | [Common variation in meiosis genes shapes human recombination](https://www.nature.com/articles/s41586-025-09964-2) |
+| keyword_rejected | - | [Large-scale dynamos driven by shear-flow-induced jets](https://www.nature.com/articles/s41586-025-09912-0) |
+| keyword_rejected | - | [Critical role for a high-plasticity cell state in lung cance](https://www.nature.com/articles/s41586-025-09985-x) |
+| keyword_rejected | - | [Oxygen-free metabolism in the bird inner retina supported by](https://www.nature.com/articles/s41586-025-09978-w) |
+| keyword_rejected | - | [Ageing promotes microglial accumulation of slow-degrading sy](https://www.nature.com/articles/s41586-025-09987-9) |
+| keyword_rejected | - | [The potential for bridgmanite megacrysts to drive magma ocea](https://www.nature.com/articles/s41586-025-10063-5) |
+| keyword_rejected | - | [Identification of an allosteric site on the E3 ligase adapte](https://www.nature.com/articles/s41586-025-09994-w) |
+| keyword_rejected | - | [Four camera-type eyes in the earliest vertebrates from the C](https://www.nature.com/articles/s41586-025-09966-0) |
+| keyword_rejected | - | [Core–envelope miscibility in sub-Neptunes and super-Earths](https://www.nature.com/articles/s41586-025-09970-4) |
+| keyword_rejected | - | [Rock art from at least 67,800 years ago in Sulawesi](https://www.nature.com/articles/s41586-025-09968-y) |
+| keyword_rejected | - | [Pyramidal neurons proportionately alter cortical interneuron](https://www.nature.com/articles/s41586-025-09996-8) |
+| keyword_rejected | - | [Symmetry, microscopy and spectroscopy signatures of altermag](https://www.nature.com/articles/s41586-025-09883-2) |
+| keyword_rejected | - | [Temporal tissue dynamics from a spatial snapshot](https://www.nature.com/articles/s41586-025-09876-1) |
+| keyword_rejected | - | [Extreme barocaloric effect at dissolution](https://www.nature.com/articles/s41586-025-10013-1) |
+| keyword_rejected | - | [The biggest ‘Schrödinger’s cat’ yet — physicists put 7,000 a](https://www.nature.com/articles/d41586-026-00227-2) |
+| keyword_rejected | - | [Publisher Correction: Polyamine-dependent metabolic shieldin](https://www.nature.com/articles/s41586-026-10140-3) |
+| keyword_rejected | - | [Editorial Expression of Concern: The X-linked lymphoprolifer](https://www.nature.com/articles/s41586-026-10145-y) |
+| keyword_rejected | - | [Regulating ion transport and solvation chemistry in zwitteri](https://www.pnas.org/doi/abs/10.1073/pnas.2513940123?af=R) |
+| keyword_rejected | - | [Distinct contributions of hippocampal pathways in learning r](https://www.pnas.org/doi/abs/10.1073/pnas.2503388123?af=R) |
+| keyword_rejected | - | [An active matter model captures spatial dynamics of actomyos](https://www.pnas.org/doi/abs/10.1073/pnas.2503955123?af=R) |
+| keyword_rejected | - | [Stochastic motility energetics reveals cooperative bacterial](https://www.pnas.org/doi/abs/10.1073/pnas.2515129123?af=R) |
+| keyword_rejected | - | [Predicting epistasis across proteins by structural logic](https://www.pnas.org/doi/abs/10.1073/pnas.2516291123?af=R) |
+| keyword_rejected | - | [Molecular underpinnings of induced degenerative heterogeneit](https://www.pnas.org/doi/abs/10.1073/pnas.2505412123?af=R) |
+| keyword_rejected | - | [An activator of a two-component system controls cell separat](https://www.pnas.org/doi/abs/10.1073/pnas.2519608123?af=R) |
+| keyword_rejected | - | [Proteasomal proteolysis in p62 condensates directs tumor sup](https://www.pnas.org/doi/abs/10.1073/pnas.2529422123?af=R) |
+| keyword_rejected | - | [The intrinsic impact of mechanical stress on the maintenance](https://www.pnas.org/doi/abs/10.1073/pnas.2526249123?af=R) |
+| keyword_rejected | - | [De novo discovery of bicyclic cysteine-rich peptides targeti](https://www.pnas.org/doi/abs/10.1073/pnas.2516051123?af=R) |
+| keyword_rejected | - | [Quantifying racial disparities in media representations of g](https://www.pnas.org/doi/abs/10.1073/pnas.2505499123?af=R) |
+| keyword_rejected | - | [Spatial clustering modifies competition in a diverse annual ](https://www.pnas.org/doi/abs/10.1073/pnas.2516084123?af=R) |
+| keyword_rejected | - | [Plastid-to-nucleus communication under hypoxia involves grou](https://www.pnas.org/doi/abs/10.1073/pnas.2525801123?af=R) |
+| keyword_rejected | - | [Host heterogeneity and unpredictability in parasite outbreak](https://www.pnas.org/doi/abs/10.1073/pnas.2522557123?af=R) |
+| keyword_rejected | - | [Plant diversity influences plant volatile emission with vary](https://www.pnas.org/doi/abs/10.1073/pnas.2518326123?af=R) |
+| keyword_rejected | - | [CCR5 marks a subset of mouse hematopoietic stem cells that a](https://www.pnas.org/doi/abs/10.1073/pnas.2426767123?af=R) |
+| keyword_rejected | - | [Microvascular architecture and physiological fluctuations co](https://www.pnas.org/doi/abs/10.1073/pnas.2521872123?af=R) |
+| keyword_rejected | - | [In This Issue](https://www.pnas.org/doi/abs/10.1073/iti0326123?af=R) |
+| keyword_rejected | - | [Large-scale dynamos driven by shear-flow-induced jets](https://www.nature.com/articles/s41586-025-09912-0) |
+| keyword_rejected | - | [Accretion bursts crystallize silicates in a planet-forming d](https://www.nature.com/articles/s41586-025-09939-3) |
+| keyword_rejected | - | [An ultra-long-acting dimeric bictegravir prodrug defined by ](https://www.nature.com/articles/s41467-026-68501-5) |
+| keyword_rejected | - | [A stochastic mechanism drives fast substrate translocation i](https://www.nature.com/articles/s41467-026-68478-1) |
+| keyword_rejected | - | [An ultra-long-acting dimeric bictegravir prodrug defined by ](https://www.nature.com/articles/s41467-026-68501-5) |
+| keyword_rejected | - | [Western lifestyle linked to maladaptive trained immunity](https://elifesciences.org/articles/105835) |
+| keyword_rejected | - | [Shifting the PPARγ conformational ensemble toward a transcri](https://elifesciences.org/articles/106697) |
+| keyword_rejected | - | [Differential Acceptance Specificity of Human Fucosyltransfer](https://www.biorxiv.org/content/10.64898/2026.01.20.700681v1?rss=1) |
+| keyword_rejected | - | [Identification and Functional Characterization of CXCL17 Ort](https://www.biorxiv.org/content/10.64898/2026.01.18.700233v1?rss=1) |
+| keyword_rejected | - | [Exploring the GM-CSF Histidine Triad as a Modulator of Struc](https://www.biorxiv.org/content/10.64898/2026.01.20.700583v1?rss=1) |
+| keyword_rejected | - | [Transient tertiary structure in intrinsically disordered pro](https://www.biorxiv.org/content/10.64898/2026.01.17.700112v1?rss=1) |
+| keyword_rejected | - | [Bigger Isn't Always Better: Comparing System Size, Hydration](https://www.biorxiv.org/content/10.64898/2026.01.20.700632v1?rss=1) |
+| keyword_rejected | - | [Calcium interaction with Nav1.5 via FGF12A and CaM binding](https://www.biorxiv.org/content/10.64898/2026.01.20.700379v1?rss=1) |
+| keyword_rejected | - | [Mapping the Ligand-dependent Remodeling of the Conformationa](https://www.biorxiv.org/content/10.64898/2026.01.17.700126v1?rss=1) |
+| keyword_rejected | - | [Curcumin Promotes Myelin Repair after Spinal Cord Injury via](https://www.biorxiv.org/content/10.64898/2026.01.21.700776v1?rss=1) |
+| keyword_rejected | - | [Mechanically-induced Septin Networks Protect Nuclear Integri](https://www.biorxiv.org/content/10.64898/2026.01.20.700414v1?rss=1) |
+| keyword_rejected | - | [Prostaglandin E2 is a Negative Regulator of Fibroadipogenic ](https://www.biorxiv.org/content/10.64898/2026.01.17.699776v1?rss=1) |
+| keyword_rejected | - | [orthogene: a Bioconductor package to easily map genes within](https://www.biorxiv.org/content/10.64898/2026.01.17.700094v1?rss=1) |
+| keyword_rejected | - | [Point-Cloud Enhancement and Structural Interpretation Framew](https://www.biorxiv.org/content/10.64898/2026.01.17.700079v1?rss=1) |
 | ai_scored | 40 | [The Nematostella synaptonemal complex mediates divergent and](https://www.biorxiv.org/content/10.64898/2026.01.18.699972v1?rss=1) |
 | ai_scored | 25 | [Legs made for a Mars landing](https://phys.org/news/2026-01-legs-mars.html) |
 | ai_scored | 15 | [2.6-million-year-old Paranthropus fossil expands early homin](https://phys.org/news/2026-01-million-year-paranthropus-fossil-early.html) |

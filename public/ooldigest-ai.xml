@@ -3,8 +3,204 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T16:38:16.984163+00:00</updated>
+  <updated>2026-01-21T17:51:53.198738+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] biophysics - biorXiv Preprints ▶ Ligand Binding Kinetics, Thermodynamics, and Gating of Insect Odorant Receptor</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Insect olfactory receptors (ORs) are unique ligand-gated ion channels specialized in detecting volatile molecules. The ancestral M. hrabei MhOR5 operates independently of the Orco co-receptor and exhi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Computational dissection of ligand binding thermodynamics/kinetics and gating in an ancestral insect odorant receptor (MhOR5), highlighting distinct binding pathways and key residues/helix features that control specificity and dissociation.</p>
+<p><strong>Abstract:</strong> Insect olfactory receptors (ORs) are unique ligand-gated ion channels specialized in detecting volatile molecules. The ancestral M. hrabei MhOR5 operates independently of the Orco co-receptor and exhibits broad ligand-binding capacity, yet the molecular underpinnings of its ligand specificity and gating dynamics have long remained unclear. To resolve this knowledge gap, we applied an integrated molecular dynamics enhanced sampling approach, combining collective variable machine learning, alchemical free energy calculations, and kinetic calculations, to dissect the ligand recognition and gating mechanisms of MhOR5 in complex with two key ligands: eugenol (EOL) and DEET. Our findings reveal striking differences in the binding modes of EOL and DEET, identify dual ligand binding/release pathways (solvent-facing and membrane-facing), and pinpoint two critical molecular determinants: W158 as a central gating residue regulating ligand dissociation, and a proline-disrupted S4 helix that modulates ligand specificity via water-mediated hydrogen bonding with DEET. Thermodynamic and kinetic calculations further demonstrate that DEET binds MhOR5 substantially more stably (-11.2 kcal/mol vs. -8.4 kcal/mol for EOL) and associates marginally faster, while EOL dissociates two to three orders of magnitude more rapidly. Collectively, these findings elucidate the atomic-level mechanisms of MhOR5&#x27;s ligand recognition and gating, providing a foundational framework for understanding insect OR function.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] PNAS ▶ Towards CRISPR-based editing of the mitochondrial genome in yeast</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis work extends the CRISPR gene editing technology to mitochondrial DNA. Mitochondria contain their ow</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Extends CRISPR editing to yeast mitochondrial DNA, a technical advance relevant to eukaryotic genome evolution and organelle biology but only indirectly connected to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis work extends the CRISPR gene editing technology to mitochondrial DNA. Mitochondria contain their own genomes essential for cellular energy production, and mutations in these genomes cause many incurable human diseases. A fundamental ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ Rice Annotation Project Database (RAP-DB): literature-curated gene annotation and integrated omics resources for rice functional genomics and molecular breeding</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>High-throughput sequencing technologies have enabled the generation of high-quality reference genomes for numerous rice cultivars. However, inferring gene functions, associated phenotypes, and causal </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> RAP-DB is a literature-curated rice genomics and omics database that improves functional gene/allele annotation for molecular breeding, with only incidental relevance to Origins of Life via routine RNA/DNA genomics terminology.</p>
+<p><strong>Abstract:</strong> High-throughput sequencing technologies have enabled the generation of high-quality reference genomes for numerous rice cultivars. However, inferring gene functions, associated phenotypes, and causal variants from these sequences remains challenging. The Rice Annotation Project Database (RAP-DB; https://rapdb.dna.affrc.go.jp) is a curated genomic resource that provides comprehensive gene annotations for the reference genome of Oryza sativa ssp. japonica cv. &quot;Nipponbare.&quot; Since its major update in 2013, gene models and functional annotations have been continuously revised through expert manual curation of newly published literature related to rice genes. As of March 2025, a total of 6,631 transcripts corresponding to 6,371 loci have been curated based on 4,699 peer-reviewed publications. These curated genes are functionally characterized and are frequently associated with agronomic traits, including yield components, stress tolerance, and disease resistance. To support molecular breeding, RAP-DB now provides a curated catalogue of 904 agronomically important loci, including gene symbols, functional descriptions, and associated traits, together with more than 1,000 functionally characterized alleles compiled from the literature. In addition to in-house expert curation, RAP-DB integrates community-curated datasets for major gene families, such as WRKY transcription factors, S-domain receptor-like kinases, and leucine-rich repeat-containing receptors, thereby expanding coverage of key regulatory and defense-related genes. RAP-DB also incorporates reanalyzed RNA sequencing expression profiles alongside microarray-based expression data and co-expression networks, offering gene-centric views of expression patterns across tissues, conditions, and developmental stages. Furthermore, RAP-DB is linked to genome-wide variation datasets from diverse rice varieties through the TASUKE+ genome browser, enabling exploration of allelic diversity across varieties. To enhance annotation quality and long-term sustainability, AI-assisted literature screening and a web-based feedback system have been introduced, allowing users to submit corrections to gene models and report newly characterized genes or relevant publications. Together, these developments strengthen RAP-DB as a primary, literature-based gene annotation resource and provide a practical foundation for molecular breeding in rice.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] biophysics - biorXiv Preprints ▶ Toward Accurate RNA Folding Thermodynamics: Evaluation of Enhanced Sampling Methods for Force Field Benchmarking</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700441v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700441v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Biologically functional RNAs operate near marginal stability, and their rugged free-energy landscapes and profound structural dynamics - typically not captured by structural biology experiments - play</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study benchmarks enhanced-sampling molecular dynamics methods for accurately estimating RNA tetraloop folding free energies, providing practical guidance for improving RNA force-field validation relevant to RNA stability questions in RNA-world scenarios.</p>
+<p><strong>Abstract:</strong> Biologically functional RNAs operate near marginal stability, and their rugged free-energy landscapes and profound structural dynamics - typically not captured by structural biology experiments - play decisive roles. Atomistic molecular dynamics (MD) simulations provide a unique means to characterize these features. However, the applicability of atomistic MD is currently limited by accessible simulation timescales and, most importantly, by force-field (FF) accuracy. Folding free energies ({Delta}G{degrees}fold) of small RNA motifs represent well-defined targets for quantitative benchmarking of RNA FFs. In practice, however, obtaining thermodynamic estimates that are sufficiently robust for direct comparison with experimental data remains highly challenging, even for small RNA systems, and many published studies rely on sampling that is not fully converged. Here, we systematically assess the performance of widely used advanced enhanced-sampling techniques using the 8-mer r(gcGAGAgc) tetraloop as a representative benchmark system. We test temperature replica exchange (T-REMD), two solute-tempering variants of replica exchange (REST2 and REHT), as well as well-tempered metadynamics and on-the-fly probability enhanced sampling combined with solute tempering (ST-MetaD and ST-OPES). Among the tested approaches, T-REMD proves to be the most robust, yielding reproducible folding equilibria and consistent estimates of {Delta}G{degrees}fold after approximately 20 s of simulation time, independent of the initial folded or unfolded conformational ensemble. Our results provide practical guidelines for selecting sampling protocols suitable for quantitative RNA benchmarks and lay the foundation for systematic validation and future refinement of RNA FFs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700441v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700441v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700441v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Nature ▶ Afar fossil shows broad distribution and versatility of Paranthropus</title>
+    <link href="https://www.nature.com/articles/s41586-025-09826-x"/>
+    <id>https://www.nature.com/articles/s41586-025-09826-x</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-09826-x With its attribution to Paranthropus, a 2.6-million-year-old partial mandible expands the range of the genus into the Afar reg</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A 2.6-million-year-old Paranthropus partial mandible from Ethiopia’s Afar region extends the genus’s known range and informs hominin evolutionary history in eastern Africa.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-09826-x With its attribution to Paranthropus, a 2.6-million-year-old partial mandible expands the range of the genus into the Afar region of Ethiopia and adds to our understanding of hominin evolution in eastern Africa.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-09826-x">https://www.nature.com/articles/s41586-025-09826-x</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-09826-x">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] PNAS ▶ An accurate cellular assay to determine pathogenicity of coding and noncoding variants in Lynch syndrome genes</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe gastrointestinal and genitourinary cancer predisposition Lynch syndrome is caused by overt deleterio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Develops a cellular assay to classify pathogenic coding and noncoding variants in DNA mismatch repair genes implicated in Lynch syndrome, with little direct relevance to origins-of-life research aside from general DNA biology.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe gastrointestinal and genitourinary cancer predisposition Lynch syndrome is caused by overt deleterious germline mutations in DNA mismatch repair (MMR) genes. However, germline sequencing often reveals subtle base-pair substitutions in MMR ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Septins buffer actomyosin forces to protect the nucleus from genotoxic mechanical stress</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Invasively migrating cells thread their nucleus through confined interstitial spaces. How cells protect the nucleus from intracellular forces is poorly understood. Here, we show that the septin cytosk</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study shows that the septin cytoskeleton (notably SEPT9) buffers perinuclear actomyosin forces during confined migration to prevent nuclear envelope rupture and downstream DNA damage, with implications for tumor cell survival rather than origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Invasively migrating cells thread their nucleus through confined interstitial spaces. How cells protect the nucleus from intracellular forces is poorly understood. Here, we show that the septin cytoskeleton buffers the actomyosin forces that power nuclear movement. Septin filaments comprising SEPT9, a septin amplified in breast cancer, align with perinuclear actomyosin cables which exhibit higher tensile stress during 3D confined migration through narrower pores. SEPT9 depletion amplifies actin stress during confined migration and after myosin II hyper-activation in non-migrating cells causing actin and nuclear envelope ruptures. Following confined migration, DNA breaks, nuclear blebs, micronuclei and cell death increase in SEPT9-depleted cells, phenotypes rescued by the oncogenic SEPT9 isoform 1. Clinicogenomic data reveal that SEPT9 amplification associates with lower genomic alteration in aggressive breast tumors and higher patient mortality. We propose that septins are a mechanoprotective element of the cytoskeleton, and SEPT9 amplification enhances tumor cell survival by preventing nuclear damage.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] PNAS ▶ A bacterial translation activator with an intrinsically disordered RNA-binding region</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceHere, we report the identification of PhaF as an RNA-binding protein inPseudomonas aeruginosa. Unlike ot</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Identifies PhaF in Pseudomonas aeruginosa as an RNA-binding, intrinsically disordered translation activator, expanding understanding of bacterial RNA–protein regulation with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceHere, we report the identification of PhaF as an RNA-binding protein inPseudomonas aeruginosa. Unlike other major regulators of translation in bacteria which typically function to inhibit translation, PhaF functions as a positive regulator of ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] Nature ▶ Predatory aggression evolved through adaptations to noradrenergic circuits</title>
+    <link href="https://www.nature.com/articles/s41586-025-10009-x"/>
+    <id>https://www.nature.com/articles/s41586-025-10009-x</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10009-x Noradrenergic circuits support and balance aggressive behavioural states in predatory nematodes, distinguish predatory from no</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study dissects how noradrenergic neural circuits underpin and distinguish predatory aggression across nematode species, informing behavioural evolution rather than origins-of-life or prebiotic processes.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10009-x Noradrenergic circuits support and balance aggressive behavioural states in predatory nematodes, distinguish predatory from non-predatory nematode species and are associated with the evolution of complex behavioural traits.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-10009-x">https://www.nature.com/articles/s41586-025-10009-x</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-10009-x">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] PNAS ▶ Chemical tuning reveals a cation–π gating bridge between the voltage-sensor and pore domains in the Kv7.1 potassium channel</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis study provides functional evidence of a cation–π interaction within a eukaryotic protein. These int</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> This PNAS study functionally validates a cation–π interaction that couples voltage-sensor and pore domains in the eukaryotic Kv7.1 potassium channel, offering mechanistic insight into modern protein gating but with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis study provides functional evidence of a cation–π interaction within a eukaryotic protein. These interactions have long been proposed to be central to protein function but have eluded characterization due, in part, to limitations in ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Nature ▶ Relatively warm deep-water formation persisted in the Last Glacial Maximum</title>
+    <link href="https://www.nature.com/articles/s41586-025-10012-2"/>
+    <id>https://www.nature.com/articles/s41586-025-10012-2</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10012-2 During the Last Glacial Maximum, the deep Northwest Atlantic was only about 2 °C colder than today, suggesting sustained produ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Proxy evidence suggests North Atlantic Deep Water formation remained relatively warm and persistent during the Last Glacial Maximum, providing broad Earth-ocean/climate context (via water-column stability and energy transport) relevant to long-term habitability rather than directly to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10012-2 During the Last Glacial Maximum, the deep Northwest Atlantic was only about 2 °C colder than today, suggesting sustained production of relatively warm North Atlantic Deep Water during the Last Glacial Maximum.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-10012-2">https://www.nature.com/articles/s41586-025-10012-2</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-10012-2">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] Nature ▶ Convergent evolution of scavenger cell development at brain borders</title>
+    <link href="https://www.nature.com/articles/s41586-025-10003-3"/>
+    <id>https://www.nature.com/articles/s41586-025-10003-3</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10003-3 Transcription factor osr2 is identified as a specific marker and regulator of mural lymphatic endothelial cell (muLEC) differe</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This Nature study identifies osr2 as a regulator of brain-border lymphatic endothelial cells and argues that these scavenger-like cells and border-associated macrophages are functionally analogous but non-homologous, illustrating convergent evolution in multicellular animals with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10003-3 Transcription factor osr2 is identified as a specific marker and regulator of mural lymphatic endothelial cell (muLEC) differentiation and maintenance, and muLECs and border-associated macrophages share functional analogies but are not homologous, providing an example of convergent evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-10003-3">https://www.nature.com/articles/s41586-025-10003-3</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-10003-3">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] Nature ▶ Construction of complex and diverse DNA sequences using DNA three-way junctions</title>
+    <link href="https://www.nature.com/articles/s41586-025-10006-0"/>
+    <id>https://www.nature.com/articles/s41586-025-10006-0</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10006-0 Sidewinder enables high-fidelity DNA assembly by separating the information that guides assembly from the final assembled sequ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Introduces “Sidewinder,” a high-fidelity DNA self-assembly strategy using three-way junctions that decouples assembly instructions from the final sequence, offering a potentially relevant tool/concept for studying how complex nucleic-acid sequence space could be constructed.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 21 January 2026; doi:10.1038/s41586-025-10006-0 Sidewinder enables high-fidelity DNA assembly by separating the information that guides assembly from the final assembled sequence.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-10006-0">https://www.nature.com/articles/s41586-025-10006-0</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-10006-0">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] PNAS ▶ Molecular structure of the ESCRT-III-based archaeal CdvAB cell division machinery</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceMembrane remodeling by ESCRT-III proteins is a fundamental and conserved process across the tree of life</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This PNAS study resolves the molecular architecture of the archaeal ESCRT-III-based CdvAB cytokinesis machinery, informing how conserved membrane-remodeling systems evolved on the tree of life and potentially bridging archaeal and eukaryotic cell biology.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceMembrane remodeling by ESCRT-III proteins is a fundamental and conserved process across the tree of life. The archaeal ESCRT-III-based cell division system (Cdv) drives cytokinesis in many archaeal groups, yet the molecular architecture of its ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] Phys.org: Evolution News ▶ How European city life is continually rewriting insect DNA</title>
     <link href="https://phys.org/news/2026-01-european-city-life-rewriting-insect.html"/>
@@ -6829,18 +7025,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [15] Scientific American ▶ Scientists Find Extinct Rhino DNA in Wolf Pup Mummy&#x27;s Stomach</title>
-    <link href="https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/"/>
-    <id>https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/</id>
-    <updated>2026-01-14T17:40:00Z</updated>
-    <summary>Scientists have sequenced the genome of the long-extinct woolly rhinoceros from remains found in the stomach of a naturally mummified Pleistocene wolf pup</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Researchers sequenced woolly rhinoceros DNA recovered from the stomach contents of a mummified Pleistocene wolf pup, a paleogenomics finding with minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Scientists have sequenced the genome of the long-extinct woolly rhinoceros from remains found in the stomach of a naturally mummified Pleistocene wolf pup</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] phys.org - Space News ▶ Peering below Callisto&#x27;s icy crust with ALMA</title>
     <link href="https://phys.org/news/2026-01-peering-callisto-icy-crust-alma.html"/>
     <id>https://phys.org/news/2026-01-peering-callisto-icy-crust-alma.html</id>
@@ -6851,17 +7035,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> What exists beneath the surface of Jupiter&#x27;s icy moon, Callisto? This is what a recent study accepted by The Planetary Science Journal hopes to address as a team of researchers investigated the subsurface composition of Callisto, which is Jupiter&#x27;s outermost Galilean satellite. This study has the potential to help scientists better understand the interior composition of Callisto, which is hypothesized to possess a subsurface liquid water ocean, and develop new techniques for exploring planetary subsurface environments.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-peering-callisto-icy-crust-alma.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] phys.org - Space News ▶ A &#x27;cosmic clock&#x27; in tiny crystals reveals the rise and fall of Australia&#x27;s ancient landscapes</title>
-    <link href="https://phys.org/news/2026-01-cosmic-clock-tiny-crystals-reveals.html"/>
-    <id>https://phys.org/news/2026-01-cosmic-clock-tiny-crystals-reveals.html</id>
-    <updated>2026-01-14T17:20:01Z</updated>
-    <summary>Australia&#x27;s iconic red landscapes have been home to Aboriginal culture and recorded in songlines for tens of thousands of years. But further clues to just how ancient this landscape is come from far b</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> Uses cosmogenic-ray signatures in surface minerals to date the evolution of Australia’s ancient landscapes, with only tangential relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Australia&#x27;s iconic red landscapes have been home to Aboriginal culture and recorded in songlines for tens of thousands of years. But further clues to just how ancient this landscape is come from far beyond Earth: cosmic rays that leave telltale fingerprints inside minerals at Earth&#x27;s surface.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-cosmic-clock-tiny-crystals-reveals.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
