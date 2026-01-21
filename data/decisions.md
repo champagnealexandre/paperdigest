@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [A Physics-based Model Reveals Mechanisms of Epigenetic Memor](https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1) |
+| ai_scored | 13 | [Selective identification of the herb Picrorhiza kurroa and p](https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1) |
+| keyword_rejected | - | [Nettoyer sans frotter grâce aux propriétés des mousses](https://www.pourlascience.fr/sr/idees-physique/nettoyer-sans-frotter-grace-aux-proprietes-des-mousses-28715.php) |
+| keyword_rejected | - | [A lightweight YOLO-based model for accurate detection of red](https://www.nature.com/articles/s41598-026-36671-3) |
+| keyword_rejected | - | [A fully degradable triboelectric vagus nerve stimulator for ](https://www.nature.com/articles/s41467-026-68619-6) |
+| keyword_rejected | - | [PURE-seq integrates FACS and PIP-seq for single-cell genomic](https://www.nature.com/articles/s41467-025-68146-w) |
+| keyword_rejected | - | [Structural basis for the dynamic conformations of AP-4 and i](https://www.nature.com/articles/s41467-026-68679-8) |
+| keyword_rejected | - | [ZNF683<sup>+</sup> NK cells govern chemotherapy sensitivity ](https://www.nature.com/articles/s41467-026-68676-x) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121013052&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Comparison of Deep Learning Approaches for Extreme Low-SNR I](https://www.biorxiv.org/content/10.64898/2026.01.16.700026v1?rss=1) |
+| keyword_rejected | - | [BiOmics: A Foundational Agent for Grounded and Autonomous Mu](https://www.biorxiv.org/content/10.64898/2026.01.17.699830v1?rss=1) |
+| keyword_rejected | - | [Quantitative Phase Imaging of Epithelial Monolayer Dynamics](https://www.biorxiv.org/content/10.64898/2026.01.17.700037v1?rss=1) |
 | ai_scored | 0 | [Cascaded Transformer for Robust and Scalable SLA Decompositi](https://arxiv.org/abs/2601.11859) |
 | ai_scored | 10 | [Menopause averted a midlife energetic crisis with help from ](https://arxiv.org/abs/2601.13442) |
 | ai_scored | 45 | [Extracting useful information about reversible evolutionary ](https://arxiv.org/abs/2601.13010) |

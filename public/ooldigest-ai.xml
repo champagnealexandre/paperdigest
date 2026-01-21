@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T05:55:50.106935+00:00</updated>
+  <updated>2026-01-21T06:31:09.289350+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [13] biochemistry - biorXiv Preprints ▶ Selective identification of the herb Picrorhiza kurroa and probiotic Lactobacillus fermentum as a synbiotic with fermentation-enhanced physicochemical, biological, and metabolomic properties</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Although secondary metabolites of medicinal plants can influence gut microbiota, their prebiotic and synbiotic potential remains largely unexplored. This study aimed to identify new medicinal plant-pr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> prebiotic</p>
+<p><strong>AI Decision:</strong> A microbiome/nutraceutical study identifying Picrorhiza kurroa fermented with Lactobacillus fermentum as a synbiotic that enhances metabolite profiles and anti-oxidative/anti-inflammatory effects, with only tangential relevance to Origins of Life via the generic use of the term “prebiotic.”</p>
+<p><strong>Abstract:</strong> Although secondary metabolites of medicinal plants can influence gut microbiota, their prebiotic and synbiotic potential remains largely unexplored. This study aimed to identify new medicinal plant-probiotic combinations that exhibit prebiotic and synbiotic effects through mutual synergism. Ten Himalayan medicinal plants were screened for selective prebiotic efficacy by assessing in vitro proliferation of three species of lactic acid bacteria (LAB) and the concurrent suppression of E. coli. The most effective plants were further evaluated for synergism with LAB via fermentation of pure extracts, followed by physicochemical, biological, and metabolomic profiling. Among these plants, Picrorhiza kurroa (PK) and Adhatoda vasica (AV) demonstrated promising prebiotic qualities with PAS scores of 0.50 and 0.44, respectively, while Lactobacillus fermentum (LF) proved to be the most compatible probiotic strain. Unlike AV, fermentation of PK with LF resulted in a significant increase in probiotic growth (2.2-fold), higher total flavonoids (21.6% increase), and enhanced antioxidant capacity (24.02% increase) compared to unfermented PK. Fermented PK notably improved cytoprotective effects and reduced oxidative damage (measured by ROS levels/lipid peroxidation) and inflammatory responses (NO/IL-6 levels) in macrophages and muscle cells subjected to separate exogenous stressors (LPS and H2O2). Elemental analysis (ICP-OES) and metabolomic profiling (LC-MS/UHPLC) revealed that LF metabolised major elements of PK (Ca/Fe/K/Na/Cu) and facilitated biotransformation of large secondary metabolites, including the characteristic iridoid glycosides of PK, into smaller, more abundant compounds. Consequently, the PK-LF combination is identified as a synbiotic, and its fermented product serves as a superior bioactive material suitable for development into innovative nutraceuticals or herbal formulations.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] biophysics - biorXiv Preprints ▶ A Physics-based Model Reveals Mechanisms of Epigenetic Memory</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>In multi-cellular eukaryotic organisms, cell type and specific functional identity are defined by the epigenetic patterning of chemical modifications to DNA and chromatin that modulate the expression </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, DNA</p>
+<p><strong>AI Decision:</strong> Physics-based modeling of post-division restoration of histone methylation (H3K9me3/H3K27me3) in multicellular eukaryotes, offering mechanistic insight into epigenetic information maintenance but only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> In multi-cellular eukaryotic organisms, cell type and specific functional identity are defined by the epigenetic patterning of chemical modifications to DNA and chromatin that modulate the expression and silencing of specific genes. When a cell divides, histones containing important epigenetic marks are distributed between the two daughter strands leading to a temporary dilution of epigenetic information and cell identity. In this work we introduce a physics-based model of epigenetic memory that explains how cells restore and maintain H3K9me3 and H3K27me3 histone methylation patterning after cell division. We demonstrate that emergence and maintenance of the epigenetic program is driven by an evolved mechanism that makes use of the biophysics of polymers, phase condensates and enzymatic activity. We validate our model via genome-wide epigenetic time-course simulation and comparison to experimental epigenetic data from multiple donors, multiple cell types, and for multiple epigenetic marks. Finally, we use our model as a conceptual framework to understand cellular reprogramming by hypothesizing that these processes first contend with and later utilize somatic epigenetic maintenance programs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [3] cond-mat.dis-nn updates on arXiv.org ▶ Quantum Pontus-Mpemba Effect Enabled by the Liouvillian Skin Effect</title>
     <link href="https://arxiv.org/abs/2601.14083"/>
