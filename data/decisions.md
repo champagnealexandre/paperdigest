@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 65 | [An Alternative DNA Endonuclease Activity is Associated with ](https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1) |
+| ai_scored | 30 | [Gain and loss of gut symbionts during stingless bee diversif](https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1) |
+| keyword_rejected | - | [Japon: la plus grande centrale nucléaire du monde doit redém](https://www.sciencesetavenir.fr/nature-environnement/japon-la-plus-grande-centrale-nucleaire-du-monde-doit-redemarrer-mercredi_190502?xtor=RSS-15) |
+| keyword_rejected | - | [Etre amoureux, une simple construction mentale ?](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/etre-amoureux-une-simple-construction-mentale-ou-un-mecanisme-biologique-universel_190465?xtor=RSS-16) |
+| keyword_rejected | - | [Endothelial cell responses in sepsis are attenuated by targe](https://www.nature.com/articles/s41467-025-68199-x) |
+| keyword_rejected | - | [Pattern Formation in Cell Cultures](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-030822-031838?TRACK=RSS) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121022453&v=2.18.0.post22+67771e2) |
 | ai_scored | 45 | [A Physics-based Model Reveals Mechanisms of Epigenetic Memor](https://www.biorxiv.org/content/10.64898/2026.01.16.699330v1?rss=1) |
 | ai_scored | 13 | [Selective identification of the herb Picrorhiza kurroa and p](https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1) |
 | keyword_rejected | - | [Nettoyer sans frotter grâce aux propriétés des mousses](https://www.pourlascience.fr/sr/idees-physique/nettoyer-sans-frotter-grace-aux-proprietes-des-mousses-28715.php) |

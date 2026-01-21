@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T06:31:09.289350+00:00</updated>
+  <updated>2026-01-21T07:25:07.068781+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Gain and loss of gut symbionts during stingless bee diversification is linked to host group size</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Microbiomes typically vary between closely related host species, but how and why they diverge during host diversification remain poorly understood. Bees provide a well-established model for the role o</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Across 29 stingless bee species, gut symbiont gain/loss (notably Snodgrassella and Gilliamella) correlates with colony size, suggesting social group size can drive microbiome evolution via selection pressures like disease risk.</p>
+<p><strong>Abstract:</strong> Microbiomes typically vary between closely related host species, but how and why they diverge during host diversification remain poorly understood. Bees provide a well-established model for the role of sociality in microbiome evolution: solitary species have generalist gut bacterial symbionts, while eusocial honey bees and bumble bees have host-specific core gut bacterial symbionts. Curiously however, some species of stingless bees, the most diverse clade of eusocial bees, lack the core symbionts Snodgrassella and Gilliamella. Here, we tested whether group size, a fundamental trait of social organisms, explains symbiont gain and loss in stingless bees. Using specimens from a global collection, we performed 16S rRNA gene sequencing and qPCR on 187 adult workers representing 29 species and 18 genera. Maximum reported colony sizes for these species range from 100 to over 100,000 individuals. Our phylogenetic models indicate positive feedbacks between group size and the symbionts Snodgrassella and Gilliamella. We suggest that challenges faced by large groups (e.g., disease risk) may select for symbionts that supply needed functionality (e.g., pathogen protection). Our findings highlight group size as a potentially widespread driver of microbiome evolution in social hosts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] molecular biology - biorXiv Preprints ▶ An Alternative DNA Endonuclease Activity is Associated with the LINE-1 ORF2-encoded Protein</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Long INterspersed Element-1 (L1) retrotransposons use activities contained within the L1 open reading frame 2 encoded protein (ORF2p) to mobilize throughout the genome via target-site primed reverse t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> This study identifies an alternative endonuclease activity embedded in the LINE-1 ORF2 reverse transcriptase fold, suggesting an evolutionarily conserved mechanism that could have enabled endonuclease-independent retrotransposition in primordial retroelements before dedicated endonuclease domains evolved.</p>
+<p><strong>Abstract:</strong> Long INterspersed Element-1 (L1) retrotransposons use activities contained within the L1 open reading frame 2 encoded protein (ORF2p) to mobilize throughout the genome via target-site primed reverse transcription (TPRT). The ORF2p endonuclease domain (EN) cleaves genomic DNA to liberate a 3&#x27;-hydroxyl (3&#x27;-OH) group that is used by the ORF2p reverse transcriptase domain (RT) to synthesize a cDNA copy of its bound L1 RNA template. L1 also can move by EN-independent retrotransposition (ENi), where a 3&#x27;-OH group at genomic DNA lesions, dysfunctional telomeres, or stalled replication forks is proposed to prime L1 reverse transcription in the absence of L1 EN cleavage. We previously reported that ribonucleoprotein (RNP) preparations from cells transfected with a human wild-type (WT) L1 or L1 EN-mutant, but not an L1 RT-mutant, can initiate reverse transcription from a DNA oligonucleotide primer/L1 RNA template complex. The WT and EN-deficient L1 RNP preparations also are associated with a nuclease activity that can process a 3&#x27; end modification that precludes DNA synthesis from an oligonucleotide prior to priming the L1 RT reaction. Here, we purified recombinant full-length WT, L1 EN-, and L1 RT-mutant human L1 ORF2p from insect cells. We report that the WT and L1 EN-mutant, but not the L1 RT-mutant, contain an alternative endonuclease activity (alt-EN). Alt-EN activity also is detected in a bacterially expressed L1 ORF2p protein that lacks the L1 EN and ORF2p cysteine-rich domains and a thermostable group II intron-encoded protein. Processing of diverse modified primers demonstrates endonucleolytic cleavage that is eliminated by mutations in the RT active site. We propose that alt-EN is an evolutionarily conserved activity within the RT fold that promoted ENi retrotransposition of primordial retrotransposons prior to the acquisition of an EN domain.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [13] biochemistry - biorXiv Preprints ▶ Selective identification of the herb Picrorhiza kurroa and probiotic Lactobacillus fermentum as a synbiotic with fermentation-enhanced physicochemical, biological, and metabolomic properties</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.17.700043v1?rss=1"/>
