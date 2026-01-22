@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Homeostasis after injury: How intertwined inference and cont](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013538) |
+| ai_scored | 25 | [Breaking the cell wall for efficient DNA delivery to diatoms](https://www.nature.com/articles/s41467-026-68562-6) |
+| ai_scored | 5 | [Seismometer networks could track space junk as it falls to E](https://phys.org/news/2026-01-seismometer-networks-track-space-junk.html) |
+| ai_scored | 0 | [Human penis size influences female attraction and male asses](https://phys.org/news/2026-01-human-penis-size-female-male.html) |
+| keyword_rejected | - | [Neural crest cell-derived DKK1 and NEDD4 modulate Wnt signal](https://www.nature.com/articles/s41467-026-68459-4) |
+| keyword_rejected | - | [Ultrathin liquid cells for microsecond time-resolved cryo-EM](https://www.nature.com/articles/s41467-026-68515-z) |
+| keyword_rejected | - | [ProteoAutoNet: high-throughput co-eluted protein analysis wi](https://www.nature.com/articles/s41467-026-68686-9) |
+| keyword_rejected | - | [Evaluating single-cell ATAC-seq atlasing technologies using ](https://www.nature.com/articles/s41467-026-68742-4) |
+| keyword_rejected | - | [Aux Etats-Unis, le "mythe" du recyclage du plastique](https://www.sciencesetavenir.fr/nature-environnement/aux-etats-unis-le-mythe-du-recyclage-du-plastique_190535?xtor=RSS-15) |
+| keyword_rejected | - | [Cancer might protect against Alzheimer’s — this protein help](https://www.nature.com/articles/d41586-026-00222-7) |
+| keyword_rejected | - | [Bayesian data driven modelling of kinetochore dynamics: Spac](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013884) |
+| keyword_rejected | - | [A predicted structural interactome reveals binding interfere](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013899) |
+| keyword_rejected | - | [Entangled atomic clouds enable more precise quantum measurem](https://phys.org/news/2026-01-entangled-atomic-clouds-enable-precise.html) |
 | ai_scored | 10 | [Single-cell atlas of human lung aging identifies cell type d](https://www.nature.com/articles/s41467-026-68810-9) |
 | ai_scored | 5 | [Diversity of water striders emerged earlier than previously ](https://phys.org/news/2026-01-diversity-striders-emerged-earlier-previously.html) |
 | ai_scored | 5 | [Correction: AOH induces oxidative stress and DNA damage in o](https://www.nature.com/articles/s41598-026-36730-9) |

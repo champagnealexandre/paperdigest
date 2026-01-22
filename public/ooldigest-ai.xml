@@ -3,8 +3,68 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T18:27:24.282875+00:00</updated>
+  <updated>2026-01-22T19:21:58.424682+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Phys.org: Evolution News ▶ Human penis size influences female attraction and male assessment of rivals, study suggests</title>
+    <link href="https://phys.org/news/2026-01-human-penis-size-female-male.html"/>
+    <id>https://phys.org/news/2026-01-human-penis-size-female-male.html</id>
+    <updated>2026-01-22T19:00:03Z</updated>
+    <summary>Men assess potential rivals that have a larger penis as more of a threat, both physically and sexually, according to a study by Upama Aich at the University of Western Australia and colleagues, publis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study on human sexual selection and social perception has no direct relevance to origins-of-life research or astrobiology.</p>
+<p><strong>Abstract:</strong> Men assess potential rivals that have a larger penis as more of a threat, both physically and sexually, according to a study by Upama Aich at the University of Western Australia and colleagues, published in PLOS Biology.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-human-penis-size-female-male.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] phys.org - Space News ▶ Seismometer networks could track space junk as it falls to Earth</title>
+    <link href="https://phys.org/news/2026-01-seismometer-networks-track-space-junk.html"/>
+    <id>https://phys.org/news/2026-01-seismometer-networks-track-space-junk.html</id>
+    <updated>2026-01-22T19:00:09Z</updated>
+    <summary>Space debris—the thousands of pieces of human-made objects abandoned in Earth&#x27;s orbit—pose a risk to humans when they fall to the ground. To locate possible crash sites, a Johns Hopkins University sci</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Proposes using existing seismic networks to detect and locate impacts of reentering space debris on Earth, with no direct connection to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Space debris—the thousands of pieces of human-made objects abandoned in Earth&#x27;s orbit—pose a risk to humans when they fall to the ground. To locate possible crash sites, a Johns Hopkins University scientist has helped to devise a way to track falling debris using existing networks of earthquake-detecting seismometers.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-seismometer-networks-track-space-junk.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] nature.com - Biological sciences ▶ Breaking the cell wall for efficient DNA delivery to diatoms</title>
+    <link href="https://www.nature.com/articles/s41467-026-68562-6"/>
+    <id>https://www.nature.com/articles/s41467-026-68562-6</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This methods-focused paper improves DNA delivery into diatoms by disrupting their cell wall, advancing algal genetic engineering but offering only limited indirect relevance to origins-of-life questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68562-6">https://www.nature.com/articles/s41467-026-68562-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68562-6">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] PLOS Computational Biology ▶ Homeostasis after injury: How intertwined inference and control underpin post-injury pain and behaviour</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013538"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013538</id>
+    <updated>2026-01-22T14:00:00Z</updated>
+    <summary>by Pranav Mahajan, Peter Dayan, Ben Seymour Injuries are an unfortunate but inevitable fact of life, leading to an evolutionary mandate for powerful homeostatic processes of recovery and recuperation.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Computational neuroscience/control-theory paper modeling post-injury pain and behavior via POMDPs, relevant only tangentially to Origins of Life through general themes of homeostasis and evolution rather than abiogenesis or prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> by Pranav Mahajan, Peter Dayan, Ben Seymour Injuries are an unfortunate but inevitable fact of life, leading to an evolutionary mandate for powerful homeostatic processes of recovery and recuperation. The physiological responses of the body and the immune system must be coordinated with behaviour to allow protected time for this to happen, and to prevent further damage to the affected bodily parts. Reacting appropriately requires an internal control system that represents the nature and state of the injury and specifies and withholds actions accordingly. We bring the formal uncertainties embodied in this system into the framework of a partially observable Markov decision process. We discuss nociceptive phenomena in light of this analysis, noting particularly the counter-intuitive behaviours associated with injury investigation, and the propensity for transitions from normative, tonic, to pathological, chronic pain states. Importantly, these simulation results provide a quantitative account and enable us to sketch a much needed roadmap for future theoretical and experimental studies on injury, tonic pain, and the transition to chronic pain.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.e093">https://doi.org/10.1371/journal.pcbi.1013538.e093</a></li>
+<li><a href="https://doi.org/10.1016/s1356-689x(03)00051-1">https://doi.org/10.1016/s1356-689x(03)00051-1</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.e026">https://doi.org/10.1371/journal.pcbi.1013538.e026</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/17031711">http://www.ncbi.nlm.nih.gov/pubmed/17031711</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.g005">https://doi.org/10.1371/journal.pcbi.1013538.g005</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.e053">https://doi.org/10.1371/journal.pcbi.1013538.e053</a></li>
+<li><a href="https://doi.org/10.1371/journal.pbio.3001476">https://doi.org/10.1371/journal.pbio.3001476</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.e142">https://doi.org/10.1371/journal.pcbi.1013538.e142</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.e010">https://doi.org/10.1371/journal.pcbi.1013538.e010</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013538.e090">https://doi.org/10.1371/journal.pcbi.1013538.e090</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013538">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [75] phys.org - Space News ▶ Resurrected ancient enzyme offers new window into early Earth and the search for life beyond it</title>
     <link href="https://phys.org/news/2026-01-resurrected-ancient-enzyme-window-early.html"/>
@@ -7091,58 +7151,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> The SETI Institute announced that nominations are now open for the 2026 Tarter Award for Innovation in the Search for Life Beyond Earth. The Tarter Award recognizes individuals whose projects or ideas significantly advance humanity’s search for extraterrestrial life and intelligence. Named in honor of Dr. Jill Tarter, SETI Institute co-founder and leader in the […] The post SETI Institute Opens Call For Nominations For The 2026 Tarter Award appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/seti-institute-opens-call-for-nominations-for-the-2026-tarter-award.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Organisms In The Atacama Desert Soil Are Remarkably Diverse</title>
-    <link href="https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html"/>
-    <id>https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html</id>
-    <updated>2026-01-15T18:36:00Z</updated>
-    <summary>A new study shows that resilient and remarkably diverse populations of organisms can persist in the soil despite harsh and extremely dry conditions. An international team led by researchers from the U</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, astrobio*</p>
-<p><strong>AI Decision:</strong> Study of diverse nematode communities persisting in the hyperarid Atacama Desert, providing an Earth extreme-environment analog relevant to assessing habitability but not directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> A new study shows that resilient and remarkably diverse populations of organisms can persist in the soil despite harsh and extremely dry conditions. An international team led by researchers from the University of Cologne, has examined tiny nematodes in the Chilean Atacama Desert. Along with the polar regions, the Atacama Desert is considered one among […] The post Organisms In The Atacama Desert Soil Are Remarkably Diverse appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Mars Was Half Covered By An Ocean</title>
-    <link href="https://astrobiology.com/2026/01/mars-was-half-covered-by-an-ocean.html"/>
-    <id>https://astrobiology.com/2026/01/mars-was-half-covered-by-an-ocean.html</id>
-    <updated>2026-01-15T19:05:38Z</updated>
-    <summary>Using images from cameras on Mars orbiters, an international research team led by the University of Bern has discovered structures on Mars that are very similar to classic river deltas on Earth. These</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, water, habitab*, astrobio*, mars</p>
-<p><strong>AI Decision:</strong> Orbital imaging reveals delta-like sedimentary structures indicating rivers emptied into a large ancient Martian ocean, strengthening the case for long-lived surface water and potential early habitability on Mars.</p>
-<p><strong>Abstract:</strong> Using images from cameras on Mars orbiters, an international research team led by the University of Bern has discovered structures on Mars that are very similar to classic river deltas on Earth. These are traces of rivers that have deposited their sediments into an ocean. This shows that Mars was a “blue planet” around three […] The post Mars Was Half Covered By An Ocean appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s44453-025-00015-8">https://www.nature.com/articles/s44453-025-00015-8</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/mars-was-half-covered-by-an-ocean.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [80] Astrobiology (astrobiology.com) ▶ Signs Of Ancient Life Turn Up In An Unexpected Place</title>
-    <link href="https://astrobiology.com/2026/01/signs-of-ancient-life-turn-up-in-an-unexpected-place.html"/>
-    <id>https://astrobiology.com/2026/01/signs-of-ancient-life-turn-up-in-an-unexpected-place.html</id>
-    <updated>2026-01-15T18:50:00Z</updated>
-    <summary>Dr. Rowan Martindale, a paleoecologist and geobiologist at the University of Texas at Austin, was walking through the Dadès Valley in the Central High Atlas Mountains of Morocco when she saw something</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, astrobio*, life</p>
-<p><strong>AI Decision:</strong> Geology study reports chemosynthetic microbial community traces preserved in Moroccan High Atlas rocks, expanding the range of terrestrial biosignature settings relevant to early-life and astrobiology searches.</p>
-<p><strong>Abstract:</strong> Dr. Rowan Martindale, a paleoecologist and geobiologist at the University of Texas at Austin, was walking through the Dadès Valley in the Central High Atlas Mountains of Morocco when she saw something that literally stopped her in her tracks. Martindale and her colleagues, including Stéphane Bodin of Aarhus University, were trekking through the rocky valley […] The post Signs Of Ancient Life Turn Up In An Unexpected Place appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53617.1/721566/Chemosynthetic-microbial-communities-formed">https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53617.1/721566/Chemosynthetic-microbial-communities-formed</a></li>
-<li><a href="https://doi.org/10.1130/G53617.1/721566/Chemosynthetic-microbial-communities-formed">https://doi.org/10.1130/G53617.1/721566/Chemosynthetic-microbial-communities-formed</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/signs-of-ancient-life-turn-up-in-an-unexpected-place.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] Phys.org: Evolution News ▶ DNA from wolf pup&#x27;s last meal reveals new facts about woolly rhino&#x27;s extinction</title>
-    <link href="https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html"/>
-    <id>https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html</id>
-    <updated>2026-01-15T18:30:01Z</updated>
-    <summary>The woolly rhino, Coelodonta antiquitatis, would have been an impressive sight to the ancient people who painted images of them on cave walls and carved figurines of them out of bone, antler, ivory an</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
-<p><strong>AI Decision:</strong> Ancient DNA from a preserved wolf pup’s gut contents sheds light on Late Pleistocene ecology and woolly rhino extinction, but has minimal relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> The woolly rhino, Coelodonta antiquitatis, would have been an impressive sight to the ancient people who painted images of them on cave walls and carved figurines of them out of bone, antler, ivory and wood.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
