@@ -3,8 +3,20 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T11:20:34.109223+00:00</updated>
+  <updated>2026-01-22T12:40:34.308314+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Complexity Digest ▶ Comparing Different Physics Fields Using Statistical Linguistics</title>
+    <link href="https://comdig.unam.mx/2026/01/22/comparing-different-physics-fields-using-statistical-linguistics/"/>
+    <id>https://comdig.unam.mx/2026/01/22/comparing-different-physics-fields-using-statistical-linguistics/</id>
+    <updated>2026-01-22T11:44:28Z</updated>
+    <summary>María Fernanda Sánchez-Puig, Carlos Gershenson, Carlos Pineda The large digital archives of the American Physical Society (APS) offer an opportunity to quantitatively analyze the structure and evoluti</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This preprint applies statistical linguistics to compare language across APS physics journals, with no substantive connection to origins-of-life, astrobiology, or habitability research.</p>
+<p><strong>Abstract:</strong> María Fernanda Sánchez-Puig, Carlos Gershenson, Carlos Pineda The large digital archives of the American Physical Society (APS) offer an opportunity to quantitatively analyze the structure and evolution of scientific communication. In this paper, we perform a comparative analysis of the language used in eight APS journals (Phys. Rev. A, B, C, D, E, Lett., X, Rev. Mod. Phys.) using methods from statistical linguistics. We study word rank distributions (from monograms to hexagrams), finding that they are consistent with Zipf’s law. We also analyze rank diversity over time, which follows a characteristic sigmoid shape. To quantify the linguistic similarity between journals, we use the rank-biased overlap (RBO) distance, comparing the journals not only to each other, but also to corpora from Google Books and Twitter. This analysis reveals that the most significant differences emerge when focusing on content words rather than the full vocabulary. By identifying the unique and common content words for each specialized journal, we develop an article classifier that predicts a paper’s journal of origin based on its unique word distribution. This classifier uses a proposed “importance factor” to weigh the significance of each word. Finally, we analyze the frequency of mention of prominent physicists and compare it to their cultural recognitions ranked in the Pantheon dataset, finding a low correlation that highlights the context-dependent nature of scientific fame. These results demonstrate that scientific language itself can serve as a quantitative window into the organization and evolution of science. Read the full article at: www.preprints.org</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://comdig.unam.mx/2026/01/22/comparing-different-physics-fields-using-statistical-linguistics/">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ The hidden microbial communities that shape health in space</title>
     <link href="https://phys.org/news/2026-01-hidden-microbial-communities-health-space.html"/>
@@ -6943,29 +6955,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> At the beginning of the exoplanet age, the goals were fairly simple. The first was to find as many of them as possible to flesh out our understanding of the exoplanet population. The second was to determine if any were in the habitable zones around their stars.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Scientific American ▶ Evacuated ISS Astronauts Return to Earth as NASA Prepares for Artemis Moon Mission</title>
-    <link href="https://www.scientificamerican.com/article/evacuated-iss-astronauts-return-to-earth-as-nasa-prepares-for-artemis-moon/"/>
-    <id>https://www.scientificamerican.com/article/evacuated-iss-astronauts-return-to-earth-as-nasa-prepares-for-artemis-moon/</id>
-    <updated>2026-01-15T11:30:00Z</updated>
-    <summary>NASA chief Jared Isaacman on Thursday said the experience of the returned Crew-11 will be used to prepare for future human space flight—including to the moon</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> A human spaceflight news item about ISS crew return and Artemis preparations with no direct connection to origins-of-life research or astrobiology evidence.</p>
-<p><strong>Abstract:</strong> NASA chief Jared Isaacman on Thursday said the experience of the returned Crew-11 will be used to prepare for future human space flight—including to the moon</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.scientificamerican.com/article/evacuated-iss-astronauts-return-to-earth-as-nasa-prepares-for-artemis-moon/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Sciences et Avenir ▶ Le retour d’échantillons martiens annulé par le Congrès américain</title>
-    <link href="https://www.sciencesetavenir.fr/espace/exploration/c-est-une-decision-tres-dure-le-retour-d-echantillons-martiens-annule-par-le-congres-americain_190419?xtor=RSS-9"/>
-    <id>https://www.sciencesetavenir.fr/espace/exploration/c-est-une-decision-tres-dure-le-retour-d-echantillons-martiens-annule-par-le-congres-americain_190419?xtor=RSS-9</id>
-    <updated>2026-01-15T11:38:23Z</updated>
-    <summary>Sous la pression de la Maison Blanche et du Congrès américain, la Nasa a renoncé à la mission de retour des échantillons collectés sur Mars par le rover Perseverance.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
-<p><strong>AI Decision:</strong> A policy update reporting that NASA has abandoned the Mars Sample Return mission, reducing near-term prospects for definitive biosignature and potential life-detection analyses from Perseverance’s cached Martian samples.</p>
-<p><strong>Abstract:</strong> Sous la pression de la Maison Blanche et du Congrès américain, la Nasa a renoncé à la mission de retour des échantillons collectés sur Mars par le rover Perseverance.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencesetavenir.fr/espace/exploration/c-est-une-decision-tres-dure-le-retour-d-echantillons-martiens-annule-par-le-congres-americain_190419?xtor=RSS-9">Read source article</a></p>]]></content>
   </entry>
 </feed>

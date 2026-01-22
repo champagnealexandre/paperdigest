@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Comparing Different Physics Fields Using Statistical Linguis](https://comdig.unam.mx/2026/01/22/comparing-different-physics-fields-using-statistical-linguistics/) |
+| keyword_rejected | - | [We were wrong about being able to 'nudge' people to improve ](https://www.newscientist.com/article/mg26935790-100-we-were-wrong-about-being-able-to-nudge-people-to-improve-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Strips of dried placenta help wounds heal with less scarring](https://www.newscientist.com/article/2512111-strips-of-dried-placenta-help-wounds-heal-with-less-scarring/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We were wrong about being able to 'nudge' people to improve ](https://www.newscientist.com/article/mg26935790-100-we-were-wrong-about-being-able-to-nudge-people-to-improve-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Strips of dried placenta help wounds heal with less scarring](https://www.newscientist.com/article/2512111-strips-of-dried-placenta-help-wounds-heal-with-less-scarring/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We were wrong about being able to 'nudge' people to improve ](https://www.newscientist.com/article/mg26935790-100-we-were-wrong-about-being-able-to-nudge-people-to-improve-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Strips of dried placenta help wounds heal with less scarring](https://www.newscientist.com/article/2512111-strips-of-dried-placenta-help-wounds-heal-with-less-scarring/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Daily briefing: Trump — one year in](https://www.nature.com/articles/d41586-026-00230-7) |
+| keyword_rejected | - | [Canny cattle: at least one cow knows how to use tools](https://www.nature.com/articles/d41586-026-00206-7) |
+| keyword_rejected | - | [Functional Percolation: Criticality of Form and Function](https://comdig.unam.mx/2026/01/22/functional-percolation-criticality-of-form-and-function/) |
+| keyword_rejected | - | [Optimization and accuracy analysis of track straightness mea](https://www.nature.com/articles/s41598-026-37100-1) |
+| keyword_rejected | - | [Correction: Chitosan and carboxymethyl chitosan nanocarriers](https://www.nature.com/articles/s41598-026-35869-9) |
 | keyword_rejected | - | [Cause of vision loss discovered in overlooked genes](https://www.nature.com/articles/d41586-026-00207-6) |
 | keyword_rejected | - | [Demonstration of low-overhead quantum error correction codes](https://www.nature.com/articles/s41567-025-03157-4) |
 | keyword_rejected | - | [Discovery of Goethe’s amber ant: its phylogenetic and evolut](https://www.nature.com/articles/s41598-026-36004-4) |
