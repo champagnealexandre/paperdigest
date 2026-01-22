@@ -3,8 +3,78 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T23:21:17.438457+00:00</updated>
+  <updated>2026-01-22T01:24:05.183130+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Scientific Reports ▶ Modular Harris Hawks optimization with trend-guided differential evolution and Gaussian exploration for global optimization and engineering design</title>
+    <link href="https://www.nature.com/articles/s41598-026-35565-8"/>
+    <id>https://www.nature.com/articles/s41598-026-35565-8</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 22 January 2026; doi:10.1038/s41598-026-35565-8 Modular Harris Hawks optimization with trend-guided differential evolution and Gaussian exploration for global opt</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Presents a hybrid metaheuristic (Harris Hawks optimization with differential evolution and Gaussian exploration) for global optimization in engineering design, with no direct relevance to origins-of-life research beyond the generic term “evolution.”</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 22 January 2026; doi:10.1038/s41598-026-35565-8 Modular Harris Hawks optimization with trend-guided differential evolution and Gaussian exploration for global optimization and engineering design</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-026-35565-8">https://www.nature.com/articles/s41598-026-35565-8</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-026-35565-8">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] biophysics - biorXiv Preprints ▶ Mg2+-Dependent Multistep Folding and Stabilization of the GAAA Tetraloop-Receptor Interaction in a Group I Intron</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700762v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700762v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Group I Introns are non-coding regions of pre-mRNA that catalyze their splicing from the RNA sequence by folding to a specific structure. We used computer simulations to study the folding mechanism of</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Simulations of a Group I intron P4–P6 RNA domain show Mg2+-dependent multistep folding where Mg2+ condensation tunes helix stiffness and stabilizes (or bypasses) tertiary-contact intermediates needed to dock the ubiquitous GAAA tetraloop–receptor interaction, informing how divalent ions could support complex RNA architecture relevant to RNA-world-style catalysis.</p>
+<p><strong>Abstract:</strong> Group I Introns are non-coding regions of pre-mRNA that catalyze their splicing from the RNA sequence by folding to a specific structure. We used computer simulations to study the folding mechanism of the P4-P6 domain in the Tetrahymena thermophila group I intron, focusing on the GAAA tetraloop-receptor (TL-R) interaction, which is a ubiquitous tertiary interaction in RNA structures. We show that the intron folds via a multistep pathway, populating seven states with distinct tertiary contacts. Under physiological Mg2+ concentrations ([Mg2+]), the loop-bulge-P4 tertiary interaction is essential to stabilize the docked TL-R complex, whereas in high [Mg2+], the TL-R complex is stable by itself. The solvated Mg2+ ions modulate the TL-R docking-undocking dynamics and stabilize non-native intermediate states. The condensation of Mg2+ in the major grooves of the TL and R helices is critical for them to attain specific stiffness essential for their facile docking. The results highlight the critical role of Mg2+ ions in facilitating TL-R interaction formation, which stabilizes long-range tertiary contacts in RNA structures.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700762v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700762v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700762v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] bioRxiv Subject Collection: Evolutionary Biology ▶ Carotenoid-based ornaments predict survival in male but not female birds: a meta-analysis</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Many vertebrates exhibit colourful ornaments generated by carotenoid pigments that presumably evolve as signals under sexual selection. To function as sexual signals, carotenoid-based coloured ornamen</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Meta-analysis in birds finds carotenoid-based ornamental coloration predicts survival in males but not females, suggesting sex-specific selection on these traits.</p>
+<p><strong>Abstract:</strong> Many vertebrates exhibit colourful ornaments generated by carotenoid pigments that presumably evolve as signals under sexual selection. To function as sexual signals, carotenoid-based coloured ornaments should accurately reveal an individual&#x27;s quality, commonly defined as fitness potential, which includes the ability to survive. We performed a meta-analysis for testing the association between the expression level of carotenoid-based ornaments and longevity estimates (annual survival or lifespan) in birds, the taxon with the largest body of evidence. We detected a significant positive correlation in males but not in females. This result contrasts with recent meta-analytic work showing a positive association between carotenoid-based coloured traits and avian fecundity in both sexes. The link to survival was consistent among colourations produced by enzymatically transformed pigments (mostly red ketocarotenoids) and those based on dietary yellow carotenoids. The latter suggests that the association with survival holds across the physiological mechanisms involved in the production of these ornaments. In summary, our study reveals sex-specific selection in the evolution of carotenoid-based ornaments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Comparative genomics of Tandem Repeat variation in apes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Tandem repeats (TRs) are highly mutable DNA elements that comprise nearly 8% of the human genome and influence gene regulation, protein coding, and disease. Despite their functional importance, our un</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
+<p><strong>AI Decision:</strong> Using telomere-to-telomere ape genomes and population long reads, the study builds a cross-species catalog of STR/VNTR variation and mutation dynamics, highlighting context-dependent conservation and candidate TRs under unusual evolutionary regimes, but it has limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Tandem repeats (TRs) are highly mutable DNA elements that comprise nearly 8% of the human genome and influence gene regulation, protein coding, and disease. Despite their functional importance, our understanding of TR evolution remains limited, as their repetitive nature has hindered accurate sequencing, annotation, and cross-species comparison. As a result, we lack a population-aware evolutionary framework to quantify TR conservation, divergence, and mutational dynamics across species. Here, using telomere-to-telomere (T2T) reference genomes for seven ape species and population-scale long reads for humans and chimpanzees, we generated a comprehensive comparative catalog of STRs and VNTRs. We identified over 3 million TR loci per ape genome and nearly 2 million homologous loci between humans and chimpanzees. TR diversity and conservation are strongly structured by genomic context, with coding and untranslated regions exhibiting reduced polymorphism and divergence, while intronic and intergenic regions show elevated variability. Heterozygosity varies systematically across species, motif lengths, and functional categories, and mutation rates show strong concordance between indirect and pedigree-based estimates. Using a divergence-diversity ratio framework, we identified TRs under extreme evolutionary regimes that are enriched in genes involved in nervous system development, synaptic function, and cell signaling. Together, these results establish a population and species-resolved framework for studying TR evolution and interpreting TR variation in functional contexts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [43] bioRxiv Subject Collection: Evolutionary Biology ▶ Mutualistic rhizobia harbor genetic variation for traits related to parasite infection</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Microbial mutualists partially determine many host traits, including traits related to infection by parasites. However, while microbial effects on host trait plasticity is fairly well established, whe</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using a rhizobia–plant genotype pairing and nematode infections, this study shows mutualistic microbes can shape genetic variation in host resistance and parasite virulence via genotype-by-genotype effects, highlighting how microbial symbioses may influence host–parasite evolution.</p>
+<p><strong>Abstract:</strong> Microbial mutualists partially determine many host traits, including traits related to infection by parasites. However, while microbial effects on host trait plasticity is fairly well established, whether microbial mutualists contribute to genetic variation in infection-related remains an open question . Here we paired 10 mutualistic Sinorhizobium meliloti rhizobacteria strains with 20 Medicago truncatula plant genotypes in an incomplete factorial design, and experimentally infected the plants with parasitic root-knot nematodes. We used this design to estimate rhizobia contributions to genetic variation in four infection-related traits: host resistance, parasite virulence, host tolerance, and mutualism robustness. We find that rhizobia contribute to genetic variation in host resistance and mutualism robustness, and to genetic variation in parasite virulence via genotype-by-genotype interactions with the host. Rhizobia did not contribute to variation in host tolerance. The influence of rhizobia strains on parasite resistance was partially explained by their effect on host root growth. These results underscores the influence that microbial mutualists have on their host&#x27;s response to parasite infection, and suggests that resource mutualists may impact host-parasite evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ TPCAV: Interpreting deep learning genomics models via concept attribution</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1"/>
@@ -5420,20 +5490,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://arxiv.org/abs/2601.10657">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ Label-free detection of individual virus-infected cells using deep learning</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699499v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699499v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Numerous applications in research and medicine rely on reliable identification and quantification of virus-infected cells. Current methods either apply reporter viruses, that often differ from clinica</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
-<p><strong>AI Decision:</strong> Preprint presents a deep-learning pipeline (VAIruScope) to identify virus-infected cells label-free from light microscopy by recognizing cytopathic effects across RNA, DNA, and retroviruses, a useful bioimaging advance but only tangentially relevant to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Numerous applications in research and medicine rely on reliable identification and quantification of virus-infected cells. Current methods either apply reporter viruses, that often differ from clinical isolates (e. g. cell tropism, immune evasion) or staining approaches, that prevent live-cell experiments and may introduce biases through manual counting. We present a deep learning model for the label-free identification of virus-infected cells on light microscopy images (VAIruScope). To overcome limitations, our pipeline enables an automated quantification of virus-infected cells based on the recognition of cytopathic effects. The method was applied to different cell models and four clinically relevant prototype viruses representing RNA- (influenza A virus), DNA- (human cytomegalovirus, herpes simplex virus-1) and retroviruses (human immunodeficiency virus-1). VAIruScope identified infected cells achieving classification accuracies of up to 96 %. As proof-of-concept, the method was validated using electron microscopy for a wild-type HSV-1. VAIruScope may be applicable to live-cell imaging to investigate infection dynamics.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699499v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699499v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699499v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [0] cond-mat.dis-nn updates on arXiv.org ▶ Exploiting emergent symmetries in disorder-averaged quantum dynamics</title>
     <link href="https://arxiv.org/abs/2507.09614"/>
     <id>https://arxiv.org/abs/2507.09614</id>
@@ -5868,76 +5924,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://arxiv.org/abs/2601.10364">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] cell biology - biorXiv Preprints ▶ Distinct p21 dynamics drive alternative routes to whole-genome duplication through a common CDK4/6-dependent polyploid G0 state</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Whole-genome duplication (WGD) fuels tumor evolution and therapy resistance, yet the molecular mechanisms governing the switch from the canonical mitotic cell cycle to the endoreplication cycle remain</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
-<p><strong>AI Decision:</strong> Preprint dissects how genotoxic stress in breast cancer cells triggers alternative p21-dependent routes to whole-genome duplication and a shared CDK4/6-dependent polyploid G0 state, suggesting a therapeutic strategy to block WGD-driven tumor evolution.</p>
-<p><strong>Abstract:</strong> Whole-genome duplication (WGD) fuels tumor evolution and therapy resistance, yet the molecular mechanisms governing the switch from the canonical mitotic cell cycle to the endoreplication cycle remain unclear. Here, we combine single-cell proteomics, manifold learning, and live-cell imaging to map the intersection of the mitotic and endoreplication cycles in breast cancer cells exposed to genotoxic agents. We identify two distinct routes to WGD driven by distinct p21 dynamics. High p21 induction induces G2 exit and endocycling, whereas insufficient p21 permits mitotic entry followed by slippage and endomitosis. This therapy-induced switch acts as a facultative stress response, generating drug-resistant polyploid populations that propagate genomic instability through replication stress and the generation of replication-competent micronuclei. Both paths to WGD converge on a common polyploid G0 state dependent on cyclin D1:CDK4/6 activity to complete the transition to the endoreplication cycle, revealing a shared vulnerability. Sequential treatment with genotoxic agents followed by CDK4/6 inhibitors preserves the cytotoxic efficacy of DNA-damaging drugs while simultaneously blocking entry into the endoreplication cycle and WGD-driven evolutionary rescue. These findings reveal the molecular rules governing the switch from the mitotic to endoreplication cycle and highlight the potential of WGD-blocking drugs as adjuvant therapies to inhibit drug resistance and suppress tumor evolution.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699545v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] biochemistry - biorXiv Preprints ▶ Structural Basis of Glycolytic Control in Trypanosoma cruzi: Insights from Enolase and PGI</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Trypanosoma cruzi, the causative agent of Chagas disease, relies heavily on glycolysis for ATP production, making glycolytic enzymes attractive targets for therapeutic intervention. In this study, we </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> High-resolution structures of two Trypanosoma cruzi glycolytic enzymes (PGI and enolase) reveal parasite-specific features and support structure-guided antiparasitic inhibitor design, with minimal relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Trypanosoma cruzi, the causative agent of Chagas disease, relies heavily on glycolysis for ATP production, making glycolytic enzymes attractive targets for therapeutic intervention. In this study, we report high-resolution crystal structures of two essential glycolytic enzymes, glucose-6-phosphate isomerase (Tc PGI; 1.8 A) and enolase (Tc enolase; 2.4 A), and integrate structural, biophysical, and computational analyses to evaluate their drug-target potential. Tc PGI adopts a dimeric alpha-beta-alpha sandwich fold and contains a parasite-specific 53-residue N-terminal extension and a distinctive C-terminal hook region that are absent in the human ortholog. Tc enolase displays the conserved (alpha/beta)8 TIM-barrel architecture but exhibits localized structural differences, including an extended alpha17 helix and a structured alpha1 region, relative to human isoforms. Both enzymes exhibit high thermal stability, consistent with adaptation to the parasite&#x27;s complex life cycle. Structure-based virtual screening using a scaffold previously associated with multi-target inhibition identified candidate ligands with favorable docking scores for each enzyme. Subsequent molecular dynamics simulations and binding free-energy analyses supported stable enzyme-ligand interactions and favorable energetic profiles. Together, these results define parasite-specific structural features of two key glycolytic enzymes and provide a structural framework for future experimental validation and structure-guided development of selective antiparasitic inhibitors.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699324v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] cell biology - biorXiv Preprints ▶ LONP-1 deficiency causes dysregulated protein synthesis within mitochondria that is restored by mitoribosomal mutations</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Mitochondrial homeostasis is maintained by multiple molecular chaperones and proteases located within the organelle. The mitochondrial matrix-localized protease LONP-1 degrades oxidatively damaged or </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
-<p><strong>AI Decision:</strong> In C. elegans, loss of the mitochondrial protease LONP-1 disrupts mtDNA replication/transcription and dysregulates mitochondrial translation, and specific mitoribosomal protein mutations (e.g., MRPS-38) suppress these defects by slowing translation to improve oxidative phosphorylation complex assembly.</p>
-<p><strong>Abstract:</strong> Mitochondrial homeostasis is maintained by multiple molecular chaperones and proteases located within the organelle. The mitochondrial matrix-localized protease LONP-1 degrades oxidatively damaged or misfolded proteins. Importantly, LONP-1 also regulates mitochondrial DNA replication. Here, we show that mutations in C. elegans that impair LONP-1 function cause dysregulation of mitochondrial DNA replication, mitochondrial RNA transcription and protein synthesis within the mitochondrial matrix. LONP-1 deficient worms had reduced levels of oxidative phosphorylation proteins despite increased mtDNA-encoded protein synthesis. Via a forward genetic screen, we identified three mutations that restored mitochondrial function and the rate of development in lonp-1 mutants to levels comparable to those in wildtype worms. Interestingly, all three suppressor mutations were found in genes encoding mitochondrial ribosome proteins. A point mutation in the mitochondrial ribosome protein MRPS-38 restored oxidative phosphorylation in lonp-1 mutant worms. Combined, our results suggest that LONP-1 regulates mitochondrial protein synthesis and that the suppressor mutations within MRPS-38 or MRPS-15 enhance oxidative phosphorylation complex assembly by slowing translation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699555v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] bioRxiv Subject Collection: Evolutionary Biology ▶ Characterizing the rates and patterns of de novo germline mutations in coppery titi monkeys (Plecturocebus cupreus)</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Although recent advances in genomics have enabled the high-resolution study of whole genomes, our understanding of one of the key evolutionary processes, mutation, still remains limited. In primates s</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Population-scale whole-genome sequencing in coppery titi monkey trios quantifies de novo germline mutation rates and a strong paternal age effect, informing primate evolutionary mutation dynamics but only indirectly relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Although recent advances in genomics have enabled the high-resolution study of whole genomes, our understanding of one of the key evolutionary processes, mutation, still remains limited. In primates specifically, studies have largely focused on humans and their closest evolutionary relatives, the great apes, as well as a handful of species of biomedical or conservation interest. Yet, as biological variation in mutation rates has been shown to vary across genomic regions, individuals, and species, a greater understanding of the underlying evolutionary dynamics at play will ultimately be illuminated by not only additional sampling across the Order, but also by a greater depth of sampling within-species. To address these needs, we here present the first population-scale genomic resources for a platyrrhine of considerable biomedical interest for both social behavior and neurobiology, the coppery titi monkey (Plecturocebus cupreus). Deep whole-genome sequencing of 15 parent-offspring trios, together with a computational de novo mutation detection pipeline based on pan-genome graphs, has provided a detailed picture of the sex-averaged mutation rate -- 0.63 x 10-8 (95% CI: 0.43 x 10-8 - 0.90 x 10-8) per site per generation -- as well as the effects of both sex and parental age on underlying rates, demonstrating a significant paternal age effect. Coppery titi monkey males exhibit long reproductive lifespans, afforded by long-term pair bonding in the species&#x27; monogamous mating system, and our results have demonstrated that individuals reproducing later in life exhibit one of the strongest male mutation biases observed in any non-human primate studied to date. Taken together, this study thus provides an important piece of the puzzle for better comprehending the mutational landscape across primates.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699688v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Phylogeny and morphology of novel Labyrinthulomycetes in Nova Scotia, Canada</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Labyrinthulomycetes are ubiquitous marine decomposers and include the thraustochytrids, a lineage known for their extensive production of polyunsaturated fatty acids and biotechnology applications. De</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Reports new 18S rDNA phylogenies and microscopy for 17 novel marine Labyrinthulomycetes isolates from Nova Scotia, expanding eukaryotic decomposer diversity with limited direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Labyrinthulomycetes are ubiquitous marine decomposers and include the thraustochytrids, a lineage known for their extensive production of polyunsaturated fatty acids and biotechnology applications. Despite historical taxonomic confusion, environmental surveys have begun to expand the known diversity within labyrinthulomycetes. Here we present 18S ribosomal DNA (rDNA) sequences from 17 novel labyrinthulomycetes strains established as axenic cultures from natural samples taken from three locations in Nova Scotia, Canada. We also present light and transmission electron microscopic analysis for three of these isolates. The combination of phylogenetic and morphological analysis suggests that these isolates belong to three different genera, Thraustochytrium, Ulkenia and Oblongichytrium. Our results expand the known genetic diversity of labyrinthulomycetes in Atlantic Canadian waters, contributing new strains to understudied genera for future comparative genomic investigations, including Ulkenia and Oblongichytrium for which very few genomic resources are available.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699578v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟢 [90] ChemRxiv ▶ A Gene-Free Minimal System for Synthetic Quorum Sensing in Protocell Communities</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss"/>
     <id>https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss</id>
@@ -5950,76 +5936,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss</a></li>
 </ul>
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Structures of muscle-type nicotinic acetylcholine receptor with α-conotoxins reveal determinants of receptor-subtype specificity</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>-Conotoxins (-CTX) are disulfide-rich peptide antagonists with exceptional potency and subtype selectivity across nicotinic acetylcholine receptors (nAChRs), making them promising leads for therapeuti</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Cryo-EM structures of muscle-type nicotinic acetylcholine receptors bound to α-conotoxins elucidate water-mediated and subunit-specific determinants of ligand potency and subtype selectivity, with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> -Conotoxins (-CTX) are disulfide-rich peptide antagonists with exceptional potency and subtype selectivity across nicotinic acetylcholine receptors (nAChRs), making them promising leads for therapeutic development. The molecular basis of their specificity has remained unresolved for decades, limiting rational drug design. Here, we present the first high-resolution cryo-EM structures of full-length muscle-type nAChR bound to three distinct -CTXs, revealing their precise binding modes at both acetylcholine binding sites. Our integrated approach, combining structural biology, pharmacological profiling, and computational hydration mapping, uncovers conserved pharmacophore features, water-mediated interactions, and subunit-specific determinants that govern potency and selectivity. These findings provide a long-sought molecular framework for -conotoxin recognition and inhibition, addressing a critical gap required to realise the full potential of conotoxins as lead compounds in drug discovery.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699711v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Moulting in Pancrustacea is characterised by both deeplyconserved and recently evolved gene modules</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Arthropods such as insects and crustaceans, which together form the monophyletic group Pancrustacea, possess a rigid chitinous exoskeleton that must be periodically shed through moulting to allow grow</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Comparative transcriptomics across pancrustaceans shows moulting is governed by a mix of deeply conserved and lineage-specific gene-expression modules, with the mid-moult phase being most lineage-specific (an inverse hourglass pattern).</p>
-<p><strong>Abstract:</strong> Arthropods such as insects and crustaceans, which together form the monophyletic group Pancrustacea, possess a rigid chitinous exoskeleton that must be periodically shed through moulting to allow growth and morphological change. Although moulting is a deeply conserved developmental process across Arthropoda, our understanding of its molecular mechanisms is still largely derived from insect model species. Lineage-specific innovations and losses of moulting related genes raise fundamental questions on the extent of its conservation outside non-insect arthropods. Here, we investigate the evolutionary conservation of moulting gene expression across five representative pancrustacean species. Changes in gene expression during moulting are characterized by both deeply conserved and lineage-specific gene modules. Time-series gene expression analyses reveal that these lineage-specific signatures are not uniformly distributed across the moulting process: the middle transitional phase is more lineage-specific, thereby exhibiting an inverse hourglass pattern. This is likely due to life-history specific processes, development of the cuticle and specialized structures of the exoskeleton. Overall, this study provides evidence for both the evolutionary conservation and divergence of this key post-embryonic developmental process and highlights the modular architecture of the moulting programme.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699689v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Actin-dependent mechanotransduction controls nucleocytoplasmic partitioning of DNMT3a through ERK1/2 signaling during cutaneous wound healing</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Cutaneous wound healing is a multifaceted physiological process that requires a cell state transition from homeostasis to tissue repair. An important contributor to this reprogramming is the wound-ind</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This preprint dissects how actin remodeling during wound healing downregulates ERK1/2 to unmask DNMT3a’s NLS and drive its nuclear import, linking mechanotransduction to epigenetic reprogramming in differentiated keratinocytes.</p>
-<p><strong>Abstract:</strong> Cutaneous wound healing is a multifaceted physiological process that requires a cell state transition from homeostasis to tissue repair. An important contributor to this reprogramming is the wound-induced mechanical cues that are perceived by epidermal keratinocytes. Previously we identified that the nuclear translocation of the de novo DNA methyltransferase 3A (DNMT3a), upon wounding as an important regulator of this cell-state transition. However, the molecular mechanisms linking mechanotransduction to epigenetic regulation remain incompletely understood. Here we show that under homeostasis, active ERK1/2 phosphorylates DNMT3a, intramolecularly masking its nuclear localization signal (NLS), resulting in its cytoplasmic sequestration. Upon wounding actin cytoskeleton remodeling leads to the downregulation of the Extracellular Signal-Related Kinase 1/2 (ERK 1/2) pathway. Wound-induced ERK1/2 inactivation unmasks the NLS, enabling DNMT3a nuclear translocation. Collectively, these findings define a mechanotransduction-driven signaling axis linking cytoskeletal dynamics to epigenetic regulation and confirms an active role for differentiated keratinocytes in initiating early wound repair programs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699481v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Novel Protoporphyrinogen oxidase 1 mutations endow resistance to PPO-inhibiting herbicides in Bassia scoparia</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>PPO inhibiting herbicides are widely used to manage weeds in different cropping systems, yet resistance evolution threatens their long term efficacy. Here, we investigated the molecular basis of resis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This study identifies PPO1 F454 substitutions (F454I/L/V) in the weed Bassia scoparia that confer resistance to certain PPO-inhibiting herbicides via reduced target-site sensitivity, while fomesafen remains effective due to maintained binding to the mutated enzyme.</p>
-<p><strong>Abstract:</strong> PPO inhibiting herbicides are widely used to manage weeds in different cropping systems, yet resistance evolution threatens their long term efficacy. Here, we investigated the molecular basis of resistance to PPO inhibiting herbicides in Bassia scoparia biotypes collected from four locations in North Dakota, USA. Greenhouse dose response assays revealed high levels of resistance to saflufenacil and carfentrazone-ethyl, while fomesafen retained full efficacy across all biotypes. Resistant plants did not show increased copy number or elevated expression of PPO1 or PPO2. Sequencing of survivor plants revealed conserved PPO2 sequences, but consistent target-site substitutions at position F454 in PPO1, including F454I, F454L, and F454V. In vitro enzyme assays demonstrated that these substitutions impair PPO1 sensitivity to saflufenacil and carfentrazone ethyl, but not to fomesafen. Ectopic expression of B. scoparia PPO1 F454 mutant variants in Arabidopsis thaliana conferred tolerance to saflufenacil and carfentrazone ethyl, but not to fomesafen, supporting greenhouse and in vitro results. Molecular modeling indicated that the conformational flexibility and interaction profile of fomesafen enables it to maintain binding to mutated PPO1 variants, in contrast to the more rigid structures of saflufenacil and carfentrazone ethyl. A yeast-based complementation system further confirmed that F454 substitutions decrease herbicide sensitivity. In addition, developmental profiling showed distinct expression patterns of PPO1 and PPO2 during early growth stages in B. scoparia and Amaranthus spp., highlighting isoform-specific roles. Together, these findings represent the first reported PPO1 target-site mutations in a broadleaf weed species as a key mechanism of resistance and highlight that fomesafen is effective to control resistant B. scoparia populations.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699694v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] systems biology - biorXiv Preprints ▶ Synthetic Data to Explore Transcriptional Regulation of Differentially Expressed Genes in Ovarian Cancer</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>In major diseases like cancer, many genes are dysregulated. While differential expression (DE) analyses help identify these genes, they do not reveal the transcriptional regulatory landscape between c</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Uses a stochastic transcriptional regulation model and synthetic RNA-seq profiles to infer mechanistic differences (e.g., quantal transcription and RNA degradation rates) in top differentially expressed genes in ovarian cancer, with minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> In major diseases like cancer, many genes are dysregulated. While differential expression (DE) analyses help identify these genes, they do not reveal the transcriptional regulatory landscape between control and disease states. Here, we developed a process-driven model based on generalized stochastic transcriptional regulation (TR) to study DE genes in ovarian cancer. We generated over 39,000 synthetic gene expression profiles based on RNA-seq dataset of 11 samples (5 control FTE and 6 ovarian cancer), and fitted the model parameters to real data achieving between 82% and 99% transcriptome-wide similarity through various data analytics. Through the model we investigated the top 100 DE genes transcriptional regulation. Notably, GSTA3, SNTN, DNAI2 and KIF19, which have been associated with cancer, possess significantly larger transcriptional quantal and RNA degradation rates, leading to their greater variability in cancer. This mechanistic understanding could potentially guide gene-targeted interventions for cancer or other diseases in the future.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699618v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [5] New Scientist - Physics & Math ▶ Lithium-ion batteries could last longer with chemical tweak</title>
@@ -6050,20 +5966,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] cell biology - biorXiv Preprints ▶ The role of the nuclear pore complex in the stability of disease-related short tandem DNA repeats</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nuclear pore complexes (NPCs) mediate selective transport between the nucleus and the cytoplasm, but also contribute to maintaining genome stability. Mutations in NPC genes cause genome instability an</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study shows that multiple disease-related short tandem DNA repeats relocate to the nuclear pore complex to reduce repeat contraction, separating this trafficking role from other nuclear pore basket genome-maintenance functions.</p>
-<p><strong>Abstract:</strong> Nuclear pore complexes (NPCs) mediate selective transport between the nucleus and the cytoplasm, but also contribute to maintaining genome stability. Mutations in NPC genes cause genome instability and sensitivity to DNA damaging agents, and DNA that is difficult to repair or replicate relocates to NPCs, including expanded CAG repeats, which are associated with several neurological diseases. Here, we show that other disease-related short tandem repeats also relocate to NPCs. Relocation depends on the NPC basket protein Nup1, but is independent of the rest of the basket. Abrogating relocation to the NPC increases rates of repeat contraction, but not expansion. By contrast, deletion of the basket component NUP60, which causes mislocalization of all other basket proteins except Nup1, results in greater genome instability without affecting relocation to NPCs. Our results show that NPC association is a general feature of disease-related short tandem repeats, and suggest that relocation to NPCs is separable from the other genome maintenance functions of the NPC basket.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [0] New Scientist - Current Issue Articles ▶ Lithium-ion batteries could last longer with chemical tweak</title>
     <link href="https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
     <id>https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
@@ -6076,34 +5978,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://doi.org/10.1038/s41557-025-02009-1">https://doi.org/10.1038/s41557-025-02009-1</a></li>
 </ul>
 <p><a href="https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ChemRxiv ▶ Mechanically Interlocked Indigo Photoswitches: Topologically Constrained Supramolecular Interactions Enable Photoswitching In The NIR-1 Biological Window</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Photoswitches provide the opportunity to remotely and precisely control matter on the nanoscopic scale. For many materials and biological applications, photoswitches with long wavelength response are </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Reports a mechanically interlocked indigo [2]-rotaxane photoswitch whose topologically constrained supramolecular interactions enable 730 nm (NIR) switching and greatly extend thermal half-life, with potential relevance to molecular machines rather than origins-of-life research.</p>
-<p><strong>Abstract:</strong> Photoswitches provide the opportunity to remotely and precisely control matter on the nanoscopic scale. For many materials and biological applications, photoswitches with long wavelength response are essential, however few switches offer inherent response to red/near infra-red light. Previous works have described the use of intermolecular interactions as a method to redshift the activation wavelength of photoswitches and to improve thermal half-life, however these systems are limited in their application due to the inherent bimolecularity of this strategy preventing its use in dilute or complex environments. Herein, we describe the use of topologically constrained supramolecular interactions to improve the switching properties of an indigo photoswitch within a [2]-rotaxane. This enabled photoswitching with near-IR (730 nm) light, as well as a 100-fold increase in thermal half-life and double the population of the metastable state under constant irradiation. This surpasses previous attempts at using supramolecular interactions to increase the thermal half-life by &gt;10-fold. This novel strategy towards the redshifting and fine-tuning of these molecular photoswitches has implications for the design of molecular machines and applied switching technologies. We anticipate that our insights into the design of such molecules will unlock new applications for mechanically interlocked molecules.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [48] molecular biology - biorXiv Preprints ▶ Hidden stop codons orchestrate mRNA fate by ambushing ribosomal frameshifting associated with codon usage</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699446v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699446v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>In eukaryotes, the mRNA stability is generally shaped by codon usage bias, the uneven preferences for synonymous codons, in a translation-dependent manner. However, the conserved mechanism linking cod</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> Preprint identifies conserved “hidden stop codons” as mRNA surveillance elements that terminate out-of-frame translation caused by frameshifting and promote NMD-mediated decay in fungi and human cells, linking codon usage to mRNA stability.</p>
-<p><strong>Abstract:</strong> In eukaryotes, the mRNA stability is generally shaped by codon usage bias, the uneven preferences for synonymous codons, in a translation-dependent manner. However, the conserved mechanism linking codon to mRNA decay remains elusive. Hidden stop codons (HSCs), defined as stop codons located in the +1 or -1 frame relative to canonical ORF, are widespread across all genomes but largely uncharacterized. Here, we demonstrate that in both fungi and human cells, HSCs play an conserved and mechanistic role in promoting mRNA decay by rapidly terminating out-of-frame translation promoted by nonoptimal codons, primarily through +1 ribosomal frameshifting. In the filamentous fungus Neurospora crassa, partially deleting HSCs via synonymous substitutions in the clock gene frequency increases mRNA stability and disrupts circadian rhythmicity. In human cells, acute depletion of translation termination factor eRF1 impairs recognition of HSCs, leading to global stabilization of mRNAs enriched in nonoptimal codons and HSCs. In both Neurospora and humans, these mRNAs are in part degraded through the NMD pathway via UPF1. Collectively, these findings suggest that in eukaryotes, HSCs serve as surveillance elements to monitor ribosomal frameshifting and out-of-translation promoted by nonoptimal codons, thereby initiating mRNA decay through NMD.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699446v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699446v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699446v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [43] Phys. Rev. E ▶ Emergence of periodic chimneys during fluidization at a coarse-fine grains interface</title>
@@ -6146,61 +6020,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="http://link.aps.org/doi/10.1103/r5wy-znw4">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] nature.com - Biological sciences ▶ Tmem110 regulates the conformation of TRPML1 to maintain endolysosomal homeostasis and prevent mitochondrial DNA leakage and pathological self-DNA processing</title>
-    <link href="https://www.nature.com/articles/s41467-026-68382-8"/>
-    <id>https://www.nature.com/articles/s41467-026-68382-8</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This Nature Communications study dissects how TMEM110 modulates TRPML1 to preserve endolysosomal integrity and prevent mitochondrial DNA leakage, informing modern eukaryotic self-DNA handling rather than directly addressing origins-of-life mechanisms.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-026-68382-8">https://www.nature.com/articles/s41467-026-68382-8</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-026-68382-8">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ChemRxiv ▶ The CO Puzzle is Resolvable Using Self-Consistent DFT+U Calculations</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Reliable calculation of adsorbate binding is central to understand catalysts using simulations as errors propagate to phase diagrams, microkinetic models, and catalyst design predictions. The most wel</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Computational catalysis study proposing a self-consistent DFT+U correction that fixes CO adsorption site/energy errors across transition-metal surfaces, with only indirect relevance to Origins-of-Life via improved modeling of surface-mediated chemistry.</p>
-<p><strong>Abstract:</strong> Reliable calculation of adsorbate binding is central to understand catalysts using simulations as errors propagate to phase diagrams, microkinetic models, and catalyst design predictions. The most well-known reliability issue is the “CO puzzle” as standard density functional theory (DFT) often predicts the wrong adsorption site and overbinds CO on transition-metal surfaces that affect modeling CO oxidation, water-gas shift, Fischer-Tropsch synthesis, and methanol synthesis among others. Here we show that a simple, self-consistent DFT+U scheme applied to the C and O p orbitals provides a practical route to resolve the CO puzzle. We find that a single DFT+U fit generally restores the experimental site preference, vibrational frequency, and adsorption energies within ±0.1 eV across Ag(111), Au(111), Co(0001), Cu(111), Ir(111), Pd(111), Pt(111), Ni(111), Rh(111), and Ru(0001) surfaces for several exchange-correlation functionals, with revPBE-D3(0)+U agreeing best with experiments. In addition, the same DFT+U fit allows to correct the O₂ gas-phase atomization energy, another great challenge in catalyst modeling. Partial density of states analysis confirms that the +U correction moves the 2π* orbital levels of CO favorably toward experimental photoemission measurements providing a physical motivation why the correction works in general. DFT+U is an ideal solution to retain a fully variational and geometry-optimizable framework that can be deployed easily to study CO binding to transition metal surfaces in established computational workflows.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Ift43 Controls the Ciliary Levels of Gli2 and Gli3</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Intraflagellar transport (IFT) drives the bidirectional movement of trains composed of IFT-A, IFT-B, and BBSome complexes that build and maintain cilia while supporting their signaling functions. Over</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This preprint characterizes Ift43 as an IFT-A subunit that regulates ciliary Gli2/Gli3 levels and Hedgehog signaling in mice, advancing developmental cell biology but offering minimal direct relevance to origins-of-life research beyond a general evolutionary context.</p>
-<p><strong>Abstract:</strong> Intraflagellar transport (IFT) drives the bidirectional movement of trains composed of IFT-A, IFT-B, and BBSome complexes that build and maintain cilia while supporting their signaling functions. Over evolution, IFT became integral to Hedgehog signaling by directing the dynamic movements of receptors and Gli transcription factors that fine-tune pathway output. The IFT-A complex contains six subunits, but the smallest, Ift43, remains poorly characterized and is absent from many ciliated species, suggesting specialized roles in signaling rather than core ciliogenesis. Here we show that loss of Ift43 in mice causes mid-gestation lethality with severe craniofacial defects, exencephaly, abdominal wall defects with exposed viscera, edema, and limb patterning defects. At the cellular level, Ift43 deficiency reduces both the number and length of cilia and blocks induction of Gli1 following pathway activation by the agonist SAG. Although Smoothened relocalizes to cilia normally, Ift43 mutants abnormally accumulate Gli2 and Gli3 at ciliary tips before stimulation and continue to generate repressor forms after activation. Conversely, Ift43 overexpression increases basal Gli2 cleavage, revealing an unanticipated role for Ift43 in regulating Gli processing. Together, these findings identify Ift43 as a key IFT-A component that links ciliary assembly to Hedgehog signal transduction and helps set the balance between Gli activator and repressor forms.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Organic Chemistry on ChemRxiv ▶ Mechanically Interlocked Indigo Photoswitches: Topologically Constrained Supramolecular Interactions Enable Photoswitching In The NIR-1 Biological Window</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Photoswitches provide the opportunity to remotely and precisely control matter on the nanoscopic scale. For many materials and biological applications, photoswitches with long wavelength response are </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Reports a mechanically interlocked indigo [2]-rotaxane whose topologically constrained supramolecular interactions enable near-IR (730 nm) photoswitching and greatly extend thermal half-life, offering broadly relevant chemical control tools but limited direct Origins-of-Life relevance.</p>
-<p><strong>Abstract:</strong> Photoswitches provide the opportunity to remotely and precisely control matter on the nanoscopic scale. For many materials and biological applications, photoswitches with long wavelength response are essential, however few switches offer inherent response to red/near infra-red light. Previous works have described the use of intermolecular interactions as a method to redshift the activation wavelength of photoswitches and to improve thermal half-life, however these systems are limited in their application due to the inherent bimolecularity of this strategy preventing its use in dilute or complex environments. Herein, we describe the use of topologically constrained supramolecular interactions to improve the switching properties of an indigo photoswitch within a [2]-rotaxane. This enabled photoswitching with near-IR (730 nm) light, as well as a 100-fold increase in thermal half-life and double the population of the metastable state under constant irradiation. This surpasses previous attempts at using supramolecular interactions to increase the thermal half-life by &gt;10-fold. This novel strategy towards the redshifting and fine-tuning of these molecular photoswitches has implications for the design of molecular machines and applied switching technologies. We anticipate that our insights into the design of such molecules will unlock new applications for mechanically interlocked molecules.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] Astrobiology (astrobiology.com) ▶ SETI Institute Opens Call For Nominations For The 2026 Tarter Award</title>
     <link href="https://astrobiology.com/2026/01/seti-institute-opens-call-for-nominations-for-the-2026-tarter-award.html"/>
     <id>https://astrobiology.com/2026/01/seti-institute-opens-call-for-nominations-for-the-2026-tarter-award.html</id>
@@ -6211,20 +6030,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> The SETI Institute announced that nominations are now open for the 2026 Tarter Award for Innovation in the Search for Life Beyond Earth. The Tarter Award recognizes individuals whose projects or ideas significantly advance humanity’s search for extraterrestrial life and intelligence. Named in honor of Dr. Jill Tarter, SETI Institute co-founder and leader in the […] The post SETI Institute Opens Call For Nominations For The 2026 Tarter Award appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/seti-institute-opens-call-for-nominations-for-the-2026-tarter-award.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] cell biology - biorXiv Preprints ▶ RasGRP1 agonists stimulate P-TEFb biogenesis via MEK-ERK-mTORC1 signaling to reverse HIV latency with minimal CD4 downregulation</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Reactivation of latent HIV to facilitate clearance of persisting infected cells requires identifying non-toxic latency-reversing agents (LRAs) that activate P-TEFb, a cellular transcription factor ess</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Biomedical study showing RasGRP1-selective DAG-indololactones induce P-TEFb via MEK–ERK–mTORC1 to synergistically reverse HIV latency with reduced T-cell activation and minimal CD4 downregulation.</p>
-<p><strong>Abstract:</strong> Reactivation of latent HIV to facilitate clearance of persisting infected cells requires identifying non-toxic latency-reversing agents (LRAs) that activate P-TEFb, a cellular transcription factor essential for efficient HIV RNA synthesis. Diacylglycerol (DAG)-mimicking PKC agonists induce P-TEFb to reverse HIV latency mainly through a PKC-independent RasGRP1-Ras-Raf-MEK-ERK1/2 pathway, but also elicit global T-cell activation and a drastic downregulation of CD4 receptors. Here, we demonstrate that synthetic DAG-indololactones, which preferentially bind RasGRP1 over PKC by up to 60-fold, strongly induce posttranscriptional P-TEFb expression in memory CD4+ T cells via MEK-ERK1/2-mTORC1 signaling without triggering T-cell activation markers and with minimal CD4 loss. Elevation of T-cell activation markers by natural and synthetic PKC agonists proceeds through MEK-ERK1/2 but is independent of mTORC1 activity. Combinations of the DAG-indololactone 2A127 and HDAC inhibitors synergistically reactivate latent HIV in a primary T-cell model and CD4+ T cells from treated individuals. These findings suggest that a combination LRA approach targeting P-TEFb production through RasGRP1-ERK1/2-mTORC1 signaling and the epigenetic activation of proviral HIV can efficiently and safely reverse HIV latency.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699500v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [20] Science ▶ Chronic low-dose exposure to chlorpyrifos reduces life span in a wild fish by accelerating aging</title>
@@ -6239,20 +6044,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://www.science.org/doi/abs/10.1126/science.ady4727?af=R">https://www.science.org/doi/abs/10.1126/science.ady4727?af=R</a></li>
 </ul>
 <p><a href="https://www.science.org/doi/abs/10.1126/science.ady4727?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Nature ▶ A ‘time capsule for cells’ stores the secret experiences of their past</title>
-    <link href="https://www.nature.com/articles/d41586-026-00116-8"/>
-    <id>https://www.nature.com/articles/d41586-026-00116-8</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nature, Published online: 15 January 2026; doi:10.1038/d41586-026-00116-8 Scientists have transformed enigmatic cell structures, called vaults, into storage units for messenger-RNA molecules made in t</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Researchers repurpose cellular vault particles as engineered “time capsules” that sequester and preserve previously produced mRNA, offering a new way to record past gene-expression states in living cells.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 15 January 2026; doi:10.1038/d41586-026-00116-8 Scientists have transformed enigmatic cell structures, called vaults, into storage units for messenger-RNA molecules made in the past.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/d41586-026-00116-8">https://www.nature.com/articles/d41586-026-00116-8</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/d41586-026-00116-8">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟢 [95] Astrobiology (astrobiology.com) ▶ Frozen Hydrogen Cyanide ‘Cobwebs’ Offer Clues To Origin Of Life</title>
@@ -6383,34 +6174,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/signs-of-ancient-life-turn-up-in-an-unexpected-place.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ Spatial Regression of Morphology-Protein Coupling in Tumour Proteomics</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Protein expression within oncogenic or suppresive pathways is hallmark indicator of oncogenesis. While traditional AI models in digital pathology attempt to predict singular proteins, there is a need </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
-<p><strong>AI Decision:</strong> Uses vision transformers on breast cancer histopathology and RPPA proteomics to regress apoptosis-pathway protein expression, finding cell-level models outperform patch-level models but with no direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Protein expression within oncogenic or suppresive pathways is hallmark indicator of oncogenesis. While traditional AI models in digital pathology attempt to predict singular proteins, there is a need to predict the downstream expression of proteins to indicate the propagation of signals. RNA-expression provides novel information, but does not provide information about the propagation of protein signals downstream and whether those signals are functional. Using Reverse Phase Protein Array (RPPA) data with Whole Slide Images (WSIs) from the publicly available Cancer Genome Atlas&#x27; Breast Adenocarcinoma dataset (TCGA-BRCA), we predict the expression of five key proteins identified from the Apoptosis cascade using DNA Damage and Repair Cascades (DDR) as a biological control. Furthermore, we examine the performance of patch level Vision Transformers (ViT) on the regression task, which was tested against the designed Cellular-Level ViT CellRPPA. Our results demonstrate that patch-level vision transformers were unable to obtain statistically significant predictive results, obtaining R squared &lt; 0.1 for all folds. In addition, the CellViT obtained an R squared &gt; .1 in all 5 test folds. We also show that morphologically indicative cascades such as the apoptosis cascade provide signficantly higher performance over the DDR cascade.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699547v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] cell biology - biorXiv Preprints ▶ Radiation-induced interferon-I response impairs thyroid organoid function</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Background and Aim: Radiotherapy is a standard cancer treatment, but radiation exposure to surrounding healthy tissues may lead to adverse side effects that compromise patient quality of life. In pati</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, RNA</p>
-<p><strong>AI Decision:</strong> This study uses transcriptomics of gamma-irradiated thyroid organoids to show IFN-β signaling modulates apoptosis and reduces stem/progenitor regenerative capacity after radiation damage, but it is not directly relevant to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Background and Aim: Radiotherapy is a standard cancer treatment, but radiation exposure to surrounding healthy tissues may lead to adverse side effects that compromise patient quality of life. In patients with head and neck cancer treated with radiotherapy, thyroid damage is a frequent complication, resulting in hypothyroidism or secondary thyroid malignancies. Although clinically recognized, the molecular mechanisms underlying these side effects remain mostly unexplored. This study aims to characterize the radiation-induced molecular alterations in thyroid organoids. Methods: Bulk RNA sequencing was performed to investigate transcriptomic changes in tissue-derived thyroid organoids following gamma-irradiation. Observed changes were further validated and explored using qPCRs, western blotting, immunofluorescence, caspase 3/7 activity and organoid forming efficiency. Results: Our findings identify interferon-{beta} (IFN-{beta}) signaling as a key mediator of radiation-induced inflammation in the thyroid. Additionally, the intrinsic apoptotic pathway was found to be the predominant mechanism of radiation-induced thyroid cell death. Notably, while IFN-{beta} exhibited a protective effect against apoptosis, it concurrently reduced thyroid stem progenitor cell potential. Conclusions: These results highlight the dual role of IFN-{beta} signaling in modulating thyroid cell fate after irradiation, potentially promoting survival upon injury at the expense of regenerative potential.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699489v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [10] Phys.org: Evolution News ▶ DNA from wolf pup&#x27;s last meal reveals new facts about woolly rhino&#x27;s extinction</title>
     <link href="https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html"/>
     <id>https://phys.org/news/2026-01-dna-wolf-pup-meal-reveals.html</id>
@@ -6450,20 +6213,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/habitable-worlds-observatory-living-worlds-working-group-surface-biosignatures-on-potentially-habitable-exoplanets.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [40] bioinformatics - biorXiv Preprints ▶ When CycloneSEQ meets Oxford Nanopore Technologies: a performance comparison of contemporary nanopore DNA sequencing platforms</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nanopore sequencing underpins bacterial genomics and epigenomics, with Oxford Nanopore Technologies (ONT) leading. We benchmarked BGI&#x27;s CycloneSEQ against ONT using matched whole-genome shotgun (WGS) </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Benchmarks BGI CycloneSEQ versus ONT nanopore sequencing for bacterial WGS and methylation detection, showing near-R10.4.1 read accuracy, improved homopolymer performance, and cross-platform-compatible workflows for accurate assemblies and methylome inference.</p>
-<p><strong>Abstract:</strong> Nanopore sequencing underpins bacterial genomics and epigenomics, with Oxford Nanopore Technologies (ONT) leading. We benchmarked BGI&#x27;s CycloneSEQ against ONT using matched whole-genome shotgun (WGS) and methylation-free whole-genome amplification (WGA) libraries across six bacteria. With the updated CycloneSEQ kit/basecaller, reads reached 96.0% accuracy (mode 97.7%), within 0.8% of ONT R10.4.1; homopolymer performance surpassed R9.4.1 and approached R10.4.1. Error spectra were shared across platforms and dominated by A and G substitutions, WGA controls implicated methylation as a major contributor. At 50-fold coverage plus short-read polishing, CycloneSEQ assemblies achieved around 100% completeness with ~1 indel per 100 Kbp. For epigenomics, strand-specific basecalling errors enabled de novo discovery of 12 methylation motifs, and we introduce two CycloneSEQ-compatible signal-to-reference alignment strategies that permit signal comparison-based methylation detection. Beyond a single instrument, these results argue for a unified, cross-platform nanopore toolchain in which models, formats, and workflows interoperate from raw signal to accurate assemblies and methylomes.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699587v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [10] Phys.org: Evolution News ▶ How small mammals shrink their brains to survive the cold</title>
     <link href="https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html"/>
     <id>https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html</id>
@@ -6474,116 +6223,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> An international team of researchers, with the involvement of the UAB, has conducted a study that explains the evolutionary origins of the Dehnel phenomenon, a unique seasonal adaptation in small mammals that involves the ability to reduce and recover brain volume and function. The study is published in Molecular Biology and Evolution.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] Nature Communications ▶ Mechanistically guided residual learning for battery state monitoring throughout life</title>
-    <link href="https://www.nature.com/articles/s41467-025-67565-z"/>
-    <id>https://www.nature.com/articles/s41467-025-67565-z</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-025-67565-z Ensuring accurate state monitoring is vital for battery safety and efficiency in electric vehicles. Here, autho</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Presents a mechanistically guided machine-learning approach for monitoring lithium-ion battery state-of-health over its lifespan, with no direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-025-67565-z Ensuring accurate state monitoring is vital for battery safety and efficiency in electric vehicles. Here, authors present mechanistically guided residual learners that integrate mechanistic knowledge and machine learning to enable continuous, reliable battery state tracking over the entire lifespan.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67565-z">https://www.nature.com/articles/s41467-025-67565-z</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-67565-z">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] nature.com - Biological sciences ▶ Inferring chromatin architecture at a single locus through probabilistic in situ DNA localization</title>
-    <link href="https://www.nature.com/articles/s41467-026-68460-x"/>
-    <id>https://www.nature.com/articles/s41467-026-68460-x</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Presents a probabilistic imaging-based method to infer 3D chromatin architecture at a specific genomic locus in situ, advancing eukaryotic genome organization studies but with limited direct relevance to origins-of-life research.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-026-68460-x">https://www.nature.com/articles/s41467-026-68460-x</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-026-68460-x">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary rescue from antagonistic invaders: Birth-limiting competition among residents can aid rescue</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>From invasive predators displacing wildlife to medically deployed bacteriophages eliminating pathogens, biological invasions by antagonists are a fundamental driver of extinction, with implications fo</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Analytical theory predicts when resident populations can avoid extinction via evolutionary rescue during antagonistic invasions, showing that invader victim specificity and lower resident birth rates (especially via birth-limiting competition) can increase mutant establishment and rescue probability.</p>
-<p><strong>Abstract:</strong> From invasive predators displacing wildlife to medically deployed bacteriophages eliminating pathogens, biological invasions by antagonists are a fundamental driver of extinction, with implications for both conservation and medicine. Resident populations facing such invasions can sometimes avoid extinction through adaptation, a process known as evolutionary rescue. Here, an analytical approximation is derived for the probability of evolutionary rescue from antagonistic invaders, focusing on how rescue depends on a key antagonist trait--victim specificity. Rescue is shown to be most likely either when invaders are slow-spreading, resident-dependent specialists whose failure to encounter suitable victims buys time for mutation, or when invaders are fast-spreading generalists that rapidly relieve standing genetic variation of intraspecific competition. The central result is that, whether invaders are generalists or specialists, a lower resident birth rate can facilitate rescue relative to a higher one by reducing the effect of demographic stochasticity on mutant establishment. If the lower birth rate is density-independent, it primarily promotes rescue from generalists, whereas if it arises from birth-limiting competition it can also appreciably aid rescue from specialists. Overall, the results suggest that invader victim specificity can reshape evolutionary rescue by dynamically coupling the rate of resident decline to the growth rate of the stressor driving the decline, with resident life history mediating the outcome.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] nature.com - Biological sciences ▶ Assembling unregulated DNA segments bypasses synthesis screening: regulate fragments as select agents</title>
-    <link href="https://www.nature.com/articles/s41467-025-67955-3"/>
-    <id>https://www.nature.com/articles/s41467-025-67955-3</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Reports that assembling short, unregulated DNA fragments can bypass current gene-synthesis screening, arguing for regulation of certain fragments as select agents (biosecurity-focused, not origins-of-life research).</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67955-3">https://www.nature.com/articles/s41467-025-67955-3</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-67955-3">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Genomic footprints of historical introgression between ancient lineages of wild Oryza AA-genome species with widely separated contemporary distributions</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Phylogenetic incongruence is increasingly recognized as pervasive, yet the extent to which reticulate evolution occurs between groups separated by substantial geographical distances and deep phylogene</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Genome-wide phylogenetic discordance analyses in AA-genome wild rice support ancient introgression between deeply divergent, geographically separated lineages, illustrating how reticulate evolution can shape modern genomes.</p>
-<p><strong>Abstract:</strong> Phylogenetic incongruence is increasingly recognized as pervasive, yet the extent to which reticulate evolution occurs between groups separated by substantial geographical distances and deep phylogenetic divergence remains poorly characterized. In the Oryza AA-genome group--a model for plant speciation and domestication--the traditional bifurcation model posits that Australian Oryza meridionalis and African Oryza longistaminata occupy basal branches, distinct from the more recently diversified monophyletic clade comprising Asian and other African lineages, including major cultivars. However, recent evidence from endogenous viral sequences has hinted at unexpected genetic relatedness between African O. longistaminata and Asian Oryza sativa, which are geographically and phylogenetically distant. Here, we conducted a genome-wide survey across 11 Oryza species to systematically identify genomic regions exhibiting phylogenetic incongruence. Widespread phylogenetic discordance was observed, notably involving genomic segments in which O. longistaminata showed phylogenetic proximity to Asian species, contradicting their established deep divergence. To distinguish between introgression and incomplete lineage sorting, we performed four-taxon ABBA-BABA tests, which provided statistical support for introgression. Furthermore, divergence time estimates for these incongruent regions were younger than the species divergence times, suggesting historical introgression between the ancestors of lineages that are currently separated by vast geographical distances. Systematic assessments indicated that potential analytical artifacts, such as compositional bias and substitution saturation, were unlikely to explain the observations. These convergent lines of evidence suggest that ancient introgression had occurred between currently geographically separated and evolutionarily divergent Oryza lineages, leaving detectable footprints across their modern genomes.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene genealogies in diploid populations evolving according to sweepstakes reproduction</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Recruitment dynamics, or the distribution of the number of offspring among individuals, is central for understanding ecology and evolution. Sweepstakes reproduction (heavy right-tailed offspring numbe</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This theoretical population-genetics study derives Beta/Poisson–Dirichlet coalescent genealogies under neutral sweepstakes reproduction in diploid populations, informing how extreme reproductive skew shapes evolutionary ancestry but offering only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Recruitment dynamics, or the distribution of the number of offspring among individuals, is central for understanding ecology and evolution. Sweepstakes reproduction (heavy right-tailed offspring number distribution) is central for understanding the ecology and evolution of highly fecund natural populations. Sweepstakes reproduction can induce jumps in type frequencies and multiple mergers in gene genealogies of sampled gene copies. We take sweepstakes reproduction to be skewed offspring number distribution due to mechanisms not involving natural selection, such as in chance matching of broadcast spawning with favourable environmental conditions. Here, we consider population genetic models of sweepstakes reproduction in a diploid panmictic populations absent selfing and evolving in a random environment. Our main results are (i) continuous-time Beta and Poisson-Dirichlet coalescents, when combining the results the skewness parameter of the Beta-coalescent ranges from 0 to 2, and the Beta-coalescents may be incomplete due to an upper bound on the number of potential offspring produced by any pair of parents; (ii) in large populations time is measured in units proportional to either N/ log N or N generations (where 2N is the population size when constant); (iii) it follows that incorporating population size changes leads to time-changed coalescents with the time-change independent of (iv) using simulations we show that the ancestral process is not well approximated by the corresponding coalescent (as measured through certain functionals of the processes); (v) whenever the skewness of the offspring number distribution is increased the conditional (conditioned on the population ancestry) and the unconditional ancestral processes are not in good agreement.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Practical integration of machine learning into ab initio calculations and workflows: Accelerating the SCF cycle via density matrix predictions</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Data-driven approaches offer great potential for accelerating ab initio electronic structure calculations of molecules and materials but their transferability is often limited due to the vast amount o</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> ChemRxiv preprint showing a machine-learning “stitching” approach to predict density matrices and speed up SCF ab initio workflows (demonstrated on water clusters and a methane clathrate cage), offering indirect value for higher-throughput simulations of astrochemical and prebiotic-relevant systems.</p>
-<p><strong>Abstract:</strong> Data-driven approaches offer great potential for accelerating ab initio electronic structure calculations of molecules and materials but their transferability is often limited due to the vast amount of data needed for training, including when addressing the need to fine-tune universal models for each specific system to be studied. Here, we demonstrate how contributions from system-specific electronic structure machine learning (ESML) models may be combined (“stitched”) to deliver density matrices of entire systems of interest, improving the initial guess for the self-consistent field cycle and delivering gains in computational efficiency. The “stitching” of density matrices is demonstrated for sequential calculations, such as geometry optimization and molecular dynamics, and we show that the synergistic use of ESML models and density matrix extrapolation algorithms can accelerate standard computational calculations. The algorithms are demonstrated for test cases relating to water clusters and a methane clathrate cage, with the benefits discussed. The future opportunities for hybrid quantum mechanical and ML (QM/ML), and also ML/ML paradigms, are broad-ranging with significant computational speed-up attainable.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] bioRxiv Subject Collection: Evolutionary Biology ▶ The origin and evolution of amphibious hearing in pinnipeds</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Seals (pinnipeds) are the only mammals that can hear in both air and water. How and when they achieved the ability to negotiate such contrasting auditory media remains unknown. Here, we apply 3D shape</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, evolution</p>
-<p><strong>AI Decision:</strong> This preprint uses 3D morphological and phylogenetic analyses to infer how pinnipeds evolved amphibious hearing via middle-ear adaptations and cavernous tissue facilitating pressure and impedance matching during dives.</p>
-<p><strong>Abstract:</strong> Seals (pinnipeds) are the only mammals that can hear in both air and water. How and when they achieved the ability to negotiate such contrasting auditory media remains unknown. Here, we apply 3D shape and phylogenetic comparative analyses to a large dataset of caniform carnivorans (119 species, 217 specimens) to study the emergence of amphibious hearing in pinnipeds despite significant evolutionary constraints. We find support for the cavernous tissue as a functional and evolutionary mechanism for amphibious hearing. This tissue, which fills with blood during diving to equalise air pressure in the ear, enables a shift from in-air to underwater hearing by matching the acoustic impedance of the ear to that of the surrounding water. Early diverging freshwater pinnipeds had impaired hearing underwater. The first marine pinnipeds could hear amphibiously but were limited by a functional tradeoff between hearing abilities and the need to prevent damage from loud underwater sounds. Subsequently, otariids (eared seals) and phocids (true seals) independently acquired middle ear adaptations that expanded their underwater hearing range. This iterative evolution likely facilitated the exploration of novel auditory adaptive zones by crown pinnipeds, resulting in rare acoustic abilities like ultrasonic singing, vocal learning, and keeping rhythm.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ Two new exoplanets and the need for new habitable zone definitions</title>
@@ -6622,43 +6261,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://www.sciencesetavenir.fr/espace/exploration/c-est-une-decision-tres-dure-le-retour-d-echantillons-martiens-annule-par-le-congres-americain_190419?xtor=RSS-9">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] eLife - recent issues ▶ Rtf1-dependent transcriptional pausing regulates cardiogenesis</title>
-    <link href="https://elifesciences.org/articles/94524"/>
-    <id>https://elifesciences.org/articles/94524</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Transcriptional pause-release critically regulates cellular RNA biogenesis, yet how dysregulation of this process impacts embryonic development is not fully understood. Rtf1 is a multifunctional trans</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Using zebrafish and mouse, the study shows that Rtf1—via its Plus3 domain interaction with Spt5—maintains promoter-proximal RNA Pol II pausing needed for cardiac lineage differentiation, and that inhibiting CDK9-mediated pause release can partially rescue cardiomyocyte formation in Rtf1-deficient embryos.</p>
-<p><strong>Abstract:</strong> Transcriptional pause-release critically regulates cellular RNA biogenesis, yet how dysregulation of this process impacts embryonic development is not fully understood. Rtf1 is a multifunctional transcription regulatory protein involved in modulating promoter-proximal pausing of RNA Polymerase II (RNA Pol II). Using zebrafish and mouse as model systems, we show that Rtf1 activity is essential for the differentiation of the myocardial lineage from mesoderm. Ablation of rtf1 impairs the formation of nkx2.5+ / tbx5a+ cardiac progenitor cells, resulting in the development of embryos without cardiomyocytes. Structure-function analysis demonstrates that Rtf1’s cardiogenic activity requires its Plus3 domain, which confers interaction with the pausing/elongation factor Spt5. In Rtf1-deficient embryos, the occupancy of RNA Pol II at transcription start sites was reduced relative to downstream occupancy, suggesting a reduction in transcriptional pausing. Intriguingly, attenuating pause release by pharmacological inhibition or morpholino targeting of CDK9 improved RNA Pol II occupancy at the transcription start sites of key cardiac genes and restored cardiomyocytes in Rtf1-deficient embryos. Thus, our findings demonstrate the crucial role that Rtf1-mediated transcriptional pausing plays in controlling the precise spatiotemporal transcription programs that govern early heart development.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1101/gad.1643208">https://doi.org/10.1101/gad.1643208</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/9012502">https://www.ncbi.nlm.nih.gov/pubmed/9012502</a></li>
-<li><a href="https://twitter.com/intent/tweet/?text=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524">https://twitter.com/intent/tweet/?text=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/10393122">https://www.ncbi.nlm.nih.gov/pubmed/10393122</a></li>
-<li><a href="https://www.linkedin.com/shareArticle?title=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524.3">https://www.linkedin.com/shareArticle?title=Rtf1-dependent%20transcriptional%20pausing%20regulates%20cardiogenesis&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.94524.3</a></li>
-<li><a href="https://doi.org/10.1016/j.molcel.2022.12.006">https://doi.org/10.1016/j.molcel.2022.12.006</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/18184592">https://www.ncbi.nlm.nih.gov/pubmed/18184592</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/35275720">https://www.ncbi.nlm.nih.gov/pubmed/35275720</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/32831172">https://www.ncbi.nlm.nih.gov/pubmed/32831172</a></li>
-<li><a href="https://doi.org/10.1093/nar/gkv1191">https://doi.org/10.1093/nar/gkv1191</a></li>
-</ul>
-<p><a href="https://elifesciences.org/articles/94524">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Nature Communications ▶ HEXIM1 inter-monomer autoinhibition governs 7SK RNA binding specificity and P-TEFb inactivation</title>
-    <link href="https://www.nature.com/articles/s41467-026-68285-8"/>
-    <id>https://www.nature.com/articles/s41467-026-68285-8</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-026-68285-8 Hexim regulates transcription by sequestering kinase P-TEFb in the 7SK RNP. Here, the authors show that Hexim a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Mechanistic study of eukaryotic transcription regulation showing HEXIM1 autoinhibition controls specific 7SK RNA binding and prevents premature P-TEFb inactivation, with only indirect relevance to origins-of-life questions via RNA–protein RNP assembly principles.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-026-68285-8 Hexim regulates transcription by sequestering kinase P-TEFb in the 7SK RNP. Here, the authors show that Hexim autoinhibition dictates its specificity for 7SK RNA and safeguards against premature P-TEFb inactivation, coupling transcriptional control to RNP assembly.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-026-68285-8">https://www.nature.com/articles/s41467-026-68285-8</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-026-68285-8">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [5] phys.org - Space News ▶ ISS astronauts splash down on Earth after first-ever medical evacuation</title>
     <link href="https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html"/>
     <id>https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html</id>
@@ -6669,33 +6271,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> Four International Space Station crewmembers splashed down in the Pacific Ocean on Thursday, NASA footage showed, after the first ever medical evacuation in the orbital lab&#x27;s history.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] nature.com - Biological sciences ▶ OCT4 enhances the firing efficiency of late DNA replication origins in mouse embryonic stem cells</title>
-    <link href="https://www.nature.com/articles/s41467-026-68389-1"/>
-    <id>https://www.nature.com/articles/s41467-026-68389-1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study reports that the pluripotency factor OCT4 increases the firing efficiency of late DNA replication origins in mouse embryonic stem cells, informing eukaryotic genome regulation but only tangentially related to origins-of-life questions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-026-68389-1">https://www.nature.com/articles/s41467-026-68389-1</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-026-68389-1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Nature Communications ▶ OCT4 enhances the firing efficiency of late DNA replication origins in mouse embryonic stem cells</title>
-    <link href="https://www.nature.com/articles/s41467-026-68389-1"/>
-    <id>https://www.nature.com/articles/s41467-026-68389-1</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-026-68389-1 DNA replication follows a precise temporal schedule that varies across cell types. Here, the authors show that,</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study shows that the pluripotency factor OCT4 increases chromatin accessibility to boost firing of normally late DNA replication origins in mouse embryonic stem cells, a finding relevant to eukaryotic cell-cycle regulation but not directly to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-026-68389-1 DNA replication follows a precise temporal schedule that varies across cell types. Here, the authors show that, in embryonic stem cells, the pluripotency factor OCT4 promotes early activation of normally late-firing replication origins by increasing local chromatin accessibility.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-026-68389-1">https://www.nature.com/articles/s41467-026-68389-1</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-026-68389-1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ Can photoevaporation open gaps in protoplanetary discs?</title>
@@ -7186,117 +6761,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://arxiv.org/abs/2506.17139">https://arxiv.org/abs/2506.17139</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2506.17139">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ChemRxiv ▶ The Role of Na2CO3 in the Selective Flotation of Ca-activated Spodumene and Quartz</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Spodumene separation from gangue minerals such as quartz is challenging, as both silicate minerals are activated by metal cations, naturally present in process water, like Ca2+. Research has shown tha</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Computational/spectroscopic study of how Na2CO3 selectively depresses Ca-activated quartz (vs spodumene) during fatty-acid flotation in process water, with limited direct relevance to origins-of-life beyond general mineral–surface chemistry context.</p>
-<p><strong>Abstract:</strong> Spodumene separation from gangue minerals such as quartz is challenging, as both silicate minerals are activated by metal cations, naturally present in process water, like Ca2+. Research has shown that when used as a pH modifier, Na2CO3 can depress both minerals, to different degrees, in the presence of Ca2+, but the mechanisms remain unclear. We use spectroscopic and computational methods to examine the interaction of Na2CO3 with Ca-activated quartz and spodumene surfaces in the presence of sodium oleate (NaOL) and the consequences for their selective flotation. Our results indicate that adsorption competition between the collector (Ca/OL complexes) and depressant (CaCO3) species occurs on spodumene and quartz surfaces. We provide detailed mechanisms of the interactions, including with respect to the adsorbed species, their relative amounts, surface charge, and the adsorption strengths. Although both the collector and depressant were adsorbed onto both minerals, the collector had more affinity for spodumene than quartz (-296.14 kJ/mol vs -192.99 kJ/mol), unlike the depressant (-288.55 kJ/mol vs -311.59 kJ/mol), hence the soda ash induced surface deprotonation and desorption of Ca/OL complexes from quartz during conditioning, but not from spodumene. Unlike quartz, which had only Ca as the surface site for reagent adsorption, spodumene also had surface Al sites. The results explain the limited depression of spodumene and the total depression of quartz in flotation using fatty acid-based collectors. Specifically, in the presence of Ca2+, Na2CO3 treatment increased the Li2O grades from 2.53 to 4.40 %, while maintaining a high lithium recovery of 71 %. Overall, the study demonstrated that, in addition to being a pH modifier, Na2CO3 acts as a selective quartz depressant in the Ca-activated flotation of spodumene-quartz, making it a more effective pH modifier than NaOH directly prior to spodumene flotation. Since quartz is a common gangue mineral in most flotation systems, these findings can be applied to benefit other flotation systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [2] ChemRxiv ▶ Multinary Tellurates as Energy Storage Materials</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Multinary tellurates, particularly those with quaternary and ternary compositions, form a unique group of compounds known for their diverse structural frameworks and notable electrochemical properties</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> Review of multinary tellurate compounds focused on their structural/electrochemical properties for next-generation energy storage, with no substantive connection to origins-of-life or astrobiology themes.</p>
-<p><strong>Abstract:</strong> Multinary tellurates, particularly those with quaternary and ternary compositions, form a unique group of compounds known for their diverse structural frameworks and notable electrochemical properties. This review brings together current knowledge about these materials, organising them based on their main mobile cation families (i.e., alkali, alkaline-earth, and coinage metals) and highlighting their promise in energy storage applications and beyond. Beyond simply reviewing these material classes, it also suggests future research directions aimed at establishing multinary tellurates as versatile functional materials in the swiftly evolving field of next-generation energy storage and related technologies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Organic Chemistry on ChemRxiv ▶ Assigning the Stereochemistry of Natural Products by Machine Learning</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
-<p><strong>AI Decision:</strong> A machine-learning language model (NPstereo) predicts natural-product stereochemistry from 2D structures, highlighting learnable biosynthetic chirality patterns that may inform how stereochemical biases arise and are recognized in biological chemistry.</p>
-<p><strong>Abstract:</strong> Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by common biosynthetic pathways. Here we asked the question whether these regularities might be sufficiently prevalent among natural products (NPs) such that their stereochemistry could be machine learned and assigned automatically. Indeed, we report that a language model can be trained to assign the stereochemistry of NPs using the open access NP database COCONUT. In detail, our language model, called NPstereo, translates an NP structure written as absolute SMILES into the corresponding isomeric SMILES notation containing stereochemical information, with 80.2% per-stereocenter accuracy for full assignments and 85.9% per-stereocenter accuracy for partial assignments, across various NP classes including secondary metabolites such as alkaloids, polyketides, lipids and terpenes. NPstereo might be useful to assign or correct the stereochemistry of newly discovered NPs. Scientific contribution: Our study reports that a language model, NPstereo, can learn and predict the stereochemistry of natural products (NPs) from their 2D structures with high accuracy. This work demonstrates that NP stereochemical patterns are machine learnable from data and represents a first step for scalable computational methodologies for stereochemical assignment of newly discovered NPs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Assigning the Stereochemistry of Natural Products by Machine Learning</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
-<p><strong>AI Decision:</strong> A machine-learning language model (NPstereo) predicts stereochemistry of natural products from 2D structures, offering a data-driven handle on biological stereochemical regularities relevant to chirality discussions in origins-of-life contexts.</p>
-<p><strong>Abstract:</strong> Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by common biosynthetic pathways. Here we asked the question whether these regularities might be sufficiently prevalent among natural products (NPs) such that their stereochemistry could be machine learned and assigned automatically. Indeed, we report that a language model can be trained to assign the stereochemistry of NPs using the open access NP database COCONUT. In detail, our language model, called NPstereo, translates an NP structure written as absolute SMILES into the corresponding isomeric SMILES notation containing stereochemical information, with 80.2% per-stereocenter accuracy for full assignments and 85.9% per-stereocenter accuracy for partial assignments, across various NP classes including secondary metabolites such as alkaloids, polyketides, lipids and terpenes. NPstereo might be useful to assign or correct the stereochemistry of newly discovered NPs. Scientific contribution: Our study reports that a language model, NPstereo, can learn and predict the stereochemistry of natural products (NPs) from their 2D structures with high accuracy. This work demonstrates that NP stereochemical patterns are machine learnable from data and represents a first step for scalable computational methodologies for stereochemical assignment of newly discovered NPs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] ChemRxiv ▶ Sodium Sulfate in the Li-ion Battery Industry: Challenges, Opportunities, and Emerging Valorization Strategies</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>The rapid expansion of the lithium-ion battery (LIB) industry has resulted in a significant increase in sodium sulfate (Na2SO4) generation, making it one of the most abundant inorganic by-products acr</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> A perspective on where sodium sulfate by-products arise across the lithium-ion battery lifecycle and how industry might reduce, reuse, or valorize this waste stream, with no direct connection to origins-of-life research.</p>
-<p><strong>Abstract:</strong> The rapid expansion of the lithium-ion battery (LIB) industry has resulted in a significant increase in sodium sulfate (Na2SO4) generation, making it one of the most abundant inorganic by-products across the entire battery value chain. Na2SO4 is formed at multiple stages, during the lithium ore processing, the synthesis of nickel-manganese-cobalt (NMC) precursors or upon the hydrometallurgical recycling of production scraps and end-of-life LIBs. This growing volume of Na2SO4 presents serious environmental and economic challenges, particularly at the industrial scale, where wastewater management is becoming increasingly problematic. In this perspective article, we first assess the origins and quantities of Na2SO4 generated throughout the LIB lifecycle, then, we review current large-scale utilization practices and evaluate recent literature on emerging valorization strategies. While conventional reuse options remain limited, several approaches including new developments and processes to reduce Na2SO4 generation, upcycling of Na2SO4 into higher-value products, or reintegrating it into the battery supply chain appear to be promising and sustainable paths forward. Overall, this work underscores the urgency of addressing Na2SO4 accumulation and outlines diverse valorization opportunities within and beyond the battery industry.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [47] ChemRxiv ▶ Geometric origin of hierarchical patterns through history-dependent growth and arrest</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Hierarchical patterns are widespread in natural and synthetic systems, yet their formation is most often interpreted through diffusion-driven instabilities or static geometric constructions. While suc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Introduces a diffusion-free geometric growth-and-arrest model (TRACE) that generates hierarchical patterns by recording growth history through exclusion, offering a potentially relevant physical mechanism for prebiotic-style compartmentalization and structure formation in out-of-equilibrium systems.</p>
-<p><strong>Abstract:</strong> Hierarchical patterns are widespread in natural and synthetic systems, yet their formation is most often interpreted through diffusion-driven instabilities or static geometric constructions. While successful in many contexts, these frameworks struggle to encode growth history, temporal asymmetry, and pattern formation in non-diffusive, out-of-equilibrium systems. Here, I introduce the TRACE model (Temporal Recording through Arrested Coupled Evolution), a minimal framework in which pattern formation emerges from the competition between front propagation and kinetic arrest, without invoking diffusive transport. Growing domains leave geometric footprints that record their individual growth histories through exclusion. Numerical simulations reveal a broad spectrum of emergent patterns—including cell-like domains, stripes, banded structures, and hierarchical boundaries—arising from variations in spatial confinement, nucleation timing, and domain density. Crucially, the number and scale of patterns depend on accumulated domain interactions rather than nucleation alone. Finally, the model qualitatively reproduces key features observed in a minimal two-component chemical system exhibiting hierarchical macroscopic pattern formation, establishing a diffusion-free route to hierarchy encoded as a geometric record of growth history.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ChemRxiv ▶ Functionality Driven Dimensionality Modulation for Charge Transportation in Silver Cluster Assemblies</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Cluster-assembled materials (CAMS) are an emerging category of modular solids that interconnect atomic precision with functional tunability. This work highlights ligand-induced dimensionality control </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Materials-chemistry preprint showing ligand-controlled 2D vs 3D Ag12 cluster assemblies with tunable charge transport and electrocatalytic urea oxidation/water electrolysis in alkaline seawater, but with minimal direct relevance to origins-of-life processes.</p>
-<p><strong>Abstract:</strong> Cluster-assembled materials (CAMS) are an emerging category of modular solids that interconnect atomic precision with functional tunability. This work highlights ligand-induced dimensionality control in Ag12 cluster-based assemblies, achieved through functionalization of the organic linker. Two distinct cluster assemblies were fabricated from the geometrically distinct Ag12 core utilizing pyrazine and 2 amino-pyrazine linkers. A three-dimensional (SSICG20) framework was achieved through the accumulation of Ag12 cluster core pyrazine as a bridging ligand, while the latter one constructs a two-dimensional (SSICG21) sheet-like structure. Both frameworks exhibit distinct architectures with modulating charge transfer capability, particularly evidenced through their applicability in the charge transport measurements via linear device preparation and electro catalytic urea oxidation reaction. In investigations of the I-V measurements, both SSICG20 and SSICG21 demonstrated stable ON/OFF ratios throughout 1000 cycles, followed by SSICG20 showing superior memory response. Aligned with its superior switching response, SSICG20 showed promising catalytic efficiency in the electro catalytic urea oxidation reaction in harsh alkaline seawater conditions, with a significantly reduced onset potential of 110 mV at a current density of 10 mA, surpassing its 2D counterpart. A sustainable solar-driven overall water electrolysis experiment was also employed, which showed quite an optimistic efficiency. Collectively, this work provides a fundamental insight into the interplay of charge transportation on silver cluster assembly via dimensionality Modulation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] ChemRxiv ▶ Discovery of a Dual-Target DNAzyme for Clostridioides difficile and Listeria monocytogenes Diagnostics</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-15T00:00:00Z</updated>
-    <summary>Rapid and reliable detection of Clostridioides difficile is essential for clinical diagnosis and infection control. Building on our group’s prior development of RNA-cleaving fluorogenic DNAzymes (RFDs</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Reports a highly efficient fluorogenic RNA-cleaving DNAzyme biosensor that unexpectedly responds to both C. difficile and L. monocytogenes, offering a notable example of nucleic-acid catalysis and selective activation (though aimed at diagnostics rather than origins-of-life mechanisms).</p>
-<p><strong>Abstract:</strong> Rapid and reliable detection of Clostridioides difficile is essential for clinical diagnosis and infection control. Building on our group’s prior development of RNA-cleaving fluorogenic DNAzymes (RFDs) for bacterial recognition, we report RFD-CD3, a fluorogenic DNAzyme with the highest catalytic efficiency reported to date for C. difficile-responsive DNAzymes, achieving a detection limit of 10³ CFU/mL and a catalytic rate constant (kobs) of 0.16 min⁻¹ for its engineered trans-acting variant (RFD-CD3-TM2). This trans-acting form also retains high activity and provides modularity for biosensor design, further extending the versatility of this platform. Unexpectedly, RFD-CD3 also responds to Listeria monocytogenes, making it the first DNAzyme known to be selectively activated by two phylogenetically distinct bacterial species. As no RFD has previously been reported for L. monocytogenes, this discovery opens new opportunities for DNAzyme-based biosensing of a clinically and food-relevant pathogen. The distinct clinical contexts of the two targets—C. difficile in stool and L. monocytogenes in blood or food—highlight the potential of RFD-CD3 as a versatile molecular tool suited to multiple diagnostic applications. RFD-CD3 also remains catalytically active at alkaline pH, enhancing its stability in nuclease-rich biological samples. Together, these features position RFD-CD3 as a promising dual-target platform for high-performance diagnostics in both clinical and food safety applications.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
 </feed>

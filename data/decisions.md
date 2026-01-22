@@ -1,5 +1,23 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 43 | [Mutualistic rhizobia harbor genetic variation for traits rel](https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1) |
+| ai_scored | 30 | [Comparative genomics of Tandem Repeat variation in apes](https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1) |
+| ai_scored | 10 | [Carotenoid-based ornaments predict survival in male but not ](https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1) |
+| ai_scored | 60 | [Mg2+-Dependent Multistep Folding and Stabilization of the GA](https://www.biorxiv.org/content/10.64898/2026.01.21.700762v1?rss=1) |
+| ai_scored | 5 | [Modular Harris Hawks optimization with trend-guided differen](https://www.nature.com/articles/s41598-026-35565-8) |
+| keyword_rejected | - | [Natural ovulation the best option before an IVF frozen embry](https://www.newscientist.com/article/2512778-natural-ovulation-the-best-option-before-an-ivf-frozen-embryo-transfer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Piercing crocodile close-up wins ecology photo competition](https://www.newscientist.com/article/2511807-piercing-crocodile-close-up-wins-ecology-photo-competition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Natural ovulation the best option before an IVF frozen embry](https://www.newscientist.com/article/2512778-natural-ovulation-the-best-option-before-an-ivf-frozen-embryo-transfer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Piercing crocodile close-up wins ecology photo competition](https://www.newscientist.com/article/2511807-piercing-crocodile-close-up-wins-ecology-photo-competition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Natural ovulation the best option before an IVF frozen embry](https://www.newscientist.com/article/2512778-natural-ovulation-the-best-option-before-an-ivf-frozen-embryo-transfer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Piercing crocodile close-up wins ecology photo competition](https://www.newscientist.com/article/2511807-piercing-crocodile-close-up-wins-ecology-photo-competition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [New NASA Artemis payloads to study moon's terrain, radiation](https://phys.org/news/2026-01-nasa-artemis-payloads-moon-terrain.html) |
+| keyword_rejected | - | [Distinguishing microplastics from microplastic-like particle](https://www.nature.com/articles/s41598-026-36935-y) |
+| keyword_rejected | - | [Cross sectional analysis of emotion regulation, psychologica](https://www.nature.com/articles/s41598-026-36253-3) |
+| keyword_rejected | - | [Machine learning for individual epigenetic fingerprints as p](https://www.nature.com/articles/s41598-026-36561-8) |
+| keyword_rejected | - | [Binary classification of signal and background triggers of a](https://www.nature.com/articles/s41598-025-33353-4) |
+| keyword_rejected | - | [Fifty years of seismicity of Mt. Vesuvius](https://www.nature.com/articles/s41598-026-36499-x) |
+| keyword_rejected | - | [On the correctness of gene tree tagging and the consistency ](https://www.biorxiv.org/content/10.64898/2026.01.20.700722v1?rss=1) |
 | ai_scored | 15 | [TPCAV: Interpreting deep learning genomics models via concep](https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1) |
 | keyword_rejected | - | [Phospholipid composition strongly affects the assembly of β ](https://www.nature.com/articles/s41467-026-68743-3) |
 | keyword_rejected | - | [A Glial Hub-and-Spoke Circuitry in C. elegans orchestrates b](https://www.nature.com/articles/s41467-026-68766-w) |
