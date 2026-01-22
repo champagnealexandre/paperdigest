@@ -3,8 +3,20 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T16:30:20.702193+00:00</updated>
+  <updated>2026-01-22T17:25:36.965019+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] Phys.org: Evolution News ▶ Four-eyed Cambrian fish fossils hint at origins of vertebrate pineal complex</title>
+    <link href="https://phys.org/news/2026-01-eyed-cambrian-fish-fossils-hint.html"/>
+    <id>https://phys.org/news/2026-01-eyed-cambrian-fish-fossils-hint.html</id>
+    <updated>2026-01-22T16:30:01Z</updated>
+    <summary>New fossil evidence from China suggests that some of our vertebrate ancestors had four eyes. The study, published in Nature, takes a closer look at a structure found in multiple 518 million-year-old f</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Cambrian vertebrate fossils suggesting a four-eyed arrangement potentially tied to the pineal complex inform early vertebrate sensory evolution but have minimal direct relevance to origins-of-life or prebiotic processes.</p>
+<p><strong>Abstract:</strong> New fossil evidence from China suggests that some of our vertebrate ancestors had four eyes. The study, published in Nature, takes a closer look at a structure found in multiple 518 million-year-old fossils, which appears to have the same features of other fossilized eyes, and may be linked to the pineal complex in modern vertebrates.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-eyed-cambrian-fish-fossils-hint.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] Astrobiology (astrobiology.com) ▶ Dragonfly Mission: Optomechanical Design Of The DragonCam Microscopic Camera</title>
     <link href="https://astrobiology.com/2026/01/dragonfly-mission-optomechanical-design-of-the-dragoncam-microscopic-camera.html"/>
@@ -7032,36 +7044,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/frozen-hydrogen-cyanide-cobwebs-offer-clues-to-origin-of-life.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ A Youthful Titan Implied By Improved Impact Simulations</title>
-    <link href="https://astrobiology.com/2026/01/a-youthful-titan-implied-by-improved-impact-simulations.html"/>
-    <id>https://astrobiology.com/2026/01/a-youthful-titan-implied-by-improved-impact-simulations.html</id>
-    <updated>2026-01-15T16:44:00Z</updated>
-    <summary>The small number of impact craters found on Titan suggests that its surface is relatively young. Previous work estimated its surface age to be between 200 and 1000 Myr. This estimate, however, is base</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*</p>
-<p><strong>AI Decision:</strong> Improved impact simulations tailored to Titan’s icy surface revise crater-based age estimates, implying a younger surface that affects the window for potential prebiotic chemistry and habitability on Titan.</p>
-<p><strong>Abstract:</strong> The small number of impact craters found on Titan suggests that its surface is relatively young. Previous work estimated its surface age to be between 200 and 1000 Myr. This estimate, however, is based on crater scaling laws for water and sand, which are not representative of the composition of Titan’s icy surface. Titan’s surface […] The post A Youthful Titan Implied By Improved Impact Simulations appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.08306">https://doi.org/10.48550/arXiv.2601.08306</a></li>
-<li><a href="https://arxiv.org/abs/2601.08306">https://arxiv.org/abs/2601.08306</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/a-youthful-titan-implied-by-improved-impact-simulations.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [38] Astrobiology (astrobiology.com) ▶ Dust Properties of the Interstellar Object 3I/ATLAS Revealed by Optical and Near-Infrared Polarimetry</title>
-    <link href="https://astrobiology.com/2026/01/dust-properties-of-the-interstellar-object-3i-atlas-revealed-by-optical-and-near-infrared-polarimetry.html"/>
-    <id>https://astrobiology.com/2026/01/dust-properties-of-the-interstellar-object-3i-atlas-revealed-by-optical-and-near-infrared-polarimetry.html</id>
-    <updated>2026-01-15T16:50:00Z</updated>
-    <summary>We present independent polarimetric observations of the interstellar object 3I/ATLAS, including the first near-infrared polarimetric measurements. Using imaging polarimeters, we measured the degree of</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry, astrobio*</p>
-<p><strong>AI Decision:</strong> Optical-to–near-infrared polarimetry of interstellar object 3I/ATLAS constrains its dust grain properties and composition, offering indirect context for the kinds of primitive materials that could be exchanged between planetary systems (but with limited direct relevance to origins-of-life mechanisms).</p>
-<p><strong>Abstract:</strong> We present independent polarimetric observations of the interstellar object 3I/ATLAS, including the first near-infrared polarimetric measurements. Using imaging polarimeters, we measured the degree of linear polarization from the visible RC band (0.64 µm) to the near-infrared Ks band (2.25 µm), and investigated its dependence on solar phase angle (polarization phase curve; PPC) and wavelength (polarization […] The post Dust Properties of the Interstellar Object 3I/ATLAS Revealed by Optical and Near-Infrared Polarimetry appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.08591">https://doi.org/10.48550/arXiv.2601.08591</a></li>
-<li><a href="https://arxiv.org/abs/2601.08591">https://arxiv.org/abs/2601.08591</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/dust-properties-of-the-interstellar-object-3i-atlas-revealed-by-optical-and-near-infrared-polarimetry.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Organisms In The Atacama Desert Soil Are Remarkably Diverse</title>
     <link href="https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html"/>
     <id>https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html</id>
@@ -7074,21 +7056,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/organisms-in-the-atacama-desert-soil-are-remarkably-diverse.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Direct Detection Of Hydrogen Reveals A New Macroscopic Crustal Water Reservoir On Early Mars</title>
-    <link href="https://astrobiology.com/2026/01/direct-detection-of-hydrogen-reveals-a-new-macroscopic-crustal-water-reservoir-on-early-mars.html"/>
-    <id>https://astrobiology.com/2026/01/direct-detection-of-hydrogen-reveals-a-new-macroscopic-crustal-water-reservoir-on-early-mars.html</id>
-    <updated>2026-01-15T16:46:00Z</updated>
-    <summary>The next great leap in Martian exploration will be the return of samples to Earth. To ensure the maximum scientific return from studying these samples, the development and utilisation of nondestructiv</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, water, habitab*, astrobio*, mars</p>
-<p><strong>AI Decision:</strong> Neutron computed tomography enables direct hydrogen detection in Martian materials, implying a previously unrecognized macroscopic early-Mars crustal water reservoir with clear implications for past habitability and prebiotic environments.</p>
-<p><strong>Abstract:</strong> The next great leap in Martian exploration will be the return of samples to Earth. To ensure the maximum scientific return from studying these samples, the development and utilisation of nondestructive analytical techniques are essential to enable early three-dimensional characterisation of their interiors. Neutron computed tomography is a powerful method in this context: it is […] The post Direct Detection Of Hydrogen Reveals A New Macroscopic Crustal Water Reservoir On Early Mars appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.08390">https://arxiv.org/abs/2601.08390</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.08390">https://doi.org/10.48550/arXiv.2601.08390</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/direct-detection-of-hydrogen-reveals-a-new-macroscopic-crustal-water-reservoir-on-early-mars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [35] Astrobiology (astrobiology.com) ▶ NASA DARES AGU Community Update Recording Now Available</title>
     <link href="https://astrobiology.com/2026/01/nasa-dares-agu-community-update-recording-now-available.html"/>
     <id>https://astrobiology.com/2026/01/nasa-dares-agu-community-update-recording-now-available.html</id>
@@ -7099,21 +7066,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> In case you missed it, the recording of the NASA-DARES Community Update, held during the AGU Fall Meeting on December 18, 2025, is now available on the NASA-DARES webpage. The session included updates on progress toward the NASA Decadal Astrobiology Research and Exploration Strategy (NASA-DARES), introductions to selected Task Force 2 leadership, and an open […] The post NASA DARES AGU Community Update Recording Now Available appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/nasa-dares-agu-community-update-recording-now-available.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Cosmogenic Krypton Enables Reconstruction Of Landscapes Millions Of Years Old</title>
-    <link href="https://astrobiology.com/2026/01/cosmogenic-krypton-enables-reconstruction-of-landscapes-millions-of-years-old.html"/>
-    <id>https://astrobiology.com/2026/01/cosmogenic-krypton-enables-reconstruction-of-landscapes-millions-of-years-old.html</id>
-    <updated>2026-01-15T16:57:00Z</updated>
-    <summary>An international research team involving the University of Cologne has found a new way to reconstruct how landscapes developed tens of millions of years ago and how long sediments remained on the Eart</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, astrochemistry, astrobio*</p>
-<p><strong>AI Decision:</strong> Uses cosmogenic krypton in zircon to quantify sediment surface exposure and reconstruct landscape evolution over tens of millions of years, offering indirect context for Earth’s long-term surface environments but not directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> An international research team involving the University of Cologne has found a new way to reconstruct how landscapes developed tens of millions of years ago and how long sediments remained on the Earth’s surface before they were deposited. The investigation of cosmogenic krypton in zircon minerals makes it possible for the first time to quantitatively […] The post Cosmogenic Krypton Enables Reconstruction Of Landscapes Millions Of Years Old appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/10.1073/pnas.2516058122">https://www.pnas.org/doi/10.1073/pnas.2516058122</a></li>
-<li><a href="https://doi.org/10.1073/pnas.2516058122">https://doi.org/10.1073/pnas.2516058122</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/cosmogenic-krypton-enables-reconstruction-of-landscapes-millions-of-years-old.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Mars Was Half Covered By An Ocean</title>

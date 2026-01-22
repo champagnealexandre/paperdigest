@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Four-eyed Cambrian fish fossils hint at origins of vertebrat](https://phys.org/news/2026-01-eyed-cambrian-fish-fossils-hint.html) |
+| keyword_rejected | - | [Dauphins : un nouveau mois sans pêche, mais peut-être pas le](https://www.sciencesetavenir.fr/animaux/animaux-marins/dauphins-un-nouveau-mois-sans-peche-mais-peut-etre-pas-le-dernier_190516?xtor=RSS-26) |
+| keyword_rejected | - | [What your breath says about the bacteria in your gut](https://www.nature.com/articles/d41586-026-00219-2) |
+| keyword_rejected | - | [When two years of academic work vanished with a single click](https://www.nature.com/articles/d41586-025-04064-7) |
+| keyword_rejected | - | [Webb telescope reveals galaxy cluster's gravity warping ligh](https://phys.org/news/2026-01-webb-telescope-reveals-galaxy-cluster.html) |
+| keyword_rejected | - | [Rule-breaking supermassive black hole discovered in the earl](https://phys.org/news/2026-01-supermassive-black-hole-early-universe.html) |
+| keyword_rejected | - | [Plastic mulch productivity-sustainability tradeoffs and path](https://www.nature.com/articles/s41467-026-68798-2) |
 | ai_scored | 75 | [When Tropical Oceans On Earth Were Oxygen Oases](https://astrobiology.com/2026/01/when-tropical-oceans-on-earth-were-oxygen-oases.html) |
 | ai_scored | 25 | [Comparative multi-omic analysis reveals conserved and derive](https://www.nature.com/articles/s41467-026-68801-w) |
 | ai_scored | 55 | [Modeling the spatial organization of replicated chromosomes ](https://www.biorxiv.org/content/10.64898/2026.01.19.700293v1?rss=1) |
