@@ -1,5 +1,46 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Sonic booms can protect Earth from dangerous space junk](https://www.scientificamerican.com/article/sonic-booms-can-protect-earth-from-dangerous-space-junk/) |
+| keyword_rejected | - | [Incendies au Chili : un troisième suspect interpellé dans le](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-un-troisieme-suspect-interpelle-dans-le-sud-du-pays_190536?xtor=RSS-15) |
+| keyword_rejected | - | [La syphilis affectait déjà les chasseurs-cueilleurs il y a 5](https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/la-syphilis-affectait-deja-les-chasseurs-cueilleurs-5500-ans-plus-tot_190526?xtor=RSS-10) |
+| keyword_rejected | - | [Parents might age faster or slower based on how many kids th](https://www.scientificamerican.com/article/parents-might-age-faster-or-slower-based-on-how-many-kids-they-have/) |
+| keyword_rejected | - | [Ancient bacterium’s genome could rewrite the history of syph](https://www.scientificamerican.com/article/ancient-bacteriums-genome-could-rewrite-the-history-of-syphilis/) |
+| keyword_rejected | - | [Editorial Expression of Concern for the Report “Meta-analysi](https://www.science.org/doi/abs/10.1126/science.aee6983?af=R) |
+| keyword_rejected | - | [In Science Journals](https://www.science.org/doi/abs/10.1126/science.aef5688?af=R) |
+| keyword_rejected | - | [How malicious AI swarms can threaten democracy](https://www.science.org/doi/abs/10.1126/science.adz1697?af=R) |
+| keyword_rejected | - | [States pioneer a new frontier in US science funding](https://www.science.org/doi/abs/10.1126/science.aef5010?af=R) |
+| keyword_rejected | - | [Repairing trust in science requires a more inclusive underst](https://www.science.org/doi/abs/10.1126/science.aee6955?af=R) |
+| keyword_rejected | - | [Talking back](https://www.science.org/doi/abs/10.1126/science.aef5706?af=R) |
+| keyword_rejected | - | [Pressure on the pipeline](https://www.science.org/doi/abs/10.1126/science.aef5705?af=R) |
+| keyword_rejected | - | [Damage assessment](https://www.science.org/doi/abs/10.1126/science.aef5690?af=R) |
+| keyword_rejected | - | [AI has helped scientists—but may have hurt science](https://www.science.org/doi/abs/10.1126/science.aef6710?af=R) |
+| keyword_rejected | - | [As Greenland loses ice, global sea levels will rise—and its ](https://www.science.org/doi/abs/10.1126/science.aef6709?af=R) |
+| keyword_rejected | - | [Hidden industry ties pervade social media research](https://www.science.org/doi/abs/10.1126/science.aef6708?af=R) |
+| keyword_rejected | - | [Purdue blocks admission of many Chinese grad students](https://www.science.org/doi/abs/10.1126/science.aef6707?af=R) |
+| keyword_rejected | - | [Some guest editors pack special issues with their own articl](https://www.science.org/doi/abs/10.1126/science.aef6706?af=R) |
+| keyword_rejected | - | [Mexican genome trove could guide medical decisions](https://www.science.org/doi/abs/10.1126/science.aef6705?af=R) |
+| keyword_rejected | - | [Safeguarding tailings dams at the climate brink](https://www.science.org/doi/abs/10.1126/science.aee4079?af=R) |
+| keyword_rejected | - | [Regulate worker heat exposure in global trade](https://www.science.org/doi/abs/10.1126/science.aee4593?af=R) |
+| keyword_rejected | - | [Uncovering the secrets of syphilis](https://www.science.org/doi/abs/10.1126/science.aee7963?af=R) |
+| keyword_rejected | - | [Tethered platelets in severe infection](https://www.science.org/doi/abs/10.1126/science.aed1243?af=R) |
+| keyword_rejected | - | [Meeting the need for myelin](https://www.science.org/doi/abs/10.1126/science.aee4609?af=R) |
+| keyword_rejected | - | [Tracking space debris from sonic booms](https://www.science.org/doi/abs/10.1126/science.aee0657?af=R) |
+| keyword_rejected | - | [In Other Journals](https://www.science.org/doi/abs/10.1126/science.aef5689?af=R) |
+| keyword_rejected | - | [The price of prestige](https://www.science.org/doi/abs/10.1126/science.aef5344?af=R) |
+| keyword_rejected | - | [Pan-family pollen signals control an interspecific stigma ba](https://www.science.org/doi/abs/10.1126/science.ady2347?af=R) |
+| keyword_rejected | - | [Couple-close: Unified approach to semisaturated cyclic scaff](https://www.science.org/doi/abs/10.1126/science.aec5748?af=R) |
+| keyword_rejected | - | [Observation of one-dimensional, charged domain walls in ferr](https://www.science.org/doi/abs/10.1126/science.aeb7280?af=R) |
+| keyword_rejected | - | [Reentry and disintegration dynamics of space debris tracked ](https://www.science.org/doi/abs/10.1126/science.adz4676?af=R) |
+| keyword_rejected | - | [Observation of the Einstein–de Haas effect in a Bose–Einstei](https://www.science.org/doi/abs/10.1126/science.adx2872?af=R) |
+| keyword_rejected | - | [143–million-year seawater osmium isotopic record: Trends, rh](https://www.science.org/doi/abs/10.1126/science.adw8301?af=R) |
+| keyword_rejected | - | [A 5500-year-old Treponema pallidum genome from Sabana de Bog](https://www.science.org/doi/abs/10.1126/science.adw3020?af=R) |
+| keyword_rejected | - | [Endogenous retroviruses synthesize heterologous chimeric RNA](https://www.science.org/doi/abs/10.1126/science.adv5257?af=R) |
+| keyword_rejected | - | [Myelin is repaired by constitutive differentiation of oligod](https://www.science.org/doi/abs/10.1126/science.adu2896?af=R) |
+| keyword_rejected | - | [Platelet-derived integrin- and tetraspanin-enriched tethers ](https://www.science.org/doi/abs/10.1126/science.adu2825?af=R) |
+| keyword_rejected | - | [Multiparameter estimation with an array of entangled atomic ](https://www.science.org/doi/abs/10.1126/science.adt2442?af=R) |
+| keyword_rejected | - | [Mitigating clean energy’s dirty costs](https://www.science.org/doi/abs/10.1126/science.aed8334?af=R) |
+| keyword_rejected | - | [Narratives of conflict in a warming Arctic](https://www.science.org/doi/abs/10.1126/science.aed7095?af=R) |
+| keyword_rejected | - | [Experiment clarifies cosmic origin of rare proton-rich isoto](https://phys.org/news/2026-01-cosmic-rare-proton-rich-isotope.html) |
 | ai_scored | 25 | [Homeostasis after injury: How intertwined inference and cont](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013538) |
 | ai_scored | 25 | [Breaking the cell wall for efficient DNA delivery to diatoms](https://www.nature.com/articles/s41467-026-68562-6) |
 | ai_scored | 5 | [Seismometer networks could track space junk as it falls to E](https://phys.org/news/2026-01-seismometer-networks-track-space-junk.html) |
