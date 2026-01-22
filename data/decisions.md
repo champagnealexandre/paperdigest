@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Les astronautes d’Artemis II rejoindront la Lune avec leurs ](https://www.sciencesetavenir.fr/espace/systeme-solaire/les-astronautes-d-artemis-ii-voyageront-avec-leurs-clones-cellulaires-autour-de-la-lune_190525?xtor=RSS-9) |
+| ai_scored | 20 | [Astronomers discover dense super-Neptune exoplanet orbiting ](https://phys.org/news/2026-01-astronomers-dense-super-neptune-exoplanet.html) |
+| keyword_rejected | - | [Scientists just calculated how many microplastics are in our](https://www.scientificamerican.com/article/scientists-just-calculated-how-many-microplastics-are-in-our-atmosphere-the/) |
+| keyword_rejected | - | [PMA, GPA IA : lancement des Etats généraux de la bioéthique](https://www.sciencesetavenir.fr/politique/pma-ia-et-autres-questions-sensibles-lancement-des-etats-generaux-de-la-bioethique_190501) |
 | ai_scored | 0 | [Comparing Different Physics Fields Using Statistical Linguis](https://comdig.unam.mx/2026/01/22/comparing-different-physics-fields-using-statistical-linguistics/) |
 | keyword_rejected | - | [We were wrong about being able to 'nudge' people to improve ](https://www.newscientist.com/article/mg26935790-100-we-were-wrong-about-being-able-to-nudge-people-to-improve-the-world/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Strips of dried placenta help wounds heal with less scarring](https://www.newscientist.com/article/2512111-strips-of-dried-placenta-help-wounds-heal-with-less-scarring/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
