@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T07:24:41.106752+00:00</updated>
+  <updated>2026-01-22T08:26:53.047290+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Scientific Reports ▶ Dietary patterns and sperm DNA fragmentation in idiopathic infertile men: A case-control study</title>
+    <link href="https://www.nature.com/articles/s41598-026-35928-1"/>
+    <id>https://www.nature.com/articles/s41598-026-35928-1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 22 January 2026; doi:10.1038/s41598-026-35928-1 Dietary patterns and sperm DNA fragmentation in idiopathic infertile men: A case-control study</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> A clinical case-control study linking dietary patterns to sperm DNA fragmentation in idiopathic male infertility, with minimal relevance to origins-of-life or astrobiology aside from the incidental DNA focus.</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 22 January 2026; doi:10.1038/s41598-026-35928-1 Dietary patterns and sperm DNA fragmentation in idiopathic infertile men: A case-control study</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-026-35928-1">https://www.nature.com/articles/s41598-026-35928-1</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-026-35928-1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] cell biology - biorXiv Preprints ▶ Single-cell spatially resolved transcriptomic characterization of the developing mouse cochlea</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>The cochlea, the sensory organ of hearing, functions as a frequency analyzer, analogous to a musical instrument. During development, while the medio-lateral axis supports differentiation of sensory ce</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Uses spatial single-cell RNA transcriptomics to map developmental gene-expression gradients in the mouse cochlea, with no direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> The cochlea, the sensory organ of hearing, functions as a frequency analyzer, analogous to a musical instrument. During development, while the medio-lateral axis supports differentiation of sensory cells and their surrounding supporting cells, the longitudinal axis underlies frequency-dependent properties of the cochlea. The combination of these two gene expression gradients defines unique physiological attributes of each cell intimately linked to its position within the cochlea. To determine which cochlear cell-types have a transcriptomic signature sensitive to these two gradients and identify the underlying gene regulatory networks, we took advantage of the advent of spatial single cell transcriptomics methodologies. We therefore generated a spatial transcriptomic atlas reaching single cell resolution based on the Visium HD technique, a sequencing-based technology that employ arrays of spatially barcoded probes to capture RNA molecules unbiasedly from histological tissue sections. Spatial transcriptional changes during embryonic stages, E14 and E16, as well as during postnatal development, P1 and P8, were investigated. Based on this dataset, not only cell-type assignment in single cell RNA-seq experiments could be validated, but the classification for some cell-types could be refined. Gradients of gene expression along the medio-lateral and longitudinal axes in multiple cell-types together with their temporal dynamics across development were also uncovered. Altogether, this atlas paves the way for deciphering gene regulatory networks controlling gene expression as a function of position in the cochlear cell types, providing a valuable resource for the design of efficient, robust and safe gene therapy strategies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Nature Communications ▶ Outsourcing of energetically costly amino acids at the origin of animals</title>
+    <link href="https://www.nature.com/articles/s41467-026-68724-6"/>
+    <id>https://www.nature.com/articles/s41467-026-68724-6</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 22 January 2026; doi:10.1038/s41467-026-68724-6 Animals must obtain half of their amino acids from the diet, influencing their evolution and metabolism. This s</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This study argues that energetic constraints drove early animals to rely on dietary acquisition of costly amino acids, shaping protein evolution and potentially facilitating the emergence of animal multicellularity.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 22 January 2026; doi:10.1038/s41467-026-68724-6 Animals must obtain half of their amino acids from the diet, influencing their evolution and metabolism. This study suggests that energy pressures favored this outsourcing, enabling proteins to evolve more freely and supporting the emergence of animals.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68724-6">https://www.nature.com/articles/s41467-026-68724-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68724-6">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] nature.com - Biological sciences ▶ A bacterial defense system targeting modified cytosine of phage genomic DNA</title>
     <link href="https://www.nature.com/articles/s41467-026-68792-8"/>

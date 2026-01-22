@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Outsourcing of energetically costly amino acids at the origi](https://www.nature.com/articles/s41467-026-68724-6) |
+| ai_scored | 5 | [Single-cell spatially resolved transcriptomic characterizati](https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1) |
+| ai_scored | 5 | [Dietary patterns and sperm DNA fragmentation in idiopathic i](https://www.nature.com/articles/s41598-026-35928-1) |
+| keyword_rejected | - | [Explainable artificial intelligence for sedimentary facies s](https://www.nature.com/articles/s41598-026-36765-y) |
+| keyword_rejected | - | [Broadband slant-polarized series-fed microstrip patch antenn](https://www.nature.com/articles/s41598-025-29298-3) |
+| keyword_rejected | - | [Iterative multiblock framework for high frequency EEG based ](https://www.nature.com/articles/s41598-026-37126-5) |
+| keyword_rejected | - | [Training and external validation of machine learning supervi](https://www.nature.com/articles/s41598-025-29043-w) |
+| keyword_rejected | - | [Reversible bismuth reduction-driven dark photoelectrochemist](https://www.nature.com/articles/s41467-026-68359-7) |
 | ai_scored | 45 | [A bacterial defense system targeting modified cytosine of ph](https://www.nature.com/articles/s41467-026-68792-8) |
 | keyword_rejected | - | [Les mathématiques de la croissance autoempoisonnée](https://www.pourlascience.fr/sr/lequation/les-mathematiques-de-la-croissance-autoempoisonnee-28718.php) |
 | keyword_rejected | - | [De fille d’agriculteurs à pionnière du GPS : l’incroyable pa](https://www.sciencesetavenir.fr/high-tech/informatique/de-fille-d-agriculteurs-a-pionniere-du-gps-l-incroyable-parcours-de-gladys-west-mathematicienne-longtemps-oubliee_190514?xtor=RSS-12) |
