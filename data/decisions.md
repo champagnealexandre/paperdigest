@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Cause of vision loss discovered in overlooked genes](https://www.nature.com/articles/d41586-026-00207-6) |
+| keyword_rejected | - | [Demonstration of low-overhead quantum error correction codes](https://www.nature.com/articles/s41567-025-03157-4) |
+| keyword_rejected | - | [Discovery of Goethe’s amber ant: its phylogenetic and evolut](https://www.nature.com/articles/s41598-026-36004-4) |
 | ai_scored | 50 | [The hidden microbial communities that shape health in space](https://phys.org/news/2026-01-hidden-microbial-communities-health-space.html) |
 | keyword_rejected | - | [De braconnier à ranger: au Nigeria, le nouveau souffle de la](https://www.sciencesetavenir.fr/nature-environnement/de-braconnier-a-ranger-au-nigeria-le-nouveau-souffle-de-la-foret-d-okomu_190522?xtor=RSS-15) |
 | keyword_rejected | - | [Resurrected nitrogenases recapitulate canonical N-isotope bi](https://www.nature.com/articles/s41467-025-67423-y) |
