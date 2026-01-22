@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Evolution of Reproductive Plasticity in a Seasonal Tropical ](https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1) |
+| keyword_rejected | - | [Is the flu shot linked to dysphonia? Here’s what the science](https://www.scientificamerican.com/article/is-the-flu-shot-linked-to-dysphonia-heres-what-the-science-says/) |
+| keyword_rejected | - | [NIH ends fetal tissue research](https://www.scientificamerican.com/article/nih-ends-fetal-tissue-research/) |
+| keyword_rejected | - | [Community participatory Jingchu folk pattern generation plat](https://www.nature.com/articles/s41598-026-36597-w) |
+| keyword_rejected | - | [Hubble uncovers the secret of blue straggler stars that defy](https://phys.org/news/2026-01-hubble-uncovers-secret-blue-straggler.html) |
+| keyword_rejected | - | [New code connects microscopic insights to the macroscopic wo](https://phys.org/news/2026-01-code-microscopic-insights-macroscopic-world.html) |
+| keyword_rejected | - | [Viral Capsid-Membrane Interactions Propel Non-Brownian Movem](https://www.biorxiv.org/content/10.64898/2026.01.21.700940v1?rss=1) |
+| keyword_rejected | - | [Optimizing sparse and skew hashing: faster k-mer dictionarie](https://www.biorxiv.org/content/10.64898/2026.01.21.700884v1?rss=1) |
+| keyword_rejected | - | [The Bayesian Inference library for Python R and Julia](https://www.biorxiv.org/content/10.64898/2026.01.19.700318v1?rss=1) |
 | ai_scored | 55 | [Autolab HBH: A Rapid Hyperbaric Heating Device for Streamlin](https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1) |
 | ai_scored | 48 | [Accessing water on Mars: Examining the best technologies for](https://phys.org/news/2026-01-accessing-mars-technologies-future-missions.html) |
 | keyword_rejected | - | [Streamlined resource-efficient plasma amyloid-beta mass spec](https://www.nature.com/articles/s41467-026-68372-w) |

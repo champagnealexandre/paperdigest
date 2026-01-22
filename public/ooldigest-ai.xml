@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T21:19:20.789340+00:00</updated>
+  <updated>2026-01-22T22:19:01.746219+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolution of Reproductive Plasticity in a Seasonal Tropical Environment</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Seasonality drives the evolution of reproductive plasticity in butterflies. An extreme form is reproductive diapause, where individuals halt reproduction during unfavourable seasons through cascades t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Multi-year field study shows repeated evolution of reproductive diapause and cue-dependent plasticity in Amazon butterflies, offering insights into modular trait evolution but little direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Seasonality drives the evolution of reproductive plasticity in butterflies. An extreme form is reproductive diapause, where individuals halt reproduction during unfavourable seasons through cascades translating predictive environmental cues into reproductive phenotypes. How diapause evolves from milder forms of plasticity through changes in those cascades is poorly understood. In the tropics seasonality is common, but it is unclear how phylogenetically widespread reproductive diapause is, and exactly how seasonal tropical climates drive reproductive plasticity. Here, we study reproductive plasticity in Amazon butterflies using a multi-year monthly time series of reproductive phenotypes. Sampling 4 subfamilies across Nymphalids, we observe a phylogenetically widespread occurrence of diapause, suggesting repeated evolutionary changes in reproductive plasticity. Detailed analyses of two Catonephele species reveal a shared temperature response, but dry season diapause only in C. acontius. Thus, evolution of diapause combines cue conservation with species-specific divergence of trait plasticity, suggesting gradual and modular evolution of reproductive plasticity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [48] phys.org - Space News ▶ Accessing water on Mars: Examining the best technologies for future missions</title>
     <link href="https://phys.org/news/2026-01-accessing-mars-technologies-future-missions.html"/>
