@@ -3,8 +3,21 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T06:29:28.534070+00:00</updated>
+  <updated>2026-01-22T07:24:41.106752+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] nature.com - Biological sciences ▶ A bacterial defense system targeting modified cytosine of phage genomic DNA</title>
+    <link href="https://www.nature.com/articles/s41467-026-68792-8"/>
+    <id>https://www.nature.com/articles/s41467-026-68792-8</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Reports a bacterial anti-phage defense mechanism that recognizes phage genomic DNA containing modified cytosine, informing nucleic-acid molecular evolution but not directly addressing origins-of-life processes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68792-8">https://www.nature.com/articles/s41467-026-68792-8</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68792-8">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] bioinformatics - biorXiv Preprints ▶ VAETracer: Mutation-Guided Lineage Reconstruction and Generational State Inference from scRNA-seq</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1"/>
@@ -6713,20 +6726,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> The SETI Institute announced that nominations are now open for the 2026 Tarter Award for Innovation in the Search for Life Beyond Earth. The Tarter Award recognizes individuals whose projects or ideas significantly advance humanity’s search for extraterrestrial life and intelligence. Named in honor of Dr. Jill Tarter, SETI Institute co-founder and leader in the […] The post SETI Institute Opens Call For Nominations For The 2026 Tarter Award appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/seti-institute-opens-call-for-nominations-for-the-2026-tarter-award.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Science ▶ Chronic low-dose exposure to chlorpyrifos reduces life span in a wild fish by accelerating aging</title>
-    <link href="https://www.science.org/doi/abs/10.1126/science.ady4727?af=R"/>
-    <id>https://www.science.org/doi/abs/10.1126/science.ady4727?af=R</id>
-    <updated>2026-01-15T07:00:10Z</updated>
-    <summary>Science, Volume 391, Issue 6782, Page 275-279, January 2026.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Chronic low-dose chlorpyrifos exposure shortens lifespan in a wild fish by accelerating aging, offering limited astrobiology relevance beyond general insights into how environmental stressors can constrain life.</p>
-<p><strong>Abstract:</strong> Science, Volume 391, Issue 6782, Page 275-279, January 2026.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.science.org/doi/abs/10.1126/science.ady4727?af=R">https://www.science.org/doi/abs/10.1126/science.ady4727?af=R</a></li>
-</ul>
-<p><a href="https://www.science.org/doi/abs/10.1126/science.ady4727?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟢 [95] Astrobiology (astrobiology.com) ▶ Frozen Hydrogen Cyanide ‘Cobwebs’ Offer Clues To Origin Of Life</title>

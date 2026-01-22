@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [A bacterial defense system targeting modified cytosine of ph](https://www.nature.com/articles/s41467-026-68792-8) |
+| keyword_rejected | - | [Les mathématiques de la croissance autoempoisonnée](https://www.pourlascience.fr/sr/lequation/les-mathematiques-de-la-croissance-autoempoisonnee-28718.php) |
+| keyword_rejected | - | [De fille d’agriculteurs à pionnière du GPS : l’incroyable pa](https://www.sciencesetavenir.fr/high-tech/informatique/de-fille-d-agriculteurs-a-pionniere-du-gps-l-incroyable-parcours-de-gladys-west-mathematicienne-longtemps-oubliee_190514?xtor=RSS-12) |
+| keyword_rejected | - | [The simplest iminophosphane HPNH and its photoisomerization ](https://www.nature.com/articles/s41467-026-68391-7) |
+| keyword_rejected | - | [Assimilative causal inference](https://www.nature.com/articles/s41467-026-68568-0) |
+| keyword_rejected | - | [Harnessing P<sup>V</sup>-oxirene for the modular synthesis o](https://www.nature.com/articles/s41467-026-68671-2) |
+| keyword_rejected | - | [Collective Effects in Polariton Chemistry and Photophysics](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-082624-023219?TRACK=RSS) |
+| keyword_rejected | - | [nVenn2: faster, simpler generalized quasi-proportional Venn ](https://www.biorxiv.org/content/10.64898/2026.01.19.700279v1?rss=1) |
 | ai_scored | 20 | [VAETracer: Mutation-Guided Lineage Reconstruction and Genera](https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1) |
 | keyword_rejected | - | [Silencing lipid catabolism determines longevity in response ](https://www.nature.com/articles/s41467-026-68764-y) |
 | keyword_rejected | - | [Blank Spectrum Correction as a Robust Solution to Artifacts ](https://www.biorxiv.org/content/10.64898/2026.01.18.700193v1?rss=1) |
