@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [[La semaine en bref] Les robots humanoïdes se déploient à l’](https://www.pourlascience.fr/sr/revue-de-presse/la-semaine-en-bref-les-robots-humanoides-se-deploient-a-l-usine-28732.php) |
+| keyword_rejected | - | [Lait infantile : deux enquêtes ouvertes après la mort suspec](https://www.sciencesetavenir.fr/sante/maladie-enfant/lait-infantile-un-bebe-decede-debut-janvier-enquete-penale-a-bordeaux_190532?xtor=RSS-16) |
+| keyword_rejected | - | [Spatial patterning of contractility by a self-organized mech](https://www.nature.com/articles/s41467-026-68418-z) |
+| keyword_rejected | - | [Polar discontinuities, emergent conductivity, and critical t](https://www.nature.com/articles/s41467-026-68553-7) |
+| keyword_rejected | - | [A New Classification Framework to Understand Evolutionary Tr](https://onlinelibrary.wiley.com/doi/10.1002/bies.70098?af=R) |
+| keyword_rejected | - | [Fat and Dachsous Signaling—Controlling Growth Requires Both ](https://onlinelibrary.wiley.com/doi/10.1002/bies.70103?af=R) |
+| keyword_rejected | - | [BioEssays 1/2026](https://onlinelibrary.wiley.com/doi/10.1002/bies.70106?af=R) |
+| keyword_rejected | - | [Nucleosome Bundling by Barrier‐to‐Autointegration Factor: Im](https://onlinelibrary.wiley.com/doi/10.1002/bies.70104?af=R) |
 | keyword_rejected | - | [Un nouvel outil d’édition du génome contourne les mutations ](https://www.pourlascience.fr/sd/genetique/un-nouvel-outil-d-edition-du-genome-contourne-les-mutations-non-sens-28624.php) |
 | keyword_rejected | - | [The insect Toll pathway activates antibacterial immunity aga](https://www.nature.com/articles/s41467-026-68575-1) |
 | keyword_rejected | - | [The E3 ligases Itch and WWP2 regulate autoimmune neuroinflam](https://www.nature.com/articles/s41467-025-67665-w) |
