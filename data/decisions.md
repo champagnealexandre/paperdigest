@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Energy evolution mechanism of hard roof of working face adja](https://www.nature.com/articles/s41598-026-36520-3) |
+| keyword_rejected | - | [Latent profiles of compassion fatigue among clinical nurse p](https://www.nature.com/articles/s41598-025-33648-6) |
+| keyword_rejected | - | [Neutrophil extracellular traps as biomarkers for predicting ](https://www.nature.com/articles/s41598-025-29093-0) |
+| keyword_rejected | - | [Mitochondrial ribosome content as a proxy for respiration](https://www.biorxiv.org/content/10.64898/2026.01.20.700566v1?rss=1) |
+| keyword_rejected | - | [Ultra-Content Screening (UCS): Toward the Big Blood Picture](https://www.biorxiv.org/content/10.64898/2026.01.20.700546v1?rss=1) |
+| keyword_rejected | - | [Modelling multicellular coordination by bridging cell-cell c](https://www.biorxiv.org/content/10.64898/2026.01.20.700561v1?rss=1) |
+| keyword_rejected | - | [Enhanced IGFL1 translation in response to IL-1β is controlle](https://www.biorxiv.org/content/10.64898/2026.01.21.700974v1?rss=1) |
+| keyword_rejected | - | [Constraint Network Analysis of Global and Local Rigidity in ](https://www.biorxiv.org/content/10.64898/2026.01.19.700489v1?rss=1) |
+| keyword_rejected | - | [Histone 3 lysine 9 dimethylation by the G9a-GLP heterodimer ](https://www.biorxiv.org/content/10.64898/2026.01.21.700667v1?rss=1) |
 | ai_scored | 48 | [Structural Basis for Nucleobase Activation by the Adenine DN](https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1) |
 | ai_scored | 20 | [dirCLIP profiles variant-specific RNA-protein interactions v](https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1) |
 | ai_scored | 25 | [SigDyn: single-cell mutational signature dynamics](https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1) |
