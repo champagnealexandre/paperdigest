@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Neige épaisse et froid intense, les Etats-Unis attendent une](https://www.sciencesetavenir.fr/nature-environnement/neige-epaisse-et-froid-intense-les-etats-unis-attendent-une-mega-tempete-d-hiver_190554?xtor=RSS-15) |
+| keyword_rejected | - | [Greenland is important for global research: what's next for ](https://www.nature.com/articles/d41586-026-00067-0) |
+| keyword_rejected | - | [Gladys Mae West obituary: mathematician who pioneered GPS te](https://www.nature.com/articles/d41586-026-00254-z) |
+| keyword_rejected | - | [De novo variants in the splicing factor gene SF3B1 are assoc](https://www.nature.com/articles/s41467-026-68284-9) |
 | ai_scored | 20 | [N-terminal phosphorylation inhibits Arabidopsis katanin and ](https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1) |
 | ai_scored | 100 | [Emergence Of Diverse Ligase Reactivities From A Single RNA E](https://astrobiology.com/2026/01/emergence-of-diverse-ligase-reactivities-from-a-single-rna-evolution-experiment.html) |
 | ai_scored | 50 | [Toward Reliable Interpretations of Small Exoplanet Compositi](https://astrobiology.com/2026/01/toward-reliable-interpretations-of-small-exoplanet-compositions-comparisons-and-considerations-of-equations-of-state-and-materials-used-in-common-rocky-planet-models.html) |
