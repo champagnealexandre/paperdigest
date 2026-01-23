@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Histology-Aware Graph for Modeling Intercellular Communicati](https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1) |
+| ai_scored | 45 | [Operon-driven antagonism and novel modulation of DNA damage ](https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1) |
+| keyword_rejected | - | [Why Apple and OpenAI are reportedly betting on AI hardware i](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/) |
+| keyword_rejected | - | [Weaker radiation limits will not help nuclear energy](https://www.scientificamerican.com/article/weaker-radiation-limits-will-not-help-nuclear-energy/) |
+| keyword_rejected | - | [CKAAKN peptide-conjugated long-circulating nanoliposomes for](https://www.nature.com/articles/s41598-026-36920-5) |
+| keyword_rejected | - | [Atomistic simulation study reveals transduction of mechanica](https://www.biorxiv.org/content/10.64898/2026.01.22.700696v1?rss=1) |
+| keyword_rejected | - | [Clinical and Cross-Domain Validation of an LLM-Guided, Liter](https://www.biorxiv.org/content/10.64898/2026.01.22.701191v1?rss=1) |
+| keyword_rejected | - | [FASTR: Reimagining FASTQ via Compact Image-inspired Represen](https://www.biorxiv.org/content/10.64898/2026.01.22.701172v1?rss=1) |
+| keyword_rejected | - | [SparseAEH: Scalable autoregressive expression histology disc](https://www.biorxiv.org/content/10.64898/2026.01.22.701193v1?rss=1) |
+| keyword_rejected | - | [Benchmarking generative scaffold design methods for peptide ](https://www.biorxiv.org/content/10.64898/2026.01.22.701133v1?rss=1) |
 | ai_scored | 5 | [CROP: A feature-independent context-aware method for CRISPR-](https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1) |
 | ai_scored | 5 | [How do tumor-associated neutrophils regulate the microenviro](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013906) |
 | keyword_rejected | - | [Composing egocentric and allocentric maps for flexible navig](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013905) |

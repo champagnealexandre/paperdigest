@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T20:21:33.416236+00:00</updated>
+  <updated>2026-01-23T21:18:04.893654+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] molecular biology - biorXiv Preprints ▶ Operon-driven antagonism and novel modulation of DNA damage sensor STPK specific PP2C phosphatase in Deinococcus radiodurans</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>This study identifies a novel operon driven signaling module in Deinococcus radiodurans. The operon includes a von Willebrand A domain protein (DRA0331), a Ser/Thr protein kinase (DRA0332), a canonica</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> A Deinococcus radiodurans operon encodes an FHA–STPK–PP2C signaling module where an FHA protein enhances kinase phosphorylation and a KI-FHA–PP2C phosphatase counteracts it to tune DNA damage–responsive stress recovery, offering indirect astrobiology relevance via mechanisms of extreme radiation tolerance.</p>
+<p><strong>Abstract:</strong> This study identifies a novel operon driven signaling module in Deinococcus radiodurans. The operon includes a von Willebrand A domain protein (DRA0331), a Ser/Thr protein kinase (DRA0332), a canonical FHA-domain protein (DRA0333), and a PP2C-type phosphatase (DRA0334). DRA0334 shows Manganese-dependent phosphatase activity and has a unique dual domain structure that combines a Kinase-Interacting FHA (KI-FHA) domain with a PP2C catalytic domain. Functional assays show that FHA domain protein, DRA0333 boosts the phosphorylation of STPKs like RqkA and DR1243 while operonic partner PP2C-type phosphatase, DRA0334 counteracts this through targeted dephosphorylation, establishing a phospho-regulatory antagonism. Notably, the KI-FHA domain of the DRA0334 phosphatase competitively interacts with the FHA domain to modulate the radiation-responsive RqkA kinase, thereby maintaining kinase-phosphatase balance. This KI-FHA domain also imparts substrate specificity and enables feedback regulation. Additionally, DRA0334 modular variants confirm separate roles of catalytic and docking modules, and STRING analyses link DRA0334 functions to DNA repair and stress recovery. Collectively, the findings suggest an operonic connection between DRA0333 and DRA0334, indicating that the KI-FHA and FHA domains may act as phospho-docking switches. These switches can regulate both kinase and phosphatase activities in a push and pull regulatory mechanism within the phosphorylation-dephosphorylation cycle of signal transduction, depending on their association with the type of catalytic domain.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ Histology-Aware Graph for Modeling Intercellular Communication in Spatial Transcriptomics</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Cell-cell communication (CCC) is essential to how life forms and functions. Recent tools achieve single-cell-resolved CCC inference utilizing spatial transcriptomics (ST). However, most ignore the mod</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Introduces HARMONIC, a histology-aware graph method that combines spatial transcriptomics with H&amp;E imaging to reduce false CCC inferences by incorporating tissue context, but it is only tangentially relevant to Origins of Life.</p>
+<p><strong>Abstract:</strong> Cell-cell communication (CCC) is essential to how life forms and functions. Recent tools achieve single-cell-resolved CCC inference utilizing spatial transcriptomics (ST). However, most ignore the modeling of tissue contexts surrounding cells, causing high false-positive/negative rates. Here, we propose HARMONIC, a CCC inference method integrating multimodal ST and hematoxylin and eosin (H&amp;E)-stained images. HARMONIC causally modeling the transcriptomic-to-contextual relationships for CCC inference. The state-of-the-art performance was verified across ST platforms, species and healthy/diseased status, on both synthetic and biological samples. HARMONIC was applied in various real-world scenarios, especially on tissues with clear morphological boundaries, including cortical layers in mouse brain, medullary-cortex structures in mouse kidney, as well as tumor-stromal/immune interface. Significant refinement of false-positive/negative predictions was observed compared to ST-only CCC tools.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] PLOS Computational Biology ▶ How do tumor-associated neutrophils regulate the microenvironmental landscape of brain tumors: Delivery of nano-particles through BBB</title>
     <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013906"/>
