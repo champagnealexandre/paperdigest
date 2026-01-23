@@ -1,5 +1,37 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 12 | [Doubling dolutegravir dosage reduces the viral reservoir in ](https://elifesciences.org/articles/106931) |
+| ai_scored | 5 | [HIV-specific CD8+ T-cell proliferative response 24 weeks aft](https://elifesciences.org/articles/106402) |
+| ai_scored | 50 | [Engineering the electronic properties of DNA](https://www.nature.com/articles/s41557-026-02066-0) |
+| ai_scored | 5 | [Forensic science meets ancient art—inside the quest for Leon](https://www.scientificamerican.com/podcast/episode/forensic-science-meets-ancient-art-inside-the-quest-for-leonardo-da-vincis/) |
+| ai_scored | 10 | [The IBEX knowledge-base a community resource enabling adopti](https://elifesciences.org/articles/105737) |
+| keyword_rejected | - | [Rares moments de joie à Kaboul après les premières chutes de](https://www.sciencesetavenir.fr/nature-environnement/rares-moments-de-joie-a-kaboul-apres-les-premieres-chutes-de-neige-hivernales_190549?xtor=RSS-15) |
+| keyword_rejected | - | ["Adorable" : les femelles jaguars sauvages et leurs petits m](https://www.sciencesetavenir.fr/animaux/grands-mammiferes/c-est-vraiment-adorable-les-femelles-jaguars-sauvages-et-leurs-petits-miaulent-pour-communiquer_190512?xtor=RSS-26) |
+| keyword_rejected | - | [Pinning extreme weather on climate change: Best ideas of the](https://www.newscientist.com/article/2508819-pinning-extreme-weather-on-climate-change-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [A revolution in how we do chemistry: Best ideas of the centu](https://www.newscientist.com/article/2508420-a-revolution-in-how-we-do-chemistry-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Filming the universe’s biggest dramas: Best ideas of the cen](https://www.newscientist.com/article/2508569-filming-the-universes-biggest-dramas-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [There’s no such thing as a normal brain: Best ideas of the c](https://www.newscientist.com/article/2508317-theres-no-such-thing-as-a-normal-brain-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The one innovation that supercharged AI: Best ideas of the c](https://www.newscientist.com/article/2510604-the-one-innovation-that-supercharged-ai-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Pinning extreme weather on climate change: Best ideas of the](https://www.newscientist.com/article/2508819-pinning-extreme-weather-on-climate-change-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [A revolution in how we do chemistry: Best ideas of the centu](https://www.newscientist.com/article/2508420-a-revolution-in-how-we-do-chemistry-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Filming the universe’s biggest dramas: Best ideas of the cen](https://www.newscientist.com/article/2508569-filming-the-universes-biggest-dramas-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [There’s no such thing as a normal brain: Best ideas of the c](https://www.newscientist.com/article/2508317-theres-no-such-thing-as-a-normal-brain-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The one innovation that supercharged AI: Best ideas of the c](https://www.newscientist.com/article/2510604-the-one-innovation-that-supercharged-ai-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Pinning extreme weather on climate change: Best ideas of the](https://www.newscientist.com/article/2508819-pinning-extreme-weather-on-climate-change-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [A revolution in how we do chemistry: Best ideas of the centu](https://www.newscientist.com/article/2508420-a-revolution-in-how-we-do-chemistry-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Filming the universe’s biggest dramas: Best ideas of the cen](https://www.newscientist.com/article/2508569-filming-the-universes-biggest-dramas-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [There’s no such thing as a normal brain: Best ideas of the c](https://www.newscientist.com/article/2508317-theres-no-such-thing-as-a-normal-brain-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The one innovation that supercharged AI: Best ideas of the c](https://www.newscientist.com/article/2510604-the-one-innovation-that-supercharged-ai-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [What’s the biggest explosion in the universe?](https://www.scientificamerican.com/article/whats-the-biggest-explosion-in-the-universe/) |
+| keyword_rejected | - | [This is the most complete skeleton yet of our ancestor Homo ](https://www.scientificamerican.com/article/this-is-the-most-complete-skeleton-yet-of-our-ancestor-homo-habilis/) |
+| keyword_rejected | - | [A detection of sulfur-bearing cyclic hydrocarbons in space](https://www.nature.com/articles/s41550-025-02749-7) |
+| keyword_rejected | - | [Author Correction: SOX2 drives esophageal squamous carcinoma](https://www.nature.com/articles/s41467-026-68461-w) |
+| keyword_rejected | - | [RoboA reinforces planarian stem cell fate through FoxA and A](https://www.nature.com/articles/s41467-026-68656-1) |
+| keyword_rejected | - | [Improving polygenic score prediction for underrepresented gr](https://www.nature.com/articles/s41467-026-68696-7) |
+| keyword_rejected | - | [Collective asymmetric synthesis of the <i>Strychnos</i> alka](https://www.nature.com/articles/s41557-025-02041-1) |
+| keyword_rejected | - | [Managing electrolyte flow boosts the efficiency of continuou](https://www.nature.com/articles/s41467-026-68738-0) |
+| keyword_rejected | - | [Atomically tweaking spin-crossover cooperativity to augment ](https://www.nature.com/articles/s41467-026-68796-4) |
+| keyword_rejected | - | [This 2.6-million-year-old jawbone changes the human story](https://www.sciencedaily.com/releases/2026/01/260122073622.htm) |
 | ai_scored | 5 | [A Course-Undergraduate Research Experience (CURE) to explore](https://www.biorxiv.org/content/10.64898/2026.01.21.700799v1?rss=1) |
 | ai_scored | 47 | [Mutations in filamentous bacteriophages spark eco-evolutiona](https://www.biorxiv.org/content/10.64898/2026.01.21.699487v1?rss=1) |
 | ai_scored | 5 | [SpaceX’s Starlink dodged 300,000 satellite collisions in 202](https://www.newscientist.com/article/2512470-spacexs-starlink-dodged-300000-satellite-collisions-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

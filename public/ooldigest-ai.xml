@@ -3,8 +3,103 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T12:39:13.574925+00:00</updated>
+  <updated>2026-01-23T13:40:10.358540+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] eLife - recent issues ▶ The IBEX knowledge-base a community resource enabling adoption and development of immunofluorescence imaging methods</title>
+    <link href="https://elifesciences.org/articles/105737"/>
+    <id>https://elifesciences.org/articles/105737</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>The iterative bleaching extends multiplexity (IBEX) Knowledge-Base is a central portal for researchers adopting IBEX and related 2D and 3D immunofluorescence imaging methods. The design of the Knowled</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, life</p>
+<p><strong>AI Decision:</strong> Describes an open, community-maintained knowledge-base to standardize and accelerate adoption of IBEX multiplex immunofluorescence imaging via shared protocols, validation/negative reagent data, datasets, and discussion forums.</p>
+<p><strong>Abstract:</strong> The iterative bleaching extends multiplexity (IBEX) Knowledge-Base is a central portal for researchers adopting IBEX and related 2D and 3D immunofluorescence imaging methods. The design of the Knowledge-Base is modeled after efforts in the open-source software community and includes three facets: a development platform (GitHub), static website, and service for data archiving. The Knowledge-Base facilitates the practice of open science throughout the research life cycle by providing validation data for recommended and non-recommended reagents, such as primary and secondary antibodies. In addition to reporting negative data, the Knowledge-Base empowers method adoption and evolution by providing a venue for sharing protocols, videos, datasets, software, and publications. A dedicated discussion forum fosters a sense of community among researchers while addressing questions not covered in published manuscripts. Together, scientists from around the world are advancing scientific discovery at a faster pace, reducing wasted time and effort, and instilling greater confidence in the resulting data.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1038/s41587-022-01275-5">https://doi.org/10.1038/s41587-022-01275-5</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/26399630">https://www.ncbi.nlm.nih.gov/pubmed/26399630</a></li>
+<li><a href="https://reddit.com/submit/?title=The%20IBEX%20knowledge-base%20a%20community%20resource%20enabling%20adoption%20and%20development%20of%20immunofluorescence%20imaging%20methods&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.105737.3">https://reddit.com/submit/?title=The%20IBEX%20knowledge-base%20a%20community%20resource%20enabling%20adoption%20and%20development%20of%20immunofluorescence%20imaging%20methods&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.105737.3</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/29181613">https://www.ncbi.nlm.nih.gov/pubmed/29181613</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/17703338">https://www.ncbi.nlm.nih.gov/pubmed/17703338</a></li>
+<li><a href="https://doi.org/10.1038/s41592-023-01846-7">https://doi.org/10.1038/s41592-023-01846-7</a></li>
+<li><a href="https://doi.org/10.1177/1745691612464056">https://doi.org/10.1177/1745691612464056</a></li>
+<li><a href="https://doi.org/10.1038/ncomms9390">https://doi.org/10.1038/ncomms9390</a></li>
+<li><a href="https://doi.org/10.35802/224586">https://doi.org/10.35802/224586</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2503.23278">https://doi.org/10.48550/arXiv.2503.23278</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/105737">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] Scientific American ▶ Forensic science meets ancient art—inside the quest for Leonardo da Vinci’s DNA</title>
+    <link href="https://www.scientificamerican.com/podcast/episode/forensic-science-meets-ancient-art-inside-the-quest-for-leonardo-da-vincis/"/>
+    <id>https://www.scientificamerican.com/podcast/episode/forensic-science-meets-ancient-art-inside-the-quest-for-leonardo-da-vincis/</id>
+    <updated>2026-01-23T11:00:00Z</updated>
+    <summary>Researchers are using cutting‑edge DNA techniques to hunt for genetic evidence in centuries‑old artworks in an effort to better understand the genius of Leonardo da Vinci</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> An applied forensic-genomics effort to recover Leonardo da Vinci’s DNA from centuries-old artworks, with little direct relevance to origins-of-life research beyond general DNA methodology.</p>
+<p><strong>Abstract:</strong> Researchers are using cutting‑edge DNA techniques to hunt for genetic evidence in centuries‑old artworks in an effort to better understand the genius of Leonardo da Vinci</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.scientificamerican.com/podcast/episode/forensic-science-meets-ancient-art-inside-the-quest-for-leonardo-da-vincis/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Nature Chemistry ▶ Engineering the electronic properties of DNA</title>
+    <link href="https://www.nature.com/articles/s41557-026-02066-0"/>
+    <id>https://www.nature.com/articles/s41557-026-02066-0</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Nature Chemistry, Published online: 23 January 2026; doi:10.1038/s41557-026-02066-0 Guidelines for modifying charge transport in DNA are deduced from a series of conductance experiments aimed at explo</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Conductance experiments reveal nearest-neighbour base-pair rules that enable designing 20-bp DNA sequences with unexpectedly high charge transport, offering broad-context insight into nucleic-acid electronic behavior relevant to biomolecular function rather than core origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Nature Chemistry, Published online: 23 January 2026; doi:10.1038/s41557-026-02066-0 Guidelines for modifying charge transport in DNA are deduced from a series of conductance experiments aimed at exploring the effects of nearest-neighbour base pair interactions on the electronic properties. From these rules, 20-base-pair DNA sequences are designed that maintain high conductance despite their length.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41557-026-02066-0">https://www.nature.com/articles/s41557-026-02066-0</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41557-026-02066-0">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] eLife - recent issues ▶ HIV-specific CD8+ T-cell proliferative response 24 weeks after early antiretroviral therapy initiation is associated with the subsequent reduction in the viral reservoir</title>
+    <link href="https://elifesciences.org/articles/106402"/>
+    <id>https://elifesciences.org/articles/106402</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Antiretroviral therapy (ART) initiated in the acute phase of HIV infection (AHI) results in a smaller viral reservoir. However, the impact of early HIV-specific T-cell responses on long-term reservoir</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> In acutely infected HIV patients started on early ART, stronger HIV-specific CD8+ T-cell proliferative capacity at 24 weeks predicts greater subsequent decline in total/defective HIV DNA reservoir over 3 years, supporting early immune reinforcement in cure strategies.</p>
+<p><strong>Abstract:</strong> Antiretroviral therapy (ART) initiated in the acute phase of HIV infection (AHI) results in a smaller viral reservoir. However, the impact of early HIV-specific T-cell responses on long-term reservoir dynamics is less well characterized. Therefore, we measured the size of the viral reservoir and functionality of HIV-specific CD8+ T-cell responses after the acute phase at 24 and 156 weeks after ART initiation in people with HIV who started treatment during AHI. A significant reduction in total and defective HIV DNA and a trend toward a reduction in intact HIV DNA were observed between 24 and 156 weeks. Functional CD8+ T-cell responses against HIV peptides Env, Gag, Nef, and Pol were maintained over 3 years after treatment initiation. The proliferative capacity of HIV-specific CD8+ T-cells at 24 weeks of ART was predictive of the degree of reduction in total and defective HIV DNA between 24 and 156 weeks, suggesting HIV-specific CD8+ T-cells may at least partially drive the decline of the viral reservoir. Therefore, enforcing HIV-specific immune responses as early as possible after diagnosis of AHI should be a central focus of HIV cure strategies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/32848246">https://www.ncbi.nlm.nih.gov/pubmed/32848246</a></li>
+<li><a href="https://doi.org/10.7554/eLife.106402.3.sa0">https://doi.org/10.7554/eLife.106402.3.sa0</a></li>
+<li><a href="https://toot.kytta.dev/?text=HIV-specific%20CD8%2B%20T-cell%20proliferative%20response%2024%20weeks%20after%20early%20antiretroviral%20therapy%20initiation%20is%20associated%20with%20the%20subsequent%20reduction%20in%20the%20viral%20reservoir%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106402">https://toot.kytta.dev/?text=HIV-specific%20CD8%2B%20T-cell%20proliferative%20response%2024%20weeks%20after%20early%20antiretroviral%20therapy%20initiation%20is%20associated%20with%20the%20subsequent%20reduction%20in%20the%20viral%20reservoir%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106402</a></li>
+<li><a href="https://doi.org/10.1001/jama.2010.925">https://doi.org/10.1001/jama.2010.925</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/28501495">https://www.ncbi.nlm.nih.gov/pubmed/28501495</a></li>
+<li><a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106402">https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106402</a></li>
+<li><a href="https://doi.org/10.1128/JCM.43.4.1851-1857.2005">https://doi.org/10.1128/JCM.43.4.1851-1857.2005</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/31118290">https://www.ncbi.nlm.nih.gov/pubmed/31118290</a></li>
+<li><a href="https://doi.org/10.1097/QAD.0000000000004160">https://doi.org/10.1097/QAD.0000000000004160</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/16467198">https://www.ncbi.nlm.nih.gov/pubmed/16467198</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/106402">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [12] eLife - recent issues ▶ Doubling dolutegravir dosage reduces the viral reservoir in ART-treated people with HIV</title>
+    <link href="https://elifesciences.org/articles/106931"/>
+    <id>https://elifesciences.org/articles/106931</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Whether antiretroviral therapy (ART) is always completely suppressive, or HIV might continue to replicate at low levels despite ART in some people with HIV (PWH), is still debated. Here, we intensifie</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> A small phase 2 trial found that doubling dolutegravir dosing for 84 days in long-term ART-suppressed people with HIV reduced blood HIV DNA and cell-associated HIV RNA measures of the viral reservoir, implying residual replication under standard dosing.</p>
+<p><strong>Abstract:</strong> Whether antiretroviral therapy (ART) is always completely suppressive, or HIV might continue to replicate at low levels despite ART in some people with HIV (PWH), is still debated. Here, we intensified the ART regimen by doubling dolutegravir (DTG) dosage and investigated the impact of this strategy on HIV blood and tissue reservoirs, immune activation, and inflammation. Twenty HIV-infected adults, who had received a triple ART consisting of 50 mg DTG/600 mg abacavir/300 mg lamivudine pre-intensification and had been suppressed on ART for at least 2 years, were enrolled in a phase 2 randomized clinical trial ( https://clinicaltrials.gov/ identifier: NCT05351684). Half of them received an additional 50 mg of DTG for a period of 84 days. As expected, plasma and tissue DTG concentrations significantly increased during the study period in the intensified group but not in the control group. Accordingly, significant decreases in total HIV DNA, intact HIV DNA, and cell-associated unspliced (US) HIV RNA in peripheral blood mononuclear cells, as well as in the US RNA/total DNA ratio, were observed in the intensified group but not in the control group. Intensification also modestly reduced markers of immune activation and exhaustion but had no measurable impact on systemic or tissue inflammation. Together with this, intensification resulted in a temporary decrease in the CD4/CD8 ratio that returned to baseline by day 84. Our results strongly suggest that the pre-intensification ART regimen was not completely suppressive. If confirmed in larger clinical trials, these results could have an impact on the clinical management of PWH and HIV curative strategies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1128/JVI.01589-17">https://doi.org/10.1128/JVI.01589-17</a></li>
+<li><a href="https://doi.org/10.7554/eLife.106931">https://doi.org/10.7554/eLife.106931</a></li>
+<li><a href="https://doi.org/10.1128/JCM.43.4.1851-1857.2005">https://doi.org/10.1128/JCM.43.4.1851-1857.2005</a></li>
+<li><a href="https://doi.org/10.1002/cpt.1883">https://doi.org/10.1002/cpt.1883</a></li>
+<li><a href="https://toot.kytta.dev/?text=Doubling%20dolutegravir%20dosage%20reduces%20the%20viral%20reservoir%20in%20ART-treated%20people%20with%20HIV%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106931">https://toot.kytta.dev/?text=Doubling%20dolutegravir%20dosage%20reduces%20the%20viral%20reservoir%20in%20ART-treated%20people%20with%20HIV%20https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106931</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/10330433">https://www.ncbi.nlm.nih.gov/pubmed/10330433</a></li>
+<li><a href="https://doi.org/10.1086/527324">https://doi.org/10.1086/527324</a></li>
+<li><a href="https://doi.org/10.7554/eLife.68174">https://doi.org/10.7554/eLife.68174</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/29142136">https://www.ncbi.nlm.nih.gov/pubmed/29142136</a></li>
+<li><a href="https://doi.org/10.1097/QAD.0000000000000810">https://doi.org/10.1097/QAD.0000000000000810</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/106931">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] New Scientist - Life ▶ SpaceX’s Starlink dodged 300,000 satellite collisions in 2025</title>
     <link href="https://www.newscientist.com/article/2512470-spacexs-starlink-dodged-300000-satellite-collisions-in-2025/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
