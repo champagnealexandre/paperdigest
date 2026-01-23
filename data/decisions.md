@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Deciphering chromosome fusion in D. miranda's neo-sex chromo](https://www.biorxiv.org/content/10.64898/2026.01.20.700498v1?rss=1) |
+| ai_scored | 5 | [MicroRNA regulatory targets of VO2peak in older adult partic](https://www.biorxiv.org/content/10.64898/2026.01.19.700188v1?rss=1) |
+| ai_scored | 5 | [Soft tissue morphology of the vomeronasal organ in Lontra ca](https://www.biorxiv.org/content/10.64898/2026.01.19.700381v1?rss=1) |
+| ai_scored | 5 | [Hydrogen-bonding changes cause differences in imipenem break](https://www.biorxiv.org/content/10.64898/2026.01.20.700306v1?rss=1) |
+| keyword_rejected | - | [NIH ends support for some human fetal-tissue research – dism](https://www.nature.com/articles/d41586-026-00251-2) |
+| keyword_rejected | - | [Marvellous microbes, memory and the multiverse: Books in bri](https://www.nature.com/articles/d41586-026-00241-4) |
+| keyword_rejected | - | [NASA head Isaacman tempers Artemis praise with ideas on the ](https://phys.org/news/2026-01-nasa-isaacman-tempers-artemis-ideas.html) |
+| keyword_rejected | - | [Structural characterization of metal binding in human tyrosy](https://www.nature.com/articles/s41598-026-37189-4) |
+| keyword_rejected | - | [Stable operation of a network-based multi-algorithm earthqua](https://www.nature.com/articles/s41598-026-36429-x) |
+| keyword_rejected | - | [Experimental and numerical investigation of elastic wave dis](https://www.nature.com/articles/s41598-026-36113-0) |
+| keyword_rejected | - | [The impact of <i>K</i> selection in <i>K</i>‑fold cross-vali](https://www.nature.com/articles/s41598-026-37247-x) |
+| keyword_rejected | - | [Culturable and unculturable periodontal microorganisms in no](https://www.nature.com/articles/s41598-026-36829-z) |
+| keyword_rejected | - | [Epigenetic suppression of synovial inflammation and osteocla](https://www.nature.com/articles/s41598-026-36645-5) |
+| keyword_rejected | - | [The extent of myeloid skewing in blood is a biomarker of bio](https://www.biorxiv.org/content/10.64898/2026.01.20.700344v1?rss=1) |
+| keyword_rejected | - | [A non-canonical EZH2/TRIM28 epigenetic axis drives heparan s](https://www.biorxiv.org/content/10.64898/2026.01.21.700969v1?rss=1) |
+| keyword_rejected | - | [High-Affinity Protein Binder Design via Flow Matching and In](https://www.biorxiv.org/content/10.64898/2026.01.19.700484v1?rss=1) |
+| keyword_rejected | - | [Remote and Independent Detection of Human Stress Using Sweat](https://www.biorxiv.org/content/10.64898/2026.01.21.700962v1?rss=1) |
+| keyword_rejected | - | [Nearest Neighbour Interactions between Amino Acid Residues i](https://www.biorxiv.org/content/10.64898/2026.01.19.700493v1?rss=1) |
+| keyword_rejected | - | [Use of Substrate Analogues and X-ray spectroscopy Reveals an](https://www.biorxiv.org/content/10.64898/2026.01.21.700957v1?rss=1) |
+| keyword_rejected | - | [Computational pipeline reveals nature's untapped reservoir o](https://www.biorxiv.org/content/10.64898/2026.01.20.700248v1?rss=1) |
+| keyword_rejected | - | [2D spatial tissue analysis often misrepresents true biologic](https://www.biorxiv.org/content/10.64898/2026.01.21.700966v1?rss=1) |
 | ai_scored | 5 | [Widespread Regulatory Turnover Across Human Segmental Duplic](https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1) |
 | ai_scored | 35 | [Ancient bacterium discovery rewrites the origins of syphilis](https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 50 | [Ancient bacterium discovery rewrites the origins of syphilis](https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
