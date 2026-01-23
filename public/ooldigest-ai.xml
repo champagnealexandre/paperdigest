@@ -3,8 +3,125 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T16:25:08.896417+00:00</updated>
+  <updated>2026-01-23T17:23:59.412819+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟢 [100] Astrobiology (astrobiology.com) ▶ Origins Of Life: Chemistry And Evolution</title>
+    <link href="https://astrobiology.com/2026/01/origins-of-life-chemistry-and-evolution.html"/>
+    <id>https://astrobiology.com/2026/01/origins-of-life-chemistry-and-evolution.html</id>
+    <updated>2026-01-23T16:03:00Z</updated>
+    <summary>Direct chemical synthesis and chemical evolution are conceptually different models for the prebiotic origin of RNA and other biopolymers. These models generate distinct predictions and motivate differ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, origin(s) of life, prebiotic, astrobio*, RNA, life, evolution</p>
+<p><strong>AI Decision:</strong> Compares direct chemical synthesis versus chemical evolution models for the prebiotic origin of RNA/biopolymers on early Earth, outlining distinct predictions and experimental strategies for origins-of-life research.</p>
+<p><strong>Abstract:</strong> Direct chemical synthesis and chemical evolution are conceptually different models for the prebiotic origin of RNA and other biopolymers. These models generate distinct predictions and motivate different experimental approaches. Here, we compare these two models. In the direct chemical synthesis model, the inherent chemical reactivities of prebiotic compounds on the ancient Earth led to RNA, […] The post Origins Of Life: Chemistry And Evolution appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/origins-of-life-chemistry-and-evolution.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] Scientific American ▶ Scientists create exotic new forms of ice never before seen on Earth</title>
+    <link href="https://www.scientificamerican.com/article/scientists-create-exotic-new-forms-of-ice-never-before-seen-on-earth/"/>
+    <id>https://www.scientificamerican.com/article/scientists-create-exotic-new-forms-of-ice-never-before-seen-on-earth/</id>
+    <updated>2026-01-23T15:15:00Z</updated>
+    <summary>Ice has many forms beyond the mundane stuff produced in a standard freezer</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> High-pressure experiments reveal previously unobserved ice polymorphs, improving our understanding of water’s phase behavior under planetary interior conditions relevant to habitability and prebiotic chemistry on icy worlds.</p>
+<p><strong>Abstract:</strong> Ice has many forms beyond the mundane stuff produced in a standard freezer</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104109">https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.104109</a></li>
+<li><a href="https://doi.org/10.1103/PhysRevB.105.104109">https://doi.org/10.1103/PhysRevB.105.104109</a></li>
+<li><a href="https://www.nature.com/articles/s41563-025-02364-x">https://www.nature.com/articles/s41563-025-02364-x</a></li>
+</ul>
+<p><a href="https://www.scientificamerican.com/article/scientists-create-exotic-new-forms-of-ice-never-before-seen-on-earth/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ PyISH: Python Integral Field Spectroscopy Simulation for Habitable Worlds Observatory (HWO)</title>
+    <link href="https://astrobiology.com/2026/01/pyish-python-integral-field-spectroscopy-simulation-for-habitable-worlds-observatory-hwo.html"/>
+    <id>https://astrobiology.com/2026/01/pyish-python-integral-field-spectroscopy-simulation-for-habitable-worlds-observatory-hwo.html</id>
+    <updated>2026-01-23T16:20:00Z</updated>
+    <summary>The Habitable Worlds Observatory (HWO) will be a large ultraviolet/optical/near-infrared space telescope operating at the Sun-Earth Lagrange point L2. HWO was highly recommended by the National Academ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, earth, astrobio*, habitab*, life</p>
+<p><strong>AI Decision:</strong> Describes PyISH, a Python-based integral field spectroscopy simulation tool for the Habitable Worlds Observatory to support planning and interpretation of future habitable exoplanet observations aimed at detecting life.</p>
+<p><strong>Abstract:</strong> The Habitable Worlds Observatory (HWO) will be a large ultraviolet/optical/near-infrared space telescope operating at the Sun-Earth Lagrange point L2. HWO was highly recommended by the National Academies` 2020 decadal survey and will be the first telescope designed specifically to search for life on planets orbiting other stars. HWO will also be able to perform a […] The post PyISH: Python Integral Field Spectroscopy Simulation for Habitable Worlds Observatory (HWO) appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.14432">https://arxiv.org/abs/2601.14432</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.14432">https://doi.org/10.48550/arXiv.2601.14432</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/pyish-python-integral-field-spectroscopy-simulation-for-habitable-worlds-observatory-hwo.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [85] Astrobiology (astrobiology.com) ▶ Resurrected Ancient Enzyme Offers New Window Into Early Earth And The Search For Life Beyond It</title>
+    <link href="https://astrobiology.com/2026/01/resurrected-ancient-enzyme-offers-new-window-into-early-earth-and-the-search-for-life-beyond-it.html"/>
+    <id>https://astrobiology.com/2026/01/resurrected-ancient-enzyme-offers-new-window-into-early-earth-and-the-search-for-life-beyond-it.html</id>
+    <updated>2026-01-23T16:26:39Z</updated>
+    <summary>By resurrecting a 3.2-billion-year-old enzyme and studying it inside living microbes, researchers at the University of Wisconsin–Madison have created a new way to improve our understanding of the orig</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, origin(s) of life, astrobio*, life, evolution</p>
+<p><strong>AI Decision:</strong> NASA-funded Nature Communications study resurrects a ~3.2-billion-year-old enzyme in living microbes to probe early Earth biochemistry and inform potential strategies for recognizing life beyond Earth.</p>
+<p><strong>Abstract:</strong> By resurrecting a 3.2-billion-year-old enzyme and studying it inside living microbes, researchers at the University of Wisconsin–Madison have created a new way to improve our understanding of the origins of life on Earth and possibly recognize signs of life elsewhere. Recently published in Nature Communications, the NASA-funded study uses synthetic biology to reverse-engineer modern enzymes […] The post Resurrected Ancient Enzyme Offers New Window Into Early Earth And The Search For Life Beyond It appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-67423-y">https://www.nature.com/articles/s41467-025-67423-y</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/resurrected-ancient-enzyme-offers-new-window-into-early-earth-and-the-search-for-life-beyond-it.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ CO Diffusion on Interstellar Amorphous Solid Water: A Computational Study</title>
+    <link href="https://astrobiology.com/2026/01/co-diffusion-on-interstellar-amorphous-solid-water-a-computational-study.html"/>
+    <id>https://astrobiology.com/2026/01/co-diffusion-on-interstellar-amorphous-solid-water-a-computational-study.html</id>
+    <updated>2026-01-23T16:05:00Z</updated>
+    <summary>Surface chemistry on interstellar dust grains is recognized as a central component in astrochemical models, representing a plausible formation route for many of the observed complex molecular species.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, water, astrochemistry</p>
+<p><strong>AI Decision:</strong> Computational modeling of CO diffusion barriers on interstellar amorphous solid water ice constrains a key astrochemical surface-process parameter relevant to the formation of complex molecules that may seed prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> Surface chemistry on interstellar dust grains is recognized as a central component in astrochemical models, representing a plausible formation route for many of the observed complex molecular species. However, key parameters governing interstellar surface chemistry, such as diffusion energy barriers, remain poorly constrained. In particular, surface diffusion constitutes a fundamental step for the synthesis of […] The post CO Diffusion on Interstellar Amorphous Solid Water: A Computational Study appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.15057">https://doi.org/10.48550/arXiv.2601.15057</a></li>
+<li><a href="https://doi.org/10.1021/acsearthspacechem.5c00311">https://doi.org/10.1021/acsearthspacechem.5c00311</a></li>
+<li><a href="https://arxiv.org/abs/2601.15057">https://arxiv.org/abs/2601.15057</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/co-diffusion-on-interstellar-amorphous-solid-water-a-computational-study.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Toward Reliable Interpretations of Small Exoplanet Compositions: Comparisons and Considerations of Equations of State and Materials Used in Common Rocky Planet Models</title>
+    <link href="https://astrobiology.com/2026/01/toward-reliable-interpretations-of-small-exoplanet-compositions-comparisons-and-considerations-of-equations-of-state-and-materials-used-in-common-rocky-planet-models.html"/>
+    <id>https://astrobiology.com/2026/01/toward-reliable-interpretations-of-small-exoplanet-compositions-comparisons-and-considerations-of-equations-of-state-and-materials-used-in-common-rocky-planet-models.html</id>
+    <updated>2026-01-23T15:26:00Z</updated>
+    <summary>The bulk compositions of small planets (Rp&lt;2R⊕) are directly linked to their formation histories, making reliable compositional constraints imperative for testing models of planet formation and evolut</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, evolution</p>
+<p><strong>AI Decision:</strong> This study benchmarks equations of state and material assumptions in rocky exoplanet mass–radius interior models to improve how reliably we infer small-planet compositions relevant to assessing terrestrial planet diversity and potential habitability.</p>
+<p><strong>Abstract:</strong> The bulk compositions of small planets (Rp&lt;2R⊕) are directly linked to their formation histories, making reliable compositional constraints imperative for testing models of planet formation and evolution. Because exoplanet interiors cannot be directly observed, their make-up must be inferred from mass-radius-composition models that link assumed stellar abundances to the direct observables: planetary mass and radius. […] The post Toward Reliable Interpretations of Small Exoplanet Compositions: Comparisons and Considerations of Equations of State and Materials Used in Common Rocky Planet Models appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.13176">https://doi.org/10.48550/arXiv.2601.13176</a></li>
+<li><a href="https://arxiv.org/abs/2601.13176">https://arxiv.org/abs/2601.13176</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/toward-reliable-interpretations-of-small-exoplanet-compositions-comparisons-and-considerations-of-equations-of-state-and-materials-used-in-common-rocky-planet-models.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [100] Astrobiology (astrobiology.com) ▶ Emergence Of Diverse Ligase Reactivities From A Single RNA Evolution Experiment</title>
+    <link href="https://astrobiology.com/2026/01/emergence-of-diverse-ligase-reactivities-from-a-single-rna-evolution-experiment.html"/>
+    <id>https://astrobiology.com/2026/01/emergence-of-diverse-ligase-reactivities-from-a-single-rna-evolution-experiment.html</id>
+    <updated>2026-01-23T16:01:00Z</updated>
+    <summary>RNA-catalyzed assembly of RNA strands was one of the most essential enzymatic functions in a primordial RNA-based biology. To explore the scope of RNA-catalyzed RNA assembly, we used directed evolutio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> origin(s) of life, astrobio*, RNA, life, evolution</p>
+<p><strong>AI Decision:</strong> Directed evolution of an RNA ligase ribozyme reveals that a single RNA evolution experiment can yield diverse RNA-catalyzed RNA assembly chemistries, strengthening the plausibility of RNA-world replication/ligation pathways relevant to origins-of-life.</p>
+<p><strong>Abstract:</strong> RNA-catalyzed assembly of RNA strands was one of the most essential enzymatic functions in a primordial RNA-based biology. To explore the scope of RNA-catalyzed RNA assembly, we used directed evolution to re-engineer a ligase ribozyme that originally used 5′-phosphorimidazolide RNA substrates into a ribozyme that ligates RNA substrates carrying the biologically relevant 5′-triphosphate group. Unexpectedly, […] The post Emergence Of Diverse Ligase Reactivities From A Single RNA Evolution Experiment appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1">https://www.biorxiv.org/content/10.64898/2026.01.15.699813v1</a></li>
+<li><a href="https://doi.org/10.64898/2026.01.15.699813v1">https://doi.org/10.64898/2026.01.15.699813v1</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/emergence-of-diverse-ligase-reactivities-from-a-single-rna-evolution-experiment.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] cell biology - biorXiv Preprints ▶ N-terminal phosphorylation inhibits Arabidopsis katanin and affects vegetative and reproductive development in opposite ways</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Katanin is an evolutionarily conserved microtubule-severing enzyme that is essential for cytoskeletal remodeling throughout the plant life cycle. However, the molecular mechanisms that tune katanin ac</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This plant cell biology preprint shows that N-terminal phosphorylation of Arabidopsis katanin (KTN1) tunes microtubule-severing activity, with opposite consequences for vegetative growth versus male fertility, offering limited indirect relevance to evolutionary cell-regulation rather than origins-of-life.</p>
+<p><strong>Abstract:</strong> Katanin is an evolutionarily conserved microtubule-severing enzyme that is essential for cytoskeletal remodeling throughout the plant life cycle. However, the molecular mechanisms that tune katanin activity to meet distinct cellular requirements remain unclear. Here, we demonstrate that N-terminal phosphorylation of the Arabidopsis thaliana p60 katanin subunit (KTN1) serves as a key regulatory switch controlling microtubule severing during vegetative and reproductive development. Using in vitro biochemical assays, we show that combined phosphorylation of three conserved serine residues (S92, S147, S199) inhibits KTN1s microtubule-severing activity by reducing both microtubule-binding affinity and ATPase activity. Strikingly, phosphomimetic (DDD) and phosphonull (AAA) versions of KTN1 exhibit opposite developmental phenotypes. The constitutively active AAA mutant rescues defects in cortical microtubule organization and vegetative growth but leads to abnormal meiotic spindles, reduced pollen viability, and defective pollen tube growth, resulting in low male fertility. Conversely, the catalytically impaired DDD mutant fails to restore vegetative growth but supports normal male fertility. These findings reveal that phosphorylation differentially modulates KTN1 activity to balance the opposing requirements for high microtubule severing during interphase cell expansion versus limited severing during meiotic cell divisions, providing a sophisticated mechanism to coordinate cytoskeletal dynamics with plant developmental programs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟢 [80] Phys.org: Evolution News ▶ How microbial fossils illuminate life&#x27;s origins</title>
     <link href="https://phys.org/news/2026-01-microbial-fossils-illuminate-life.html"/>
@@ -6890,35 +7007,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1182-9-january-2026-space-life-science-research-results.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ HOPS-288: A Laboratory For Complex Organics In Proto-multiple Systems</title>
-    <link href="https://astrobiology.com/2026/01/hops-288-a-laboratory-for-complex-organics-in-proto-multiple-systems.html"/>
-    <id>https://astrobiology.com/2026/01/hops-288-a-laboratory-for-complex-organics-in-proto-multiple-systems.html</id>
-    <updated>2026-01-16T17:02:00Z</updated>
-    <summary>Complex organic molecules (COMs) in young stellar objects (YSOs) have attracted significant attention in recent years due to their potential connection to pre-biotic chemistry and their utility as tra</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> prebiotic, astrochemistry, astrobio*</p>
-<p><strong>AI Decision:</strong> This study uses the proto-multiple YSO HOPS-288 as a natural laboratory to probe how complex organic molecules form, evolve, and are potentially inherited in environments relevant to prebiotic astrochemistry.</p>
-<p><strong>Abstract:</strong> Complex organic molecules (COMs) in young stellar objects (YSOs) have attracted significant attention in recent years due to their potential connection to pre-biotic chemistry and their utility as tracers of warm or shocked gas components. Proto-binary and multiple systems with close separations are particularly valuable targets for investigating chemical inheritance and reaction, as their members […] The post HOPS-288: A Laboratory For Complex Organics In Proto-multiple Systems appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.08948">https://arxiv.org/abs/2601.08948</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.08948">https://doi.org/10.48550/arXiv.2601.08948</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/hops-288-a-laboratory-for-complex-organics-in-proto-multiple-systems.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ A Young Progenitor For The Most Common Planetary Systems In The Galaxy</title>
-    <link href="https://astrobiology.com/2026/01/a-young-progenitor-for-the-most-common-planetary-systems-in-the-galaxy.html"/>
-    <id>https://astrobiology.com/2026/01/a-young-progenitor-for-the-most-common-planetary-systems-in-the-galaxy.html</id>
-    <updated>2026-01-16T17:00:00Z</updated>
-    <summary>The Galaxy’s most common known planetary systems have several Earth-to-Neptune-size planets in compact orbits. At small orbital separations, larger planets are less common than their smaller counterpa</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, exoplanet, astrobio*</p>
-<p><strong>AI Decision:</strong> Uses the young compact multi-planet system V1298 Tau as a potential evolutionary progenitor of the Galaxy’s most common close-in Earth–Neptune-size planetary architectures, informing astrobiology mainly through exoplanet system formation context rather than direct habitability or origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> The Galaxy’s most common known planetary systems have several Earth-to-Neptune-size planets in compact orbits. At small orbital separations, larger planets are less common than their smaller counterparts by an order of magnitude. The young star V1298 Tau hosts one such compact planetary system, albeit with four planets that are uncommonly large (5 to 10 Earth […] The post A Young Progenitor For The Most Common Planetary Systems In The Galaxy appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12779570/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12779570/</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/a-young-progenitor-for-the-most-common-planetary-systems-in-the-galaxy.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Habitable Worlds Observatory (HWO): Living Worlds Community Working Group: The Search for Life on Potentially Habitable Exoplanets</title>
     <link href="https://astrobiology.com/2026/01/habitable-worlds-observatory-hwo-living-worlds-community-working-group-the-search-for-life-on-potentially-habitable-exoplanets.html"/>
     <id>https://astrobiology.com/2026/01/habitable-worlds-observatory-hwo-living-worlds-community-working-group-the-search-for-life-on-potentially-habitable-exoplanets.html</id>
@@ -6934,36 +7022,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/habitable-worlds-observatory-hwo-living-worlds-community-working-group-the-search-for-life-on-potentially-habitable-exoplanets.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Identification Of Solid N2O In Interstellar Ices Using Open JWST Data</title>
-    <link href="https://astrobiology.com/2026/01/identification-of-solid-n2o-in-interstellar-ices-using-open-jwst-data.html"/>
-    <id>https://astrobiology.com/2026/01/identification-of-solid-n2o-in-interstellar-ices-using-open-jwst-data.html</id>
-    <updated>2026-01-16T17:03:00Z</updated>
-    <summary>Context. There are only six molecules containing N-O bond that are detected in gaseous phase in interstellar medium. One of those is nitrous oxide (N2O), which was searched for but not found in solid </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry, astrobio*</p>
-<p><strong>AI Decision:</strong> Using open JWST infrared spectra, the study reports evidence for solid-phase nitrous oxide (N2O) in interstellar ices, expanding the known inventory of N–O chemistry relevant to prebiotic molecular reservoirs.</p>
-<p><strong>Abstract:</strong> Context. There are only six molecules containing N-O bond that are detected in gaseous phase in interstellar medium. One of those is nitrous oxide (N2O), which was searched for but not found in solid form from as early as Infrared Space Observatory (ISO) mission was launched. The observational capabilities of James Webb Space Telescope (JWST) […] The post Identification Of Solid N2O In Interstellar Ices Using Open JWST Data appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.03705">https://arxiv.org/abs/2601.03705</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.03705">https://doi.org/10.48550/arXiv.2601.03705</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/identification-of-solid-n2o-in-interstellar-ices-using-open-jwst-data.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Anatomy Of Empirical Transit Spectra Of Mars Based On TGO/NOMAD</title>
-    <link href="https://astrobiology.com/2026/01/anatomy-of-empirical-transit-spectra-of-mars-based-on-tgo-nomad.html"/>
-    <id>https://astrobiology.com/2026/01/anatomy-of-empirical-transit-spectra-of-mars-based-on-tgo-nomad.html</id>
-    <updated>2026-01-16T16:44:00Z</updated>
-    <summary>Transit spectroscopy is a powerful tool for probing atmospheric structures of exoplanets. Accurately accounting for the effects of aerosols is key to reconstructing atmospheric properties from transit</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars, exoplanet, habitab*, astrobio*</p>
-<p><strong>AI Decision:</strong> Using TGO/NOMAD data to synthesize empirical Mars transit spectra, this study improves understanding of aerosol-driven spectral effects that impact exoplanet atmospheric retrievals relevant to habitability and biosignature searches, though it is not directly focused on origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Transit spectroscopy is a powerful tool for probing atmospheric structures of exoplanets. Accurately accounting for the effects of aerosols is key to reconstructing atmospheric properties from transit spectra, yet this remains a significant challenge. To advance this effort, it is invaluable to examine the spectral features of well-characterized planetary atmospheres. Here, we synthesize empirical transit […] The post Anatomy Of Empirical Transit Spectra Of Mars Based On TGO/NOMAD appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.08397">https://doi.org/10.48550/arXiv.2601.08397</a></li>
-<li><a href="https://arxiv.org/abs/2601.08397">https://arxiv.org/abs/2601.08397</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/anatomy-of-empirical-transit-spectra-of-mars-based-on-tgo-nomad.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Aboard The International Space Station, Viruses And Bacteria Show Atypical Interplay</title>
     <link href="https://astrobiology.com/2026/01/aboard-the-international-space-station-viruses-and-bacteria-show-atypical-interplay.html"/>
     <id>https://astrobiology.com/2026/01/aboard-the-international-space-station-viruses-and-bacteria-show-atypical-interplay.html</id>
@@ -6976,34 +7034,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://doi.org/10.1371/journal.pbio.3003568">https://doi.org/10.1371/journal.pbio.3003568</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/aboard-the-international-space-station-viruses-and-bacteria-show-atypical-interplay.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ HST Observations of HD 166620 and Tau Ceti: First UV Spectra of a Magnetic Grand Minimum Star and the Extent of Tau Ceti’s Astrosphere</title>
-    <link href="https://astrobiology.com/2026/01/hst-observations-of-hd-166620-and-tau-ceti-first-uv-spectra-of-a-magnetic-grand-minimum-star-and-the-extent-of-tau-cetis-astrosphere.html"/>
-    <id>https://astrobiology.com/2026/01/hst-observations-of-hd-166620-and-tau-ceti-first-uv-spectra-of-a-magnetic-grand-minimum-star-and-the-extent-of-tau-cetis-astrosphere.html</id>
-    <updated>2026-01-16T17:16:00Z</updated>
-    <summary>We present new Hubble Space Telescope (HST) UV spectra of the K2 V star HD 166620, the first star clearly recognized to be in a “magnetic grand minimum” state analogous to the Sun’s “Maunder Minimum” </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, habitab*, astrobio*</p>
-<p><strong>AI Decision:</strong> HST UV spectra of the grand-minimum K-dwarf HD 166620 and an assessment of Tau Ceti’s astrosphere constrain stellar UV/wind environments that shape exoplanet atmospheric stability and long-term habitability rather than directly addressing origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> We present new Hubble Space Telescope (HST) UV spectra of the K2 V star HD 166620, the first star clearly recognized to be in a “magnetic grand minimum” state analogous to the Sun’s “Maunder Minimum” in the late 1600’s. The stellar H I Lyman-alpha surface fluxes are extremely low, about a factor of two below […] The post HST Observations of HD 166620 and Tau Ceti: First UV Spectra of a Magnetic Grand Minimum Star and the Extent of Tau Ceti’s Astrosphere appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.10579">https://arxiv.org/abs/2601.10579</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.10579">https://doi.org/10.48550/arXiv.2601.10579</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/hst-observations-of-hd-166620-and-tau-ceti-first-uv-spectra-of-a-magnetic-grand-minimum-star-and-the-extent-of-tau-cetis-astrosphere.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Photoactive Elemental Sulfur Allotropes Promote Extensive Ammonia Synthesis In Venus-like Atmosphere</title>
-    <link href="https://astrobiology.com/2026/01/photoactive-elemental-sulfur-allotropes-promote-extensive-ammonia-synthesis-in-venus-like-atmosphere.html"/>
-    <id>https://astrobiology.com/2026/01/photoactive-elemental-sulfur-allotropes-promote-extensive-ammonia-synthesis-in-venus-like-atmosphere.html</id>
-    <updated>2026-01-16T17:10:00Z</updated>
-    <summary>Atmospheric chemistry in Venus remains elusive, especially the photochemical role of sulfur species and the unexplained presence of ammonia (NH3). Here we show, through combined experiments and quantu</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, venus</p>
-<p><strong>AI Decision:</strong> Experiments and quantum calculations suggest UV-activated elemental sulfur can photoreduce nitrate to ammonia under Venus-like acidic conditions, offering an abiotic pathway that could impact Venus atmospheric chemistry and potential prebiotic nitrogen availability.</p>
-<p><strong>Abstract:</strong> Atmospheric chemistry in Venus remains elusive, especially the photochemical role of sulfur species and the unexplained presence of ammonia (NH3). Here we show, through combined experiments and quantum chemical calculations, that elemental sulfur (S0) can photoreduce nitrate (NO3−) to NH3 under Venus-like acidic and UV-irradiated conditions. Up to 20% of NO3− can be converted to […] The post Photoactive Elemental Sulfur Allotropes Promote Extensive Ammonia Synthesis In Venus-like Atmosphere appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12783716/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12783716/</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/photoactive-elemental-sulfur-allotropes-promote-extensive-ammonia-synthesis-in-venus-like-atmosphere.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [N-terminal phosphorylation inhibits Arabidopsis katanin and ](https://www.biorxiv.org/content/10.64898/2026.01.20.700631v1?rss=1) |
+| ai_scored | 100 | [Emergence Of Diverse Ligase Reactivities From A Single RNA E](https://astrobiology.com/2026/01/emergence-of-diverse-ligase-reactivities-from-a-single-rna-evolution-experiment.html) |
+| ai_scored | 50 | [Toward Reliable Interpretations of Small Exoplanet Compositi](https://astrobiology.com/2026/01/toward-reliable-interpretations-of-small-exoplanet-compositions-comparisons-and-considerations-of-equations-of-state-and-materials-used-in-common-rocky-planet-models.html) |
+| ai_scored | 65 | [CO Diffusion on Interstellar Amorphous Solid Water: A Comput](https://astrobiology.com/2026/01/co-diffusion-on-interstellar-amorphous-solid-water-a-computational-study.html) |
+| ai_scored | 85 | [Resurrected Ancient Enzyme Offers New Window Into Early Eart](https://astrobiology.com/2026/01/resurrected-ancient-enzyme-offers-new-window-into-early-earth-and-the-search-for-life-beyond-it.html) |
+| ai_scored | 60 | [PyISH: Python Integral Field Spectroscopy Simulation for Hab](https://astrobiology.com/2026/01/pyish-python-integral-field-spectroscopy-simulation-for-habitable-worlds-observatory-hwo.html) |
+| ai_scored | 60 | [Scientists create exotic new forms of ice never before seen ](https://www.scientificamerican.com/article/scientists-create-exotic-new-forms-of-ice-never-before-seen-on-earth/) |
+| ai_scored | 100 | [Origins Of Life: Chemistry And Evolution](https://astrobiology.com/2026/01/origins-of-life-chemistry-and-evolution.html) |
+| keyword_rejected | - | [Smartphones (yes, really): Best ideas of the century](https://www.newscientist.com/article/2510623-smartphones-yes-really-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our solar system is extremely weird: Best ideas of the centu](https://www.newscientist.com/article/2508561-our-solar-system-is-extremely-weird-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The electrification of everything: Best ideas of the century](https://www.newscientist.com/article/2510618-the-electrification-of-everything-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Smartphones (yes, really): Best ideas of the century](https://www.newscientist.com/article/2510623-smartphones-yes-really-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our solar system is extremely weird: Best ideas of the centu](https://www.newscientist.com/article/2508561-our-solar-system-is-extremely-weird-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The electrification of everything: Best ideas of the century](https://www.newscientist.com/article/2510618-the-electrification-of-everything-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Smartphones (yes, really): Best ideas of the century](https://www.newscientist.com/article/2510623-smartphones-yes-really-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our solar system is extremely weird: Best ideas of the centu](https://www.newscientist.com/article/2508561-our-solar-system-is-extremely-weird-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The electrification of everything: Best ideas of the century](https://www.newscientist.com/article/2510618-the-electrification-of-everything-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why mining Greenland’s minerals is so challenging](https://www.scientificamerican.com/article/why-mining-greenlands-minerals-is-so-challenging/) |
+| keyword_rejected | - | [Compter les oiseaux pour mieux les protéger](https://www.sciencesetavenir.fr/animaux/oiseaux/compter-les-oiseaux-pour-mieux-les-proteger_190543?xtor=RSS-26) |
+| keyword_rejected | - | [Scientists observe a 300-million-year-old brain rhythm in se](https://phys.org/news/2026-01-scientists-million-year-brain-rhythm.html) |
+| keyword_rejected | - | [Correction: Involvement of propionate, citrulline, homoserin](https://www.nature.com/articles/s41598-026-36866-8) |
 | ai_scored | 75 | [Rethinking Where Life Could Exist Beyond Earth](https://astrobiology.com/2026/01/rethinking-where-life-could-exist-beyond-earth.html) |
 | ai_scored | 40 | [Automated mapping of DNA replication fork progression in hum](https://www.nature.com/articles/s41467-026-68750-4) |
 | ai_scored | 80 | [How microbial fossils illuminate life's origins](https://phys.org/news/2026-01-microbial-fossils-illuminate-life.html) |
