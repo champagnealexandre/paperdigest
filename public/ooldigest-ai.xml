@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T07:22:35.209395+00:00</updated>
+  <updated>2026-01-23T08:25:28.353797+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🟤 [0] New Scientist - Current Issue Articles ▶ Can we battle the downsides of a rule-based world, asks a new book</title>
@@ -2500,20 +2500,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700284v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [55] PNAS ▶ Towards CRISPR-based editing of the mitochondrial genome in yeast</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis work extends the CRISPR gene editing technology to mitochondrial DNA. Mitochondria contain their ow</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Extends CRISPR editing to yeast mitochondrial DNA, a technical advance relevant to eukaryotic genome evolution and organelle biology but only indirectly connected to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis work extends the CRISPR gene editing technology to mitochondrial DNA. Mitochondria contain their own genomes essential for cellular energy production, and mutations in these genomes cause many incurable human diseases. A fundamental ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2505894123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ Rice Annotation Project Database (RAP-DB): literature-curated gene annotation and integrated omics resources for rice functional genomics and molecular breeding</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699882v1?rss=1</id>
@@ -2556,20 +2542,6 @@
 <p><a href="https://www.nature.com/articles/s41586-025-09826-x">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [5] PNAS ▶ An accurate cellular assay to determine pathogenicity of coding and noncoding variants in Lynch syndrome genes</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe gastrointestinal and genitourinary cancer predisposition Lynch syndrome is caused by overt deleterio</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Develops a cellular assay to classify pathogenic coding and noncoding variants in DNA mismatch repair genes implicated in Lynch syndrome, with little direct relevance to origins-of-life research aside from general DNA biology.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe gastrointestinal and genitourinary cancer predisposition Lynch syndrome is caused by overt deleterious germline mutations in DNA mismatch repair (MMR) genes. However, germline sequencing often reveals subtle base-pair substitutions in MMR ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517801123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [15] cell biology - biorXiv Preprints ▶ Septins buffer actomyosin forces to protect the nucleus from genotoxic mechanical stress</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1</id>
@@ -2584,20 +2556,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700789v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] PNAS ▶ A bacterial translation activator with an intrinsically disordered RNA-binding region</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceHere, we report the identification of PhaF as an RNA-binding protein inPseudomonas aeruginosa. Unlike ot</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Identifies PhaF in Pseudomonas aeruginosa as an RNA-binding, intrinsically disordered translation activator, expanding understanding of bacterial RNA–protein regulation with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceHere, we report the identification of PhaF as an RNA-binding protein inPseudomonas aeruginosa. Unlike other major regulators of translation in bacteria which typically function to inhibit translation, PhaF functions as a positive regulator of ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2519770123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [15] Nature ▶ Predatory aggression evolved through adaptations to noradrenergic circuits</title>
     <link href="https://www.nature.com/articles/s41586-025-10009-x"/>
     <id>https://www.nature.com/articles/s41586-025-10009-x</id>
@@ -2610,20 +2568,6 @@
 <li><a href="https://www.nature.com/articles/s41586-025-10009-x">https://www.nature.com/articles/s41586-025-10009-x</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41586-025-10009-x">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] PNAS ▶ Chemical tuning reveals a cation–π gating bridge between the voltage-sensor and pore domains in the Kv7.1 potassium channel</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis study provides functional evidence of a cation–π interaction within a eukaryotic protein. These int</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> This PNAS study functionally validates a cation–π interaction that couples voltage-sensor and pore domains in the eukaryotic Kv7.1 potassium channel, offering mechanistic insight into modern protein gating but with minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThis study provides functional evidence of a cation–π interaction within a eukaryotic protein. These interactions have long been proposed to be central to protein function but have eluded characterization due, in part, to limitations in ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2517495123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [45] Nature ▶ Relatively warm deep-water formation persisted in the Last Glacial Maximum</title>
@@ -2666,20 +2610,6 @@
 <li><a href="https://www.nature.com/articles/s41586-025-10006-0">https://www.nature.com/articles/s41586-025-10006-0</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41586-025-10006-0">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] PNAS ▶ Molecular structure of the ESCRT-III-based archaeal CdvAB cell division machinery</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceMembrane remodeling by ESCRT-III proteins is a fundamental and conserved process across the tree of life</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> This PNAS study resolves the molecular architecture of the archaeal ESCRT-III-based CdvAB cytokinesis machinery, informing how conserved membrane-remodeling systems evolved on the tree of life and potentially bridging archaeal and eukaryotic cell biology.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceMembrane remodeling by ESCRT-III proteins is a fundamental and conserved process across the tree of life. The archaeal ESCRT-III-based cell division system (Cdv) drives cytokinesis in many archaeal groups, yet the molecular architecture of its ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525941123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] Phys.org: Evolution News ▶ How European city life is continually rewriting insect DNA</title>
@@ -6556,34 +6486,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> MicroRNAs, whose discovery was recognized with the 2025 Nobel Prize in Physiology or Medicine, are central regulators of gene expression, yet a fundamental question has remained unanswered: how cells choose between the two strands produced from each microRNA precursor.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] PNAS Evolution ▶ “Excluded phenotypes” restrict genetic paths toward adaptation in declining populations</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe works of Fisher, Kimura, Orr, and others have established the micromutational view of evolution, in </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This PNAS study models how population decline can constrain evolutionary adaptation by creating “excluded phenotypes” that block otherwise accessible genetic paths, offering broad evolutionary context but not a direct origins-of-life contribution.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe works of Fisher, Kimura, Orr, and others have established the micromutational view of evolution, in which small changes in successive generations of organisms are the drivers of adaptation in growing or constant size populations. However, ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] PNAS Evolution ▶ Evolution of environmental sex determination via juvenile hormone–induced gene co-option in Daphnia</title>
-    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R"/>
-    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R</id>
-    <updated>2026-01-16T08:00:00Z</updated>
-    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceSex determination is a central biological process, yet its evolutionary diversification remains incomple</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This PNAS study shows how juvenile hormone signaling can drive gene co-option underlying environmental sex determination in the eukaryotic crustacean Daphnia, offering broad evolutionary context but limited direct relevance to origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceSex determination is a central biological process, yet its evolutionary diversification remains incompletely understood. Juvenile hormone (JH) is well known in insects for regulating metamorphosis, reproduction, and other processes. In the ...</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R</a></li>
-</ul>
-<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [25] cell biology - biorXiv Preprints ▶ Primed-to-naive conversion of pluripotent stem cells can be tracked by specific DNA methylation changes for optimized culture conditions</title>

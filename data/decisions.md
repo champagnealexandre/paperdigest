@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Un nouvel outil d’édition du génome contourne les mutations ](https://www.pourlascience.fr/sd/genetique/un-nouvel-outil-d-edition-du-genome-contourne-les-mutations-non-sens-28624.php) |
+| keyword_rejected | - | [The insect Toll pathway activates antibacterial immunity aga](https://www.nature.com/articles/s41467-026-68575-1) |
+| keyword_rejected | - | [The E3 ligases Itch and WWP2 regulate autoimmune neuroinflam](https://www.nature.com/articles/s41467-025-67665-w) |
+| keyword_rejected | - | [Spatial heterogeneity and subtypes of functional connectivit](https://www.nature.com/articles/s41467-026-68707-7) |
+| keyword_rejected | - | [General risk preference comes up short when predicting risk-](https://www.nature.com/articles/s41598-026-36713-w) |
+| keyword_rejected | - | [Dynamic thermal management under variable operating conditio](https://www.nature.com/articles/s41467-026-68715-7) |
+| keyword_rejected | - | [The E3 ligases Itch and WWP2 regulate autoimmune neuroinflam](https://www.nature.com/articles/s41467-025-67665-w) |
+| keyword_rejected | - | [Emergent universal long-range structure in random-organizing](https://www.nature.com/articles/s41467-026-68601-2) |
+| keyword_rejected | - | [Spatial heterogeneity and subtypes of functional connectivit](https://www.nature.com/articles/s41467-026-68707-7) |
+| keyword_rejected | - | [The insect Toll pathway activates antibacterial immunity aga](https://www.nature.com/articles/s41467-026-68575-1) |
+| keyword_rejected | - | [Earthquakes act as a capacitor for terrestrial organic carbo](https://www.nature.com/articles/s41467-026-68341-3) |
 | ai_scored | 0 | [Can we battle the downsides of a rule-based world, asks a ne](https://www.newscientist.com/article/mg26935790-400-can-we-battle-the-downsides-of-a-rule-based-world-asks-a-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 0 | [Can we battle the downsides of a rule-based world, asks a ne](https://www.newscientist.com/article/mg26935790-400-can-we-battle-the-downsides-of-a-rule-based-world-asks-a-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 0 | [Can we battle the downsides of a rule-based world, asks a ne](https://www.newscientist.com/article/mg26935790-400-can-we-battle-the-downsides-of-a-rule-based-world-asks-a-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
