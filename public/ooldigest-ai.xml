@@ -3,8 +3,134 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T01:21:55.164928+00:00</updated>
+  <updated>2026-01-23T03:39:25.397155+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] biochemistry - biorXiv Preprints ▶ Cooperative self-assembly of nanoparticle-encapsulating hybrid protein cages</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700743v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700743v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Protein cages are a versatile platform capable of encapsulating a wide range of nanoparticle cargo within biocompatible protein shells while providing tunable functionalities. Here, we investigated a </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
+<p><strong>AI Decision:</strong> A synthetic protein–nanoparticle system shows cooperative, temperature-triggered self-assembly via coacervate-like intermediates into vesicle-like protein cages that densely encapsulate nanoparticles, offering a protocell-relevant model for compartment formation and functional enhancement.</p>
+<p><strong>Abstract:</strong> Protein cages are a versatile platform capable of encapsulating a wide range of nanoparticle cargo within biocompatible protein shells while providing tunable functionalities. Here, we investigated a self-assembly system that forms vesicle-like protein cages while simultaneously encapsulating nanoparticles at high density, yielding pomegranate-like protein-nanoparticle hybrid materials. Amphiphilic recombinant fusion protein building blocks based on elastin-like polypeptides, leucin zippers, and fluorescent proteins were employed to assemble vesicle-like protein cages via temperature-triggered liquid-liquid phase separation in the presence of fluorescent polystyrene nanoparticles. Analysis of nanoparticle encapsulation density and protein cage size indicates cooperative interactions between protein building blocks and nanoparticles that mediate the formation of protein-nanoparticle coacervate intermediates, which subsequently convert into core-shell hybrid protein cages, as further supported by kinetics studies. We demonstrate the self-assembly hybrid protein cages incorporating a fluorescent calcium sensor protein and titanium oxide nanoparticles, which exhibit a drastic enhancement in their calcium capability as a result of nanoparticle encapsulation. This platform offers a broadly applicable strategy that integrates protein biofunctionality with diverse nanoparticle properties for the development of advanced hybrid materials.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700743v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700743v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700743v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] systems biology - biorXiv Preprints ▶ Harnessing Biological Variability for Mechanistic Inference: A Practical Stochastic Framework</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Inter-individual variability is often treated as noise, yet its temporal evolution can reveal regulatory mechanisms hidden from mean behavior. We present a stochastic framework that exploits fluctuati</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Presents a stochastic modeling framework using mean-and-variance dynamics to infer regulatory mechanisms in adult neural stem-cell populations, a useful systems-biology method but only tangentially relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Inter-individual variability is often treated as noise, yet its temporal evolution can reveal regulatory mechanisms hidden from mean behavior. We present a stochastic framework that exploits fluctuations to infer regulatory mechanisms in cell population dynamics. Focusing on adult neural stem cells, we build a state-dependent stochastic model of transitions between quiescent and active states and derive a diffusion approximation for mean and variance trajectories of observable quantities. Applied to longitudinal data from wild-type and interferon-receptor knockout mice, we show that distinct mechanisms produce similar mean dynamics but different fluctuation patterns. Fitting both mean and variance dynamics reveals proliferation-rate regulation as the dominant driver of fluctuation amplitude, while activation and self-renewal mainly shape mean behavior and long-term fate. In wild-type mice all three processes are regulated, but knockout mice lose activation control. This demonstrates that stochastic variability is a valuable source of mechanistic information beyond average dynamics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ EpiTADformer: A Transformer-Based Model for High-Resolution TAD Boundary Detection Using Epigenomic Signal Embeddings</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700691v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700691v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>The human genome is partitioned at different levels of 3D genome organization, with topologically associating domains (TADs) being among the most well-known and biologically important structures. TAD </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Presents a transformer model (EpiTADformer) that uses high-resolution epigenomic signals to improve prediction of human TAD boundaries beyond Hi-C resolution, with minimal direct relevance to origins-of-life research aside from general DNA/genome context.</p>
+<p><strong>Abstract:</strong> The human genome is partitioned at different levels of 3D genome organization, with topologically associating domains (TADs) being among the most well-known and biologically important structures. TAD boundary disruption is associated with a wide range of diseases such as cancer, neurological and developmental disorders. Numerous methods have been developed to detect TAD boundaries from chromatin contact maps obtained with Hi-C technology. However, these methods are largely limited by the resolution of Hi-C data, typically 1 Kb to 100 Kb. In contrast, functional DNA loci, collectively referred to as epigenomic data, are profiled at a much higher resolution (100-200 bp for a typical ChIP-seq experiment). To improve the resolution of boundary detection, we hypothesize that the patterns of epigenomic signals associated with regions in proximity to TAD boundaries can serve as embeddings for these genomic regions, defining region similarity. These embeddings, along with their positional relationships, can be effectively modeled using deep learning to achieve more precise boundary prediction. We present EpiTADformer, a transformer-based model that takes as input transcriptional and histone modification signals of neighboring regions centered around TAD boundaries. We demonstrate that EpiTADformer outperforms feedforward neural network, convolutional neural network (CNN), and bidirectional long short-term memory (BiLSTM) network architectures. These results suggest the positional information of epigenomic signals surrounding TAD boundaries provides a strong predictive signal, enabling improved performance of the transformer model. Our findings highlight the potential of epigenomic signals to serve as region embeddings for refining the epigenomic language of TAD domains and 3D genome organization.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700691v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700691v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700691v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ Poly(ADP-ribose)polymerase1 facilitates the nucleosome disassembly</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700758v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700758v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Being the basic building blocks of chromatin, nucleosomes and their stability determine the genome accessibility for different DNA-dependent proteins. This characteristic is labile under all cell-life</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, life</p>
+<p><strong>AI Decision:</strong> Single-molecule optical tweezers show PARP1 binding weakens nucleosome–DNA contacts and promotes nucleosome disassembly, informing eukaryotic chromatin regulation rather than origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Being the basic building blocks of chromatin, nucleosomes and their stability determine the genome accessibility for different DNA-dependent proteins. This characteristic is labile under all cell-life processes. One of the abundant DNA-binding proteins, which is important for genome compaction, is poly(ADP-ribose)polymerase1 (PARP1). Despite the extensive experimental data on the chromatin compaction regulation under ADP-ribosylation, the details of the interplay of nucleosome with PARP1 in the absence of protein activation remain unclear. In this study, we analyzed the changes in the nucleosome wrapping upon PARP1 interaction using a single-molecule approach - optical tweezers. We demonstrate that PARP1 binding leads to weakening of the contacts that support the nucleosome core.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700758v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700758v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700758v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ AMPBAN: A Deep Learning Framework Integrating Protein Sequence and Structural Features for Antimicrobial Peptide Prediction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700468v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700468v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>The escalating crisis of antimicrobial resistance poses a devastating and immediate threat to human life. Antimicrobial peptides (AMPs) are a promising antibiotic substitute to combat antimicrobial re</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
+<p><strong>AI Decision:</strong> Presents a deep-learning framework (AMPBAN) that fuses protein-language-model evolutionary embeddings with predicted structural features to improve antimicrobial peptide prediction, with only indirect relevance to Origins-of-Life themes (life/evolution keywords but not OoL mechanisms).</p>
+<p><strong>Abstract:</strong> The escalating crisis of antimicrobial resistance poses a devastating and immediate threat to human life. Antimicrobial peptides (AMPs) are a promising antibiotic substitute to combat antimicrobial resistance. Compared with the traditional wet-lab screening approaches, computational models have largely improved the efficiency of predicting antimicrobial peptide. However, most computational models overlook or underutilize the evolution and structural information of peptides, which is crucial for understanding the peptide functions. Here, we proposed a sophisticated deep learning model to predict AMPs, Antimicrobial Peptide Bilinear Attention Network (AMPBAN), which incorporates peptide evolution features from ESM3 protein language model, structure features from ESMFold predicted with equivariant graph neural network (EGNN), and the joint information from sequence and structure learned via Bilinear Attention Network. AMPBAN consistently demonstrated superior accuracy and generalization compared to nine state-of-the-art AMP prediction models across multiple independent benchmarks. Furthermore, an ablation study confirms that our multimodal fusion strategy significantly refines the integration of sequence and structural signals, yielding superior predictive balance over single-modality models. This framework provides a robust tool for the accelerated discovery of novel AMPs and the advancement of next-generation antimicrobial drug development. The datasets, source code and models are available at https://github.com/baiwenhuim/ampban.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700468v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700468v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700468v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ A Statistical Framework to Infer the Mutation Model of Tandem Repeat Variants</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700917v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700917v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Tandem Repeats (TRs) have complex mutational patterns that depend on many properties of the analyzed loci. An accurate characterization of the mutation model that defines the evolution of each TR is f</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Preprint introduces TRAMA, an ARG-based statistical method to infer tandem repeat mutation models (SMM vs TPM) and estimate mutation parameters, advancing population-genetic modeling but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Tandem Repeats (TRs) have complex mutational patterns that depend on many properties of the analyzed loci. An accurate characterization of the mutation model that defines the evolution of each TR is fundamental to understand the genetic diversity patterns of each TR. Here we propose a computational method that leverages the rich information contained in the ancestral recombination graph (ARG) to estimate the mutation process that drives the evolution of one loci containing a TR variant. Our method is called TRAMA, Tandem Repeat ARG-based Mutation Analysis. TRAMA uses the genealogical history estimated at each loci, which is contained in the ARG, to estimate the parameters that define the mutation of a TR under two different mutational models: The Stepwise Mutation Model (SMM) and the Two-Phase Mutation Model (TPM). First we show that TRAMA can provide estimates of the mutation rate of a TR evolving under the SMM that are accurate or have a slight underestimation when the mutation rate is higher than 10-5. Then, we show that TRAMA can provide reasonable estimates of the parameters that define the TPM under certain conditions. We also show that TRAMA can do an accurate selection of the mutational model that better explains the genetic diversity patterns of a loci from two competing models: TPM and SMM. Then, we show that estimates of the mutation rate under the SMM are similar when using the true genealogical history compared to using a genealogical history estimated using an ARG inference program, SINGER. We also discuss potential extensions of our methodology to perform a more accurate characterization of the mutation model driving the evolution of TRs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700917v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700917v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700917v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ SigDyn: single-cell mutational signature dynamics</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Motivation: Cancer is driven by mutations that confer tumor cells proliferation advantages but also vulnerabilities with therapeutic potential. Underlying tumor progression are mutational processes th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces SigDyn, a framework to infer single-cell mutational signature dynamics and tumor phylogenies from scRNA-seq, revealing treatment- and DNA-repair–linked mutational processes during cancer evolution.</p>
+<p><strong>Abstract:</strong> Motivation: Cancer is driven by mutations that confer tumor cells proliferation advantages but also vulnerabilities with therapeutic potential. Underlying tumor progression are mutational processes that imprint signatures of co-occurring mutation types in tumor cell genomes. The discovery of signatures and their etiologies offers insight into disease mechanisms and treatment opportunities, however acquisition of mutations by tumor cells over time leads to intratumor heterogeneity that may challenge treatment efficacy. Understanding which mutational processes contribute to the evolution of each tumor can reveal therapeutic strategies, but it requires single-cell mutational signature analysis, which remains unexplored. Results: We present SigDyn, a framework enabling analysis of tumor mutational signature dynamics at single-cell resolution. To do this, SigDyn combines variant detection, tumor phylogeny inference, and signature identification. We applied SigDyn to scRNA-seq of invasive ductal carcinoma (IDC) and laryngeal squamous cell carcinoma (LSCC). Inferred phylogenies recapitulated tumor markers and progression from normal tissue to tumor metastasis. Tumor-specific processes beyond aging, like cellular disruptions or patient treatments, were only exposed at single-cell level reinforcing the importance of granularity. For IDC, prominence of signature SBS26 with tumor evolution pointed to mismatch repair (MMR) deficiency, supported by downregulation of MMR genes. For LSCC, metastasis enrichment with SBS32-active cells and immune markers suggested influence of immunosuppressant treatment azathioprine, linked to increased risk of SCCs. The dynamics uncovered by SigDyn confirm its potential as a tool to investigate mechanisms of tumor evolution and heterogeneity. Availability: github.com/joanagoncalveslab/sigdyn.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ dirCLIP profiles variant-specific RNA-protein interactions via nanopore long-read sequencing</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>RNA binding proteins (RBPs) control gene expression through their activities in essentially all processing steps of coding and noncoding RNAs and are dysregulated in disease. With &gt;95% of human multi-</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> dirCLIP combines UV-CLIP with amplification-free direct nanopore long-read sequencing to map RNA-binding protein sites on full-length, isoform-specific transcripts, enabling detection of variant-selective and co-occurring RBP interactions in single RNA molecules.</p>
+<p><strong>Abstract:</strong> RNA binding proteins (RBPs) control gene expression through their activities in essentially all processing steps of coding and noncoding RNAs and are dysregulated in disease. With &gt;95% of human multi-exon genes undergoing alternative splicing, the inability to assign RBP sites to distinct RNA variants fundamentally limits our understanding of RNA regulation. We present dirCLIP, a method combining UV crosslinking and immunoprecipitation (CLIP) with amplification-free direct nanopore long-read sequencing preserving full-length transcripts. dirCLIP employs two complementary strategies: direct RNA sequencing detecting amino acid adduct-induced perturbations in current signals and direct cDNA sequencing capturing binding sites as mutations. Benchmarking dirCLIP with SRSF3 demonstrated &gt;75% concordance with short-read-based data, revealed isoform-selective RNA binding and enabled detection of co-occurring binding sites in single RNA molecules. Application to the noncanonical RBP HMGA1 uncovered new AT-hook mediated RNA variant-specific interactions. dirCLIP fundamentally transforms our ability to interrogate RNA regulation of distinct isoforms and transcript variants with direct implications to disease mechanisms and development of RNA therapeutics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [48] biochemistry - biorXiv Preprints ▶ Structural Basis for Nucleobase Activation by the Adenine DNA Glycosylase MutY</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>MutY excises adenine (A) from 8-oxo-guanine:adenine (OG:A) lesions in DNA to initiate base excision repair (BER) and thereby prevent mutations. A catalytic Glu, found at position 43 in the enzyme from</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> Structural and kinetic analysis of MutY DNA glycosylase variants shows how a single catalytic Glu activates adenine for excision from OG:A lesions, revealing a distinctive nucleobase-protonation/retaining SN1-like mechanism in modern DNA repair.</p>
+<p><strong>Abstract:</strong> MutY excises adenine (A) from 8-oxo-guanine:adenine (OG:A) lesions in DNA to initiate base excision repair (BER) and thereby prevent mutations. A catalytic Glu, found at position 43 in the enzyme from Geobacillus stearothermophilus (Gs MutY), protonates the nucleobase at N7 to labilize the N-glycosidic bond. The resulting oxocarbenium ion transition state is stabilized by a covalent DNA-enzyme intermediate and resolved by nucleophilic attack to yield the beta-anomer abasic AP site product. The retaining SN1 mechanism for MutY posits deprotonation of the nucleophile by the catalytic Glu. Here we tested kinetic and structural consequences of Glu replacement and found that E43Q and E43S substitution variants were severely impaired, retained measurable activity, but engage the substrate nucleobase in an anti conformation, rotated by 180{degrees} from the syn conformation seen in previous substrate complexes. The enzyme-generated AP product is observed in its alpha-anomer configuration for these Glu-replacement variants. Comparison with inverting adenine glycosylases that act on RNA or nucleosides shows that MutY&#x27;s mechanism is uniquely reliant on one catalytic residue for both leaving group and nucleophile activation, a situation that may serve to ensure only rare adenines paired with OG are excised.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] biochemistry - biorXiv Preprints ▶ Hydrogen-bonding changes cause differences in imipenem breakdown activity in OXA-48 variants</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700306v1?rss=1"/>

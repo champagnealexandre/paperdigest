@@ -1,5 +1,38 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 48 | [Structural Basis for Nucleobase Activation by the Adenine DN](https://www.biorxiv.org/content/10.64898/2026.01.22.701053v1?rss=1) |
+| ai_scored | 20 | [dirCLIP profiles variant-specific RNA-protein interactions v](https://www.biorxiv.org/content/10.64898/2026.01.22.701028v1?rss=1) |
+| ai_scored | 25 | [SigDyn: single-cell mutational signature dynamics](https://www.biorxiv.org/content/10.64898/2026.01.20.700537v1?rss=1) |
+| ai_scored | 20 | [A Statistical Framework to Infer the Mutation Model of Tande](https://www.biorxiv.org/content/10.64898/2026.01.21.700917v1?rss=1) |
+| ai_scored | 25 | [AMPBAN: A Deep Learning Framework Integrating Protein Sequen](https://www.biorxiv.org/content/10.64898/2026.01.20.700468v1?rss=1) |
+| ai_scored | 20 | [Poly(ADP-ribose)polymerase1 facilitates the nucleosome disas](https://www.biorxiv.org/content/10.64898/2026.01.21.700758v1?rss=1) |
+| ai_scored | 5 | [EpiTADformer: A Transformer-Based Model for High-Resolution ](https://www.biorxiv.org/content/10.64898/2026.01.20.700691v1?rss=1) |
+| ai_scored | 15 | [Harnessing Biological Variability for Mechanistic Inference:](https://www.biorxiv.org/content/10.64898/2026.01.22.701043v1?rss=1) |
+| ai_scored | 55 | [Cooperative self-assembly of nanoparticle-encapsulating hybr](https://www.biorxiv.org/content/10.64898/2026.01.21.700743v1?rss=1) |
+| keyword_rejected | - | [Guinea-Bissau suspends a US-funded vaccine trial as African ](https://www.nature.com/articles/d41586-026-00220-9) |
+| keyword_rejected | - | [Incendies au Chili: le parquet annonce l'arrestation du prin](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-le-parquet-annonce-l-arrestation-du-principal-suspect_190537?xtor=RSS-15) |
+| keyword_rejected | - | [Stress vesicles link epidermal mechanotransduction to stem c](https://www.nature.com/articles/s41467-026-68294-7) |
+| keyword_rejected | - | [Homotypic membrane-powered electrochemical microfluidic anal](https://www.nature.com/articles/s41467-026-68770-0) |
+| keyword_rejected | - | [Universal Phase Transitions of Matter in Optically Driven Ca](http://link.aps.org/doi/10.1103/71fd-m6rj) |
+| keyword_rejected | - | [Spin-Chain Multichannel Kondo Model via Image Impurity Bound](http://link.aps.org/doi/10.1103/wj75-tg3z) |
+| keyword_rejected | - | [Guided Vortex Bullets](http://link.aps.org/doi/10.1103/6mj1-yc1m) |
+| keyword_rejected | - | [Quantum Many-Body Dynamics for Fermionic $t\text{−}J$ Model ](http://link.aps.org/doi/10.1103/px63-dtc9) |
+| keyword_rejected | - | [Control of Molecular Rotation in Helium Nanodroplets with an](http://link.aps.org/doi/10.1103/5jnj-97vs) |
+| keyword_rejected | - | [Phase-Variation Ramsey Spectroscopy of the ${2}^{3}{\mathrm{](http://link.aps.org/doi/10.1103/f2m8-5zxj) |
+| keyword_rejected | - | [Long-Range Transverse-Momentum Correlations and Radial Flow ](http://link.aps.org/doi/10.1103/l36g-6f46) |
+| keyword_rejected | - | [Evidence for the Collective Nature of Radial Flow in $\mathr](http://link.aps.org/doi/10.1103/ldcn-r2lq) |
+| keyword_rejected | - | [First Exclusive Reconstruction of the ${B}^{*+}$, ${B}^{*0}$](http://link.aps.org/doi/10.1103/njf9-4zfv) |
+| keyword_rejected | - | [Stress vesicles link epidermal mechanotransduction to stem c](https://www.nature.com/articles/s41467-026-68294-7) |
+| keyword_rejected | - | [Homotypic membrane-powered electrochemical microfluidic anal](https://www.nature.com/articles/s41467-026-68770-0) |
+| keyword_rejected | - | [3'-tRNA Fragments Target Domesticated LTR-Retrotransposons](https://www.biorxiv.org/content/10.64898/2026.01.22.698655v1?rss=1) |
+| keyword_rejected | - | [The spliceosome assembles on excised linear introns to prote](https://www.biorxiv.org/content/10.64898/2026.01.21.700889v1?rss=1) |
+| keyword_rejected | - | [Phospholipase D1 and Phosphatidic Acid are required for MVE ](https://www.biorxiv.org/content/10.64898/2026.01.21.700874v1?rss=1) |
+| keyword_rejected | - | [ARID-sf: A physics-informed Deep Learning scoring function t](https://www.biorxiv.org/content/10.64898/2026.01.20.700530v1?rss=1) |
+| keyword_rejected | - | [PCPpred: Prediction of Chemically Modified Peptide Permeabil](https://www.biorxiv.org/content/10.64898/2026.01.19.700485v1?rss=1) |
+| keyword_rejected | - | [A Systematic Evaluation of Protein Phase Separation Predicto](https://www.biorxiv.org/content/10.64898/2026.01.20.700394v1?rss=1) |
+| keyword_rejected | - | [Ion Mobility Separation of Isomeric Acyl-lysine Marks in Pep](https://www.biorxiv.org/content/10.64898/2026.01.20.700525v1?rss=1) |
+| keyword_rejected | - | [Intracellular crowding links dimensionality to cell fate thr](https://www.biorxiv.org/content/10.64898/2026.01.20.700361v1?rss=1) |
+| keyword_rejected | - | [GW4869 depletes macrophages and increases number of extracel](https://www.biorxiv.org/content/10.64898/2026.01.20.700528v1?rss=1) |
 | ai_scored | 15 | [Deciphering chromosome fusion in D. miranda's neo-sex chromo](https://www.biorxiv.org/content/10.64898/2026.01.20.700498v1?rss=1) |
 | ai_scored | 5 | [MicroRNA regulatory targets of VO2peak in older adult partic](https://www.biorxiv.org/content/10.64898/2026.01.19.700188v1?rss=1) |
 | ai_scored | 5 | [Soft tissue morphology of the vomeronasal organ in Lontra ca](https://www.biorxiv.org/content/10.64898/2026.01.19.700381v1?rss=1) |
