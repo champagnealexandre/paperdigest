@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [A Nomenclature For Individual Exocomets](https://astrobiology.com/2026/01/a-nomenclature-for-individual-exocomets.html) |
+| ai_scored | 90 | [A Gene-Free Minimal System for Synthetic Quorum Sensing in P](https://astrobiology.com/2026/01/a-gene-free-minimal-system-for-synthetic-quorum-sensing-in-protocell-communities.html) |
+| ai_scored | 60 | [Biofilms: From The Cradle Of Life To life Support](https://astrobiology.com/2026/01/biofilms-from-the-cradle-of-life-to-life-support.html) |
+| ai_scored | 55 | [SPHEREx Re-Observation of Interstellar Object 3I/ATLAS in De](https://astrobiology.com/2026/01/spherex-re-observation-of-interstellar-object-3i-atlas-in-december-2025-detection-of-increased-post-perihelion-activity-refractory-coma-dust-and-new-coma-gas-species.html) |
+| ai_scored | 8 | [Artemis II’s Possible Impact on JWST Science Operations](https://astrobiology.com/2026/01/artemis-iis-possible-impact-on-jwst-science-operations.html) |
+| keyword_rejected | - | [Essential role of NONO-HOXA1-Wnt axis in cardiomyocyte diffe](https://www.nature.com/articles/s41467-026-68760-2) |
 | keyword_rejected | - | [Latency and energy-aware adaptive service migration in mobil](https://www.nature.com/articles/s41598-026-36711-y) |
 | keyword_rejected | - | [Printing technologies for monitoring crop health](https://www.nature.com/articles/s41467-026-68778-6) |
 | keyword_rejected | - | [Modulation of Nudt21 levels reveals dose-dependent roles of ](https://www.nature.com/articles/s41467-026-68630-x) |
