@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Latency and energy-aware adaptive service migration in mobil](https://www.nature.com/articles/s41598-026-36711-y) |
+| keyword_rejected | - | [Printing technologies for monitoring crop health](https://www.nature.com/articles/s41467-026-68778-6) |
+| keyword_rejected | - | [Modulation of Nudt21 levels reveals dose-dependent roles of ](https://www.nature.com/articles/s41467-026-68630-x) |
+| keyword_rejected | - | [A stabilized tandem antigen chimera that elicits potent mala](https://www.nature.com/articles/s41467-026-68761-1) |
+| keyword_rejected | - | [Click-based determination of accumulation of molecules in Es](https://www.nature.com/articles/s41467-026-68717-5) |
+| keyword_rejected | - | [Interaction and functional specialization across a distribut](https://www.nature.com/articles/s41467-025-65766-0) |
 | keyword_rejected | - | [L'observation du ciel, une passion antique](https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/l-observation-du-ciel-une-passion-antique_190078?xtor=RSS-10) |
 | keyword_rejected | - | [Block-Fitness Modeling of the Global Air Mobility Network](https://comdig.unam.mx/2026/01/24/block-fitness-modeling-of-the-global-air-mobility-network/) |
 | keyword_rejected | - | [A tidal disruption event from an intermediate-mass black hol](https://www.nature.com/articles/s41467-026-68670-3) |
