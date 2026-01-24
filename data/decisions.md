@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the ce](https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the ce](https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the ce](https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Co-inoculation of <i>Stenotrophomonas maltophilia</i> and <i](https://www.nature.com/articles/s41598-026-37145-2) |
 | keyword_rejected | - | [Surface optimization governs the local design of physical ne](https://comdig.unam.mx/2026/01/24/surface-optimization-governs-the-local-design-of-physical-networks/) |
 | ai_scored | 20 | [Dale Andersen’s Astrobiology Antarctic Status Report: 24 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-24-january-2026-lake-untersee-base-camp-weather-conditions-and-forecast.html) |
 | keyword_rejected | - | [Determination of mechanical properties of ceramic microspher](https://www.nature.com/articles/s41598-026-37357-6) |
