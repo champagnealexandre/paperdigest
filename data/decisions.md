@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Surface optimization governs the local design of physical ne](https://comdig.unam.mx/2026/01/24/surface-optimization-governs-the-local-design-of-physical-networks/) |
 | ai_scored | 20 | [Dale Andersen’s Astrobiology Antarctic Status Report: 24 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-24-january-2026-lake-untersee-base-camp-weather-conditions-and-forecast.html) |
 | keyword_rejected | - | [Determination of mechanical properties of ceramic microspher](https://www.nature.com/articles/s41598-026-37357-6) |
 | keyword_rejected | - | [Patterns and associations of summer thermal comfort and stud](https://www.nature.com/articles/s41598-026-37253-z) |
