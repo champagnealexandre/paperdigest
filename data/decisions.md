@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [L'observation du ciel, une passion antique](https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/l-observation-du-ciel-une-passion-antique_190078?xtor=RSS-10) |
+| keyword_rejected | - | [Block-Fitness Modeling of the Global Air Mobility Network](https://comdig.unam.mx/2026/01/24/block-fitness-modeling-of-the-global-air-mobility-network/) |
+| keyword_rejected | - | [A tidal disruption event from an intermediate-mass black hol](https://www.nature.com/articles/s41467-026-68670-3) |
 | keyword_rejected | - | [Une tempête hivernale majeure déferle sur les Etats-Unis](https://www.sciencesetavenir.fr/nature-environnement/une-tempete-hivernale-majeure-deferle-sur-les-etats-unis_190563?xtor=RSS-15) |
 | keyword_rejected | - | [Curvature programmed inkjet printing enables adaptive deposi](https://www.nature.com/articles/s41467-026-68613-y) |
 | keyword_rejected | - | [CASM potentiates STING-driven NFκB signaling in immune cells](https://www.biorxiv.org/content/10.64898/2026.01.21.700774v1?rss=1) |
