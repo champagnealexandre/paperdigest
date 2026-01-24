@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Une tempête hivernale majeure déferle sur les Etats-Unis](https://www.sciencesetavenir.fr/nature-environnement/une-tempete-hivernale-majeure-deferle-sur-les-etats-unis_190563?xtor=RSS-15) |
+| keyword_rejected | - | [Curvature programmed inkjet printing enables adaptive deposi](https://www.nature.com/articles/s41467-026-68613-y) |
+| keyword_rejected | - | [CASM potentiates STING-driven NFκB signaling in immune cells](https://www.biorxiv.org/content/10.64898/2026.01.21.700774v1?rss=1) |
+| keyword_rejected | - | [A Systems-Level Transcriptomic Analysis of Polycystic Ovary ](https://www.biorxiv.org/content/10.64898/2026.01.22.701018v1?rss=1) |
 | ai_scored | 5 | [Bernoulli’s principle-mediated Cl<sub>2</sub> electrosynthes](https://www.nature.com/articles/s41467-025-66643-6) |
 | ai_scored | 5 | [Potential and challenges for sustainable progress in human l](https://www.nature.com/articles/s41467-026-68828-z) |
 | keyword_rejected | - | [TREM2 expression level is critical for microglial state, met](https://www.nature.com/articles/s41467-026-68706-8) |
