@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Peter F. Hamilton's latest is an epic slice of sci-fi – with](https://www.newscientist.com/article/mg26935790-600-peter-f-hamiltons-latest-is-an-epic-slice-of-sci-fi-with-one-flaw/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Peter F. Hamilton's latest is an epic slice of sci-fi – with](https://www.newscientist.com/article/mg26935790-600-peter-f-hamiltons-latest-is-an-epic-slice-of-sci-fi-with-one-flaw/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Peter F. Hamilton's latest is an epic slice of sci-fi – with](https://www.newscientist.com/article/mg26935790-600-peter-f-hamiltons-latest-is-an-epic-slice-of-sci-fi-with-one-flaw/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Les castors favorisent les pollinisateurs](https://www.pourlascience.fr/sd/environnement/les-castors-favorisent-les-pollinisateurs-28638.php) |
 | keyword_rejected | - | [MI-181 enhances ciliation and cilia length in a cigarette sm](https://www.nature.com/articles/s41598-026-37296-2) |
 | keyword_rejected | - | [Determinants of moderate-intensity physical activity during ](https://www.nature.com/articles/s41598-026-36786-7) |
