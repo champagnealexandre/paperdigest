@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Patient profiles, incidence and trends of lung cancer in Eth](https://www.nature.com/articles/s41598-026-36944-x) |
+| keyword_rejected | - | [A benchmark for evaluating diagnostic questioning efficiency](https://www.nature.com/articles/s41598-026-37022-y) |
+| keyword_rejected | - | [Sardaigne, l'île aux huit mille tours](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/sardaigne-l-ile-aux-huit-mille-tours_190115?xtor=RSS-4) |
 | keyword_rejected | - | [Peter F. Hamilton's latest is an epic slice of sci-fi – with](https://www.newscientist.com/article/mg26935790-600-peter-f-hamiltons-latest-is-an-epic-slice-of-sci-fi-with-one-flaw/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Peter F. Hamilton's latest is an epic slice of sci-fi – with](https://www.newscientist.com/article/mg26935790-600-peter-f-hamiltons-latest-is-an-epic-slice-of-sci-fi-with-one-flaw/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Peter F. Hamilton's latest is an epic slice of sci-fi – with](https://www.newscientist.com/article/mg26935790-600-peter-f-hamiltons-latest-is-an-epic-slice-of-sci-fi-with-one-flaw/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
