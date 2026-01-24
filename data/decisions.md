@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Exploring the Space of Tumor Phylogenies Consistent with Sin](https://www.biorxiv.org/content/10.64898/2026.01.21.700922v1?rss=1) |
+| ai_scored | 40 | [CRISPR-Cas9 <i>trans</i>-cleavage is hindered by a flanked R](https://www.nature.com/articles/s41467-026-68789-3) |
+| keyword_rejected | - | [Nouvelle-Zélande: fin des recherches de survivants après un ](https://www.sciencesetavenir.fr/nature-environnement/nouvelle-zelande-fin-des-recherches-de-survivants-apres-un-glissement-de-terrain_190559?xtor=RSS-15) |
+| keyword_rejected | - | [A density functional theory study of cyclophosphamide and pu](https://www.nature.com/articles/s41598-026-36405-5) |
+| keyword_rejected | - | [A transpupillary approach for crosslinking Guinea pig sclera](https://www.nature.com/articles/s41598-026-36438-w) |
+| keyword_rejected | - | [Body temperature as a predictor of mortality in multiple tra](https://www.nature.com/articles/s41598-026-35372-1) |
 | ai_scored | 50 | [Engaging Unstabilized Alkyl Radicals with Pyridoxal Radical ](https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1) |
 | ai_scored | 25 | [3'tRNAAsp(GTC)-derived fragment links inflammation to post-t](https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1) |
 | ai_scored | 15 | [BioGraphX: Bridging the Sequence-Structure Gap via Physicoch](https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1) |
