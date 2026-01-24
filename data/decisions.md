@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [The secret paths of global knowledge transfer – with Cesar H](https://comdig.unam.mx/2026/01/24/the-secret-paths-of-global-knowledge-transfer-with-cesar-hidalgo/) |
+| keyword_rejected | - | [Incomplete lineage sorting shaped mixed traits during a colo](https://www.pnas.org/doi/abs/10.1073/pnas.2524833123?af=R) |
 | keyword_rejected | - | [Quantitative proteomic analysis of plasma after remote ische](https://www.nature.com/articles/s41598-026-36968-3) |
 | keyword_rejected | - | [BiG-SCAPE 2.0 and BiG-SLiCE 2.0: scalable, accurate and inte](https://www.nature.com/articles/s41467-026-68733-5) |
 | keyword_rejected | - | [Atroposelective interrupted CuAAC reaction using cyclic diar](https://www.nature.com/articles/s41467-026-68574-2) |
