@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Bioinformatic characterization and automated detection of me](https://www.nature.com/articles/s41598-026-36678-w) |
+| keyword_rejected | - | [Sustainable operation of multi-energy systems under cooperat](https://www.nature.com/articles/s41598-026-36536-9) |
+| keyword_rejected | - | [Molecular recognition of thyroglobulin by sortilin](https://www.nature.com/articles/s41467-026-68658-z) |
+| keyword_rejected | - | [Entanglement-inspired frequency-agile rangefinding](https://www.nature.com/articles/s41467-026-68589-9) |
 | ai_scored | 15 | [La mystérieuse utilité des ailes avant l'invention du vol](https://www.sciencesetavenir.fr/archeo-paleo/evolution/la-mysterieuse-utilite-des-ailes-avant-l-invention-du-vol_190071?xtor=RSS-4) |
 | keyword_rejected | - | [How math can reveal lottery fraud](https://www.scientificamerican.com/article/how-math-can-reveal-lottery-fraud/) |
 | keyword_rejected | - | [How digital forensics could prove what’s real in the age of ](https://www.scientificamerican.com/article/how-digital-forensics-could-prove-whats-real-in-the-age-of-deepfakes/) |
