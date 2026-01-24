@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Bernoulli’s principle-mediated Cl<sub>2</sub> electrosynthes](https://www.nature.com/articles/s41467-025-66643-6) |
+| ai_scored | 5 | [Potential and challenges for sustainable progress in human l](https://www.nature.com/articles/s41467-026-68828-z) |
+| keyword_rejected | - | [TREM2 expression level is critical for microglial state, met](https://www.nature.com/articles/s41467-026-68706-8) |
+| keyword_rejected | - | [Functional variants at 1p36.23 confer risk of schizophrenia ](https://www.nature.com/articles/s41467-026-68449-6) |
+| keyword_rejected | - | [Bradyzoite subtypes rule the crossroads of Toxoplasma develo](https://www.nature.com/articles/s41467-026-68489-y) |
+| keyword_rejected | - | [Modeling tumor progression in heterogeneous microenvironment](https://www.sciencedirect.com/science/article/pii/S0022519326000147?dgcid=rss_sd_all) |
 | keyword_rejected | - | [Bioinformatic characterization and automated detection of me](https://www.nature.com/articles/s41598-026-36678-w) |
 | keyword_rejected | - | [Sustainable operation of multi-energy systems under cooperat](https://www.nature.com/articles/s41598-026-36536-9) |
 | keyword_rejected | - | [Molecular recognition of thyroglobulin by sortilin](https://www.nature.com/articles/s41467-026-68658-z) |
