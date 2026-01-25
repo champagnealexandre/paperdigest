@@ -12,6 +12,7 @@ Define your own **Lines of Investigation (LOIs)** — research topics with custo
 - 📊 **Multiple LOIs**: Track different research topics independently
 - 📰 **Atom feeds**: Subscribe in any feed reader
 - 🔄 **GitHub Actions**: Automated scheduled runs
+- 🧹 **Log rotation**: Automatic cleanup of old logs
 
 ## One-Line Install
 
@@ -79,6 +80,13 @@ python main.py
 
 > ⚠️ **Important:** GitHub disables scheduled workflows after 60 days of repository inactivity. If your scans stop running, manually trigger the workflow or push a commit to restart the schedule.
 
+### Workflow Options
+
+When manually triggering the workflow (Actions → Run workflow), you can set:
+
+- **Skip scan**: Deploy existing feeds without running the scanner (useful for testing Pages)
+- **Reset all data**: Delete all `papers.json`, `decisions.md`, logs, and feed status to start fresh
+
 ## Configuration
 
 ### Directory Structure
@@ -102,6 +110,8 @@ data/
 public/
   my-topic.xml       # Output Atom feed
 ```
+
+Each run also generates `data/last_feeds-status.md` with feed health (healthy, stalled, errors).
 
 ### LOI Configuration
 
@@ -135,7 +145,9 @@ custom_instructions: |
 retention:
   feed_hours: 168          # Papers stay in feed for 1 week
   fetch_hours: 168         # Fetch papers from last week
+  stale_feed_days: 30      # Mark feed as stalled after 30 days without entries
   history_max_entries: 100000
+  log_retention_days: 7    # Auto-delete logs older than 7 days
 ```
 
 **ai.yaml** — Model:
@@ -155,7 +167,8 @@ models:
 To pull updates from the main Paper Digest repo:
 
 ```bash
-./scripts/update.sh
+./scripts/update.sh          # Fetch, merge, and push
+./scripts/update.sh --check  # Check for updates without merging
 ```
 
 Or manually:
