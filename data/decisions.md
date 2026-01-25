@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Evolutionary history and functional divergence of hydroxycar](https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1) |
+| keyword_rejected | - | [Efficient and rapid isolation of native AMPA receptor comple](https://onlinelibrary.wiley.com/doi/10.1002/pro.70483?af=R) |
+| keyword_rejected | - | [Cardiomyopathy‐associated and basic residue mutations in myo](https://onlinelibrary.wiley.com/doi/10.1002/pro.70490?af=R) |
+| keyword_rejected | - | [Guiding AlphaFold predictions with experimental knowledge to](https://onlinelibrary.wiley.com/doi/10.1002/pro.70481?af=R) |
+| keyword_rejected | - | [L'histoire de la domination masculine](https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/l-histoire-de-la-domination-masculine_190080?xtor=RSS-10) |
+| keyword_rejected | - | [Effectively detect doxycycline in variable sample fields thr](https://www.nature.com/articles/s41598-026-36947-8) |
+| keyword_rejected | - | [Adhesion and polarity-driven morphogenesis: Mechanismsand co](https://www.biorxiv.org/content/10.64898/2026.01.23.701437v1?rss=1) |
 | keyword_rejected | - | [Let's nitpick about the physics of Stranger Things, not its ](https://www.newscientist.com/article/mg26935795-700-lets-nitpick-about-the-physics-of-stranger-things-not-its-ending/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Let's nitpick about the physics of Stranger Things, not its ](https://www.newscientist.com/article/mg26935795-700-lets-nitpick-about-the-physics-of-stranger-things-not-its-ending/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Let's nitpick about the physics of Stranger Things, not its ](https://www.newscientist.com/article/mg26935795-700-lets-nitpick-about-the-physics-of-stranger-things-not-its-ending/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

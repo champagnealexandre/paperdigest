@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-25T08:22:43.435463+00:00</updated>
+  <updated>2026-01-25T09:18:23.630530+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary history and functional divergence of hydroxycarboxylic acid receptors in primates</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1</id>
+    <updated>2026-01-25T00:00:00Z</updated>
+    <summary>Hydroxycarboxylic acid receptors (HCARs) are class A G-protein-coupled receptors that function as metabolic sensors. This receptor family includes three members (HCAR1, HCAR2, and HCAR3) expressed in </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Phylogenetic and expression analyses suggest multiple independent duplications of primate HCAR2/HCAR3 genes in apes, with functional innovation largely tied to HCAR3’s lipid-metabolism regulation rather than HCAR2.</p>
+<p><strong>Abstract:</strong> Hydroxycarboxylic acid receptors (HCARs) are class A G-protein-coupled receptors that function as metabolic sensors. This receptor family includes three members (HCAR1, HCAR2, and HCAR3) expressed in metabolically active tissues and immune cells, where they link cellular metabolic status to physiological responses. This study aims to elucidate the evolutionary history of the most recently originated members of the HCAR gene family, namely HCAR2 and HCAR3, in primates. According to our phylogenetic analyses, the duplicative history of these genes involved multiple independent duplication events during ape evolution. Thus, most ape lineages possess independently originated duplicated copies, while non-ape primates retain the ancestral condition of a single-copy gene (HCAR2/3). Our analyses further indicate that this single-copy gene in non-ape primates is functionally equivalent to HCAR2, suggesting that the primary functional innovation in apes is associated with the physiological roles of HCAR3. Finally, gene expression analyses reveal that major divergence in tissue expression occurred after the initial duplication event that generated HCAR1 and the HCAR2/3 lineage, whereas HCAR2 and HCAR3 exhibit substantial overlap in their expression profiles. Thus, the more refined and context-dependent regulation of lipid metabolism that provides the HCAR3 receptor seems to have originated multiple times during the evolutionary history of apes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] biochemistry - biorXiv Preprints ▶ Mismatch type impacts interference and priming activities in the type I-E CRISPR-Cas system</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1"/>
