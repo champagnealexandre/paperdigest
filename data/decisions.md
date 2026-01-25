@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Let's nitpick about the physics of Stranger Things, not its ](https://www.newscientist.com/article/mg26935795-700-lets-nitpick-about-the-physics-of-stranger-things-not-its-ending/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Let's nitpick about the physics of Stranger Things, not its ](https://www.newscientist.com/article/mg26935795-700-lets-nitpick-about-the-physics-of-stranger-things-not-its-ending/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Let's nitpick about the physics of Stranger Things, not its ](https://www.newscientist.com/article/mg26935795-700-lets-nitpick-about-the-physics-of-stranger-things-not-its-ending/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Two year outcomes of as needed brolucizumab therapy in exuda](https://www.nature.com/articles/s41598-026-37591-y) |
+| keyword_rejected | - | [Enhancing salinity tolerance and growth of <i>Spinacia olera](https://www.nature.com/articles/s41598-025-34907-2) |
+| keyword_rejected | - | [A time-coupled multi-objective distributionally robust chanc](https://www.nature.com/articles/s41598-026-37197-4) |
+| keyword_rejected | - | [Identification of candidate microRNA biomarkers of endometri](https://www.nature.com/articles/s41598-026-37277-5) |
+| keyword_rejected | - | [Resting-state brain function and its modulation by intranasa](https://www.nature.com/articles/s41598-026-36661-5) |
+| keyword_rejected | - | [Research on aging-friendly design risk assessment model base](https://www.nature.com/articles/s41598-026-35991-8) |
+| keyword_rejected | - | [Probabilistic risk assessment of occupational exposure to re](https://www.nature.com/articles/s41598-026-37121-w) |
+| keyword_rejected | - | [Exploring the role of vascular factors and tissue properties](https://www.biorxiv.org/content/10.64898/2026.01.23.701278v1?rss=1) |
 | keyword_rejected | - | [Le vélo, plus efficace que les autres moyens de transport… e](https://www.pourlascience.fr/sr/infographie/le-velo-plus-efficace-que-les-autres-moyens-de-transport-et-que-les-animaux-28720.php) |
 | keyword_rejected | - | [Breakdown of Rheological Universality in the Vegetal Hemisph](https://www.biorxiv.org/content/10.64898/2026.01.23.701227v1?rss=1) |
 | keyword_rejected | - | [Orthogonal Force Balance Between Contractility and Shear Str](https://www.biorxiv.org/content/10.64898/2026.01.22.701159v1?rss=1) |
