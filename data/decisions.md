@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [En Inde, la grande course à la fabrication des panneaux sola](https://www.sciencesetavenir.fr/nature-environnement/en-inde-la-grande-course-a-la-fabrication-des-panneaux-solaires_190564?xtor=RSS-15) |
+| keyword_rejected | - | [Le gouvernement inscrit le rythme de réchauffement dans la r](https://www.sciencesetavenir.fr/nature-environnement/le-gouvernement-inscrit-le-rythme-de-rechauffement-dans-la-reglementation_190565?xtor=RSS-15) |
+| keyword_rejected | - | [Obesity as a predictor of atherogenic dyslipidemia in patien](https://www.nature.com/articles/s41598-026-35525-2) |
+| keyword_rejected | - | [A semantics for Boolean networks consistent with regulatory ](https://www.sciencedirect.com/science/article/pii/S0022519326000032?dgcid=rss_sd_all) |
 | ai_scored | 5 | [Evolutionary history and functional divergence of hydroxycar](https://www.biorxiv.org/content/10.64898/2026.01.23.701403v1?rss=1) |
 | keyword_rejected | - | [Efficient and rapid isolation of native AMPA receptor comple](https://onlinelibrary.wiley.com/doi/10.1002/pro.70483?af=R) |
 | keyword_rejected | - | [Cardiomyopathy‐associated and basic residue mutations in myo](https://onlinelibrary.wiley.com/doi/10.1002/pro.70490?af=R) |
