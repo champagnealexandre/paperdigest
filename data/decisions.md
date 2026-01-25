@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [New DNA analysis rewrites the story of the Beachy Head Woman](https://www.sciencedaily.com/releases/2026/01/260125083421.htm) |
+| keyword_rejected | - | [Realising the importance of our microbiome: Best ideas of th](https://www.newscientist.com/article/2508422-realising-the-importance-of-our-microbiome-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Realising the importance of our microbiome: Best ideas of th](https://www.newscientist.com/article/2508422-realising-the-importance-of-our-microbiome-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Realising the importance of our microbiome: Best ideas of th](https://www.newscientist.com/article/2508422-realising-the-importance-of-our-microbiome-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Forty years of forest data reveal a changing Amazon](https://www.sciencedaily.com/releases/2026/01/260125081133.htm) |
+| keyword_rejected | - | [Ancient people carried a wild potato across the American Sou](https://www.sciencedaily.com/releases/2026/01/260125081143.htm) |
 | ai_scored | 0 | [Collecte de vêtements en France: un modèle usé jusqu'à la co](https://www.sciencesetavenir.fr/nature-environnement/collecte-de-vetements-en-france-un-modele-use-jusqu-a-la-corde_190567?xtor=RSS-15) |
 | keyword_rejected | - | [Babies who attend daycare share 'good' germs, too](https://www.scientificamerican.com/article/babies-who-attend-daycare-share-good-germs-too/) |
 | keyword_rejected | - | [Loin d'Angkor, aux origines de la grandeur khmère](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/loin-d-angkor-aux-origines-de-la-grandeur-khmere_190114?xtor=RSS-4) |
