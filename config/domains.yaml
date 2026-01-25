@@ -2,31 +2,128 @@
 # Links from these domains are extracted and passed to the AI for scoring
 
 academic_domains:
+  # Universal identifiers & repositories
   - doi.org
   - arxiv.org
   - biorxiv.org
+  - medrxiv.org
+  - chemrxiv.org
+  - psyarxiv.com
+  - osf.io
+  - ssrn.com
+  - zenodo.org
+  - hal.science
+  
+  # PubMed / NIH
   - ncbi.nlm.nih.gov
+  - pubmed.ncbi.nlm.nih.gov
+  - nih.gov
+  
+  # Major multidisciplinary publishers
   - nature.com
   - science.org
+  - sciencemag.org
   - pnas.org
-  - acs.org
-  - wiley.com
-  - springer.com
   - cell.com
-  - oup.com
-  - iop.org
-  - aps.org
-  - sciencedirect.com
+  - plos.org
+  - plosbiology.org
+  - plosone.org
+  - elifesciences.org
+  - royalsocietypublishing.org
+  - annualreviews.org
+  
+  # Major commercial publishers
   - elsevier.com
+  - sciencedirect.com
   - linkinghub.elsevier.com
-  - mdpi.com
-  - frontiersin.org
+  - springer.com
+  - link.springer.com
+  - springeropen.com
+  - wiley.com
+  - onlinelibrary.wiley.com
+  - oup.com
+  - academic.oup.com
   - tandfonline.com
   - sagepub.com
+  - cambridge.org
+  - degruyter.com
+  
+  # Chemistry
+  - acs.org
+  - pubs.acs.org
+  - rsc.org
+  - pubs.rsc.org
+  - chemeurj.org
+  - chemistry-europe.onlinelibrary.wiley.com
+  
+  # Physics
+  - aps.org
+  - journals.aps.org
+  - iop.org
+  - iopscience.iop.org
+  - aip.org
+  - aip.scitation.org
+  - aapt.org
+  - physicstoday.org
+  
+  # Mathematics
+  - ams.org
+  - siam.org
+  - epubs.siam.org
+  - msp.org
+  - projecteuclid.org
+  - mathscinet.ams.org
+  - ems.press
+  
+  # Computer Science
   - ieee.org
-  - osapublishing.org
-  - optica.org
+  - ieeexplore.ieee.org
+  - acm.org
+  - dl.acm.org
+  - jmlr.org
+  - neurips.cc
+  - openreview.net
+  - aclweb.org
+  
+  # Neuroscience & Psychology
+  - jneurosci.org
+  - eneuro.org
+  - cognitivesciencesociety.org
+  - psychologicalscience.org
+  - apa.org
+  - psycnet.apa.org
+  - bps.org.uk
+  
+  # Biology & Life Sciences
+  - biomedcentral.com
+  - bmc.com
+  - genetics.org
+  - genetics-gsa.org
+  - biologists.com
+  - biologists.org
+  - faseb.org
+  - fasebj.org
+  - embopress.org
+  - rupress.org
+  - cshlp.org
+  - genesdev.cshlp.org
+  
+  # Open Access & MDPI
+  - mdpi.com
+  - frontiersin.org
+  - hindawi.com
+  - peerj.com
+  - f1000research.com
+  
+  # Astronomy & Earth Sciences
   - aanda.org
   - agu.org
+  - agupubs.onlinelibrary.wiley.com
   - geoscienceworld.org
   - gsapubs.org
+  - iopscience.iop.org/journal/0004-637X
+  
+  # Optics
+  - osapublishing.org
+  - optica.org
+  - opticaopen.org
