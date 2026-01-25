@@ -8,8 +8,8 @@ from .utils import clean_text, strip_invalid_xml_chars
 
 FEED_TEMPLATE = """<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>OOL Digest</title>
-  <subtitle>AI-curated Origins of Life papers</subtitle>
+  <title>{feed_title}</title>
+  <subtitle>{feed_subtitle}</subtitle>
   <link href="{feed_url}" rel="self"/>
   <updated>{now}</updated>
   <id>{feed_url}</id>
@@ -103,9 +103,21 @@ def _build_entry(paper: Dict[str, Any]) -> str:
     )
 
 
-def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename: str) -> None:
-    """Generate an Atom feed XML file."""
+def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename: str,
+                  loi_name: str = "Digest", loi_base_url: str = "") -> None:
+    """Generate an Atom feed XML file.
+    
+    Args:
+        papers: List of paper dicts to include in feed
+        config: Configuration dict (needs retention settings)
+        filename: Output filename (e.g., 'ooldigest-ai.xml')
+        loi_name: Name of the Line of Investigation (e.g., 'OOL Digest')
+        loi_base_url: Base URL for this LOI (e.g., 'https://example.com/ooldigest')
+    """
     os.makedirs("public", exist_ok=True)
+    
+    # Use provided base_url or fall back to config
+    base_url = loi_base_url or config.get('base_url', '')
     
     # Filter papers by retention time
     retention_hours = config.get('retention', {}).get('feed_hours', 24)
@@ -126,7 +138,9 @@ def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename
     entries = "\n".join(e for e in (_build_entry(p) for p in filtered_papers) if e)
     
     feed_xml = FEED_TEMPLATE.format(
-        feed_url=f"{config['base_url']}/{filename}",
+        feed_title=loi_name,
+        feed_subtitle=f"AI-curated {loi_name} papers",
+        feed_url=f"{base_url}/{filename}",
         now=datetime.datetime.now(datetime.timezone.utc).isoformat(),
         entries=entries
     )
