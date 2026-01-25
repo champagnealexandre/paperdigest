@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-24T23:16:52.737568+00:00</updated>
+  <updated>2026-01-25T01:39:29.044257+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🔴 [20] Astrobiology (astrobiology.com) ▶ Dale Andersen’s Astrobiology Antarctic Status Report: 24 January 2026: Lake Untersee Base Camp Weather Conditions and Forecast</title>
@@ -7047,20 +7047,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://www.nature.com/articles/s41467-026-68392-6">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [50] biophysics - biorXiv Preprints ▶ An Adenine-Based Molecular Rotor as a Universal Fluorescent Nucleobase with High Brightness</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1</id>
-    <updated>2026-01-18T00:00:00Z</updated>
-    <summary>Chemically modified nucleic acids have become a powerful platform for basic research and applied technologies. Universal nucleobases are used in PCR,sequencing, and the design of nanodevices and aptam</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
-<p><strong>AI Decision:</strong> Reports a very bright adenine-derived fluorescent “universal” nucleobase that perturbs pairing by base-flipping and hydrophobic stacking—useful for nucleic-acid probing but only indirectly relevant to origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Chemically modified nucleic acids have become a powerful platform for basic research and applied technologies. Universal nucleobases are used in PCR,sequencing, and the design of nanodevices and aptamers. Fluorescent universal nucleobases have an even wider range of applications, including the development of nucleic acid-based sensors, switches, and relay logic gates. However, few such nucleobases have been proposed to date, and most of them have suboptimal optical properties. Here, we propose an adenine-based molecular rotor, 7,8-dihydro-8-oxo-6-(3-methylbenzo[d]thiazol-2(3H)-ylidene)adenine (oxo-AdeBZT), as a new, remarkably bright and potent fluorescent universal nucleobase. Its brightness in both oligodeoxyribonucleotides (ODNs) and DNA duplexes (4200 - 10000 M-1 * cm-1) originates from a high molar extinction coefficient (averaged 37000 M-1 * cm-1), provided by the appended 3-methylbenzo[d]thiazolyl moiety, and a relatively high quantum yield (0.11 - 0.27). Melting temperature variations observed upon the incorporation of oxo-AdeBZT opposite native nucleobases in a duplex context did not exceed 10%. The basis of these universal hybridizing properties was unveiled using computational methods. According to molecular dynamics simulations, oxo-AdeBZT pushes the opposite nucleobase out of the DNA double helix and forms multiple hydrophobic contacts with the flanking base pairs. At the same time, the rotational mobility of the bonds between the oxo-AdeBZT-constituting heterobicycles decreases, and oxo-AdeBZT adopts a planar conformation in both ODNs and their duplexes, resulting in the light-up effect. These properties make oxo-AdeBZT a promising molecular tool for analytical, biophysical and biochemical studies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700143v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] Nature Communications ▶ Controlled hierarchical self-assembly of hyperbolic paraboloid molecules into two-dimensional superstructures with second-harmonic generation characteristic</title>
     <link href="https://www.nature.com/articles/s41467-026-68567-1"/>
     <id>https://www.nature.com/articles/s41467-026-68567-1</id>
@@ -7073,76 +7059,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://www.nature.com/articles/s41467-026-68567-1">https://www.nature.com/articles/s41467-026-68567-1</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41467-026-68567-1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] biophysics - biorXiv Preprints ▶ STRUCT2SEQ: RNA INVERSE FOLDING WITH DEEP Q-LEARNING</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.700031v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.700031v1?rss=1</id>
-    <updated>2026-01-18T00:00:00Z</updated>
-    <summary>RNA molecules play critical roles in biology and therapeutics, with their function intimately tied to their secondary structure. Designing RNA sequences that reliably fold into desired secondary struc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Reinforcement-learning approach (deep Q-learning) for inverse RNA folding that designs sequences to match target secondary structures (including pseudoknots) and SHAPE constraints, offering enabling methodology with indirect relevance to RNA-world/Origins-of-Life research.</p>
-<p><strong>Abstract:</strong> RNA molecules play critical roles in biology and therapeutics, with their function intimately tied to their secondary structure. Designing RNA sequences that reliably fold into desired secondary structures, especially those with complex pseudoknots, remains a fundamental challenge. Here, we present Struct2SeQ, a reinforcement learning framework that leverages deep Q-learning to generate RNA sequences conditioned on target secondary structures and SHAPE reactivity constraints. By formulating RNA design as a sequential decision-making process, our model learns to construct sequences that not only fold into the intended structures but also exhibit experimentally consistent SHAPE profiles. Evaluated with experimental data from the OpenKnot 240mer pseudoknot design challenges, Struct2SeQ significantly outperformed humans and other automated design methods while generating diverse solutions that explore a broader sequence space compared to human players. The incorporation of SHAPE-informed rewards further enhances the chemical validity of generated sequences, as evidenced by improved OpenKnot scores. Our results demonstrate the potential of reinforcement learning for RNA design tasks, opening avenues for engineering RNAs with complex structures and functions</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.700031v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.700031v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.700031v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Amino acid variants at the P94 position in Staphylococcus aureus class A sortase modulate substrate binding and enzyme activity</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.18.700168v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.18.700168v1?rss=1</id>
-    <updated>2026-01-18T00:00:00Z</updated>
-    <summary>The surface of gram-positive bacteria is a highly regulated environment with specific attachment of proteins required for viability. Sortase enzymes are cysteine transpeptidases that recognize and lig</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This bioRxiv preprint engineers Staphylococcus aureus sortase A by scanning P94 substitutions, identifying variants that enhance LPXTG substrate-dependent binding and ligation activity, but it has minimal direct relevance to origins-of-life research (aside from a tangential connection to protein evolution/engineering).</p>
-<p><strong>Abstract:</strong> The surface of gram-positive bacteria is a highly regulated environment with specific attachment of proteins required for viability. Sortase enzymes are cysteine transpeptidases that recognize and ligate substrates to the peptidoglycan layer in these microorganisms, which can be highly pathogenic (e.g., Staphylococcus aureus, Streptococcus pyogenes, etc.). As such, sortases represent a potentially novel target for antibiotic development. In addition, the catalytic activity of sortase enzymes is utilized in sortase mediated ligation (SML) engineering approaches for a variety of uses. In SML experiments, engineered variants of Staphylococcus aureus sortase A (saSrtA) are the most widely used enzymes. One of the mutated amino acids in the previously engineered pentamutant (or saSrtA5M) enzyme is P94. Structural analyses of experimental saSrtA structures revealed that P94 interacts directly with Y187 when saSrtA is in its inactive conformation. While saSrtA5M, developed via directed evolution, contains a P94R mutation, we wanted to interrogate this position further and ask if other single P94 mutations may reveal a greater effect on activity and/or substrate specificity. We created 18 P94X mutations (excluding P94C), and tested relative activity using a fluorescence resonance energy transfer (FRET) assay for 4 substrate sequences: LPATG, LPETG, LPKTG, and LPSTG. We identified several P94 variants that outperformed the single mutant P94R for all peptides tested, including P94A, P94D, P94E, P94G, P94H, P94N, P94Q, P94S, and P94T. We further observed that the reactivity of substrates with variations in the central position of the pentapeptide recognition motif (LPXTG) can be sensitive to the identity of the P94X residue. We tested P94A and P94D saSrtA5M variants and found that, depending on LPXTG sequence, these variants could outperform saSrtA5M in activity &gt; 3-fold. Finally, we compared saSrtA5M and P94D saSrtA5M in a model sortase-mediated ligation reaction using a LPKTG substrate and saw ~2-fold greater product formation. Taken together, we characterized an important position that modulates substrate access and activity in saSrtA. Furthermore, we argue that future studies which combine rational design and high throughput approaches, e.g., directed evolution, may result in sortase variants with increased SML potential.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700168v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.18.700168v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700168v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] biochemistry - biorXiv Preprints ▶ The E. coli clamp loader sharply bends DNA to load β-clamp onto small gaps</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1</id>
-    <updated>2026-01-18T00:00:00Z</updated>
-    <summary>DNA sliding clamps are used by the replication machines of all organisms, from bacteria to human. These clamps do not self-assemble onto DNA but require a multiprotein ATPase clamp loader that recogni</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, DNA</p>
-<p><strong>AI Decision:</strong> This study reveals that the bacterial DnaX clamp loader bends gapped DNA ~150° and relies on an external β-clamp DNA-binding site—highlighting mechanistic diversity in DNA replication/repair that is broadly relevant to molecular evolution but not directly to origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> DNA sliding clamps are used by the replication machines of all organisms, from bacteria to human. These clamps do not self-assemble onto DNA but require a multiprotein ATPase clamp loader that recognizes a DNA 3&#x27;-recessed end to open and close sliding clamps onto it. We find here that the mechanism of clamp loading onto small ssDNA gaps is profoundly different between bacteria and eukaryotes. The eukaryotic RFC clamp loader unwinds dsDNA from the 3&#x27;-recessed end to widen the ssDNA gap and also binds the 5&#x27;-recessed DNA end at an external shoulder site. In contrast, the bacterial DnaX-complex neither unwinds DNA nor stably binds DNA at the shoulder site in vitro. Instead, the bacterial {beta}-clamp has evolved an external DNA binding site that enables the DnaX-complex to sharply bend a gapped DNA by 150{degrees} to insert it into the clamp. Small DNA gaps are frequently associated with DNA damage, and the clamps loaded at these sites likely function in DNA repair.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700081v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] biochemistry - biorXiv Preprints ▶ Characterization of novel cytoplasmic roles for the N-terminal methyltransferase NRMT1</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1</id>
-    <updated>2026-01-18T00:00:00Z</updated>
-    <summary>N-terminal methylation of proteins by the trimethylase NRMT1 plays important roles in oncogenesis, development, and aging. As N-terminal methylation has frequently been shown to regulate protein-DNA i</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, DNA</p>
-<p><strong>AI Decision:</strong> This study identifies a new cytoplasmic role for the eukaryotic N-terminal methyltransferase NRMT1 in modulating early translation and ER-associated targeting, but it is largely modern cell biology with limited direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> N-terminal methylation of proteins by the trimethylase NRMT1 plays important roles in oncogenesis, development, and aging. As N-terminal methylation has frequently been shown to regulate protein-DNA interactions, and many NRMT1 substrates are transcription factors or regulators of chromatin structure, previous research has focused on how transcriptional regulation by NRMT1 affects cell growth and differentiation. However, we have recently identified a new, cytoplasmic role for NRMT1, inhibiting the eukaryotic elongation factor 1 alpha (eEF1A) methyltransferase METTL13, which indicates NRMT1 could also be acting as a translational regulator. Here we further explore NRMT1 cytoplasmic functions and show that, unlike previously thought, NRMT1 can methylate substrates in the cytoplasm. We also show that while many of these substrates remain bound to NRMT1, it can also interact with a number of non-target ribosomal proteins and proteins associated with the endoplasmic reticulum (ER). To confirm NRMT1 interaction with the ribosome, we performed polysome profiling, which showed a portion of NRMT1 co-migrates with the 40S and 60S subunits but not with actively translating polysomes, indicating NRMT1 may play an early role in translation. To see if NRMT1 was affecting target mRNA selection of ribosomes, we also performed ribosome-sequencing experiments in proliferating and differentiating C2C12 mouse myoblasts. These results show a striking upregulation of translation of soluble proteins with NRMT1 loss and corresponding decrease in translation of transmembrane and signal sequence-containing proteins. We now propose a model where NRMT1 regulates the translation of transmembrane and secreted proteins by facilitating interactions between the ribosome and the ER.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700099v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] molecular biology - biorXiv Preprints ▶ Inositol hexakisphosphate Functions as a Cofactor and Modulator of ADAR1 Activity</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1</id>
-    <updated>2026-01-18T00:00:00Z</updated>
-    <summary>Adenosine-to-inosine (A-to-I) RNA editing, catalyzed by adenosine deaminases acting on RNA (ADARs), is a key post-transcriptional modification that regulates RNA splicing, stability, and translation. </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Error</p>
-<p><strong>Abstract:</strong> Adenosine-to-inosine (A-to-I) RNA editing, catalyzed by adenosine deaminases acting on RNA (ADARs), is a key post-transcriptional modification that regulates RNA splicing, stability, and translation. Dysregulation of ADAR activity caused by mutations in ADAR1 leads to Aicardi-Goutieres syndrome (AGS), an autoimmune disorder characterized by aberrant activation of Melanoma differentiation-associated protein 5 (MDA5) by self RNA and excessive type I interferon production. Despite its biological and clinical relevance, the regulation of ADAR1 activity remains incompletely understood. Here, we show that ADAR1 protein levels and RNA editing activity in mammalian cells critically depend on the cofactor inositol hexakisphosphate (IP6). Using Inositol-pentakisphosphate 2-kinase (IPPK)-knockout cells, next-generation sequencing (NGS), and a cell-permeable IP6 prodrug (Pro-IP6), we demonstrate that IP6 depletion drastically reduces global RNA editing, while supplementation with Pro-IP6 restores and even enhances editing levels. In vitro ADAR1 translation and RNA editing assays revealed that IP6 contributes to the folding and full catalytic activity of ADAR1, and that inositol pentakisphosphate (1,3,4,5,6-IP5) can partially substitute IP6 as a cofactor. Molecular dynamics simulations and biochemical analyses identified the C6-phosphate of IP6 as a critical determinant of ADAR1 catalytic efficiency, functioning within a hydrogen-bonding network that indirectly governs Zn2+-ion positioning through interactions with key residues, including K1039 and N907. Notably, the AGS-associated N907S mutation impairs RNA editing, by altering IP6 coordination and introducing a more dynamic situation in the hydrogen-bonding network that linked IP6 and Zn2+-ion. Together, these findings identifies IP6 as an essential cofactor and regulator of ADAR1 activity and highlights cofactor availability and interaction networks as potential strategies for therapeutically modulating RNA editing in disease.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.699700v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Setting Up The Physical Principles Of Resilience In A Model Of The Earth System</title>

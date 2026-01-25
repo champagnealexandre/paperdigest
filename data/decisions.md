@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Comprehensive benchmarking single and multi ancestry polygen](https://www.nature.com/articles/s41467-026-68599-7) |
+| keyword_rejected | - | [Fractal nature of galaxy clustering in the updated CfA Redsh](https://www.nature.com/articles/s41598-026-36013-3) |
+| keyword_rejected | - | [Comprehensive benchmarking single and multi ancestry polygen](https://www.nature.com/articles/s41467-026-68599-7) |
+| keyword_rejected | - | [Nuclear plasticity regulates macrophage phagocytic capacity ](https://www.biorxiv.org/content/10.64898/2026.01.22.700862v1?rss=1) |
+| keyword_rejected | - | [DeltaNMF: A Two-Stage Neural NMF for Differential Gene Progr](https://www.biorxiv.org/content/10.64898/2026.01.22.701049v1?rss=1) |
 | keyword_rejected | - | [Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the ce](https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the ce](https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Crowdsourcing Wikipedia’s encyclopedia: Best ideas of the ce](https://www.newscientist.com/article/2510765-crowdsourcing-wikipedias-encyclopedia-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
