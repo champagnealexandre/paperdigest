@@ -3,6 +3,7 @@
 import os
 import html
 import datetime
+from dateutil import parser as dateparser
 from typing import List, Dict, Any
 from .utils import clean_text, strip_invalid_xml_chars
 
@@ -129,7 +130,7 @@ def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename
         if pub_date:
             if isinstance(pub_date, str):
                 try:
-                    pub_date = datetime.datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+                    pub_date = dateparser.isoparse(pub_date)
                 except ValueError:
                     pub_date = None
             if pub_date and pub_date >= cutoff:

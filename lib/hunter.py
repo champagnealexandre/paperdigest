@@ -23,9 +23,9 @@ def hunt_paper_links(url: str, academic_domains: List[str]) -> List[str]:
         response.raise_for_status()
         
         # 1. Regex DOI Scan (prioritized - these are the real paper links)
-        dois = re.findall(r'10\.\d{4,9}/[-._;()/:A-Z0-9a-z]+', response.text)
+        dois = re.findall(r'10\.\d{4,9}/[^\s"<>]+', response.text)
         for doi in dois:
-            clean_doi = doi.rstrip('.,)').rstrip(';')
+            clean_doi = doi.rstrip('.,);\'"')
             # Skip DOIs with metadata suffixes
             if ';' not in clean_doi:
                 found_links.add(f"https://doi.org/{clean_doi}")

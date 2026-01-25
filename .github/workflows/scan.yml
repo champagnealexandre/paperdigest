@@ -31,16 +31,14 @@ jobs:
       - name: Reset all data (papers, decisions, logs, feed status)
         if: ${{ inputs.reset_all_data }}
         run: |
-          mkdir -p data
-          echo "[]" > data/papers.json
-          rm -f data/decisions.md
+          find data -name 'papers.json' -exec sh -c 'echo "[]" > "$1"' _ {} \;
+          find data -name 'decisions.md' -delete
           rm -f data/last_feeds-status.md
           rm -rf data/logs/
 
       - name: Ensure data directory exists
         run: |
           mkdir -p data
-          [ -f data/papers.json ] || echo "[]" > data/papers.json
 
       - uses: actions/setup-python@v5
         with:

@@ -370,7 +370,8 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
                 processed.append(paper)
             except Exception as e:
                 errors += 1
-                logging.debug(f"[{loi.slug}] Error processing paper: {e}")
+                failed_paper = futures[fut]
+                logging.warning(f"[{loi.slug}] Error processing '{failed_paper.title[:50]}': {e}")
     
     # Mark processed papers as ai_scored
     for p in processed:
@@ -471,7 +472,11 @@ def main():
     logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds ({errors_count} errors)")
     
     # Initialize AI client (shared across all LOIs)
-    client = ai.get_client(os.getenv("LLM_API_KEY"))
+    api_key = os.getenv("LLM_API_KEY")
+    if not api_key:
+        logging.error("LLM_API_KEY environment variable not set. Exiting.")
+        return
+    client = ai.get_client(api_key)
     
     # Process each LOI
     for loi in config.lois:
