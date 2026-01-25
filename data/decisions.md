@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Loin d'Angkor, aux origines de la grandeur khmère](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/loin-d-angkor-aux-origines-de-la-grandeur-khmere_190114?xtor=RSS-4) |
 | ai_scored | 10 | [Antifragility and Growth Through Adversity: A Scoping Review](https://comdig.unam.mx/2026/01/25/antifragility-and-growth-through-adversity-a-scoping-review/) |
 | keyword_rejected | - | [Want to live longer? The tiniest of lifestyle changes can dr](https://www.scientificamerican.com/article/want-to-live-longer-the-tiniest-of-lifestyle-changes-can-dramatically-boost/) |
 | keyword_rejected | - | [Quantum physicists just supersized Schrödinger’s cat](https://www.scientificamerican.com/article/quantum-physicists-just-supersized-schroedingers-cat/) |
