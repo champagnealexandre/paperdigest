@@ -393,6 +393,28 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
     logging.info(f"[{loi.slug}] Done. History has {len(new_history)} papers ({len(ai_scored)} AI-scored).")
 
 
+def cleanup_old_logs(retention_days: int = 7):
+    """Delete log files older than retention_days."""
+    log_dir = "data/logs"
+    if not os.path.exists(log_dir):
+        return
+    
+    cutoff = datetime.datetime.now() - datetime.timedelta(days=retention_days)
+    deleted = 0
+    for filename in os.listdir(log_dir):
+        if not filename.endswith('.txt'):
+            continue
+        filepath = os.path.join(log_dir, filename)
+        try:
+            mtime = datetime.datetime.fromtimestamp(os.path.getmtime(filepath))
+            if mtime < cutoff:
+                os.remove(filepath)
+                deleted += 1
+        except (OSError, ValueError):
+            pass
+    return deleted
+
+
 def main():
     # Setup logging: console + timestamped file
     os.makedirs("data/logs", exist_ok=True)
@@ -409,6 +431,12 @@ def main():
     logging.getLogger("httpx").setLevel(logging.WARNING)
     
     config = load_config()
+    
+    # Cleanup old log files
+    log_retention = getattr(config.retention, 'log_retention_days', 7)
+    deleted_logs = cleanup_old_logs(log_retention)
+    if deleted_logs:
+        logging.info(f"Cleaned up {deleted_logs} old log file(s)")
     
     if not config.lois:
         logging.error("No LOI configs found in config/loi/. Exiting.")

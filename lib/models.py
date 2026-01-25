@@ -11,6 +11,7 @@ class RetentionConfig(BaseModel):
     fetch_hours: int = 24          # How far back to fetch new papers
     stale_feed_days: int = 30      # Days before a feed is marked as stalled
     history_max_entries: int = 100000  # Max papers to keep in history file
+    log_retention_days: int = 7    # Days to keep log files
 
 
 class LOIConfig(BaseModel):
