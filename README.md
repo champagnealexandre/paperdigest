@@ -72,9 +72,10 @@ python main.py
 
 1. Go to your repo's **Settings → Actions → General**
 2. Under "Actions permissions", select **Allow all actions**
-3. Add your `OPENROUTER_API_KEY` as a repository secret (Settings → Secrets)
-4. Manually trigger the workflow once (Actions → Hourly Scan → Run workflow)
-5. The workflow will then run hourly and deploy feeds to GitHub Pages
+3. Add your `OPENROUTER_API_KEY` as a repository secret (Settings → Secrets → Actions)
+4. Enable GitHub Pages: **Settings → Pages → Source → "GitHub Actions"**
+5. Manually trigger the workflow once (Actions → Hourly Scan → Run workflow)
+6. The workflow will then run hourly and deploy feeds to GitHub Pages
 
 > ⚠️ **Important:** GitHub disables scheduled workflows after 60 days of repository inactivity. If your scans stop running, manually trigger the workflow or push a commit to restart the schedule.
 
