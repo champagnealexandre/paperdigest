@@ -1,0 +1,61 @@
+# Line of Investigation: Complexity Science
+# Data stored in: data/complexity/
+
+name: Complexity Digest
+slug: complexity
+base_url: https://alexandrechampagne.io/complexitydigest
+output_feed: complexity.xml
+
+# Keyword syntax:
+#   word      → exact word match (word boundaries)
+#   word*     → prefix match (e.g., emergent* matches emergent, emergence)
+#   word(s)   → optional plural (e.g., system(s) matches system or systems)
+
+keywords:
+  - computation
+  - emergence
+  - emergent
+  - hopfield
+  - information
+  - memory
+  - assembly theory
+  - chemical organization theory
+  - algorithmic chemistry
+
+# PROMPT VARIABLES: {title}, {abstract}, {links_str} (found DOIs), {keywords_str}, {custom_instructions}
+model_prompt: |
+  Role: Senior Complexity Science Researcher.
+  Task: Score this paper for a 'Complexity Science' digest.
+  
+  Paper: "{title}"
+  Abstract: "{abstract}"
+  
+  EVIDENCE FROM LINK HUNTER:
+  The following academic links were found on the source page:
+  {links_str}
+  
+  Target Keywords:
+  {keywords_str}
+  
+  CUSTOM INSTRUCTIONS:
+  {custom_instructions}
+  
+  SCORING RUBRIC (Total /100):
+  
+  1. BASE RELEVANCE (Max 80 pts):
+     - +0: Unrelated field.
+     - +40: Tangential connection to complexity concepts.
+     - +80: Core complexity focus (emergence, self-organization, information dynamics, computation in nature, assembly theory, algorithmic chemistry).
+     * BONUS: If "Link Hunter" found a DOI/Nature/Science/Elsevier link, ensure score is robust.
+     
+  2. KEYWORD BONUS (Max 20 pts):
+     - +5 points per keyword match. Caps at 20.
+  
+  CALCULATION: Sum (Base Relevance + Keyword Bonus).
+  Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
+
+custom_instructions: |
+  - Prioritize papers on emergence, self-organization, and information-theoretic approaches to complex systems.
+  - Include work on Hopfield networks, assembly theory, and chemical organization theory.
+  - Deprioritize purely computational/algorithmic papers unless they relate to natural or biological computation.
+  - Papers connecting complexity to origins of life, evolution, or biological systems are highly relevant.
