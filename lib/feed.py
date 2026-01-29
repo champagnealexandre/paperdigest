@@ -5,7 +5,7 @@ import html
 import datetime
 from dateutil import parser as dateparser
 from typing import List, Dict, Any
-from .utils import clean_text, strip_invalid_xml_chars, normalize_url
+from .utils import clean_text, strip_invalid_xml_chars
 
 FEED_TEMPLATE = """<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -135,17 +135,8 @@ def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename
                     pub_date = None
             if pub_date and pub_date >= cutoff:
                 filtered_papers.append(p)
-    
-    # Deduplicate by normalized URL (safety net against duplicates in history)
-    seen_urls = set()
-    unique_papers = []
-    for p in filtered_papers:
-        norm_url = normalize_url(p.get('url', ''))
-        if norm_url not in seen_urls:
-            seen_urls.add(norm_url)
-            unique_papers.append(p)
 
-    entries = "\n".join(e for e in (_build_entry(p) for p in unique_papers) if e)
+    entries = "\n".join(e for e in (_build_entry(p) for p in filtered_papers) if e)
     
     feed_xml = FEED_TEMPLATE.format(
         feed_title=loi_name,
