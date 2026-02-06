@@ -162,6 +162,17 @@ models:
   - openai/gpt-5.2                # tier 4
 ```
 
+## Triggering a Scan from the CLI
+
+If you have the [GitHub CLI](https://cli.github.com/) installed:
+
+```bash
+./scripts/trigger-scan.sh           # Trigger the Hourly Scan workflow
+./scripts/trigger-scan.sh --watch   # Trigger and stream logs
+```
+
+Make sure `gh repo set-default` points to your personal instance first.
+
 ## Syncing Updates from Template
 
 To pull updates from the main Paper Digest repo:
