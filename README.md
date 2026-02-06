@@ -154,7 +154,7 @@ retention:
 ```yaml
 model_tier: 4              # 1-4 (see models list)
 model_temperature: 0.1
-max_workers: 10
+max_workers: 4
 models:
   - google/gemini-2.5-flash-lite  # tier 1
   - openai/gpt-4o-mini            # tier 2
@@ -205,6 +205,16 @@ git merge upstream/main
 3. **Hunt** — Scrape source URLs for DOIs and academic links
 4. **Score** — LLM evaluates relevance (0-100)
 5. **Output** — Generate Atom feed with scored papers
+
+## Error Resilience
+
+LLM scoring includes automatic retry logic:
+
+- **Per-run**: Each API call retries 3× with exponential backoff (2s, 4s, 8s)
+- **Across runs**: Failed papers are automatically re-attempted on subsequent runs
+- **Permanent failure**: After 3 consecutive failed runs (~3 hours), papers are marked as permanently failed and the workflow exits non-zero, triggering a GitHub Actions email notification
+
+Only successfully scored papers appear in the output feed — API errors are never shown to subscribers.
 
 ## Output Format
 

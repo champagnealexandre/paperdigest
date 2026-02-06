@@ -9,6 +9,7 @@ Each LOI has its own keywords, LLM prompt, history, and output feed.
 """
 
 import os
+import sys
 import glob
 import yaml
 import logging
@@ -17,6 +18,8 @@ import concurrent.futures
 import feedparser
 from time import mktime
 from typing import List, Dict, Any
+
+MAX_CROSS_RUN_RETRIES = 3  # After this many failed runs, paper becomes ai_failed
 
 from lib.models import Config, LOIConfig, Paper
 from lib import utils, hunter, ai, feed
@@ -323,8 +326,11 @@ def process_paper(paper: Paper, config: Config, loi: LOIConfig, client) -> Paper
 # MAIN
 # ─────────────────────────────────────────────────────────────────────────────
 
-def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client) -> None:
-    """Process all entries for a single LOI."""
+def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client) -> int:
+    """Process all entries for a single LOI.
+    
+    Returns the number of papers newly promoted to ai_failed this run.
+    """
     logging.info(f"[{loi.slug}] Processing LOI: {loi.name}")
     
     # Ensure data directory exists
@@ -332,10 +338,47 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
     
     # Load history for this LOI
     history = utils.load_history(loi.history_path)
-    seen_urls = {utils.normalize_url(p.get('url', '')) for p in history}
+    
+    # Promote ai_error papers that have exhausted cross-run retries to ai_failed
+    newly_failed = []
+    for p in history:
+        if p.get('stage') == 'ai_error' and p.get('retry_count', 0) >= MAX_CROSS_RUN_RETRIES:
+            p['stage'] = 'ai_failed'
+            newly_failed.append(p)
+    
+    if newly_failed:
+        logging.warning(f"[{loi.slug}] {len(newly_failed)} paper(s) permanently failed after {MAX_CROSS_RUN_RETRIES} retries")
+        for p in newly_failed:
+            utils.log_decision(loi.decisions_path, p.get('title', '?'), "ai_failed", "-", p.get('url', ''))
+    
+    # Build seen_urls: exclude ai_error papers so they can be retried
+    seen_urls = {
+        utils.normalize_url(p.get('url', ''))
+        for p in history
+        if p.get('stage') != 'ai_error'
+    }
+    
+    # Collect retryable ai_error papers from history as candidates
+    retry_candidates: List[Paper] = []
+    for p in history:
+        if p.get('stage') == 'ai_error' and p.get('retry_count', 0) < MAX_CROSS_RUN_RETRIES:
+            paper = Paper(**{k: v for k, v in p.items() if k in Paper.model_fields})
+            paper.retry_count = p.get('retry_count', 0) + 1
+            paper.stage = 'keyword_matched'  # reset for re-processing
+            paper.analysis_result = None
+            retry_candidates.append(paper)
+    
+    if retry_candidates:
+        logging.info(f"[{loi.slug}] Retrying {len(retry_candidates)} previously errored paper(s)")
+    
+    # Remove retryable ai_error entries from history (they'll be re-added after processing)
+    history = [p for p in history if not (p.get('stage') == 'ai_error' and p.get('retry_count', 0) < MAX_CROSS_RUN_RETRIES)]
     
     # Filter entries against this LOI's keywords
     candidates, rejected = filter_entries_for_loi(raw_entries, loi, seen_urls)
+    
+    # Add retry candidates
+    candidates.extend(retry_candidates)
     
     logging.info(f"[{loi.slug}] {len(candidates)} match keywords, {len(rejected)} rejected")
     
@@ -353,7 +396,7 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
         ai_scored = [p for p in history if p.get('stage') == 'ai_scored']
         feed.generate_feed(ai_scored, config.model_dump(), loi.output_feed, 
                           loi_name=loi.name, loi_base_url=loi.base_url)
-        return
+        return len(newly_failed)
     
     # Process papers (hunt + analyze)
     processed: List[Paper] = []
@@ -365,24 +408,32 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
         for fut in concurrent.futures.as_completed(futures):
             try:
                 paper = fut.result()
-                score = paper.analysis_result.get('score', 0)
-                utils.log_decision(loi.decisions_path, paper.title, "ai_scored", score, paper.url)
                 processed.append(paper)
             except Exception as e:
                 errors += 1
                 failed_paper = futures[fut]
                 logging.warning(f"[{loi.slug}] Error processing '{failed_paper.title[:50]}': {e}")
     
-    # Mark processed papers as ai_scored
+    # Separate successful scores from AI errors
+    ai_errors = 0
     for p in processed:
-        p.stage = "ai_scored"
+        if p.analysis_result and p.analysis_result.get('error'):
+            p.stage = 'ai_error'
+            ai_errors += 1
+            utils.log_decision(loi.decisions_path, p.title, "ai_error", "-", p.url)
+        else:
+            p.stage = 'ai_scored'
+            score = p.analysis_result.get('score', 0) if p.analysis_result else 0
+            utils.log_decision(loi.decisions_path, p.title, "ai_scored", score, p.url)
     
     # Stats
-    scores = [p.analysis_result.get('score', 0) for p in processed]
+    scored_papers = [p for p in processed if p.stage == 'ai_scored']
+    scores = [p.analysis_result.get('score', 0) for p in scored_papers]
     avg_score = sum(scores) / len(scores) if scores else 0
-    logging.info(f"[{loi.slug}] Processed {len(processed)} papers (avg score: {avg_score:.0f}, errors: {errors})")
+    error_total = errors + ai_errors
+    logging.info(f"[{loi.slug}] Processed {len(processed)} papers (avg score: {avg_score:.0f}, errors: {error_total})")
     
-    # Update history: AI-scored first, then rejected, then old history
+    # Update history: processed first, then rejected, then old history
     processed_dicts = [p.model_dump(mode='json') for p in processed]
     new_history = processed_dicts + rejected_dicts + history
     utils.save_history(new_history, loi.history_path, config.retention.history_max_entries)
@@ -392,6 +443,8 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
     feed.generate_feed(ai_scored, config.model_dump(), loi.output_feed,
                       loi_name=loi.name, loi_base_url=loi.base_url)
     logging.info(f"[{loi.slug}] Done. History has {len(new_history)} papers ({len(ai_scored)} AI-scored).")
+    
+    return len(newly_failed)
 
 
 def cleanup_old_logs(retention_days: int = 7):
@@ -479,10 +532,17 @@ def main():
     client = ai.get_client(api_key)
     
     # Process each LOI
+    total_failed = 0
     for loi in config.lois:
-        process_loi(loi, raw_entries, config, client)
+        total_failed += process_loi(loi, raw_entries, config, client)
     
     logging.info("All LOIs processed.")
+    
+    # Alert on permanent failures (triggers GitHub Actions email notification)
+    if total_failed > 0:
+        logging.error(f"{total_failed} paper(s) permanently failed AI scoring after {MAX_CROSS_RUN_RETRIES} retries.")
+        print(f"::warning::{total_failed} paper(s) permanently failed AI scoring. Check logs for details.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

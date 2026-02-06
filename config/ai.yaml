@@ -3,7 +3,7 @@
 
 model_tier: 4
 model_temperature: 0.1
-max_workers: 10
+max_workers: 4
 
 models:
   - google/gemini-2.5-flash-lite  # tier 1 (cheapest)
