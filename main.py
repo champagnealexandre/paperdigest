@@ -448,7 +448,12 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
 
 
 def cleanup_old_logs(retention_days: int = 7):
-    """Delete log files older than retention_days."""
+    """Delete log files older than retention_days.
+    
+    Parses dates from filenames (YYYY-MM-DD_HHMM.txt) instead of using
+    filesystem mtime, which is unreliable on GitHub Actions (checkout
+    resets all mtimes to the current time).
+    """
     log_dir = "data/logs"
     if not os.path.exists(log_dir):
         return
@@ -460,8 +465,9 @@ def cleanup_old_logs(retention_days: int = 7):
             continue
         filepath = os.path.join(log_dir, filename)
         try:
-            mtime = datetime.datetime.fromtimestamp(os.path.getmtime(filepath))
-            if mtime < cutoff:
+            date_str = filename.replace('.txt', '')
+            file_date = datetime.datetime.strptime(date_str, '%Y-%m-%d_%H%M')
+            if file_date < cutoff:
                 os.remove(filepath)
                 deleted += 1
         except (OSError, ValueError):
