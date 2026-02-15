@@ -142,72 +142,24 @@ def fetch_feed(feed_cfg: dict, cutoff: datetime.datetime, category: str, stale_d
     return result
 
 
-def write_feed_status(feed_results: List[dict], categories: dict, stale_days: int = 30):
-    """Write feed health report to data/last_feeds-status.md."""
-    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-    
-    # Group results by category
-    by_category = {}
-    for r in feed_results:
-        cat = r['category']
-        if cat not in by_category:
-            by_category[cat] = []
-        by_category[cat].append(r)
-    
-    lines = [f"# Feed Status Report", f"Generated: {now}\n"]
-    
-    # Legend
-    lines.append(f"**Legend:** ✅ Healthy | ⚠️ Stalled ({stale_days}+ days) | ❌ Error | ⬜ Empty (no entries)\n")
-    
-    # Summary
+def log_feed_status(feed_results: List[dict], stale_days: int = 30):
+    """Log feed health summary to the run log."""
     errors = [r for r in feed_results if r['status'] == 'error']
     stalled = [r for r in feed_results if r['status'] == 'stalled']
     empty = [r for r in feed_results if r['status'] == 'empty']
-    
-    lines.append(f"## Summary")
-    lines.append(f"- **Total feeds:** {len(feed_results)}")
-    lines.append(f"- **Healthy:** {len(feed_results) - len(errors) - len(stalled) - len(empty)}")
-    lines.append(f"- **Errors:** {len(errors)}")
-    lines.append(f"- **Stalled ({stale_days}+ days):** {len(stalled)}")
-    lines.append(f"- **Empty:** {len(empty)}\n")
-    
-    # Problem feeds first
-    if errors:
-        lines.append("## ❌ Errors\n")
-        for r in errors:
-            lines.append(f"- **{r['title']}**: {r['error']}")
-            lines.append(f"  - URL: {r['url']}")
-        lines.append("")
-    
-    if stalled:
-        lines.append(f"## ⚠️ Stalled Feeds (no posts in {stale_days}+ days)\n")
-        for r in stalled:
-            age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
-            lines.append(f"- **{r['title']}**: last post {age} days ago")
-        lines.append("")
-    
-    if empty:
-        lines.append("## ⬜ Empty Feeds (no entries returned)\n")
-        for r in empty:
-            lines.append(f"- **{r['title']}**")
-            lines.append(f"  - URL: {r['url']}")
-        lines.append("")
-    
-    # By category
-    lines.append("## Feeds by Category\n")
-    for cat_name in categories.keys():
-        if cat_name not in by_category:
-            continue
-        results = by_category[cat_name]
-        ok_count = len([r for r in results if r['status'] == 'ok'])
-        lines.append(f"### {cat_name} ({ok_count}/{len(results)} healthy)")
-        for r in results:
-            icon = {"ok": "✅", "stalled": "⚠️", "error": "❌", "empty": "⬜"}.get(r['status'], "?")
-            lines.append(f"- {icon} {r['title']}")
-        lines.append("")
-    
-    with open("data/last_feeds-status.md", "w") as f:
-        f.write("\n".join(lines))
+    healthy = len(feed_results) - len(errors) - len(stalled) - len(empty)
+
+    logging.info(f"Feed status: {len(feed_results)} total, {healthy} ok, {len(errors)} errors, {len(stalled)} stalled, {len(empty)} empty")
+
+    for r in errors:
+        logging.warning(f"  ERROR: {r['title']} ({r['url']}) — {r['error']}")
+
+    for r in stalled:
+        age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
+        logging.warning(f"  STALLED: {r['title']} — last post {age}d ago")
+
+    for r in empty:
+        logging.warning(f"  EMPTY: {r['title']} ({r['url']})")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -517,8 +469,8 @@ def main():
         for fut in concurrent.futures.as_completed(futures):
             feed_results.append(fut.result())
     
-    # Write feed status report
-    write_feed_status(feed_results, feed_categories, config.retention.stale_feed_days)
+    # Log feed status
+    log_feed_status(feed_results, config.retention.stale_feed_days)
     
     # Aggregate all raw entries
     raw_entries: List[dict] = []

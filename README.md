@@ -111,7 +111,7 @@ public/
   my-topic.xml       # Output Atom feed
 ```
 
-Each run also generates `data/last_feeds-status.md` with feed health (healthy, stalled, errors).
+Each run also logs feed health (healthy, stalled, errors) to the log file in `data/logs/`.
 
 ### LOI Configuration
 
