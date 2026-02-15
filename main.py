@@ -71,6 +71,7 @@ def load_feeds() -> dict:
 def fetch_feed(feed_cfg: dict, cutoff: datetime.datetime, category: str, stale_days: int = 30) -> dict:
     """Fetch a single RSS feed. Returns status dict with raw entries and metadata."""
     url, title = feed_cfg['url'], feed_cfg['title']
+    feed_stale_days = feed_cfg.get('stale_days', stale_days)
     result = {
         'title': title,
         'url': url,
@@ -132,7 +133,7 @@ def fetch_feed(feed_cfg: dict, cutoff: datetime.datetime, category: str, stale_d
         # Check if stalled
         if latest:
             age = datetime.datetime.now(datetime.timezone.utc) - latest
-            if age.days > stale_days:
+            if age.days > feed_stale_days:
                 result['status'] = 'stalled'
                 
     except Exception as e:

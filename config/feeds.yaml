@@ -72,26 +72,37 @@ feed_categories:
       url: "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=asbcd6"
     - title: "Annual Reviews: Analytical Chemistry"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=anchem&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Astronomy and Astrophysics"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=astro&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Biochemistry"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=se&jc=biochem&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Biophysics"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=s7&jc=biophys&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Condensed Matter Physics"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=68t8&jc=conmatphys&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Earth and Planetary Sciences"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=s0&jc=earth&type=etoc&feed=atom%20"
+      stale_days: 365
     - title: "Annual Reviews: Ecology, Evolution, and Systematics"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sh&jc=ecolsys&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Genetics"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sj&jc=genet&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Microbiology"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sn&jc=micro&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Physical Chemistry"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=sy&jc=physchem&type=etoc&feed=atom"
+      stale_days: 365
     - title: "Annual Reviews: Virology"
       url: "https://www.annualreviews.org/action/showFeed?ui=45mu4&mi=3fndc3&ai=6690&jc=virology&type=etoc&feed=atom"
+      stale_days: 365
     - title: "BioEssays"
       url: "http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1521-1878"
     - title: "Biosystems"
