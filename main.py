@@ -11,6 +11,7 @@ Each LOI has its own keywords, LLM prompt, history, and output feed.
 import os
 import sys
 import glob
+import json
 import yaml
 import logging
 import datetime
@@ -143,8 +144,46 @@ def fetch_feed(feed_cfg: dict, cutoff: datetime.datetime, category: str, stale_d
     return result
 
 
+FEED_STATE_PATH = "data/feed_state.json"
+
+
+def load_feed_state() -> dict:
+    """Load per-feed last-nonempty dates from state file."""
+    if os.path.exists(FEED_STATE_PATH):
+        with open(FEED_STATE_PATH) as f:
+            return json.load(f)
+    return {}
+
+
+def save_feed_state(state: dict):
+    """Save per-feed last-nonempty dates to state file."""
+    with open(FEED_STATE_PATH, "w") as f:
+        json.dump(state, f, indent=2)
+
+
 def log_feed_status(feed_results: List[dict], stale_days: int = 30):
-    """Log feed health summary to the run log."""
+    """Log feed health summary and update feed state tracking."""
+    now_iso = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    state = load_feed_state()
+
+    # Update state for feeds that returned entries; check empty feeds against state
+    for r in feed_results:
+        url = r['url']
+        if r['status'] in ('ok', 'stalled'):
+            # Feed returned entries — update last-nonempty date
+            state[url] = now_iso
+        elif r['status'] == 'empty':
+            # Feed is empty — check if it's been empty too long
+            last_seen = state.get(url)
+            if last_seen:
+                days_empty = (datetime.datetime.now(datetime.timezone.utc) -
+                              datetime.datetime.strptime(last_seen, "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)).days
+                if days_empty > stale_days:
+                    r['status'] = 'stalled'
+                    r['error'] = f'empty for {days_empty}d'
+
+    save_feed_state(state)
+
     errors = [r for r in feed_results if r['status'] == 'error']
     stalled = [r for r in feed_results if r['status'] == 'stalled']
     empty = [r for r in feed_results if r['status'] == 'empty']
@@ -156,11 +195,11 @@ def log_feed_status(feed_results: List[dict], stale_days: int = 30):
         logging.warning(f"  ERROR: {r['title']} ({r['url']}) — {r['error']}")
 
     for r in stalled:
-        age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
-        logging.warning(f"  STALLED: {r['title']} — last post {age}d ago")
-
-    for r in empty:
-        logging.warning(f"  EMPTY: {r['title']} ({r['url']})")
+        if r.get('error') and 'empty' in r['error']:
+            logging.warning(f"  STALLED: {r['title']} — {r['error']}")
+        else:
+            age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
+            logging.warning(f"  STALLED: {r['title']} — last post {age}d ago")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
