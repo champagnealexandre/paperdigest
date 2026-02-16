@@ -103,6 +103,7 @@ config/
 
 data/
   logs/              # Run logs
+  feed_state.json    # Feed health tracking
   my-topic/
     papers.json      # Paper history
     decisions.md     # Decision log
@@ -111,7 +112,7 @@ public/
   my-topic.xml       # Output Atom feed
 ```
 
-Each run also logs feed health (healthy, stalled, errors) to the log file in `data/logs/`.
+Each run logs feed health (healthy, stalled, errors) to the log file in `data/logs/`. Feed state is tracked across runs in `data/feed_state.json` — intermittent feeds (e.g., arXiv) are silently tolerated, but feeds that stay empty beyond the stale threshold are flagged as stalled.
 
 ### LOI Configuration
 
@@ -148,6 +149,15 @@ retention:
   stale_feed_days: 30      # Mark feed as stalled after 30 days without entries
   history_max_entries: 100000
   log_retention_days: 7    # Auto-delete logs older than 7 days
+```
+
+Individual feeds can override the global stale threshold in `feeds.yaml`:
+```yaml
+feed_categories:
+  journals:
+    - title: "Annual Reviews: Biochemistry"
+      url: "https://..."
+      stale_days: 365    # Annual publication — longer threshold
 ```
 
 **ai.yaml** — Model:
