@@ -122,6 +122,8 @@ academic_domains:
   - geoscienceworld.org
   - gsapubs.org
   - iopscience.iop.org/journal/0004-637X
+  - adsabs.harvard.edu
+  - ui.adsabs.harvard.edu
   
   # Optics
   - osapublishing.org
