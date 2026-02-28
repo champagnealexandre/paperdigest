@@ -112,7 +112,11 @@ public/
   my-topic.xml       # Output Atom feed
 ```
 
-Each run logs feed health (healthy, stalled, errors) to the log file in `data/logs/`. Feed state is tracked across runs in `data/feed_state.json` — intermittent feeds (e.g., arXiv) are silently tolerated, but feeds that stay empty beyond the stale threshold are flagged as stalled.
+Each run logs feed health to the log file in `data/logs/`. Feed state is tracked across runs in `data/feed_state.json`, which records per-feed health (last successful date, error history). Feed issues are classified into severity tiers:
+
+- **❌ Action required** — persistent errors (7+ days), feeds stalled beyond their threshold, feeds empty beyond their threshold. These need manual attention (dead URL, discontinued journal, etc.)
+- **⚠️ Warning** — transient errors (< 7 days), recently-empty feeds (3+ days). These usually self-resolve.
+- **Silent** — healthy feeds and briefly-empty feeds (< 3 days, normal for intermittent sources like arXiv).
 
 ### LOI Configuration
 
@@ -147,6 +151,7 @@ retention:
   feed_hours: 168          # Papers stay in feed for 1 week
   fetch_hours: 168         # Fetch papers from last week
   stale_feed_days: 30      # Mark feed as stalled after 30 days without entries
+  error_alert_days: 7      # Days of consecutive errors before ❌ action-required
   history_max_entries: 100000
   log_retention_days: 7    # Auto-delete logs older than 7 days
 ```
