@@ -81,7 +81,8 @@ def fetch_feed(feed_cfg: dict, cutoff: datetime.datetime, category: str, stale_d
         'total': 0,
         'status': 'ok',
         'error': None,
-        'latest_date': None
+        'latest_date': None,
+        'stale_days': feed_stale_days   # per-feed override for stale threshold
     }
     
     try:
@@ -148,58 +149,121 @@ FEED_STATE_PATH = "data/feed_state.json"
 
 
 def load_feed_state() -> dict:
-    """Load per-feed last-nonempty dates from state file."""
-    if os.path.exists(FEED_STATE_PATH):
-        with open(FEED_STATE_PATH) as f:
-            return json.load(f)
-    return {}
+    """Load per-feed state from state file.
+    
+    New schema: {url: {"last_ok": "YYYY-MM-DD", "error_since": null, "consecutive_errors": 0, "last_error": null}}
+    Migrates from old schema {url: "YYYY-MM-DD"} automatically.
+    """
+    if not os.path.exists(FEED_STATE_PATH):
+        return {}
+    with open(FEED_STATE_PATH) as f:
+        raw = json.load(f)
+    # Migrate old format: plain date string → new dict
+    state = {}
+    for url, val in raw.items():
+        if isinstance(val, str):
+            state[url] = {"last_ok": val, "error_since": None, "consecutive_errors": 0, "last_error": None}
+        else:
+            state[url] = val
+    return state
 
 
 def save_feed_state(state: dict):
-    """Save per-feed last-nonempty dates to state file."""
+    """Save per-feed state to state file."""
     with open(FEED_STATE_PATH, "w") as f:
         json.dump(state, f, indent=2)
 
 
-def log_feed_status(feed_results: List[dict], stale_days: int = 30):
-    """Log feed health summary and update feed state tracking."""
-    now_iso = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+def log_feed_status(feed_results: List[dict], stale_days: int = 30, error_alert_days: int = 7):
+    """Log feed health summary with actionable severity tiers.
+    
+    Tiers:
+      ❌  Action required — persistent errors (>error_alert_days), stalled feeds
+      ⚠️  Transient — recent errors or recently-empty feeds (may self-resolve)
+      (silent) — healthy or briefly empty feeds
+    """
+    now_str = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+    now_dt = datetime.datetime.now(datetime.timezone.utc)
     state = load_feed_state()
 
-    # Update state for feeds that returned entries; check empty feeds against state
+    action_required = []  # ❌ lines
+    warnings = []         # ⚠️ lines
+
     for r in feed_results:
         url = r['url']
-        if r['status'] in ('ok', 'stalled'):
-            # Feed returned entries — update last-nonempty date
-            state[url] = now_iso
+        feed_stale = r.get('stale_days', stale_days)
+        entry = state.get(url, {"last_ok": None, "error_since": None, "consecutive_errors": 0, "last_error": None})
+
+        if r['status'] == 'ok':
+            # Healthy — reset error tracking
+            entry["last_ok"] = now_str
+            entry["error_since"] = None
+            entry["consecutive_errors"] = 0
+            entry["last_error"] = None
+
+        elif r['status'] == 'stalled':
+            # Has entries but latest is too old — this is actionable
+            entry["last_ok"] = now_str  # feed did return entries
+            entry["error_since"] = None
+            entry["consecutive_errors"] = 0
+            entry["last_error"] = None
+            age = (now_dt - r['latest_date']).days if r['latest_date'] else '?'
+            action_required.append(f"❌ {r['title']} — stalled, last post {age}d ago (threshold: {feed_stale}d)")
+
+        elif r['status'] == 'error':
+            # Track error persistence
+            entry["last_error"] = r.get('error', 'unknown')
+            if entry["error_since"]:
+                error_since_dt = datetime.datetime.strptime(entry["error_since"], "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)
+                days_erroring = (now_dt - error_since_dt).days
+                entry["consecutive_errors"] += 1
+                if days_erroring >= error_alert_days:
+                    action_required.append(f"❌ {r['title']} — {entry['last_error']} for {days_erroring}d, check URL")
+                else:
+                    warnings.append(f"⚠️  {r['title']} — {entry['last_error']} (errors for {days_erroring}d)")
+            else:
+                entry["error_since"] = now_str
+                entry["consecutive_errors"] = 1
+                warnings.append(f"⚠️  {r['title']} — {entry['last_error']} (first error)")
+
         elif r['status'] == 'empty':
-            # Feed is empty — check if it's been empty too long
-            last_seen = state.get(url)
-            if last_seen:
-                days_empty = (datetime.datetime.now(datetime.timezone.utc) -
-                              datetime.datetime.strptime(last_seen, "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)).days
-                if days_empty > stale_days:
+            # Check how long it's been empty
+            last_ok = entry.get("last_ok")
+            if last_ok:
+                days_empty = (now_dt - datetime.datetime.strptime(last_ok, "%Y-%m-%d").replace(tzinfo=datetime.timezone.utc)).days
+                if days_empty > feed_stale:
                     r['status'] = 'stalled'
-                    r['error'] = f'empty for {days_empty}d'
+                    action_required.append(f"❌ {r['title']} — empty for {days_empty}d (threshold: {feed_stale}d)")
+                elif days_empty >= 3:
+                    warnings.append(f"⚠️  {r['title']} — empty for {days_empty}d")
+            # else: first time seeing this feed empty — silent, no baseline yet
+
+        state[url] = entry
 
     save_feed_state(state)
 
-    errors = [r for r in feed_results if r['status'] == 'error']
-    stalled = [r for r in feed_results if r['status'] == 'stalled']
-    empty = [r for r in feed_results if r['status'] == 'empty']
-    healthy = len(feed_results) - len(errors) - len(stalled) - len(empty)
+    # Count categories for summary
+    n_errors = len([r for r in feed_results if r['status'] == 'error'])
+    n_stalled = len([r for r in feed_results if r['status'] == 'stalled'])
+    n_empty = len([r for r in feed_results if r['status'] == 'empty'])
+    n_ok = len(feed_results) - n_errors - n_stalled - n_empty
+    n_action = len(action_required)
 
-    logging.info(f"Feed status: {len(feed_results)} total, {healthy} ok, {len(errors)} errors, {len(stalled)} stalled, {len(empty)} empty")
+    # Summary line
+    parts = [f"{n_ok} ok"]
+    if n_empty:
+        parts.append(f"{n_empty} empty")
+    if len(warnings):
+        parts.append(f"{len(warnings)} warning(s)")
+    if n_action:
+        parts.append(f"{n_action} action required")
+    logging.info(f"Feed status: {len(feed_results)} feeds — {', '.join(parts)}")
 
-    for r in errors:
-        logging.warning(f"  ERROR: {r['title']} ({r['url']}) — {r['error']}")
-
-    for r in stalled:
-        if r.get('error') and 'empty' in r['error']:
-            logging.warning(f"  STALLED: {r['title']} — {r['error']}")
-        else:
-            age = (datetime.datetime.now(datetime.timezone.utc) - r['latest_date']).days if r['latest_date'] else '?'
-            logging.warning(f"  STALLED: {r['title']} — last post {age}d ago")
+    # Detail lines (action-required first, then warnings)
+    for line in action_required:
+        logging.warning(f"  {line}")
+    for line in warnings:
+        logging.warning(f"  {line}")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -510,7 +574,7 @@ def main():
             feed_results.append(fut.result())
     
     # Log feed status
-    log_feed_status(feed_results, config.retention.stale_feed_days)
+    log_feed_status(feed_results, config.retention.stale_feed_days, config.retention.error_alert_days)
     
     # Aggregate all raw entries
     raw_entries: List[dict] = []
@@ -519,8 +583,7 @@ def main():
         raw_entries.extend(r['entries'])
         total_fetched += r['total']
     
-    errors_count = len([r for r in feed_results if r['status'] == 'error'])
-    logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds ({errors_count} errors)")
+    logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds")
     
     # Initialize AI client (shared across all LOIs)
     api_key = os.getenv("LLM_API_KEY")

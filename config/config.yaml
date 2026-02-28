@@ -8,5 +8,6 @@ retention:
                            # dates (not times), so papers default to midnight and can age out
                            # before being captured with shorter windows.
   stale_feed_days: 30      # Days before a feed is marked as stalled
+  error_alert_days: 7      # Days of consecutive errors before ❌ action-required
   history_max_entries: 100000  # Max papers to keep in history file
   log_retention_days: 7    # Days to keep log files (older logs are deleted)
