@@ -230,6 +230,7 @@ feed_categories:
   journals_pubmed:
     - title: "alife (MIT Press)"
       url: "https://pubmed.ncbi.nlm.nih.gov/rss/journals/9433814/?limit=100&name=Artif%20Life&utm_campaign=journals"
+      stale_days: 120
     - title: "Evol Comput"
       url: "https://pubmed.ncbi.nlm.nih.gov/rss/journals/9513581/?limit=100&name=Evol%20Comput&utm_campaign=journals"
     - title: "Life (MDPI)"
