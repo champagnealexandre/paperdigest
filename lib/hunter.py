@@ -2,6 +2,7 @@ import requests
 import re
 import time
 import logging
+from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from bs4 import BeautifulSoup
 from typing import List
 
@@ -12,8 +13,14 @@ BLOCKING_DOMAINS = {'science.org', 'nature.com', 'cell.com', 'sciencedirect.com'
 SKIP_PATTERNS = [
     '/info/', '/about/', '/terms', '/privacy', '/accessibility', '/cookie',
     '/contact', '/help/', '/sitemap', '/siteindex', '/careers', '/advertising',
-    '/partnerships', '/media-kit', 'query.fcgi?cmd=search', '/entrez/'
+    '/partnerships', '/media-kit', 'query.fcgi?cmd=search', '/entrez/',
+    'index.html', 'index.htm',
 ]
+
+# Minimum non-empty path segments for domain-scan links to be kept.
+# Filters out journal homepages (e.g. /srep/ → 1 segment) while keeping
+# paper links (e.g. /articles/s41598-026-35759-0 → 2 segments).
+_MIN_PATH_SEGMENTS = 2
 
 # Realistic browser headers (default for most sites)
 BROWSER_HEADERS = {
@@ -42,6 +49,10 @@ BOT_UA_DOMAINS = {'phys.org', 'physorg.com', 'sciencex.com', 'medicalxpress.com'
 REQUEST_TIMEOUT = 15  # seconds — press-release CDNs can be slow
 MAX_RETRIES = 1       # retry once on transient failures
 
+# Query parameters to strip (tracking/campaign junk)
+_STRIP_PARAMS = {'utm_source', 'utm_medium', 'utm_campaign', 'utm_content',
+                 'utm_term', 'xtor', 'af', 'ref', 'fbclid', 'gclid'}
+
 
 def _headers_for(url: str) -> dict:
     """Pick headers based on the target domain's bot policy."""
@@ -68,9 +79,23 @@ def _fetch_page(url: str) -> requests.Response:
     raise last_exc  # type: ignore[misc]
 
 
+def _normalize_url(url: str) -> str:
+    """Normalize a URL: dx.doi.org→doi.org, strip tracking params, trailing slash."""
+    url = url.replace('://dx.doi.org/', '://doi.org/')
+    parsed = urlparse(url)
+    # Strip tracking query params
+    params = parse_qs(parsed.query)
+    cleaned = {k: v for k, v in params.items() if k.lower() not in _STRIP_PARAMS}
+    query = urlencode(cleaned, doseq=True) if cleaned else ''
+    # Strip trailing slash from path
+    path = parsed.path.rstrip('/')
+    return urlunparse(parsed._replace(path=path, query=query, fragment=''))
+
+
 def _extract_links(html: str, source_url: str, academic_domains: List[str]) -> set:
     """Extract academic links from HTML via DOI regex + <a> domain scan."""
     found = set()
+    doi_strings = set()  # track raw DOI strings to dedup resolved URLs
 
     # 1. Regex DOI Scan (prioritized - these are the real paper links)
     dois = re.findall(r'10\.\d{4,9}/[^\s"<>]+', html)
@@ -79,6 +104,7 @@ def _extract_links(html: str, source_url: str, academic_domains: List[str]) -> s
         # Skip DOIs with metadata suffixes
         if ';' not in clean_doi:
             found.add(f"https://doi.org/{clean_doi}")
+            doi_strings.add(clean_doi)
 
     # 2. Standard Domain Scan (filter out navigation/legal pages)
     soup = BeautifulSoup(html, 'html.parser')
@@ -89,7 +115,15 @@ def _extract_links(html: str, source_url: str, academic_domains: List[str]) -> s
             if any(pattern in href.lower() for pattern in SKIP_PATTERNS):
                 continue
             if any(d in href for d in academic_domains):
-                found.add(href)
+                normalized = _normalize_url(href)
+                # Skip if this is just a resolved form of a DOI already found
+                if any(doi in normalized for doi in doi_strings):
+                    continue
+                # Skip shallow paths (journal homepages, landing pages)
+                path_segments = [s for s in urlparse(normalized).path.split('/') if s]
+                if len(path_segments) < _MIN_PATH_SEGMENTS:
+                    continue
+                found.add(normalized)
 
     return found
 

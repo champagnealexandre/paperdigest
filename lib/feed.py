@@ -90,9 +90,6 @@ def _build_entry(paper: Dict[str, Any]) -> str:
     else:
         content_parts.append("<p><strong>Links found:</strong> <em>No links found</em></p>")
     
-    # Source link
-    content_parts.append(f'<p><a href="{html.escape(link)}">Read source article</a></p>')
-    
     content = "\n".join(content_parts)
     
     return ENTRY_TEMPLATE.format(
