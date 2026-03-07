@@ -1,3 +1,0 @@
-10:27:35 Loaded 2 LOIs: Complexity Digest, OOL Digest
-10:27:35 Fetching 93 RSS feeds...
-10:27:39 Fetched 1082 papers from 93 feeds (6 errors)

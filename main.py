@@ -503,10 +503,10 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
     return len(newly_failed)
 
 
-def cleanup_old_logs(retention_days: int = 7):
+def cleanup_old_logs(retention_days: int = 14):
     """Delete log files older than retention_days.
     
-    Parses dates from filenames (YYYY-MM-DD_HHMM.txt) instead of using
+    Parses dates from filenames (YYYY-MM-DD.txt) instead of using
     filesystem mtime, which is unreliable on GitHub Actions (checkout
     resets all mtimes to the current time).
     """
@@ -522,7 +522,7 @@ def cleanup_old_logs(retention_days: int = 7):
         filepath = os.path.join(log_dir, filename)
         try:
             date_str = filename.replace('.txt', '')
-            file_date = datetime.datetime.strptime(date_str, '%Y-%m-%d_%H%M')
+            file_date = datetime.datetime.strptime(date_str, '%Y-%m-%d')
             if file_date < cutoff:
                 os.remove(filepath)
                 deleted += 1
@@ -532,16 +532,16 @@ def cleanup_old_logs(retention_days: int = 7):
 
 
 def main():
-    # Setup logging: console + timestamped file
+    # Setup logging: console + daily file (append)
     os.makedirs("data/logs", exist_ok=True)
-    log_file = f"data/logs/{datetime.datetime.now().strftime('%Y-%m-%d_%H%M')}.txt"
+    log_file = f"data/logs/{datetime.datetime.now().strftime('%Y-%m-%d')}.txt"
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s %(message)s',
         datefmt='%H:%M:%S',
         handlers=[
             logging.StreamHandler(),
-            logging.FileHandler(log_file)
+            logging.FileHandler(log_file, mode='a')
         ]
     )
     logging.getLogger("httpx").setLevel(logging.WARNING)

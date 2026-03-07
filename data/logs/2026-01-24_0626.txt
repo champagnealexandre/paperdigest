@@ -1,3 +1,0 @@
-06:26:23 Fetching 93 RSS feeds...
-06:26:29 Fetched 5 papers from 93 feeds (6 errors), 0 match keywords, 5 rejected
-06:26:29 No new keyword matches. Saving rejected papers and regenerating feed.

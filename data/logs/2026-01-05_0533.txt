@@ -1,6 +1,0 @@
-05:33:10 Fetching 93 RSS feeds...
-05:34:13 Fetched 221 papers from 93 feeds (4 errors), 26 match keywords, 195 rejected
-05:34:13 Processing 26 papers...
-05:34:30 Retrying request to /chat/completions in 0.391146 seconds
-05:34:36 Processed 26 papers (avg score: 25, errors: 0)
-05:34:36 Done. History has 562 papers (69 AI-scored).
