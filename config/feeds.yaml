@@ -112,6 +112,8 @@ feed_categories:
       stale_days: 90
     - title: "Journal of Evolutionary Biology (Advance Access)"
       url: "https://academic.oup.com/rss/site_6606/advanceAccess_4185.xml"
+    - title: "Journal of Physics: Complexity"
+      url: "https://iopscience.iop.org/journal/rss/2632-072X"
     - title: "Journal of The Royal Society Interface"
       url: "https://royalsocietypublishing.org/rss/site_1000019/1000012.xml"
     - title: "Journal of Theoretical Biology"
