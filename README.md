@@ -90,7 +90,7 @@ retention:
   fetch_hours: 168         # Fetch window (1 week)
   stale_feed_days: 30      # Days before a feed is flagged as stalled
   error_alert_days: 7      # Days of errors before ❌ action-required
-  history_max_entries: 100000  # Max papers kept in history file
+  history_max_entries: 50000   # Max papers kept in history file
   log_retention_days: 14
 ```
 

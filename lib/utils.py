@@ -21,7 +21,7 @@ def load_history(path: str) -> List[Dict[str, Any]]:
     return []
 
 
-def save_history(data: List[Dict[str, Any]], path: str, max_entries: int = 100000) -> None:
+def save_history(data: List[Dict[str, Any]], path: str, max_entries: int = 50000) -> None:
     """Save paper history, keeping only last max_entries entries."""
     with open(path, 'w') as f:
         json.dump(data[:max_entries], f, indent=2)
@@ -43,7 +43,7 @@ def clean_text(text: str) -> str:
     return " ".join(text.split())
 
 
-def log_decision(decisions_path: str, title: str, status: str, score: Any, link: str, max_entries: int = 100000) -> None:
+def log_decision(decisions_path: str, title: str, status: str, score: Any, link: str, max_entries: int = 50000) -> None:
     """Append a decision to a decisions.md file, keeping last max_entries.
     
     Args:
